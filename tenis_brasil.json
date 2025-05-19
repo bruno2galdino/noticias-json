@@ -7,13 +7,6 @@
         "description": "Roland Garros (Paris, França) – Saibro – € 56.352.000Qualificatório – Primeira rodada –Veja a chave"
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-mantem-ranking-wild-sobe-e-monteiro-despenca.html",
-        "title": "Fonseca mantém ranking, Wild sobe e Monteiro despenca",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/fonseca-miami-olhabola-2025-1-scaled-e1742742531849-1024x684.jpeg",
-        "date": "19/05/2025",
-        "description": "Londres (Inglaterra)– Os três principais brasileiros no ranking da ATP tiveram destinos diferentes na lista desta segunda-feira. O carioca João Fonseca não se moveu e manteve a 65ª colocação, seguindo como o único do país no top 100. Já o paranaense Thiago Wild teve uma boa ascensão, enquanto o cearense Thiago Monteiro amargou uma dura queda."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/carol-meligeni-perde-para-favorita-na-estreia-no-wta-de-rabat.html",
         "title": "Carol Meligeni perde para favorita na estreia no WTA de Rabat",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/carol-rabat-espera-2025.jpg",
@@ -68,5 +61,12 @@
         "image": null,
         "date": "18/05/2025",
         "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/promessa-e-divida-sara-e-jasmine-pulam-do-trampolim-veja-o-video.html",
+        "title": "Promessa é dívida: Sara e Jasmine pulam do trampolim. Veja o vídeo.",
+        "image": null,
+        "date": "18/05/2025",
+        "description": "Roma (Itália)– Campeã de simples no último sábado, a italiana Jasmine Paolini fechou com chave de ouro sua participação no WTA 1000 de Roma ao conquistar o bicampeonato de duplas no Foro Italico."
     }
 ]
