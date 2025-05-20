@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/murray-ja-tem-nova-ocupacao-apos-encerrar-parceria-com-djokovic.html",
+        "title": "Murray já tem nova ocupação após encerrar parceria com Djokovic",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/murray-djokovic-iw-treino-1024x683.jpg",
+        "date": "20/05/2025",
+        "description": "Londres (Inglaterra)– Pouco depois de se separar do sérvio Novak Djokovic, o britânico Andy Murray já tem um novo projeto e não é no tênis. Ele se tornou sócio da empresa de investimentos “Redrice Ventures”, que atua com capitais de risco. Aos 38 anos, o ex-número 1 agora levará sua ética de trabalho e determinação para ter sucesso para seu novo emprego."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-20-05.html",
         "title": "O dia dos brasileiros: veja os resultados desta terça",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/saraiva_piracicaba_fore.jpg",
         "date": "20/05/2025",
         "description": "Roland Garros (Paris, França) – Saibro – € 56.352.000Qualificatório – Primeira rodada"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/tenis-na-lagoa-comemora-21-anos-e-os-80-anos-do-padrinho-koch.html",
+        "title": "“Tênis na Lagoa” comemora 21 anos e os 80 anos do padrinho Koch",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/Tenis-na-Lagoa_21-anos.jpg",
+        "date": "20/05/2025",
+        "description": "Rio de Janeiro (RJ) –O Tênis da Lagoa, projeto social mais longevo do Rio de Janeiro que completou 21 anos de existência, comemorou o aniversário no último domingo, na quadra, com festa também para seu padrinho, Thomaz Koch, que na última semana fez 80 anos de idade."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/imprensa-russa-diz-que-moya-sera-o-futuro-treinador-de-sinner.html",
+        "title": "Imprensa russa diz que Moyá será o futuro treinador de Sinner",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/sinner-rome-2025-monday-2-e1747756454949-1024x682.jpg",
+        "date": "20/05/2025",
+        "description": "Moscou (Rússia)– Com a iminente aposentadoria do australiano Darren Cahill, que encerrará sua carreira no final desta temporada, o italiano Jannik Sinner estava em busca de um substituto. Segundo o meio russoBolshe!, a procura acabou e o próximo treinador do número 1 do mundo será o espanhol Carlos Moyá."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/quadras-de-wimbledon-ja-estao-abertas-para-os-ultimos-detalhes.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/us-open-2027-renovation-ashe-e1747743753259-1024x682.jpg",
         "date": "20/05/2025",
         "description": "Nova York (EUA)– Na última segunda-feira, a USTA anunciou planos para um investimento de US$ 800 milhões no US Open, com destaque para a reformulação do Arthur Ashe Stadium e a criação de um novo centro de desempenho dos jogadores."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/museu-de-rafael-nadal-inaugura-area-em-homenagem-a-roland-garros.html",
-        "title": "Museu de Rafael Nadal inaugura área em homenagem a Roland Garros",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/nadal-museum-statue-e1747742751676-1024x682.jpg",
-        "date": "20/05/2025",
-        "description": "Manacor (Espanha)– O Museu Rafa Nadal em Manacor inaugurou uma nova ala dedicada ao sucesso de Rafael Nadal em Roland Garros. O espaço conta com todas as 14 Coupe des Mousquetaires do espanhol, bem como as raquetes com as quais jogou em Paris e as bandanas da Nike que usou durante os anos em que foi coroado campeão na capital francesa."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/romboli-supera-a-estreia-em-hamburgo-ao-lado-de-molteni.html",
-        "title": "Romboli supera a estreia em Hamburgo ao lado de Molteni",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/54339083395_ca46f8b496_o.jpg",
-        "date": "20/05/2025",
-        "description": "Hamburgo (Alemanha)– Começou bem a semana para Fernando Romboli, que estreou com vitória na chave de duplas do ATP 500 de Hamburgo. Jogando ao lado do argentino Andres Molteni, ele venceu o sueco Andre Goransson e o holandês Sem Verbeek com parciais de 7/6 (7-4) e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/boscardin-estreia-com-vitoria-em-tres-sets-em-itf-no-chile.html",
-        "title": "Boscardin estreia com vitória em três sets em ITF no Chile",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/11/boscardin-temuco-rebate-2024-e1732726230840-1024x683.jpg",
-        "date": "19/05/2025",
-        "description": "Coquimbo (Chile) –Os brasileiros tiveram rumos opostos na rodada desta segunda-feira no ITF M25 de Coquimbo, em quadras de saibro no Chile. O catarinense Pedro Boscardin estreou com vitória em três sets, enquanto o carioca Wilson Leite perdeu na primeira rodada."
     }
 ]
