@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/404604-10-noticias-de-tecnologia-para-voce-comecar-o-dia-2005.htm",
+        "title": "10 notícias de tecnologia para você começar o dia (20/05)",
+        "description": "Comece esta terça-feira (20) por dentro de tudo o que rolou no mundo da Ciência e Tecnologia",
+        "image": "https://tm.ibxk.com.br/2025/05/19/19122104532080.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/501426-caotico-e-divertido-deliver-at-all-costs-e-o-excelente-simulador-de-correios-da-konami-review-em-andamento.htm",
         "title": "Caótico e divertido, Deliver At All Costs é o excelente ‘Simulador de Correios’ da Konami - Review em Andamento",
         "description": "Com estética retrô e jogabilidade caótica, Deliver At All Costs é uma surpresa muito bem-vinda para o gênero!",
@@ -25,13 +32,6 @@
         "title": "Netflix recebe 8 lançamentos de peso nesta semana! Veja lista de indicações",
         "description": "Mais uma semana recheada de lançamentos na Netflix chegou; veja as 7 principais novidades!",
         "image": "https://tm.ibxk.com.br/2025/05/19/19160255640045.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/404606-matebook-fold-novo-notebook-dobravel-e-ultrafino-da-huawei-tem-so-proprio.htm",
-        "title": "MateBook Fold: novo notebook dobrável e ultrafino da Huawei tem SO próprio",
-        "description": "Modelo MateBook Fold da Huawei roda a partir do HarmonyOS, tem tela de 18 polegadas ao todo e será vendido primeiro só na China.",
-        "image": "https://tm.ibxk.com.br/2025/05/19/19164732788046.jpg",
         "date": null
     }
 ]
