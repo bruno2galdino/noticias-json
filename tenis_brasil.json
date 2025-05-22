@@ -1,10 +1,38 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/mauresmo-avisa-voce-nunca-pode-descartar-djokovic-isso-e-certo.html",
-        "title": "Mauresmo avisa: “Você nunca pode descartar Djokovic, isso é certo”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/05/djokovic-sorri-rg-2024-e1717175998356-1024x684.jpeg",
+        "url": "https://tenisbrasil.uol.com.br/demoliner-e-zormann-confirmam-favoritismo-em-skopje-e-vao-a-semi.html",
+        "title": "Demoliner e Zormann confirmam favoritismo em Skopje e vão à semi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/zormann_demoliner_santiago-1024x672.jpg",
         "date": "22/05/2025",
-        "description": "Paris (França)– Sempre um forte candidato nos torneios que disputa, embora ultimamente os resultados não estejam muito bons, o sérvio Novak Djokovic não pode ser descartado em Roland Garros, pelo menos é o que defende Amelie Mauresmo, a diretora do Grand Slam francês."
+        "description": "Skopje (Macedônia do Norte)– A dupla 100%brasileira formada pelo gaúcho Marcelo Demoliner e o paulista Marcelo Zormann segue fazendo bonito no challenger de Skopje. Cabeças de chave 4, eles se garantiram na semi ao bater, nesta quinta-feira, o israelense Daniel Cukierman e o alemão Michael Geerts de virada, com parciais de 6/7 (3-7), 6/2 e 10-6."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bia-da-salto-na-corrida-da-temporada-com-semi-e-pode-voltar-ao-top-20.html",
+        "title": "Bia dá salto na corrida da temporada com semi e pode voltar ao top 20",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/bia-estrasburgo-vibra-2025-e1747668995475-1024x683.jpg",
+        "date": "22/05/2025",
+        "description": "Estrasburgo (França)– Aos poucos a paulista Beatriz Haddad Maia parece estar reencontrando o caminho depois de passar por uma fase ruim neste começo de ano. Com as vitórias ea semifinal no WTA 500 de Estrasburgo, nesta semana, ela vai dar um bom salto na corrida da temporada e entrará para a faixa das 60 melhores."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ce-vence-rodada-dupla-na-eslovenia-pedretti-tambem-faz-quartas.html",
+        "title": "Cé vence rodada dupla na Eslovênia, Pedretti também faz quartas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/04/53628158255_e8e3a32f7e_k-1024x683.jpg",
+        "date": "22/05/2025",
+        "description": "Portoroz (Eslovênia) –A gaúcha Gabriela Cé superou uma rodada dupla nesta quinta-feira e garantiu vaga nas quartas de final do ITF W50 de Portoroz, em quadras de saibro na Eslovênia."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/romboli-faz-semi-em-hamburgo-e-vai-igualar-seu-melhor-ranking.html",
+        "title": "Romboli faz semi em Hamburgo e vai igualar seu melhor ranking",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/romboli_molteni_hamburgo-1024x662.jpg",
+        "date": "22/05/2025",
+        "description": "Hamburgo (Alemanha)– A temporada continua muito boa para Fernando Romboli, que vai disputar sua terceira semifinal de ATP só em 2025. Desta vez ao lado do argentino Andres Molteni, ele se garantiu na penúltima rodada do ATP 500 de Hamburgo ao bater nesta quinta-feira o holandês Sander Arends e o britânico Luke Johnson com duplo 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/samsonova-volta-a-semifinal-em-estrasburgo-e-enfrenta-collins.html",
+        "title": "Samsonova volta à semifinal em Estrasburgo e enfrenta Collins",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/samsonova_estras_vibra-1024x641.jpg",
+        "date": "22/05/2025",
+        "description": "Estrasburgo (França) –A russa Liudmila Samsonova garantiu a última vaga nas semifinais do WTA 500 de Estrasburgo. Oitava cabeça de chave e 19ª do ranking, ela venceu a espanhola Paula Badosa, número 10 do mundo, por 6/4, 3/6 e 6/4 em 2h23 de partida nesta quinta-feira."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-22-05.html",
@@ -14,59 +42,31 @@
         "description": "WTA 500 de Estrasburgo (França) – Saibro – 925.661 eurosQuartas de final –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-comemora-reencontro-com-roland-garros-e-destaca-nadal.html",
+        "title": "Alcaraz comemora reencontro com Roland Garros e destaca Nadal",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/alcaraz-roland-garros-treino.jpg",
+        "date": "22/05/2025",
+        "description": "Paris (França)– Um dos principais candidatos ao título de Roland Garros este ano, entrando na disputa como o cabeça de chave número 2 e vindo de dois títulos de Masters 1000, o espanhol Carlos Alcaraz terá a árdua missão de defender o título no saibro parisiense. Para chegar ao nível mais alto do circuito, ele teve que batalhar muito, conforme contou em entrevista ao site do torneio."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/zverev-culpa-doenca-por-derrota-e-acaba-repreendido-por-becker.html",
+        "title": "Zverev culpa doença por derrota e acaba repreendido por Becker",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/zverev-hamburgo-rebate-2025-e1747932587607-1024x685.jpeg",
+        "date": "22/05/2025",
+        "description": "Hamburgo (Alemanha)– Eliminado logo em sua estreia no ATP 500 de Hamburgo, o tenista da casa Alexander Zverev revelou que estava doente e que isso atrapalhou seu desempenho na partida contra o francês Alexander Muller, que surpreendeu o principal favorito na competição na quarta-feira e triunfou com o placar final de 6/3, 4/6 e 7/6 (7-5)"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/mauresmo-avisa-voce-nunca-pode-descartar-djokovic-isso-e-certo.html",
+        "title": "Mauresmo avisa: “Você nunca pode descartar Djokovic, isso é certo”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/05/djokovic-sorri-rg-2024-e1717175998356-1024x684.jpeg",
+        "date": "22/05/2025",
+        "description": "Paris (França)– Sempre um forte candidato nos torneios que disputa, embora ultimamente os resultados não estejam muito bons, o sérvio Novak Djokovic não pode ser descartado em Roland Garros, pelo menos é o que defende Amelie Mauresmo, a diretora do Grand Slam francês."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/djokovic-completa-38-anos-buscando-o-100o-titulo-numa-carreira-brilhante.html",
         "title": "Djokovic completa 38 anos buscando o 100º título numa carreira brilhante",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/djokovic-madri-entrada-2025-1024x683.jpeg",
         "date": "22/05/2025",
         "description": "Genebra (Suíça) –O ex-número 1 do mundo Novak Djokovic, atualmente em 6º lugar no ranking mundial, completa 38 anos nesta quinta-feira. O sérvio disputa nesta semana o ATP 250 de Genebra, onde se prepara para a disputa de Roland Garros, torneio que venceu em 2016, 2021 e 2023 e foi vice-campeão quatro vezes."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/estrasburgo-veja-esta-jogada-de-bia-na-vitoria-sobre-navarro.html",
-        "title": "Estrasburgo: veja esta jogada de Bia na vitória sobre Navarro",
-        "image": null,
-        "date": "22/05/2025",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bia-vira-contra-navarro-e-faz-semi-contra-rybakina.html",
-        "title": "Bia vira contra Navarro e faz semi contra Rybakina",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/bia_stras_back_saibro-1024x682.jpg",
-        "date": "22/05/2025",
-        "description": "Estrasburgo (França)– Depois de ver a número 9 do mundo sacar para a vitória no final do segundo set, Beatriz Haddad Maia conseguiu grande recuperação e avançou para a semifinal do WTA 500 de Estrasburgo com grande virada. A brasileira marcou as parciais de 3/6, 7/6 (7-3) e 6/2, após 3 horas de esforço."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-escapa-de-perigos-mas-enfrenta-nishikori-na-estreia.html",
-        "title": "Alcaraz escapa de perigos, mas enfrenta Nishikori na estreia",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/alcaraz-sorteio-roland-garros-2025-scaled-e1747924802754-1024x684.jpeg",
-        "date": "22/05/2025",
-        "description": "Paris (França)– O sorteio da chave de Roland Garros colocou o sérvio Novak Djokovic e o alemão Alexander Zverevdo lado do italiano Jannik Sinner, evitando que o espanhol Carlos Alcaraz tenha que enfrentar um desses três nomes antes da final. Porém, o atual campeão do torneio também terá seus desafios se quiser buscar o bicampeonato no saibro parisiense."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/numero-70-sera-primeira-adversaria-de-bia-em-roland-garros.html",
-        "title": "Número 70 será primeira adversária de Bia em Roland Garros",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/bia_estrasburgo_back-1024x640.jpg",
-        "date": "22/05/2025",
-        "description": "Paris (França)– O sorteio para a chave principal de Roland Garros reservou boa notícia para Beatriz Haddad Maia. Cabeça 23 do Grand Slam francês, ela iniciará sua campanha contra a norte-americana Hailey Baptiste, atual número 70ª do ranking, a quem nunca enfrentou e que tem currículo pouco expressivo sobre o saibro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sorteio-da-chave-coloca-sinner-no-mesmo-lado-de-djokovic-e-zverev.html",
-        "title": "Sorteio da chave coloca Sinner no mesmo lado de Djokovic e Zverev",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/sinner-rome-2025-monday1-1024x576.jpg",
-        "date": "22/05/2025",
-        "description": "Paris (França)– Atual número 1 do mundo, o italiano Jannik Sinner não terá moleza em sua busca pela primeira conquista em Roland Garros, pegando uma chave cheia de percalços no caminho. Ele não deve ter trabalho no começo, vai estrear contra o francês Arthur Rinderknech e pode aposentar o veterano Richard Gasquet na partida seguinte."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/monteiro-disputa-25o-slam-e-estreia-contra-85o-do-ranking.html",
-        "title": "Monteiro disputa 25º Slam e estreia contra 85º do ranking",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/monteiro_oeiras_slices_bone.jpg",
-        "date": "22/05/2025",
-        "description": "Paris (França)– Embora viva um momento instável e com poucos resultados positivos, o canhoto cearense Thiago Monteiro entrou diretamente em Roland Garros devido a seu bom ranking de seis semanas atrás e terá chance de se recuperar. Ele estreará contra o tcheco Vit Kopriva, 85º do ranking, a quem nunca enfrentou."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-enfrenta-ex-top-10-hurkacz-na-estreia-de-paris.html",
-        "title": "Fonseca enfrenta ex-top 10 Hurkacz na estreia de Paris",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/fonseca-sacando-madri-2025-1024x740.png",
-        "date": "22/05/2025",
-        "description": "Paris (França)– Em sua primeira participação em Roland Garros, o carioca João Fonseca terá pela frente um adversário de extenso currículo. Ele foi sorteado para enfrentar na estreia o polonês Hubert Hurkacz, ex-top 10 e agora 31º do ranking."
     }
 ]
