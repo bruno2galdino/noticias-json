@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/601322-compre-produtos-do-stitch-e-concorra-a-uma-viagem-para-o-caribe-saiba-mais.htm",
+        "title": "Compre produtos do Stitch e concorra a uma viagem para o Caribe; saiba mais",
+        "description": "Compre pelúcias, mochilas ou itens do Stitch a partir de R$49,90 e concorra a uma viagem ao Caribe com 3 amigos!",
+        "image": "https://tm.ibxk.com.br/2025/05/22/22091503819018.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/celular/404672-galaxy-z-fold-7-deve-ser-maior-e-mais-fino-confira-foto.htm",
+        "title": "Galaxy Z Fold 7 deve ser maior e mais fino; confira foto",
+        "description": "Novo dobrável topo de linha da Samsung teve imagem e renderizações vazadas que apontam aumento na proporção do aparelho",
+        "image": "https://tm.ibxk.com.br/2024/09/06/06125815910160.png",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/transportes/404669-proibidas-uber-e-99-moto-operam-normalmente-em-sp.htm",
+        "title": "Proibidas, Uber e 99 Moto operam normalmente em SP",
+        "description": "Empresas pedem esclarecimentos à prefeitura e é possível pedir corridas nos apps; autoridades citam “descumprimento de decisão judicial”",
+        "image": "https://tm.ibxk.com.br/2025/05/22/22095258823055.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/601323-netflix-tera-filmes-e-series-de-peso-em-junho-confira-todos-os-lancamentos.htm",
         "title": "Netflix terá filmes e séries de peso em junho! Confira todos os lançamentos",
         "description": "Junho está chegando recheado de novidades no catálogo da Netflix; confira a lista completa de estreias",
@@ -11,27 +32,6 @@
         "title": "Em parceria com ex-Apple, OpenAI lançará um dispositivo que não é celular e nem relógio",
         "description": "Dona do ChatGPT desembolsou mais de R$ 36 bilhões por companhia de hardware e contratos de design, com planos para lançar o próprio eletrônico em um futuro próximo",
         "image": "https://tm.ibxk.com.br/2025/05/22/22085839125003.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/501443-prime-gaming-recebe-mais-5-jogos-gratis-hoje-22-veja-a-lista-e-como-resgatar.htm",
-        "title": "Prime Gaming recebe mais 5 jogos grátis hoje (22)! Veja a lista e como resgatar",
-        "description": "O Prime Gaming liberou mais 5 jogos gratuitos para os membros do Amazon Prime nesta quinta-feira (22), incluindo Thief 2; Confira!",
-        "image": "https://tm.ibxk.com.br/2025/05/21/21175219968076.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/404662-carregadores-portateis-com-ate-52-de-desconto-na-amazon-aproveite.htm",
-        "title": "Carregadores portáteis com até 52% de desconto na Amazon; aproveite",
-        "description": "Com opções Geonav, ELG e muito mais, Amazon tem diversas opções de power bank com desconto por tempo limitado; confira as oportunidades e aproveite os preços mais baixos!",
-        "image": "https://tm.ibxk.com.br/2025/05/21/21171412686009.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/404668-coinbase-confirma-que-vazamento-afetou-mais-de-69-mil-consumidores.htm",
-        "title": "Coinbase confirma que vazamento afetou mais de 69 mil consumidores",
-        "description": "Alvo de um vazamento cibernético proveniente de suborno, a Coinbase confirmou o vazamento de dados de 69 mil consumidores; empresa oferece amplo suporte para as vítimas.",
-        "image": "https://tm.ibxk.com.br/2025/05/22/22093025907029.jpg",
         "date": null
     }
 ]
