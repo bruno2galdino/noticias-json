@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/atp-de-hamburgo-rublev-e-cobilli-vao-a-final-veja-o-resumo.html",
-        "title": "ATP de Hamburgo: Rublev e Cobilli vão à final. Veja o resumo.",
-        "image": null,
-        "date": "23/05/2025",
-        "description": ""
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-23-05.html",
         "title": "O dia dos brasileiros: veja os resultados desta sexta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/bia_stras_back_lado-1024x682.jpg",
@@ -14,9 +7,23 @@
         "description": "WTA 500 de Estrasburgo (França) – Saibro – 925.661 eurosSemifinal –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/djokovic-mantem-o-sonho-do-100o-titulo-significa-muito.html",
+        "title": "Djokovic mantém o sonho do 100º título: “Significa muito”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/djokovic_genebra_acena_longe-1024x531.jpg",
+        "date": "23/05/2025",
+        "description": "Genebra (Suíça) –Finalista do ATP 250 de Genebra, Novak Djokovic terá mais uma chance de conquistar seu centésimo título no circuito da ATP. Será a terceira oportunidade para o sérvio, que havia ficado com o vice nos Masters 1000 de Xangai no ano passado e de Miami neste ano. Ele volta à quadra neste sábado às 10h (de Brasília) para enfrentrar o polonêsHubert Hurkacz, 31º do ranking."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/atp-de-hamburgo-rublev-e-cobilli-vao-a-final-veja-o-resumo.html",
+        "title": "ATP de Hamburgo: Rublev e Cobilli vão à final. Veja o resumo.",
+        "image": null,
+        "date": "23/05/2025",
+        "description": ""
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/em-seu-2o-slam-fonseca-assimila-licoes-e-preve-jogo-duro-com-hurkacz.html",
         "title": "Em seu 2º Slam, Fonseca assimila lições e prevê jogo duro com Hurkacz",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/Joao_Fonseca_GSP28918-1024x683.jpeg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/fonseca_coletiva_rg-1024x682.jpg",
         "date": "23/05/2025",
         "description": "Paris (França) –Em sua segunda experiência na chave principal de um Grand Slam, João Fonseca assimila as lições que teve na Austrália, onde furou o quali e ainda venceu Andrey Rublev pela chave principal, e também de outros grandes torneios que ele tem se acostumado a disputar ao longo da temporda. O carioca de 18 anos e número 1 do Brasil também projetou sua partida de estreia de estreia,diante do polonês Hubert Hurkacz, 31º do ranking e vindo de dois ótimos resultados no saibro, as quartas do Masters 1000 de Roma e a final de Genebra."
     },
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/fonseca-iw-2025-reaction-r1-e1741370646428-1024x682.jpg",
         "date": "23/05/2025",
         "description": "Halle (Alemanha)– Assim como aconteceu na temporada passada, o carioca João Fonseca novamente recebeu um dos convites para a disputa do ATP 500 de Halle, onde estava inscrito, masficou longe de entrar direto pelo ranking."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/samsonova-supera-collins-e-decide-em-estrasburgo-contra-rybakina.html",
-        "title": "Samsonova supera Collins e decide em Estrasburgo contra Rybakina",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/samsonova_estras_vibra_qf-1-1024x682.jpg",
-        "date": "23/05/2025",
-        "description": "Estrasburgo (França) –Na segunda semifinal do WTA 500 de Estrasburgo, a russa Liudmila Samsonova garantiu seu lugar na decisão depois de vencer a norte-americana Danielle Collins por 6/4 e 6/2 em 1h27 de partida."
     }
 ]
