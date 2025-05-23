@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/404687-10-noticias-de-tecnologia-para-voce-comecar-o-dia-2305.htm",
+        "title": "10 notícias de tecnologia para você começar o dia (23/05)",
+        "description": "Comece esta sexta-feira (23) por dentro de tudo o que rolou no mundo da Ciência e Tecnologia",
+        "image": "https://tm.ibxk.com.br/2025/02/12/12105048550152.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/404689-trump-ameaca-taxar-a-apple-em-25-se-empresa-nao-fabricar-iphones-nos-eua.htm",
+        "title": "Trump ameaça taxar a Apple em 25% se empresa não fabricar iPhones nos EUA",
+        "description": "Presidente dos EUA disse em rede social que não quer ver a empresa do país produzindo aparelhos em outras regiões, como China e Índia; Apple ainda não se manifestou",
+        "image": "https://tm.ibxk.com.br/2025/05/23/23090053523006.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/501445-steam-recebe-7-jogos-gratis-nesta-semana-veja-lista-e-resgate.htm",
         "title": "Steam recebe 7 jogos grátis nesta semana! Veja lista e resgate",
         "description": "Desta vez, o Steam traz novos jogos grátis que apelam a fãs de jogos como Katamari Damacy, DOOM e Vampire Survivors; confira",
@@ -18,20 +32,6 @@
         "title": "7 filmes e séries em alta para ver na Netflix neste fim de semana",
         "description": "Fim de semana com filmes e séries da Netflix? Confira 7 ótimas indicações para aproveitar!",
         "image": "https://tm.ibxk.com.br/2025/05/05/05105519183039.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/501446-como-funciona-o-retro-classics-do-xbox-game-pass-conheca-servico-e-veja-a-lista-de-jogos.htm",
-        "title": "Como funciona o Retro Classics do Xbox Game Pass? Conheça serviço e veja a lista de jogos",
-        "description": "Na última quarta (21), a Microsoft lançou o Retro Classics, novo catálogo de jogos clássicos que já está disponível sem custos adicionais no Game Pass; Conheça!",
-        "image": "https://tm.ibxk.com.br/2025/05/22/22095321589056.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/402707-o-que-e-power-bi-como-funciona-e-como-utilizar.htm",
-        "title": "O que é Power BI, como funciona e como utilizar?",
-        "description": "Power BI para iniciantes: um guia básico sobre a ferramenta da Microsoft. Entenda para que serve o Power BI e como ela pode ajudar no trabalho!",
-        "image": "https://tm.ibxk.com.br/2025/02/18/18180637250063.jpg",
         "date": null
     }
 ]
