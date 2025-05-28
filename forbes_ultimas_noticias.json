@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mkt/2025/05/cmos-para-alem-do-glamour-da-cadeira-um-desafio-imenso-de-negocios/",
+        "title": "CMOs: para Além do Glamour da Cadeira, um Desafio Imenso de Negócios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/CMOs-300x200.jpg",
+        "date": "28/05/2025",
+        "description": "Durante o Forbes Summit Brands & Co, no Rio2C, Tatiana Ponce, da Natura e Nathalia Garcia, do Bradesco, falaram sobre o novo marketing"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/05/sobe-para-24-o-numero-de-paises-que-restringiram-as-importacoes-de-carne-de-frango-do-brasil/",
+        "title": "Sobe para 24 o Número de Países Que Restringiram as Importações de Carne de Frango do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_GripeAviaria_26MAI2025_Getty-300x200.jpg",
+        "date": "28/05/2025",
+        "description": "O Kuwait foi o último a suspender a importação da proteína de todo o território brasileiro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/05/produtividade-dos-canaviais-do-centro-sul-cai-166-em-abril/",
+        "title": "Produtividade dos Canaviais do Centro-sul Cai 16,6% em Abril",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_Cana_26MAI2025_Getty-300x200.jpg",
+        "date": "28/05/2025",
+        "description": "A moagem de cana da região teve um início mais lento, mas deve se recuperar mais adiante na safra"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/05/evolua-etanol-quer-priorizar-o-combustivel-de-milho/",
+        "title": "Evolua Etanol Quer Priorizar o Combustível de Milho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_MilhoEtanol_26MAI2025_Getty-300x200.jpg",
+        "date": "28/05/2025",
+        "description": "A empresa também projeta crescer com novas parcerias com produtores em regiões estratégicas no centro-norte do país"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/05/musk-se-diz-decepcionado-com-projeto-de-gastos-de-trump-e-acredita-que-medida-enfraquece-o-doge/",
         "title": "Musk se Diz ‘Decepcionado’ com Projeto de Gastos de Trump e Acredita Que Medida Enfraquece o DOGE",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-elon-musk-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Bandeira-da-Uniao-Europeia-Imagem-Reuters-300x200.webp",
         "date": "28/05/2025",
         "description": "União Europeia busca apoiar a transição e a recuperação do país após a derrubada do ex-presidente Bashar al-Assad"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/privilegio-infinito-visa-lanca-cartao-focado-no-publico-de-alta-renda/",
-        "title": "Privilégio Infinito: Visa Lança Cartão Focado no Público de Alta Renda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Tamanho-site-Tech-7-300x200.png",
-        "date": "28/05/2025",
-        "description": "Novidade oferecerá experiências únicas a clientes, com acesso facilitado a grandes eventos, restaurantes premiados e hotéis de luxo para pessoas com renda superior a R$ 30 milhões"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/05/agencia-da-onu-para-o-trabalho-reduz-previsao-de-empregos-globais-em-meio-a-desaceleracao-economica/",
-        "title": "Agência da ONU para o Trabalho Reduz Previsão de Empregos Globais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/carreira-organizacao-internacional-do-trabalho-getty-300x200.jpg",
-        "date": "28/05/2025",
-        "description": "Cerca de 53 milhões de empregos serão criados este ano, 7 milhões a menos do que se pensava anteriormente, segundo a Organização Internacional do Trabalho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/por-que-a-trump-media-esta-apostando-us-25-bilhoes-no-bitcoin/",
-        "title": "Por Que a Trump Media Está Apostando US$ 2,5 Bilhões no Bitcoin?",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/06/Cripto-6-300x200.jpg",
-        "date": "28/05/2025",
-        "description": "Movimento reflete estratégia da Casa Branca pró-criptomoedas prometida por Donald Trump desde a sua campanha presidencial"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/05/stellantis-nomeia-antonio-filosa-como-presidente-global/",
-        "title": "Stellantis Nomeia Antonio Filosa Como Presidente Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Negocios-AntonioFilosa3-200520-_Credito_Leo-Lara-1-300x200.webp",
-        "date": "28/05/2025",
-        "description": "Executivo substitui Carlos Tavares, que deixou o cargo em dezembro após uma queda nas vendas da montadora, dona de marcas como Fiat, Jeep, Peugeot e Chrysler"
     }
 ]
