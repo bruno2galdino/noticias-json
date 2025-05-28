@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/05/joao-fonseca-atribui-a-guga-apoio-da-torcida-em-roland-garros/",
+        "title": "João Fonseca Atribui a Guga Apoio da Torcida em Roland Garros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-28T150023Z_1_LYNXNPEL4R0TG_RTROPTP_4_TENIS-FONSECA-APOIO-GUGA-300x200.jpg",
+        "date": "28/05/2025",
+        "description": "Tenista prefere manter o foco na evolução pessoal e não se deixar abalar pela pressão das expectativas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/05/governo-amplia-para-23-lista-de-produtos-siderurgicos-sujeitos-a-tarifa-de-25/",
+        "title": "Governo Amplia para 23 Lista de Produtos Siderúrgicos Sujeitos À Tarifa de 25%",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/05/Siderurgica-China-Trabalhador-300x200.jpg",
+        "date": "28/05/2025",
+        "description": "Proteção da indústria nacional foi renovada por mais 12 meses e incluiu mais quatro produtos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/05/ue-suspende-sancoes-economicas-contra-siria/",
         "title": "UE Suspende Sanções Econômicas contra Síria",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Bandeira-da-Uniao-Europeia-Imagem-Reuters-300x200.webp",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/lista_midas_1500x1000-1-300x200.jpg",
         "date": "28/05/2025",
         "description": "A 24ª edição anual da Lista Midas é novamente liderada por Alfred Lin"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/05/como-quebrar-o-habito-de-reclamar-constantemente-3-estrategias-praticas/",
-        "title": "Como Quebrar o Hábito de Reclamar Constantemente: 3 Estratégias Práticas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/0x0-1-2-300x200.webp",
-        "date": "28/05/2025",
-        "description": "Expressar emoções é saudável — até virar um hábito que drena sua energia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/05/frango-impulsiona-lucro-da-pilgrims-pride/",
-        "title": "Frango Impulsiona Lucro da Pilgrim’s Pride",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_PilgrimsPride_26MAI2025_Getty-300x200.jpg",
-        "date": "28/05/2025",
-        "description": "Maior consumo da proteína no mundo e preços atrativos fortalecem a tese de investimento da empresa"
     }
 ]
