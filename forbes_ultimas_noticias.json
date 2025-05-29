@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/05/elon-musk-anuncia-saida-do-governo-dos-eua-apos-criticar-novo-projeto-de-trump/",
+        "title": "Elon Musk Anuncia Saída do Governo dos EUA após Criticar Novo Projeto de Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Musk-DOGE-300x200.png",
+        "date": "29/05/2025",
+        "description": "O bilionário liderou o departamento responsável por promover corte de custos no governo federal"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/05/pre-mercado-acoes-sobem-apos-tribunal-de-nova-york-barrar-tarifas-de-trump/",
+        "title": "Pré-mercado: Ações Sobem após Tribunal de Nova York Barrar Tarifas de Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "29/05/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 29 de maio"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/05/especial-esg-e-destaque-da-nova-edicao-da-forbes-brasil/",
         "title": "Especial ESG É Destaque da Nova Edição da Forbes Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Artur-Grynbaum_ed130_esg-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/music-300x200.png",
         "date": "29/05/2025",
         "description": "Pesquisadores da Finlândia descobriram que determinadas músicas podem acionar o sistema receptor opióides"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/05/europa-vira-mercado-atrativo-para-gigantes-americanas-da-cannabis/",
-        "title": "Cannabis: Europa entra no radar de gigantes americanas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_CannabisUE_26MAI2025_Getty-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Com avanço na legalização e potencial de exportação, mercado europeu de maconha pode crescer mais de 400% até 2035"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/05/commandaria-o-vinho-doce-mais-antigo-do-mundo-renasce-no-chipre/",
-        "title": "Commandaria, o Vinho Doce Mais Antigo do Mundo, Renasce no Chipre",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/WSB_CommandariaChipre_26MAI2025_BKWinePhotography-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Produzido na região desde as Cruzadas, a bebida é feita a partir das uvas autóctones tinta mavro e branca xynisteri"
     }
 ]
