@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/05/nvidia-tem-impacto-de-us-8-bilhoes-nas-vendas-mas-numero-total-supera-expectativas/",
+        "title": "Nvidia Tem Impacto de US$ 8 Bilhões nas Vendas, Mas Número Total Supera Expectativas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-tech-nvidia-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Durante divulgação, o presidente da empresa, Jensen Huang, criticou restrições impostas à empresa por Donald Trump"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/05/taxa-de-desemprego-de-66-fica-abaixo-do-esperado-pelo-mercado-e-pais-tem-recorde-de-carteira-assinada/",
+        "title": "Taxa de Desemprego de 6,6% Fica Abaixo do Esperado Pelo Mercado e País Tem Recorde de Carteira Assinada",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/05/desemprego-brasil-carteira-de-trabalho-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Número indica que economia segue aquecida, o que pode dificultar o controle da inflação"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/05/elon-musk-anuncia-saida-do-governo-dos-eua-apos-criticar-novo-projeto-de-trump/",
         "title": "Elon Musk Anuncia Saída do Governo dos EUA após Criticar Novo Projeto de Trump",
         "image": "https://forbes.com.br/wp-content/uploads/2025/03/Musk-DOGE-300x200.png",
@@ -19,6 +33,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Artur-Grynbaum_ed130_esg-300x200.jpg",
         "date": "29/05/2025",
         "description": "Edição 130 da revista já está disponível; veja outros destaques"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/05/jota-pe-o-futuro-do-mpb-e-o-presente/",
+        "title": "Jota.pê: \"O Futuro do MPB É o Presente\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Jota.pe_-_Ser-negro-nao-e-sobre-racismo-e-sobre-um-monte-de-outras-coisas-maravilhosas-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Aposta da nova geração da música brasileira, artista pode levar duas estatuetas para casa no Prêmio da Música Brasileira, que ocorre dia 4 de junho"
     },
     {
         "url": "https://forbes.com.br/carreira/2025/05/ambicao-reinvencao-e-parceria-5-licoes-de-hacks-que-valem-para-qualquer-carreira/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Chocolate-Quente-300x200.jpg",
         "date": "29/05/2025",
         "description": "Arnor Porto compartilhou com a Forbes a receita do chocolate quente cremoso que faz sucesso no cardápio do hotel de luxo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/ajuste-no-iof-ainda-vale-a-pena-ter-conta-global/",
-        "title": "Ajuste no IOF: Ainda Vale a Pena Ter Conta Global?",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Cartao-de-Credito-Imagem-Getty-Images-Westend61-300x200.png",
-        "date": "29/05/2025",
-        "description": "Produto é muito usado por ter taxas mais em conta que cartões de crédito internacional, mas pode ser afetado pelas novas alíquotas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/05/jota-pe-o-futuro-do-mpb-e-o-presente/",
-        "title": "Jota.pê: \"O Futuro do MPB É o Presente\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Jota.pe_-_Ser-negro-nao-e-sobre-racismo-e-sobre-um-monte-de-outras-coisas-maravilhosas-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Aposta da nova geração da música brasileira, artista pode levar duas estatuetas para casa no Prêmio da Música Brasileira, que ocorre dia 4 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/05/como-a-musica-afeta-o-cerebro-humano/",
-        "title": "Como a Música Afeta o Cérebro Humano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/music-300x200.png",
-        "date": "29/05/2025",
-        "description": "Pesquisadores da Finlândia descobriram que determinadas músicas podem acionar o sistema receptor opióides"
     }
 ]
