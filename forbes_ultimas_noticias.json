@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/05/maria-grazia-chiuri-se-despede-da-dior-com-cruise-em-roma/",
+        "title": "Maria Grazia Chiuri se Despede da Dior com Cruise em Roma",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_0.Dior-Cruise-2026-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Unindo o ready-to-wear à alta-costura, desfile marca a saída da diretora criativa após 9 anos na maison francesa"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/05/brasil-e-reconhecido-como-livre-de-aftosa-sem-vacinacao-pela-omsa/",
+        "title": "Brasil É Reconhecido Como Livre de Aftosa sem Vacinação pela OMSA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_FebreAftosa_26MAI2025_Getty-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "A atualização poderá fortalecer a abertura de novos mercados internacionais para a carne brasileira"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/05/saida-de-musk-do-governo-trump-impulsiona-acoes-da-tesla/",
+        "title": "Saída de Musk do Governo Trump Impulsiona Ações da Tesla",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-29T132030Z_1_LYNXNPEL4S0K8_RTROPTP_4_FRANCE-TESLA-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Empresário anunciou sua saída do governo americano após série de cortes polêmicos em agências federais"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/05/forbes-mulher-agro-vocacao-para-agricultura-coloca-o-brasil-entre-lideres-globais/",
+        "title": "Vocação Para Agricultura Coloca o Brasil entre Líderes Globais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_Soja_26MAI2025_Getty-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Há 24 anos, o país já dava sinais claros de ter na atividade agrícola uma de suas maiores aptidões"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/05/nvidia-tem-impacto-de-us-8-bilhoes-nas-vendas-mas-numero-total-supera-expectativas/",
         "title": "Nvidia Tem Impacto de US$ 8 Bilhões nas Vendas, Mas Número Total Supera Expectativas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-tech-nvidia-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Jota.pe_-_Ser-negro-nao-e-sobre-racismo-e-sobre-um-monte-de-outras-coisas-maravilhosas-300x200.jpg",
         "date": "29/05/2025",
         "description": "Aposta da nova geração da música brasileira, artista pode levar duas estatuetas para casa no Prêmio da Música Brasileira, que ocorre dia 4 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/05/ambicao-reinvencao-e-parceria-5-licoes-de-hacks-que-valem-para-qualquer-carreira/",
-        "title": "5 Lições Que \"Hacks\" Deixa para Qualquer Carreira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-hacks-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Quarta temporada da comédia premiada da HBO Max chega ao fim nesta quinta-feira; confira lições de uma dupla inusitada"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/05/rio2c-o-que-e-inegociavel-para-os-ceos-da-diageo-e-loreal/",
-        "title": "Rio2C: o Que É Inegociável para os CEOs da Diageo e L'Oréal",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/ceos-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Durante o Forbes Summit Brands & Co, no Rio2C, Marcelo Zimet e Paula Lindenberg falaram sobre marketing e carreira na perspectiva de um presidente"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/05/como-as-amizades-podem-fortalecer-ou-sabotar-seus-relacionamentos-amorosos/",
-        "title": "Como as Amizades Podem Fortalecer ou Sabotar Seus Relacionamentos Amorosos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/0x0-2-3-300x200.webp",
-        "date": "29/05/2025",
-        "description": "Nem todo amigo vai aprovar seu relacionamento — e tudo bem. O importante é saber ouvir, refletir e, acima de tudo, confiar no que você sente"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/05/chocolate-quente-5-estrelas-a-receita-do-chef-do-palacio-tangara/",
-        "title": "Chocolate Quente 5 Estrelas: a Receita do Chef do Palácio Tangará",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Chocolate-Quente-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Arnor Porto compartilhou com a Forbes a receita do chocolate quente cremoso que faz sucesso no cardápio do hotel de luxo"
     }
 ]
