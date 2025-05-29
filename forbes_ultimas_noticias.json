@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/05/joao-fonseca-vence-mais-uma-e-avanca-em-roland-garros/",
+        "title": "João Fonseca vence mais uma e avança em Roland Garros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Forbes_Joao-Fonseca-durante-partida-do-Aberto-da-Italia-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Fonseca dobrou sua vantagem após outro set apertado e elevou seu nível no terceiro set para completar a vitória"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/05/o-que-pensa-o-mercado-sobre-a-recuperacao-judicial-da-azul/",
         "title": "O Que Pensa o Mercado sobre a Recuperação Judicial da Azul",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/2025-01-15T230948Z_1_LYNXMPEL0E16Q_RTROPTP_4_BRAZIL-AIRLINES-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Elon-Musk-Tesla-getty-300x200.webp",
         "date": "29/05/2025",
         "description": "Empresário anunciou sua saída do governo americano após série de cortes polêmicos em agências federais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/05/forbes-mulher-agro-vocacao-para-agricultura-coloca-o-brasil-entre-lideres-globais/",
-        "title": "Vocação Para Agricultura Coloca o Brasil entre Líderes Globais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_Soja_26MAI2025_Getty-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Há 24 anos, o país já dava sinais claros de ter na atividade agrícola uma de suas maiores aptidões"
     }
 ]
