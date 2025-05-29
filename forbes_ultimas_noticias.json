@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/05/matematica-nao-fecha-e-gold-card-de-trump-pode-nunca-acontecer/",
+        "title": "Matemática Não Fecha e Gold Card de Trump Pode Nunca Acontecer",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2-19-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "O novo programa de visto seria uma maneira de reduzir a dívida nacional americana de US$ 36 trilhões (R$ 203,400 trilhões)"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/05/musk-diz-que-tesla-testa-model-y-sem-motorista-para-entrega-em-junho/",
+        "title": "Musk Diz Que Tesla Testa Model Y sem Motorista para Entrega em Junho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Money_Tesla_26ABR25_Getty-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Lançamento inicial do Modelo contará com 10 ou 20 veículos"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/05/trump-da-a-harvard-30-dias-para-contestar-fim-das-matriculas-de-estudantes-estrangeiros/",
+        "title": "Trump Dá a Harvard 30 Dias para Contestar Fim das Matrículas de Estudantes Estrangeiros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-29T151457Z_1_LYNXNPEL4S0OE_RTROPTP_4_USA-TRUMP-HARVARD-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Justiça dos EUA tenta barrar medida do governo que ameaça permanência de alunos internacionais em universidades"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/05/maria-grazia-chiuri-se-despede-da-dior-com-cruise-em-roma/",
         "title": "Maria Grazia Chiuri se Despede da Dior com Cruise em Roma",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_0.Dior-Cruise-2026-300x200.jpg",
         "date": "29/05/2025",
-        "description": "Unindo o ready-to-wear à alta-costura, desfile marca a saída da diretora criativa após 9 anos na maison francesa"
+        "description": "Unindo o ready-to-wear à alta-costura, desfile marca a saída da diretora criativa após nove anos na maison francesa"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/05/brasil-e-reconhecido-como-livre-de-aftosa-sem-vacinacao-pela-omsa/",
@@ -16,7 +37,7 @@
     {
         "url": "https://forbes.com.br/forbes-money/2025/05/saida-de-musk-do-governo-trump-impulsiona-acoes-da-tesla/",
         "title": "Saída de Musk do Governo Trump Impulsiona Ações da Tesla",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-29T132030Z_1_LYNXNPEL4S0K8_RTROPTP_4_FRANCE-TESLA-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/06/Tesla-Recall-300x200.png",
         "date": "29/05/2025",
         "description": "Empresário anunciou sua saída do governo americano após série de cortes polêmicos em agências federais"
     },
@@ -26,6 +47,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_Soja_26MAI2025_Getty-300x200.jpg",
         "date": "29/05/2025",
         "description": "Há 24 anos, o país já dava sinais claros de ter na atividade agrícola uma de suas maiores aptidões"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/05/producao-de-acucar-e-etanol-do-centro-sul-recua-na-1a-quinzena-de-meio/",
+        "title": "Produção de Açúcar e Etanol do Centro-sul Recua na 1ª Quinzena de Meio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_EtanolAcucar_26MAI2025_Getty-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "As vendas de etanol pelas unidades produtoras também registraram queda em relação ao mesmo período da safra 2024/2025"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/05/nvidia-tem-impacto-de-us-8-bilhoes-nas-vendas-mas-numero-total-supera-expectativas/",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2022/05/desemprego-brasil-carteira-de-trabalho-300x200.jpg",
         "date": "29/05/2025",
         "description": "Número indica que economia segue aquecida, o que pode dificultar o controle da inflação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/elon-musk-anuncia-saida-do-governo-dos-eua-apos-criticar-novo-projeto-de-trump/",
-        "title": "Elon Musk Anuncia Saída do Governo dos EUA após Criticar Novo Projeto de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Musk-DOGE-300x200.png",
-        "date": "29/05/2025",
-        "description": "O bilionário liderou o departamento responsável por promover corte de custos no governo federal"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/pre-mercado-acoes-sobem-apos-tribunal-de-nova-york-barrar-tarifas-de-trump/",
-        "title": "Pré-mercado: Ações Sobem após Tribunal de Nova York Barrar Tarifas de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "29/05/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 29 de maio"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/05/especial-esg-e-destaque-da-nova-edicao-da-forbes-brasil/",
-        "title": "Especial ESG É Destaque da Nova Edição da Forbes Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Artur-Grynbaum_ed130_esg-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Edição 130 da revista já está disponível; veja outros destaques"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/05/jota-pe-o-futuro-do-mpb-e-o-presente/",
-        "title": "Jota.pê: \"O Futuro do MPB É o Presente\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Jota.pe_-_Ser-negro-nao-e-sobre-racismo-e-sobre-um-monte-de-outras-coisas-maravilhosas-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Aposta da nova geração da música brasileira, artista pode levar duas estatuetas para casa no Prêmio da Música Brasileira, que ocorre dia 4 de junho"
     }
 ]
