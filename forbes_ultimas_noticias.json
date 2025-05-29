@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/05/nvidia-volta-a-ser-a-empresa-mais-valiosa-do-mundo/",
+        "title": "Nvidia Volta a Ser a Empresa Mais Valiosa do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Jensen-Huang-CEO-da-Nvidia-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Retomada do topo veio após divulgação do último balanço trimestral, com suas ações subindo 5%"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/05/brandvoice-ey-empresas-brasileiras-avancam-na-adocao-da-ia-com-foco-em-responsabilidade-e-valor-de-negocio/",
+        "title": "Empresas Brasileiras Avançam na Adoção da IA com Foco em Responsabilidade e Valor de Negócio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/podcast-ey_maio25-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Davi Dias, sócio da EY e líder de IA da consultoria, Cristiane Gomes, diretora de tecnologia da Motiva, e Leonardo Delia, CFO da Louis Dreyfus Company (LDC), falam sobre o tema no ForbesCast"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/05/matematica-nao-fecha-e-gold-card-de-trump-pode-nunca-acontecer/",
         "title": "Matemática Não Fecha e Gold Card de Trump Pode Nunca Acontecer",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/2-19-300x200.jpg",
@@ -37,7 +51,7 @@
     {
         "url": "https://forbes.com.br/forbes-money/2025/05/saida-de-musk-do-governo-trump-impulsiona-acoes-da-tesla/",
         "title": "Saída de Musk do Governo Trump Impulsiona Ações da Tesla",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/06/Tesla-Recall-300x200.png",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Elon-Musk-Tesla-getty-300x200.webp",
         "date": "29/05/2025",
         "description": "Empresário anunciou sua saída do governo americano após série de cortes polêmicos em agências federais"
     },
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_EtanolAcucar_26MAI2025_Getty-300x200.jpg",
         "date": "29/05/2025",
         "description": "As vendas de etanol pelas unidades produtoras também registraram queda em relação ao mesmo período da safra 2024/2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/nvidia-tem-impacto-de-us-8-bilhoes-nas-vendas-mas-numero-total-supera-expectativas/",
-        "title": "Nvidia Tem Impacto de US$ 8 Bilhões nas Vendas, Mas Número Total Supera Expectativas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-tech-nvidia-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Durante divulgação, o presidente da empresa, Jensen Huang, criticou restrições impostas à empresa por Donald Trump"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/taxa-de-desemprego-de-66-fica-abaixo-do-esperado-pelo-mercado-e-pais-tem-recorde-de-carteira-assinada/",
-        "title": "Taxa de Desemprego de 6,6% Fica Abaixo do Esperado Pelo Mercado e País Tem Recorde de Carteira Assinada",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/05/desemprego-brasil-carteira-de-trabalho-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Número indica que economia segue aquecida, o que pode dificultar o controle da inflação"
     }
 ]
