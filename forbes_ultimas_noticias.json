@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/05/o-que-pensa-o-mercado-sobre-a-recuperacao-judicial-da-azul/",
+        "title": "O Que Pensa o Mercado sobre a Recuperação Judicial da Azul",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/2025-01-15T230948Z_1_LYNXMPEL0E16Q_RTROPTP_4_BRAZIL-AIRLINES-300x200.jpg",
+        "date": "29/05/2025",
+        "description": "Longe de ser uma surpresa, o processo pode criar uma empresa mais robusta e preparada no futuro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/05/nvidia-volta-a-ser-a-empresa-mais-valiosa-do-mundo/",
         "title": "Nvidia Volta a Ser a Empresa Mais Valiosa do Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Jensen-Huang-CEO-da-Nvidia-300x200.jpg",
@@ -11,7 +18,7 @@
         "title": "Empresas Brasileiras Avançam na Adoção da IA com Foco em Responsabilidade e Valor de Negócio",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/podcast-ey_maio25-300x200.jpg",
         "date": "29/05/2025",
-        "description": "Davi Dias, sócio da EY e líder de IA da consultoria, Cristiane Gomes, diretora de tecnologia da Motiva, e Leonardo Delia, CFO da Louis Dreyfus Company (LDC), falam sobre o tema no ForbesCast"
+        "description": "David Dias, sócio da EY e líder de IA da consultoria, Cristiane Gomes, diretora de tecnologia da Motiva, e Leonardo Delia, CFO da Louis Dreyfus Company (LDC), falam sobre o tema no ForbesCast"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/05/matematica-nao-fecha-e-gold-card-de-trump-pode-nunca-acontecer/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_Soja_26MAI2025_Getty-300x200.jpg",
         "date": "29/05/2025",
         "description": "Há 24 anos, o país já dava sinais claros de ter na atividade agrícola uma de suas maiores aptidões"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/05/producao-de-acucar-e-etanol-do-centro-sul-recua-na-1a-quinzena-de-meio/",
-        "title": "Produção de Açúcar e Etanol do Centro-sul Recua na 1ª Quinzena de Meio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_EtanolAcucar_26MAI2025_Getty-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "As vendas de etanol pelas unidades produtoras também registraram queda em relação ao mesmo período da safra 2024/2025"
     }
 ]
