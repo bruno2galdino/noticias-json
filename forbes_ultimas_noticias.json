@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/05/clint-eastwood-aos-95-anos-sobre-producao-de-filmes-faca-algo-novo-ou-fique-em-casa/",
+        "title": "Clint Eastwood, Aos 95 Anos: \"Faça Algo Novo ou Fique em Casa\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-clint-eastwood-300x200.jpg",
+        "date": "30/05/2025",
+        "description": "Diretor vencedor do Oscar planeja continuar trabalhando e pediu aos colegas cineastas que apresentem novas ideias"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/05/russia-deve-agir-para-manter-lideranca-na-exportacao-de-trigo/",
+        "title": "Rússia Deve Agir para Manter Liderança na Exportação de Trigo",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/07/agro_trigo_21-jul-23_Reuters-300x200.jpg",
+        "date": "30/05/2025",
+        "description": "Segundo o vice-primeiro-ministro Dmitry Patrushev, a Rússia exportará 44,5 milhões de toneladas métricas de trigo e 53 milhões de toneladas de grãos na temporada 2024/2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/05/colheita-de-milho-do-brasil-e-estimada-em-cerca-de-139-milhoes-de-toneladas/",
+        "title": "Colheita de Milho do Brasil É Estimada em Cerca de 139 Milhões de Toneladas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Forbes_Espiga-de-milho-em-milharal-em-Brasilia-300x200.jpg",
+        "date": "30/05/2025",
+        "description": "Segundo nova previsão da Safras & Mercado, o potencial de produção da segunda safra subiu para 99,78 milhões de toneladas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/05/ice-mudara-precificacao-de-contratos-de-cafe-arabica/",
+        "title": "ICE Mudará Precificação de Contratos de Café Arábica",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/agro_cafe_16set24_reuters_-300x200.jpg",
+        "date": "30/05/2025",
+        "description": "A bolsa informou que vai mudar os preços de centavos de dólar por libra-peso para dólares por tonelada métrica"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/05/sabalenka-quer-o-titulo-do-aberto-da-franca-nao-o-rotulo-de-favorita/",
         "title": "Sabalenka Quer o Título do Aberto da França, Não o Rótulo de Favorita",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-sabalenka-300x200.jpg",
@@ -14,7 +42,7 @@
         "description": "Empresário apresentou um cronograma detalhado de desenvolvimento da Starship"
     },
     {
-        "url": "https://forbes.com.br/forbes-money/2025/05/os-times-de-futebol-mais-valiosos-do-mundo-em-2025/",
+        "url": "https://forbes.com.br/listas/2025/05/os-times-de-futebol-mais-valiosos-do-mundo-em-2025/",
         "title": "Os Times de Futebol Mais Valiosos do Mundo em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/6-3-300x200.jpg",
         "date": "30/05/2025",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/03/carreira-salario-calculo-300x200.jpg",
         "date": "30/05/2025",
         "description": "Prazo para declaração termina nesta sexta-feira (30), mas cerca de 7 milhões de contribuintes ainda não a entregaram"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/05/china-proibe-importacao-de-carne-de-frango-de-todo-brasil/",
-        "title": "China Proíbe Importação de Carne de Frango de Todo Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_Frango_30MAI2025_Getty-300x200.jpg",
-        "date": "30/05/2025",
-        "description": "Produtores brasileiros esperam que a aproximação entre os presidentes Lula e Xi Jinping ajude a flexibilizar a suspensão"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/trump-diz-que-china-violou-totalmente-acordo-com-os-eua-sobre-tarifas/",
-        "title": "Trump Diz Que China Violou \"Totalmente\" Acordo com os EUA sobre Tarifas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-30T122209Z_1_LYNXNPEL4T0L0_RTROPTP_4_EUA-TRUMP-CHINA-300x200.jpg",
-        "date": "30/05/2025",
-        "description": "Para Washington, a demora de Pequim em cumprir o acordo comercial é inaceitável e precisa ser enfrentada com urgência"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/gastos-do-consumidor-dos-eua-desaceleram-em-abril-inflacao-tem-alta-moderada/",
-        "title": "Gastos do Consumidor dos EUA Desaceleram em Abril; Inflação Tem Alta Moderada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-30T125853Z_1_LYNXNPEL4T0MX_RTROPTP_4_MACRO-EUA-PCE-300x200.jpg",
-        "date": "30/05/2025",
-        "description": "Desde dezembro, o banco central mantém os juros entre 4,25% e 4,50%, aguardando sinais mais claros da economia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/j-k-rowling-autora-de-harry-potter-volta-a-atingir-o-status-de-bilionaria/",
-        "title": "J.K Rowling Volta a Atingir o Status de Bilionária",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/GettyImages-53243599-1-300x200.jpg",
-        "date": "30/05/2025",
-        "description": "Fortuna da autora de Harry Potter só não é maior por conta de suas generosas ações de filantropia"
     }
 ]
