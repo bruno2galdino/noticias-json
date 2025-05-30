@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/05/como-construir-um-ambiente-de-trabalho-atraente-para-a-geracao-z/",
+        "title": "Como Construir um Ambiente de Trabalho Atraente para a Gen Z",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/carreira_GeracaoZ_trabalho-1-300x200.jpg",
+        "date": "30/05/2025",
+        "description": "Para atrair e reter os jovens profissionais, é preciso mais do que salário competitivo"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/05/3-sinais-de-que-voce-esta-no-relacionamento-que-realmente-merece/",
+        "title": "3 Sinais de Que Você Está no Relacionamento Que Realmente Merece",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/0x0-3-3-300x200.webp",
+        "date": "30/05/2025",
+        "description": "Responder “não” a essas perguntas pode indicar que você está com a pessoa errada. Entenda o que a ciência diz sobre isso"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/05/a-ascensao-da-rhode-7-licoes-de-marketing-de-hailey-bieber/",
+        "title": "A Ascensão da Rhode: 7 Lições de Marketing para Empreendedores",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Hailey-Bieber-comparece-ao-Met-Gala-2025-que-celebra-Superfine-Tailoring-Black-Style-no-Metropolitan-Museum-of-Art-300x200.jpg",
+        "date": "30/05/2025",
+        "description": "Entenda como a marca de beleza, vendida para a E.l.f essa semana, se tornou um negócio bilionário em apenas três anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/05/racao-insuficiente-ameaca-o-futuro-da-industria-do-salmao/",
+        "title": "Ração Insuficiente Ameaça o Futuro da Indústria do Salmão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_Salmao_29MAI2025_Getty-300x200.jpg",
+        "date": "30/05/2025",
+        "description": "Setor projeta crescimento de 40% até 2033, mas baseia sua expansão em ingredientes que estão desaparecendo dos oceanos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/05/vai-viajar-para-o-exterior-veja-alternativas-para-aliviar-o-peso-do-iof/",
+        "title": "Vai Viajar para o Exterior? Veja Alternativas para Aliviar o Peso do IOF",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/04/2-3-300x200.png",
+        "date": "30/05/2025",
+        "description": "Bancos acataram mudanças, mas estão buscando oferecer serviços que diminuam o impacto do aumento das alíquotas"
+    },
+    {
         "url": "https://forbes.com.br/sem-categoria/2025/05/exportacoes-de-trigo-da-ucrania-em-2025-26-devem-cair/",
         "title": "Exportações de Trigo da Ucrânia em 2025/26 Devem Cair",
         "image": "https://forbes.com.br/wp-content/uploads/2021/07/trigo_230621_Pascal-RossignolReuters.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
         "date": "29/05/2025",
         "description": "Tribunal do Comércio dos EUA bloqueou a maior parte das tarifas de importação impostas por Trump"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/05/joao-fonseca-vence-mais-uma-e-avanca-em-roland-garros/",
-        "title": "João Fonseca vence mais uma e avança em Roland Garros",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Forbes_Joao-Fonseca-durante-partida-do-Aberto-da-Italia-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Fonseca dobrou sua vantagem após outro set apertado e elevou seu nível no terceiro set para completar a vitória"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/o-que-pensa-o-mercado-sobre-a-recuperacao-judicial-da-azul/",
-        "title": "O Que Pensa o Mercado sobre a Recuperação Judicial da Azul",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/2025-01-15T230948Z_1_LYNXMPEL0E16Q_RTROPTP_4_BRAZIL-AIRLINES-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Longe de ser uma surpresa, o processo pode criar uma empresa mais robusta e preparada no futuro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/nvidia-volta-a-ser-a-empresa-mais-valiosa-do-mundo/",
-        "title": "Nvidia Volta a Ser a Empresa Mais Valiosa do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Jensen-Huang-CEO-da-Nvidia-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "Retomada do topo veio após divulgação do último balanço trimestral, com suas ações subindo 5%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/05/brandvoice-ey-empresas-brasileiras-avancam-na-adocao-da-ia-com-foco-em-responsabilidade-e-valor-de-negocio/",
-        "title": "Empresas Brasileiras Avançam na Adoção da IA com Foco em Responsabilidade e Valor de Negócio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/podcast-ey_maio25-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "David Dias, sócio da EY e líder de IA da consultoria, Cristiane Gomes, diretora de tecnologia da Motiva, e Leonardo Delia, CFO da Louis Dreyfus Company (LDC), falam sobre o tema no ForbesCast"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/matematica-nao-fecha-e-gold-card-de-trump-pode-nunca-acontecer/",
-        "title": "Matemática Não Fecha e Gold Card de Trump Pode Nunca Acontecer",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2-19-300x200.jpg",
-        "date": "29/05/2025",
-        "description": "O novo programa de visto seria uma maneira de reduzir a dívida nacional americana de US$ 36 trilhões (R$ 203,400 trilhões)"
     }
 ]
