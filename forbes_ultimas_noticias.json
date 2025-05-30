@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2025/05/sabalenka-quer-o-titulo-do-aberto-da-franca-nao-o-rotulo-de-favorita/",
+        "title": "Sabalenka Quer o Título do Aberto da França, Não o Rótulo de Favorita",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-sabalenka-300x200.jpg",
+        "date": "30/05/2025",
+        "description": "Número um do mundo, polonesa tem estado em ótima forma desde o início de Roland Garros, reforçando seu status de favorita"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/05/musk-pretende-enviar-nave-nao-tripulada-a-marte-ate-final-de-2026/",
+        "title": "Musk Pretende Enviar Nave Não Tripulada a Marte até Final de 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-elon-musk-300x200.jpg",
+        "date": "30/05/2025",
+        "description": "Empresário apresentou um cronograma detalhado de desenvolvimento da Starship"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/05/os-times-de-futebol-mais-valiosos-do-mundo-em-2025/",
+        "title": "Os Times de Futebol Mais Valiosos do Mundo em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/6-3-300x200.jpg",
+        "date": "30/05/2025",
+        "description": "O Real Madrid é o segundo time — de qualquer esporte — a ultrapassar US$ 1 bilhão em receita, consolidando seu lugar no topo de uma lista de 30 clubes que, juntos, valem US$ 72 bilhões"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/05/taylor-swift-recompra-os-direitos-de-seus-seis-primeiros-albuns/",
         "title": "Taylor Swift Recompra os Direitos de Seus Seis Primeiros Álbuns",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Forbes_Taylor-Swift-agora-e-dona-de-todo-o-seu-catalogo-de-trabalhos-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/GettyImages-53243599-1-300x200.jpg",
         "date": "30/05/2025",
         "description": "Fortuna da autora de Harry Potter só não é maior por conta de suas generosas ações de filantropia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/meliuz-lanca-oferta-de-acoes-para-compra-de-bitcoins/",
-        "title": "Méliuz Lança Oferta de Ações para Compra de Bitcoins",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/10/money_meliuz-300x200.jpg",
-        "date": "30/05/2025",
-        "description": "Montante inicial envolve R$ 150 milhões. Anteriormente, a companhia já havia comprado mais de 320 bitcoins no início deste mês"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/agro-tem-forte-desempenho-e-economia-brasileira-sobe-14-nos-primeiros-tres-meses-do-ano/",
-        "title": "Agro Tem Desempenho Forte e Economia Brasileira Sobe 1,4% nos Primeiros Três Meses do Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Money_Brasil-Economia-PIB-300x200.jpg",
-        "date": "30/05/2025",
-        "description": "Especialistas esperam uma desaceleração do PIB no segundo semestre do ano"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/05/eduardo-mira-apostas-esportivas-como-milhoes-estao-perdendo-dinheiro-saude-e-futuro/",
-        "title": "Apostas Esportivas: Como Milhões Estão Perdendo Dinheiro, Saúde e Futuro",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/12/Apostas-300x200.png",
-        "date": "30/05/2025",
-        "description": "Dados indicam que 23 milhões de brasileiros gastaram dinheiro com bets, sendo que 3 milhões têm tendência ao vício"
     }
 ]
