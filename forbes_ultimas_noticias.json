@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/05/pre-mercado-semana-termina-com-foco-na-inflacao-americana/",
+        "title": "Pré-mercado: Semana Termina com Foco na Inflação Americana",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "30/05/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 30 de maio"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/05/como-construir-um-ambiente-de-trabalho-atraente-para-a-geracao-z/",
         "title": "Como Construir um Ambiente de Trabalho Atraente para a Gen Z",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/carreira_GeracaoZ_trabalho-1-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Juan-Moraes-e-especialista-em-experiencias-personalizadas-voltadas-para-os-publicos-A-e-A-tando-sido-reconhecido-pela-Forbes-como-o-RP-do-futuro-300x200.jpg",
         "date": "29/05/2025",
         "description": "Evento reuniu convidados do Brasil e do exterior a bordo de um dos barcos mais concorridos do circuito"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/bloqueio-de-tarifas-e-iof-definem-rumos-do-ibovespa-enquanto-dolar-cai/",
-        "title": "Bloqueio de Tarifas e IOF Definem Rumos do Ibovespa, Enquanto Dólar Cai",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
-        "date": "29/05/2025",
-        "description": "Tribunal do Comércio dos EUA bloqueou a maior parte das tarifas de importação impostas por Trump"
     }
 ]
