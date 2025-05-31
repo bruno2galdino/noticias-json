@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/05/colheita-de-milho-2a-safra-do-brasil-atinge-1-da-area/",
+        "title": "Colheita de Milho 2ª Safra do Brasil Atinge 1% da Área",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/07/milho-forbesagro-300x200.jpg",
+        "date": "31/05/2025",
+        "description": "Avanço da safra no Mato Grosso está abaixo dos 4,73% registrados no mesmo período de 2024, diz Imea (Instituto Mato-grossense de Economia Agropecuária)"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/05/trump-demite-diretora-da-national-portrait-gallery-criticando-apoio-a-diversidade/",
+        "title": "Trump Demite Diretora da National Portrait Gallery Criticando Apoio À Diversidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/diretora-300x200.webp",
+        "date": "31/05/2025",
+        "description": "Presidente dos EUA anuncia decisão sem explicar motivos ligados a Kim Sajet"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/05/trump-diz-que-tesla-e-outras-montadoras-precisam-fabricar-carros-e-pecas-nos-eua/",
         "title": "Trump Diz Que Tesla e Outras Montadoras Precisam Fabricar Carros e Peças nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/GettyImages-2204003073-300x200.jpeg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Melhores-whiskies-300x200.jpg",
         "date": "31/05/2025",
         "description": "De single malts escoceses a bourbons americanos (e até rótulos nacionais), craques da cena etílica nacional compartilham os rótulos que não podem faltar em seu bar de casa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/moodys-rebaixa-perspectiva-de-nota-do-brasil-de-positiva-para-estavel/",
-        "title": "Moody's Rebaixa Perspectiva de Nota do Brasil de Positiva para Estável",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Dinheiro-bandeira-Brasil-1-1-300x200.jpg",
-        "date": "30/05/2025",
-        "description": "Agência de classificação de risco citou redução na probabilidade de melhora no perfil de crédito do país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/jbs-consegue-aprovacao-da-cvm-para-a-dupla-listagem-de-acoes/",
-        "title": "JBS Consegue Aprovação da CVM para a Dupla Listagem de Ações",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Money_JBSDuplaListagem_30MAI2025_Getty-300x200.jpg",
-        "date": "30/05/2025",
-        "description": "As ações da companhia serão ofertadas na bolsa brasileira até 6 de junho e expectativa é que comecem a ser negociadas em Nova York em 12 de junho"
     }
 ]
