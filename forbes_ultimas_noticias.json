@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/05/trump-diz-que-tesla-e-outras-montadoras-precisam-fabricar-carros-e-pecas-nos-eua/",
+        "title": "Trump Diz Que Tesla e Outras Montadoras Precisam Fabricar Carros e Peças nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/GettyImages-2204003073-300x200.jpeg",
+        "date": "31/05/2025",
+        "description": "Tarifa de 25% imposta pelo governo americano preocupa setor automotivo e pode encarecer veículos"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/05/lista-forbes-os-lideres-em-emissao-zero-em-2025/",
         "title": "Lista Forbes: Os Líderes em Emissão Zero em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/ESG_ListaForbesNetZero2025_30MAI2025_Getty-1-300x200.jpg",
@@ -8,7 +15,7 @@
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/05/hailey-bieber-e-seu-negocio-bilionario-com-a-rhode-conheca-outros-nomes-que-prosperaram-na-industria-da-beleza/",
-        "title": "Negócio de US$ 1 Bilhão de Hailey Bieber com a Rhode: Conheça Outras Pessoas Que Fizeram Fortuna no Setor de Beleza",
+        "title": "Hailey Bieber e o Sucesso Bilionário da Rhode — Outros Nomes da Beleza em Alta",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Ha-300x200.webp",
         "date": "31/05/2025",
         "description": "Menos de 30 pessoas nos EUA e na Europa acumularam fortunas expressivas no disputado mercado da beleza"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Money_JBSDuplaListagem_30MAI2025_Getty-300x200.jpg",
         "date": "30/05/2025",
         "description": "As ações da companhia serão ofertadas na bolsa brasileira até 6 de junho e expectativa é que comecem a ser negociadas em Nova York em 12 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/ibovespa-cai-e-dolar-sobe-diante-de-possibilidade-de-novas-tensoes-comerciais/",
-        "title": "Ibovespa Cai e Dólar Sobe Diante de Possibilidade de Novas Tensões Comerciais",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
-        "date": "30/05/2025",
-        "description": "Donald Trump acusou a China de violar acordo tarifário e prometeu novas sanções, contaminando o mercado nesta sexta-feira (30)"
     }
 ]
