@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/sem-categoria/2025/06/produtores-de-petroleo-da-opep-se-mantem-firmes-com-outro-grande-aumento-para-os-proximos-meses/",
+        "title": "Produtores de Petróleo da OPEP+ se Mantêm Firmes com Outro Grande Aumento para Julho",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/05/Opep-Petroleo-300x200.jpg",
+        "date": "01/06/2025",
+        "description": "Depois de anos cortando mais de 5 milhões de barris por dia, aliança petrolífera liderada por Arábia Saudita e Rússia inicia aumento gradual na produção, triplicando ritmo entre maio e julho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/chefe-do-pentagono-alerta-sobre-a-ameaca-iminente-da-china-e-pede-aos-aliados-asiaticos-que-gastem-mais-em-defesa/",
+        "title": "Chefe do Pentágono Alerta sobre a Ameaça Iminente da China e Pede Aos Aliados Asiáticos Que Gastem Mais em Defesa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/money-economia-china-eua-300x200.jpg",
+        "date": "01/06/2025",
+        "description": "Em estreia no Diálogo Shangri-La, o secretário de Defesa dos Estados Unidos, Pete Hegseth, reforça a prioridade do Indo-Pacífico para o governo Trump"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/morre-stanley-fischer-influente-economista-da-era-moderna/",
+        "title": "Morre Stanley Fischer, Influente Economista da Era Moderna",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/padrao-Forbes-2025-06-01T122613.694-300x200.jpg",
+        "date": "01/06/2025",
+        "description": "Ex-vice-presidente do FED, ex-chefe do Banco de Israel e figura-chave no FMI e no Banco Mundial, Fischer deixa legado intelectual e institucional"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/as-10-pessoas-mais-ricas-do-mundo-em-junho/",
         "title": "As 10 Pessoas Mais Ricas do Mundo em Junho",
         "image": "https://forbes.com.br/wp-content/uploads/2025/02/2-19-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-melhor-horario-para-trabalhar-300x200.jpg",
         "date": "01/06/2025",
         "description": "Veja como aproveitar os momentos do dia em que seu corpo e mente estão mais preparados para cada tipo de tarefa, aumentando a produtividade e o bem-estar"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/quem-sao-os-bilionarios-que-abracaram-causa-de-buffett-e-gates/",
-        "title": "Giving Pledge: Quem São os Novos Bilionários Que Abraçaram a Causa de Buffett e Gates",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Tamanho-site-Tech-5-1-300x200.png",
-        "date": "01/06/2025",
-        "description": "Giving Pledge é uma iniciativa filantrópica de doar boa parte da fortuna antes de morrer ganhou 11 novos membros"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/05/trump-e-musk-dao-demonstracao-de-uniao-enquanto-ceo-da-tesla-deixa-governo/",
-        "title": "Trump e Musk Dão Demonstração de União Enquanto CEO da Tesla Deixa Governo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-30T214431Z_1_LYNXNPEL4T136_RTROPTP_4_EEUU-TRUMP-MUSK-REGRESO-300x200.jpg",
-        "date": "31/05/2025",
-        "description": "Empresário afirma que focará em sua fabricante de carros elétricos e na SpaceX após críticas de investidores sobre tempo dedicado ao Doge"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/moodys-rebaixa-perspectiva-para-nota-do-brasil-de-positiva-para-estavel/",
-        "title": "Moody's Rebaixa Perspectiva para Nota do Brasil de Positiva para Estável",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-30T211437Z_1_LYNXNPEL4T12F_RTROPTP_4_CHINA-CALIFICACION-MOODY-S-300x200.jpg",
-        "date": "31/05/2025",
-        "description": "Agência reafirma nota \"Ba1\" do país, ainda abaixo do grau de investimento, reservado a emissores de baixo risco"
     }
 ]
