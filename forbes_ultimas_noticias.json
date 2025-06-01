@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/as-10-pessoas-mais-ricas-do-mundo-em-junho/",
+        "title": "As 10 Pessoas Mais Ricas do Mundo em Junho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/2-19-300x200.jpg",
+        "date": "01/06/2025",
+        "description": "Elon Musk deixa o governo americano mais rico, e Mark Zuckerberg ultrapassa Jeff Bezos no ranking dos 10 mais ricos"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/tenis-draper-domina-fonseca-para-chegar-as-oitavas-de-final-do-aberto-da-franca/",
+        "title": "Tênis-Draper Domina Fonseca para Chegar Às Oitavas de Final do Aberto da França",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-2217405213-300x200.jpeg",
+        "date": "01/06/2025",
+        "description": "\"Foi uma partida equilibrada, e a experiência acabou decidindo\", disse Draper sobre o destaque de João"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/mudancas-climaticas-e-uso-da-terra-colocam-abelhas-em-risco/",
         "title": "Mudanças Climáticas e Uso da Terra Colocam Abelhas em Risco",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_Abelhas_30MAI2025_Getty-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-30T211437Z_1_LYNXNPEL4T12F_RTROPTP_4_CHINA-CALIFICACION-MOODY-S-300x200.jpg",
         "date": "31/05/2025",
         "description": "Agência reafirma nota \"Ba1\" do país, ainda abaixo do grau de investimento, reservado a emissores de baixo risco"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/05/juiz-dos-eua-considera-medidas-mais-brandas-contra-o-google-em-caso-antitruste-de-buscas/",
-        "title": "Juiz dos EUA Considera Medidas Mais Brandas contra o Google em Caso Antitruste de Buscas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-google-alphabet-300x200.jpg",
-        "date": "31/05/2025",
-        "description": "Departamento de Justiça e estados pressionam gigante da tecnologia a compartilhar dados de pesquisa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/05/gol-tem-prejuizo-liquido-de-r-440-mi-em-abril/",
-        "title": "Gol Tem Prejuízo Líquido de R$ 440 Mi em Abril",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-30T224600Z_1_LYNXNPEL4T14L_RTROPTP_4_AEREAS-GOL-ABRIL-300x200.jpg",
-        "date": "31/05/2025",
-        "description": "Receita líquida da companhia aérea atinge R$ 1,7 bilhão no trimestre, segundo relatório divulgado nesta sexta (30)"
     }
 ]
