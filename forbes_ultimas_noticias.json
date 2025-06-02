@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/elon-musk-afirma-que-nao-quer-se-responsabilizar-pelas-acoes-do-governo-trump/",
+        "title": "Elon Musk Afirma Que Não Quer se Responsabilizar Pelas Ações do Governo Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-300x200.jpg",
+        "date": "02/06/2025",
+        "description": "O bilionário, um dos principais conselheiros do presidente Donald Trump, deixou seu cargo formal no governo na sexta-feira (30)"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/startup-de-servicos-bancarios-chime-busca-avaliacao-de-us-112-bi-em-ipo/",
+        "title": "Startup de Serviços Bancários Chime Busca Avaliação de US$ 11,2 Bi em IPO",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/08/ForbesMoney_IPO-grafico_djgunner_Getty-Images-1.png",
+        "date": "02/06/2025",
+        "description": "Com queda na volatilidade, mercado de IPOs nos EUA se recupera após abril fraco"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/producao-de-trigo-da-australia-pode-cair-10-em-2025/",
+        "title": "Produção de Trigo da Austrália Pode Cair 10% em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_TrigoAustralia_2JUN2025_Getty-300x200.jpg",
+        "date": "02/06/2025",
+        "description": "Segundo o Ministério da Agricultura do país, as condições de seca em várias regiões de cultivo prejudicaram a produção"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/agrural-revisa-para-cima-previsoes-das-safras-brasileiras-de-graos/",
         "title": "AgRural Revisa para Cima Previsões das Safras Brasileiras de Grãos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_SafraMilho_2JUN2025_Getty-300x200.jpg",
@@ -36,7 +57,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/06/o-brilho-do-ouro-continua-e-cingapura-ganha-com-isso/",
-        "title": "O Brilho do Ouro Continua e Singapura Ganha com Isso",
+        "title": "Com Ouro em Níveis Recordes, Singapura Cresce Como Porto Seguro dos Multimilionários",
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/Ouro-300x200.png",
         "date": "02/06/2025",
         "description": "Os super ricos estão cada vez mais guardando seu ouro em Singapura à medida que os riscos globais e a volatilidade associada a Trump aumentam"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Berlim-e-uma-das-cidades-mais-felizes-do-mundo-segundo-o-Happy-City-Index-2025-300x200.jpg",
         "date": "02/06/2025",
         "description": "Happy City Index 2025 classificou os 200 destinos mais felizes do planeta, onde qualidade de vida se combina com experiências de viagem marcantes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/por-dentro-do-centro-de-inovacao-em-ia-na-ibm-brasil/",
-        "title": "Por Dentro do Centro de Inovação em IA na IBM Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/IBMS-300x200.jpeg",
-        "date": "02/06/2025",
-        "description": "O novo hub de inovação da empresa, em São Paulo, reúne testes e estudos voltados para a tecnologia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/06/analigia-martins-do-duolingo-o-marketing-potencializou-o-poder-da-aprendizagem/",
-        "title": "\"O Marketing Potencializou o Poder da Aprendizagem\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/ANALIGIA-300x200.jpg",
-        "date": "02/06/2025",
-        "description": "CMO de uma das principais plataformas de educação do mundo e eleita Melhor CMO da Forbes Brasil 2025 destaca os aprendizados de carreira e os desafios do marketing moderno"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/06/cfo-da-infor-subiu-sem-referencias-e-fez-da-diversidade-motor-dos-negocios/",
-        "title": "CFO da Infor Subiu sem Referências e Fez da Diversidade Motor dos Negócios",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/mulher-talita-braga-infor-300x200.jpg",
-        "date": "02/06/2025",
-        "description": "No Minha Jornada, Talita Braga conta como foi estratégica para chegar à diretoria de finanças da companhia para a América Latina"
     }
 ]
