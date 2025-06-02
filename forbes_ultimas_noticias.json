@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/petrobras-corta-preco-da-gasolina-pela-1a-vez-em-mais-de-1-ano-e-meio/",
+        "title": "Petrobras Corta Preço da Gasolina Pela 1ª Vez em Mais de 1 Ano e Meio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-02T150807Z_1_LYNXNPEL510QX_RTROPTP_4_BRAZIL-ENERGY-FUEL-300x200.jpg",
+        "date": "02/06/2025",
+        "description": "Novo valor representa queda de R$ 0,17 por litro e passa a vigorar nas refinarias, com preço médio fixado em R$ 2,85"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/quem-ainda-esta-lucrando-com-a-mineracao-do-bitcoin/",
+        "title": "Quem Ainda Está Lucrando Com a Mineração do Bitcoin",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/09/bitcoin-getty-300x200.jpg",
+        "date": "02/06/2025",
+        "description": "Prática está no seu menor nível da história, caindo de US$ 406 mil para US$ 203 mil por bloco, após o halving, mas novas estratégias estão ajudando empresas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/06/brasil-tem-potencial-viavel-de-ate-24-gw-de-usinas-solares-flutuantes-diz-psr/",
+        "title": "Brasil Tem Potencial Viável de até 24 GW de Usinas Solares Flutuantes, Diz PSR",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Trabalhadores-em-usina-de-energia-solar-flutuante-na-represa-Billings-300x200.jpg",
+        "date": "02/06/2025",
+        "description": "O país já tem alguns projetos de usinas solares flutuantes em pequena escala, com até 10 MW de potência"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/06/trofeu-da-liga-dos-campeoes-e-dembele-recebem-boas-vindas-em-roland-garros/",
+        "title": "Troféu da Liga dos Campeões e Dembélé recebem boas-vindas em Roland Garros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Atacante-do-Paris-St-Germain-Ousmane-Dembele-ao-lado-do-trofeu-da-Liga-dos-Campeoes-na-quadra-Philippe-Chartier-em-Roland-Garros-300x200.jpg",
+        "date": "02/06/2025",
+        "description": "As festividades para Dembélé, que foi eleito o melhor jogador da temporada da Liga dos Campeões, continuaram quando ele carregou o troféu para a quadra Philippe Chatrier"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/06/ue-e-alertada-por-consultores-para-nao-enfraquecer-nova-meta-climatica/",
+        "title": "UE É Alertada por Consultores para Não Enfraquecer Nova Meta Climática",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Turbinas-de-energia-eolica-no-sul-da-Espanha-300x200.jpg",
+        "date": "02/06/2025",
+        "description": "A UE baniu os créditos internacionais de seu mercado de carbono em 2013"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/06/novo-presidente-da-cbf-projeta-mais-investimentos-no-futebol-feminino/",
+        "title": "Novo Presidente da CBF Projeta Mais Investimentos no Futebol Feminino",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-Novo-presidente-da-CBF-projeta-mais-investimentos-no-futebol-feminino-300x200.jpg",
+        "date": "02/06/2025",
+        "description": "Samir Xaud quer ampliar captação de recursos e trazer patrocinadores"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/meta-quer-automatizar-totalmente-publicidade-com-ia-ate-2026-diz-jornal/",
+        "title": "Meta Quer Automatizar Totalmente Publicidade com IA até 2026, Diz Jornal",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/02/Meta_FB_Dado-Ruvic-Reuters.jpg",
+        "date": "02/06/2025",
+        "description": "A Meta também planeja permitir que os anunciantes personalizem os anúncios usando IA"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/elon-musk-afirma-que-nao-quer-se-responsabilizar-pelas-acoes-do-governo-trump/",
         "title": "Elon Musk Afirma Que Não Quer se Responsabilizar Pelas Ações do Governo Trump",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_TrigoAustralia_2JUN2025_Getty-300x200.jpg",
         "date": "02/06/2025",
         "description": "Segundo o Ministério da Agricultura do país, as condições de seca em várias regiões de cultivo prejudicaram a produção"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/agrural-revisa-para-cima-previsoes-das-safras-brasileiras-de-graos/",
-        "title": "AgRural Revisa para Cima Previsões das Safras Brasileiras de Grãos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_SafraMilho_2JUN2025_Getty-300x200.jpg",
-        "date": "02/06/2025",
-        "description": "A consultoria levou em conta o aumento da produtividade nas duas culturas na nova previsão"
-    },
-    {
-        "url": "https://forbes.com.br/sem-categoria/2025/06/homem-e-indiciado-em-ny-por-sequestro-violento-para-roubo-de-bitcoins/",
-        "title": "Homem É Indiciado em NY por Sequestro Violento para Roubo de Bitcoins",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Negocios_bitcoin_290719_GettyImages_AdamGault-e1658415656459-300x200.jpg",
-        "date": "02/06/2025",
-        "description": "Cresce preocupação com sequestros ligados a criptomoedas após casos na França e no Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/sem-categoria/2025/06/vale-antecipa-publicacao-de-relatorio-financeiro-com-estrategias-de-descarbonizacao/",
-        "title": "Vale Antecipa Publicação de Relatório Financeiro com Estratégias de Descarbonização",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-02T110511Z_1_LYNXNPEL510HM_RTROPTP_4_LATAM-SUMMIT-VALE-300x200.jpg",
-        "date": "02/06/2025",
-        "description": "Empresa avança com projetos de \"mega hubs\" em parceria no Oriente Médio, EUA e Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/aura-acerta-compra-da-mineracao-serra-grande/",
-        "title": "Aura Acerta Compra da Mineração Serra Grande",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/06/csn-mineracao-300x200.jpg",
-        "date": "02/06/2025",
-        "description": "Operação está prevista para ser concluída até o fim deste mês. Desfecho ainda depende do aval do Cade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/apos-dados-recentes-mercado-reduz-projecao-para-inflacao-em-2025/",
-        "title": "Após Dados Recentes, Mercado Reduz Projeção para Inflação em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_supermercado_06mai25__Getty-300x200.jpg",
-        "date": "02/06/2025",
-        "description": "Para este ano, expectativa caiu 0,04 ponto percentual, enquanto para 2026, analistas mantiveram projeção"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/o-brilho-do-ouro-continua-e-cingapura-ganha-com-isso/",
-        "title": "Com Ouro em Níveis Recordes, Singapura Cresce Como Porto Seguro dos Multimilionários",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Ouro-300x200.png",
-        "date": "02/06/2025",
-        "description": "Os super ricos estão cada vez mais guardando seu ouro em Singapura à medida que os riscos globais e a volatilidade associada a Trump aumentam"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/essas-sao-as-cidades-mais-felizes-do-mundo-para-viver-e-visitar/",
-        "title": "Essas São as Cidades Mais Felizes do Mundo para Viver e Visitar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_Berlim-e-uma-das-cidades-mais-felizes-do-mundo-segundo-o-Happy-City-Index-2025-300x200.jpg",
-        "date": "02/06/2025",
-        "description": "Happy City Index 2025 classificou os 200 destinos mais felizes do planeta, onde qualidade de vida se combina com experiências de viagem marcantes"
     }
 ]
