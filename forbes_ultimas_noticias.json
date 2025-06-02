@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/sem-categoria/2025/06/homem-e-indiciado-em-ny-por-sequestro-violento-para-roubo-de-bitcoins/",
+        "title": "Homem É Indiciado em NY por Sequestro Violento para Roubo de Bitcoins",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Negocios_bitcoin_290719_GettyImages_AdamGault-e1658415656459-300x200.jpg",
+        "date": "02/06/2025",
+        "description": "Cresce preocupação com sequestros ligados a criptomoedas após casos na França e no Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/sem-categoria/2025/06/vale-antecipa-publicacao-de-relatorio-financeiro-com-estrategias-de-descarbonizacao/",
+        "title": "Vale Antecipa Publicação de Relatório Financeiro com Estratégias de Descarbonização",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-02T110511Z_1_LYNXNPEL510HM_RTROPTP_4_LATAM-SUMMIT-VALE-300x200.jpg",
+        "date": "02/06/2025",
+        "description": "Empresa avança com projetos de \"mega hubs\" em parceria no Oriente Médio, EUA e Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/aura-acerta-compra-da-mineracao-serra-grande/",
         "title": "Aura Acerta Compra da Mineração Serra Grande",
         "image": "https://forbes.com.br/wp-content/uploads/2022/06/csn-mineracao-300x200.jpg",
@@ -35,7 +49,7 @@
         "description": "O novo hub de inovação da empresa, em São Paulo, reúne testes e estudos voltados para a tecnologia"
     },
     {
-        "url": "https://forbes.com.br/manchete-2/2025/06/analigia-martins-do-duolingo-o-marketing-potencializou-o-poder-da-aprendizagem/",
+        "url": "https://forbes.com.br/forbes-mkt/2025/06/analigia-martins-do-duolingo-o-marketing-potencializou-o-poder-da-aprendizagem/",
         "title": "\"O Marketing Potencializou o Poder da Aprendizagem\"",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/ANALIGIA-300x200.jpg",
         "date": "02/06/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_5TendenciasAlimentos_29MAI2025_Getty-300x200.jpg",
         "date": "02/06/2025",
         "description": "Os consumidores do futuro querem produtos saudáveis, com histórias e transparência"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/06/o-medicamento-para-cancer-de-mama-da-pfizer-arvinas-supera-o-da-astrazeneca-em-retardar-a-progressao/",
-        "title": "O Medicamento para Câncer de Mama da Pfizer-Arvinas Supera o da AstraZeneca em Retardar a Progressão",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/12/pfizer_31dez21_Dado-Ruvic-Reuters.jpg",
-        "date": "01/06/2025",
-        "description": "Estudo divulgado em congresso de oncologia em Chicago e publicado no NEJM traz novas evidências sobre avanços no tratamento da doença"
-    },
-    {
-        "url": "https://forbes.com.br/sem-categoria/2025/06/produtores-de-petroleo-da-opep-se-mantem-firmes-com-outro-grande-aumento-para-os-proximos-meses/",
-        "title": "Produtores de Petróleo da OPEP+ se Mantêm Firmes com Outro Grande Aumento para Julho",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/05/Opep-Petroleo-300x200.jpg",
-        "date": "01/06/2025",
-        "description": "Depois de anos cortando mais de 5 milhões de barris por dia, aliança petrolífera liderada por Arábia Saudita e Rússia inicia aumento gradual na produção, triplicando ritmo entre maio e julho"
     }
 ]
