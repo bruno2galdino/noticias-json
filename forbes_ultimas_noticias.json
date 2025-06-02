@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/iof-e-ameacas-de-trump-ibovespa-e-dolar-comecam-a-semana-no-vermelho/",
+        "title": "IOF e Ameaças de Trump: Ibovespa e Dólar Começam a Semana no Vermelho",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "02/06/2025",
+        "description": "Mercado repercutiu notícias da semana passada, reprovando desarticulação no Governo e temendo por novas tarifas dos EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/testes-para-gripe-aviaria-em-granja-comercial-em-anta-gorda-dao-negativo/",
         "title": "Testes para Gripe Aviária em Granja Comercial em Anta Gorda Dão Negativo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-Criacao-de-frangos-gripe-aviaria-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-1-300x200.jpg",
         "date": "02/06/2025",
         "description": "O bilionário, um dos principais conselheiros do presidente Donald Trump, deixou seu cargo formal no governo na sexta-feira (30)"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/startup-de-servicos-bancarios-chime-busca-avaliacao-de-us-112-bi-em-ipo/",
-        "title": "Startup de Serviços Bancários Chime Busca Avaliação de US$ 11,2 Bi em IPO",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/08/ForbesMoney_IPO-grafico_djgunner_Getty-Images-1.png",
-        "date": "02/06/2025",
-        "description": "Com queda na volatilidade, mercado de IPOs nos EUA se recupera após abril fraco"
     }
 ]
