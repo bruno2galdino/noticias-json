@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/spacex-tera-receita-de-cerca-de-us155-bilhoes-em-2025-diz-elon-musk/",
+        "title": "SpaceX Terá Receita de Cerca de US$15,5 Bilhões em 2025, Diz Elon Musk",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Foguete-Falcon-9-da-SpaceX-decola-transportando-satelites-da-Starlink-300x200.jpg",
+        "date": "03/06/2025",
+        "description": "O sucesso da SpaceX é impulsionado em grande parte pelo serviço de internet via satélite Starlink"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/meta-firma-acordo-com-usina-nuclear-para-fornecimento-de-energia/",
+        "title": "Meta Firma Acordo com Usina Nuclear para Fornecimento de Energia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Meta-energia-nuclear-300x200.png",
+        "date": "03/06/2025",
+        "description": "Empresas de tecnologia buscam garantir o fornecimento de eletricidade, com a demanda impulsionada pela inteligência artificial e por data centers"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/06/disney-esta-demitindo-centenas-de-funcionarios-em-todo-o-mundo-diz-fonte/",
         "title": "Disney Está Demitindo Funcionários em Todo o Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-the-walt-disneyy-company-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-300x200.png",
         "date": "03/06/2025",
         "description": "Ações da Sanrio mais que dobraram no último ano, o que fez Shintaro Tsuji voltar a ser parte do seleto grupo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/asteroide-maior-que-a-torre-eiffel-se-aproxima-da-terra/",
-        "title": "Asteroide maior que a Torre Eiffel se aproxima da Terra",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Meteoro-300x200.png",
-        "date": "03/06/2025",
-        "description": "Apesar de ser 97% maior do que os demais asteroides conhecidos, a aproximação não representa nenhuma ameaça para o planeta"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/mattel-unifica-unidades-de-cinema-e-televisao-para-criar-o-mattel-studios/",
-        "title": "Mattel Unifica Unidades de Cinema e Televisão para criar o Mattel Studios",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/03/mulher-margot-robbie-greta-gerwig-barbie-300x200.jpg",
-        "date": "03/06/2025",
-        "description": "Empresa deseja fortalecer produções inspiradas em suas marcas e reproduzir sucesso que teve com o filme \"Barbie\""
     }
 ]
