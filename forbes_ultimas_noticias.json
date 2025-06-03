@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/musk-chama-corte-de-impostos-e-gastos-de-trump-de-abominacao-nojenta/",
+        "title": "Musk Chama Corte de Impostos e Gastos de Trump de \"Abominação Nojenta\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-elon-musk-300x200.jpg",
+        "date": "03/06/2025",
+        "description": "Bilionário ampliou suas críticas ao projeto de lei que o presidente dos EUA tem pressionado os colegas republicanos no Congresso a adotar"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/otimismo-sobre-medidas-fiscais-ressuscita-ibovespa-enquanto-dolar-cai/",
+        "title": "Otimismo sobre Medidas Fiscais 'Ressuscita' Ibovespa, Enquanto Dólar Cai",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "03/06/2025",
+        "description": "Governo Federal afirmou que está estudando alternativas para rever ajustes do IOF"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/pix-automatico-como-funciona-a-nova-modalidade-de-pagamento/",
         "title": "Pix Automático: Como Funciona a Nova Modalidade de Pagamento?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-3-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2019/02/negocios_tecnologia-medica_150219_GettyImages1.jpg",
         "date": "03/06/2025",
         "description": "Segundo o INCA, o Brasil registra cerca de 11 mil novos casos anuais de câncer do sistema nervoso central"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/colheita-de-cafe-de-cooperados-da-cooxupe-atinge-10-da-area/",
-        "title": "Colheita de Café de Cooperados da Cooxupé Atinge 10% da Área",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-03T141034Z_1_LYNXNPEL520P5_RTROPTP_4_BRAZIL-COFFEE-ROBUSTA-300x200.jpg",
-        "date": "03/06/2025",
-        "description": "Cooperativa responde por 16,5% da produção brasileira estimada de café arábica"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/circle-emissora-de-stablecoin-mira-avaliacao-de-us-72-bi-em-ipo-nos-eua/",
-        "title": "Circle, Emissora de Stablecoin, Mira Avaliação de US$ 7,2 Bi em IPO nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/07/criptomoedas-babel-finance-forbesmoney-300x200.jpg",
-        "date": "03/06/2025",
-        "description": "Stablecoins mantêm paridade com o dólar e facilitam a movimentação de fundos entre tokens no mercado cripto"
     }
 ]
