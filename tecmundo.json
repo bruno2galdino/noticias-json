@@ -1,9 +1,16 @@
 [
     {
-        "url": "https://www.tecmundo.com.br/voxel/501528-the-witcher-4-recebe-gameplay-belissimo-na-summer-game-fest-assista-agora.htm",
-        "title": "The Witcher 4 recebe gameplay belíssimo na Summer Game Fest! Assista agora",
-        "description": "Durante evento da Unreal Engine 5, a CD Projekt mostrou uma apresentação técnica de Witcher 4, que promete rodar em 60 fps com Ray Tracing no PS5 base",
-        "image": "https://tm.ibxk.com.br/2025/06/03/03104657839102.jpg",
+        "url": "https://www.tecmundo.com.br/voxel/501526-nintendo-alerta-nao-retire-a-pelicula-protetora-da-tela-do-switch-2-entenda-o-motivo.htm",
+        "title": "Nintendo alerta: Não retire a película protetora da tela do Switch 2! Entenda o motivo",
+        "description": "Em publicação no site oficial, a Nintendo of Europe alertou os jogadores para que não retirem a película protetora da tela do Switch 2; Saiba o motivo!",
+        "image": "https://tm.ibxk.com.br/2025/06/03/03093323520024.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/404887-alguem-fez-o-moto-razr-40-ultra-rodar-o-windows-xp-confira.htm",
+        "title": "Alguém fez o Moto Razr 40 Ultra rodar o Windows XP; confira",
+        "description": "Usando um emulador baseado no QEMU, um usuário do Reddit compartilhou fotos de um Moto Razr 40 Ultra rodando o Windows XP",
+        "image": "https://tm.ibxk.com.br/2025/06/02/02223216017021.jpg",
         "date": null
     }
 ]
