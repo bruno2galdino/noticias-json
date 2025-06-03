@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/mattel-unifica-unidades-de-cinema-e-televisao-para-criar-o-mattel-studios/",
+        "title": "Mattel Unifica Unidades de Cinema e Televisão para criar o Mattel Studios",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/03/mulher-margot-robbie-greta-gerwig-barbie-300x200.jpg",
+        "date": "03/06/2025",
+        "description": "Empresa deseja fortalecer produções inspiradas em suas marcas e reproduzir sucesso que teve com o filme \"Barbie\""
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/cade-aprova-fusao-entre-petz-e-cobasi-e-abre-caminho-para-gigante-do-setor-pet/",
+        "title": "Cade Aprova Fusão entre Petz e Cobasi e Abre Caminho para Gigante do Setor Pet",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/04/money-petz-300x200.jpg",
+        "date": "03/06/2025",
+        "description": "Aprovação se tornará definitiva após 15 dias, caso o Tribunal do Cade e terceiros interessados não se manifestem"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-ocde-reduz-projecao-para-pib-de-2025/",
         "title": "Pré-Mercado: OCDE Reduz Projeção Para PIB de 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/WSB_AltoAdiges_2JUN2025_Getty-300x200.jpg",
         "date": "03/06/2025",
         "description": "A região, que foi formada por italianos, suíços e austríacos, está se destacando na produção de vinhos finos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/ia-ja-e-habito-de-93-dos-brasileiros-conectados-veja-quais-sao-as-ferramentas-mais-usadas/",
-        "title": "IA Já É Hábito de 93% dos Brasileiros Conectados; Veja Quais São as Ferramentas Mais Usadas",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
-        "date": "03/06/2025",
-        "description": "Uma pesquisa da Conversion, em parceria com a ESPM, mostra que 49,7% dos brasileiros utilizam ferramentas de inteligência artificial generativa diariamente"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/com-dados-da-onu-ferramenta-revela-sua-expectativa-de-vida-faca-o-teste/",
-        "title": "Com Dados da ONU, Ferramenta Revela Sua Expectativa de Vida; Faça o Teste",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_mundo_fome_07abrr25_-DEC_Divulg-300x200.jpg",
-        "date": "03/06/2025",
-        "description": "A Population.io utiliza dados da Organização das Nações Unidas (ONU) e do estudo Perspectivas da População Mundial para apresentar informações demográficas com base na nacionalidade e idade"
     }
 ]
