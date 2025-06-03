@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/06/disney-esta-demitindo-centenas-de-funcionarios-em-todo-o-mundo-diz-fonte/",
+        "title": "Disney Está Demitindo Funcionários em Todo o Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-the-walt-disneyy-company-300x200.jpg",
+        "date": "03/06/2025",
+        "description": "Cortes afetam equipes de marketing de cinema e televisão, publicidade televisiva, elenco e desenvolvimento"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/importacoes-de-soja-pela-ue-em-2024-25-aumentam-7-ate-1o-de-junho/",
+        "title": "Importações de Soja Pela UE em 2024/25 Aumentam 7% até 1º de Junho",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Design-sem-nome-28-300x200.jpg",
+        "date": "03/06/2025",
+        "description": "Estados Unidos aparecem como o principal fornecedor da UE, com 5,7 milhões de toneladas, seguido pelo Brasil, com cerca de 5 milhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/colheita-de-graos-da-ucrania-em-2025-pode-cair-em-10/",
+        "title": "Colheita de Grãos da Ucrânia em 2025 Pode Cair em 10%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_trigo_21-jul-23_Reuters-300x200.jpg",
+        "date": "03/06/2025",
+        "description": "O clima e os riscos militares associados à invasão russa estão impactando a safra do cereal"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/fmi-passa-a-ver-expansao-de-23-no-brasil-em-2025-e-convergencia-da-inflacao-a-meta-ate-o-fim-de-2027/",
+        "title": "FMI Passa a Ver Expansão de 2,3% no Brasil em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-fmi-300x200.jpg",
+        "date": "03/06/2025",
+        "description": "Projeções foram feitas após avaliação periódica da economia do país pelo Fundo"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/06/estudos-apresentados-no-congresso-americano-de-oncologia-apontam-avancos-promissores-contra-o-cancer-cerebral/",
         "title": "Estudos Apresentados no Congresso Americano de Oncologia Apontam Avanços Promissores contra o Câncer Cerebral",
         "image": "https://forbes.com.br/wp-content/uploads/2019/02/negocios_tecnologia-medica_150219_GettyImages1.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/03/mulher-margot-robbie-greta-gerwig-barbie-300x200.jpg",
         "date": "03/06/2025",
         "description": "Empresa deseja fortalecer produções inspiradas em suas marcas e reproduzir sucesso que teve com o filme \"Barbie\""
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/cade-aprova-fusao-entre-petz-e-cobasi-e-abre-caminho-para-gigante-do-setor-pet/",
-        "title": "Cade Aprova Fusão entre Petz e Cobasi e Abre Caminho para Gigante do Setor Pet",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/04/money-petz-300x200.jpg",
-        "date": "03/06/2025",
-        "description": "Aprovação se tornará definitiva após 15 dias, caso o Tribunal do Cade e terceiros interessados não se manifestem"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-ocde-reduz-projecao-para-pib-de-2025/",
-        "title": "Pré-Mercado: OCDE Reduz Projeção Para PIB de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "03/06/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 3 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/06/arthur-guerra-autocuidado-por-que-voce-esta-falhando-em-cuidar-da-sua-saude-mental-e-como-virar-o-jogo-agora/",
-        "title": "Autocuidado: por Que Você Está Falhando em Cuidar da Sua Saúde Mental (E Como Virar o Jogo Agora)",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-1301619674-300x200.jpeg",
-        "date": "03/06/2025",
-        "description": "Depois de se reconectar com sua essência, dê o próximo passo com gentileza: pequenos cuidados físicos que nutrem corpo e alma"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/clubismo-do-brasileiro-na-hora-de-investir-e-maior-desafio-do-citi-para-crescer-no-pais/",
-        "title": "'Clubismo' do Brasileiro na Hora de Investir É Maior Desafio do Citi para Crescer no País",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/1500x1000-1-300x200.jpg",
-        "date": "03/06/2025",
-        "description": "Ao contrário do restante da América Latina, os investidores locais tendem a manter o capital investido no próprio país."
     }
 ]
