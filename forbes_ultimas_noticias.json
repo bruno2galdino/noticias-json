@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/decisao-do-bce-derruba-o-dolar-que-chega-ao-menor-patamar-desde-outubro/",
+        "title": "Decisão do BCE Derruba o Dólar, Que Chega Ao Menor Patamar desde Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "05/06/2025",
+        "description": "Avanço nas conversas entre Estados Unidos e China também enfraqueceram a moeda ante outras divisas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/porto-de-itaqui-exportou-mais-soja-em-2024-apesar-da-quebra-de-safra-aponta-conab/",
+        "title": "Porto de Itaqui Exportou Mais Soja em 2024 Apesar da Quebra de Safra, Aponta Conab",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Soja-em-mercado-na-China-300x200.jpg",
+        "date": "05/06/2025",
+        "description": "As exportações acumuladas de soja brasileira em 2024 atingiram a marca de 98,81 milhões de tonelada"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/rompimento-com-trump-faz-elon-musk-perder-r143-bilhoes-em-uma-tarde/",
+        "title": "Rompimento com Trump Faz Elon Musk Perder R$ 143 Bilhões em uma Tarde",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-5-300x200.jpg",
+        "date": "05/06/2025",
+        "description": "Briga entre ex-aliados afetaram as ações da Tesla; Musk e Trump trocam ofensas pelas redes sociais"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/por-dentro-de-um-jato-particular-de-us-80-milhoes-a-nova-aposta-da-airbus/",
+        "title": "Por Dentro do Novo Jatinho Particular de US$ 80 Milhões da Airbus",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Airbus-7-300x200.jpg",
+        "date": "05/06/2025",
+        "description": "A Forbes conheceu de perto o ACJ TwoTwenty, que faz sua estreia no Brasil com promessa de alto desempenho, conforto e design sob medida"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/visa-aposta-no-pix-e-lanca-nova-empresa-no-brasil/",
         "title": "Visa Aposta no Pix e Lança Nova Empresa no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-4-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/11/cropped-dolares-1-300x200.jpg",
         "date": "05/06/2025",
         "description": "Esta foi a segunda emissão externa feita pelo Tesouro neste ano. Em fevereiro, o governo brasileiro captou US$2,5 bilhões na emissão de títulos em dólares a vencer em 2035"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/mantiqueira-comeca-projetos-nos-eua-apos-venda-de-fatia-para-jbs/",
-        "title": "Mantiqueira Começa Projetos nos EUA após Venda de Fatia para JBS",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/LenadroPinto_Mantiqueira_5JUN2025_Divulgacao-300x200.jpg",
-        "date": "05/06/2025",
-        "description": "Segundo Leandro Pinto, presidente da empresa, o plano de \"ir para o mundo\""
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/ao-lado-de-macron-lula-diz-que-concluira-acordo-ue-mercosul-neste-ano-e-pede-que-frances-abra-coracao/",
-        "title": "Ao Lado de Macron, Lula Diz Que Concluirá Acordo UE-Mercosul Neste Ano e Pede Que Francês \"Abra Coração\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/02/Money_Uniao-Europeia_7dez20_REUTERS_Yves-Herman_File-Photo-e1733162596478.jpg",
-        "date": "05/06/2025",
-        "description": "Macron tem manifestado oposição veemente ao acordo comercial entre Mercosul e UE, em linha com a posição do setor agrícola da França"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/vendas-de-cafe-ficam-mais-lentas-no-vietna/",
-        "title": "Vendas de Café Ficam Mais Lentas no Vietnã",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_CafeVietna_5JUN2025_Getty-300x200.jpg",
-        "date": "05/06/2025",
-        "description": "Já no Brasil, a colheita do conilon está progredindo com o clima favorável e uma grande safra prevista"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/bolsa-birkin-original-de-jane-birkin-vai-a-leilao/",
-        "title": "Bolsa Hermès Birkin Original de Jane Birkin Vai a Leilão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.A-bolsa-Birkin-original-300x200.jpg",
-        "date": "05/06/2025",
-        "description": "Protótipo criado em 1984 para a cantora britânica será leiloado em Paris durante a Semana de Alta-Costura"
     }
 ]
