@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/emissora-de-stablecoin-circle-levanta-us-105-bi-em-ipo-nos-eua/",
+        "title": "Emissora de Stablecoin Circle Levanta US$ 1,05 Bi em IPO nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-3-300x200.png",
+        "date": "05/06/2025",
+        "description": "Estreia da empresa na bolsa de valores está entre as maiores deste ano e a maior da indústria de criptoativos desde a chegada da Coinbase Global, em 2021"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/bcs-caminham-para-quarto-ano-de-fortes-compras-de-ouro-diz-metals-focus/",
+        "title": "BCs Caminham para Quarto Ano de Fortes Compras de Ouro, Diz Metals Focus",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Ouro-300x200.png",
+        "date": "05/06/2025",
+        "description": "Até o momento, valor do metal avançou 29% em relação ao ano passado, diante das incertezas provocadas pela política tarifária de Donald Trump"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/reddit-alega-que-modelos-de-ia-treinados-pela-anthropic-usam-dados-de-seus-usuarios-sem-consentimento/",
         "title": "Reddit Alega Que Modelos de IA Treinados Pela Anthropic Usam Dados de Seus Usuários sem Consentimento",
         "image": "https://forbes.com.br/wp-content/uploads/2021/01/1_Forbes-Money_Reddit_29jan2021_SOPA-Images_GettyImages.jpg",
@@ -7,7 +21,7 @@
         "description": "O processo aberto na quarta-feira no Tribunal Superior da Califórnia acusou a empresa de \"atos comerciais ilegais e injustos\""
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/06/suzano-fecha-joint-venture-global-de-us-34-bilhoes-com-a-kimberly-clark/",
+        "url": "https://forbes.com.br/forbes-money/2025/06/suzano-fecha-joint-venture-global-de-us-34-bilhoes-com-a-kimberly-clark/",
         "title": "Suzano Fecha Joint Venture Global de US$ 3,4 Bilhões com a Kimberly-Clark",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Beto_Abreu_3jun25_Suzano_Divulg-300x200.jpg",
         "date": "05/06/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-Epsy-Campbell-e-o-Impacto-da-Politica-no-Cenario-Empresarial--300x200.jpg",
         "date": "05/06/2025",
         "description": "Primeira vice-presidente negra da América Latina se tornou símbolo de como inclusão pode gerar impacto estrutural"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/fim-dos-portos-seguros-por-que-cada-vez-mais-paises-enfrentam-problemas-de-credito/",
-        "title": "Fim dos Portos Seguros? Por Que Cada Vez Mais Países Enfrentam Problemas de Crédito",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-2-300x200.png",
-        "date": "05/06/2025",
-        "description": "Problemas fiscais são a principal justificativa de agências para rebaixar notas soberanas dos países — e nem as economias mais ricas do mundo se salvam"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/brasil-avanca-no-mercado-de-apps-mas-enfrenta-desafios-com-fraudes-milionarias/",
-        "title": "Brasil Avança no Mercado de Apps, Mas Enfrenta Desafios com Fraudes Milionárias",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/RenataAltemari_AppsFlyer-Brazil-Country-Manager-300x200.jpg",
-        "date": "05/06/2025",
-        "description": "O Brasil registrou perdas superiores a US$460 milhões devido a fraudes em instalações de aplicativos, uma prática que simula usuários falsos por meio de bots e fazendas de cliques"
     }
 ]
