@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/visa-aposta-no-pix-e-lanca-nova-empresa-no-brasil/",
+        "title": "Visa Aposta no Pix e Lança Nova Empresa no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-4-300x200.png",
+        "date": "05/06/2025",
+        "description": "Visa Conecta chega com a proposta de se tornar um hub de desenvolvimento de soluções para movimentação financeira no do ambiente digital"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/laysa-peixoto-conheca-a-primeira-brasileira-que-ira-ao-espaco/",
+        "title": "Laysa Peixoto: Conheça a Primeira Brasileira que Irá ao Espaço",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/lAYSA-Peixoto-300x200.png",
+        "date": "05/06/2025",
+        "description": "Forbes Under 30 de 2023, a astronauta de 22 anos fará parte do voo inaugural da Titans Space em 2029"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/brf-esta-confiante-que-crise-da-gripe-aviaria-acabara-em-breve/",
         "title": "BRF Está Confiante Que Crise da Gripe Aviária Acabará em Breve",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_frango_14fev23_Tim-Graham_Guettyimages-300x200.jpg",
@@ -8,7 +22,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/06/como-donald-trump-ganhou-quase-us-1-bilhao-com-criptomoedas-em-poucos-meses/",
-        "title": "Como Donald Trump Ganhou Quase US$ 1 Bilhão com Criptomoedas em Poucos Meses",
+        "title": "Como Trump Ganhou Quase US$ 1 Bi com Criptos em Meses",
         "image": "https://forbes.com.br/wp-content/uploads/2024/11/GettyImages-2181411140-1-300x200.jpg",
         "date": "05/06/2025",
         "description": "Os ativos em criptomoedas do presidente valem mais do que qualquer imóvel individual em seu portfólio — e até mais do que soma de Mar-a-Lago e Trump Tower"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.A-bolsa-Birkin-original-300x200.jpg",
         "date": "05/06/2025",
         "description": "Protótipo criado em 1984 para a cantora britânica será leiloado em Paris durante a Semana de Alta-Costura"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/grazielle-parenti-e-a-nova-vice-presidente-de-sustentabilidade-da-vale/",
-        "title": "Grazielle Parenti É a Nova Vice-presidente de Sustentabilidade da Vale",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Grazielle-Parenti_26jan25_Divulgacao-300x200.jpg",
-        "date": "05/06/2025",
-        "description": "O mandato está previsto para começar no dia 7 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/emissora-de-stablecoin-circle-levanta-us-105-bi-em-ipo-nos-eua/",
-        "title": "Emissora de Stablecoin Circle Levanta US$ 1,05 Bi em IPO nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-3-300x200.png",
-        "date": "05/06/2025",
-        "description": "Estreia da empresa na bolsa de valores está entre as maiores deste ano e a maior da indústria de criptoativos desde a chegada da Coinbase Global, em 2021"
     }
 ]
