@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/vote-na-jogada-do-mes-de-maio-da-atp-ate-o-dia-10.html",
-        "title": "Vote na jogada do mês de maio da ATP até o dia 10",
-        "image": null,
-        "date": "06/06/2025",
-        "description": "Londres (Inglaterra) –A temporada europeia no saibro foi finalizada com estilo, com direito a uma série de jogadas geniais de alguns dos melhores competidores do ATP Tour."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-06-06.html",
         "title": "O dia dos brasileiros: veja os resultados desta sexta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/05/luiz_calixto_copawc_back.jpg",
@@ -32,7 +25,7 @@
         "title": "Ingrid vai à final de duplas na Itália, Carol cai nas quartas",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/ingrid_vibra_sozinha-1024x691.jpg",
         "date": "06/06/2025",
-        "description": "Bari (Itália)– A carioca Ingrid Martins vai em busca do quarto título de WTA e o segundo de nível 175 neste sábado no saibro italiano. Ela e a norte-americana Quinn Gleason são as principais inscritas e superaram nesta sexta-feira as locais Vittoria Paganetti e Federica Urgesi, por 6/4, 7/5 e 11-9."
+        "description": "Bari (Itália)– A carioca Ingrid Martins vai em busca do quarto título de WTA e o segundo de nível 125 neste sábado no saibro italiano. Ela e a norte-americana Quinn Gleason são as principais inscritas e superaram nesta sexta-feira as locais Vittoria Paganetti e Federica Urgesi, por 6/4, 7/5 e 11-9."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/musetti-sente-a-coxa-e-alcaraz-faz-segunda-final-seguida-em-roland-garros.html",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/aEB5orh8WN-LVm_i__NG19084JannikSinnerQuartsdefinaleRoland-Garros2025-1024x683.jpeg",
         "date": "06/06/2025",
         "description": "Paris (França)– Embora o italiano Jannik Sinner tenha chegado nas semifinais de Roland Garros sem perder set, o treinador australiano Darren Cahill afirma que o número 1 do mundo ainda não está com o ritmo de jogo ideal, depois de ter ficado três meses sem competir por causa de uma punição por doping."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/lendas-do-tenis-pensam-em-como-djokovic-pode-superar-sinner-na-semi.html",
+        "title": "Lendas do tênis pensam em como Djokovic pode superar Sinner na semi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/aD3N87h8WN-LVfcd_MAH26470-min-1024x683.jpeg",
+        "date": "06/06/2025",
+        "description": "Paris (França)– Antes da semifinal mais aguardada desta sexta-feira, entre Novak Djokovic e Jannik Sinner, o canalEurosport, responsável pela transmissão de Roland garros para a Europa, reuniu grandes lendas do tênis para avaliar as reais possibilidades do sérvio contra o italiano, atual número 1 do mundo."
     }
 ]
