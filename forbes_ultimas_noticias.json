@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/o-novo-pesadelo-da-tesla-atende-pelo-nome-de-donald-trump/",
+        "title": "O Novo Pesadelo da Tesla Atende pelo Nome de Donald Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Elon_Musk_Donald_Trump_01fev25_Getty-300x200.jpg",
+        "date": "06/06/2025",
+        "description": "O rompimento entre os dois aliados tende a gerar ainda mais problemas para a empresa de carros elétricos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-igp-di-em-baixa-emprego-nos-eua-e-briga-musk-x-trump/",
         "title": "Pré-mercado: IGP-Di em Baixa, Emprego nos EUA e Briga Musk X Trump",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -32,7 +39,7 @@
         "title": "Por Que a 'Grande Transferência de Riqueza' Geracional Pode Falhar",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-1-1-300x200.png",
         "date": "06/06/2025",
-        "description": "A economia da longevidade tem impactado os valores a serem passados pelo Boommers aos Millennials"
+        "description": "A economia da longevidade tem impactado os valores a serem passados pelos Boommers aos Millennials"
     },
     {
         "url": "https://forbes.com.br/carreira/2025/06/metas-esg-impactam-salarios-de-executivos-na-maioria-das-empresas/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Soja-em-mercado-na-China-300x200.jpg",
         "date": "05/06/2025",
         "description": "As exportações acumuladas de soja brasileira em 2024 atingiram a marca de 98,81 milhões de tonelada"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/rompimento-com-trump-faz-elon-musk-perder-r143-bilhoes-em-uma-tarde/",
-        "title": "Rompimento com Trump Faz Elon Musk Perder R$ 143 Bilhões em uma Tarde",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-5-300x200.jpg",
-        "date": "05/06/2025",
-        "description": "Briga entre ex-aliados afetaram as ações da Tesla; Musk e Trump trocam ofensas pelas redes sociais"
     }
 ]
