@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/retomada-de-limites-a-cereais-da-ucrania-da-pequeno-impulso-a-agricultor-da-ue/",
+        "title": "Retomada de Limites a Cereais da Ucrânia Dá Pequeno Impulso a Agricultor da UE",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Lavoura-de-trigo-300x200.jpg",
+        "date": "06/06/2025",
+        "description": "A redução do acesso ao enorme mercado de cereais da UE foi um revés para a Ucrânia"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/fabricante-de-chips-broadcom-recua-em-ny-apos-decepcao-em-previsao-de-receita/",
         "title": "Fabricante de Chips Broadcom Recua em NY após Decepção em Previsão de Receita",
         "image": "https://forbes.com.br/wp-content/uploads/2024/01/chips-forbesmoney-300x200.jpg",
@@ -14,11 +21,25 @@
         "description": "Os investimentos em infraestrutura, nas feiras exclusivas e em jatos mostram que a aviação virou uma extensão das operações no campo"
     },
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/ue-retoma-tarifas-agricolas-a-ucrania-anteriores-a-guerra/",
+        "title": "UE Retoma Tarifas Agrícolas À Ucrânia Anteriores À Guerra",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_AcucarUcrania_5JUN2025_Getty-300x200.jpg",
+        "date": "06/06/2025",
+        "description": "O bloco havia renunciado temporariamente à cobrança de taxas e cotas sobre produtos agrícolas em 2022 após a invasão russa"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/ue-esta-aberta-a-reduzir-tarifas-sobre-fertilizantes-dos-eua/",
         "title": "UE Está Aberta a Reduzir Tarifas sobre Fertilizantes dos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Fertilizantes_5JUN2025_Getty-300x200.jpg",
         "date": "06/06/2025",
         "description": "As exportações dos EUA enfrentam as tarifas padrão da UE de 5,5% sobre as importações de amônia"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/precos-mundiais-de-alimentos-caem-em-maio/",
+        "title": "Preços Mundiais de Alimentos Caem em Maio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Agro_PrecoDosAlimentos_27jan25_GettyImages-300x200.jpg",
+        "date": "06/06/2025",
+        "description": "O movimento ocorreu com pressão nos preços dos cereais, óleos e açúcar"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/06/beyonce-homenageia-origens-negras-da-musica-country-na-turne-europeia-de-cowboy-carter/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_SeguroRural_5JUN2025_Getty-300x200.jpg",
         "date": "06/06/2025",
         "description": "Essa modalidade de apólice protege o produtor contra perdas decorrentes de fenômenos climático e garante renda e estabilidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/acoes-das-casas-bahia-sobem-20-apos-plano-de-conversao-de-divida/",
-        "title": "Ações das Casas Bahia Sobem 20% após Plano de Conversão de Dívida",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/12/Casas-Bahia-300x200.jpg",
-        "date": "06/06/2025",
-        "description": "Empresa quer antecipar de outubro para este mês a conversão de dívida de R$ 1,57 bilhão em ações"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/abpa-ve-queda-na-exportacao-de-carne-de-frango-apos-gripe-aviaria/",
-        "title": "ABPA Vê Queda na Exportação de Carne de Frango após Gripe Aviária",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/agro_frangos_aves_15fev23_Reuters_Danish-Siddiqui-300x200.jpg",
-        "date": "06/06/2025",
-        "description": "Algumas nações, como a China, maior importador em 2024, estão embargando a carne de todo o Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/entenda-a-cronologia-da-briga-entre-musk-e-trump/",
-        "title": "Entenda Toda a Briga entre Musk e Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/2024-11-13T105018Z_1_LYNXMPEKAC0FC_RTROPTP_4_USA-ELECTION-TRUMP-CLIMATE-CHANGE-300x200.jpg",
-        "date": "06/06/2025",
-        "description": "Nas últimas 24 horas, bilionários trocaram farpas nas redes sociais X e Truth Social"
     }
 ]
