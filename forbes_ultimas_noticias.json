@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/06/brandvoice-moet-hennessy-a-maxima-expressao-da-arte-do-pinot-noir/",
+        "title": "A Máxima Expressão da Arte do Pinot Noir",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/moet-bv-jun-300x200.png",
+        "date": "06/06/2025",
+        "description": "Chega ao Brasil a Veuve Clicquot La Grande Dame 2018, a 25ª safra da cuvée que é expressão de um savoir-faire bicentenário"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/10-segmentos-que-vao-mudar-a-economia-global-ate-2040/",
         "title": "10 Segmentos Que Vão Mudar a Economia Global até 2040",
         "image": "https://forbes.com.br/wp-content/uploads/2021/05/colunas_computador_231019_Andrew-Brookes_GettyImages.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Airbus-7-300x200.jpg",
         "date": "05/06/2025",
         "description": "A Forbes conheceu de perto o ACJ TwoTwenty, que faz sua estreia no Brasil com promessa de alto desempenho, conforto e design sob medida"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/visa-aposta-no-pix-e-lanca-nova-empresa-no-brasil/",
-        "title": "Visa Aposta no Pix e Lança Nova Empresa no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-4-300x200.png",
-        "date": "05/06/2025",
-        "description": "Visa Conecta chega com a proposta de se tornar um hub de desenvolvimento de soluções para movimentação financeira no do ambiente digital"
     }
 ]
