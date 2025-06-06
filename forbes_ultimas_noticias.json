@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://forbes.com.br/forbesagro/2025/06/retomada-de-limites-a-cereais-da-ucrania-da-pequeno-impulso-a-agricultor-da-ue/",
-        "title": "Retomada de Limites a Cereais da Ucrânia Dá Pequeno Impulso a Agricultor da UE",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Lavoura-de-trigo-300x200.jpg",
-        "date": "06/06/2025",
-        "description": "A redução do acesso ao enorme mercado de cereais da UE foi um revés para a Ucrânia"
-    },
-    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/fabricante-de-chips-broadcom-recua-em-ny-apos-decepcao-em-previsao-de-receita/",
         "title": "Fabricante de Chips Broadcom Recua em NY após Decepção em Previsão de Receita",
         "image": "https://forbes.com.br/wp-content/uploads/2024/01/chips-forbesmoney-300x200.jpg",
@@ -33,6 +26,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Fertilizantes_5JUN2025_Getty-300x200.jpg",
         "date": "06/06/2025",
         "description": "As exportações dos EUA enfrentam as tarifas padrão da UE de 5,5% sobre as importações de amônia"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/retomada-de-limites-a-cereais-da-ucrania-da-pequeno-impulso-a-agricultor-da-ue/",
+        "title": "Retomada de Limites a Cereais da Ucrânia Dá Pequeno Impulso a Agricultor da UE",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Lavoura-de-trigo-300x200.jpg",
+        "date": "06/06/2025",
+        "description": "A redução do acesso ao enorme mercado de cereais da UE foi um revés para a Ucrânia"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/06/precos-mundiais-de-alimentos-caem-em-maio/",
