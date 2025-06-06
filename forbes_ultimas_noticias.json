@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/fabricante-de-chips-broadcom-recua-em-ny-apos-decepcao-em-previsao-de-receita/",
+        "title": "Fabricante de Chips Broadcom Recua em NY após Decepção em Previsão de Receita",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/01/chips-forbesmoney-300x200.jpg",
+        "date": "06/06/2025",
+        "description": "A empresa norte-americana fornece chips para Apple e Samsung"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/de-bonanza-a-citation-a-nova-geracao-do-agro-voa-em-uma-frota-de-bilhoes/",
         "title": "De Bonanza a Citation, a Nova Geração do Agro Voa em uma Frota de Bilhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_Citation_boi_06jun25_V.Ondei_-300x200.jpg",
         "date": "06/06/2025",
         "description": "Os investimentos em infraestrutura, nas feiras exclusivas e em jatos mostram que a aviação virou uma extensão das operações no campo"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/ue-esta-aberta-a-reduzir-tarifas-sobre-fertilizantes-dos-eua/",
+        "title": "UE Está Aberta a Reduzir Tarifas sobre Fertilizantes dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Fertilizantes_5JUN2025_Getty-300x200.jpg",
+        "date": "06/06/2025",
+        "description": "As exportações dos EUA enfrentam as tarifas padrão da UE de 5,5% sobre as importações de amônia"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/06/beyonce-homenageia-origens-negras-da-musica-country-na-turne-europeia-de-cowboy-carter/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/11/2024-11-13T105018Z_1_LYNXMPEKAC0FC_RTROPTP_4_USA-ELECTION-TRUMP-CLIMATE-CHANGE-300x200.jpg",
         "date": "06/06/2025",
         "description": "Nas últimas 24 horas, bilionários trocaram farpas nas redes sociais X e Truth Social"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/criacao-de-vagas-de-emprego-nos-eua-desacelera-em-maio-taxa-de-desemprego-segue-em-42/",
-        "title": "Criação de Vagas de Emprego nos EUA Desacelera em Maio; Taxa de Desemprego Segue em 4,2%",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/04/money-desemprego-eua-vagas-de-trabalho-300x200.jpg",
-        "date": "06/06/2025",
-        "description": "Cenário pode proporcionar ao Federal Reserve diminuir a taxa de juros americana"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/briga-entre-musk-e-trump-poe-em-risco-us22-bilhoes-em-contratos-da-spacex/",
-        "title": "Briga entre Musk e Trump Põe em Risco US$22 Bilhões em Contratos da SpaceX",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Musk-DOGE-300x200.png",
-        "date": "06/06/2025",
-        "description": "O progresso espacial dos EUA pode ser afetado se o Trump priorizar a retaliação política e cancelar bilhões de dólares em contratos da SpaceX com a Nasa e o Pentágono"
     }
 ]
