@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/10-segmentos-que-vao-mudar-a-economia-global-ate-2040/",
+        "title": "10 Segmentos Que Vão Mudar a Economia Global até 2040",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/05/colunas_computador_231019_Andrew-Brookes_GettyImages.jpg",
+        "date": "06/06/2025",
+        "description": "Segundo a McKinsey, o e-commerce e a inteligência artificial serão determinantes na transformação dos negócios globais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/quando-ver-a-lua-cheia-de-junho-a-mais-baixa-desde-2006/",
+        "title": "Quando Ver a Lua Cheia de Junho — a Mais Baixa Desde 2006",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/moon-300x200.png",
+        "date": "06/06/2025",
+        "description": "O satélite estará mais baixo devido à \"grande parada lunar\", que acontece a cada 18,6 anos e dura cerca de um ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/por-que-a-grande-transferencia-de-riqueza-geracional-pode-falhar/",
+        "title": "Por Que a 'Grande Transferência de Riqueza' Geracional Pode Falhar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-1-1-300x200.png",
+        "date": "06/06/2025",
+        "description": "A economia da longevidade tem impactado os valores a serem passados pelo Boommers aos Millennials"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/06/metas-esg-impactam-salarios-de-executivos-na-maioria-das-empresas/",
+        "title": "Metas ESG Impactam Salários de Executivos na Maioria das Empresas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-metas-esg-salario-300x200.jpg",
+        "date": "06/06/2025",
+        "description": "Mais de 3 em cada 4 companhias de capital aberto atrelam indicadores sustentáveis à remuneração da liderança"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/por-dentro-de-uma-cobertura-de-r-105-milhoes-a-mais-cara-de-frankfurt/",
+        "title": "Cobertura de R$ 105 Milhões Redefine o Luxo em Frankfurt",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Life_0.Construida-por-e-para-uma-das-construtoras-mais-importantes-de-Frankfurt-a-cobertura-chamada-Skypearl-nunca-foi-programada-para-venda-300x200.jpg",
+        "date": "06/06/2025",
+        "description": "O Skypearl, apontado como o imóvel mais exclusivo do principal centro financeiro da Alemanha, reúne piscina, sauna e uma vista panorâmica da cidade"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/decisao-do-bce-derruba-o-dolar-que-chega-ao-menor-patamar-desde-outubro/",
         "title": "Decisão do BCE Derruba o Dólar, Que Chega Ao Menor Patamar desde Outubro",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-4-300x200.png",
         "date": "05/06/2025",
         "description": "Visa Conecta chega com a proposta de se tornar um hub de desenvolvimento de soluções para movimentação financeira no do ambiente digital"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/laysa-peixoto-conheca-a-primeira-brasileira-que-ira-ao-espaco/",
-        "title": "Laysa Peixoto: Conheça a Primeira Brasileira que Irá ao Espaço",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/lAYSA-Peixoto-300x200.png",
-        "date": "05/06/2025",
-        "description": "Forbes Under 30 de 2023, a astronauta de 22 anos fará parte do voo inaugural da Titans Space em 2029"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/brf-esta-confiante-que-crise-da-gripe-aviaria-acabara-em-breve/",
-        "title": "BRF Está Confiante Que Crise da Gripe Aviária Acabará em Breve",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_frango_14fev23_Tim-Graham_Guettyimages-300x200.jpg",
-        "date": "05/06/2025",
-        "description": "O primeiro foco da doença foi confirmado em 16 de maio"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/como-donald-trump-ganhou-quase-us-1-bilhao-com-criptomoedas-em-poucos-meses/",
-        "title": "Como Trump Ganhou Quase US$ 1 Bi com Criptos em Meses",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/GettyImages-2181411140-1-300x200.jpg",
-        "date": "05/06/2025",
-        "description": "Os ativos em criptomoedas do presidente valem mais do que qualquer imóvel individual em seu portfólio — e até mais do que soma de Mar-a-Lago e Trump Tower"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/empresas-da-coreia-do-sul-contratam-varias-importacoes-de-milho-dizem-traders/",
-        "title": "Empresas da Coreia do Sul Contratam Várias Importações de Milho, Dizem Traders",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_MilhoEtanol_26MAI2025_Getty-300x200.jpg",
-        "date": "05/06/2025",
-        "description": "O produto foi comprado em três remessas, todas para chegar à Coreia do Sul em setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/tesouro-nacional-capta-us275-bi-em-emissao-de-titulos-no-mercado-internacional-e-destaca-forte-demanda/",
-        "title": "Tesouro Nacional Capta US$ 2,75 Bi em Emissão de Títulos no Exterior",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/cropped-dolares-1-300x200.jpg",
-        "date": "05/06/2025",
-        "description": "Esta foi a segunda emissão externa feita pelo Tesouro neste ano. Em fevereiro, o governo brasileiro captou US$2,5 bilhões na emissão de títulos em dólares a vencer em 2035"
     }
 ]
