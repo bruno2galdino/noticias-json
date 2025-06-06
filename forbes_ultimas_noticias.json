@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/tesla-acompanha-wall-street-e-recupera-parte-das-perdas-da-vespera-dolar-cai-a-r-557/",
+        "title": "Tesla Acompanha Wall Street e Recupera Parte das Perdas da Véspera; Dólar Cai a R$ 5, Xx",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "06/06/2025",
+        "description": "Já Ibovespa chegou ao segundo dia consecutivo em queda, pressionado por expectativas com IOF"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/gol-encerra-processo-de-recuperacao-judicial-nos-eua-e-passa-a-focar-em-crescimento/",
+        "title": "Gol Encerra Processo de Recuperação Judicial nos EUA e Passa a Focar em Crescimento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Money-Aviao-da-Gol-300x200.jpg",
+        "date": "06/06/2025",
+        "description": "Apesar das dificuldades financeiras da Azul, as negociações para uma possível fusão entre a companhia aérea e a Gol estão em andamento"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/fabricante-de-chips-broadcom-recua-em-ny-apos-decepcao-em-previsao-de-receita/",
         "title": "Fabricante de Chips Broadcom Recua em NY após Decepção em Previsão de Receita",
         "image": "https://forbes.com.br/wp-content/uploads/2024/01/chips-forbesmoney-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/05/gucci_240921_Bobby-YipReuters-1024x683-1-300x200.jpg",
         "date": "06/06/2025",
         "description": "Grupo de luxo francês busca reduzir dívida com venda de ativos e corte de custos em meio à queda na demanda"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/colheita-de-cafe-do-brasil-atinge-28-do-total-apesar-de-chuvas-no-sul-de-mg/",
-        "title": "Colheita de Café do Brasil Atinge 28% do Total Apesar de Chuvas no Sul de MG",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-06T144038Z_1_LYNXNPEL550QT_RTROPTP_4_COFFEE-BRAZIL-FROST-300x200.jpg",
-        "date": "06/06/2025",
-        "description": "Ritmo de safra do café arábica ganha intensidade e alcança 21% da produção total"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/helen-jacintho-seguro-rural-deve-ser-prioridade-para-o-agro-brasileiro/",
-        "title": "Seguro rural deve ser prioridade para o agro brasileiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_SeguroRural_5JUN2025_Getty-300x200.jpg",
-        "date": "06/06/2025",
-        "description": "Essa modalidade de apólice protege o produtor contra perdas decorrentes de fenômenos climático e garante renda e estabilidade"
     }
 ]
