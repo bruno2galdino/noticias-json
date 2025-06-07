@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/gauff-conquista-seu-primeiro-titulo-em-paris-de-virada-veja-o-resumo.html",
+        "title": "Gauff conquista seu primeiro título em Paris, de virada. Veja o resumo.",
+        "image": null,
+        "date": "07/06/2025",
+        "description": ""
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/gauff-supera-sabalenka-de-virada-e-conquista-seu-segundo-slam.html",
         "title": "Gauff supera Sabalenka de virada e conquista seu segundo Slam",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/gauff-vibra-rg-final-2025-1024x682.jpeg",
@@ -9,7 +16,7 @@
     {
         "url": "https://tenisbrasil.uol.com.br/dupla-de-ingrid-leva-virada-e-e-vice-campea-no-saibro-italiano.html",
         "title": "Dupla de Ingrid leva virada e é vice-campeã no saibro italiano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/11/Image00053-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/ingrid-vice-bari-2025-1024x682.jpg",
         "date": "07/06/2025",
         "description": "Bari (Itália)– A carioca Ingrid Martins e sua parceria norte-americana Quinn Gleason saíram na frente, mas não conseguiram sustentar a vantagem, levaram a virada e ficaram com o vice-campeonato no WTA 125 disputado sobre o saibro italiano. As duas perderam na final das bielorrussas Maria Kozyreva e Iryna Shymanovich, por 3/6, 6/4 e 10-7."
     },
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/01/zverev-ao-aponta-cima-2025.jpg",
         "date": "07/06/2025",
         "description": "Stuttgart (Alemanha)– A curta e sempre interessante temporada de grama começa já nesta semana, com a disputa de dois ATP 250. Na Alemanha, três top 20 encabeçam o torneio de Stuttgart: o anfitrião Alexander Zverev, atual número 3 do mundo, e os norte-americanos Taylor Fritz, quarto colocado, e Ben Shelton, 13º."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/russas-andreescu-e-collins-jogam-na-grama-holandesa.html",
-        "title": "Russas, Andreescu e Collins jogam na grama holandesa",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/06/samsonova-trofeu-s-hertogenbosch-2024-1024x683.jpg",
-        "date": "07/06/2025",
-        "description": "‘s-Hertogenbosch (Holanda)– As russas Liudmila Samsonova e Ekaterina Alexandrova encabeçam o tradicional WTA 250 de ‘s-Herrtogenbosch, que abre a fase do calendário feminino de quadras de grama e oferece premiação de 239 mil euros."
     }
 ]
