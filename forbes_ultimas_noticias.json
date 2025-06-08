@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/como-bilionarios-usam-a-inteligencia-artificial-nos-negocios-e-na-vida/",
+        "title": "Como Bilionários Usam a Inteligência Artificial - nos Negócios e na Vida",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/TECH_IABilionarios_8JUN2025_Getty-300x200.jpg",
+        "date": "08/06/2025",
+        "description": "Pesquisa exclusiva da Forbes constatou que 65% dos super-ricos usam essa tecnologia na vida pessoal, e 77% no trabalho"
+    },
+    {
         "url": "https://forbes.com.br/forbeswsb/2025/06/por-que-cervejas-com-muita-espuma-estao-conquistando-paladares/",
         "title": "Por que Cervejas com Muita Espuma Estão Conquistando Paladares?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/WSB_CervejaEspuma_5JUN2025_JohnRobson-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/estados-unidos_china-300x200.jpg",
         "date": "07/06/2025",
         "description": "Autoridades se encontrarão em Londres para discutir disputa comercial entre as duas maiores economias do mundo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/galipolo-diz-que-membros-do-bc-entrarao-na-proxima-reuniao-do-copom-com-opcoes-em-aberto/",
-        "title": "Galípolo Diz Que Membros do BC Entrarão na Próxima Reunião do Copom com “Opções em Aberto”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/gabriel-galipolo-300x200.jpg",
-        "date": "07/06/2025",
-        "description": "Presidente do Banco Central também disse que a instituição continua \"muito insatisfeita\" com o fato de a inflação estar acima da meta"
     }
 ]
