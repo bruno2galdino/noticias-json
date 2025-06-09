@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/06/pai-de-musk-diz-que-briga-com-trump-foi-desencadeada-por-estresse-intenso-e-precisa-acabar/",
+        "title": "Pai de Musk Diz Que Briga com Trump Foi Desencadeada por Estresse Intenso e Precisa Acabar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Errol-Musk-pai-de-Elon-Musk-300x200.jpg",
+        "date": "09/06/2025",
+        "description": "Elon Musk financiou uma grande parte da campanha presidencial de Trump em 2024"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/o-que-sao-lca-e-lci-titulos-que-devem-perder-isencao-do-ir/",
+        "title": "O Que São LCA e LCI, Títulos Que Devem Perder Isenção do IR",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-5-300x200.png",
+        "date": "09/06/2025",
+        "description": "Proposta para revogar aumento da alíquotas do IOF, prevê taxa de 5% sobre investimentos isentos do imposto de renda"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/apple-wwdc-2025-acompanhe-ao-vivo-a-abertura-do-evento/",
         "title": "Apple WWDC 2025: Acompanhe Ao Vivo a Abertura do Evento",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Apple-WWDC-25-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/04/tech-warner-bros-max-steaming-300x200.jpg",
         "date": "09/06/2025",
         "description": "A separação alinhará o grupo com a Comcast, que está se desfazendo da maioria de suas redes de TV a cabo, como a MSNBC e a CNBC"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-alivio-com-tentativa-de-acordo-no-iof/",
-        "title": "Pré-mercado: Alívio com Tentativa de Acordo no IOF",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "09/06/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 9 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/iof-muda-de-novo-lca-e-lci-perdem-isencao-csll-de-fintechs-e-ir-de-bets-vai-subir/",
-        "title": "IOF Muda de Novo: LCA e LCI Perdem Isenção e IR de Bets Vai Subir",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/10/Bets-1-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "Alíquota sobre risco sacado será diminuída e isenções para empresas serão revistas; acordo veio após reunião de seis horas entre Fernando Haddad e lideranças do Congresso"
     }
 ]
