@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/boscardin_santos_term.jpg",
+        "date": "09/06/2025",
+        "description": "WTA 500 de Londres (Inglaterra) – Grama – 1.415.000 eurosPrimeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bia-ganha-uma-colocacao-mesmo-com-queda-na-estreia-em-roland-garros.html",
+        "title": "Bia ganha uma colocação mesmo com queda na estreia em Roland Garros",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/Beatriz_Haddad_Maia_-_Roland_Garros_2025_-_Day_3-DSC_7738_xgaplus.jpg",
+        "date": "09/06/2025",
+        "description": "São Petersburgo (EUA)– Embora não tenha conseguido ir longe em Roland Garros, caindo ainda na primeira rodada, Beatriz Haddad Maia acabou subindo no ranking divulgado logo após o Grand Slam francês. Ela contou com a queda da dinamarquesa Clara Tauson para ganhar uma colocação e aparecer no 22º lugar nesta segunda-feira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/kasatkina-anunca-noivado-com-ex-patinadora-olimpica.html",
+        "title": "Kasatkina anuncia noivado com ex-patinadora olímpica",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/Kasatkina_Natalia_Zabiiako.jpg",
+        "date": "09/06/2025",
+        "description": "Este Mês do Orgulho é ainda mais especial para Daria Kasatkina e sua namorada de longa data, Natalia Zabiiako. O casal, que tornou público o romance há três anos, anunciou neste sábado o noivado."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/gauff-e-alcaraz-de-adolescentes-prodigio-a-consagracao-em-paris.html",
         "title": "Gauff e Alcaraz: De adolescentes prodígio à consagração em Paris",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/arte_ps_gauff_rg.jpg",
@@ -47,26 +68,5 @@
         "image": null,
         "date": "08/06/2025",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/definidos-os-campeoes-do-ga-da-2a-etapa-do-circuito-nacional-infantojuvenil.html",
-        "title": "Definidos os campeões do GA da 2ª Etapa do Circuito Nacional Infantojuvenil",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/Circuito-Infanto_Itajai_geral.jpg",
-        "date": "08/06/2025",
-        "description": "Itajaí (SC)– Foi finalizada, neste domingo, a 2ª Etapa do Circuito Nacional Infantojuvenil, com a disputa das finais de simples da chave GA, nas quadras do Itamirim Clube de Campo. Mesmo com a instabilidade do tempo ao longo da noite em Itajaí, a manutenção das quadras foi feita e as partidas aconteceram normalmente. Os campeões somaram 250 pontos no ranking, e os vice-campeões, 200 pontos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/veja-a-cerimonia-de-premiacao-na-integra-em-18-minutos.html",
-        "title": "Veja a cerimônia de premiação na íntegra em 18 minutos",
-        "image": null,
-        "date": "08/06/2025",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-busca-virada-epica-sobre-sinner-e-fatura-o-bi-em-paris.html",
-        "title": "Alcaraz busca virada épica sobre Sinner e fatura o bi em Paris",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/alcaraz-caido-no-saibro-final-rg-2025-1024x683.jpeg",
-        "date": "08/06/2025",
-        "description": "Paris (França)– Cercada de expectativas, a primeira final de Grand Slam entre Jannik Sinner e Carlos Alcaraz entregou tudo o que o fã de tênis poderia desejar: intensidade, reviravoltas e emoção do começo ao fim. Depois de sair dois sets abaixo e ver o rival chegar a três match-points na quarta parcial, o espanhol encontrou forças para  buscar uma virada épica e conquistar o bicampeonato de Roland Garros: triunfo por 4/6, 6/7 (5-7), 6/4, 7/6 (7-3) e 7/6 (10-2), em 5h29 de batalha, fazendo desta a decisão mais longa da história do torneio."
     }
 ]
