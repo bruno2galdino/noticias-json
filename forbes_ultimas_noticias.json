@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/ubs-bb-corta-recomendacao-de-raizen-para-neutra-e-reduz-preco-alvo/",
+        "title": "UBS BB Corta Recomendação de Raízen para \"Neutra\" e Reduz Preço-alvo",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Tanque-com-logo-da-Raizen-Foto-Reproducao-Raizen-300x200.png",
+        "date": "09/06/2025",
+        "description": "Citi também cortou preço-alvo, refletindo principalmente a redução na moagem de cana-de-açúcar"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/mercado-reduz-expectativa-de-inflacao-e-aumenta-projecao-para-o-pib-em-2025/",
+        "title": "Mercado Reduz Expectativa de Inflação e Aumenta Projeção para o PIB em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/02/agro-market-wagon-feira-09set22-reproducao-forbes-300x200.jpg",
+        "date": "09/06/2025",
+        "description": "Analistas mantiveram projeção para a Selic em 14,75% para o fim deste ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/warner-bros-discovery-vai-separar-estudios-e-streaming-de-operacao-de-tv-a-cabo/",
+        "title": "Warner Bros Discovery Vai Separar Estúdios e Streaming de Operação de TV a Cabo",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/04/tech-warner-bros-max-steaming-300x200.jpg",
+        "date": "09/06/2025",
+        "description": "A separação alinhará o grupo com a Comcast, que está se desfazendo da maioria de suas redes de TV a cabo, como a MSNBC e a CNBC"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-alivio-com-tentativa-de-acordo-no-iof/",
         "title": "Pré-mercado: Alívio com Tentativa de Acordo no IOF",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/carreira-desanimo-trabalho-300x200.jpg",
         "date": "09/06/2025",
         "description": "Veja estratégias práticas para recuperar a motivação e se destacar na carreira sem precisar mudar de cargo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/ciencia-da-desextincao-apenas-marketing-ou-o-futuro-da-natureza/",
-        "title": "Ciência da Desextinção: Apenas Marketing ou o Futuro da Natureza?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Desextincao_Colossous-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "Cofundada pelo empreendedor Ben Lamm, a empresa de biotecnologia e engenharia genética Colossal Biosciences, sediada no Texas, está trabalhando para desextinguir vários animais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/a-dieta-de-kennedy-jr-e-como-a-politica-do-governo-trump-traz-polemica-sobre-o-futuro-alimentar-dos-eua/",
-        "title": "A dieta de Kennedy Jr. e como a política do governo Trump traz polêmica sobre o futuro alimentar dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/RobertFKennedyJr_EUA_6JUN2025_Getty-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "Secretário de Saúde e Serviços Humanos têm criticado o consumo de óleos originados de sementes  alimeentos ultraprocessados"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/as-cidades-com-os-maiores-impostos-para-turista-do-mundo/",
-        "title": "As Cidades Que Cobram os Maiores Impostos Turísticos do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Rua-arborizada-com-palmeiras-e-vista-para-Los-Angeles-ao-por-do-sol-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "Seja em uma viagem rápida a uma cidade na Europa ou em um destino nos Estados Unidos, entender quanto será pago de imposto turístico nunca foi tão importante"
     }
 ]
