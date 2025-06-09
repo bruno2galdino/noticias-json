@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/iof-muda-de-novo-lca-e-lci-perdem-isencao-csll-de-fintechs-e-ir-de-bets-vai-subir/",
+        "title": "IOF Muda de Novo: LCA e LCI Perdem Isenção, CSLL de Fintechs e IR de Bets Vai Subir",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/10/Bets-1-300x200.jpg",
+        "date": "09/06/2025",
+        "description": "Alíquota sobre risco sacado será diminuída e isenções para empresas serão revistas; acordo veio após reunião de seis horas entre Fernando Haddad e lideranças do Congresso"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/brandvoice-sdiweb-design-e-localizacao-estrategica-marcam-lancamento-residencial-em-pinheiros/",
+        "title": "Pinheiros Recebe Lançamento Residencial com Design Exclusivo, Localização Estratégica e a Melhor Planta do Bairro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/4-300x200.png",
+        "date": "09/06/2025",
+        "description": "Com apenas 42 unidades, Dois Oito Zero Mateus Grou oferece exclusividade e sofisticação"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/apple-tropeca-na-corrida-da-ia-e-demonstra-fraqueza-apos-anos-de-lideranca/",
         "title": "WWDC: para Especialistas, Apple Tropeça na Corrida da IA e Demonstra Fraqueza após Anos de Liderança",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/loja-da-apple-300x200.png",
@@ -35,15 +49,15 @@
         "description": "Cofundada pelo empreendedor Ben Lamm, a empresa de biotecnologia e engenharia genética Colossal Biosciences, sediada no Texas, está trabalhando para desextinguir vários animais"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/06/o-que-robert-f-kennedy-jr-esta-fazendo-para-tornar-a-america-saudavel-novamente/",
-        "title": "O Que Robert F. Kennedy Jr. Está Fazendo para Tornar a América Saudável Novamente?",
+        "url": "https://forbes.com.br/forbesagro/2025/06/a-dieta-de-kennedy-jr-e-como-a-politica-do-governo-trump-traz-polemica-sobre-o-futuro-alimentar-dos-eua/",
+        "title": "A dieta de Kennedy Jr. e como a política do governo Trump traz polêmica sobre o futuro alimentar dos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/RobertFKennedyJr_EUA_6JUN2025_Getty-300x200.jpg",
         "date": "09/06/2025",
-        "description": "Secretário de Saúde e Serviços Humanos do governo Trump têm criticado o consumo de óleos de sementes e de alimentos ultraprocessados"
+        "description": "Secretário de Saúde e Serviços Humanos têm criticado o consumo de óleos originados de sementes  alimeentos ultraprocessados"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/06/as-cidades-com-os-maiores-impostos-para-turista-do-mundo/",
-        "title": "Confira Quais São as Cidades Que Cobram os Maiores Impostos Turísticos do Mundo",
+        "title": "As Cidades Que Cobram os Maiores Impostos Turísticos do Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Rua-arborizada-com-palmeiras-e-vista-para-Los-Angeles-ao-por-do-sol-300x200.jpg",
         "date": "09/06/2025",
         "description": "Seja em uma viagem rápida a uma cidade na Europa ou em um destino nos Estados Unidos, entender quanto será pago de imposto turístico nunca foi tão importante"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-curriculo-recrutadores-300x200.jpg",
         "date": "09/06/2025",
         "description": "De conteúdos genéricos gerados por IA a erros de formatação, veja os deslizes que podem te eliminar de um processo seletivo — e saiba como evitá-los"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/como-bilionarios-usam-a-inteligencia-artificial-nos-negocios-e-na-vida/",
-        "title": "Como Bilionários Usam a Inteligência Artificial - nos Negócios e na Vida",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/TECH_IABilionarios_8JUN2025_Getty-300x200.jpg",
-        "date": "08/06/2025",
-        "description": "Pesquisa exclusiva da Forbes constatou que 65% dos super-ricos usam essa tecnologia na vida pessoal, e 77% no trabalho"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2025/06/por-que-cervejas-com-muita-espuma-estao-conquistando-paladares/",
-        "title": "Por que Cervejas com Muita Espuma Estão Conquistando Paladares?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/WSB_CervejaEspuma_5JUN2025_JohnRobson-300x200.jpg",
-        "date": "08/06/2025",
-        "description": "A textura borbulhante da bebida do estilo tcheco atua como uma barreira protetora e possui sabor marcante"
     }
 ]
