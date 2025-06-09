@@ -1,8 +1,15 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/06/sauer-e-galatea-se-encontram-no-universo-do-taro/",
+        "title": "Sauer e Galatea se Encontram no Universo do Tarô",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/padrao-Forbes-2025-06-09T162728.757-300x200.jpg",
+        "date": "09/06/2025",
+        "description": "Com obras de Antônio Maia e participação da joalheria, a galeria celebra o encontro entre arte e misticismo"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/puc-campinas-e-foodtech-hub-latam-anunciam-implantacao-do-campinas-biotech-center/",
         "title": "PUC-Campinas e Foodtech Hub Latam Anunciam Implantação do Campinas Biotech Center",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Unicamp_09jun25_Unicamp_ArthurCastro-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/PUC_Campinas_09jun25_PUC_Divul-300x200.jpg",
         "date": "09/06/2025",
         "description": "Centro terá foco em biotecnologia aplicada à indústria de alimentos, com infraestrutura voltada à pesquisa, modelos de inteligência artificial e estudos clínicos"
     },
@@ -43,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/06/apple-wwdc-2025-acompanhe-ao-vivo-a-abertura-do-evento/",
-        "title": "Apple WWDC 2025: Acompanhe Ao Vivo a Abertura do Evento",
+        "title": "Apple aposta em design na WWDC 25; IA deixa a desejar",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Apple-WWDC-25-300x200.png",
         "date": "09/06/2025",
         "description": "A Apple Worldwide Developers Conference (WWDC) começa nesta segunda-feira (9), em Cupertino, na Califórnia, e termina na sexta-feira (13)"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Marcella-Tranchesi_-sucesso-a-frente-da-Doce-Aquarella-300x200.jpg",
         "date": "09/06/2025",
         "description": "De olho nas festas juninas, Doce Aquarella lança sabor com paçoca e doce de leite"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/colheita-de-milho-2a-safra-do-centro-sul-tem-ritmo-mais-lento-desde-2021/",
-        "title": "Colheita de Milho 2ª Safra do Centro-Sul Tem Ritmo Mais Lento desde 2021",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-09T121033Z_1_LYNXMPEL580FX_RTROPTP_3_CHINA-GRAINS-BRAUN-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "Segundo consultoria, os números refletem o plantio tardio e o impacto das chuvas"
     }
 ]
