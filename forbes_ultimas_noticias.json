@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/ibovespa-tem-queda-discreta-com-novas-medidas-fiscais-sob-holofotes/",
+        "title": "Ibovespa Tem Queda Discreta com Novas Medidas Fiscais sob Holofotes",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "09/06/2025",
+        "description": "Dólar chega à menor cotação do ano, perdendo força ao longo do dia"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/ios-26-liquid-glass-e-mais-confira-os-destaques-da-apple-wwdc-2025/",
+        "title": "iOS 26, Liquid Glass e Mais: Confira os Destaques da Apple WWDC 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/WWDC-25-300x200.png",
+        "date": "09/06/2025",
+        "description": "Apple Intelligence recebe atualizações mas fica em segundo plano durante evento"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/06/sauer-e-galatea-se-encontram-no-universo-do-taro/",
         "title": "Sauer e Galatea se Encontram no Universo do Tarô",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/padrao-Forbes-2025-06-09T162728.757-300x200.jpg",
         "date": "09/06/2025",
-        "description": "Com obras de Antônio Maia e participação da joalheria, a galeria celebra o encontro entre arte e misticismo"
+        "description": "Com obras de Antônio Maia e participação da joalheria, a galeria celebra arte e misticismo"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/06/puc-campinas-e-foodtech-hub-latam-anunciam-implantacao-do-campinas-biotech-center/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Apple-WWDC-25-300x200.png",
         "date": "09/06/2025",
         "description": "A Apple Worldwide Developers Conference (WWDC) começa nesta segunda-feira (9), em Cupertino, na Califórnia, e termina na sexta-feira (13)"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/china-bate-recorde-de-compra-de-soja-em-maio-com-1392-milhoes-de-toneladas/",
-        "title": "China Bate Recorde de Compra de Soja em Maio, com  13,92 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-09T110225Z_1_LYNXMPEL580CZ_RTROPTP_4_BRAZIL-SOY-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "Em abril, importações caíram ao menor nível em 10 anos por causa de atrasos na colheita no Brasil e problemas logísticos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/marcella-tranchesi-como-empresaria-tenho-otimos-problemas/",
-        "title": "Marcella Tranchesi: “Como Empresária, Tenho Ótimos Problemas”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Marcella-Tranchesi_-sucesso-a-frente-da-Doce-Aquarella-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "De olho nas festas juninas, Doce Aquarella lança sabor com paçoca e doce de leite"
     }
 ]
