@@ -7,13 +7,6 @@
         "description": "A Apple Worldwide Developers Conference (WWDC) começa nesta segunda-feira (9), em Cupertino, na Califórnia, e termina na sexta-feira (13)"
     },
     {
-        "url": "https://forbes.com.br/forbes-money/2025/06/motta-diz-que-nao-ha-compromisso-do-congresso-em-aprovar-alternativas-ao-iof-apresentadas-pelo-governo/",
-        "title": "Motta Diz Que Não Há \"Compromisso\" do Congresso em Aprovar Alternativas Ao Iof Apresentadas Pelo Governo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-09T150937Z_1_LYNXMPEL580MF_RTROPTP_4_POLITICA-MOTTA-IOF-AMBIENTE-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "Líder do governo cobra foco também no corte de gastos e defende a retomada da reforma administrativa e a revisão de receitas vinculadas"
-    },
-    {
         "url": "https://forbes.com.br/forbesagro/2025/06/china-bate-recorde-de-compra-de-soja-em-maio-com-1392-milhoes-de-toneladas/",
         "title": "China Bate Recorde de Compra de Soja em Maio, com  13,92 Milhões de Toneladas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-09T110225Z_1_LYNXMPEL580CZ_RTROPTP_4_BRAZIL-SOY-300x200.jpg",
@@ -68,5 +61,12 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "09/06/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 9 de junho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/iof-muda-de-novo-lca-e-lci-perdem-isencao-csll-de-fintechs-e-ir-de-bets-vai-subir/",
+        "title": "IOF Muda de Novo: LCA e LCI Perdem Isenção e IR de Bets Vai Subir",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/10/Bets-1-300x200.jpg",
+        "date": "09/06/2025",
+        "description": "Alíquota sobre risco sacado será diminuída e isenções para empresas serão revistas; acordo veio após reunião de seis horas entre Fernando Haddad e lideranças do Congresso"
     }
 ]
