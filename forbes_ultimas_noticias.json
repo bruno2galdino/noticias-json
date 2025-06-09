@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/puc-campinas-e-foodtech-hub-latam-anunciam-implantacao-do-campinas-biotech-center/",
+        "title": "PUC-Campinas e Foodtech Hub Latam Anunciam Implantação do Campinas Biotech Center",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Unicamp_09jun25_Unicamp_ArthurCastro-300x200.jpg",
+        "date": "09/06/2025",
+        "description": "Centro terá foco em biotecnologia aplicada à indústria de alimentos, com infraestrutura voltada à pesquisa, modelos de inteligência artificial e estudos clínicos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/setor-da-construcao-diz-que-taxacao-de-lci-elevara-custo-da-casa-propria/",
+        "title": "Setor da Construção Diz Que Taxação de LCI Elevará Custo da Casa Própria",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Predio-em-construcao-no-Rio-de-Janeiro-300x200.jpg",
+        "date": "09/06/2025",
+        "description": "O fim da isenção sobre as LCIs terá impacto direto no crédito imobiliário e no valor da casa própria"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/anttonia-une-moda-e-proposito-em-nova-funcao-internacional/",
+        "title": "Anttónia Une Moda e Propósito em Nova Função Internacional",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/padrao-Forbes-2025-06-09T152817.522-300x200.jpg",
+        "date": "09/06/2025",
+        "description": "Atriz e cantora foi anunciada hoje, 9, como diretora internacional de moda e beleza da Jethro Internacional, organização voltada a causas humanitárias"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/poder-de-compra-de-fertilizantes-pelo-agricultor-no-brasil-e-o-menor-em-mais-de-30-meses/",
+        "title": "Poder de Compra de Fertilizantes Pelo Agricultor no Brasil É o Menor em Mais de 30 Meses",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Colheita-de-soja-no-Rio-Grande-do-Sul-300x200.jpg",
+        "date": "09/06/2025",
+        "description": "Além dos fertilizantes, o indicador é elaborado com base em preços da soja, milho, açúcar, etanol e algodão"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/06/pai-de-musk-diz-que-briga-com-trump-foi-desencadeada-por-estresse-intenso-e-precisa-acabar/",
         "title": "Pai de Musk Diz Que Briga com Trump Foi Desencadeada por Estresse Intenso e Precisa Acabar",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Errol-Musk-pai-de-Elon-Musk-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-09T121033Z_1_LYNXMPEL580FX_RTROPTP_3_CHINA-GRAINS-BRAUN-300x200.jpg",
         "date": "09/06/2025",
         "description": "Segundo consultoria, os números refletem o plantio tardio e o impacto das chuvas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/como-roque-quagliato-o-rei-do-gado-quer-reescrever-a-historia-da-pecuaria-da-amazonia/",
-        "title": "Como Roque Quagliato, o \"Rei do Gado\", quer reescrever a história da pecuária da Amazônia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Roque_Quagliato_06jun25_Reprod_Instagram-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "Rebanho do produtor foi o  primeiro a ser identificado com chips nas orelhas, como parte de um programa do governo estadual para tornar milhões de bovinos rastreáveis até janeiro de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/ubs-bb-corta-recomendacao-de-raizen-para-neutra-e-reduz-preco-alvo/",
-        "title": "UBS BB Corta Recomendação de Raízen para \"Neutra\" e Reduz Preço-alvo",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Tanque-com-logo-da-Raizen-Foto-Reproducao-Raizen-300x200.png",
-        "date": "09/06/2025",
-        "description": "Citi também cortou preço-alvo, refletindo principalmente a redução na moagem de cana-de-açúcar"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/mercado-reduz-expectativa-de-inflacao-e-aumenta-projecao-para-o-pib-em-2025/",
-        "title": "Mercado Reduz Expectativa de Inflação e Aumenta Projeção para o PIB em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/agro-market-wagon-feira-09set22-reproducao-forbes-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "Analistas mantiveram projeção para a Selic em 14,75% para o fim deste ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/warner-bros-discovery-vai-separar-estudios-e-streaming-de-operacao-de-tv-a-cabo/",
-        "title": "Warner Bros Discovery Vai Separar Estúdios e Streaming de Operação de TV a Cabo",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/04/tech-warner-bros-max-steaming-300x200.jpg",
-        "date": "09/06/2025",
-        "description": "A separação alinhará o grupo com a Comcast, que está se desfazendo da maioria de suas redes de TV a cabo, como a MSNBC e a CNBC"
     }
 ]
