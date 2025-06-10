@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/a-discriminacao-esta-longe-de-acabar.html",
+        "title": "A discriminação está longe de acabar",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/patricia_mauresmo.jpg",
+        "date": "10/06/2025",
+        "description": "O tênis feminino vive em constante evolução. As jogadoras encantando o público e cada dia mais bem preparadas.O circuito é extremamente exigente. Torneios se sucedem ao longo do ano e é frenética a disputa por bons resultados."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-10-06.html",
         "title": "O dia dos brasileiros: veja os resultados desta terça",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/sakamoto_fotojump_web.jpg",
         "date": "10/06/2025",
         "description": "WTA 500 de Londres (Inglaterra) – Grama – US$ 1.415.000Duplas – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/murray-nao-descarta-voltar-a-ser-treinador-e-enaltece-momento-da-atp.html",
+        "title": "Murray não descarta voltar a ser treinador e enaltece momento da ATP",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/murray-queens-close-e1749558482845-1024x683.jpg",
+        "date": "10/06/2025",
+        "description": "Londres (Inglaterra)– Aposentado desde a despedida nos Jogos Olímpicos de 2024, o britânico Andy Murray não passou muito tempo longe do circuito e se juntou à equipe técnica do seu antigo rival Novak Djokovic em novembro passado. No entanto, a dupla se separou em maio de 2025, após apenas quatro torneios juntos, com o ex-número 1 afirmando que não poderia tirar mais da parceria."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ferrero-diz-que-alcaraz-aproveita-descanso-mas-deve-jogar-no-queens.html",
+        "title": "Ferrero diz que Alcaraz aproveita descanso, mas deve jogar no Queen’s",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/12/alcaraz-ferrero-wimbledon-2023-e1749555672447-1024x682.jpeg",
+        "date": "10/06/2025",
+        "description": "Madri (Espanha)– Depois de uma merecida pausa para comemorar o título conquistado no último domingo em Roland Garros, o espanhol Carlos Alcaraz deve retornar ao circuito no ATP 500 do Queen’s, na próxima semana. Pelo menos foi o que o treinador Juan Carlos Ferrero falou no programaEl Larguero, da Cadena Ser."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-09-06.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/alcaraz-final-rg-2025-1024x683.jpeg",
         "date": "09/06/2025",
         "description": "Paris (França)– A final de Roland Garros do último domingo entrou para a história das grandes partidas da história do tênis, não apenas por ser a mais longa da Era Aberta do torneio, mas também pela forma com que o espanhol Carlos Alcaraz conseguiu se recuperar de dois sets abaixo, salvando match-points no quarto, para vencer de virada o número 1 do mundo Jannik Sinner."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/jarry-conquista-sua-primeira-vitoria-sobre-um-top-50-desde-janeiro.html",
-        "title": "Jarry conquista sua primeira vitória sobre um top 50 desde janeiro",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/jarry-rio-rebate-2025-e1740751013762-1024x683.jpg",
-        "date": "09/06/2025",
-        "description": "‘s-Hertogenbosch (Holanda)– Sem bater um top 50 desde janeiro, quando superou o argentino Mariano Navone na primeira rodada de Brisbane, o chileno Nicolas Jarry voltou a bater um tenista com este ranking nesta segunda-feira, em sua estreia no ATP 250 de ‘s-Hertogenbosch, anotando uma virada sobre o italiano Luciano Darderi com o placar final de 5/7, 6/4 e 7/6 (7-3)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/mertens-estreia-bem-veronika-kudermetova-vence-a-irma-mais-nova.html",
-        "title": "Mertens estreia bem, Veronika Kudermetova vence a irmã mais nova",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/mertens_herto_vibra_grama-1024x683.jpg",
-        "date": "09/06/2025",
-        "description": "‘s-Hertogenbosch (Holanda) –Terceira cabeça de chave do WTA 250 de ‘s-Hertogenbosch, Elise Mertens estreou com vitória na temporada de grama. A belga de 29 anos e 25ª do ranking superou a búlgara Viktoriya Tomova, 76ª colocada, por 6/4 e 6/0."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/de-volta-a-grama-apos-quase-dois-anos-lehecka-larga-bem-em-stuttgart.html",
-        "title": "De volta à grama após quase dois anos, Lehecka larga bem em Stuttgart",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/lehecka-stuttgart-2025-monday-e1749491983169-1024x682.jpg",
-        "date": "09/06/2025",
-        "description": "Stuttgart (Alemanha)– Depois de não conseguir se destacar na temporada de saibro, com apenas cinco vitórias em cinco eventos disputados, o tcheco Jiri Lehecka tenta se recuperar na temporada de grama. Ele começou bem sua empreitada pelo novo piso nesta segunda-feira superou a estreia ATP 250 de Stuttgart derrotando o francês Benjamin Bonzi por duplo 6/4."
     }
 ]
