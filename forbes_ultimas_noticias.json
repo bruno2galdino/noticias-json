@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/cofco-international-registra-vendas-menores-de-commodities-agricolas-em-2024/",
+        "title": "Cofco International Registra Vendas Menores de Commodities Agrícolas",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Forbes_Colheita-de-soja-300x200.jpg",
+        "date": "10/06/2025",
+        "description": "Empresa registrou receita de US$ 38,5 bilhões, abaixo dos US$ 50,1 bilhões do ano anterior"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/comme-des-garcons-inaugura-primeira-loja-na-america-latina/",
+        "title": "Comme des Garçons Inaugura Primeira Loja na América Latina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Comme-des-Garcons-300x200.jpg",
+        "date": "10/06/2025",
+        "description": "Marca japonesa chega ao Brasil com boutique projetada por Rei Kawakubo e instalação exclusiva da linha Homme Plus"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/rolls-royce-ganha-contrato-para-pequenos-reatores-nucleares-no-reino-unido/",
+        "title": "Rolls-Royce Ganha Contrato para Pequenos Reatores Nucleares no Reino Unido",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-149698477-300x200.jpeg",
+        "date": "10/06/2025",
+        "description": "Os SMRs prometem revolucionar a energia nuclear com fabricação em série, menor custo e construção mais rápida do que as usinas convencionais"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/abiove-mantem-volumes-de-safra-e-exportacao-de-soja-do-brasil-mas-rebaixa-precos/",
         "title": "Abiove Mantém Volumes de Safra e Exportação de Soja do Brasil, Mas Rebaixa Preços",
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_soja_24-jul-23_Getty-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Fabio-Coelho-300x200.png",
         "date": "10/06/2025",
         "description": "Presidente das operações da Big Tech no Brasil compartilha dados inéditos durante evento em São Paulo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/banco-mundial-reduz-previsao-de-crescimento-global-devido-ao-esforco-comercial/",
-        "title": "Banco Mundial Reduz Previsão de Crescimento Global Devido Ao Esforço Comercial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-10T135114Z_1_LYNXMPEL590PC_RTROPTP_4_USA-TRUMP-TARIFFS-IMPORTS-300x200.jpg",
-        "date": "10/06/2025",
-        "description": "A política tarifária de Trump desencadeou tensões comerciais globais, provocando retaliações da China e de outros parceiros internacionais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/dolar-ainda-poderia-estar-acima-dos-r-6-sem-a-ajuda-do-cenario-internacional-aponta-solange-srour-do-ubs/",
-        "title": "Dólar Poderia Estar Acima dos R$ 6 sem a Ajuda do Cenário Internacional, Aponta Solange Srour, do UBS",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/WhatsApp-Image-2024-11-28-at-18.26.17-1-1-300x200.jpeg",
-        "date": "10/06/2025",
-        "description": "Para a diretora de macroeconomia para o Brasil no UBS Global Wealth Management, a articulação política para resolver a questão fiscal é mais importante que o detalhamento da 'MP do IOF'"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/apple-joga-um-balde-de-agua-fria-na-ideia-de-uma-super-ia-entenda-o-estudo/",
-        "title": "Apple Joga um Balde de Água Fria na Ideia de uma Super IA; Entenda o Estudo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/carreira-habilidades-inteligencia-artificial-300x200.jpg",
-        "date": "10/06/2025",
-        "description": "Em um artigo publicado no fim de semana por seis engenheiros e pesquisadores associados à empresa, o poder das LLMs foi colocado em xeque"
     }
 ]
