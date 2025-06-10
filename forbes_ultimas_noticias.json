@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/preco-do-cafe-moido-mantem-alta-em-maio-e-renova-recorde-desde-plano-real/",
+        "title": "Preço do Café Moído Mantém Alta em Maio e Renova Recorde desde Plano Real",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-10T153037Z_1_LYNXMPEL590T8_RTROPTP_3_COFFEE-PRICES-RETAIL-300x200.jpg",
+        "date": "10/06/2025",
+        "description": "Inflação acumulada em 12 meses atinge novo recorde de 82,24%, segundo o IBGE"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/em-2024-o-ecossistema-google-movimentou-r-215-bilhoes-na-economia-brasileira-diz-fabio-coelho/",
+        "title": "“Google Movimentou R$ 215 Bi na Economia Brasileira Em 2024”, Diz Fábio Coelho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Fabio-Coelho-300x200.png",
+        "date": "10/06/2025",
+        "description": "Presidente das operações da Big Tech no Brasil compartilha dados inéditos durante evento em São Paulo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/banco-mundial-reduz-previsao-de-crescimento-global-devido-ao-esforco-comercial/",
+        "title": "Banco Mundial Reduz Previsão de Crescimento Global Devido Ao Esforço Comercial",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-10T135114Z_1_LYNXMPEL590PC_RTROPTP_4_USA-TRUMP-TARIFFS-IMPORTS-300x200.jpg",
+        "date": "10/06/2025",
+        "description": "A política tarifária de Trump desencadeou tensões comerciais globais, provocando retaliações da China e de outros parceiros internacionais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/dolar-ainda-poderia-estar-acima-dos-r-6-sem-a-ajuda-do-cenario-internacional-aponta-solange-srour-do-ubs/",
+        "title": "Dólar Poderia Estar Acima dos R$ 6 sem a Ajuda do Cenário Internacional, Aponta Solange Srour, do UBS",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/WhatsApp-Image-2024-11-28-at-18.26.17-1-1-300x200.jpeg",
+        "date": "10/06/2025",
+        "description": "Para a diretora de macroeconomia para o Brasil no UBS Global Wealth Management, a articulação política para resolver a questão fiscal é mais importante que o detalhamento da 'MP do IOF'"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/apple-joga-um-balde-de-agua-fria-na-ideia-de-uma-super-ia-entenda-o-estudo/",
+        "title": "Apple Joga um Balde de Água Fria na Ideia de uma Super IA; Entenda o Estudo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/carreira-habilidades-inteligencia-artificial-300x200.jpg",
+        "date": "10/06/2025",
+        "description": "Em um artigo publicado no fim de semana por seis engenheiros e pesquisadores associados à empresa, o poder das LLMs foi colocado em xeque"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/ibm-pretende-ter-computador-quantico-ate-2029/",
         "title": "IBM Pretende Ter Computador Quântico até 2029",
         "image": "https://forbes.com.br/wp-content/uploads/2023/08/tech-ibm-inteligencia-artificial-300x200.jpg",
@@ -8,7 +43,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/06/inflacao-desacelera-a-026-mais-do-que-do-o-esperado-pelo-mercado/",
-        "title": "Inflação Desacelera a 0,26%, Mais do Que do o Esperado Pelo Mercado",
+        "title": "Inflação Desacelera Mais do Que o Esperado Pelo Mercado, a 0,26%",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/IPCA-1-300x200.jpg",
         "date": "10/06/2025",
         "description": "Recuo do aumento dos preços do grupo de alimentos e de transporte compensou elevação da tarifa das contas de luz"
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tony-300x200.jpg",
         "date": "10/06/2025",
         "description": "Eduardo Lemos, CMO da Kellanova Brasil, fala sobre a nova campanha da marca que resgata elementos tradicionais para se reposicionar no mercado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/06/fundadora-do-aria-social-um-pais-sem-cultura-e-um-corpo-sem-alma/",
-        "title": "Fundadora do Aria Social: “Um País sem Cultura é um Corpo sem Alma\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-Cecilia-Brennand-aria-social-300x200.jpg",
-        "date": "10/06/2025",
-        "description": "À frente do projeto social desde 1991, Cecília Brennand já impactou mais de 13 mil alunos no Recife com arte e educação"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/06/ju-ferraz-entre-sereias-e-limites-aprendizados-sobre-relacoes-de-poder-no-trabalho/",
-        "title": "Entre \"Sereias\" e Limites: Aprendizados sobre Relações de Poder no Trabalho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-sereias-netflix-trabalho-300x200.jpg",
-        "date": "10/06/2025",
-        "description": "Série da Netflix acende o alerta para relacionamentos abusivos disfarçados de parceria no ambiente profissional"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/deepfake-golpes-e-desinformacao-os-efeitos-colaterais-dos-videos-de-ia-ultrarrealistas/",
-        "title": "Deepfake, Golpes e Desinformação: os Efeitos Colaterais dos Vídeos de IA Ultrarrealistas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/VideoIA-300x200.jpg",
-        "date": "10/06/2025",
-        "description": "Para especialistas, avanço de ferramentas como Sora, da OpenAI e Veo 3, do Google, geram um desafio nunca visto de distinção entre realidade e ficção"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/melhores-relogios-femininos-de-2025-ate-agora/",
-        "title": "Melhores Relógios Femininos de 2025 - até Agora",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Veja-quais-sao-alguns-dos-melhores-relogios-femininos-lancados-em-2025-300x200.jpg",
-        "date": "10/06/2025",
-        "description": "Modelos lançados no primeiro semestre revelam novas soluções técnicas, materiais nobres e um design funcional voltado para as mulheres"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/06/2-mentiras-que-pessoas-com-dependencia-costumam-contar-a-si-mesmas/",
-        "title": "2 Mentiras Que Pessoas com Dependência Costumam Contar a Si Mesmas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/960x0-2-300x200.jpg",
-        "date": "10/06/2025",
-        "description": "Segundo um psicólogo, muitas pessoas enfrentam esse problema em silêncio, recusando-se a encarar a realidade"
     }
 ]
