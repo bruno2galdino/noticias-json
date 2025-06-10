@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/abiove-mantem-volumes-de-safra-e-exportacao-de-soja-do-brasil-mas-rebaixa-precos/",
+        "title": "Abiove Mantém Volumes de Safra e Exportação de Soja do Brasil, Mas Rebaixa Preços",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_soja_24-jul-23_Getty-300x200.jpg",
+        "date": "10/06/2025",
+        "description": "A revisão resultou em uma diminuição da previsão de faturamento do Brasil em 2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/anec-eleva-estimativas-de-exportacao-de-soja-milho-e-farelo-de-soja-em-junho/",
+        "title": "Anec Eleva Estimativas de Exportação de Soja, Milho e Farelo de Soja em Junho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Soja-em-mercado-na-China-300x200.jpg",
+        "date": "10/06/2025",
+        "description": "Os volumes estão próximos dos registrados no mesmo mês do ano passado"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/starbucks-reduz-precos-na-china-diante-de-concorrencia-acirrada/",
         "title": "Starbucks Reduz Preços na China Diante de Concorrência Acirrada",
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/starbucks-saida-russia-300x200.jpg",
@@ -8,10 +22,10 @@
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/06/bahia-farm-show-foca-em-sustentabilidade-e-espera-receber-100-mil-visitantes/",
-        "title": "Bahia Farm Show Foca em Sustentabilidade e Espera Receber 100 Mil Visitantes",
+        "title": "Bahia Farm Show Aposta em Sustentabilidade para Vender Tecnologia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_BahiaFarmShow_10JUN2025_BahiaFarmShow-300x200.jpg",
         "date": "10/06/2025",
-        "description": "A maior feira de tecnologia e negócios agrícolas do Norte e Nordeste acontece entre os dias 9 e 14 em Luís Eduardo Magalhães"
+        "description": "A maior feira do agro com alcance no Norte e Nordeste espera superar o ano passado, quando movimentou R$ 10 bilhões"
     },
     {
         "url": "https://forbes.com.br/geral/2025/06/imola-e-retirada-do-calendario-da-f1-em-2026-corrida-em-sao-paulo-esta-confirmada-para-novembro/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/carreira-habilidades-inteligencia-artificial-300x200.jpg",
         "date": "10/06/2025",
         "description": "Em um artigo publicado no fim de semana por seis engenheiros e pesquisadores associados à empresa, o poder das LLMs foi colocado em xeque"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/ibm-pretende-ter-computador-quantico-ate-2029/",
-        "title": "IBM Pretende Ter Computador Quântico até 2029",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/08/tech-ibm-inteligencia-artificial-300x200.jpg",
-        "date": "10/06/2025",
-        "description": "Empresa detalhou etapas que deve seguir para ter tecnologia, que resolve problemas cujas soluções levariam milhares de anos para serem encontradas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/inflacao-desacelera-a-026-mais-do-que-do-o-esperado-pelo-mercado/",
-        "title": "Inflação Desacelera Mais do Que o Esperado Pelo Mercado, a 0,26%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/IPCA-1-300x200.jpg",
-        "date": "10/06/2025",
-        "description": "Recuo do aumento dos preços do grupo de alimentos e de transporte compensou elevação da tarifa das contas de luz"
     }
 ]
