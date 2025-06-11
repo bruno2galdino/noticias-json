@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/stf-forma-maioria-para-responsabilizar-redes-sociais-por-conteudos-publicados-por-usuarios/",
+        "title": "STF Forma Maioria para Responsabilizar Redes Sociais por Conteúdos de Usuários",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/redes-sociais-300x200.png",
+        "date": "11/06/2025",
+        "description": "Por ora, somente o ministro André Mendonça votou para que a retirada de conteúdos tenha a necessidade, de maneira geral, de uma determinação judicial"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/precos-do-petroleo-saltam-4-para-o-maior-valor-em-dois-meses/",
+        "title": "Preços do Petróleo Saltam 4% para o Maior Valor em Dois Meses",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/07/agro_petroleo_18-jul-23_Reuters-1-300x200.jpg",
+        "date": "11/06/2025",
+        "description": "Alta acontece depois que fontes disseram que os EUA estavam se preparando para desocupar sua embaixada no Iraque devido ao aumento das preocupações com a segurança no Oriente Médio"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/acordo-comercial-proximo-e-inflacao-dos-eua-abaixo-do-esperado-levam-dolar-aos-r-553-bolsa-sobe/",
+        "title": "Acordo Comercial Próximo e Inflação dos EUA Abaixo do Esperado Levam Dólar Aos R$ 5,53; Bolsa Sobe",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "11/06/2025",
+        "description": "Noticiário internacional pautou o dia no mercado financeiro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/eua-e-china-fecham-acordo-comercial-que-inclui-flexibilizacao-de-controles-sobre-terras-raras/",
         "title": "EUA e China Fecham Acordo Comercial Que Inclui Flexibilização de Controles sobre Terras Raras",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/money-economia-china-eua-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Ju1824-300x200.jpg",
         "date": "11/06/2025",
         "description": "Pesquisa da Box1824 e CI&T, lançada durante o Febraban Tech 2025, apontam cinco grandes tendências que devem transformar o setor financeiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/viagens-de-robotaxi-da-tesla-estao-programadas-para-comecar-em-22-de-junho/",
-        "title": "Viagens de Robotáxi da Tesla Estão Programadas para Começar em 22 de Junho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-11T145916Z_1_LYNXMPEL5A0SC_RTROPTP_4_AUTOS-ELECTRIC-300x200.jpg",
-        "date": "11/06/2025",
-        "description": "Musk prioriza carros autônomos e deixa de lado plano de EVs mais acessíveis"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/como-o-bilionario-agro-brasileiro-domina-o-global-investor-day-da-john-deere/",
-        "title": "Como o Bilionário Agro Brasileiro Domina o Global Investor Day da John Deere",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/John-May_10jun25_JD_Divulg-300x200.jpg",
-        "date": "11/06/2025",
-        "description": "John May, o número um da companhia, reúne cerca de 40 investidores da Europa, Canadá, Japão e Estados Unidos para mostrar porque eles devem apostar no mercado de grãos, carnes e tecnologias agrícolas daqui"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/musk-diz-ter-passado-dos-limites-em-postagens-atacando-trump/",
-        "title": "Musk Diz Ter Passado dos Limites em Postagens Atacando Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/money-elon-musk-donald-trump-300x200.jpg",
-        "date": "11/06/2025",
-        "description": "A briga pública entre Musk e Trump mexeu com as ações da Tesla nos últimos dias"
     }
 ]
