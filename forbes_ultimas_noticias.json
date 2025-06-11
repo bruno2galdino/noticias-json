@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/06/brandvoice-tramontina-inovacao-transforma-setor-de-hospitalidade/",
+        "title": "Inovação Transforma Setor de Hospitalidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/1-4-300x200.png",
+        "date": "11/06/2025",
+        "description": "Tramontina amplia atuação com soluções para negócios e mira crescimento internacional"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/vendas-no-comercio-recuam-em-maio-segundo-indice-de-varejo-stone/",
+        "title": "Vendas no Comércio Recuam em Maio, Segundo Índice de Varejo Stone",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/money-varejo-brasil-300x200.jpg",
+        "date": "11/06/2025",
+        "description": "Segmento de Hipermercados, Supermercados, Produtos Alimentícios, Bebidas e Fumo teve maior alta no período"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/quem-sao-as-4-mulheres-mais-ricas-da-industria-de-alimentos-e-bebidas-nos-eua/",
         "title": "Quem São as 4 Mulheres Mais Ricas da Indústria de Alimentos e Bebidas nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
@@ -36,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/06/da-agencia-aos-agentes-bancos-brasileiros-aceleram-iniciativas-de-ia-generativa/",
-        "title": "Da Agência Aos Agentes: Bancos Brasileiros Aceleram Iniciativas de IA Generativa",
+        "title": "Da Agência Aos Agentes: Bancos Brasileiros Aceleram Iniciativas de IA",
         "image": "https://forbes.com.br/wp-content/uploads/2024/04/inteligencia-artificial.lideranca-300x200.png",
         "date": "11/06/2025",
         "description": "Segundo a Febraban, instituições investirão R$ 47,8 bi em tecnologia até o fim de 2025; 80% já incorporam GenAI, entre elas Bradesco, Santander e Itaú Unibanco"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/capacitacao-em-IA-300x200.png",
         "date": "11/06/2025",
         "description": "Destaque da parceria é iniciativa de “microaprendizagem” por meio do WhatsApp"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/06/ceo-e-pai-a-importancia-de-executivos-falarem-sobre-paternidade/",
-        "title": "CEO e Pai: a Importância de Executivos Falarem sobre Paternidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-paternidade-1-300x200.jpg",
-        "date": "11/06/2025",
-        "description": "Com apenas cinco dias de licença-paternidade garantidos por lei no Brasil, entenda como mudanças pela equidade parental podem (e devem) começar no topo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/resultado-do-ipca-alimenta-expectativas-impulsionando-ibovespa/",
-        "title": "Resultado do IPCA Alimenta Expectativas, Impulsionando Ibovespa",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
-        "date": "10/06/2025",
-        "description": "Mercado também ficou atento a mudanças fiscais propostas pelo governo, para recalibrar IOF"
     }
 ]
