@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/presidente-da-camara-diz-que-medidas-para-compensar-mudancas-no-iof-enfrentarao-resistencia-no-congresso/",
+        "title": "Presidente da Câmara Diz Que Medidas para Compensar Mudanças no IOF Enfrentarão \"Resistência\" no Congresso",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-iof-moedas-300x200.jpg",
+        "date": "11/06/2025",
+        "description": "Motta acrescentou que a apresentação de propostas que apenas elevam a arrecadação, sem cortes de gastos, \"não funciona\""
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/silos-da-india-transbordam-com-estoques-recordes-de-arroz-e-maior-oferta-de-trigo/",
+        "title": "Silos da Índia Transbordam com Estoques Recordes de Arroz e Maior Oferta de Trigo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-11T122556Z_1_LYNXMPEL5A0N0_RTROPTP_4_INDIA-RICE-300x200.jpg",
+        "date": "11/06/2025",
+        "description": "Reservas estatais de arroz atingem 59,5 milhões de toneladas, superando amplamente a meta do governo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/traducao-simultanea-em-portugues-e-pix-no-chrome-os-lancamentos-do-google-brasil/",
+        "title": "Tradução Simultânea em Português e Pix no Chrome: os Lançamentos do Google Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/waze-google-ia-300x200.png",
+        "date": "11/06/2025",
+        "description": "“Conta pro Waze”, modelo de IA de código aberto aprimorado para desenvolvedores brasileiros e mais; confira as novidades anunciadas nesta terça-feira (10)"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/nvidia-construira-primeira-plataforma-de-nuvem-de-ia-industrial-na-alemanha/",
+        "title": "Nvidia Construirá Primeira Plataforma de Nuvem de IA Industrial na Alemanha",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-11T140359Z_1_LYNXMPEL5A0Q7_RTROPTP_4_NVIDIA-CEO-IA-300x200.jpg",
+        "date": "11/06/2025",
+        "description": "Nova tecnologia com inteligência artificial e robótica apoiará montadoras como BMW e Mercedes-Benz, do design à logística"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/mais-do-que-tecnologia-tendencias-do-setor-financeiro-passam-por-transparencia-e-autonomia/",
         "title": "Mais do Que Tecnologia: Tendências do Setor Financeiro Passam por Transparência e Autonomia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Ju1824-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/switch-site-300x200.png",
         "date": "11/06/2025",
         "description": "A Nintendo prevê que as vendas do console chegarão a 15 milhões de unidades até março de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-bolsa-cai-com-possivel-aceleracao-da-inflacao-nos-eua/",
-        "title": "Pré-mercado: Bolsa Cai com Possível Aceleração da Inflação nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "11/06/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 11 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/brandvoice-tramontina-inovacao-transforma-setor-de-hospitalidade/",
-        "title": "Inovação Transforma Setor de Hospitalidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/1-4-300x200.png",
-        "date": "11/06/2025",
-        "description": "Tramontina amplia atuação com soluções para negócios e mira crescimento internacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/vendas-no-comercio-recuam-em-maio-segundo-indice-de-varejo-stone/",
-        "title": "Vendas no Comércio Recuam em Maio, Segundo Índice de Varejo Stone",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/money-varejo-brasil-300x200.jpg",
-        "date": "11/06/2025",
-        "description": "Segmento de Hipermercados, Supermercados, Produtos Alimentícios, Bebidas e Fumo teve maior alta no período"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/quem-sao-as-4-mulheres-mais-ricas-da-industria-de-alimentos-e-bebidas-nos-eua/",
-        "title": "Quem São as 4 Mulheres Mais Ricas da Indústria de Alimentos e Bebidas nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_mulheres__10-jun25_Wavebreakmedia_Guettyimages-1-300x200.jpg",
-        "date": "11/06/2025",
-        "description": "Grupo integra a lista que completa 10 anos e que mostra como empreendedoras consolidaram patrimônios bilionários em setores historicamente dominados por homens"
     }
 ]
