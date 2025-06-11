@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/musk-diz-ter-passado-dos-limites-em-postagens-atacando-trump/",
+        "title": "Musk Diz Ter Passado dos Limites em Postagens Atacando Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/money-elon-musk-donald-trump-300x200.jpg",
+        "date": "11/06/2025",
+        "description": "A briga pública entre Musk e Trump mexeu com as ações da Tesla nos últimos dias"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/meta-pagara-quase-us-15-bi-por-participacao-na-scale-ai-diz-the-information/",
+        "title": "Meta Pagará Quase US$ 15 Bi por Participação na Scale AI",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/meta-scale-300x200.png",
+        "date": "11/06/2025",
+        "description": "Fundada em 2016, a Scale AI fornece grandes quantidades de dados rotulados ou dados de treinamento com curadoria, o que é crucial para o desenvolvimento de ferramentas sofisticadas como o ChatGPT"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/switch-2-bate-recorde-como-console-de-venda-mais-rapida-da-nintendo/",
+        "title": "Switch 2 Bate Recorde Como Console de Venda Mais Rápida da Nintendo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/switch-site-300x200.png",
+        "date": "11/06/2025",
+        "description": "A Nintendo prevê que as vendas do console chegarão a 15 milhões de unidades até março de 2026"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-bolsa-cai-com-possivel-aceleracao-da-inflacao-nos-eua/",
         "title": "Pré-mercado: Bolsa Cai com Possível Aceleração da Inflação nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_vinho-branco_09jun25_Getty-300x200.jpg",
         "date": "11/06/2025",
         "description": "A história de uma cepa milenar que se adaptou aos terroirs locais e conquistou mercados internacionais"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/menus-de-dia-dos-namorados-em-sao-paulo-chegam-a-r-5-600-por-casal/",
-        "title": "Menus de Dia dos Namorados em São Paulo Chegam a R$ 5.600 por Casal",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Restaurantes-Dia-dos-Namorados-3-300x200.jpg",
-        "date": "11/06/2025",
-        "description": "A Forbes selecionou algumas das experiências gastronômicas mais luxuosas para o dia 12 de junho, entre menus exclusivos e chefs estrelados"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/da-agencia-aos-agentes-bancos-aceleram-iniciativas-de-ia-generativa/",
-        "title": "Da Agência Aos Agentes: Bancos Aceleram Iniciativas de IA Generativa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/RicardoGuerra-300x200.jpg",
-        "date": "11/06/2025",
-        "description": "Segundo a Febraban, instituições investirão R$ 47,8 bi em tecnologia até o fim de 2025; 80% já incorporam GenAI, entre elas Bradesco, Santander e Itaú Unibanco"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/06/parcerias-publico-privadas-na-saude-um-caminho-para-o-fortalecimento-do-sus/",
-        "title": "Parcerias Público-Privadas na Saúde: um Caminho para o Fortalecimento do SUS",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-2081557107-300x200.jpeg",
-        "date": "11/06/2025",
-        "description": "PPPs na saúde ganham espaço como alternativa para ampliar acesso e modernizar a gestão diante de recursos limitados"
     }
 ]
