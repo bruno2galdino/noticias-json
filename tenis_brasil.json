@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/svitolina-e-estilista-ucraniana-lancam-colecao-inspirada-em-wimbledon.html",
-        "title": "Svitolina e estilista ucraniana lançam coleção inspirada em Wimbledon",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/svitolina_colecao.jpg",
+        "url": "https://tenisbrasil.uol.com.br/o-desafio-agora-e-na-grama-quem-pode-ameacar-o-dominio-de-sinner-e-albaraz.html",
+        "title": "O desafio agora é na grama: quem pode ameaçar Sinner e Alcaraz?",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/Artes-Blogs-900x600-5.jpg",
         "date": "12/06/2025",
-        "description": "Kiev (Ucrânia) –Ex-número 3 do mundo e duas vezes semifinalista em Wimbledon, Elina Svitolina exercitou seu lado criativo acaba de lançar uma coleção de roupas em parceria com a estilista ucraniana Svitlana Bevza."
+        "description": "Por um período na historia do tênis essa época do ano era conhecida pelo aparecimento de alguns jogadores de características próprias. Os então chamados “saque e voleio”. O pisoteio nas quadras da temporada de grama já denunciava o estilo. O piso ficava marcado na forma de um triângulo, com a linha de base praticamente gasta indo em direção ao centro da rede. (Desculpem o nariz de cera, mas acho legal lembrar). Era o estrelato de tenistas tipo Alexander Bublik, como Goran Ivanisevic, Patrick Rafter, Boris Becker, Tm Henman, Mark Philippoussis, entre outros. O momento era tão típico e as diferenças do circuito eram tão nítidas que um astro como Ivan Lendl jamais levantou o troféu de campeão no All England Club. Em contra partida Pete Sampras nunca reinou em Roland Garros, embora tenha um título no saibro de Roma no seu currículo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/stefani-e-babos-perdem-chances-e-caem-nas-quartas-no-queens.html",
+        "title": "Stefani e Babos perdem chances e caem nas quartas no Queen’s",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/stefani_drop_queens_cut-1024x684.jpg",
+        "date": "12/06/2025",
+        "description": "Londres (Inglaterra)– A paulista Luisa Stefani e a húngara Timea Babos tiveram suas chances na partida desta quinta-feira contra a australiana Ellen Perez e a chinesa Shuai Zhang, mas no final as cabeças de chave 3 no WTA 500 do Queen’s prevaleceram e triunfaram em dois tiebreaks, com parciais de 7/6(7-4) e 7/6 (9-7), avançando para as semifinais."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-12-06.html",
@@ -12,6 +19,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/54332438744_d414a64d4a_o-e1740683071134-1024x683.jpg",
         "date": "12/06/2025",
         "description": "WTA 500 de Londres (Inglaterra) – Grama – US$ 1.415.000Duplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/svitolina-e-estilista-ucraniana-lancam-colecao-inspirada-em-wimbledon.html",
+        "title": "Svitolina e estilista ucraniana lançam coleção inspirada em Wimbledon",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/svitolina_colecao.jpg",
+        "date": "12/06/2025",
+        "description": "Kiev (Ucrânia) –Ex-número 3 do mundo e duas vezes semifinalista em Wimbledon, Elina Svitolina exercitou seu lado criativo acaba de lançar uma coleção de roupas em parceria com a estilista ucraniana Svitlana Bevza."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/serena-e-venus-vao-comandar-podcast-no-x-a-partir-de-agosto.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/05/thaisa_pedretti_rioclaro_web.jpg",
         "date": "11/06/2025",
         "description": "WTA 500 de Londres (Inglaterra) – Grama – US$ 1.415.000Segunda rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/carol-meligeni-vence-jovem-tcheca-laura-faz-semi-nas-duplas.html",
-        "title": "Carol Meligeni vence jovem tcheca, Laura faz semi nas duplas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/carol_meligeni_caserta_vibra_cut-1024x693.jpg",
-        "date": "11/06/2025",
-        "description": "Ceska Lipa (República Tcheca) –A estreia de Carol Meligeni no ITF W75 de Ceska Lipa, em quadras de saibro na República Tcheca, foi com resultado positivo. A número 3 do Brasil e 276ª do mundo venceu a jovem anfitriã de apenas 14 anos Jana Kovackova por 7/5 e 6/1."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/luz-e-zormann-vencem-em-lyon-schiessl-faz-quartas-na-italia.html",
-        "title": "Luz e Zormann vencem em Lyon, Schiessl faz quartas na Itália",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/Schiessl-campinas-olha-bola.jpg",
-        "date": "11/06/2025",
-        "description": "Lyon (França) –A parceria formada pelo gaúcho Orlando Luz e o paulista Marcelo Zormann estreou com vitória no challenger de Lyon, em quadras de saibro na França. Principais cabeças de chave, os brasileiros venceram o belga Michael Geerts e o dinamarquês Johannes Ingildsen por 6/3 e 6/4. Eles enfrentam nas quartas o francês Luca Sanchez e o japonês Seita Watanabe."
     }
 ]
