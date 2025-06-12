@@ -1,17 +1,24 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/arena-btg-pactual-anuncia-nova-patrocinadora-do-complexo.html",
-        "title": "Arena BTG Pactual anuncia nova patrocinadora do complexo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/arenabtg_vistaaerea.jpeg",
-        "date": "12/06/2025",
-        "description": "São Paulo (SP)– A Arena BTG Pactual celebra a chegada de um novo e saboroso reforço para sua equipe de patrocinadores: a Seara Gourmet. Reconhecida por sua excelência no segmento de alimentos premium, a marca se une ao complexo com o objetivo de posicionar e fortalecer a presença no universo do tênis."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-12-06.html",
         "title": "O dia dos brasileiros: veja os resultados desta quinta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/stefani_esperasaque_queens-1024x683.jpg",
         "date": "12/06/2025",
         "description": "WTA 500 de Londres (Inglaterra) – Grama – US$ 1.415.000Duplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/com-7-de-aumento-wimbledon-tera-uma-premiacao-recorde.html",
+        "title": "Com 7% de aumento, Wimbledon terá uma premiação recorde",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/07/alcaraz-krejcikova-baile-de-gala-wimbledon-1024x640.jpeg",
+        "date": "12/06/2025",
+        "description": "Londres (Inglaterra)– Nesta quinta-feira, a direção do All England Lawn Tennis Club anunciou as novidades para a edição deste ano de Wimbledon e uma delas é o aumento em sua premiação em dinheiro para 53,5 milhões de libras (US$ 72,59 milhões), um crescimento de 7% em relação a 2024 e o dobro do que foi oferecido há uma década."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/arena-btg-pactual-anuncia-nova-patrocinadora-do-complexo.html",
+        "title": "Arena BTG Pactual anuncia nova patrocinadora do complexo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/arenabtg_vistaaerea.jpeg",
+        "date": "12/06/2025",
+        "description": "São Paulo (SP)– A Arena BTG Pactual celebra a chegada de um novo e saboroso reforço para sua equipe de patrocinadores: a Seara Gourmet. Reconhecida por sua excelência no segmento de alimentos premium, a marca se une ao complexo com o objetivo de posicionar e fortalecer a presença no universo do tênis."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/sorteio-define-confrontos-do-itf-sand-series-brasilia-classic-2025.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/bonini-banana-rebate-2025-1024x682.jpeg",
         "date": "11/06/2025",
         "description": "Bamberg (Alemanha) –Em rodada com cinco juvenis brasileiros em quadra, a potiguar Victória Barros, o paranaense João Bonini e o brasiliense Pedro Chabalgoity avançaram às oitavas de final do ITF J300 de Bamberg, no saibro alemão."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wta-introduz-regra-inovadora-focada-na-protecao-da-fertilidade.html",
-        "title": "WTA introduz regra inovadora focada na proteção da fertilidade",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/Artes-fotos-multiplas-900x600-18.jpg",
-        "date": "11/06/2025",
-        "description": "São Petersburgo (EUA)– Criado originalmente para ajudar tenistas que passaram por um longo período fora do circuito por causa de lesão, o ranking protegido, que usa uma média dos resultados antes da pausa, também tem sido utilizado pelas jogadoras que param para ser mães. Agora, a WTA resolveu ampliar a abrangência da regra e vai oferecer o mesmo para atletas que optam por se submeter à proteção de fertilidade."
     }
 ]

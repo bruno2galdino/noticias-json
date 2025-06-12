@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/06/aviao-da-air-india-com-242-pessoas-a-bordo-desaba-logo-apos-a-decolagem/",
+        "title": "Avião da Air India com 242 Pessoas a Bordo Desaba Logo após a Decolagem",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-2172226367-1-300x200.jpg",
+        "date": "12/06/2025",
+        "description": "O avião estava indo para o aeroporto britânico de Gatwick, em Londres"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-governo-tenta-elevar-arrecadacao-de-novo/",
+        "title": "Pré-mercado: Governo Tenta Elevar Arrecadação - de Novo",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "12/06/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 12 de junho"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/06/brandvoice-pernod-ricard-o-encontro-exclusivo-do-luxo-com-a-brasilidade/",
         "title": "O Encontro Exclusivo do Luxo com a Brasilidade",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/royal-salute-jun-300x200.png",
@@ -12,6 +26,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/960x0-3-300x200.jpg",
         "date": "12/06/2025",
         "description": "Sua zona de conforto mental pode ser uma prisão disfarçada. Essas duas ações atrapalham seu progresso sentimental sem que você perceba"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/com-rosas-e-desafios-dia-dos-namorados-aquece-mercado-de-flores-no-inverno/",
+        "title": "Com Rosas e Desafios, Dia dos Namorados Aquece Mercado de Flores no Inverno",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_rosas_flores_10jun25_Insider-Divulg-300x200.jpg",
+        "date": "12/06/2025",
+        "description": "Mesmo com limitações na produção nacional por causa do frio, a data figura entre as cinco mais relevantes para o setor; Veiling projeta crescimento de até 8% nas vendas em 2025"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/06/5-viagens-romanticas-para-viver-um-dia-dos-namorados-inesquecivel/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Ivo-Degn-cofundador-da-Climate-Farmers_07jun25_CF_Divulg-300x200.jpg",
         "date": "12/06/2025",
         "description": "Ivo Degn, cofundador da Climate Farmers, diz que \"estamos nos afastando\" desse mercado porque ele não foi construído para apoiar a regeneração"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/sem-imigrantes-sem-comida-o-agronegocio-dos-eua-a-beira-do-colapso/",
-        "title": "Sem Imigrantes, sem Comida: o Agronegócio dos EUA À Beira do Colapso",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_trabahadores_campo_EUA_10jun25_Getty-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "Ofensiva de Donald Trump chegou ao campo e atinge uma força de trabalho que sem ela a produção agrícola do país pode perder até US$ 60 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/06/tiktok-shop-o-que-voce-precisa-saber-sobre-a-nova-funcao-do-tiktok/",
-        "title": "Tiktok Shop: o Que Você Precisa Saber sobre a Nova Função do Tiktok",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/tiktok-shop-300x200.png",
-        "date": "12/06/2025",
-        "description": "A plataforma de co pras promete simplificar o caminho entre desejo e a compra online, como explica Gabriela Comazzetto, Diretora Geral de Negócios do TikTok na América Latina"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/06/dia-dos-namorados-como-lidar-com-romances-no-trabalho-sem-comprometer-a-carreira/",
-        "title": "Dia dos Namorados: Como Lidar com Romances no Trabalho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-romance-namoro-trabalho-dia-dos-namorados-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "Pesquisa revela que mais da metade dos profissionais já se envolveu com colegas de escritório"
     }
 ]
