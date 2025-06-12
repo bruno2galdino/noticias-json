@@ -1,23 +1,37 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/601483-netflix-esta-produzindo-nova-serie-de-stranger-things-conheca-tales-from-85.htm",
+        "title": "Netflix está produzindo nova série de Stranger Things! Conheça Tales from 85",
+        "description": "Stranger Things: Tales from 85 é uma animação que promete mais perigos e personagens inéditos, além de rostos conhecidos",
+        "image": "https://tm.ibxk.com.br/2025/06/12/12125615859005.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/405111-vazamento-revela-ferramentas-de-ia-que-o-governo-dos-eua-esta-desenvolvendo.htm",
+        "title": "Vazamento revela ferramentas de IA que o governo dos EUA está desenvolvendo",
+        "description": "Vazamento de informações no GitHub sugere que a administração Trump terá um site com chatbot e integração com modelos de IA",
+        "image": "https://tm.ibxk.com.br/2025/06/12/12131926480015.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/405114-apple-store-de-los-angeles-e-saqueada-e-vandalizada-durante-protestos-contra-o-governo-trump.htm",
+        "title": "Apple Store de Los Angeles é saqueada e vandalizada durante protestos contra o governo Trump",
+        "description": "Durante o movimento, criminosos aproveitaram o escalonar dos protestos para saquear e vandalizar a Apple Tower Theatre",
+        "image": "https://tm.ibxk.com.br/2025/06/12/12135324845058.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/501615-apos-lancamento-polemico-mindseye-sofre-com-pedidos-de-reembolso-e-frustracao-de-jogadores.htm",
+        "title": "Após lançamento polêmico, MindsEye sofre com pedidos de reembolso e frustração de jogadores",
+        "description": "Diversos jogadores estão relatando nas redes sociais que conseguiram pedir o reembolso de MindsEye na PlayStation Store; Confira os detalhes!",
+        "image": "https://tm.ibxk.com.br/2025/06/12/12111314888080.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/produto/405113-celular-motorola-smart-tv-aoc-notebook-vaio-e-mais-com-ate-59-off-na-shopee-confira.htm",
         "title": "Celular Motorola, Smart TV AOC, Notebook VAIO e mais com até 59% OFF na Shopee; confira",
         "description": "Eletrônicos, móveis, utensílios de cozinha, ferramentas e muito mais com desconto na Shopee; aproveite!",
         "image": "https://tm.ibxk.com.br/2025/06/12/12134918708050.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/ciencia/405107-nasa-nega-vinculo-com-jovem-que-afirma-ser-a-primeira-mulher-astronauta-brasileira.htm",
-        "title": "NASA nega vínculo com jovem que afirma ser a primeira mulher astronauta brasileira",
-        "description": "A mineira Laysa Peixoto viralizou nas redes sociais após dizer que foi selecionada para uma viagem espacial prevista para 2029.",
-        "image": "https://tm.ibxk.com.br/2025/06/12/12111721751115.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/601481-prime-video-dobra-duracao-de-anuncios-em-seu-streaming-que-podem-tomar-10-do-tempo-de-usuarios.htm",
-        "title": "Prime Video dobra duração de anúncios em seu streaming, que podem tomar 10% do tempo de usuários",
-        "description": "A cada hora de programação, o Prime Video exibe 6 minutos de propagandas",
-        "image": "https://tm.ibxk.com.br/2025/06/12/12114616778013.jpg",
         "date": null
     }
 ]
