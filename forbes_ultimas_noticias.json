@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/como-o-fim-da-isencao-para-criptos-afeta-corretoras-nacionais/",
+        "title": "Como o Fim da Isenção para Criptos Afeta Corretoras Nacionais?",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/07/criptomoedas-1-300x200.jpg",
+        "date": "12/06/2025",
+        "description": "Governo anunciou novas regras para ativos digitais que passam a valer a partir de 1º de janeiro de 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/ibovespa-avanca-apesar-de-mal-estar-causado-por-medidas-fiscais-do-governo/",
+        "title": "Ibovespa Avança, Apesar de Mal-estar Causado por Medidas Fiscais do Governo",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "12/06/2025",
+        "description": "Dólar sobe, apesar de forte recuo no exterior, com indícios de desaceleração da economia americana"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/com-receio-sobre-tarifas-penalizando-acoes-riqueza-das-familias-dos-eua-cai-no-1o-trimestre/",
         "title": "Com Receio sobre Tarifas Penalizando Ações, Riqueza das Famílias dos EUA Cai no 1º Trimestre",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Nota-de-dolar-e-grafico-em-imagem-ilustrativa-300x200.jpg",
@@ -35,7 +49,7 @@
         "description": "Trump expandiu o império imobiliário de seu pai para uma fortuna de US$ 2,5 bilhões (R$ 13,83 bilhões). Agora, ele criou um reino cripto ainda mais valioso"
     },
     {
-        "url": "https://forbes.com.br/forbes-money/2025/06/global-2000-as-10-maiores-empresas-brasileiras-de-capital-aberto-em-2025/",
+        "url": "https://forbes.com.br/listas/2025/06/global-2000-as-10-maiores-empresas-brasileiras-de-capital-aberto-em-2025/",
         "title": "Global 2000: as 10 Maiores Empresas Brasileiras de Capital Aberto em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-05-16T130742Z_1_LYNXMPEL4F0JP_RTROPTP_4_MACRO-ITAU-REVISAO-scaled-1-300x200.jpg",
         "date": "12/06/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/previdencia-privada-300x200.png",
         "date": "12/06/2025",
         "description": "Nos últimos meses, o debate fiscal no Brasil só tem trazido incerteza e a promessa de mais tributos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/jbs-adia-estreia-na-nyse-para-sexta-feira/",
-        "title": "JBS Adia Estreia na Nyse para Sexta-feira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Money_JBSDuplaListagem_30MAI2025_Getty-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "Empresa alegou que não conseguiu cumprir todos os procedimentos operacionais necessários"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/china-reduz-previsao-de-importacoes-de-algodao-em-2024-25/",
-        "title": "China  avisa que pode importar menos algodão colhido na safra 2024/25",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/algodao-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "Espera-se que as importações de algodão durante a temporada totalizem 1,2 milhão de toneladas, uma queda devido às tarifas dos EUA"
     }
 ]
