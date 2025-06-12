@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/demanda-de-biodiesel-no-brasil-em-2025-deve-chegar-a-96-bilhoes-de-litros/",
+        "title": "Demanda de Biodiesel no Brasil em 2025 Deve Chegar a 9,6 Bilhões de Litros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Pistola-de-gasolina-em-posto-de-combustiveis-300x200.jpg",
+        "date": "12/06/2025",
+        "description": "Nos últimos anos os aumentos da mistura obrigatória levaram a saltos expressivos na demanda por biodiesel"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/usda-projeta-estoques-de-milho-mais-apertados-nos-eua-com-aumento-das-exportacoes/",
+        "title": "USDA Projeta Estoques de Milho Mais Apertados nos EUA com Aumento das Exportações",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Produtor-na-Argentina-300x200.jpg",
+        "date": "12/06/2025",
+        "description": "A projeção é de que os estoques de milho caiam para 1,365 bilhão de bushels até 1º de setembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/conab-eleva-previsao-de-safra-de-milho-do-brasil-exportacao-de-soja-cresce-mais/",
+        "title": "Conab Eleva Previsão de Safra de Milho do Brasil; Exportação de Soja Cresce Mais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Colheita-de-milho-em-Maringa-300x200.jpg",
+        "date": "12/06/2025",
+        "description": "A segunda safra de milho do país, com colheita em fase inicial, foi estimada em 101 milhões de toneladas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/criptomoedas-representam-a-maior-parte-do-patrimonio-de-donald-trump/",
+        "title": "Criptomoedas Já Representam a Maior Parte do Patrimônio de Donald Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-9-300x200.jpg",
+        "date": "12/06/2025",
+        "description": "Trump expandiu o império imobiliário de seu pai para uma fortuna de US$ 2,5 bilhões (R$ 13,83 bilhões). Agora, ele criou um reino cripto ainda mais valioso"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/global-2000-as-10-maiores-empresas-brasileiras-de-capital-aberto-em-2025/",
         "title": "Global 2000: as 10 Maiores Empresas Brasileiras de Capital Aberto em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-05-16T130742Z_1_LYNXMPEL4F0JP_RTROPTP_4_MACRO-ITAU-REVISAO-scaled-1-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_etanol_milho_-20mai25_-PRImageFactory_Gettyimages-300x200.jpg",
         "date": "12/06/2025",
         "description": "Escoamento será de safras do Centro-Oeste e irá atender máquinas do agronegócio da região"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/boeing-desaba-8-apos-queda-de-aviao-da-air-india/",
-        "title": "Boeing Desaba 8% após Queda de Avião da Air India",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Boeing-737-Max-Imagem-GettyImages-300x200.png",
-        "date": "12/06/2025",
-        "description": "O site de rastreamento de aviação Flightradar24 informou que o avião era um Boeing 787-8 Dreamliner"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/governo-apresenta-mp-que-eleva-tributacao-sobre-aplicacoes-financeiras-e-bets-para-compensar-iof/",
-        "title": "Governo Apresenta MP Que Eleva Tributação sobre Aplicações Financeiras e Bets para Compensar IOF",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/GettyImages-1195409503-1-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "Novas emissões de títulos que atualmente são isentos, como LCA, LCI, CRI, CRA e debêntures incentivadas, passarão a pagar alíquota de 5% de IR"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/06/aviao-da-air-india-com-242-pessoas-a-bordo-desaba-logo-apos-a-decolagem/",
-        "title": "Avião da Air India com 242 Pessoas a Bordo Cai Logo após a Decolagem",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-2172226367-1-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "O avião estava indo para o aeroporto britânico de Gatwick, em Londres"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-governo-tenta-elevar-arrecadacao-de-novo/",
-        "title": "Pré-mercado: Governo Tenta Elevar Arrecadação - de Novo",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "12/06/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 12 de junho"
     }
 ]
