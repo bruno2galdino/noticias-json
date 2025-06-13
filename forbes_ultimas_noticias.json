@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/cepea-aponta-queda-na-margem-das-processadoras-de-soja-do-brasil/",
+        "title": "Cepea Aponta Queda na Margem das Processadoras de Soja do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Design-sem-nome-28-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Preços do grão estão firmes no mercado brasileiro, sustentados pela demanda externa aquecida"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/seca-na-europa-pode-derrubar-a-producao-de-acucar/",
+        "title": "Seca na Europa Pode Derrubar a Produção de Açúcar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Beterraba-sacarina-em-um-campo-em-Vis-en-Artois-Franca-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Ministério da Agricultura espera que o plantio de beterraba caia 5% em relação ao ano anterior"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/eua-propoe-volumes-mais-altos-para-mistura-de-biocombustiveis-ate-2027/",
+        "title": "EUA Propõe Volumes Mais Altos para Mistura de Biocombustíveis até 2027",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Soja-em-armazem-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Os defensores dos biocombustíveis aplaudiram a proposta dos Estados Unidos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/bunge-anuncia-aprovacao-regulatoria-da-china-para-acordo-com-viterra/",
+        "title": "Bunge Anuncia Aprovação Regulatória da China para Acordo com Viterra",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Bunge_13JUN2025_Getty-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "O parecer do país foi a última pendência regulatória que a empresa precisava resolver para finalizar o negócio de US$ 34 bilhões"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/06/ira-dispara-misseis-contra-israel-em-resposta-a-ataques/",
         "title": "Irã Dispara Mísseis contra Israel em Resposta a Ataques",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/ira-israel-guerra-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_CarneSuina_13JUN2025_Getty-300x200.jpg",
         "date": "13/06/2025",
         "description": "Alguns frigoríficos do país já podem exportar seus produtos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/colheita-de-cafe-do-brasil-atinge-35-enquanto-chuvas-reduzem-ritmo/",
-        "title": "Colheita de Café do Brasil Atinge 35%, Enquanto Chuvas Reduzem Ritmo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T125220Z_1_LYNXMPEL5C0O4_RTROPTP_4_COFFEE-BRAZIL-FROST-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "Progresso dos trabalhos está abaixo do ano passado, mas acima da média dos últimos cinco anos, segundo dados recentes"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/tailandia-preve-mais-producao-de-acucar-apos-aumento-de-176-este-ano/",
-        "title": "Tailândia Prevê Mais Produção de Açúcar após Aumento de 17,6% Este Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T125304Z_1_LYNXMPEL5C0O9_RTROPTP_4_BRAZIL-SUGAR-DATAGRO-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "Expansão das áreas de cana impulsiona crescimento agrícola na segunda maior economia do Sudeste Asiático"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/ataque-de-israel-ao-ira-mexe-com-os-investimentos-petroleo-dispara-mas-ainda-e-cedo-para-dizer/",
-        "title": "Ataque de Israel Ao Irã Mexe com os Investimentos? Petróleo Dispara, Mas Ainda É Cedo para Dizer",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/petroleo-forbesmoney-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "Um conflito prolongado pode desencadear uma crise de energia, pressão inflacionária e mais incertezas no horizonte"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/adm-provoca-frenesi-no-mercado-de-soja-dos-eua-antes-da-nova-regra-de-mistura-de-biocombustiveis/",
-        "title": "ADM Provoca \"Frenesi\" no Mercado de Soja dos EUA Antes da Nova Regra de Mistura de Biocombustíveis",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T125404Z_1_LYNXMPEL5C0OA_RTROPTP_4_PARAGUAY-SOYBEANS-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "Incertezas sobre tarifas e políticas de biocombustíveis nos Estados Unidos levam produtores de biodiesel a reduzir ou paralisar operações"
     }
 ]
