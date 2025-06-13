@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/china-aprova-importacao-de-carne-suina-e-produtos-avicolas-dos-eua/",
+        "title": "China Aprova Importação de Carne Suína e Produtos Avícolas dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_CarneSuina_13JUN2025_Getty-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Alguns frigoríficos do país já podem exportar seus produtos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/colheita-de-cafe-do-brasil-atinge-35-enquanto-chuvas-reduzem-ritmo/",
+        "title": "Colheita de Café do Brasil Atinge 35%, Enquanto Chuvas Reduzem Ritmo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T125220Z_1_LYNXMPEL5C0O4_RTROPTP_4_COFFEE-BRAZIL-FROST-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Progresso dos trabalhos está abaixo do ano passado, mas acima da média dos últimos cinco anos, segundo dados recentes"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/tailandia-preve-mais-producao-de-acucar-apos-aumento-de-176-este-ano/",
+        "title": "Tailândia Prevê Mais Produção de Açúcar após Aumento de 17,6% Este Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T125304Z_1_LYNXMPEL5C0O9_RTROPTP_4_BRAZIL-SUGAR-DATAGRO-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Expansão das áreas de cana impulsiona crescimento agrícola na segunda maior economia do Sudeste Asiático"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/ataque-de-israel-ao-ira-mexe-com-os-investimentos-petroleo-dispara-mas-ainda-e-cedo-para-dizer/",
+        "title": "Ataque de Israel Ao Irã Mexe com os Investimentos? Petróleo Dispara, Mas Ainda É Cedo para Dizer",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/02/petroleo-forbesmoney-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Um conflito prolongado pode desencadear uma crise de energia, pressão inflacionária e mais incertezas no horizonte"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/adm-provoca-frenesi-no-mercado-de-soja-dos-eua-antes-da-nova-regra-de-mistura-de-biocombustiveis/",
+        "title": "ADM Provoca \"Frenesi\" no Mercado de Soja dos EUA Antes da Nova Regra de Mistura de Biocombustíveis",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T125404Z_1_LYNXMPEL5C0OA_RTROPTP_4_PARAGUAY-SOYBEANS-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Incertezas sobre tarifas e políticas de biocombustíveis nos Estados Unidos levam produtores de biodiesel a reduzir ou paralisar operações"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/google-processa-latam-airlines-nos-eua-por-disputa-sobre-video-do-youtube-no-brasil/",
         "title": "Google Processa Latam Airlines nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2023/10/ESG_LATAM_Divulgacao-300x200.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T112050Z_1_LYNXMPEL5C0JY_RTROPTP_4_IRA-ISRAEL-COMANDANTES-MORTOS-1-300x200.jpg",
         "date": "13/06/2025",
         "description": "A escalada no conflito no Oriente Médio pressiona os ativos globais"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/baccarat-hotel-new-york-tradicao-francesa-e-sofisticacao-discreta-no-coracao-de-manhattan/",
-        "title": "Baccarat Hotel New York: tradição francesa e sofisticação discreta no coração de Manhattan",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Baccarat-hotel-1-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "Como foi me hospedar no hotel cinco estrelas, que oferece serviço impecável a poucos passos do MoMA e do Central Park"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/jbs-se-torna-a-primeira-empresa-brasileira-de-proteina-na-bolsa-de-nova-york/",
-        "title": "JBS se Torna a Primeira Empresa Brasileira de Proteína na Bolsa de Nova York",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Gilberto_Tomazoni_13jun25_JBS_DIvulgacao-1-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "Gilberto Tomazoni, CEO global, diz que estar na principal bolsa do mundo aproxima a companhia dos centros globais de investimento e isso é estratégico"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-collab/2025/06/logistica-do-e-commerce-como-a-estoca-esta-redefinindo-a-formula-com-tecnologia-e-visao/",
-        "title": "Como a Tecnologia Está Redefinindo a Logística do E-commerce: O Case da Estoca",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-2203911891-1-300x200.jpeg",
-        "date": "13/06/2025",
-        "description": "Startup está transformando a complexa cadeia de suprimentos do varejo online nacional, mirando se tornar o \"sistema operacional\" do setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/barbie-inteligente-openai-fecha-parceria-inedita-com-a-mattel/",
-        "title": "Barbie Inteligente: OpenAI Fecha Parceria Inédita com a Mattel",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/07/Life_Barbies-mais-caras-do-mundo-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "O acordo permitirá que a empresa leve a tecnologia de IA para experiências lúdicas apropriadas para diferentes faixas etárias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-israel-ataca-ira-acoes-desabam-e-petroleo-dispara/",
-        "title": "Pré-mercado: Israel Ataca Irã, Ações Desabam e Petróleo Dispara",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T005238Z_1_LYNXMPEL5C00V_RTROPTP_4_ISRAEL-PALESTINIANS-IRAN-1-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 13 de junho"
     }
 ]
