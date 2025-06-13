@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/google-processa-latam-airlines-nos-eua-por-disputa-sobre-video-do-youtube-no-brasil/",
+        "title": "Google Processa Latam Airlines nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/10/ESG_LATAM_Divulgacao-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "O Google, da Alphabet, que é proprietário do YouTube, disse no processo que a Latam estava tentando \"contornar\" as proteções à liberdade de expressão previstas na Constituição dos Estados Unidos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/servicos-no-brasil-crescem-pelo-3o-mes-em-abril-com-impulso-de-transportes-por-feriado-e-lady-gaga/",
+        "title": "Serviços no Brasil Crescem Pelo 3º Mês em Abril com Impulso de Transportes por Feriado e Lady Gaga",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/lady-gaga-300x200.png",
+        "date": "13/06/2025",
+        "description": "Com a terceira leitura mensal positiva, o setor acumulou no período ganho de 1,5% e está 0,2% abaixo do ponto mais alto da série alcançado em outubro de 2024"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/petroleo-sobe-quase-9-apos-ataques-de-israel-ao-ira/",
+        "title": "Petróleo Sobe Quase 9% após Ataques de Israel Ao Irã",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/money-petroleo-02mar22-Angus-Mordant-reuters-300x200.webp",
+        "date": "13/06/2025",
+        "description": "Mercado teme que conflito possa interromper o fornecimento da commodity"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/goldman-sachs-eleva-suzano-para-compra-com-precos-de-celulose-no-radar/",
         "title": "Goldman Sachs Eleva Suzano para Compra, com Preços de Celulose no Radar",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_Suzano_Aracruz_Unidade_3jun25_Suzano_Divulg-300x200.jpg",
@@ -29,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-collab/2025/06/logistica-do-e-commerce-como-a-estoca-esta-redefinindo-a-formula-com-tecnologia-e-visao/",
-        "title": "Logística do E-commerce: Como a Estoca Está Redefinindo a Fórmula com Tecnologia e Visão",
+        "title": "Como a Tecnologia Está Redefinindo a Logística do E-commerce: O Case da Estoca",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-2203911891-1-300x200.jpeg",
         "date": "13/06/2025",
         "description": "Startup está transformando a complexa cadeia de suprimentos do varejo online nacional, mirando se tornar o \"sistema operacional\" do setor"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T005238Z_1_LYNXMPEL5C00V_RTROPTP_4_ISRAEL-PALESTINIANS-IRAN-1-300x200.jpg",
         "date": "13/06/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 13 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/brandvoice-okean-yatchs-emocao-ao-mar/",
-        "title": "Emoção Ao Mar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/1-5-300x200.png",
-        "date": "13/06/2025",
-        "description": "Festa do Grupo OKEAN em Itajaí marca o lançamento do Ferretti Yachts 1000 no Brasil, o maior iate em fibra de vidro produzido em série no país, com presença de convidados ilustres e show de Paulo Miklos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/como-um-discreto-geologo-desafiou-o-bilionario-cartel-global-de-fertilizantes/",
-        "title": "Como um Discreto Geólogo Desafiou o Bilionário Cartel Global de Fertilizantes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Ted-Pagano_12jun25_Jamel-Toppin_Forbes-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "Confira a saga de Ted Pagano, americano que apostou todas as fichas em uma jazida colossal de potássio e sal; ela já vale R$ 2,3 bilhões e vai concorrer com gigantes como Mosaic e Nutrien"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/06/mundo-levara-123-anos-para-fechar-a-lacuna-de-genero/",
-        "title": "Mundo Levará 123 Anos para Fechar a Lacuna de Gênero",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-igualdade-de-genero-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "Relatório anual do Fórum Econômico Mundial coloca Brasil na 72ª posição em equidade; entenda os avanços e retrocessos entre 2024 e 2025"
     }
 ]
