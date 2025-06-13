@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/06/ira-dispara-misseis-contra-israel-em-resposta-a-ataques/",
+        "title": "Irã Dispara Mísseis contra Israel em Resposta a Ataques",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/ira-israel-guerra-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Agência de notícias iraniana disse que centenas de mísseis balísticos foram lançados; explosões foram ouvidas em Tel Aviv e Jerusalém"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/06/brasil-e-outros-paises-terao-acesso-a-programa-de-descarbonizacao-industrial-de-us-1-bi/",
+        "title": "Brasil e Outros Países Terão Acesso a Programa de Descarbonização Industrial de US$ 1 Bi",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/10/tecnologias-e-mudancas-climaticas-300x200.png",
+        "date": "13/06/2025",
+        "description": "O grupo trabalhará com investidores para elaborar um plano de como descarbonizar o setor, que é responsável por um terço das emissões globais"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/06/investigacao-sobre-acidente-da-air-india-foca-em-motor-e-flaps-india-ordena-verificacoes-na-frota-787/",
         "title": "Investigação sobre Acidente da Air India Foca em Motor e Flaps; Índia Ordena Verificações na Frota 787",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-2172226367-1-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T125404Z_1_LYNXMPEL5C0OA_RTROPTP_4_PARAGUAY-SOYBEANS-300x200.jpg",
         "date": "13/06/2025",
         "description": "Incertezas sobre tarifas e políticas de biocombustíveis nos Estados Unidos levam produtores de biodiesel a reduzir ou paralisar operações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/google-processa-latam-airlines-nos-eua-por-disputa-sobre-video-do-youtube-no-brasil/",
-        "title": "Google Processa Latam Airlines nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/10/ESG_LATAM_Divulgacao-300x200.jpg",
-        "date": "13/06/2025",
-        "description": "O Google, da Alphabet, que é proprietário do YouTube, disse no processo que a Latam estava tentando \"contornar\" as proteções à liberdade de expressão previstas na Constituição dos Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/servicos-no-brasil-crescem-pelo-3o-mes-em-abril-com-impulso-de-transportes-por-feriado-e-lady-gaga/",
-        "title": "Serviços no Brasil Crescem Pelo 3º Mês em Abril com Impulso de Transportes por Feriado e Lady Gaga",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/lady-gaga-300x200.png",
-        "date": "13/06/2025",
-        "description": "Com a terceira leitura mensal positiva, o setor acumulou no período ganho de 1,5% e está 0,2% abaixo do ponto mais alto da série alcançado em outubro de 2024"
     }
 ]
