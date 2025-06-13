@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/06/brandvoice-okean-yatchs-emocao-ao-mar/",
+        "title": "Emoção Ao Mar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/1-5-300x200.png",
+        "date": "13/06/2025",
+        "description": "Festa do Grupo OKEAN em Itajaí marca o lançamento do Ferretti Yachts 1000 no Brasil, o maior iate em fibra de vidro produzido em série no país, com presença de convidados ilustres e show de Paulo Miklos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/como-um-discreto-geologo-desafiou-o-bilionario-cartel-global-de-fertilizantes/",
+        "title": "Como um Discreto Geólogo Desafiou o Bilionário Cartel Global de Fertilizantes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Ted-Pagano_12jun25_Jamel-Toppin_Forbes-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Confira a saga de Ted Pagano, americano que apostou todas as fichas em uma jazida colossal de potássio e sal; ela já vale R$ 2,3 bilhões e vai concorrer com gigantes como Mosaic e Nutrien"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/06/mundo-levara-123-anos-para-fechar-a-lacuna-de-genero/",
+        "title": "Mundo Levará 123 Anos para Fechar a Lacuna de Gênero",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-igualdade-de-genero-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Relatório anual do Fórum Econômico Mundial coloca Brasil na 72ª posição em equidade; entenda os avanços e retrocessos entre 2024 e 2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/gaia-conheca-o-modelo-de-ia-desenvolvido-por-pesquisadores-brasileiros/",
+        "title": "GAIA: Conheça o Modelo de IA Desenvolvido por Pesquisadores Brasileiros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Projeto-GAIA-300x200.png",
+        "date": "13/06/2025",
+        "description": "Com apoio do Google, a iniciativa foi liderada por especialistas da Associação Brasileira de Inteligência Artificial e do Centro de Excelência em Inteligência Artificial da Universidade Federal de Goiás, em parceria com as startups Amadeus AI e Nama"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/06/como-usar-o-linkedin-para-se-tornar-referencia-no-seu-nicho/",
+        "title": "Como Usar o LinkedIn para se Tornar Referência no Seu Nicho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-linkedin-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Produzir conteúdo regularmente na plataforma pode te ajudar a construir autoridade e atrair oportunidades"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/lista-global-2000-conheca-as-maiores-empresas-de-capital-aberto-do-mundo-em-2025/",
+        "title": "Global 2000: Conheça as Maiores Empresas de Capital Aberto do Mundo em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-10-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Em 2025, as 2 mil maiores empresas apresentaram recordes de receita, lucro, ativos e valor de mercado"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/8-cidades-europeias-pouco-conhecidas-para-viver-bem-gastando-pouco/",
+        "title": "8 Cidades Europeias Pouco Conhecidas para Viver Bem Gastando Pouco",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Villefranche-sur-Mer-Franca-—-uma-das-cidades-europeias-onde-voce-pode-viver-uma-vida-melhor-por-menos-300x200.jpg",
+        "date": "13/06/2025",
+        "description": "Um novo relatório revela destinos fora do radar, da França à Grécia, que oferecem boa qualidade de vida com custos surpreendentemente acessíveis"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/como-o-fim-da-isencao-para-criptos-afeta-corretoras-nacionais/",
         "title": "Como o Fim da Isenção para Criptos Afeta Corretoras Nacionais?",
         "image": "https://forbes.com.br/wp-content/uploads/2024/07/criptomoedas-1-300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Nota-de-dolar-e-grafico-em-imagem-ilustrativa-300x200.jpg",
         "date": "12/06/2025",
         "description": "A queda na riqueza pode durar pouco: o S&P 1500 acumula alta de cerca de US$1,2 trilhão"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/demanda-de-biodiesel-no-brasil-em-2025-deve-chegar-a-96-bilhoes-de-litros/",
-        "title": "Demanda de Biodiesel no Brasil em 2025 Deve Chegar a 9,6 Bilhões de Litros",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Pistola-de-gasolina-em-posto-de-combustiveis-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "Nos últimos anos os aumentos da mistura obrigatória levaram a saltos expressivos na demanda por biodiesel"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/usda-projeta-estoques-de-milho-mais-apertados-nos-eua-com-aumento-das-exportacoes/",
-        "title": "USDA Projeta Estoques de Milho Mais Apertados nos EUA com Aumento das Exportações",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Produtor-na-Argentina-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "A projeção é de que os estoques de milho caiam para 1,365 bilhão de bushels até 1º de setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/conab-eleva-previsao-de-safra-de-milho-do-brasil-exportacao-de-soja-cresce-mais/",
-        "title": "Conab Eleva Previsão de Safra de Milho do Brasil; Exportação de Soja Cresce Mais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Colheita-de-milho-em-Maringa-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "A segunda safra de milho do país, com colheita em fase inicial, foi estimada em 101 milhões de toneladas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/criptomoedas-representam-a-maior-parte-do-patrimonio-de-donald-trump/",
-        "title": "Criptomoedas Já Representam a Maior Parte do Patrimônio de Donald Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-9-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "Trump expandiu o império imobiliário de seu pai para uma fortuna de US$ 2,5 bilhões (R$ 13,83 bilhões). Agora, ele criou um reino cripto ainda mais valioso"
-    },
-    {
-        "url": "https://forbes.com.br/listas/2025/06/global-2000-as-10-maiores-empresas-brasileiras-de-capital-aberto-em-2025/",
-        "title": "Global 2000: as 10 Maiores Empresas Brasileiras de Capital Aberto em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-05-16T130742Z_1_LYNXMPEL4F0JP_RTROPTP_4_MACRO-ITAU-REVISAO-scaled-1-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "Das 2 mil maiores empresas do mundo, 27 são brasileiras. Juntas, elas lucraram cerca de R$ 270 bilhões nos últimos 12 meses."
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/zegna-desfila-sua-colecao-de-verao-2026-em-dubai-e-aposta-em-elegancia-desconstruida/",
-        "title": "Zegna Desfila Sua Coleção de Verão 2026 em Dubai e Aposta em Elegância Desconstruída",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Amassadas-as-pecas-de-linho-da-Zegna-flutuam-como-se-tivessem-acabado-de-sair-da-mala-do-nomade-moderno-300x200.jpg",
-        "date": "12/06/2025",
-        "description": "A grife italiana optou por não se apresentar em Milão nesta temporada e transformou a ópera de Dubai em hub de inovação, sustentabilidade e estilo."
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/06/eduardo-mira-mais-impostos-menos-crescimento-a-perigosa-escolha-do-governo/",
-        "title": "Mais Impostos, Menos Crescimento: a Perigosa Escolha do Governo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/previdencia-privada-300x200.png",
-        "date": "12/06/2025",
-        "description": "Nos últimos meses, o debate fiscal no Brasil só tem trazido incerteza e a promessa de mais tributos"
     }
 ]
