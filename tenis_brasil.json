@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/grama-apresenta-um-novo-tenis.html",
+        "title": "Grama apresenta um novo tênis",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/blog_tatjana.jpg",
+        "date": "15/06/2025",
+        "description": "E, de repente, o tênis mudou. Agora, nomes como Gabriel Diallo, Tatjana Maria, Justin Engel e Elena Ruse ocupam o noticiário, ao mesmo tempo que vemos antigos campeões voltarem a erguer troféus e fazer sucesso, como Taylor Fritz e Elise Mertens. A “culpa” é totalmente das quadras de grama. Quase um universo paralelo ao circuito tradicional, o piso natural do tênis provoca essas muito bem-vindas novidades."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/diallo-vence-o-amigo-bergs-e-vence-seu-primeiro-titulo-na-atp.html",
         "title": "Diallo vence o amigo Bergs e vence seu primeiro título na ATP",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/Gabriel-Diallo-6-1024x683.jpg",
@@ -9,7 +16,7 @@
     {
         "url": "https://tenisbrasil.uol.com.br/reis-bate-mais-um-favorito-argentino-e-fatura-seu-primeiro-challenger.html",
         "title": "Reis bate mais um favorito argentino e fatura seu primeiro challenger",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/reis-santafe-vibramuito-2025-e1749938060186-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/joao_lreis_trofeu_santafe-1024x659.jpg",
         "date": "15/06/2025",
         "description": "Santa Fé (Argentina)– Se no começo do ano o carioca João Fonseca bateu quatro argentinos para conquistar em Buenos Aires seu primeiro ATP, nesta semana foi a vez do pernambucano João Lucas Reis fazer parecido em seu primeiro título de challenger. Ele venceu três tenistas da casa na campanha vitoriosa em Santa Fé, derrotando argentinos na semi e na final."
     },
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/fonseca-halle-convite-2025-.jpg",
         "date": "15/06/2025",
         "description": "Halle (Alemanha)– A final de Roland Garros ainda está repercutindo no circuito e o último a comentar sobre ela foi o jovem carioca João Fonseca, que antes de sua estreia no ATP 500 de Halle – agora definida para a terça-feira pelos organizadores – foi questionado sobre a partida. Ele não poupou elogios a Carlos Alcaraz e Jannik Sinner e disse que gostaria de enfrentá-los no futuro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/passei-algumas-noites-sem-dormir-revela-sinner-apos-derrota-em-paris.html",
-        "title": "“Passei algumas noites sem dormir”, revela Sinner após derrota em Paris",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/sinner-halle-2025-media-day-e1749990906396-1024x682.jpg",
-        "date": "15/06/2025",
-        "description": "Halle (Alemanha)– Em seu primeiro compromisso desde o vice-campeonato em Roland Garros, onde abriu 2 sets a 0 e levou a virada do espanhol Carlos Alcaraz, deixando escapar três match-points, o italiano Jannik Sinner tenta deixar para trás a dura derrota sofrida. Ele será o principal favorito na disputa do ATP 500 de Halle, onde pegou uma raquete pela primeira vez desde Paris."
     }
 ]
