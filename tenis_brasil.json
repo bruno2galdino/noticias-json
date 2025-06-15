@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-15-06.html",
+        "title": "O dia dos brasileiros: veja os resultados deste domingo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/reis_prepara_rio_treino.jpg",
+        "date": "15/06/2025",
+        "description": "WTA 125 de Grado (Itália) – Saibro – 100 mil eurosDuplas – Final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/mateus-alves-avanca-no-quali-em-poznan-e-joga-duplas-com-zormann.html",
+        "title": "Mateus Alves avança no quali em Poznan e joga duplas com Zormann",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/08/mateus_alves_marburg_slice-1024x685.jpg",
+        "date": "15/06/2025",
+        "description": "Poznan (Polônia)– O paulista Mateus Alves está perto de conseguir uma vaga na chave principal do challenger de Poznan, onde está garantido na chave de duplas ao lado do também paulista Marcelo Zormann. Neste domingo, ele avançou no quali e precisa de mais um triunfo para entrar na disputa."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/grama-apresenta-um-novo-tenis.html",
         "title": "Grama apresenta um novo tênis",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/blog_tatjana.jpg",
         "date": "15/06/2025",
         "description": "E, de repente, o tênis mudou. Agora, nomes como Gabriel Diallo, Tatjana Maria, Justin Engel e Elena Ruse ocupam o noticiário, ao mesmo tempo que vemos antigos campeões voltarem a erguer troféus e fazer sucesso, como Taylor Fritz e Elise Mertens. A “culpa” é totalmente das quadras de grama. Quase um universo paralelo ao circuito tradicional, o piso natural do tênis provoca essas muito bem-vindas novidades."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/romboli-e-cabeca-3-na-grama-de-nottingham-orlandinho-tambem-joga.html",
+        "title": "Romboli é cabeça 3 na grama de Nottingham, Orlandinho também joga",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/romboli_delray_fore_juarez-1024x500.jpg",
+        "date": "15/06/2025",
+        "description": "Nottingham (Inglaterra)– Depois de cair na esreia em ‘s-Hertogenbosch, no primeiro torneio de grama da temporada, Fernando Romboli seguirá para a disputa do challenger de Nottingham ao lado do australiano John-Patrick Smith, com quem forma a dupla cabeça de chave 3 no torneio. Na estreia eles terão pela frente os norte-americanos James Tracy e Robert Cash."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/diallo-vence-o-amigo-bergs-e-vence-seu-primeiro-titulo-na-atp.html",
@@ -19,13 +40,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/joao_lreis_trofeu_santafe-1024x659.jpg",
         "date": "15/06/2025",
         "description": "Santa Fé (Argentina)– Se no começo do ano o carioca João Fonseca bateu quatro argentinos para conquistar em Buenos Aires seu primeiro ATP, nesta semana foi a vez do pernambucano João Lucas Reis fazer parecido em seu primeiro título de challenger. Ele venceu três tenistas da casa na campanha vitoriosa em Santa Fé, derrotando argentinos na semi e na final."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo.html",
-        "title": "O dia dos brasileiros: veja os resultados deste domingo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/reis_prepara_rio_treino.jpg",
-        "date": "15/06/2025",
-        "description": "WTA 125 de Grado (Itália) – Saibro – 100 mil eurosDuplas – Final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/ingrid-confirma-favoritismo-na-italia-e-conquista-mais-um-wta-125.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/victoria_trofeu_bramberg-e1749998816930.jpg",
         "date": "15/06/2025",
         "description": "Bamberg (Alemanha) –A potiguar Victória Barros obteve a terceira virada consecutiva e conquistou neste domingo seu maior título como juvenil. Ainda aos 15 anos, ela superou mais uma tenista da casa, Eva Bennemann, com as parciais de 1/6, 6/4 e 6/3. A adversária é dois anos mais velha e ocupa o 36º posto do ranking juvenil."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fritz-controla-zverev-na-final-e-conquista-titulo-sem-perder-o-saque.html",
-        "title": "Fritz controla Zverev na final e conquista título sem perder o saque",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/fritz-stuttgart-vibra-2025-1024x683.jpg",
-        "date": "15/06/2025",
-        "description": "Stuttgart (Alemanha)– Frustração para a torcida da casa no ATP 250 de Stuttgart que viu o alemão Alexander Zverev mais uma vez ser derrotado pelo norte-americano Taylor Fritz e ficar com o vice. Em duelo dos dois principais cabeças de chave do torneio, o segundo favorito controlou a partida e venceu em sets diretos, marcando parciais de 6/3 e 7/6 (7-0)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-enaltece-sinner-e-alcaraz-estreia-em-halle-sera-terca.html",
-        "title": "Fonseca enaltece Sinner e Alcaraz. Estreia em Halle será terça.",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/fonseca-halle-convite-2025-.jpg",
-        "date": "15/06/2025",
-        "description": "Halle (Alemanha)– A final de Roland Garros ainda está repercutindo no circuito e o último a comentar sobre ela foi o jovem carioca João Fonseca, que antes de sua estreia no ATP 500 de Halle – agora definida para a terça-feira pelos organizadores – foi questionado sobre a partida. Ele não poupou elogios a Carlos Alcaraz e Jannik Sinner e disse que gostaria de enfrentá-los no futuro."
     }
 ]
