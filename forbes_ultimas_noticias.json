@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mkt/2025/06/carla-mita-da-visa-mesmo-com-a-tecnologia-o-marketing-segue-sendo-sobre-pessoas/",
+        "title": "Carla Mita, da Visa: \"Mesmo com a Tecnologia, o Marketing Segue Sendo sobre Pessoas\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/CarlaMita-300x200.png",
+        "date": "16/06/2025",
+        "description": "CMO de uma das principais marcas de tecnologia do mundo e eleita Melhor CMO da Forbes Brasil 2025 destaca os aprendizados de carreira e os desafios do marketing moderno"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/meta-e-oakley-se-unem-para-lancar-oculos-inteligentes-voltados-para-atletas/",
+        "title": "Meta e Oakley se Unem para Lançar Óculos Inteligentes Voltados para Atletas",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Zuckerberg-Orion-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "O evento de lançamento, marcado para 20 de junho, gerou grande expectativa entre os fãs de tecnologia e esportes"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/mercado-mantem-projecao-de-selic-a-1475-ate-o-fim-do-ano/",
+        "title": "Mercado Mantém Projeção de Selic a 14,75% até o Fim do Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Investimentos-Selic-Getty-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Proporção de apostas de especialistas consultados pelo Banco Central é de 70% contra 30%"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/atividade-economica-do-brasil-cresce-mais-do-que-o-esperado-em-abril/",
         "title": "Atividade Econômica do Brasil Cresce Mais do Que o Esperado em Abril",
         "image": "https://forbes.com.br/wp-content/uploads/2024/01/Money_Brasil-Economia-PIB-300x200.jpg",
@@ -35,38 +56,17 @@
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 16 de junho"
     },
     {
+        "url": "https://forbes.com.br/forbesesg/2025/06/infomercial-nuv-tech-ia-sob-medida-para-revolucionar-empresas/",
+        "title": "IA sob Medida para Revolucionar Empresas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/1-10-300x200.png",
+        "date": "16/06/2025",
+        "description": "NUV Tech oferece inteligências artificiais verticais desenvolvidas sob medida para empresas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/marco-civil-entenda-as-mudancas-para-empresas-e-creator-economy/",
         "title": "Marco Civil: Entenda as Mudanças para Empresas e a Creator Economy",
         "image": "https://forbes.com.br/wp-content/uploads/2023/05/tech-redes-sociais-10Mai23-GettyImages-300x200.jpg",
         "date": "16/06/2025",
         "description": "De acordo com especialistas consultados pela Forbes Brasil, as Big Techs serão as principais atingidas pelas alterações"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/o-que-significa-ser-rico-na-australia/",
-        "title": "O Que Significa Ser Rico na Austrália",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_A-cidade-de-cobre-de-Cobar-no-interior-da-Australia-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Entenda o que representa a riqueza na Austrália, levando em conta salários médios e custo de vida no país"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/06/fernanda-abilel-ia-e-remuneracao-estrategica-mudam-os-rumos-da-gestao-de-talentos/",
-        "title": "IA e Remuneração Estratégica Mudam os Rumos da Gestão de Talentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-ia-remuneracao-carreira-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Inteligência artificial redefine salários, benefícios e desenvolvimento de carreira em um cenário de trabalho cada vez mais dinâmico"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/06/poucas-mulheres-chegam-a-ceo-mas-as-que-conseguem-superam-homens-em-qualificacao/",
-        "title": "Poucas Mulheres Chegam a CEO, Mas Superam Homens em Qualificação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-mulheres-ceos-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Estudo revela que, apesar dos avanços tímidos, executivas precisam provar mais para alcançar o topo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/do-mercado-livre-a-aposta-no-nubank-como-kaszek-se-tornou-o-maior-fundo-de-venture-capital-da-america-latina/",
-        "title": "Como Kaszek se Tornou o Maior Fundo de Venture Capital da América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-6-300x200.png",
-        "date": "16/06/2025",
-        "description": "Fundadores do Mercado Livre, resolveram apostar no potencial da região e abraçaram o roxinho, quando ainda era um projeto"
     }
 ]
