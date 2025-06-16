@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/esmagamento-de-soja-nos-eua-em-maio-fica-abaixo-das-estimativas/",
+        "title": "Esmagamento de Soja nos EUA em Maio Fica Abaixo das Estimativas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Colheita-de-soja-no-Rio-Grande-do-Sul-1-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "O ritmo médio diário de esmagamento de soja caiu para 6,220 milhões de bushels em maio"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/como-lewis-hamilton-e-apple-levaram-a-formula-1-para-tela-do-cinema/",
+        "title": "Como Lewis Hamilton e Apple Levaram a Fórmula 1 para Tela do Cinema",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Tim-Cook-e-Lewis-Hamilton-no-Apple-Park-em-Cupertino-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Partes do filme foram filmadas durante eventos reais de F1 em Abu Dhabi, Cidade do México e outras paradas do Grande Prêmio"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/sir-david-beckham-quando-proposito-encontra-prestigio/",
+        "title": "Sir David Beckham: Quando Propósito Encontra Prestígio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_David-Beckham-esteve-na-cerimonia-de-premiacao-da-Kings-Foundation-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Na era das reputações fabricadas, é interessante observar quando uma distinção carrega coerência - Sir David Beckham é um desses casos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/servico-de-celular-trump-mobile-e-anunciado/",
         "title": "Serviço de Celular \"Trump Mobile\" É Anunciado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-14-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-16T141527Z_1_LYNXMPEL5F0OU_RTROPTP_4_MACRO-IPP-JANEIRO-300x200.jpg",
         "date": "16/06/2025",
         "description": "Analistas consultados pela S&P estimavam 2,839 mi t de açúcar e 45,91 mi t de cana na 2ª quinzena de maio"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/forbes-mulher-agro-rotulagem-sustentavel-pode-ajudar-a-reduzir-o-desperdicio-de-alimentos/",
-        "title": "Rotulagem Sustentável Pode Ajudar a Reduzir o Desperdício de Alimentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Rotulagem_16JUN2025_Getty-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Esse processo pode evitar o descarte de alimentos ainda seguros para consumo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/trump-recua-e-tira-agricultura-e-pecuaria-da-mira-de-sua-politica-de-deportacoes-em-massa/",
-        "title": "Trump Recua e Tira Agricultura e Pecuária da Mira de Sua Política de Deportações em Massa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Donald_Trump_16jun_2025_Getty-1-300x200.webp",
-        "date": "16/06/2025",
-        "description": "Setor foi para cima do presidente alegando que batidas em fazendas são “simplesmente erradas” e que sua continuidade levaria  à interrupções na cadeia de abastecimento de alimentos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/rio-grande-do-sul-vai-plantar-menos-trigo-em-2025-em-10-diz-emater/",
-        "title": "Rio Grande do Sul Vai Plantar Menos Trigo em 2025 em 10%,  Diz Emater",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-16T130128Z_1_LYNXMPEL5F0LO_RTROPTP_4_COMMODS-TRIGO-RS-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Produtividade média deve subir para 3.000 kg/ha em 2025, ante 2.781 kg/ha em 2024"
     }
 ]
