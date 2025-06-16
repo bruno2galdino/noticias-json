@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/servico-de-celular-trump-mobile-e-anunciado/",
+        "title": "Serviço de Celular \"Trump Mobile\" É Anunciado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-14-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "O produto é mais uma iniciativa para lucrar com a presidência"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/colheita-de-milho-do-centro-sul-do-brasil-esta-atrasada/",
+        "title": "Colheita de Milho do Centro-sul do Brasil Está Atrasada",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_ColheitadeMilho_16JUN2025_Getty-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Produtores do sul de Mato Grosso do Sul e em áreas de Mato Grosso também não conseguiram avançar por conta da umidade dos grãos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/china-aprova-fusao-bunge-viterra-um-mega-negocio-de-us-34-bilhoes/",
+        "title": "China Aprova Fusão Bunge-viterra, um Mega-negócio de US$ 34 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Agro_Trigo_6MAR25_Reuters-300x200.png",
+        "date": "16/06/2025",
+        "description": "O acordo criará uma gigante global de comércio e processamento de safras"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/b3-amplia-leque-do-mercado-cripto-na-bolsa-e-contratos-futuros-de-ether-e-solana-passam-a-ser-negociados/",
         "title": "B3 Amplia Leque do Mercado Cripto na Bolsa e Contratos Futuros de Ether e Solana Passam a Ser Negociados",
         "image": "https://forbes.com.br/wp-content/uploads/2022/12/Money_Tether_Unsplash-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-16T130128Z_1_LYNXMPEL5F0LO_RTROPTP_4_COMMODS-TRIGO-RS-300x200.jpg",
         "date": "16/06/2025",
         "description": "Produtividade média deve subir para 3.000 kg/ha em 2025, ante 2.781 kg/ha em 2024"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/06/carla-mita-da-visa-mesmo-com-a-tecnologia-o-marketing-segue-sendo-sobre-pessoas/",
-        "title": "Carla Mita, da Visa: \"Mesmo com a Tecnologia, o Marketing Segue Sendo sobre Pessoas\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/CarlaMita-300x200.png",
-        "date": "16/06/2025",
-        "description": "CMO de uma das principais marcas de tecnologia do mundo e eleita Melhor CMO da Forbes Brasil 2025 destaca os aprendizados de carreira e os desafios do marketing moderno"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/meta-e-oakley-se-unem-para-lancar-oculos-inteligentes-voltados-para-atletas/",
-        "title": "Meta e Oakley se Unem para Lançar Óculos Inteligentes Voltados para Atletas",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Zuckerberg-Orion-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "O evento de lançamento, marcado para 20 de junho, gerou grande expectativa entre os fãs de tecnologia e esportes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/mercado-mantem-projecao-de-selic-a-1475-ate-o-fim-do-ano/",
-        "title": "Mercado Mantém Projeção de Selic a 14,75% até o Fim do Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Investimentos-Selic-Getty-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Proporção de apostas de especialistas consultados pelo Banco Central é de 70% contra 30%"
     }
 ]
