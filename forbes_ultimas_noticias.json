@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/b3-amplia-leque-do-mercado-cripto-na-bolsa-e-contratos-futuros-de-ether-e-solana-passam-a-ser-negociados/",
+        "title": "B3 Amplia Leque do Mercado Cripto na Bolsa e Contratos Futuros de Ether e Solana Passam a Ser Negociados",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/12/Money_Tether_Unsplash-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Opção de investimento já conta com o bitcoin desde abril do ano passado"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/exportacoes-maritimas-de-graos-da-russia-caem-629-em-maio/",
+        "title": "Exportações Marítimas de Grãos da Rússia Caem 62,9% em Maio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-16T135447Z_1_LYNXMPEL5F0NX_RTROPTP_4_WHEAT-SUBURBS-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Embarques por via naval responderam por 90% das vendas externas da Rússia na última temporada, somando cerca de 62 mi t"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/com-a-chegada-de-anuncios-whatsapp-promete-respeitar-privacidade/",
+        "title": "Com a Chegada de Anúncios, WhatsApp Promete Respeitar Privacidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/VP-de-produto-do-WhatsApp-300x200.png",
+        "date": "16/06/2025",
+        "description": "Alice Newton-Rex, VP de Produtos do WhatsApp, afirma que a plataforma utilizará dados limitados para direcionar a publicidade"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/moagem-de-cana-e-producao-de-acucar-do-centro-sul-superam-vai-alem-do-esperado/",
+        "title": "Moagem de Cana e Produção de Açúcar do Centro-Sul Superam Vai Além do Esperado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-16T141527Z_1_LYNXMPEL5F0OU_RTROPTP_4_MACRO-IPP-JANEIRO-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Analistas consultados pela S&P estimavam 2,839 mi t de açúcar e 45,91 mi t de cana na 2ª quinzena de maio"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/forbes-mulher-agro-rotulagem-sustentavel-pode-ajudar-a-reduzir-o-desperdicio-de-alimentos/",
         "title": "Rotulagem Sustentável Pode Ajudar a Reduzir o Desperdício de Alimentos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Rotulagem_16JUN2025_Getty-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/01/Investimentos-Selic-Getty-300x200.jpg",
         "date": "16/06/2025",
         "description": "Proporção de apostas de especialistas consultados pelo Banco Central é de 70% contra 30%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/atividade-economica-do-brasil-cresce-mais-do-que-o-esperado-em-abril/",
-        "title": "Atividade Econômica do Brasil Cresce Mais do Que o Esperado em Abril",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Money_Brasil-Economia-PIB-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Impulsão veio do setor de serviços que avançou 0,4% no período. Apesar disso, números indicam desaceleração"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/conheca-os-10-maiores-influenciadores-do-mundo/",
-        "title": "Conheça os 10 Maiores Influenciadores do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/influenciadores__1_-300x200.png",
-        "date": "16/06/2025",
-        "description": "Em 2025, os homenageados da lista Top Creators, da Forbes USA, somam 3,4 bilhões de seguidores – um aumento de 24% em relação ao total do ano anterior"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/proposta-da-nvidia-para-ia-soberana-repercute-entre-lideres-da-uniao-europeia/",
-        "title": "Proposta da Nvidia para IA Soberana Repercute entre Líderes da União Europeia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-capa-CEO-da-Nvidia-Jensen-Huang-1-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "O conceito baseia-se na ideia de que o idioma, o conhecimento, a história e a cultura de cada região são diferentes, e cada nação precisa desenvolver e possuir sua própria inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/vale-investira-us-290-mi-em-projeto-de-cobre-no-para-apos-obter-licenca-previa/",
-        "title": "Vale Investirá US$ 290 Mi em Projeto de Cobre no Pará",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Money_Vale_16Jan2025_Divulgacao-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Em um comunicado ao mercado, a mineradora disse que a iniciativa busca estender a vida útil do Complexo Minerador de Sossego"
     }
 ]
