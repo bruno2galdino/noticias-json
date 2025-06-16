@@ -1,7 +1,28 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/06/filha-de-lu-tranchesi-e-batizada-em-sao-paulo-com-cerimonia-e-recepcao-intimistas/",
+        "title": "Filha de Lu Tranchesi É Batizada em São Paulo com Cerimônia e Recepção Intimistas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Fernando-Strabelli-Rafael-Luzzi-Lu-Tranchesi-Serena-e-Ma-Tranchesi-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Evento religioso e celebração ocorreram no sábado, 14 de junho, reunindo familiares e amigas próximas da influenciadora"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/cotacao-do-dolar-acompanha-o-exterior-e-chega-ao-menor-valor-desde-outubro/",
+        "title": "Cotação do Dólar Acompanha o Exterior e Chega ao Menor Valor desde Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "16/06/2025",
+        "description": "Moeda encerrou o dia a R$ 5,48, tendo no radar dados da economia chinesa e queda do petróleo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/brandvoice-intel-mais-do-que-trocar-maquinas-como-preparar-a-infraestrutura-de-ti-para-a-era-da-ia/",
+        "title": "Mais do Que Trocar Máquinas: Como Preparar a Infraestrutura de TI para a era da IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/intel-abre-bv-300x200.png",
+        "date": "16/06/2025",
+        "description": "Fim do suporte ao Windows 10 e PCs defasados abrem caminho para renovação necessária; Intel vPro surge como aliada para modernização com segurança e desempenho"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/quem-e-ricardo-faria-o-rei-do-ovo-o-bilionario-que-transformou-a-producao-no-brasil/",
-        "title": "Quem É Ricardo Faria, o Rei do Ovo: o Bilionário Que Transformou a Produção no Brasil",
+        "title": "Quem É o Bilionário Ricardo Faria, o Rei do Ovo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Ricardo_Faria_12jun25_ForbesBrasil-300x200.jpg",
         "date": "16/06/2025",
         "description": "A Granja Faria nasceu em 2006, na cidade de Lauro Müller (SC), e rapidamente se transformou em líder nacional no seu setor"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_ColheitadeMilho_16JUN2025_Getty-300x200.jpg",
         "date": "16/06/2025",
         "description": "Produtores do sul de Mato Grosso do Sul e em áreas de Mato Grosso também não conseguiram avançar por conta da umidade dos grãos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/china-aprova-fusao-bunge-viterra-um-mega-negocio-de-us-34-bilhoes/",
-        "title": "China Aprova Fusão Bunge-viterra, um Mega-negócio de US$ 34 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Agro_Trigo_6MAR25_Reuters-300x200.png",
-        "date": "16/06/2025",
-        "description": "O acordo criará uma gigante global de comércio e processamento de safras"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/b3-amplia-leque-do-mercado-cripto-na-bolsa-e-contratos-futuros-de-ether-e-solana-passam-a-ser-negociados/",
-        "title": "B3 Amplia Leque do Mercado Cripto na Bolsa e Contratos Futuros de Ether e Solana Passam a Ser Negociados",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/12/Money_Tether_Unsplash-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Opção de investimento já conta com o bitcoin desde abril do ano passado"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/exportacoes-maritimas-de-graos-da-russia-caem-629-em-maio/",
-        "title": "Exportações Marítimas de Grãos da Rússia Caem 62,9% em Maio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-16T135447Z_1_LYNXMPEL5F0NX_RTROPTP_4_WHEAT-SUBURBS-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Embarques por via naval responderam por 90% das vendas externas da Rússia na última temporada, somando cerca de 62 mi t"
     }
 ]
