@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/forbes-mulher-agro-rotulagem-sustentavel-pode-ajudar-a-reduzir-o-desperdicio-de-alimentos/",
+        "title": "Rotulagem Sustentável Pode Ajudar a Reduzir o Desperdício de Alimentos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Rotulagem_16JUN2025_Getty-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Esse processo pode evitar o descarte de alimentos ainda seguros para consumo"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/trump-recua-e-tira-agricultura-e-pecuaria-da-mira-de-sua-politica-de-deportacoes-em-massa/",
+        "title": "Trump Recua e Tira Agricultura e Pecuária da Mira de Sua Política de Deportações em Massa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Donald_Trump_16jun_2025_Getty-1-300x200.webp",
+        "date": "16/06/2025",
+        "description": "Setor foi para cima do presidente alegando que batidas em fazendas são “simplesmente erradas” e que sua continuidade levaria  à interrupções na cadeia de abastecimento de alimentos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/rio-grande-do-sul-vai-plantar-menos-trigo-em-2025-em-10-diz-emater/",
+        "title": "Rio Grande do Sul Vai Plantar Menos Trigo em 2025 em 10%,  Diz Emater",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-16T130128Z_1_LYNXMPEL5F0LO_RTROPTP_4_COMMODS-TRIGO-RS-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Produtividade média deve subir para 3.000 kg/ha em 2025, ante 2.781 kg/ha em 2024"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mkt/2025/06/carla-mita-da-visa-mesmo-com-a-tecnologia-o-marketing-segue-sendo-sobre-pessoas/",
         "title": "Carla Mita, da Visa: \"Mesmo com a Tecnologia, o Marketing Segue Sendo sobre Pessoas\"",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/CarlaMita-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/Money_Vale_16Jan2025_Divulgacao-300x200.jpg",
         "date": "16/06/2025",
         "description": "Em um comunicado ao mercado, a mineradora disse que a iniciativa busca estender a vida útil do Complexo Minerador de Sossego"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-voce-lembrou-que-havera-copom-e-fed-nesta-semana/",
-        "title": "Pré-mercado: Você Lembrou Que Haverá Copom e FED Nesta Semana?",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "16/06/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 16 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/06/infomercial-nuv-tech-ia-sob-medida-para-revolucionar-empresas/",
-        "title": "IA sob Medida para Revolucionar Empresas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/1-10-300x200.png",
-        "date": "16/06/2025",
-        "description": "NUV Tech oferece inteligências artificiais verticais desenvolvidas sob medida para empresas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/marco-civil-entenda-as-mudancas-para-empresas-e-creator-economy/",
-        "title": "Marco Civil: Entenda as Mudanças para Empresas e a Creator Economy",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/05/tech-redes-sociais-10Mai23-GettyImages-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "De acordo com especialistas consultados pela Forbes Brasil, as Big Techs serão as principais atingidas pelas alterações"
     }
 ]
