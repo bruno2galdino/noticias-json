@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/atividade-economica-do-brasil-cresce-mais-do-que-o-esperado-em-abril/",
+        "title": "Atividade Econômica do Brasil Cresce Mais do Que o Esperado em Abril",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Money_Brasil-Economia-PIB-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Impulsão veio do setor de serviços que avançou 0,4% no período. Apesar disso, números indicam desaceleração"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/conheca-os-10-maiores-influenciadores-do-mundo/",
+        "title": "Conheça os 10 Maiores Influenciadores do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/influenciadores__1_-300x200.png",
+        "date": "16/06/2025",
+        "description": "Em 2025, os homenageados da lista Top Creators, da Forbes USA, somam 3,4 bilhões de seguidores – um aumento de 24% em relação ao total do ano anterior"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/proposta-da-nvidia-para-ia-soberana-repercute-entre-lideres-da-uniao-europeia/",
+        "title": "Proposta da Nvidia para IA Soberana Repercute entre Líderes da União Europeia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-capa-CEO-da-Nvidia-Jensen-Huang-1-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "O conceito baseia-se na ideia de que o idioma, o conhecimento, a história e a cultura de cada região são diferentes, e cada nação precisa desenvolver e possuir sua própria inteligência artificial"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/vale-investira-us-290-mi-em-projeto-de-cobre-no-para-apos-obter-licenca-previa/",
+        "title": "Vale Investirá US$ 290 Mi em Projeto de Cobre no Pará",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Money_Vale_16Jan2025_Divulgacao-300x200.jpg",
+        "date": "16/06/2025",
+        "description": "Em um comunicado ao mercado, a mineradora disse que a iniciativa busca estender a vida útil do Complexo Minerador de Sossego"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-voce-lembrou-que-havera-copom-e-fed-nesta-semana/",
         "title": "Pré-mercado: Você Lembrou Que Haverá Copom e FED Nesta Semana?",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-6-300x200.png",
         "date": "16/06/2025",
         "description": "Fundadores do Mercado Livre, resolveram apostar no potencial da região e abraçaram o roxinho, quando ainda era um projeto"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/como-as-tarifas-podem-impactar-o-agronegocio-dos-eua-e-suas-implicacoes-aos-investidores/",
-        "title": "Como as Tarifas Podem Impactar o Agronegócio dos EUA e Suas Implicações Aos Investidores",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Donald_Trump_12jun25_Stephen-LovekinGetty-300x200.png",
-        "date": "16/06/2025",
-        "description": "Entenda como as incertezas no governo Trump trazem riscos ligados ao comércio, aos custos de insumos e à volatilidade de mercado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/por-que-os-cassinos-de-las-vegas-nao-apostam-em-cannabis/",
-        "title": "Por Que os Cassinos de Las Vegas Não Apostam em Cannabis",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/cassinos_las_vegas_12jun25_Getty-300x200.jpg",
-        "date": "15/06/2025",
-        "description": "Cidade que recebe 42 milhões de turistas por ano em busca de vícios legais acha que lounges de consumo são negócio de risco; entenda"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/ia-oferecera-atalho-na-busca-por-planetas-semelhantes-a-terra/",
-        "title": "IA Oferecerá Atalho na Busca por Planetas Semelhantes À Terra",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/exoplanetas-300x200.png",
-        "date": "15/06/2025",
-        "description": "A meta dos cientistas é utilizar a tecnologia para evitar buscas às cegas, minimizar o tempo de detecção e, assim, maximizar o número de descobertas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/06/brasil-e-selecionado-para-elaborar-plano-de-investimento-de-us-250-mi-sobre-clima/",
-        "title": "Brasil É Selecionado para Elaborar Plano de Investimento de US$ 250 Mi sobre Clima",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/poluicao-300x200.jpg",
-        "date": "15/06/2025",
-        "description": "Programa de Descarbonização da Indústria recebeu a melhor pontuação entre as 26 propostas"
     }
 ]
