@@ -1,10 +1,17 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-voce-lembrou-que-havera-copom-e-fed-nesta-semana/",
+        "title": "Pré-mercado: Você Lembrou Que Haverá Copom e FED Nesta Semana?",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "16/06/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 16 de junho"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/marco-civil-entenda-as-mudancas-para-empresas-e-creator-economy/",
-        "title": "Marco Civil: Entenda as Mudanças para Empresas e Creator Economy",
+        "title": "Marco Civil: Entenda as Mudanças para Empresas e a Creator Economy",
         "image": "https://forbes.com.br/wp-content/uploads/2023/05/tech-redes-sociais-10Mai23-GettyImages-300x200.jpg",
         "date": "16/06/2025",
-        "description": "De acordo com especialistas consultados pela Forbes, as Big Techs serão as principais atingidas pelas alterações"
+        "description": "De acordo com especialistas consultados pela Forbes Brasil, as Big Techs serão as principais atingidas pelas alterações"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/06/o-que-significa-ser-rico-na-australia/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/poluicao-300x200.jpg",
         "date": "15/06/2025",
         "description": "Programa de Descarbonização da Indústria recebeu a melhor pontuação entre as 26 propostas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/trump-aprova-compra-da-u-s-steel-pela-nippon-steel-por-us-149-bilhoes/",
-        "title": "Trump Aprova Compra da U.S. Steel Pela Nippon Steel por US$ 14,9 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/donald-trump1-300x200.jpg",
-        "date": "15/06/2025",
-        "description": "Presidente assinou decreto permitindo que a fusão prossiga"
     }
 ]
