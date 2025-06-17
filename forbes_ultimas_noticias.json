@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/literatura-online-da-china-amplia-numero-de-leitores-em-esforco-de-exportacao-cultural/",
+        "title": "Literatura Online da China Amplia Número de Leitores em Esforço de Exportação Cultural",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-17T132638Z_1_LYNXMPEL5G0P4_RTROPTP_4_CHINA-INTERNET-PUBLISHING-300x200.jpg",
+        "date": "17/06/2025",
+        "description": "Usuários internacionais somam 352 milhões, impulsionando crescimento de 16,5% e movimentando US$ 706 milhões no mercado digital"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/petrobras-exxon-chevron-e-cnpc-arrematam-19-blocos-na-foz-do-amazonas/",
+        "title": "Petrobras, Exxon, Chevron e CNPC Arrematam 19 Blocos na Foz do Amazonas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-17T145028Z_1_LYNXMPEL5G0TT_RTROPTP_4_BRAZIL-OIL-AMAZON-300x200.jpg",
+        "date": "17/06/2025",
+        "description": "Empresas disputam blocos na Margem Equatorial, enquanto a petroleira brasileira aguarda aprovação do Ibama"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/ferrari-adia-segundo-modelo-eletrico-devido-a-fraca-demanda/",
+        "title": "Ferrari Adia Segundo Modelo Elétrico Devido À Fraca Demanda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-17T145610Z_1_LYNXMPEL5G0U0_RTROPTP_4_AUTOS-FERRARI-EV-300x200.jpg",
+        "date": "17/06/2025",
+        "description": "Conhecida por seus motores a gasolina, a marca italiana avança na transição energética e se prepara para lançar seu primeiro modelo de emissão zero"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/decisao-da-cvm-adia-assembleia-sobre-fusao-entre-marfrig-e-brf/",
         "title": "Decisão da CVM Adia Assembleia sobre Fusão entre Marfrig e BRF",
         "image": "https://forbes.com.br/wp-content/uploads/2022/01/Agro_Marfrig_Getty.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-cida-bento-300x200.jpg",
         "date": "17/06/2025",
         "description": "Com uma carreira que une psicologia, negócios e ativismo, ela se tornou referência na construção de lideranças mais diversas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/brasil-sobe-no-ranking-de-competitividade-digital-mas-permanece-no-fim-da-fila/",
-        "title": "Brasil Sobe no Ranking de Competitividade Digital, Mas Permanece no Fim da Fila",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Brasil-Digital-300x200.png",
-        "date": "17/06/2025",
-        "description": "País ganhou força econômica no último ano; no entanto, custo de capital e dívida corporativa, ambiente regulatório, educação e mão de obra qualificada deixaram a desejar"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/os-16-restaurantes-mais-lindos-do-mundo-em-2025/",
-        "title": "Os 16 Restaurantes Mais Lindos do Mundo em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Conheca-os-restaurantes-mais-bonitos-do-mundo-de-acordo-com-o-Prix-Versailles-300x200.jpg",
-        "date": "17/06/2025",
-        "description": "De Paris à China, a seleção do Prix Versailles reconhece as melhores inaugurações recentes da gastronomia em termos de arquitetura e experiência"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/como-lucrar-com-cafe-sem-abrir-uma-cafeteria/",
-        "title": "Como Lucrar com Café sem Abrir uma Cafeteria",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_cafe_12jun25_Gettyimagem-300x200.jpg",
-        "date": "17/06/2025",
-        "description": "Entenda por que marcas próprias de torrefação, vendas de equipamentos, educação, consultoria e franquias surgem como modelos de negócios viáveis"
     }
 ]
