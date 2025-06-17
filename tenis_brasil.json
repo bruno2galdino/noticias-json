@@ -2,9 +2,23 @@
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-17-06.html",
         "title": "O dia dos brasileiros: veja os resultados desta terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/fonseca-derecha-rg-2025-r2-e1748633559797-1024x682.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/saraiva_piracicaba_fore.jpg",
         "date": "17/06/2025",
         "description": "ATP 500 de Halle (Alemanha) – Grama – € 2.522.220Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-perde-match-point-leva-virada-e-nao-passa-da-estreia-em-halle.html",
+        "title": "Fonseca perde match-point, leva virada e não passa da estreia em Halle",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/Joao_Fonseca_Slider_0cfeb33554-e1750168885195-1024x682.jpg",
+        "date": "17/06/2025",
+        "description": "Halle (Alemanha)– Convidado da organização pelo segundo ano consecutivo no ATP 500 de Halle, o carioca João Fonseca mais uma vez não conseguiu passar da estreia. Nesta terça-feira, ele até largou na frente do italiano Flavio Cobolli, mas permitiu a reação do rival e levou uma dura virada na estreia, caindo com parciais de 5/7, 7/6 (7-3) e 7/6 (10-8)."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/us-open-anuncia-mistas-com-sinner-alcaraz-djokovic-e-sabalenka.html",
+        "title": "US Open anuncia mistas com Sinner, Alcaraz, Djokovic e Sabalenka",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/usopen_mistas-1024x471.jpg",
+        "date": "17/06/2025",
+        "description": "Nova York (EUA)– A mudança drástica feita pela USTA na organização do torneio de duplas mistas do próximo US Open parece ter animado os principais tenistas do circuito. A entidade anunciou nesta terça-feira as 16 parcerias já confirmadas e a lista ficou nobre. A premiação distribuída será de US$ 1 milhão."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/korda-e-nishikori-desistem-de-wimbledon-cilic-entra.html",
@@ -47,19 +61,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/tauson_slice_nottingham-1024x549.jpg",
         "date": "16/06/2025",
         "description": "Nottingham (Inglaterrra) –Pela primeira vez em sua carreira profissional, a dinamarquesa Clara Tauson venceu um jogo na grama pela elite do circuito. Segunda cabeça de chave do WTA 250 de Nottingham, a jogadora de 22 anos e 23ª do ranking venceu a australiana Kimberly Birrell por 7/5 e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/voce-tambem-pode-experimentar-o-tenis-na-grama.html",
-        "title": "Você também pode experimentar o tênis na grama",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/pod_grama.jpg",
-        "date": "16/06/2025",
-        "description": "É muito provável que qualquer tenista amador fique com água na boca ao assistir aos pisos verdinhos que recebem nas próximas semanas a curta e tão especial temporada do tênis sobre a grama."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-16-06.html",
-        "title": "O dia dos brasileiros: veja os resultados desta segunda",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/rodrigues_poa_corre-1024x717.jpg",
-        "date": "16/06/2025",
-        "description": "WTA 250 de Nottingham – Grama – US$ 275 milDuplas – Primeira rodada –Veja a chave"
     }
 ]
