@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2025/06/adriana-barbosa-cida-bento-e-a-urgencia-de-transformar-as-estruturas-de-poder/",
+        "title": "Cida Bento e a Urgência de Transformar as Estruturas de Poder",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-cida-bento-300x200.jpg",
+        "date": "17/06/2025",
+        "description": "Com uma carreira que une psicologia, negócios e ativismo, ela se tornou referência na construção de lideranças mais diversas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/brasil-sobe-no-ranking-de-competitividade-digital-mas-permanece-no-fim-da-fila/",
+        "title": "Brasil Sobe no Ranking de Competitividade Digital, Mas Permanece no Fim da Fila",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Brasil-Digital-300x200.png",
+        "date": "17/06/2025",
+        "description": "País ganhou força econômica no último ano; no entanto, custo de capital e dívida corporativa, ambiente regulatório, educação e mão de obra qualificada deixaram a desejar"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/os-16-restaurantes-mais-lindos-do-mundo-em-2025/",
+        "title": "Os 16 Restaurantes Mais Lindos do Mundo em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Conheca-os-restaurantes-mais-bonitos-do-mundo-de-acordo-com-o-Prix-Versailles-300x200.jpg",
+        "date": "17/06/2025",
+        "description": "De Paris à China, a seleção do Prix Versailles reconhece as melhores inaugurações recentes da gastronomia em termos de arquitetura e experiência"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/como-lucrar-com-cafe-sem-abrir-uma-cafeteria/",
+        "title": "Como Lucrar com Café sem Abrir uma Cafeteria",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_cafe_12jun25_Gettyimagem-300x200.jpg",
+        "date": "17/06/2025",
+        "description": "Entenda por que marcas próprias de torrefação, vendas de equipamentos, educação, consultoria e franquias surgem como modelos de negócios viáveis"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/06/5-sinais-de-que-chegou-a-hora-de-pedir-um-aumento-de-salario/",
+        "title": "5 Sinais de Que Chegou a Hora de Pedir um Aumento de Salário",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-salario-aumento-300x200.jpg",
+        "date": "17/06/2025",
+        "description": "Acúmulo de funções, elogios constantes e tempo de casa sem reajuste são alguns dos indícios de que está na hora de negociar sua remuneração"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/alexandr-wang-o-filho-de-imigrantes-chineses-que-comandara-o-projeto-mais-ambicioso-da-meta/",
+        "title": "Alexandr Wang, o Filho de Imigrantes Chineses Que Comandará o Projeto Mais Ambicioso da Meta",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/05/bilionario-1-300x200.jpg",
+        "date": "17/06/2025",
+        "description": "De acordo com a Forbes USA, a fortuna do fundador e CEO da Scale AI, está avaliada em US$ 3,6 bi sendo considerado um dos bilionários mais jovens do mundo"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/06/arthur-guerra-estresse-seu-aliado-secreto-para-o-sucesso-e-bem-estar/",
+        "title": "Estresse: Seu Aliado Secreto para o Sucesso e Bem-Estar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-2211085748-300x200.jpeg",
+        "date": "17/06/2025",
+        "description": "Certas formas de tensão podem ser positivas, mas, em excesso, causam impactos sérios na saúde física e mental"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/06/2-taticas-de-manipulacao-para-ficar-atento-em-um-parceiro/",
+        "title": "2 Táticas de Manipulação para Ficar Atento em um Parceiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/960x0-2-2-300x200.jpg",
+        "date": "17/06/2025",
+        "description": "Jogos emocionais e distorções da realidade são estratégias comuns no abuso psicológico — aprenda a reconhecer os sinais"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/06/filha-de-lu-tranchesi-e-batizada-em-sao-paulo-com-cerimonia-e-recepcao-intimistas/",
         "title": "Filha de Lu Tranchesi É Batizada em São Paulo com Cerimônia e Recepção Intimistas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Fernando-Strabelli-Rafael-Luzzi-Lu-Tranchesi-Serena-e-Ma-Tranchesi-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
         "date": "16/06/2025",
         "description": "Moeda encerrou o dia a R$ 5,48, tendo no radar dados da economia chinesa e queda do petróleo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/brandvoice-intel-mais-do-que-trocar-maquinas-como-preparar-a-infraestrutura-de-ti-para-a-era-da-ia/",
-        "title": "Mais do Que Trocar Máquinas: Como Preparar a Infraestrutura de TI para a era da IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/intel-abre-bv-300x200.png",
-        "date": "16/06/2025",
-        "description": "Fim do suporte ao Windows 10 e PCs defasados abrem caminho para renovação necessária; Intel vPro surge como aliada para modernização com segurança e desempenho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/quem-e-ricardo-faria-o-rei-do-ovo-o-bilionario-que-transformou-a-producao-no-brasil/",
-        "title": "Quem É o Bilionário Ricardo Faria, o Rei do Ovo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Ricardo_Faria_12jun25_ForbesBrasil-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "A Granja Faria nasceu em 2006, na cidade de Lauro Müller (SC), e rapidamente se transformou em líder nacional no seu setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/com-gripe-aviaria-exportacao-de-carne-de-frango-do-brasil-cai-25/",
-        "title": "Com Gripe Aviária, Exportação de Carne de Frango do Brasil Cai 25%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-frango-gripe-aviaria-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Queda aconteceu nas duas primeiras semanas de junho, de acordo com números da Secex"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/esmagamento-de-soja-nos-eua-em-maio-fica-abaixo-das-estimativas/",
-        "title": "Esmagamento de Soja nos EUA em Maio Fica Abaixo das Estimativas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Colheita-de-soja-no-Rio-Grande-do-Sul-1-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "O ritmo médio diário de esmagamento de soja caiu para 6,220 milhões de bushels em maio"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/como-lewis-hamilton-e-apple-levaram-a-formula-1-para-tela-do-cinema/",
-        "title": "Como Lewis Hamilton e Apple Levaram a Fórmula 1 para Tela do Cinema",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Tim-Cook-e-Lewis-Hamilton-no-Apple-Park-em-Cupertino-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Partes do filme foram filmadas durante eventos reais de F1 em Abu Dhabi, Cidade do México e outras paradas do Grande Prêmio"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/sir-david-beckham-quando-proposito-encontra-prestigio/",
-        "title": "Sir David Beckham: Quando Propósito Encontra Prestígio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_David-Beckham-esteve-na-cerimonia-de-premiacao-da-Kings-Foundation-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Na era das reputações fabricadas, é interessante observar quando uma distinção carrega coerência - Sir David Beckham é um desses casos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/servico-de-celular-trump-mobile-e-anunciado/",
-        "title": "Serviço de Celular \"Trump Mobile\" É Anunciado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-14-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "O produto é mais uma iniciativa para lucrar com a presidência"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/colheita-de-milho-do-centro-sul-do-brasil-esta-atrasada/",
-        "title": "Colheita de Milho do Centro-sul do Brasil Está Atrasada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_ColheitadeMilho_16JUN2025_Getty-300x200.jpg",
-        "date": "16/06/2025",
-        "description": "Produtores do sul de Mato Grosso do Sul e em áreas de Mato Grosso também não conseguiram avançar por conta da umidade dos grãos"
     }
 ]
