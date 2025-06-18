@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/brandvoice-totvs-sustentabilidade-como-estrategia-de-crescimento/",
+        "title": "Sustentabilidade Como Estratégia de Crescimento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/TOTVS-300x200.png",
+        "date": "18/06/2025",
+        "description": "Com soluções digitais e parcerias estratégicas, TOTVS aposta em inovação para impulsionar a agenda ESG no Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/entre-algodao-e-maquinas-julio-busato-faz-seu-nome-no-oeste-da-bahia/",
         "title": "Entre Algodão e Máquinas, Júlio Busato Faz Seu Nome no Oeste da Bahia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/JulioCezarBusato_GrupoBusato_17JUN2025_JuliaMaciel-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
         "date": "17/06/2025",
         "description": "Agentes do mercado tiveram maior cautela nesta terça, enquanto aguardam as decisões do FED e do BC"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/embrapa-passa-a-produzir-nitrogenio-liquido-para-seu-banco-genetico/",
-        "title": "Embrapa Passa a Produzir Nitrogênio Líquido para Seu Banco Genético",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_nitrogenio_liquido_17jun25_Claudio-Bezerra_Embrapa-300x200.jpg",
-        "date": "17/06/2025",
-        "description": "Saiba por que o insumo é fundamental para a conservação em longo prazo de sêmen, embriões, microrganismos e tecidos vegetais"
     }
 ]
