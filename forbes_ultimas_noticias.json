@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/ataque-de-hackers-a-bolsa-de-criptomoedas-do-ira-destroi-us-90-milhoes/",
+        "title": "Ataque de Hackers a Bolsa de Criptomoedas do Irã Destrói US$ 90 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/08/criptomoedas-1-300x200.jpg",
+        "date": "18/06/2025",
+        "description": "Grupo conhecido como Gonjeshke Darande, ou \"Pardal Predador\", reivindicou autoria sobre o ataque, na sua segunda operação em dois dias"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/fed-mantem-juros-americanos-inalterados-mas-ve-possibilidade-de-ate-dois-cortes-em-2025/",
+        "title": "Fed Mantém Juros Americanos Inalterados, Mas Vê Possibilidade de até Dois Cortes em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/11/money-fed-jerome-powell-300x200.jpg",
+        "date": "18/06/2025",
+        "description": "Colegiado voltou a falar sobre o risco inflacionário da política comercial de Trump e um espaço para afrouxamento monetário mais lento"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/brasil-se-declara-livre-de-gripe-aviaria-para-a-omsa/",
+        "title": "Brasil se Declara Livre de Gripe Aviária para a OMSA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Galinheiro-em-fazenda-de-criacao-de-aves-privada-no-Rio-de-Janeiro-300x200.jpg",
+        "date": "18/06/2025",
+        "description": "A recuperação do status do Brasil como livre do vírus da gripe aviária de alta patogenicidade não é automática e precisa ser confirmada pela OMSA"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/nestle-eleva-investimento-no-brasil-para-r7-bi-ate-2028/",
+        "title": "Nestlé Eleva Investimento no Brasil para R$7 Bi até 2028",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Logo-da-Nestle-300x200.jpg",
+        "date": "18/06/2025",
+        "description": "Agora, a Nestlé dá seus primeiros passos no mercado de franquias, algo inédito ao grupo suíço até a bilionária compra da controladora das chocolaterias Kopenhagen"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/aquisicao-da-u-s-steel-pela-nippon-steel-e-concluida-com-protagonismo-de-trump/",
         "title": "Aquisição da U.S. Steel Pela Nippon Steel É Concluída com Protagonismo de Trump",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-18T133758Z_1_LYNXMPEL5H0QG_RTROPTP_4_NIPPONSTEEL-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_PlanoSafra_17JUN2025_Getty-300x200.jpg",
         "date": "18/06/2025",
         "description": "Dario Durigan, secretário-executivo do Ministério da Fazenda, disse que o programa vai seguir crescendo prejudicar o setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/forbes-mulher-agro-pessoa-fisica-ou-juridica-hora-de-apoiar-o-produtor-rural-nesta-escolha/",
-        "title": "Pessoa Física ou Jurídica: Hora de Apoiar o Produtor Rural Nesta Escolha",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_CNPJ_17JUN2025_Getty-300x200.png",
-        "date": "18/06/2025",
-        "description": "Essa decisão é estratégica para garantir a competitividade e a sustentabilidade do negócio"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/chuvas-atrapalham-colheita-de-cafe-de-cooperados-da-cooxupe/",
-        "title": "Chuvas Atrapalham Colheita de Café de Cooperados da Cooxupé",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-18T131729Z_1_LYNXMPEL5H0P9_RTROPTP_4_COMMODS-CAFE-COOXUPE-300x200.jpg",
-        "date": "18/06/2025",
-        "description": "Progresso dos trabalhos no campo é o menor desde 2022, com influência do clima"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/xai-de-musk-pode-levantar-us-5-bilhoes-com-emissao-de-divida/",
-        "title": "xAI, de Musk, Pode Levantar US$ 5 Bilhões com Emissão de Dívida",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/05/Money_Musk_XAI_GettyImages-300x200.jpg",
-        "date": "18/06/2025",
-        "description": "Venda será alocada aos investidores ainda nesta quarta-feira (18), prevendo empréstimos e títulos garantidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/r-33-mil-huawei-volta-ao-brasil-com-celular-mais-caro-do-mercado/",
-        "title": "R$ 33 Mil: Huawei Volta Ao Brasil com Celular Mais Caro do Mercado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/trifold-300x200.png",
-        "date": "18/06/2025",
-        "description": "O Huawei Mate XT é o primeiro smartphone triplamente dobrável do mundo."
     }
 ]
