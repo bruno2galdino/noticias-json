@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbeswsb/2025/06/o-desafio-de-ser-balbo-como-ana-honra-o-legado-da-maior-enologa-da-america-latina/",
+        "title": "O Desafio de Ser Balbo: Como Ana Honra o Legado da Maior Enóloga da América Latina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/AnaBalboESusanaBalbo_18JUN2025_DivulgacaoSusanaBalbo-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Saiba o que tem feito a sucessora da argentina Susana Balbo, que aposta também na gastronomia e na presença global da marca, incluindo o Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/os-6-smartphones-mais-caros-ja-vendidos-no-brasil/",
+        "title": "Os 6 Smartphones Mais Caros Já Vendidos no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/HUAWEI3-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Além do Mate XT, da Huawei, que dobra em três partes, outros modelos já se aproximaram de R$ 20 mil"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/06/geracao-z-e-a-mais-exigente-em-relacao-ao-salario/",
+        "title": "Geração Z é a Mais Exigente em Relação Ao Salário",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/carreira-geracao-Z-tecnologia-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Cerca de 70% dos empregadores dizem que jovens estão mais rigorosos com remuneração e benefícios"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/como-patricia-anastassiadis-chegou-aos-30-anos-de-sucesso-internacional-na-arquitetura/",
+        "title": "Como Patricia Anastassiadis Chegou Aos 30 Anos de Sucesso Internacional na Arquitetura",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Life_0.Das-mais-prestigiadas-arquitetas-brasileiras-Patricia-Anastassiadis-chega-aos-30-anos-de-carreira-celebrando-sucessos-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Das mais prestigiadas arquitetas brasileiras, a paulistana acumula grandes projetos de sucesso na hotelaria mundial de luxo - do Palácio Tangará ao francês Hotel du Cap-Eden-Roc"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/planeta-anao-e-encontrado-nos-confins-do-sistema-solar/",
+        "title": "Planeta Anão É Encontrado nos Confins do Sistema Solar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/plutao-300x200.png",
+        "date": "19/06/2025",
+        "description": "O corpo celeste distante foi encontrado por cientistas do Institute for Advanced Study, em Princeton, Nova Jersey"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/ataque-israel-ira-qual-e-a-importancia-do-estreito-de-ormuz/",
+        "title": "Israel e Irã: Por Que o Estreito de Ormuz Tem uma Importância Global?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-16-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Com apenas 34 km de largura em seu ponto mais estreito, essa passagem marítima conecta o Golfo Pérsico ao Golfo de Omã e ao Mar Arábico"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/06/outono-no-piemonte-oferece-vinhos-finos-e-alta-gastronomia/",
+        "title": "Outono no Piemonte Oferece Vinhos Finos e Alta Gastronomia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/WSB_Piemont_18JUN2025_Getty-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Entre vinhedos e vilarejos históricos, as colinas de Langhe são o lar dos vinhos Barolo e Barbaresco, dois dos tintos mais prestigiados da Itália"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/arte-em-museus-andre-griffo-no-paco-imperial-no-rio-e-jonathas-de-andrade-no-jeu-de-paume-na-franca/",
+        "title": "Arte em Museus: André Griffo no Rio e Jonathas de Andrade na França",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Andre-Griffo-Percorrer-tempos-e-ver-as-mesmas-coisas-2017-oleo-sobre-tela-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Obras destes dois destaques na produção contemporânea nacional, em exposição no Paço Imperial e no Jeu de Paume, atestam o vigor da arte brasileira"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/bc-eleva-selic-para-15-ao-ano-e-sinaliza-fim-do-ciclo-de-alta-de-juros/",
         "title": "BC Eleva Selic para 15% Ao Ano e Sinaliza Fim do Ciclo de Alta de Juros",
         "image": "https://forbes.com.br/wp-content/uploads/2024/02/Fachada-Banco-Central-do-Brasil-Imagem-Ueslei-Marcelino-Reuters-300x200.png",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
         "date": "18/06/2025",
         "description": "Enquanto agentes aguardam anúncio do Banco Central sobre a Selic, nos EUA, o Fed resolveu manter a faixa de juros"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/ataque-de-hackers-a-bolsa-de-criptomoedas-do-ira-destroi-us-90-milhoes/",
-        "title": "Ataque de Hackers a Bolsa de Criptomoedas do Irã Destrói US$ 90 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/08/criptomoedas-1-300x200.jpg",
-        "date": "18/06/2025",
-        "description": "Grupo conhecido como Gonjeshke Darande, ou \"Pardal Predador\", reivindicou autoria sobre o ataque, na sua segunda operação em dois dias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/fed-mantem-juros-americanos-inalterados-mas-ve-possibilidade-de-ate-dois-cortes-em-2025/",
-        "title": "Fed Mantém Juros Americanos Inalterados, Mas Vê Possibilidade de até Dois Cortes em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/11/money-fed-jerome-powell-300x200.jpg",
-        "date": "18/06/2025",
-        "description": "Colegiado voltou a falar sobre o risco inflacionário da política comercial de Trump e um espaço para afrouxamento monetário mais lento"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/brasil-se-declara-livre-de-gripe-aviaria-para-a-omsa/",
-        "title": "Brasil se Declara Livre de Gripe Aviária para a OMSA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Galinheiro-em-fazenda-de-criacao-de-aves-privada-no-Rio-de-Janeiro-300x200.jpg",
-        "date": "18/06/2025",
-        "description": "A recuperação do status do Brasil como livre do vírus da gripe aviária de alta patogenicidade não é automática e precisa ser confirmada pela OMSA"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/nestle-eleva-investimento-no-brasil-para-r7-bi-ate-2028/",
-        "title": "Nestlé Eleva Investimento no Brasil para R$7 Bi até 2028",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Logo-da-Nestle-300x200.jpg",
-        "date": "18/06/2025",
-        "description": "Agora, a Nestlé dá seus primeiros passos no mercado de franquias, algo inédito ao grupo suíço até a bilionária compra da controladora das chocolaterias Kopenhagen"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/aquisicao-da-u-s-steel-pela-nippon-steel-e-concluida-com-protagonismo-de-trump/",
-        "title": "Aquisição da U.S. Steel Pela Nippon Steel É Concluída com Protagonismo de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-18T133758Z_1_LYNXMPEL5H0QG_RTROPTP_4_NIPPONSTEEL-300x200.jpg",
-        "date": "18/06/2025",
-        "description": "Acordo reforça controle do governo dos EUA sobre a empresa, ampliando influência política por meio de assento no conselho e ação especial"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/petroleo-tem-queda-de-mais-de-1-no-sexto-dia-de-conflito-ira-israel/",
-        "title": "Petróleo Tem Queda de Mais de 1% no Sexto Dia de Conflito Irã-Israel",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/12/Money_petroleo-300x200.jpg",
-        "date": "18/06/2025",
-        "description": "Valores entraram para o vermelho, após o presidente americano, Donald Trump, não responder se os EUA pretendem entrar na guerra"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/lize-bartelli-a-nova-voz-do-feminismo-solar-na-arte-contemporanea-londrina/",
-        "title": "Lize Bartelli: a Nova Voz do Feminismo Solar na Arte Contemporânea Londrina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Nascida-no-Rio-e-residente-em-Londres-a-trajetoria-de-Lize-Bartelli-reflete-sua-pluralidade-300x200.jpg",
-        "date": "18/06/2025",
-        "description": "A curadora cunhou o termo feminismo solar para descrever essa abordagem — expressão que a própria artista adota, com a naturalidade de quem nomeia algo que sempre existiu"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/entre-algodao-e-maquinas-julio-busato-faz-seu-nome-no-oeste-da-bahia/",
-        "title": "Do Zero ao Topo: A História de Busato, o Produtor Que Mudou o Oeste da Bahia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/JulioCezarBusato_GrupoBusato_17JUN2025_JuliaMaciel-300x200.jpg",
-        "date": "18/06/2025",
-        "description": "Conheça a história de Júlio Busato, que apostou no algodão casado com soja e milho, mergulhou na tecnologia das máquinas e arrastou uma multidão de produtores ao liderar entidades do setor"
     }
 ]
