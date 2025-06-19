@@ -1,10 +1,17 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/06/quanto-custa-comer-no-melhor-restaurante-do-mundo-em-2025/",
+        "title": "Quanto Custa Comer no Melhor Restaurante do Mundo em 2025?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Maido_melhor-restaurante-do-mundo-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Eleito número 1 pelo 50 Best Restaurants, o restaurante peruano comandado por Micha Tsumura mistura culinária nikkei com a biodiversidade amazônica"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/06/lasai-os-segredos-do-melhor-restaurante-do-brasil/",
-        "title": "Lasai: os Segredos do Melhor Restaurante do Brasil",
+        "title": "Lasai é Eleito 28º Melhor Restaurante do Mundo e o Melhor do Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Lasai-300x200.webp",
         "date": "19/06/2025",
-        "description": "Casa do chef Rafa Costa e Silva no Rio foi a mais bem colocada no ranking 50 Best Restaurants, alçada ao posto de 28º melhor restaurante do mundo em 2025"
+        "description": "Casa do chef Rafa Costa e Silva no Rio foi única do país no ranking 50 Best Restaurants, no posto de 28º melhor restaurante do mundo em 2025"
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/06/foguete-spacex-starship-explode-marcando-outro-reves-para-a-missao-de-musk-em-marte/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/AnaBalboESusanaBalbo_18JUN2025_DivulgacaoSusanaBalbo-300x200.jpg",
         "date": "19/06/2025",
         "description": "Saiba o que tem feito a sucessora da argentina Susana Balbo, que aposta também na gastronomia e na presença global da marca, incluindo o Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/os-6-smartphones-mais-caros-ja-vendidos-no-brasil/",
-        "title": "Os 6 Smartphones Mais Caros Já Vendidos no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/HUAWEI3-300x200.jpg",
-        "date": "19/06/2025",
-        "description": "Além do Mate XT, da Huawei, que dobra em três partes, outros modelos já se aproximaram de R$ 20 mil"
     }
 ]
