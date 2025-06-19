@@ -1,10 +1,17 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/06/morre-o-ator-francisco-cuoco-aos-91-anos/",
+        "title": "Morre o Ator Francisco Cuoco, Aos 91 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-21-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Cuoco foi um dos grandes galãs da teledramaturgia brasileira"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/06/quanto-custa-comer-no-melhor-restaurante-do-mundo-em-2025/",
         "title": "Quanto Custa Comer no Melhor Restaurante do Mundo em 2025?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Maido_melhor-restaurante-do-mundo-300x200.jpg",
         "date": "19/06/2025",
-        "description": "Eleito número 1 pelo 50 Best Restaurants, o restaurante peruano comandado por Micha Tsumura mistura culinária nikkei com a biodiversidade amazônica"
+        "description": "Eleito número 1 pelo 50 Best, o peruano Maido, do chef Micha Tsumura, mistura culinária nikkei com a biodiversidade amazônica"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/06/lasai-os-segredos-do-melhor-restaurante-do-brasil/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-trump-money-300x200.jpg",
         "date": "19/06/2025",
         "description": "Medida marca a retomada da emissão de vistos para estudantes estrangeiros"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/o-desafio-de-ser-balbo-como-ana-honra-o-legado-da-maior-enologa-da-america-latina/",
-        "title": "O Desafio de Ser Balbo: Como Ana Honra o Legado da Maior Enóloga da América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/AnaBalboESusanaBalbo_18JUN2025_DivulgacaoSusanaBalbo-300x200.jpg",
-        "date": "19/06/2025",
-        "description": "Saiba o que tem feito a sucessora da argentina Susana Balbo, que aposta também na gastronomia e na presença global da marca, incluindo o Brasil"
     }
 ]
