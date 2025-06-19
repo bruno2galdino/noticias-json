@@ -1,17 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-19-06.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/02/51679971580_843706a8ab_c.jpg",
+        "date": "19/06/2025",
+        "description": "WTA 500 de Berlim (Alemanha) – Grama – € 925.661Duplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/favoritos-confirmam-e-vao-as-oitavas-no-amazonia-open-sunset.html",
+        "title": "Favoritos confirmam e vão às oitavas no Amazônia Open Sunset",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/ramos_cappelletti_amazoniasunset-2.jpeg",
+        "date": "19/06/2025",
+        "description": "Tucuruí (PA) –Dia de vitórias das duplas favoritas na primeira rodada do Amazônia Open Sunset, o torneio BT 400 de Tucuruí (PA), disputado no CT Paranhos, com premiação de US$ 35 mil e 470 pontos para as duplas campeãs."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bia-e-siegemund-vao-a-semi-e-dupla-entra-no-top-8-da-temporada.html",
+        "title": "Bia e Siegemund vão à semi e dupla entra no top 8 da temporada",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/Beatriz_Haddad_Maia_Laura_Siegemund_-_Mutua_Madrid_Open_2025_-_Day_9-DSC_9129_xgaplus.jpg",
+        "date": "19/06/2025",
+        "description": "Nottingham (Inglaterra)– Se em simples a temporada da paulista Beatriz Haddad Maia está bem abaixo do esperado, nas duplas ela e a alemã Laura Siegemund têm se dado bem. Nesta quinta-feira, elas garantiram um lugar nas semifinais do WTA 250 de Nottingham ao bater a italiana Angelica Moratelli e a norte-americana Sabrina Santamaria com arrasadores 6/0 e 6/3, em 57 minutos."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/stefani-e-babos-sao-derrotadas-nas-quartas-por-badosa-e-jabeur.html",
         "title": "Stefani e Babos são derrotadas nas quartas por Badosa e Jabeur",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/stefani_queens_voleia_sozinha.jpg",
         "date": "19/06/2025",
         "description": "Berlim (Alemanha)– Depois de uma grande vitória sobre as cabeças de chave 3 na estreia no WTA 500 de Berlim, a paulista Luisa Stefani e a húngara Timea Babos não conseguiram embalar e foram derrotadas nas quartas de final. Nesta quinta-feira, elas perderam em apenas 1h para a espanhola Paula Badosa e a tunisiana Ons Jabeur, com o placar final de 6/3 e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-19-06.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quinta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/stefani_esperasaque_queens-1024x683.jpg",
-        "date": "19/06/2025",
-        "description": "WTA 500 de Berlim (Alemanha) – Grama – € 925.661Duplas – Quartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/tenista-de-taiwan-aceita-suspensao-de-um-ano-por-doping-nao-intencional.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/lumazumbaldi_na-rede_natalia_tucurui.jpg",
         "date": "18/06/2025",
         "description": "Tucuruí (PA)– Jovens de 18 e 15 anos, as mineiras Luma Zumbaldi e Natalia Buonincoutro destacaram-se nesta quarta-feira no primeiro dia do Amazônia Open Sunset, o torneio BT 400 de Tucuruí (PA) disputado no CT Paranhos. O evento tem premiação total de US$ 35 mil e oferece 470 pontos para as duplas campeãs no ranking da Federação Internacional de Tênis."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/draper-rune-vao-as-quartas-em-queens-confira-no-resumo-do-dia.html",
-        "title": "Draper, Rune vão às quartas em Queen’s. Confira no resumo do dia.",
-        "image": null,
-        "date": "18/06/2025",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/joao-schiessl-e-bruno-fernandez-estreiam-bem-em-torneios-da-itf.html",
-        "title": "João Schiessl e Bruno Fernandez estreiam bem em torneios da ITF",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/11/52718290354_7d7d1f664a_c.jpg",
-        "date": "18/06/2025",
-        "description": "Cluj Napoca (Romênia) –O paranaense João Schiessl estreou com vitória no ITF M15 de Cluj Napoca, em quadras de saibro na Romênia. Canhoto de 20 anos e 687º do ranking, Schiessl venceu o anfitrião vindo do quali Vlad Breazu por duplo 6/4. Seu próximo adversário será mais um romeno Radu David Turcanu."
     }
 ]
