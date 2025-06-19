@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/06/lasai-os-segredos-do-melhor-restaurante-do-brasil/",
+        "title": "Lasai: os Segredos do Melhor Restaurante do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Lasai-300x200.webp",
+        "date": "19/06/2025",
+        "description": "Casa do chef Rafa Costa e Silva no Rio foi a mais bem colocada no ranking 50 Best Restaurants, alçada ao posto de 28º melhor restaurante do mundo em 2025"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/foguete-spacex-starship-explode-marcando-outro-reves-para-a-missao-de-musk-em-marte/",
         "title": "Foguete Spacex Starship Explode, Marcando Outro Revés para a Missão de Musk em Marte",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Foguete-Falcon-9-da-SpaceX-decola-transportando-satelites-da-Starlink-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/HUAWEI3-300x200.jpg",
         "date": "19/06/2025",
         "description": "Além do Mate XT, da Huawei, que dobra em três partes, outros modelos já se aproximaram de R$ 20 mil"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/06/geracao-z-e-a-mais-exigente-em-relacao-ao-salario/",
-        "title": "Geração Z é a Mais Exigente em Relação Ao Salário",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/carreira-geracao-Z-tecnologia-300x200.jpg",
-        "date": "19/06/2025",
-        "description": "Cerca de 70% dos empregadores dizem que jovens estão mais rigorosos com remuneração e benefícios"
     }
 ]
