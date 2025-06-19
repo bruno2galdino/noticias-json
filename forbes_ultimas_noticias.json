@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/foguete-spacex-starship-explode-marcando-outro-reves-para-a-missao-de-musk-em-marte/",
+        "title": "Foguete Spacex Starship Explode, Marcando Outro Revés para a Missão de Musk em Marte",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Foguete-Falcon-9-da-SpaceX-decola-transportando-satelites-da-Starlink-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "A explosão ocorreu por volta das 23h, horário local em Brownsville, enquanto se preparava para o décimo voo de teste"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/trump-diz-que-assinou-decreto-prorrogando-prazo-para-venda-do-tiktok-nos-eua/",
+        "title": "Trump Diz Que Assinou Decreto Prorrogando Prazo para Venda do Tiktok nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-trump-money-1-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Esta é a terceira vez que o presidente adia a aplicação da proibição"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/apple-planeja-usar-ia-para-projetar-chips-diz-executivo/",
+        "title": "Apple Planeja Usar IA para Projetar Chips, Diz Executivo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/APPLE-LOGO-forbes-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Johny Srouji, vice-presidente sênior de tecnologias de hardware da Apple, comentou sobre o assunto em um discurso na Bélgica"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/06/por-que-estar-solteiro-nao-e-um-problema-3-ideias-que-voce-precisa-abandonar/",
         "title": "Por Que Estar Solteiro Não É um Problema: 3 Ideias Que Você Precisa Abandonar",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/solteiro-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/carreira-geracao-Z-tecnologia-300x200.jpg",
         "date": "19/06/2025",
         "description": "Cerca de 70% dos empregadores dizem que jovens estão mais rigorosos com remuneração e benefícios"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/como-patricia-anastassiadis-chegou-aos-30-anos-de-sucesso-internacional-na-arquitetura/",
-        "title": "Como Patricia Anastassiadis Chegou Aos 30 Anos de Sucesso Internacional na Arquitetura",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Life_0.Das-mais-prestigiadas-arquitetas-brasileiras-Patricia-Anastassiadis-chega-aos-30-anos-de-carreira-celebrando-sucessos-300x200.jpg",
-        "date": "19/06/2025",
-        "description": "Das mais prestigiadas arquitetas brasileiras, a paulistana acumula grandes projetos de sucesso na hotelaria mundial de luxo - do Palácio Tangará ao francês Hotel du Cap-Eden-Roc"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/planeta-anao-e-encontrado-nos-confins-do-sistema-solar/",
-        "title": "Planeta Anão É Encontrado nos Confins do Sistema Solar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/plutao-300x200.png",
-        "date": "19/06/2025",
-        "description": "O corpo celeste distante foi encontrado por cientistas do Institute for Advanced Study, em Princeton, Nova Jersey"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/ataque-israel-ira-qual-e-a-importancia-do-estreito-de-ormuz/",
-        "title": "Israel e Irã: Por Que o Estreito de Ormuz Tem uma Importância Global?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-16-300x200.jpg",
-        "date": "19/06/2025",
-        "description": "Com apenas 34 km de largura em seu ponto mais estreito, essa passagem marítima conecta o Golfo Pérsico ao Golfo de Omã e ao Mar Arábico"
     }
 ]
