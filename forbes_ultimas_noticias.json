@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/quem-e-mark-walter-o-novo-socio-do-los-angeles-lakers/",
+        "title": "Quem É Mark Walter, o Novo Sócio do Los Angeles Lakers?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Mark-Walter-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "Família Buss vendeu participação no time da NBA pelo valor recorde de US$ 10 bilhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/nike-adia-lancamento-de-marca-feminina-em-parceria-com-skims-de-kim-kardashian/",
+        "title": "Nike Adia Lançamento de Marca Feminina em Parceria com Skims, de Kim Kardashian",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-18T234303Z_1_LYNXMPEL5H19X_RTROPTP_4_NIKE-RESULTS-1-300x200.jpg",
+        "date": "19/06/2025",
+        "description": "A Skims, lançada em 2019, tem visto uma demanda crescente por seus sutiãs, além de peças loungewear e shapewear premium."
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/06/eua-exigirao-avaliacao-de-perfis-em-rede-social-para-concessao-de-visto-de-estudante/",
         "title": "EUA Exigirão Avaliação de Perfis em Rede Social para Concessão de Visto de Estudante",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-trump-money-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/WSB_Piemont_18JUN2025_Getty-300x200.jpg",
         "date": "19/06/2025",
         "description": "Entre vinhedos e vilarejos históricos, as colinas de Langhe são o lar dos vinhos Barolo e Barbaresco, dois dos tintos mais prestigiados da Itália"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/arte-em-museus-andre-griffo-no-paco-imperial-no-rio-e-jonathas-de-andrade-no-jeu-de-paume-na-franca/",
-        "title": "Arte em Museus: André Griffo no Rio e Jonathas de Andrade na França",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Andre-Griffo-Percorrer-tempos-e-ver-as-mesmas-coisas-2017-oleo-sobre-tela-300x200.jpg",
-        "date": "19/06/2025",
-        "description": "Obras destes dois destaques na produção contemporânea nacional, em exposição no Paço Imperial e no Jeu de Paume, atestam o vigor da arte brasileira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/bc-eleva-selic-para-15-ao-ano-e-sinaliza-fim-do-ciclo-de-alta-de-juros/",
-        "title": "BC Eleva Selic para 15% Ao Ano e Sinaliza Fim do Ciclo de Alta de Juros",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Fachada-Banco-Central-do-Brasil-Imagem-Ueslei-Marcelino-Reuters-300x200.png",
-        "date": "18/06/2025",
-        "description": "A autarquia apontou que a política monetária deve se manter contracionista por um período “bastante prolongado”"
     }
 ]
