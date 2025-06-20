@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/colunas/2025/06/eduardo-mira-a-dinamica-da-selic-como-os-juros-moldam-a-economia-brasileira/",
+        "title": "A Dinâmica da Selic: Como os Juros Moldam a Economia Brasileira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/forbes-Logotipo-do-Banco-Central-do-Brasil-na-sede-da-instituicao-em-Brasilia-300x200.jpg",
+        "date": "20/06/2025",
+        "description": "Taxa em 15% ao ano proporcionam bons retornos para o investidor, mas tornam muitos empreendimentos inviáveis para as empresas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/entenda-por-que-a-parceria-entre-openai-e-microsoft-esta-por-um-fio/",
+        "title": "Entenda por Que a Parceria entre OpenAI e Microsoft Está por um Fio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2025-05-21T141129Z_1_LYNXMPEL4K0QW_RTROPTP_4_TECH-IA-PESQUISADORES-1-300x200.jpg",
+        "date": "20/06/2025",
+        "description": "Segundo o Financial Times, a Microsoft está pronta para abandonar as negociações com a criadora do ChatGPT caso não haja consenso sobre pontos cruciais"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-investidores-processam-alta-da-selic-para-15-ao-ano/",
         "title": "Pré-mercado: Investidores Processam Alta da Selic para 15% Ao Ano",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -44,7 +58,7 @@
     {
         "url": "https://forbes.com.br/forbes-money/2025/06/as-50-mulheres-mais-ricas-do-mundo-que-construiram-sua-propria-fortuna/",
         "title": "As 50 Empreendedoras Mais Ricas do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-5-1-300x200.png",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/mulheres-empreendedoras-300x200.png",
         "date": "20/06/2025",
         "description": "Mulheres de diferentes países estão quebrando paradigmas graças a negócios que vão do carvão ao colágeno"
     },
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Marisa-300x200.webp",
         "date": "20/06/2025",
         "description": "O universo de ferramentas de IA evolui constantemente, porém algumas já conquistaram relevância significativa pelo desempenho excepcional"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/os-cinco-paises-mais-seguros-do-mundo-segundo-o-indice-global-da-paz-de-2025/",
-        "title": "Os 5 Países Mais Seguros do Mundo em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-20-300x200.jpg",
-        "date": "20/06/2025",
-        "description": "Índice Global da Paz analisou a segurança de 163 países; Brasil subiu uma posição neste ano"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/06/morre-o-ator-francisco-cuoco-aos-91-anos/",
-        "title": "Morre o Ator Francisco Cuoco, Aos 91 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-21-300x200.jpg",
-        "date": "19/06/2025",
-        "description": "Cuoco foi um dos grandes galãs da teledramaturgia brasileira"
     }
 ]
