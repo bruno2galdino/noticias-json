@@ -1,24 +1,52 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/ruud-e-fils-tambem-desistem-e-bublik-sera-cabeca-em-wimbledon.html",
-        "title": "Ruud e Fils também desistem e Bublik será cabeça em Wimbledon",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/ruud_rg-1024x622.jpg",
-        "date": "22/06/2025",
-        "description": "Londres (Inglaterra)– A lista de desistências para Wimbledon continua a crescer no masculino. Neste fim de semana, o norueguês Casper Ruud e o francês Arthur Fils também confirmaram ausência por não se recuperaram fisicamente. Com a já anunciada saída de Sebastian Korda, abriram-se três vagas entre os 32 cabeças de chave e entrarão Tallon Griekspoor, Matteo Berrettini e Alexander Bublik."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/joao-schiessl-garante-3o-titulo-profissional-saraiva-e-vice-na-tunisia.html",
-        "title": "Schiessl e Flores ganham títulos na Romênia, Saraiva é vice na Tunísia",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/schiessl_romenia_trofeu.jpg",
-        "date": "22/06/2025",
-        "description": "Cluj Napoca (Romênia) –O paranaense João Schiessl conquistou o título do ITF M15 de Cluj Napoca, em quadras de saibro na Romênia, ao vencer na final o anfitrião e cabeça 5 Stefan Andreescu por 6/4 e 6/0."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-22-06.html",
         "title": "O dia dos brasileiros: veja os resultados deste domingo",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/bia_stras_prepara-1024x682.jpg",
         "date": "22/06/2025",
         "description": "WTA 250 de Nottingham (Inglaterra) – Grama – US$ 275.094Duplas – Final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/wild-monteiro-e-meligeni-estreiam-nesta-2a-no-quali-de-wimbledon.html",
+        "title": "Wild, Monteiro e Meligeni estreiam nesta 2ª no quali de Wimbledon",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/wild_grandwilly_wimbledon-1024x682.jpg",
+        "date": "22/06/2025",
+        "description": "Londres (Inglaterra) –Os três brasileiros que disputam o quali para a chave principal masculina de Wimbledon estreiam nesta segunda-feira. A disputa contará com Thiago Wild, Thiago Monteiro e Felipe Meligeni. São necessárias três vitórias para entrar no Grand Slam londrino."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/algoz-de-duas-campeas-kessler-conquista-o-wta-de-nottingham.html",
+        "title": "Algoz de duas campeãs, Kessler conquista o WTA de Nottingham",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/kessler_nottingham_vibra_OH-1024x603.jpg",
+        "date": "22/06/2025",
+        "description": "Nottingham (Inglaterra) –A grande semana de McCartney Kessler no WTA 250 de Nottingham foi recompensada com a conquista de seu terceiro título na elite do circuito. A norte-americana, que passou por duas campeãs do torneio, venceu neste domingo a ucraniana Dayana Yastremska por 6/4 e 7/5."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/matos-e-melo-enfrentam-dupla-de-orlandinho-em-mallorca.html",
+        "title": "Matos e Melo enfrentam dupla de Orlandinho em Mallorca",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/matos-melo-rio-2025-e1744901719821-1024x683.jpg",
+        "date": "22/06/2025",
+        "description": "Mallorca (Espanha)– Uma semana antes de Wimbledon, três importantes duplistas brasileiros escolheram a quadra de grama espanhola de Mallorca como último preparativo oficial."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/duplas-de-ingrid-e-stefani-jogam-na-grama-de-bad-homburg.html",
+        "title": "Duplas de Ingrid e Stefani jogam na grama de Bad Homburg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/stefani_esperasaque_queens-1024x683.jpg",
+        "date": "22/06/2025",
+        "description": "Berlim (Alemanha) –O Brasil terá duas representantes na chave de duplas do WTA 500 de Bad Homburg, em quadras de grama na Alemanha. A paulista Luísa Stefani mantém a parceria ao lado da húngara Timea Babos, enquanto a carioca Ingrid Martins conseguiu uma vaga de última hora, jogando nesta semana ao lado da holandesa Isabelle Haverlag."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ruud-e-fils-tambem-desistem-e-bublik-sera-cabeca-em-wimbledon.html",
+        "title": "Ruud e Fils também desistem e Bublik será cabeça em Wimbledon",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/ruud_rg-1024x622.jpg",
+        "date": "22/06/2025",
+        "description": "Londres (Inglaterra)– A lista de desistências para Wimbledon continua a crescer no masculino. Neste fim de semana, o norueguês Casper Ruud e o francês Arthur Fils também confirmaram ausência por não se recuperarem fisicamente. Com a já anunciada saída de Sebastian Korda, abriram-se três vagas entre os 32 cabeças de chave e entrarão Tallon Griekspoor, Matteo Berrettini e Alexander Bublik."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/schiessl-e-flores-ganham-titulos-na-romenia-saraiva-e-vice-na-tunisia.html",
+        "title": "Schiessl e Flores ganham títulos na Romênia, Saraiva é vice na Tunísia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/schiessl_romenia_trofeu.jpg",
+        "date": "22/06/2025",
+        "description": "Cluj Napoca (Romênia) –O paranaense João Schiessl conquistou o título do ITF M15 de Cluj Napoca, em quadras de saibro na Romênia, ao vencer na final o anfitrião e cabeça 5 Stefan Andreescu por 6/4 e 6/0."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/vondrousova-volta-a-brilhar-nas-quadras-de-grama-e-conquista-berlim.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/06/chaves_wim-1024x576.jpg",
         "date": "21/06/2025",
         "description": "ATP250 de Eastbourne –SimplesDuplasQuali250 de Mallorca –SimplesDuplasQuali500 de Halle –SimplesDuplasQuali500 de Londres –SimplesDuplasQuali250 de Stuttgart –SimplesDuplasQuali250 de ‘s-Hertogenbosch –SimplesDuplasQualiRoland Garros –SimplesDuplasQuali500 de Hamburgo –SimplesDuplasQuali250 de Genebra –SimplesDuplasQuali1000 de Roma –SimplesDuplasQuali1000 de Madri –SimplesDuplasQuali500 de Barcelona –SimplesDuplasQuali500 de Munique –SimplesDuplasQuali1000 de Monte Carlo –SimplesDuplasQuali250 de Houston –SimplesDuplasQuali250 de Marrakech –SimplesDuplasQuali250 de Bucareste –SimplesDuplasQuali1000 de Miami –SimplesDuplasQuali1000 de Indian Wells –SimplesDuplasQuali500 de Dubai –SimplesDuplasQuali500 de Acapulco –SimplesDuplasQuali250 de Santiago –SimplesDuplasQuali500 do Rio de Janeiro –SimplesDuplasQuali500 de Doha –SimplesDuplasQuali250 de Buenos Aires –SimplesDuplasQuali250 de Delray Beach –SimplesDuplasQuali250 de Marselha –SimplesDuplasQuali500 de Roterdã –SimplesDuplasQuali500 de Dallas –SimplesDuplasQuali250 de Montepellier –SimplesDuplasQualiAustralian Open –SimplesDuplasQuali250 de Adelaide –SimplesDuplasQuali250 de Auckland –SimplesDuplasQualiUnited Cup –Jogos e classificação250 de Brisbane –SimplesDuplasQuali250 de Hong Kong –SimplesDuplasQuali"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/cada-vez-mais-confiante-alcaraz-busca-revanche-contra-lehecka.html",
-        "title": "Cada vez mais confiante, Alcaraz busca revanche contra Lehecka",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/2025-carlos-alcaraz-hsbc-championships-r2-1024x615.jpg",
-        "date": "21/06/2025",
-        "description": "Londres (Inglaterra) –De volta à final do ATP 500 de Queen’s depois de dois anos, Carlos Alcaraz se sente cada vez mais confiante e pode conquistar seu quarto título em quadras de grama. Ele já venceu o torneio londrino em 2023 além de ser o atual bicampeão de Wimbledon. O espanhol carrega uma invencibilidade de 17 jogos, depois de terminar a temporada de saibro conquistando os títulos de Roma e Roland Garros."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/reis-pucinelli-e-boscardin-disputam-challenger-no-saibro-de-lima.html",
-        "title": "Reis, Pucinelli e Boscardin disputam challenger no saibro de Lima",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/joao_reis_coquimbo_slice-1024x590.jpg",
-        "date": "21/06/2025",
-        "description": "Lima (Peru) –Três brasileiros disputam na próxima semana o challenger de Lima, em quadras de saibro. O pernambucano João Lucas Reis e o paulista Matheus Pucinelli são cabeças de chave e têm companhia do catarinense Pedro Boscardin."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/chabalgoity-e-vice-no-saibro-alemao-enzo-flores-e-finalista-na-romenia.html",
-        "title": "Chabalgoity é vice no saibro alemão, Enzo Flores é finalista na Romênia",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/chabalgoity_j200ale_trofeus.jpg",
-        "date": "21/06/2025",
-        "description": "Gladbeck (Alemanha) –Depois de ter vencido quatro jogos na semana, juvenil brasiliense Pedro Chabalgoity ficou com o vice-campeonato no ITF J200 de Gladbeck, no saibro alemão. Em uma final duríssima contra o norte-americano Dominick Mosejczuk, cabeça 2 do torneio e 37º do ranking, Chabalgoity acabou superado por 6/4, 5/7 e 7/6 (7-1). Com 3h30 de duração, esta foi a final mais longa na história do torneio."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/medvedev-volta-a-superar-zverev-e-decide-halle-contra-bublik.html",
-        "title": "Medvedev volta a superar Zverev e decide Halle contra Bublik",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/medvedev_halle_vibra_semi-1024x512.jpg",
-        "date": "21/06/2025",
-        "description": "Halle (Alemanha) –O vigésimo encontro entre Daniil Medvedev e Alexander Zverev terminou com mais uma vitória do russo, que ampliou a vantagem no histórico de confrontos contra o alemão para 13 a 7 e garantiu vaga na final do ATP 500 de Halle, em quadras de grama. Medvedev venceu Zverev por 7/6 (7-3), 6/7 (1-7) e 6/4 em 2h59 de partida neste sábado."
     }
 ]
