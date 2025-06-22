@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/agroturismo-de-luxo-the-newt-um-super-hotel-fazenda-no-coracao-do-reino-unido/",
+        "title": "Agroturismo de Luxo: The Newt, um Super Hotel-Fazenda no Coração do Reino Unido",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_The-Newt_12jun25_TN_Divulg-300x200.jpg",
+        "date": "22/06/2025",
+        "description": "Quando um hotel deixa de ser apenas um hotel? Com uma fazenda em pleno funcionamento, um compromisso com a inovação e jardins deslumbrantes, há em Somerset muito mais que uma cama para passar a noite"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/06/10-frases-de-meryl-streep-sobre-carreira-autenticidade-e-sucesso/",
+        "title": "10 Frases de Meryl Streep sobre Carreira, Autenticidade e Sucesso",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/mulher-meryl-streep-grammy-300x200.jpg",
+        "date": "22/06/2025",
+        "description": "Vencedora de três Oscars e recordista de indicações, atriz completa 76 anos neste domingo"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/06/de-aperol-ao-hugo-5-drinques-que-estao-impulsionando-a-temporada-de-spritz/",
+        "title": "De Aperol ao Hugo: 5 Melhores Drinques Para a Temporada de Spritz",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.A-cultura-Spritz-expandiu-se-para-alem-do-Aperol-com-novas-variacoes-a-ganharem-popularidade-pelos-seus-perfis-mais-leves-e-versatilidade-durante-todo-o-dia-300x200.jpg",
+        "date": "22/06/2025",
+        "description": "A cultura do spritz não tem mais estação do ano: drinques mais leves, com frescor e baixo teor alcoólico estão populares em todas as épocas"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/expedicao-antartica-mar-de-weddell-tem-icebergs-gigantes-orcas-e-emocao-de-extremos/",
+        "title": "Expedição Antártica: Mar de Weddell tem Icebergs Gigantes, Orcas e Emoção de Extremos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Apos-vencer-a-Passagem-de-Drake-a-Peninsula-Antartica-se-apresenta-com-enormes-icebergs-e-paisagens-espetaculares-300x200.jpg",
+        "date": "22/06/2025",
+        "description": "A bordo do SH Diana, cruzeiro pelo Mar de Weddell traz mergulhos em águas congelantes e o impacto de testemunhar a natureza selvagem no fim do mundo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/quem-e-o-novo-vizinho-que-jeff-bezos-ira-ganhar-no-bunker-dos-bilionarios-de-miami/",
+        "title": "Jeff Bezos Ganha Vizinho Misterioso no 'Bunker dos Bilionários' de Miami",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-18-300x200.jpg",
+        "date": "22/06/2025",
+        "description": "A ilha de Indian Creek possui sua própria força policial e é patrulhada por mar e ar, atraindo compradores pela sua segurança e privacidade"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/cientistas-recriam-pigmento-azul-de-5-000-anos/",
+        "title": "Cientistas Recriam Pigmento Azul de 5.000 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/pigmento-azul-antigo-300x200.png",
+        "date": "22/06/2025",
+        "description": "Pesquisadores da Universidade Estadual de Washington conseguiram recriar um tom de corante encontrado regularmente em artefatos do Egito Antigo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/eua-entram-no-conflito-entre-ira-e-israel-bombardeando-alvos-nucleares-iranianos/",
         "title": "EUA Entram no Conflito entre Irã e Israel Bombardeando Alvos Nucleares Iranianos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-trump-money-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/eclipse-artificial-300x200.png",
         "date": "21/06/2025",
         "description": "A missão Proba-3, da Agência Espacial Europeia, permite que os cientistas estudem a coroa solar sem precisar esperar pelos raros eclipses naturais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/6-marcas-de-cosmeticos-que-levam-o-agro-nos-seus-fracos/",
-        "title": "6 Marcas de Cosméticos que Levam o Agro Nos Seus Frascos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_ComesteticosNoAgro_18JUN2025_Getty-300x200.jpg",
-        "date": "21/06/2025",
-        "description": "Saiba como as empresas utilizam matérias-primas e criam parcerias com produtores e instituições para garantir seus cremes, óleos e perfumes nas prateleiras"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/06/o-whisky-frances-merece-um-lugar-no-bar-eis-o-porque/",
-        "title": "O Whisky Francês Merece um Lugar no Bar – Eis o Porquê",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/WSB_whisky-frances-300x200.jpg",
-        "date": "21/06/2025",
-        "description": "Com terroir local, barris de vinho e ousadia criativa, a França se firma como um novo e promissor nome na cena global de whisky; conheça seis rótulos de destilarias do país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/por-que-as-criptomoedas-estao-ganhando-espaco-no-mundo-corporativo/",
-        "title": "Por Que as Criptomoedas Estão Ganhando Espaço no Mundo Corporativo?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-17-300x200.jpg",
-        "date": "21/06/2025",
-        "description": "À medida que o preço do bitcoin ultrapassa os US$ 100 mil (R$ 550,34 mil), diversas empresas estão aproveitando os mercados públicos para adquirir ativos digitais em grande escala"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/bilionario-aposta-em-miami-e-critica-politicas-do-ex-amigo-donald-trump/",
-        "title": "Bilionário Aposta em Miami e Critica Políticas do Ex-amigo, Donald Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-4-1-300x200.png",
-        "date": "21/06/2025",
-        "description": "Jorge Pérez fez fortuna vendendo apartamentos de luxo no sul da Flórida e, agora, lida com um mercado desaquecido"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/06/geyze-diniz-quer-acabar-com-a-fome-no-brasil-ate-2030/",
-        "title": "Geyze Diniz Quer Acabar com a Fome no Brasil até 2030",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-geyze-diniz-300x200.jpg",
-        "date": "21/06/2025",
-        "description": "Presidente do Conselho do Pacto Contra a Fome, economista lidera coalizão que une empresas, governos e sociedade civil"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/conheca-o-hotel-que-diz-guardar-a-maior-colecao-de-garrafas-de-gin-do-mundo/",
-        "title": "Conheça o Hotel Que Diz Guardar a Maior Coleção de Garrafas de Gin do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Ali-Bullock-na-Gin-Library-da-Solar-Branco-Eco-Estate-nos-Acores-300x200.jpg",
-        "date": "21/06/2025",
-        "description": "Com a ajuda de hóspedes que levam garrafas de seus países de origem, hotel dos Açores tem uma \"biblioteca\" com 2 mil rótulos de todos os continentes"
     }
 ]
