@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-23-06.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/06/monteiro_mallorca_slice-1024x733.jpg",
+        "date": "23/06/2025",
+        "description": "ATP 250 de Eastbourne (Inglaterra) – Grama – € 756.875Primeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-22-06.html",
         "title": "O dia dos brasileiros: veja os resultados deste domingo",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/bia_stras_prepara-1024x682.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/bublik_med_boris_halle-1024x512.jpg",
         "date": "22/06/2025",
         "description": "Halle (Alemanha) –Pela primeira vez em sete confrontos, Alexander Bublik venceu Daniil Medvedev e conquistou assim seu segundo título no ATP 500 de Halle, em quadras de grama. O cazaque marcou as parciais 6/3 e 7/6 (7-4) em 1h21 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bia-conquista-ao-lado-de-siegemund-seu-8o-wta-nas-duplas.html",
-        "title": "Bia conquista ao lado de Siegemund seu 8º WTA nas duplas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/bia_siege_trofeu-1024x768.jpg",
-        "date": "22/06/2025",
-        "description": "Nottingham (Inglaterra) –A temporada com resultados consistentes nas duplas para Beatriz Haddad Maia e a alemã Laura Siegemund foi recompensada com o primeiro título da parceria no WTA 250 de Nottingham, em quadras de grama. Elas venceram neste domingo a cazaque Anna Danilina e a japonesa Ena Shibahara por 6/3 e 6/2 em 1h16 de partida."
     }
 ]
