@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/geadas-podem-afetar-lavouras-de-milho-do-pr-e-ms/",
+        "title": "Geadas Podem Afetar Lavouras de Milho do PR e MS",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-milho-300x200.jpg",
+        "date": "23/06/2025",
+        "description": "Na terça-feira, boa parte da região Sul terá alta probabilidade de ocorrência do fenômeno climático"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/queda-acentuada-do-petroleo-pressiona-e-ibovespa-fecha-no-vermelho/",
+        "title": "Queda Acentuada do Petróleo Pressiona e Ibovespa Fecha no Vermelho",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "23/06/2025",
+        "description": "O preço do barril desabou após o Irã não retaliar de forma ostensiva os ataques feitos pelos EUA no último fim de semana"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/conflito-no-oriente-medio-provoca-alta-dos-fertilizantes-no-brasil/",
         "title": "Conflito no Oriente Médio Provoca Alta dos Fertilizantes no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Fertilizantes_5JUN2025_Getty-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.O-atacante-brasileiro-do-Botafogo-Igor-Jesus-comemora-apos-marcar-o-primeiro-gol-durante-a-partida-do-Grupo-B-da-Copa-do-Mundo-de-Clubes-da-FIFA-2025-contra-o-Paris-Saint-Germain-da-Franca-300x200.jpg",
         "date": "23/06/2025",
         "description": "Depois de vitórias marcantes contra clubes europeus, quatro times brasileiros lideram seus respectivos grupos e estão a caminho das oitavas de final"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/brf-e-marfrig-marcam-para-14-de-julho-assembleias-sobre-fusao/",
-        "title": "BRF e Marfrig Marcam para 14 de Julho Assembleias sobre Fusão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Forbes_Logo-da-BRF-na-sede-da-empresa-em-Curitiba-300x200.jpg",
-        "date": "23/06/2025",
-        "description": "CVM adia assembleias marcadas para 18 de junho após solicitar mais dados sobre a transação"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/importacao-de-oleo-de-soja-pela-india-deve-ter-menor-nivel-em-4-meses-em-junho/",
-        "title": "Importação de Óleo de Soja Pela Índia Deve Ter Menor Nível em 4 Meses em Junho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-23T114418Z_1_LYNXMPEL5M0HW_RTROPTP_4_INDIA-SOYBEANS-300x200.jpg",
-        "date": "23/06/2025",
-        "description": "Atrasos na liberação elevam os custos de importação e encarecem o óleo comestível"
     }
 ]
