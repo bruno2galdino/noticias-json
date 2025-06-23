@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-23-06.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/pedro_rodrigues_poa_fore.jpg",
+        "date": "23/06/2025",
+        "description": "ATP 250 de Eastbourne (Inglaterra) – Grama – € 756.875Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/meligeni-vitoria-dificil-ainda-mais-depois-de-dois-meses-sem-competir.html",
+        "title": "Meligeni: “Vitória difícil, ainda mais depois de dois meses sem competir”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/07/felipe_meligeni_wimbledon_slice_insta-1024x643.jpg",
+        "date": "23/06/2025",
+        "description": "Londres (Inglaterra) –Depois de vencer sua partida de estreia no quali de Wimbledon, Felipe Meligeni destacou a superação que teve nesta segunda-feira. Não apenas por terescapado de nove match-pointscontra o equatoriano Alvaro Guillen Meza, mas também porque ele ainda está se recuperando de uma lesão na região lombar, sofrida no início de maio, durante o challenger de Oeiras. Desde então, o paulista de 27 anos e 147º do ranking só jogou os qualis de Roland Garros e Wimbledon."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/atual-campeao-juvenil-de-wimbledon-kjaer-vence-no-quali-e-encara-mannarino.html",
+        "title": "Campeão juvenil de Wimbledon, Kjaer vence no quali e encara Mannarino",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/kjaer_wimbledon_quali-1024x620.jpg",
+        "date": "23/06/2025",
+        "description": "Londres (Inglaterra) –Campeão juvenil de Wimbledon no ano passado, o norueguês Nicolai Kjaer recebeu convite para disputar o quali e estreou com vitória. O jovem tenista de 18 anos e 305º do ranking venceu o chinês Yan Bai, 226º do ranking, por 7/6 (7-3) e 6/2."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/bia-sobe-no-ranking-de-duplas-e-entra-top-8-do-finals-com-siegemund.html",
         "title": "Bia sobe no ranking de duplas e entra top 8 do Finals com Siegemund",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/bia_siege_trofeu_time-1024x632.jpg",
@@ -19,13 +40,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/tien-mallorca-2025-wave-1024x576.jpg",
         "date": "23/06/2025",
         "description": "Mallorca (Espanha) –No encontro entre dois nomes da nova geração do circuito, Learner Tien levou a melhor sobre Justin Engel e estreou com vitória no ATP 250 de Mallorca, em quadras de grama. O canhoto de 19 anos e 67º do mundo marcou um duplo 6/4 contra o convidado alemão de 17 anos e 219º do ranking."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-23-06.html",
-        "title": "O dia dos brasileiros: veja os resultados desta segunda",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/06/monteiro_mallorca_slice-1024x733.jpg",
-        "date": "23/06/2025",
-        "description": "ATP 250 de Eastbourne (Inglaterra) – Grama – € 756.875Primeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/eala-estreia-bem-na-grama-de-eastbourne-jabeur-e-kasatkina-caem.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/06/meligeni_wimbledon_esperasaque-e1750700741820.jpg",
         "date": "23/06/2025",
         "description": "Londres (Inglaterra)– Último dos três brasileiros na chave masculina do quali de Wimbledon a estrear nesta segunda-feira, o paulista Felipe Meligeni salvou o dia. Após as quedas de Thiago Wild e Thiago Monteiro, ele venceu conquistou uma dura vitória, precisando de 2h13 para bater o equatoriano Alvaro Guillen Meza em três sets, com parciais de 6/3, 0/6 e 7/6 (10-6)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-destaca-saque-devolucoes-e-mentalidade-apos-1a-vitoria-na-grama.html",
-        "title": "Fonseca destaca saque, devoluções e mentalidade após 1ª vitória na grama",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/2025-joao-fonseca-eastbourne-r1-1024x683.webp",
-        "date": "23/06/2025",
-        "description": "Eastbourne (Inglaterra) –Depois devencer seu primeiro jogo em quadras de gramapelo circuito da ATP, em Eastbourne, João Fonseca destacou os pontos positivos da atuação contra o belga Zizou Bergs nesta segunda-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ingrid-nao-passa-da-estreia-em-bad-homburg-bia-estreia-na-terca.html",
-        "title": "Ingrid não passa da estreia em Bad Homburg, Bia estreia na terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/ingrid-martins_caldasdarainha_esperasaque.jpg",
-        "date": "23/06/2025",
-        "description": "Bad Homburg (Alemanha)– Não deu para a carioca Ingrid Martins e a parceira holandesa Isabelle Haverlag, que caíram na estreia no WTA 500 de Bad Homburg. Nesta segunda-feira, elas foram superadas pelas cabeças de chave 2, a ucraniana Lyudmyla Kichenok e a australiana Ellen Perez com parciais de 7/6 (7-3), 5/7 e 10-8."
     }
 ]
