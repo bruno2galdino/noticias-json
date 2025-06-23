@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/bp-e-outras-petroleiras-evacuam-trabalhadores-dos-campos-de-petroleo-do-iraque/",
+        "title": "BP e Outras Petroleiras Evacuam Trabalhadores dos Campos de Petróleo do Iraque",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Planta-de-processamento-de-gas-da-estacao-central-no-campo-petrolifero-de-Rumaila-em-Basra-Iraque-em-5-de-novembro-de-2020-300x200.jpg",
+        "date": "23/06/2025",
+        "description": "A produção dos campos petrolíferos do sul do Iraque permanece inalterada"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/06/nova-presidente-do-coi-assume-cargo-e-ja-inicia-contagem-regressiva-para-la-2028/",
+        "title": "Nova Presidente do COI Assume Cargo e Já Inicia Contagem Regressiva para LA 2028",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Kirsty-Coventry-em-Lausanne-300x200.jpg",
+        "date": "23/06/2025",
+        "description": "Nesta segunda-feira, Kirsty Coventry recebeu a chave de ouro do Comitê Olímpico das mãos de Bach, que foi presidente da organização por 12 anos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/06/juliana-souza-fundadora-do-instituto-desvelando-oris-o-impossivel-e-provisorio/",
         "title": "“O Impossível é Provisório”, diz Juliana Souza, Fundadora do Instituto Desvelando Oris",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-juliana-souza-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Sede-do-Banco-Central-em-Brasilia-1-300x200.jpg",
         "date": "23/06/2025",
         "description": "Para 2026, a previsão no Focus é de que a taxa atingirá 12,50%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/ataque-dos-eua-ao-ira-aumenta-incerteza-economica/",
-        "title": "Ataque dos EUA Ao Irã Aumenta Incerteza Econômica",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/money-fed-jerome-powell-300x200.jpg",
-        "date": "23/06/2025",
-        "description": "Jerome Powell, chair do Federal Reserve, prestou dois dias de depoimentos ao Congresso após o bombardeio dos Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/tesla-lanca-taxi-robo-em-teste-nos-eua/",
-        "title": "Tesla Lança Táxi Robô em Teste nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/12/money-tesla-funcionarios-21dez22-TyroneSiu-300x200.jpg",
-        "date": "23/06/2025",
-        "description": "Elon Musk, CEO da companhia, chamou o momento de \"ápice de uma década de trabalho árduo\""
     }
 ]
