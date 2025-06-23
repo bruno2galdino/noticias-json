@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/tesla-lanca-taxi-robo-em-teste-nos-eua/",
+        "title": "Tesla Lança Táxi Robô em Teste nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/12/money-tesla-funcionarios-21dez22-TyroneSiu-300x200.jpg",
+        "date": "23/06/2025",
+        "description": "Elon Musk, CEO da companhia, chamou o momento de \"ápice de uma década de trabalho árduo\""
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/infomercial-cresol-a-protagonista-no-cooperativismo-de-credito/",
+        "title": "A Protagonista no Cooperativismo de Crédito",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/cresol-carrossel-300x200.png",
+        "date": "23/06/2025",
+        "description": "Com um milhão de cooperados, Cresol celebra trajetória sólida, inovação contínua e impacto social baseado no modelo de crédito colaborativo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-reacao-fraca-no-primeiro-pregao-apos-ataque-dos-eua-ao-ira/",
         "title": "Pré-mercado: Reação Fraca no Primeiro Pregão após Ataque dos EUA Ao Irã",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -7,9 +21,9 @@
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 23 de junho"
     },
     {
-        "url": "https://forbes.com.br/forbes-mkt/2025/06/quem-sao-os-cmos-brasileiros-na-lista-dos-mais-influentes-da-forbes-usa/",
+        "url": "https://forbes.com.br/manchete-1/2025/06/quem-sao-os-cmos-brasileiros-na-lista-dos-mais-influentes-da-forbes-usa/",
         "title": "Quem São os CMOs Brasileiros na Lista dos Mais Influentes da Forbes?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/PELO_MUNDO-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/PELO_MUNDO-1-300x200.jpg",
         "date": "23/06/2025",
         "description": "Patrícia Corsi e Marcel Marcondes estão entre os principais lideres de marketing do mundo em nova lista anual"
     },
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/money-estreito-de-ormuz-reuters-300x200.jpg",
         "date": "22/06/2025",
         "description": "O bloqueio da passagem estratégica pode levar à disparada dos preços globais do petróleo, abalar a economia mundial e intensificar tensões"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/agroturismo-de-luxo-the-newt-um-super-hotel-fazenda-no-coracao-do-reino-unido/",
-        "title": "Agroturismo de Luxo: The Newt, um Super Hotel-Fazenda no Coração do Reino Unido",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_The-Newt_12jun25_TN_Divulg-300x200.jpg",
-        "date": "22/06/2025",
-        "description": "Quando um hotel deixa de ser apenas um hotel? Com uma fazenda em pleno funcionamento, um compromisso com a inovação e jardins deslumbrantes, há em Somerset muito mais que uma cama para passar a noite"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/06/10-frases-de-meryl-streep-sobre-carreira-autenticidade-e-sucesso/",
-        "title": "10 Frases de Meryl Streep sobre Carreira, Autenticidade e Sucesso",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/mulher-meryl-streep-grammy-300x200.jpg",
-        "date": "22/06/2025",
-        "description": "Vencedora de três Oscars e recordista de indicações, atriz completa 76 anos neste domingo"
     }
 ]
