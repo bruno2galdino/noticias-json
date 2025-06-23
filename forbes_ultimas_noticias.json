@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/ataque-dos-eua-ao-ira-aumenta-incerteza-economica/",
+        "title": "Ataque dos EUA Ao Irã Aumenta Incerteza Econômica",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/02/money-fed-jerome-powell-300x200.jpg",
+        "date": "23/06/2025",
+        "description": "Jerome Powell, chair do Federal Reserve, prestou dois dias de depoimentos ao Congresso após o bombardeio dos Estados Unidos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/tesla-lanca-taxi-robo-em-teste-nos-eua/",
         "title": "Tesla Lança Táxi Robô em Teste nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2022/12/money-tesla-funcionarios-21dez22-TyroneSiu-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Negocios_bitcoin_290719_GettyImages_AdamGault-e1658415656459-300x200.webp",
         "date": "22/06/2025",
         "description": "Ethereum, XRP e outras criptomoedas importantes também registraram quedas expressivas"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/06/parlamento-do-ira-aprova-fechamento-do-estreito-de-ormuz-apos-ataque-dos-eua/",
-        "title": "Parlamento do Irã Aprova Fechar Estreito de Ormuz",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/money-estreito-de-ormuz-reuters-300x200.jpg",
-        "date": "22/06/2025",
-        "description": "O bloqueio da passagem estratégica pode levar à disparada dos preços globais do petróleo, abalar a economia mundial e intensificar tensões"
     }
 ]
