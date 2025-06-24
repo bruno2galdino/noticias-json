@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/por-que-lancamento-de-taxi-robo-da-tesla-foi-a-parte-mais-facil/",
+        "title": "Por Que Lançamento de Táxi Robô da Tesla Foi a Parte Mais Fácil",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Tesla-Getty-300x200.jpg",
+        "date": "24/06/2025",
+        "description": "A montadora de carros elétricos fez um teste dos seus primeiros táxis sem motorista na cidade norte-americana de Austin, no Texas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/kleverson-maggi-scheffer-o-que-pensa-e-faz-a-nova-geracao-do-grupo-bom-futuro/",
+        "title": "Kleverson Maggi Scheffer, o Que Pensa e Faz a Nova Geração do Grupo Bom Futuro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Kleverson_Maggi_Scheffer_17jun25_V.Ondei_-300x200.jpg",
+        "date": "24/06/2025",
+        "description": "Saiba como vem atuando a nova geração do agro que faz parte do grupo de sucessores formado diretamente pelos pioneiros do cultivo em larga escala no Centro-Oeste"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mkt/2025/06/como-a-new-balance-deixou-de-ser-o-tenis-de-pai-e-conquistou-destaque-na-nba/",
         "title": "Como a New Balance Deixou de Ser o \"Tênis de Pai\" e Conquistou Destaque na NBA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Design-sem-nome-5-300x200.png",
@@ -12,13 +26,6 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Soja-sendo-carregada-em-caminhao-300x200.jpg",
         "date": "24/06/2025",
         "description": "Com recuo na estimativa semanal, exportações de farelo de soja devem fechar junho abaixo do volume registrado no mesmo mês de 2024"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/kleverson-maggi-scheffer-o-que-pensa-e-faz-a-nova-geracao-do-grupo-bom-futuro/",
-        "title": "Kleverson Maggi Scheffer, o Que Pensa e Faz a Nova Geração do Grupo Bom Futuro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Kleverson_Maggi_Scheffer_17jun25_V.Ondei_-300x200.jpg",
-        "date": "24/06/2025",
-        "description": "Saiba como vem atuando a nova geração do agro que faz parte do grupo de sucessores formado diretamente pelos pioneiros do cultivo em larga escala no Centro-Oeste"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/06/sao-martinho-espera-alta-de-37-em-cana-processada/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2022/05/stablecoins-forbesmoney-300x200.jpg",
         "date": "24/06/2025",
         "description": "Bank of International Settlements alertou sobre os riscos dessas criptomoedas e solicitou que países avancem na tokenização"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/bancos-centrais-estao-de-olho-em-ouro-euro-e-no-iuan-conforme-dominio-do-dolar-diminui/",
-        "title": "Bancos Centrais Estão de Olho em Ouro, Euro e no Iuan",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Ouro-1-300x200.webp",
-        "date": "24/06/2025",
-        "description": "Autoridades monetárias que administram um total de US$ 5 trilhões planejam aumentar a exposição ao ouro nos próximos um a dois anos"
     }
 ]
