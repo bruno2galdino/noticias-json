@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/quadras-espetaculares-veja-cinco-lugares-de-tirar-o-folego.html",
+        "title": "Quadras espetaculares: veja cinco lugares de tirar o fôlego",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/Enchantment-2-1024x576.jpg",
+        "date": "24/06/2025",
+        "description": "Jogar tênis à beira mar, entre os rochedos, num clima medieval ou no meio do nada. Veja esta seleção de cinco quadras localizadas em lugares incríveis e exóticos:"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-vai-encerrar-rodada-desta-4a-contra-o-tricampeao-fritz.html",
+        "title": "Fonseca vai encerrar rodada desta 4ª contra o tricampeão Fritz",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/fonseca_halle_vibra_25-e1750681315455-1024x682.jpg",
+        "date": "24/06/2025",
+        "description": "Eastbourne (Inglaterra) –Depois de vencer seu primeiro jogo em quadras de grama pelo circuito da ATP, João Fonseca volta à quadra nesta quarta-feira, por volta do meio-dia (de Brasília) para sua segunda partida no 250 de Eastbourne."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/wimbledon-relembre-os-melhores-pontos-do-torneio-masculino-de-2024.html",
         "title": "Wimbledon: relembre os melhores pontos do torneio masculino de 2024",
         "image": null,
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/background_drawboard.jpg",
         "date": "24/06/2025",
         "description": "Londres (Inglaterra)– O sorteio das chaves masculina e feminina de Wimbledon está marcado para acontecer na próxima sexta-feira às 6h (horário de Brasília), três dias antes do início da disputa do mais tradicional torneio do tênis mundial, que começa na segunda-feira seguinte."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/iga-vence-a-primeira-na-grama-paolini-avanca-em-dois-tiebreaks.html",
-        "title": "Iga vence a primeira na grama, Paolini avança em dois tiebreaks",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/iga_badhomburg_espera.jpg",
-        "date": "24/06/2025",
-        "description": "Bad Homburg (Alemanha) –Em sua primeira partida na temporada de grama, Iga Swiatek estreou com vitória no WTA 500 de Bad Homburg. A polonesa venceu um duelo de ex-líderes do ranking contra Victoria Azarenka por duplo 6/4 em 1h36 de partida nesta terça-feira. Já garantida nas quartas de final, ela pode enfrentar a grega Maria Sakkari ou a russa Ekaterina Alexandrova. A vitória também foi especial para a jogadora de 24 anos, que chegou a 300 triunfos na elite do circuito."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/raducanu-fala-sobre-boatos-estou-feliz-que-a-internet-esteja-se-divertindo.html",
-        "title": "Raducanu fala sobre boatos: “Estou feliz que a internet esteja se divertindo”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/raducanu_queens.jpg",
-        "date": "24/06/2025",
-        "description": "Londres (Inglaterra) –Emma Raducanu, nova número 1 do tênis britânico, respondeu às especulações sobre seu relacionamento com Carlos Alcaraz, após a notícia de que os dois jogariam duplas mistas no próximo US Open e de sua presença na quadra central de Queen’s para ver um jogo do espanhol."
     }
 ]

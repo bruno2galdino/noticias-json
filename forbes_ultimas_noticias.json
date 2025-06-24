@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/apos-quatro-sessoes-em-queda-ibovespa-fecha-em-alta/",
+        "title": "Após Quatro Sessões em Queda, Ibovespa Fecha em Alta",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "24/06/2025",
+        "description": "Agentes do mercado repercutiram ata do Copom e cessar-fogo na Ásia Ocidental"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/japao-e-outros-16-paises-retiram-restricoes-comerciais-a-carne-de-aves-brasileira/",
+        "title": "Japão e Outros 16 Países Retiram Restrições Comerciais À Carne de Aves Brasileira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Criacao-de-frangos-no-Rio-de-Janeiro-300x200.jpg",
+        "date": "24/06/2025",
+        "description": "O anúncio ocorre após a Organização Mundial da Saúde Animal (OMSA) ter considerado o caso de gripe aviária em uma granja comercial no Rio Grande do Sul como encerrado"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/segunda-safra-de-milho-por-ir-a-1233-milhoes-de-toneladas-no-brasil/",
+        "title": "Segunda Safra de Milho por Ir a 123,3 Milhões de Toneladas no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Milho-300x200.jpg",
+        "date": "24/06/2025",
+        "description": "As boas condições climáticas ajudaram a produtividade em muitos dos principais Estados produtores de milho"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/festa-de-casamento-de-bezos-em-veneza-e-transferida-para-area-isolada-por-questoes-de-seguranca/",
+        "title": "Festa de Casamento de Bezos em Veneza É Transferida para Área Isolada por Questões de Segurança",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Vista-de-Veneza-300x200.jpg",
+        "date": "24/06/2025",
+        "description": "Moradores locais e grupos anunciaram mais protestos para sábado, prometendo tornar o evento um \"pesadelo\" para Bezos e seus convidados"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/06/maison-dodoma-a-nova-experiencia-de-sergio-k-em-sp/",
         "title": "Maison Dodoma: a Nova Experiência de Sergio K em SP",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/padrao-Forbes-2025-06-24T155535.372-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Kleverson_Maggi_Scheffer_17jun25_V.Ondei_-300x200.jpg",
         "date": "24/06/2025",
         "description": "Saiba como vem atuando a nova geração do agro que faz parte do grupo de sucessores formado diretamente pelos pioneiros do cultivo em larga escala no Centro-Oeste"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/06/como-a-new-balance-deixou-de-ser-o-tenis-de-pai-e-conquistou-destaque-na-nba/",
-        "title": "Como a New Balance Deixou de Ser o \"Tênis de Pai\" e Conquistou Destaque na NBA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Design-sem-nome-5-300x200.png",
-        "date": "24/06/2025",
-        "description": "Ao assinar com Cooper Flagg, Shohei Ohtani, Coco Gauff e outros jovens astros, a marca de calçados e roupas esportivas, com 119 anos de história, está em uma missão para redefinir seu papel no topo do esporte mundial"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/anec-eleva-em-44-previsao-de-exportacao-de-soja-do-brasil-em-junho/",
-        "title": "Anec Eleva em 4,4% Previsão de Exportação de Soja do Brasil em Junho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Soja-sendo-carregada-em-caminhao-300x200.jpg",
-        "date": "24/06/2025",
-        "description": "Com recuo na estimativa semanal, exportações de farelo de soja devem fechar junho abaixo do volume registrado no mesmo mês de 2024"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/sao-martinho-espera-alta-de-37-em-cana-processada/",
-        "title": "São Martinho Espera Alta de 3,7% em Cana Processada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/2025-02-14T235531Z_1_LYNXMPEL1D0XT_RTROPTP_4_COMMODS-SAOMARTINHO-BALANCO-1-300x200.jpg",
-        "date": "24/06/2025",
-        "description": "Apesar do clima desfavorável, empresa destaca o uso de variedades mais produtivas como fator de equilíbrio nas projeções do canavial até 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/putin-autoriza-criacao-de-aplicativo-de-mensagens-estatal-para-combater-whatsapp-e-telegram/",
-        "title": "Putin Autoriza Criação de Aplicativo de Mensagens Estatal para Combater Whatsapp e Telegram",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-24T134040Z_1_LYNXMPEL5N0RR_RTROPTP_4_RUSSIA-PUTIN-APP-MENSAGEM-300x200.jpg",
-        "date": "24/06/2025",
-        "description": "Em meio ao isolamento crescente, Moscou acelera a criação de alternativas locais a plataformas ocidentais, reforçando sua estratégia de autossuficiência digital"
     }
 ]
