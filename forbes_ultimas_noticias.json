@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/06/maison-dodoma-a-nova-experiencia-de-sergio-k-em-sp/",
+        "title": "Maison Dodoma: a Nova Experiência de Sergio K em SP",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/padrao-Forbes-2025-06-24T155535.372-300x200.jpg",
+        "date": "24/06/2025",
+        "description": "Empreitada do estilista e dois sócios une bistrô francês, coquetelaria autoral e clube intimista em espaço temporário nos Jardins"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/06/fernando-maluf-cancer-de-ovario-o-tumor-ginecologico-mais-letal-e-os-novos-caminhos-da-imunoterapia/",
+        "title": "Câncer de Ovário: O Tumor Ginecológico Mais Letal e Os Novos Caminhos da Imunoterapia",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/04/Cancer-ovario-endometrio-medica-300x200.jpg",
+        "date": "24/06/2025",
+        "description": "INCA estima 7 mil casos de câncer de ovário no Brasil, em 2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/por-que-wall-street-dispara-apesar-das-tarifas-e-das-tensoes-geopoliticas/",
+        "title": "Por Que Wall Street Dispara Apesar das Tarifas e das Tensões Geopolíticas?",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/01/money-wall-street-investimentos-300x200.jpg",
+        "date": "24/06/2025",
+        "description": "O S&P 500 subiu mais de 25% desde o seu ponto mais baixo em abril"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/brasil-ja-perdeu-94-da-populacao-de-jumentos-e-risco-de-extincao-e-iminente/",
+        "title": "Brasil Já Perdeu 94% da População de Jumentos e Risco de Extinção É Iminente",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_jumento_17jun25_Getty-300x200.jpg",
+        "date": "24/06/2025",
+        "description": "Segundo especialistas isso seria uma perda irreparável para a biodiversidade e para as comunidades rurais que dependem do animal"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/por-que-lancamento-de-taxi-robo-da-tesla-foi-a-parte-mais-facil/",
         "title": "Por Que Lançamento de Táxi Robô da Tesla Foi a Parte Mais Fácil",
         "image": "https://forbes.com.br/wp-content/uploads/2024/01/Tesla-Getty-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-24T134040Z_1_LYNXMPEL5N0RR_RTROPTP_4_RUSSIA-PUTIN-APP-MENSAGEM-300x200.jpg",
         "date": "24/06/2025",
         "description": "Em meio ao isolamento crescente, Moscou acelera a criação de alternativas locais a plataformas ocidentais, reforçando sua estratégia de autossuficiência digital"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/forbes-mulher-agro-setor-produtivo-e-educacao-a-parceria-que-pode-salvar-o-brasil-de-um-colapso-social-e-economico/",
-        "title": "Setor Produtivo e Educação: a Parceria Que Pode Salvar o Brasil de um Colapso",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_EducacaoAgro_23JUN2025_Getty-300x200.png",
-        "date": "24/06/2025",
-        "description": "O agronegócio é um exemplo de que quando a realidade do campo entra na sala de aula, os jovens respondem com entusiasmo"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/06/morre-brasileira-que-caiu-em-trilha-de-vulcao-na-indonesia/",
-        "title": "Morre Brasileira Que Caiu em Trilha de Vulcão na Indonésia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/juliana_marinspb-300x200.webp",
-        "date": "24/06/2025",
-        "description": "Acidente foi no sábado, mas o resgate só chegou até ela nesta terça-feira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/petroleo-tem-nova-queda-diante-de-leitura-de-menor-risco-pelo-mercado/",
-        "title": "Petróleo Tem Nova Queda Diante de Leitura de 'Menor Risco' Pelo Mercado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/money-petroleo-02mar22-Angus-Mordant-reuters-300x200.webp",
-        "date": "24/06/2025",
-        "description": "Para agentes, o risco de interrupção da oferta da commodity pela região caiu"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/entidade-internacional-faz-alerta-severo-sobre-stablecoins/",
-        "title": "Entidade Internacional Faz Alerta Severo sobre Stablecoins",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/05/stablecoins-forbesmoney-300x200.jpg",
-        "date": "24/06/2025",
-        "description": "Bank of International Settlements alertou sobre os riscos dessas criptomoedas e solicitou que países avancem na tokenização"
     }
 ]
