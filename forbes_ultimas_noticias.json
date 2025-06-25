@@ -14,6 +14,13 @@
         "description": "Atriz fala sobre sua trajetória, desafios e aprendizados em programa apresentado por Johnnie Walker"
     },
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/brasil-eleva-misturas-de-etanol-e-biodiesel-e-levanta-bandeira-da-descarbonizacao/",
+        "title": "Brasil Eleva Misturas de Etanol e Biodiesel e Levanta Bandeira da Descarbonização",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_etanol_biodiesel_27jun25_getty-300x200.jpg",
+        "date": "25/06/2025",
+        "description": "Biocombustíveis desempenham papel importante no setor de transporte global e na redução das emissões de gases de efeito estufa associadas à queima de combustíveis"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/06/senado-aprova-cota-de-30-para-mulheres-em-conselhos-de-estatais/",
         "title": "Senado Aprova Cota de 30% para Mulheres em Conselhos de Estatais",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-mulheres-em-conselhos-1-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/11/money-federal-reserve-300x200.jpg",
         "date": "25/06/2025",
         "description": "O presidente tem criticado Powell repetidamente por não reduzir a taxa de juros e tem levantado a ideia de demiti-lo ou nomear um sucessor em breve"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/openai-diz-que-chinesa-zhipu-ai-esta-ganhando-terreno-em-meio-a-investida-de-pequim-em-ia/",
-        "title": "OpenAI Diz Que Chinesa Zhipu AI Está Ganhando Terreno em Meio À Investida de Pequim em IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-25T143726Z_1_LYNXMPEL5O0R4_RTROPTP_3_OPENAI-RESTRUCTURING-300x200.jpg",
-        "date": "25/06/2025",
-        "description": "China avança na construção de um ecossistema próprio de IA, buscando autonomia tecnológica e protagonismo global frente aos EUA"
     }
 ]
