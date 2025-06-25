@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/bolsas-de-valores-dos-eua-e-sec-negociam-para-flexibilizar-regulamentacoes/",
+        "title": "Bolsas de Valores dos EUA e SEC Negociam para Flexibilizar Regulamentações",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/12/nasdaq_31221_Brendan-McDermid-Reuters.jpg",
+        "date": "25/06/2025",
+        "description": "As negociações estão em andamento há vários meses e ocorrem em meio a um novo impulso para flexibilização"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/vendas-da-tesla-na-europa-caem-pelo-quinto-mes-consecutivo/",
+        "title": "Vendas da Tesla na Europa Caem Pelo Quinto Mês Consecutivo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Money_Tesla_26ABR25_Getty-300x200.jpg",
+        "date": "25/06/2025",
+        "description": "Montadora também sofreu queda em sua participação no mercado europeu, perdendo espaço para veículos chineses"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/gripe-aviaria-dezesseis-paises-retiram-restricao-de-carne-do-brasil/",
+        "title": "Gripe Aviária: Dezesseis Países Retiram Restrição de Carne do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_gripe_aviaria_H5N1_02dez24_Peter-Garrard-Beck_GettyImages-300x200.jpg",
+        "date": "25/06/2025",
+        "description": "País é o maior exportador de carne de frango e já havia se autodeclarado livre da doença"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/o-que-diz-o-artigo-19-do-marco-civil-da-internet-mencionado-pelo-ceo-do-google/",
+        "title": "O Que Diz o Artigo 19 do Marco Civil da Internet, Mencionado Pelo CEO do Google",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/10/carreira-fabio-coelho-google-300x200.jpg",
+        "date": "25/06/2025",
+        "description": "De acordo com Fábio Coelho, a big tech pode considerar limitar sua atuação no Brasil, dependendo das alterações relacionadas à responsabilização das empresas"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/06/as-top-5-materias-mais-clicadas-no-site-da-forbes-em-junho/",
+        "title": "As Top 5 Matérias Mais Clicadas no Site da Forbes em Junho",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "25/06/2025",
+        "description": "Quais foram as matérias mais acessadas no último mês"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-alivio-no-oriente-medio-e-foco-nas-declaracoes-de-powell/",
         "title": "Pré-mercado: Alívio no Oriente Médio e Foco nas Declarações de Powell",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/IA-Sustentabilidade-300x200.png",
         "date": "25/06/2025",
         "description": "A inteligência artificial não irá, sozinha, salvar ou destruir o planeta, mas ela já está se mostrando uma aliada poderosa na luta por um futuro mais sustentável"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/startup-que-usa-ia-para-economizar-agua-na-agricultura-recebe-us-75-milhoes/",
-        "title": "Startup Que Usa IA para Economizar Água na Agricultura Recebe US$ 7,5 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/JairoTrad_Kilimo_23JUN2025_ForbesArgentina-300x200.png",
-        "date": "25/06/2025",
-        "description": "Com o aporte, Jairo Trad, CEO da Kilimo, pretende escalar projetos de uso eficiente e sustentável dos recursos hídricos na América Latina"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/06/mark-travers-2-maneiras-pelas-quais-o-trauma-infantil-reconecta-o-cerebro/",
-        "title": "2 Maneiras Pelas Quais o \"Trauma Infantil\" Reconecta o Cérebro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Traumas-infantis-300x200.jpg",
-        "date": "25/06/2025",
-        "description": "Segundo um psicólogo, experiências adversas na infância afetam a saúde mental na vida adulta, e os mecanismos por trás dessa ligação ainda são pouco compreendidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-collab/2025/06/do-local-ao-global-o-potencial-do-brasil-para-criar-empreendedores-de-alto-impacto/",
-        "title": "Do Local Ao Global: O Potencial do Brasil para Criar Empreendedores de Alto Impacto",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-666002224-300x200.jpeg",
-        "date": "25/06/2025",
-        "description": "Com presença marcante em evento global, Brasil consolida papel de protagonista ao levar empresas que já atuam no exterior com ousadia e inovação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/por-que-o-petroleo-esta-desabando-durante-conflito-ira-israel/",
-        "title": "Por Que o Petróleo Está Desabando Durante Conflito Irã-Israel",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/12/Money_petroleo-300x200.jpg",
-        "date": "25/06/2025",
-        "description": "Diferentemente do que ocorreu na Guerra da Ucrânia, commodity está em queda mesmo com a influência do Irã em sua produção e exportação"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/le-bristol-paris-inaugura-nova-suite-de-us-46-mil-a-diaria/",
-        "title": "Le Bristol Paris Inaugura Nova Suíte de US$ 46 Mil a Diária",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Suite-Imperiale-do-Le-Bristol-Paris-300x200.jpg",
-        "date": "25/06/2025",
-        "description": "Uma das maiores e mais caras suítes da Cidade Luz acaba de ser repaginada em comemoração ao centenário do hotel; veja como ela é por dentro"
     }
 ]
