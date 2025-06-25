@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/openai-diz-que-chinesa-zhipu-ai-esta-ganhando-terreno-em-meio-a-investida-de-pequim-em-ia/",
+        "title": "OpenAI Diz Que Chinesa Zhipu AI Está Ganhando Terreno em Meio À Investida de Pequim em IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-25T143726Z_1_LYNXMPEL5O0R4_RTROPTP_3_OPENAI-RESTRUCTURING-300x200.jpg",
+        "date": "25/06/2025",
+        "description": "China avança na construção de um ecossistema próprio de IA, buscando autonomia tecnológica e protagonismo global frente aos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/migracao-de-riqueza-conheca-os-paises-que-sao-um-plano-b-para-os-milionarios/",
+        "title": "Migração de Riqueza: Conheça os Países Que São um \"Plano B\" para os Milionários",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-8-300x200.png",
+        "date": "25/06/2025",
+        "description": "Emirados Árabes e Estados Unidos estão atraindo os mais ricos, enquanto Reino Unido e China estão vendo os super ricos os abandonando"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/louis-vuitton-viaja-a-india-para-construir-colecao-masculina-leve-e-cosmopolita-para-verao-2026/",
+        "title": "Louis Vuitton Viaja À Índia para Coleção Masculina do Verão 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Louis-Vuitton-Men-Summer-2026-300x200.jpg",
+        "date": "25/06/2025",
+        "description": "O diretor criativo Pharrell Williams armou passarela grandiosa em frente ao museu Pompidou, em Paris, para apresentar propostas de alfaiataria em cores lavadas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/06/expert-xp-2025-recebe-lideres-de-grandes-gestoras-e-celebra-a-forca-feminina-no-mercado-financeiro/",
         "title": "Expert XP 2025 recebe líderes de grandes gestoras e celebra a força feminina no mercado financeiro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/bv_xp_jun25-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/10/carreira-fabio-coelho-google-300x200.jpg",
         "date": "25/06/2025",
         "description": "De acordo com Fábio Coelho, a big tech pode considerar limitar sua atuação no Brasil, dependendo das alterações relacionadas à responsabilização das empresas"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/06/as-top-5-materias-mais-clicadas-no-site-da-forbes-em-junho/",
-        "title": "As Top 5 Matérias Mais Clicadas no Site da Forbes em Junho",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
-        "date": "25/06/2025",
-        "description": "Quais foram as matérias mais acessadas no último mês"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-alivio-no-oriente-medio-e-foco-nas-declaracoes-de-powell/",
-        "title": "Pré-mercado: Alívio no Oriente Médio e Foco nas Declarações de Powell",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "25/06/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 25 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/infomercial-w1-plataforma-promete-transformar-as-financas/",
-        "title": "Plataforma Promete Transformar as Finanças",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/w1-if-junho-300x200.png",
-        "date": "25/06/2025",
-        "description": "Com a meta de alcançar 100 mil usuários em 2025, S1NC redefine o controle financeiro no Brasil"
     }
 ]
