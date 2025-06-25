@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/no-reino-unido-cit-lanca-app-financeiro-para-pessoas-com-deficiencia-intelectual/",
+        "title": "No Reino Unido, CI&T Lança App Financeiro para Pessoas com Deficiência Intelectual",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Solange-300x200.jpg",
+        "date": "25/06/2025",
+        "description": "A plataforma foi desenvolvida em parceria com o Project Nemo, como conta Solange Sobral, VP da empresa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/trump-diz-que-esta-considerando-tres-ou-quatro-nomes-para-o-comando-do-fed/",
+        "title": "Trump Diz Que Está Considerando Três ou Quatro Nomes para o Comando do Fed",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/11/money-federal-reserve-300x200.jpg",
+        "date": "25/06/2025",
+        "description": "O presidente tem criticado Powell repetidamente por não reduzir a taxa de juros e tem levantado a ideia de demiti-lo ou nomear um sucessor em breve"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/openai-diz-que-chinesa-zhipu-ai-esta-ganhando-terreno-em-meio-a-investida-de-pequim-em-ia/",
         "title": "OpenAI Diz Que Chinesa Zhipu AI Está Ganhando Terreno em Meio À Investida de Pequim em IA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-25T143726Z_1_LYNXMPEL5O0R4_RTROPTP_3_OPENAI-RESTRUCTURING-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/Money_Tesla_26ABR25_Getty-300x200.jpg",
         "date": "25/06/2025",
         "description": "Montadora também sofreu queda em sua participação no mercado europeu, perdendo espaço para veículos chineses"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/gripe-aviaria-dezesseis-paises-retiram-restricao-de-carne-do-brasil/",
-        "title": "Gripe Aviária: Dezesseis Países Retiram Restrição de Carne do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_gripe_aviaria_H5N1_02dez24_Peter-Garrard-Beck_GettyImages-300x200.jpg",
-        "date": "25/06/2025",
-        "description": "País é o maior exportador de carne de frango e já havia se autodeclarado livre da doença"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/o-que-diz-o-artigo-19-do-marco-civil-da-internet-mencionado-pelo-ceo-do-google/",
-        "title": "O Que Diz o Artigo 19 do Marco Civil da Internet, Mencionado Pelo CEO do Google",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/10/carreira-fabio-coelho-google-300x200.jpg",
-        "date": "25/06/2025",
-        "description": "De acordo com Fábio Coelho, a big tech pode considerar limitar sua atuação no Brasil, dependendo das alterações relacionadas à responsabilização das empresas"
     }
 ]
