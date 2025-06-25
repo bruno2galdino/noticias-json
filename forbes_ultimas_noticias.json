@@ -21,6 +21,13 @@
         "description": "País africano é um grande importador de alimentos para seus mais de 200 milhões de habitantes"
     },
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/demanda-global-de-cafe-caira-05-em-2025-diz-rabobank/",
+        "title": "Demanda Global de Café Cairá 0,5% em 2025, Diz Rabobank",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_cafe_lavoura_17jun25_Getty-300x200.jpg",
+        "date": "24/06/2025",
+        "description": "Segundo o relatório, demanda está claramente enfraquecida em grandes mercados como o Brasil e a Alemanha"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/vitoria-historica-ira-e-israel-declaram-se-vencedores-apos-cessar-fogo/",
         "title": "'Vitória Histórica': Irã e Israel Declaram-se Vencedores, após Cessar-fogo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-13T005238Z_1_LYNXMPEL5C00V_RTROPTP_4_ISRAEL-PALESTINIANS-IRAN-1-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/padrao-Forbes-2025-06-24T155535.372-300x200.jpg",
         "date": "24/06/2025",
         "description": "Empreitada do estilista e dois sócios une bistrô francês, coquetelaria autoral e clube intimista em espaço temporário nos Jardins"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/06/fernando-maluf-cancer-de-ovario-o-tumor-ginecologico-mais-letal-e-os-novos-caminhos-da-imunoterapia/",
-        "title": "Câncer de Ovário: O Tumor Ginecológico Mais Letal e Os Novos Caminhos da Imunoterapia",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/04/Cancer-ovario-endometrio-medica-300x200.jpg",
-        "date": "24/06/2025",
-        "description": "INCA estima 7 mil casos de câncer de ovário no Brasil, em 2025"
     }
 ]
