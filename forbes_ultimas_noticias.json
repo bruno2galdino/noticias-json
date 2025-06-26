@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://forbes.com.br/forbesagro/2025/06/ia-na-agroalimentacao-sensacionalismo-esperanca-e-as-perguntas-dificeis-que-os-ceos-devem-fazer-agora/",
-        "title": "IA no Agro: Sensacionalismo, Esperança e as Perguntas Difíceis Que os CEOs Devem Fazer Agora",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_patro_comida_27jun25_getty-300x200.jpg",
-        "date": "26/06/2025",
-        "description": "Saiba por que executivos e produtores precisam agir agora para não perder espaço diante da revolução silenciosa que já está mudando a produção de alimentos"
-    },
-    {
         "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-derrotas-do-governo-no-congresso-elevam-risco-fiscal/",
         "title": "Pré-mercado: Derrotas do Governo no Congresso Elevam Risco Fiscal",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -54,6 +47,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/GettyImages-1047731498-300x200.jpg",
         "date": "26/06/2025",
         "description": "A juventude brasileira está à deriva, mas soluções simples já mostram impacto"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/ia-na-agroalimentacao-sensacionalismo-esperanca-e-as-perguntas-dificeis-que-os-ceos-devem-fazer-agora/",
+        "title": "IA no Agro: Sensacionalismo, Esperança e as Perguntas Difíceis Que os CEOS Devem Fazer Agora",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_patro_comida_27jun25_getty-300x200.jpg",
+        "date": "26/06/2025",
+        "description": "Saiba por que executivos e produtores precisam agir agora para não perder espaço diante da revolução silenciosa que já está mudando a produção de alimentos"
     },
     {
         "url": "https://forbes.com.br/forbesesg/2025/06/ira-israel-e-o-legado-perdido-da-cooperacao-em-recursos-naturais/",
