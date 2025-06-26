@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/federacao-paulista-convoca-equipe-para-a-copa-das-federacoes.html",
+        "title": "Federação Paulista convoca equipe para a Copa das Federações",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/FPT_Copa-federacao.jpg",
+        "date": "25/06/2025",
+        "description": "São Paulo (SP) –A Federação Paulista de Tênis (FPT) anunciou, nesta quarta-feira, a equipe que representará o estado de São Paulo na edição de 2025 da Copa das Federações de Tênis, que será disputada de 20 a 24 de julho, no tradicional Praia Clube de Uberlândia, em Minas Gerais."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/juvenis-brasileiros-vao-as-quartas-no-equador-e-na-belgica.html",
+        "title": "Juvenis brasileiros vão às quartas no Equador e na Bélgica",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/duda_carbone_rgjunior_fore-1024x513.jpg",
+        "date": "25/06/2025",
+        "description": "Salinas (Equador) –Cinco juvenis brasileiros estão nas quartas de final do ITF J100 de Salinas, em quadras de saibro no Equador. A chave masculina tem Pedro Dietrich, Felipe Mamede e Nicholas Carneiro, enquanto Clara Elkind e Valentina Huang seguem na disputa feminina."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/nana-vence-na-grama-e-enfrenta-top-5-do-ranking-juvenil.html",
         "title": "Naná vence na grama e enfrenta top 5 do ranking juvenil",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/nana_leo_danilo.jpg",
         "date": "25/06/2025",
-        "description": "Londres (Inglagterra) –A quarta-feira em Londres foi especial para Nauhany Silva, que venceu uma partida em quadras de grama pela primeira vez. Convidada para participar do Giorgio Armani Tennis Classic, prestigiada série de exibições do Hurlingham Club, Naná venceu a norte-americana Thea Frodin por 7/6 (7-4), 5/7 e 10-8."
+        "description": "Londres (Inglagterra) –A quarta-feira em Londres foi especial para Nauhany Silva, que venceu uma partida em quadras de grama pela primeira vez. Convidada para participar do Giorgio Armani Tennis Classic, prestigiada série de exibições do Hurlingham Club, Naná venceu a norte-americana Thea Frodin, 22ª do ranking, por 7/6 (7-4), 5/7 e 10-8."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-25-06.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/krejcikova_trofeu.jpg",
         "date": "25/06/2025",
         "description": "Londres (Inglaterra) –A tcheca Barbora Krejcikova, campeã no ano passado de Wimbledon, seu segundo título de simples de Grand Slam, teve nesta semana a emoção de ver e carregar o troféu feminino até o All England Club onde foi recebida com carinho."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/carreira-dos-arbitros-de-tenis-preocupa-carlos-bernardes.html",
-        "title": "Carreira dos árbitros de tênis preocupa Carlos Bernardes",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/pod_bernardes.jpg",
-        "date": "25/06/2025",
-        "description": "Com a longa e bem sucedida carreira encerrada no final do ano passado, após quatro décadas de viagens pelo mundo, Carlos Bernardes lembrou passagens pitorescas de sua atuação como um dos mais respeitados árbitros internacionais noPodcast de TenisBrasildesta semana."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/duelo-entre-fonseca-e-fritz-e-suspenso-antes-do-terceiro-set.html",
-        "title": "Duelo entre Fonseca e Fritz é suspenso antes do terceiro set",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/fonseca-roland-garros-rebate-2025-1024x683.jpeg",
-        "date": "25/06/2025",
-        "description": "Eastbourne (Inglaterra) –A partida entre João Fonseca e Taylor Fritz pela segunda rodada do ATP 250 de Eastbourne precisou ser suspensa por falta de luz natural. Fritz havia vencido o primeiro set por 6/3, enquanto Fonseca fez 7/6 (7-5) na segunda parcial, após 1h24."
     }
 ]
