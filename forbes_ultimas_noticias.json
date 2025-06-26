@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/listas/2025/06/lista-50-over-50-e-destaque-da-nova-edicao-da-forbes-brasil-2/",
+        "title": "Lista 50 Over 50 é destaque da nova edição da Forbes Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/129_roberto-kalil-300x200.jpg",
+        "date": "26/06/2025",
+        "description": "Edição 129, que tem Roberto Kalil na capa, já está disponível no app da revista"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/para-ceo-do-inter-ia-acelera-a-missao-da-plataforma-de-tornar-se-um-super-app/",
         "title": "Para CEO do Inter, IA acelera a missão da plataforma de tornar-se um Super App",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/AlexandreRiccio1-300x200.jpg",
@@ -22,7 +29,7 @@
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/06/esqueca-os-hoteis-alugar-vilarejos-inteiros-e-a-nova-tendencia-de-ferias-para-o-verao/",
-        "title": "Esqueça os Hotéis: Alugar Vilarejos Inteiros É a Nova Tendência de Férias para o Verão",
+        "title": "Esqueça os Hotéis: Alugar Vilarejos É a Nova Tendência",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Castelnau-des-Fieumarcons-por-isasouri-300x200.jpg",
         "date": "26/06/2025",
         "description": "Entre as opções estão uma vila medieval italiana com castelo e teatro barroco, e uma aldeia francesa com igreja a céu aberto e chef estrelado pelo Michelin"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/960x0-6-300x200.jpg",
         "date": "26/06/2025",
         "description": "Essas três perguntas ajudam casais de longa data a manter o foco no que realmente importa — e a lembrar que ainda estão do mesmo lado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/06/como-laiz-carvalho-superou-barreiras-e-se-tornou-referencia-no-mercado-financeiro/",
-        "title": "Como Laiz Carvalho Superou Barreiras e se Tornou Referência no Mercado Financeiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-laiz-carvalho-bnp-paribas-300x200.jpg",
-        "date": "26/06/2025",
-        "description": "Primeira mulher negra a ocupar o cargo de economista-chefe no Brasil, executiva hoje lidera a cobertura do país no BNP Paribas"
     }
 ]
