@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/06/google-avalia-impacto-da-mudanca-no-artigo-19-do-marco-civil-da-internet/",
+        "title": "Google avalia impacto da mudança no Artigo 19 do Marco Civil da Internet",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Logo-do-Google-300x200.png",
+        "date": "27/06/2025",
+        "description": "A empresa se manifestou oficialmente na tarde desta sexta-feira (27), após a decisão do Supremo Tribunal Federal (STF)"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/peixe-ornamental-tambem-e-agro-e-brasil-abre-esse-mercado-no-uruguai/",
+        "title": "Peixe Ornamental Também É Agro e Brasil Abre Esse Mercado no Uruguai",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_peixes_ornamentais_porto-de-galinhas_28jun25_Getty-300x200.jpg",
+        "date": "27/06/2025",
+        "description": "No ano passado, esses animais renderam ao país US$ 4 milhões, dos quais US$ 2,6 milhões foram de espécies enviadas aos países asiáticos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/tensoes-no-oriente-medio-impactam-mercado-de-insumos-no-brasil/",
+        "title": "Tensões no Oriente Médio Impactam Mercado de Insumos no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Insumos_23JUN2025_Getty-1-300x200.jpg",
+        "date": "27/06/2025",
+        "description": "O Irã é responsável por atender de 17% a 20% da demanda de fertilizantes de ureia do país, um importante nutriente para o milho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/importacoes-chinesas-de-petroleo-do-ira-aumentam-em-junho/",
+        "title": "Importações Chinesas de Petróleo do Irã Aumentam em Junho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-27T130521Z_1_LYNXMPEL5Q0I6_RTROPTP_4_CHINA-PETROLEO-IRA-300x200.jpg",
+        "date": "27/06/2025",
+        "description": "Eventual flexibilização das sanções dos EUA ao petróleo iraniano pode ampliar ainda mais compras da China"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/06/mapa-capital-podera-controlar-casas-bahia-em-conversao-de-debentures/",
         "title": "Mapa Capital Poderá Controlar Casas Bahia em Conversão de Debêntures",
         "image": "https://forbes.com.br/wp-content/uploads/2025/03/Casas-Bahia-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2022/09/emprego-1-300x200.jpg",
         "date": "27/06/2025",
         "description": "De fevereiro a maio, percentual recuou 0,6 ponto percentual, indicando que o mercado de trabalho segue aquecido"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/06/quem-e-cintia-moreira-a-nova-ceo-da-dengo/",
-        "title": "Quem é a Nova CEO da Dengo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/mulher-cintia-moreira-ceo-dengo-1-300x200.jpg",
-        "date": "27/06/2025",
-        "description": "Executiva já liderava a área comercial da empresa e assume a presidência com o compromisso de fortalecer a expansão da marca de chocolates bean-to-bar"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/pre-mercado-apos-queda-inesperada-no-pib-foco-e-a-inflacao-americana/",
-        "title": "Pré-mercado: após Queda Inesperada no PIB, Foco É a Inflação Americana",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "27/06/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 27 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/06/a-melhor-ipa-dos-eua-segundo-o-international-beer-and-cider-awards/",
-        "title": "A Melhor IPA dos EUA, Segundo o International Beer And Cider Awards",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_cerveja_IPA_27jun25_getty-300x200.jpg",
-        "date": "27/06/2025",
-        "description": "Elas foram a categoria mais popular da competição deste ano, na qual os juízes avaliaram cerca de 1.500 bebidas"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/06/o-que-the-bear-ensina-sobre-tempo-proposito-e-lideranca-sob-pressao/",
-        "title": "O Que “The Bear” Ensina sobre Liderança",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-the-bear-jeremy-allen-white-300x200.jpg",
-        "date": "27/06/2025",
-        "description": "Com a estreia da quarta temporada no Disney+, série premiada volta a explorar os bastidores da gastronomia — e revela lições valiosas para qualquer carreira"
     }
 ]
