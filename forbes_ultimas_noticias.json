@@ -1,8 +1,29 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/nike-diz-que-tarifas-dos-eua-elevarao-custos-em-us1-bi/",
+        "title": "Nike Diz Que Tarifas dos EUA Elevarão Custos em US$1 Bi",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-18T234303Z_1_LYNXMPEL5H19X_RTROPTP_4_NIKE-RESULTS-1-300x200.jpg",
+        "date": "27/06/2025",
+        "description": "Empresa detalhou plano sobre como pretende reduzir sua dependência da produção chinesa"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/06/cecilia-preto-alexandre-ex-heineken-e-kraft-heinz-e-a-nova-cmo-da-cea/",
+        "title": "Cecília Preto Alexandre É a Nova CMO da C&A",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/mulher-cecilia-preto-alexandre-cea-300x200.jpg",
+        "date": "27/06/2025",
+        "description": "Executiva com 25 anos de carreira no marketing também acumula passagens por BRF, Ambev e Mondelēz"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/brasil-tem-recorde-de-emprego-com-carteira-com-taxa-de-desemprego-de-62/",
+        "title": "Brasil Tem Recorde de Emprego com Carteira, Com Taxa de Desemprego de 6,2%",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/09/emprego-1-300x200.jpg",
+        "date": "27/06/2025",
+        "description": "De fevereiro a maio, percentual recuou 0,6 ponto percentual, indicando que o mercado de trabalho segue aquecido"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/06/quem-e-cintia-moreira-a-nova-ceo-da-dengo/",
         "title": "Quem É a Nova CEO da Dengo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/mulher-cintia-moreira-ceo-dengo-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/mulher-cintia-moreira-ceo-dengo-1-300x200.jpg",
         "date": "27/06/2025",
         "description": "Executiva já liderava a área comercial da empresa e assume a presidência com o compromisso de fortalecer a expansão da marca de chocolates bean-to-bar"
     },
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-23-300x200.jpg",
         "date": "27/06/2025",
         "description": "A época junina aquece o comércio em todo o país e a supera o carnaval em gastos e popularidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/voce-pagaria-mais-por-uma-carne-com-selo-do-pantanal-so-147-fazendas-no-pais-tem-esse-diferencial/",
-        "title": "Você Pagaria Mais por uma Carne com Selo do Pantanal? Só 147 Fazendas no País Têm Esse Diferencial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_carne-_27jun25_Getty-300x200.jpg",
-        "date": "27/06/2025",
-        "description": "No coração de um dos biomas mais emblemáticos do Brasil, um grupo seleto de produtores está mudando a lógica da pecuária e sendo pago por isso"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/06/cuidado-o-uso-inconsciente-do-chatgpt-pode-custar-o-banho-de-alguem/",
-        "title": "Cuidado: o Uso Inconsciente do ChatGPT Pode Custar o Banho de Alguém",
-        "image": "https://forbes.com.br/wp-content/uploads/2020/01/Carreira_Motivação_160120_Getty3.jpg",
-        "date": "27/06/2025",
-        "description": "Estudos indicam que cerca de 500 ml de água pode ser usado para cada 20 a 50 interações de texto com IA"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/como-curtir-istambul-a-partir-de-dois-dos-melhores-hoteis-da-cidade/",
-        "title": "Como Curtir Istambul a Partir de Dois dos Melhores Hotéis da Cidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Four-Seasons-Istambul-13-300x200.jpg",
-        "date": "27/06/2025",
-        "description": "Entre a cidade antiga e o estreito do Bósforo, uma jornada por Istambul ganha novo fôlego nos dois Four Seasons na cidade; veja o que esperar da experiência"
     }
 ]
