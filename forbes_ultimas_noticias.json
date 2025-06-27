@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/06/como-brad-pitt-virou-vitrine-de-us-40-milhoes-no-filme-da-apple-sobre-formula-1/",
+        "title": "Como Brad Pitt Virou Vitrine de US$ 40 Milhões no Filme da Apple sobre Fórmula 1",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.O-equipamento-de-corrida-que-Brad-Pitt-e-Damson-Idris-usam-em-F1-apresenta-empresas-reais-que-pagaram-para-patrocinar-a-equipe-ficticia-de-Formula-1-300x200.jpg",
+        "date": "27/06/2025",
+        "description": "Longa-metragem financiado por marcas como Mercedes, IWC e Expensify exemplifica nova fase da integração entre cinema e publicidade, em aposta bilionária da Apple no mercado audiovisual"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/lula-promete-plano-safra-recorde-para-grandes-e-pequenos-produtores/",
+        "title": "Lula Promete Plano Safra Recorde para Grandes e Pequenos Produtores",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_safra_terra_-28jun25_Getty-300x200.jpg",
+        "date": "27/06/2025",
+        "description": "Mesmo com restrições fiscais, governo prepara anúncio de novos recursos; setor cobra juros menores e verba garantida para seguro rural"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/google-avalia-impacto-da-mudanca-no-artigo-19-do-marco-civil-da-internet/",
         "title": "Google avalia impacto da mudança no Artigo 19 do Marco Civil da Internet",
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/Logo-do-Google-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-18T234303Z_1_LYNXMPEL5H19X_RTROPTP_4_NIKE-RESULTS-1-300x200.jpg",
         "date": "27/06/2025",
         "description": "Empresa detalhou plano sobre como pretende reduzir sua dependência da produção chinesa"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/06/cecilia-preto-alexandre-ex-heineken-e-kraft-heinz-e-a-nova-cmo-da-cea/",
-        "title": "Cecília Preto Alexandre É a Nova CMO da C&A",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/mulher-cecilia-preto-alexandre-cea-300x200.jpg",
-        "date": "27/06/2025",
-        "description": "Executiva com 25 anos de carreira no marketing também acumula passagens por BRF, Ambev e Mondelēz"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/brasil-tem-recorde-de-emprego-com-carteira-com-taxa-de-desemprego-de-62/",
-        "title": "Brasil Tem Recorde de Emprego com Carteira, Com Taxa de Desemprego de 6,2%",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/09/emprego-1-300x200.jpg",
-        "date": "27/06/2025",
-        "description": "De fevereiro a maio, percentual recuou 0,6 ponto percentual, indicando que o mercado de trabalho segue aquecido"
     }
 ]
