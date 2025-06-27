@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/em-meio-a-preocupacoes-com-cenario-fiscal-ibovespa-e-dolar-fecham-em-queda/",
+        "title": "Em Meio a Preocupações com Cenário Fiscal, Ibovespa e Dólar Fecham em Queda",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "27/06/2025",
+        "description": "Dia foi marcado pela divulgação de dados referentes à inflação americana e ao desemprego no Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/boom-do-etanol-de-milho-no-brasil-cobre-demanda-de-maior-mistura-na-gasolina/",
+        "title": "Boom do Etanol de Milho Cobre Demanda de Maior Mistura na Gasolina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_EtanolDeMilhoFS_01ABR25_Getty-1-300x200.jpg",
+        "date": "27/06/2025",
+        "description": "Produção aumentou quase 31% em relação ao ano anterior, para 8,19 bilhões de litros, de acordo com a Unica"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/area-colhida-de-milho-2a-safra-de-mt-atinge-2699-do-total-colheita-de-algodao-comeca/",
         "title": "Área Colhida de Milho 2ª Safra de MT Atinge 26,99% do Total",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Milho-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-27T130521Z_1_LYNXMPEL5Q0I6_RTROPTP_4_CHINA-PETROLEO-IRA-300x200.jpg",
         "date": "27/06/2025",
         "description": "Eventual flexibilização das sanções dos EUA ao petróleo iraniano pode ampliar ainda mais compras da China"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/mapa-capital-podera-controlar-casas-bahia-em-conversao-de-debentures/",
-        "title": "Mapa Capital Poderá Controlar Casas Bahia em Conversão de Debêntures",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Casas-Bahia-300x200.jpg",
-        "date": "27/06/2025",
-        "description": "Acordo já era especulado após varejista revelar negociações para antecipar conversão de dívida em ações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/novo-salario-de-cristiano-ronaldo-sera-de-r-13-bi-por-ano/",
-        "title": "Novo salário de Cristiano Ronaldo será de R$ 1,3 Bi Por Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/10/9-1-300x200.png",
-        "date": "27/06/2025",
-        "description": "Atacante português é o atleta em atividade mais bem pago do mundo, segundo levantamento da Forbes"
     }
 ]
