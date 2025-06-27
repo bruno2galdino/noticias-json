@@ -28,13 +28,6 @@
         "description": "Com a estreia da quarta temporada no Disney+, série premiada volta a explorar os bastidores da gastronomia — e revela lições valiosas para qualquer carreira"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/06/ataque-cibernetico-mostra-como-o-fornecimento-de-alimentos-em-supermercados-e-vulneravel/",
-        "title": "Ataque Cibernético Mostra Como o Fornecimento de Alimentos em Supermercados É Vulnerável",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_Whole_Foods_supermercados_27jun25_Getty-300x200.jpg",
-        "date": "27/06/2025",
-        "description": "Como essa cadeia mostra uma parte frágil, onde softwares e não apenas a falta de produtos podem ser alvos"
-    },
-    {
         "url": "https://forbes.com.br/forbes-tech/2025/06/bradesco-estrutura-plataforma-propria-de-ia-generativa-para-aplicacoes-corporativas/",
         "title": "Bradesco Estrutura Plataforma Própria de IA Generativa para Aplicações Corporativas",
         "image": "https://forbes.com.br/wp-content/uploads/2023/12/Bradesco-300x200.png",
@@ -68,5 +61,12 @@
         "image": "https://forbes.com.br/wp-content/uploads/2020/01/Carreira_Motivação_160120_Getty3.jpg",
         "date": "27/06/2025",
         "description": "Estudos indicam que cerca de 500 ml de água pode ser usado para cada 20 a 50 interações de texto com IA"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/06/como-curtir-istambul-a-partir-de-dois-dos-melhores-hoteis-da-cidade/",
+        "title": "Como Curtir Istambul a Partir de Dois dos Melhores Hotéis da Cidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Four-Seasons-Istambul-13-300x200.jpg",
+        "date": "27/06/2025",
+        "description": "Entre a cidade antiga e o estreito do Bósforo, uma jornada por Istambul ganha novo fôlego nos dois Four Seasons na cidade; veja o que esperar da experiência"
     }
 ]
