@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/06/dolar-se-aproxima-dos-r-540-e-fecha-no-menor-valor-em-9-meses/",
+        "title": "Dólar se Aproxima dos R$ 5,40 e Fecha no Menor Valor em 9 Meses",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "30/06/2025",
+        "description": "Ibovespa encerra o mês com novo ganho mensal e acumula alta de 15% no ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/segunda-maior-produtora-da-ue-mesmo-com-seca-alemanha-vem-com-safra-maior-de-graos-neste-ano/",
+        "title": "Segunda Maior Produtora da UE, Mesmo com Seca Alemanha Vem com Safra Maior de Grãos Neste Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Soja-em-mercado-na-China-300x200.jpg",
+        "date": "30/06/2025",
+        "description": "A colheita dos insumos aumentará para 40,1 milhões de toneladas métricas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/colheita-da-2a-safra-de-milho-do-centro-sul-atinge-18/",
+        "title": "Colheita da 2ª Safra de Milho do Centro-Sul Atinge 18%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_milho_produtor_27jun25_CC_Getty-300x200.jpg",
+        "date": "30/06/2025",
+        "description": "O avanço das máquinas foi dificultado por geada e chuva, segundo o levantamento da AgRural"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/empresarios-reduzem-projecoes-para-taxa-de-cambio-6-meses-a-frente-mostra-pesquisa-do-bc/",
+        "title": "Empresários Reduzem Projeções para Taxa de Câmbio 6 Meses À Frente, Mostra Pesquisa do BC",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-dolar-reuters-300x200.jpg",
+        "date": "30/06/2025",
+        "description": "Apesar da perspectiva de um dólar não tão valorizado, as expectativas das empresas para o IPCA em 2025 permaneceu em 5,5% em maio"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/06/moagem-de-cana-do-centro-sul-cai-mais-do-que-o-esperado/",
         "title": "Moagem de Cana do Centro-Sul Cai Mais do Que o Esperado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/02/agro_cana-de-acucar_28fev25_Reuters-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_acai_29jun25_Getty-300x200.jpg",
         "date": "30/06/2025",
         "description": "Investimentos fortalecem a segurança climática, aumentam a produtividade e tornam a economia local mais resiliente"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/evasao-de-imigrantes-do-campo-deixa-safras-sem-colheita-na-california/",
-        "title": "Evasão de Imigrantes do Campo Deixa Safras sem Colheita na Califórnia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_ColheitaCalifonia_26JUN2025_Reuters-300x200.jpg",
-        "date": "30/06/2025",
-        "description": "A repressão migratória de Donald Trump assustou os trabalhadores do campo, que em sua maioria, estão no país ilegalmente"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/willy-chavarria-assina-um-dos-desfiles-mais-potentes-da-temporada-em-paris/",
-        "title": "Willy Chavarria Assina um dos Desfiles Mais Potentes da Temporada em Paris",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_Willy-Chavarria-pode-ser-o-proximo-a-assumir-a-direcao-criativa-da-Fendi-300x200.jpg",
-        "date": "30/06/2025",
-        "description": "O desfile ofereceu um lembrete urgente de que a moda pode — e deve — ser um espaço de pertencimento, resistência e poder"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/06/dalai-lama-deve-revelar-plano-de-sucessao-enquanto-china-observa/",
-        "title": "Dalai Lama Deve Revelar Plano de Sucessão Enquanto China Observa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-30T134049Z_1_LYNXMPEL5T0NQ_RTROPTP_4_TIBET-DALAI-LAMA-300x200.jpg",
-        "date": "30/06/2025",
-        "description": "Líder espiritual tibetano desafia Pequim e afirma que seu sucessor nascerá fora da China, rejeitando controle chinês sobre sua sucessão"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/06/hermes-reafirma-seu-talento-para-fazer-do-simples-um-luxo-para-o-verao-2026/",
-        "title": "Hermès Reafirma Seu Talento para Fazer do Simples um Luxo para o Verão 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Em-seu-verao-2026-a-Hermes-conta-com-suaves-ideias-para-o-trabalho-na-cidade-o-lazer-no-balneario-e-ate-para-festas-descontraidas-nos-dois-ambientes-300x200.jpg",
-        "date": "30/06/2025",
-        "description": "Sob comando da designer Véronique Nichanian, grife francesa fez sua nova coleção masculina pensando no homem urbano"
     }
 ]
