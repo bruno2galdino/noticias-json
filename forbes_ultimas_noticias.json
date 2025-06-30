@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/06/moagem-de-cana-do-centro-sul-cai-mais-do-que-o-esperado/",
+        "title": "Moagem de Cana do Centro-Sul Cai Mais do Que o Esperado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/agro_cana-de-acucar_28fev25_Reuters-300x200.jpg",
+        "date": "30/06/2025",
+        "description": "A produção de açúcar somou 2,45 milhões de toneladas na primeira quinzena de julho"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/entregas-de-acucar-no-contrato-julho-da-ice-sao-as-menores-em-volume-desde-2014/",
+        "title": "Entregas de Açúcar da ICE São as Menores em Volume desde 2014",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/reuters-forbes-acucar-300x200.jpg",
+        "date": "30/06/2025",
+        "description": "A trading de açúcar Sucden foi vista como a única recebedora desse açúcar"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/06/acao-da-azzas-2154-avanca-com-mudancas-no-conselho-e-sinal-de-alinhamento-de-socios/",
+        "title": "Ação da Azzas 2154 Avança com Mudanças no Conselho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_B3-2-300x200.jpg",
+        "date": "30/06/2025",
+        "description": "Composição do conselho muda de nove para sete membros, sendo três independentes"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/06/produtores-do-eua-elevam-plantio-de-milho-ao-maior-nivel-desde-2013/",
+        "title": "Produtores do EUA Elevam Plantio de Milho Ao Maior Nível desde 2013",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Milho-300x200.jpg",
+        "date": "30/06/2025",
+        "description": "Agricultores expandiram o plantio em 5% este ano; enquanto isso, reduziram a área plantada com soja em 4%"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/06/f1-chega-ao-topo-das-bilheterias-dos-eua-e-canada/",
         "title": "\"F1\" Chega Ao Topo das Bilheterias dos EUA e Canadá",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-brad-pitt-f1-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Em-seu-verao-2026-a-Hermes-conta-com-suaves-ideias-para-o-trabalho-na-cidade-o-lazer-no-balneario-e-ate-para-festas-descontraidas-nos-dois-ambientes-300x200.jpg",
         "date": "30/06/2025",
         "description": "Sob comando da designer Véronique Nichanian, grife francesa fez sua nova coleção masculina pensando no homem urbano"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/plano-safra-da-agricultura-familiar-2025-26-sai-com-r-89-bi-e-foco-em-transicao-agroecologica/",
-        "title": "Plano Safra da Agricultura Familiar 2025/26 Sai com R$ 89 Bi e Foco em Transição Agroecológica",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_pequeno_produtor_29jun25_AgenciaBrasil-300x200.jpg",
-        "date": "30/06/2025",
-        "description": "Governo vem com o maior orçamento da história para o setor, vai além do Pronaf e \"empacota\" vários programas para o pequeno produtor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/eua-reiniciarao-negociacoes-comerciais-com-o-canada-imediatamente/",
-        "title": "EUA Reiniciarão Negociações Comerciais com o Canadá Imediatamente",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-30T150026Z_1_LYNXMPEL5T0SH_RTROPTP_4_EUA-CANADA-COMERCIO-300x200.jpg",
-        "date": "30/06/2025",
-        "description": "Trump pressiona Canadá por fim de tarifas durante cúpula do G7 e sinaliza retomada das negociações comerciais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/atividade-industrial-da-china-continua-desacelerando-e-mantem-pressao-por-estimulos/",
-        "title": "Atividade Industrial da China Continua Desacelerando e Mantem Pressão por Estímulos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_Porto_China-09abr_2025-Guetty-300x200.jpg",
-        "date": "30/06/2025",
-        "description": "Este é o terceiro mês consecutivo que a economia chinesa avança em ritmo mais lento"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/mercado-reduz-projecao-para-inflacao-em-2025-e-ve-pib-maior-em-2026/",
-        "title": "Mercado Reduz Projeção para Inflação em 2025 e Vê PIB Maior em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/Agro_SistemasAlimentaresTrump_7FEV25_Getty-300x200.jpg",
-        "date": "30/06/2025",
-        "description": "Para este ano, analistas mantiveram expectativa de crescimento econômico de 2,21%"
     }
 ]
