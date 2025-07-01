@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-o-dolar-seguira-caindo-no-segundo-semestre/",
+        "title": "Pré-mercado: o Dólar Seguirá Caindo no Segundo Semestre?",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "01/07/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 01 de julho"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/plano-safra-2025-26-da-agricultura-empresarial-tem-r-5162-bilhoes-para-medios-e-grandes-produtores/",
+        "title": "Plano Safra 2025/26 da Agricultura Empresarial Tem R$ 516,2 Bilhões para Médios e Grandes Produtores",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_produtor_soja_01jul25_getty-300x200.jpg",
+        "date": "01/07/2025",
+        "description": "Recurso contempla linhas de crédito para custeio, comercialização e investimento"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/07/vazamento-mostra-que-apple-testa-iphone-dobravel-com-camera-dupla-de-48-mp-e-design-premium/",
         "title": "Vazamento Mostra Que Apple Testa Iphone Dobrável com Câmera Dupla de 48 Mp e Design Premium",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/foldable-iphone-mockup-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Vista-do-centro-historico-da-cidade-de-Luxemburgo-300x200.jpg",
         "date": "01/07/2025",
         "description": "Relatório do Deutsche Bank analisa 69 cidades e revela mudanças no custo de vida e na qualidade dos serviços públicos ao redor do mundo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/06/dolar-se-aproxima-dos-r-540-e-fecha-no-menor-valor-em-9-meses/",
-        "title": "Dólar se Aproxima dos R$ 5,40 e Fecha no Menor Valor em 9 Meses",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
-        "date": "30/06/2025",
-        "description": "Ibovespa encerra o mês com novo ganho mensal e acumula alta de 15% no ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/06/segunda-maior-produtora-da-ue-mesmo-com-seca-alemanha-vem-com-safra-maior-de-graos-neste-ano/",
-        "title": "Segunda Maior Produtora da UE, Mesmo com Seca Alemanha Vem com Safra Maior de Grãos Neste Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Soja-em-mercado-na-China-300x200.jpg",
-        "date": "30/06/2025",
-        "description": "A colheita dos insumos aumentará para 40,1 milhões de toneladas métricas"
     }
 ]
