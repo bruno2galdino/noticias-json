@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/listas/2025/07/lista-forbes-50-over-50-2025-veja-todos-os-homenageados/",
+        "title": "Lista Forbes 50 Over 50 2025: Veja Todos os Homenageados",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/0.Abre_-300x200.jpg",
+        "date": "01/07/2025",
+        "description": "A seleção anual da Forbes chega com nomes de categorias que vão de entretenimento a empreendedorismo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/07/lider-da-onu-mulheres-no-brasil-ha-retrocesso-mas-avancos-sao-persistentes/",
+        "title": "Líder da ONU Mulheres no Brasil: \"Há Retrocesso, Mas Avanços São Persistentes\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-onu-mulheres-ana-querino-300x200.jpg",
+        "date": "01/07/2025",
+        "description": "Agência completa 15 anos e cobra compromisso de empresas e governos com equidade"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/07/vagas-de-emprego-em-aberto-nos-eua-tem-alta-inesperada-em-maio-contratacoes-caem/",
         "title": "Vagas de Emprego em Aberto nos EUA Têm Alta Inesperada em Maio, Contratações Caem",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-ghostworking-busca-por-emprego-no-expediente-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Gucci-Tennis-300x200.jpg",
         "date": "01/07/2025",
         "description": "Com o início dos jogos de Wimbledon, na Inglaterra, uma seleção de peças que têm passe livre dentro e fora das arquibancadas nos torneios"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/bndes-avalia-fundo-voltado-para-ia-e-data-centers-diz-diretor/",
-        "title": "BNDES Avalia Fundo Voltado para IA e Data Centers, Diz Diretor",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/09/ForbesMoney_BNDES_29092021_Sergio-Moraes_Reuters.jpg",
-        "date": "01/07/2025",
-        "description": "De acordo com Nelson Barbosa, o banco de fomento trabalha com um aporte potencial de R$500 milhões a R$1 bilhão"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/nivel-de-preco-do-algodao-e-cambio-ainda-favorecem-setor-no-brasil-diz-dreyfus/",
-        "title": "Nível de Preço do Algodão e Câmbio Ainda Favorecem Setor no Brasil, Diz Dreyfus",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Algodao_Bahia_25nov24_Reuters_AmandaPerobelli-300x200.jpg",
-        "date": "01/07/2025",
-        "description": "A força do dólar frente ao real tem compensado parte da queda dos preços futuros da pluma, afirma Joe Nicosia"
     }
 ]
