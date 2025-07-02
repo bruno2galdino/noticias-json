@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/07/microsoft-demite-4-dos-funcionarios-enquanto-aposta-alto-em-ia/",
+        "title": "Microsoft Demite 4% dos Funcionários Enquanto Aposta Alto em IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/tech-microsoft-fachada-300x200.jpg",
+        "date": "02/07/2025",
+        "description": "Corte deve afetar cerca de 9 mil profissionais, acompanhando a onda de demissões que atinge outras gigantes da tecnologia"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/ex-alpargatas-beto-funari-entra-de-cabeca-no-bilionario-mercado-pet-com-a-primeira-venture-builder-do-setor/",
+        "title": "Ex-Alpargatas, Beto Funari Entra de Cabeça no Bilionário Mercado Pet com a Primeira ‘Venture Builder’ do Setor",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/3-300x200.jpg",
+        "date": "02/07/2025",
+        "description": "Com o comportamento humano mudando com relação aos animais de estimação, o segmento abriga oportunidades capazes de gerar bilhões de reais"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/07/bilionario-assume-cargo-executivo-na-dominos-pizza-enterprises-apos-saida-inesperada-do-ceo/",
         "title": "Domino’s: Bilionário Assume Liderança após Saída Inesperada do CEO",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-dominos-300x200.jpg",
         "date": "02/07/2025",
-        "description": "Principal acionista e presidente do conselho, Jack Cowin ocupa cargo executivo interino na maior franqueada global da marca"
+        "description": "Principal acionista e presidente do conselho, Jack Cowin será o líder interino da maior franqueada global da marca"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/07/oi-protocola-aditamento-ao-plano-de-recuperacao-judicial-em-meio-a-pressoes-financeiras/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Aliomar_26JUN2025_JuliaMaciel-2-300x200.jpg",
         "date": "02/07/2025",
         "description": "“Agricultura é um vício. É fazendo ela que a gente aprende de verdade e só vou parar quando o corpo não aguentar mais\", diz Francisco Aliomar Albuquerque Feitosa, 70 anos e há 40 no campo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-investidores-avaliam-recurso-do-governo-ao-supremo-no-caso-do-iof/",
-        "title": "Pré-mercado: Investidores Avaliam Recurso do Governo Ao Supremo no Caso do IOF",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "02/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 2 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/nao-tem-como-pensar-em-um-futuro-para-a-amazonia-sem-a-pecuaria-diz-ceo-da-belterra/",
-        "title": "“Não Tem Como Pensar em um Futuro para a Amazônia Sem a Pecuária”, diz CEO da Belterra",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/ValmirOrtega_Belterra_27JUN2025_Belterra-300x200.jpg",
-        "date": "02/07/2025",
-        "description": "Para Valmir Ortega, o agronegócio precisa liderar as discussões sobre o uso sustentável da floresta Amazônica na COP30, sem repetir os erros do passado"
     }
 ]
