@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-02-07.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/romboli_delray_fore_juarez-1024x500.jpg",
+        "date": "02/07/2025",
+        "description": "Wimbledon (Inglaterra) – Grama – 24.919.000 de librasMasculino – Primeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/leonardo-storck-e-ana-cruz-lideram-vitorias-brasileiras-em-londrina.html",
         "title": "Leonardo Storck e Ana Cruz lideram vitórias brasileiras em Londrina",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/storck_engie_brb-1024x682.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/blog_rinder_w.jpg",
         "date": "01/07/2025",
         "description": "Com 127 dos 128 jogos de primeira rodada encerrados, Wimbledon já viu o adeus de 23 dos 64 cabeças de chave e, muito mais do que isso, oito dos top 10, metade para cada sexo. A lista inclui Coco Gauff, Jessica Pegula e Qinwen Zheng de um lado, Alexander Zverev, Lorenzo Musetti e Holger Rune do outro. Até mesmo cabeças de menor peso causaram surpresa, como foi o caso de Alexander Bublik."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-supera-bom-teste-na-estreia-com-vitoria-em-4-sets.html",
-        "title": "Djokovic supera bom teste na estreia com vitória em 4 sets",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/djokovic_muller_wimb_25-1024x571.jpg",
-        "date": "01/07/2025",
-        "description": "Londres (Inglaterra) –A busca de Novak Djokovic pelo oitavo título título de Wimbledon começou com uma vitória em quatro sets. Em jogo que encerrou a programação desta terça-feira, o sérvio derrotou o francês Alexandre Muller, 41º do ranking, por 6/1, 6/7 (7-9), 6/2 e 6/2 em 3h20 de partida."
     }
 ]
