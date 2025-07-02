@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/verao-europeu-como-ondas-de-calor-podem-diminuir-pib-do-continente/",
+        "title": "Verão Europeu: Como Ondas de Calor Podem Diminuir PIB do Continente",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Sol--300x200.jpg",
+        "date": "02/07/2025",
+        "description": "Segundo pesquisa da Allianz Trade, PIB da Europa pode recuar 0,5 ponto percentual por conta das altas temperaturas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/07/ataque-cibernetico-afeta-contas-de-instituicoes-financeiras-no-brasil/",
         "title": "Ataque Cibernético Afeta Contas de Instituições Financeiras no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2021/04/Hackers-money-Bill-Hinton.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/01/Producao-industrial-do-Brasil-300x200.jpg",
         "date": "02/07/2025",
         "description": "Cenário econômico de juros alto e desaceleração econômica explicam queda"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/paramount-faz-acordo-de-us16-mi-com-trump-sobre-entrevista/",
-        "title": "Paramount Faz Acordo de US$16 Mi com Trump sobre Entrevista",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/forbes-Presidente-dos-Estados-Unidos-Donald-Trump-300x200.jpg",
-        "date": "02/07/2025",
-        "description": "Valor será destinado à futura biblioteca do presidente americano e não inclui pedido de desculpas"
     }
 ]
