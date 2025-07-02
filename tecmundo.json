@@ -1,23 +1,37 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/internet/405495-cloudflare-vai-bloquear-e-cobrar-acessos-de-ias-que-escavam-sites-sem-autorizacao.htm",
+        "title": "Cloudflare vai bloquear (e cobrar) acessos de IAs que 'escavam' sites sem autorização",
+        "description": "Um novo mecanismo da Cloudflare permitirá que donos de sites bloqueiem o acesso de crawlers de IA, ou sejam devidamente compensados por isso",
+        "image": "https://tm.ibxk.com.br/2025/07/02/02143530868072.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/601616-neil-druckmann-deixa-terceira-temporada-da-serie-the-last-of-us-para-focar-em-novo-jogo-da-naughty-dog.htm",
+        "title": "Neil Druckmann deixa terceira temporada da série The Last of Us para focar em novo jogo da Naughty Dog",
+        "description": "Principal responsável pela franquia The Last of Us se afastou da série para dedicar mais tempo ao mundo dos games",
+        "image": "https://tm.ibxk.com.br/2025/07/02/02150933317101.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/405492-google-reporta-51-de-aumento-na-emissao-de-co2-desde-2019-ia-pode-ser-culpada.htm",
+        "title": "Google reporta 51% de aumento na emissão de CO2 desde 2019; IA pode ser 'culpada'",
+        "description": "O Google teria aumentado em 51% as emissões de carbono entre 2019 e 2024, mas estudos independentes mostram que o número real representa um salto de 65%.",
+        "image": "https://tm.ibxk.com.br/2025/05/23/23103836228052.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/501760-xbox-cancela-perfect-dark-e-fecha-estudio-the-initiative-em-meio-as-demissoes-da-microsoft.htm",
+        "title": "Xbox cancela Perfect Dark e fecha estúdio The Initiative em meio às demissões da Microsoft",
+        "description": "Além de Perfect Dark, outros jogos também foram cancelados, incluindo Everwild.",
+        "image": "https://tm.ibxk.com.br/2025/07/02/02143252270065.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/405493-quase-700-tipos-de-impressoras-tem-falhas-criticas-de-seguranca-e-uma-delas-sem-correcao.htm",
         "title": "Quase 700 tipos de impressoras têm falhas críticas de segurança e uma delas sem correção",
         "description": "Empresa de segurança encontrou inúmeras vulnerabilidades em impressoras da marca Brother; outras marcas também têm modelos com falhas de segurança.",
         "image": "https://tm.ibxk.com.br/2025/07/02/02132540594143.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/405479-eletronicos-mais-vendidos-na-amazon-em-junho-echo-pop-celular-xiaomi-fone-sem-fio-e-mais.htm",
-        "title": "Eletrônicos mais vendidos na Amazon em junho: Echo Pop, celular Xiaomi, fone sem fio e mais",
-        "description": "Confira agora a lista com os eletrônicos mais populares na Amazon no mês passado e adquira alguns dos itens mais procurados pelos consumidores na plataforma que tem opções com desconto no Pix e frete grátis; aproveite",
-        "image": "https://tm.ibxk.com.br/2025/07/02/02084451633006.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/601606-sandman-relembre-o-final-e-veja-resumo-da-primeira-temporada-antes-da-estreia-da-segunda.htm",
-        "title": "Sandman: Relembre o final e veja resumo da primeira temporada antes da estreia da segunda",
-        "description": "A primeira temporada de Sandman mostrou Morpheus em busca de seus poderes e fazendo inimigos poderosos",
-        "image": "https://tm.ibxk.com.br/2025/07/01/01162252334020.jpg",
         "date": null
     }
 ]
