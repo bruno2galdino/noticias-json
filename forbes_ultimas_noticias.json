@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/ataque-cibernetico-afeta-contas-de-instituicoes-financeiras-no-brasil/",
+        "title": "Ataque Cibernético Afeta Contas de Instituições Financeiras no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/04/Hackers-money-Bill-Hinton.png",
+        "date": "02/07/2025",
+        "description": "A C&M Software foi vítima direta de ação criminosa para tentar acessar de forma fraudulenta seus sistemas e serviços"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/07/microsoft-demite-4-dos-funcionarios-enquanto-aposta-alto-em-ia/",
         "title": "Microsoft Demite 4% dos Funcionários Enquanto Aposta Alto em IA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/tech-microsoft-fachada-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/03/forbes-Presidente-dos-Estados-Unidos-Donald-Trump-300x200.jpg",
         "date": "02/07/2025",
         "description": "Valor será destinado à futura biblioteca do presidente americano e não inclui pedido de desculpas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/mestre-tomateiro-como-o-pequeno-produtor-aliomar-se-tornou-um-gigante-da-basf/",
-        "title": "Mestre Tomateiro: Como o Pequeno Produtor Aliomar se Tornou um Gigante da Basf",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Aliomar_26JUN2025_JuliaMaciel-2-300x200.jpg",
-        "date": "02/07/2025",
-        "description": "“Agricultura é um vício. É fazendo ela que a gente aprende de verdade e só vou parar quando o corpo não aguentar mais\", diz Francisco Aliomar Albuquerque Feitosa, 70 anos e há 40 no campo"
     }
 ]
