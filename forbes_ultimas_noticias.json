@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/dolar-tem-menor-cotacao-desde-agosto-e-ibovespa-registra-queda/",
+        "title": "Dólar Tem Menor Cotação desde Agosto e Ibovespa Registra Queda",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "02/07/2025",
+        "description": "Impasses entre governo e Congresso sobre o aumento do IOF têm adicionado incertezas ao mercado"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/verao-europeu-como-ondas-de-calor-podem-diminuir-pib-do-continente/",
         "title": "Verão Europeu: Como Ondas de Calor Podem Diminuir PIB do Continente",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/Sol--300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-300x200.jpg",
         "date": "02/07/2025",
         "description": "Com as vendas em queda, as entregas de veículos no segundo trimestre devem ser uma das maiores quedas anuais da história da empresa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/producao-industrial-no-brasil-recua-em-maio-pelo-2o-mes-seguido/",
-        "title": "Produção Industrial no Brasil Recua em Maio Pelo 2º Mês Seguido",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/01/Producao-industrial-do-Brasil-300x200.jpg",
-        "date": "02/07/2025",
-        "description": "Cenário econômico de juros alto e desaceleração econômica explicam queda"
     }
 ]
