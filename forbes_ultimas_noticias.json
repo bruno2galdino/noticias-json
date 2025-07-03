@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/07/fernando-maluf-julho-verde-nova-estrategia-reduz-risco-de-recidiva-no-cancer-de-cabeca-e-pescoco-apos-cirurgia/",
+        "title": "Julho Verde: Nova Estratégia Reduz Risco de Recidiva no Câncer de Cabeça e Pescoço após Cirurgia",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/07/cancer-cabeca-300x200.jpg",
+        "date": "03/07/2025",
+        "description": "Estudo apresentado na plenária da ASCO 2025 indica benefício da imunoterapia combinada ao tratamento padrão em pacientes de alto risco"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/07/onde-o-papa-leao-vai-passar-as-ferias-de-julho/",
+        "title": "Onde o Papa Leão Vai Passar as Férias de Julho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Papa-Leao-XIV-300x200.jpg",
+        "date": "03/07/2025",
+        "description": "Leão passará o período de 6 a 20 de julho a uma hora de carro ao sul de Roma"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/embraer-entrega-61-aeronaves-no-2o-tri-alta-de-30-ano-a-ano/",
+        "title": "Embraer Entrega 61 Aeronaves no 2º Tri, Alta de 30% Ano a Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/06/embraer-forbesmoney-300x200.jpg",
+        "date": "03/07/2025",
+        "description": "Na aviação executiva, as entregas subiram 41% ante o mesmo período um ano antes"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/07/no-japao-profissionais-conquistam-mais-um-grande-aumento-salarial/",
         "title": "No Japão, Profissionais Conquistam Aumento Salarial",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-aumento-salario-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Diego-Jota-crop-Phil-Noble_Reuters-300x200.jpg",
         "date": "03/07/2025",
         "description": "Atleta de 28 anos ajudou o Liverpool a vencer a Premier League na última temporada e também venceu a FA Cup e a League Cup com o time de Merseyside"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/07/eduardo-mira-ia-e-investimentos-o-que-voce-precisa-saber-para-nao-ficar-para-tras/",
-        "title": "IA e Investimentos: o Que Você Precisa Saber Para Não Ficar Para Trás",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/05/carreira-inteligencia-artificial-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Capaz de processar muito mais informações que os seres humanos, a inteligência artificial já é uma realidade na gestão de recursos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-indicador-de-emprego-nos-eua-define-expectativa-para-os-juros/",
-        "title": "Pré-mercado: Indicador de Emprego nos EUA Define Expectativa para os Juros",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "03/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 3 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/brandvoice-singularity-brazil-a-era-do-ceo-aprendiz/",
-        "title": "A era do CEO Aprendiz",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-5-300x200.png",
-        "date": "03/07/2025",
-        "description": "Reinvenção constante marca a liderança no novo capitalismo cognitivo, em que aprender é mais estratégico do que saber"
     }
 ]
