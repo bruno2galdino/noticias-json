@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/07/brandvoice-singularity-brazil-a-era-do-ceo-aprendiz/",
+        "title": "A era do CEO Aprendiz",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-5-300x200.png",
+        "date": "03/07/2025",
+        "description": "Reinvenção constante marca a liderança no novo capitalismo cognitivo, em que aprender é mais estratégico do que saber"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/07/rachel-reis-conheca-a-cantora-baiana-que-virou-aposta-da-musica-brasileira/",
         "title": "Rachel Reis: Conheça a Cantora Que Virou Aposta da Música Brasileira",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-rachel-reis-300x200.jpg",
@@ -8,7 +15,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/07/vazamento-expoe-16-bilhoes-de-senhas-e-acende-alerta-global-de-ciberseguranca-veja-como-se-proteger/",
-        "title": "Vazamento Expõe 16 Bilhões de Senhas e Acende Alerta Global de Cibersegurança; Veja Como se Proteger",
+        "title": "Vazamento Expõe 16 Bilhões de Senhas e Acende Alerta Global de Cibersegurança",
         "image": "https://forbes.com.br/wp-content/uploads/2023/10/Ciberseguranca-300x200.png",
         "date": "03/07/2025",
         "description": "A descoberta foi feita por pesquisadores do site Cybernews, que identificaram 30 bases de dados não protegidas contendo informações reais de acesso a sistemas"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-como-contar-ao-chefe-que-voce-tem-TDAH-300x200.jpg",
         "date": "03/07/2025",
         "description": "Especialistas explicam como lidar com o transtorno no ambiente de trabalho e orientam sobre o melhor momento para revelar o diagnóstico"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/qual-e-a-diferenca-entre-sauvignon-blanc-e-chardonnay/",
-        "title": "Qual É a Diferença entre Sauvignon Blanc e Chardonnay?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_Vinhobranco_1JUl2025_Getty-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Conheça as características, origens e harmonizações que tornam essas duas uvas brancas clássicas tão diferentes e indispensáveis"
     }
 ]
