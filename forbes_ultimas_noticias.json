@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/07/no-japao-profissionais-conquistam-mais-um-grande-aumento-salarial/",
+        "title": "No Japão, Profissionais Conquistam Aumento Salarial",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-aumento-salario-300x200.jpg",
+        "date": "03/07/2025",
+        "description": "Impulsionadas pela inflação e pela falta de profissionais, empresas concedem o maior reajuste salarial em mais de três décadas"
+    },
+    {
+        "url": "https://forbes.com.br/sem-categoria/2025/07/astronomos-obtem-imagem-do-resultado-da-dupla-detonacao-de-uma-estrela/",
+        "title": "Astrônomos Obtêm Imagem do Resultado da Dupla Detonação de uma Estrela",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-02T224748Z_1_LYNXMPEL6115O_RTROPTP_4_SPACE-EXPLOSION-300x200.jpg",
+        "date": "03/07/2025",
+        "description": "Imagem revela vestígios de supernova 300 anos após explosão, com conchas de cálcio em expansão"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/eua-suspendem-restricoes-a-softwares-de-design-de-chips-e-etano-da-china/",
         "title": "EUA Suspendem Restrições a Softwares de Design de Chips e Etano da China",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-03T105227Z_1_LYNXMPEL620HO_RTROPTP_4_LATAM-AI-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-5-300x200.png",
         "date": "03/07/2025",
         "description": "Reinvenção constante marca a liderança no novo capitalismo cognitivo, em que aprender é mais estratégico do que saber"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/rachel-reis-conheca-a-cantora-baiana-que-virou-aposta-da-musica-brasileira/",
-        "title": "Rachel Reis: Conheça a Cantora Que Virou Aposta da Música Brasileira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-rachel-reis-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Em entrevista à Forbes Brasil, artista indicada ao Grammy Latino conta como encontrou sua voz na indústria e conquistou milhares de ouvintes em menos de cinco anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/vazamento-expoe-16-bilhoes-de-senhas-e-acende-alerta-global-de-ciberseguranca-veja-como-se-proteger/",
-        "title": "Vazamento Expõe 16 Bilhões de Senhas e Acende Alerta Global de Cibersegurança",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/10/Ciberseguranca-300x200.png",
-        "date": "03/07/2025",
-        "description": "A descoberta foi feita por pesquisadores do site Cybernews, que identificaram 30 bases de dados não protegidas contendo informações reais de acesso a sistemas"
     }
 ]
