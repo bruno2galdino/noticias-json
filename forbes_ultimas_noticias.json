@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/queda-nas-exportacoes-aumenta-deficit-comercial-dos-eua-em-maio/",
+        "title": "Queda nas Exportações Aumenta Déficit Comercial dos EUA em Maio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-1-300x200.png",
+        "date": "03/07/2025",
+        "description": "Cenário tende a melhorar no segundo trimestre, já que o número de importações está em queda"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/07/atacante-portugues-diogo-jota-morre-em-acidente-de-carro-na-espanha/",
         "title": "Atacante Português Diogo Jota Morre em Acidente de Carro na Espanha",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Diego-Jota-crop-Phil-Noble_Reuters-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/padrao-Forbes-2025-07-01T214122.548-300x200.jpg",
         "date": "03/07/2025",
         "description": "Nesta edição especial, uma curadoria elegante e moderna dedicada à gastronomia e aos menus de inverno que aquecem a cena paulistana — com leveza e muito sabor!"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/13-milhoes-de-robos-humanoides-estarao-entre-nos-ate-2035/",
-        "title": "13 Milhões de Robôs Humanoides Estarão entre Nós até 2035",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/robos-humanoides--300x200.png",
-        "date": "03/07/2025",
-        "description": "Pesquisadores do Morgan Stanley estimam que, até 2050, 10% dos lares dos EUA terão um robô humanoide"
     }
 ]
