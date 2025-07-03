@@ -1,8 +1,43 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-cast/2025/07/joao-appolinario-neto-participa-do-podcast-under-30-a-jornada/",
+        "url": "https://forbes.com.br/forbes-money/2025/07/opostos-ibovespa-registra-maxima-historica-e-dolar-chega-a-minima-no-ano/",
+        "title": "Opostos: Ibovespa Registra Máxima Histórica e Dólar Chega À Mínima no Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "03/07/2025",
+        "description": "Relatório de emprego nos EUA impulsionou mercado e recordes também foram registrados em Wall Street"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/camara-dos-deputados-dos-eua-aprova-projeto-de-corte-de-impostos-e-gastos-de-trump-que-vai-a-sancao/",
+        "title": "Câmara dos Deputados dos EUA Aprova Projeto de Corte de Impostos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-eua-camara-dos-deputados-300x200.jpg",
+        "date": "03/07/2025",
+        "description": "Presidente financiará sua repressão à imigração e oferecerá novos incentivos fiscais, entre outras medidas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/itau-bba-diz-que-safra-2025-26-ainda-e-periodo-de-ressaca/",
+        "title": "Itaú BBA Diz Que Safra 2025/26 Ainda É Período de “Ressaca”",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_SojaItauBBA_3JUl2025_Getty-300x200.jpg",
+        "date": "03/07/2025",
+        "description": "Para o banco, safras anteriores pressionadas e o cenário geopolítico vão dar o tom dos negócios no próximo período"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/consumo-global-de-cafe-mostra-resiliencia-a-precos-altos-dizem-executivos-globais/",
+        "title": "Consumo Global de Café Mostra Resiliência a Preços Altos",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/agro-cafe-robusta-08Ago23-PauloWhitaker-300x200.jpg",
+        "date": "03/07/2025",
+        "description": "Cotação marcou recordes em fevereiro deste ano na bolsa ICE"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/tereos-quer-ampliar-atuacao-em-mercado-livre-de-energia/",
+        "title": "Tereos Quer Ampliar Atuação em Mercado Livre de Energia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Tereos_3JUl2025_Reuters-300x200.jpg",
+        "date": "03/07/2025",
+        "description": "A empresa gera energia elétrica a partir da biomassa da cana em seis de suas usinas sucroalcooleiras no Estado de São Paulo"
+    },
+    {
+        "url": "https://forbes.com.br/brand-voice/2025/07/joao-appolinario-neto-participa-do-podcast-under-30-a-jornada/",
         "title": "João Appolinário Neto Participa do Podcast Under 30 – a Jornada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/joao-appolinario-neto_u30-a-jornada-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/joao-appolinario-neto-300x200.jpg",
         "date": "03/07/2025",
         "description": "CEO do Mega Studio Be Emotion fala sobre sua trajetória no programa apresentado por Johnnie Walker"
     },
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-aumento-salario-300x200.jpg",
         "date": "03/07/2025",
         "description": "Impulsionadas pela inflação e pela falta de profissionais, empresas concedem o maior reajuste salarial em mais de três décadas"
-    },
-    {
-        "url": "https://forbes.com.br/sem-categoria/2025/07/astronomos-obtem-imagem-do-resultado-da-dupla-detonacao-de-uma-estrela/",
-        "title": "Astrônomos Obtêm Imagem do Resultado da Dupla Detonação de uma Estrela",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-02T224748Z_1_LYNXMPEL6115O_RTROPTP_4_SPACE-EXPLOSION-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Imagem revela vestígios de supernova 300 anos após explosão, com conchas de cálcio em expansão"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/eua-suspendem-restricoes-a-softwares-de-design-de-chips-e-etano-da-china/",
-        "title": "EUA Suspendem Restrições a Softwares de Design de Chips e Etano da China",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-03T105227Z_1_LYNXMPEL620HO_RTROPTP_4_LATAM-AI-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Retaliação de Pequim com restrições às terras raras impacta indústrias estratégicas e põe em risco acordo comercial com os Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/banco-do-brasil-anuncia-r-230-bi-para-plano-safra-2025-26/",
-        "title": "Banco do Brasil Anuncia R$ 230 Bi para Plano Safra 2025/26",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-03T120743Z_1_LYNXMPEL620LL_RTROPTP_4_BRAZIL-GUNS-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Recursos contemplam R$ 54 bilhões para pequenos e médios produtores e R$ 106 bilhões para a agricultura empresarial."
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/criacao-de-vagas-de-emprego-nos-eua-supera-expectativas-em-junho/",
-        "title": "Criação de Vagas de Emprego nos EUA Supera Expectativas em Junho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-2-300x200.png",
-        "date": "03/07/2025",
-        "description": "Levantamento indica que mercado de trabalho americano está estável, o que pode adiar o corte de juros pelo Fed"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/queda-nas-exportacoes-aumenta-deficit-comercial-dos-eua-em-maio/",
-        "title": "Queda nas Exportações Aumenta Déficit Comercial dos EUA em Maio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-1-300x200.png",
-        "date": "03/07/2025",
-        "description": "Cenário tende a melhorar no segundo trimestre, já que o número de importações está em queda"
     }
 ]
