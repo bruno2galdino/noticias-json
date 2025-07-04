@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/precos-ao-produtor-do-brasil-tem-em-maio-maior-queda-em-quase-2-anos/",
+        "title": "Preços Ao Produtor do Brasil Têm em Maio Maior Queda em Quase 2 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Milho-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "Em maio, o Índice de Preços ao Produtor (IPP) recuou 1,29%, após baixa de 0,12% em abril"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/07/amanda-moitinho-grupo-riozen-quer-mais-mulheres-na-lideranca-do-setor-automotivo/",
+        "title": "CEO Quer Mais Mulheres na Liderança do Setor Automotivo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-amanda-moitinho-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "Amanda Moitinho lidera o Grupo Riozen, maior rede de concessionárias Toyota no estado do Rio de Janeiro, e a operação da Lexus na capital"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/china-poupa-grandes-produtores-de-conhaque-de-taxas-da-ue/",
+        "title": "China Poupa Grandes Produtores de Conhaque de Taxas da UE",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-2-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "Marcas como Hennessy e Remy Martin estarão isentas das tarifas"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/tristao-ve-potencial-para-cafe-do-espirito-santo-superar-o-do-vietna/",
         "title": "Tristão Vê Potencial para Café do Espírito Santo Superar o do Vietnã",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Cafe_4JUl2025_Getty-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/dupla-supernova-300x200.png",
         "date": "04/07/2025",
         "description": "Uma supernova, segundo a Nasa, é uma explosão extremamente brilhante e poderosa de uma estrela"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/07/the-led-compra-a-retail-media-e-projeta-investimento-de-r-200-milhoes/",
-        "title": "The Led Compra a Retail Media e Projeta Investimento de R$ 200 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Richard-Albanesi-e-Cristiano-300x200.jpg",
-        "date": "04/07/2025",
-        "description": "Plano de expansão tem como meta atingir mais de 15 mil faces instaladas ainda em 2025, de acordo com Richard Albanesi"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-feriado-no-eua-dolar-na-minima-e-bolsa-na-maxima/",
-        "title": "Pré-mercado: Feriado no EUA, Dólar na Mínima e Bolsa na Máxima",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "04/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 4 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/infomercial-best-life-solucoes-reduzem-custos-empresariais/",
-        "title": "Soluções Reduzem Custos Empresariais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/best-life-if-julho-300x200.png",
-        "date": "04/07/2025",
-        "description": "Com foco em dados e performance, Best Life revoluciona a gestão de saúde e mira dobrar sua carteira até 2027"
     }
 ]

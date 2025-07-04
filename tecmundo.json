@@ -1,16 +1,30 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/405543-call-of-duty-ww2-tem-brecha-grave-de-seguranca-que-permite-execucao-de-codigo-remoto.htm",
+        "title": "Call of Duty: WW2 tem brecha grave de segurança que permite execução de código remoto",
+        "description": "Gamers que revisitaram Call of Duty: WW2 foram vítimas de ataques de execução de código remoto graças a uma vulnerabilidade contida no game",
+        "image": "https://tm.ibxk.com.br/2025/07/04/04130259283113.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/501783-popular-no-game-pass-call-of-duty-wwii-tem-falha-grave-que-compromete-seguranca-de-pcs.htm",
+        "title": "Popular no Game Pass, Call of Duty WWII tem falha grave que compromete segurança de PCs",
+        "description": "Jogadores estão relatando que foram alvos de ataques hacker via RCE (Execução Remota de Código) por ter baixado CoD WWII através do Game Pass no PC; Veja o que fazer!",
+        "image": "https://tm.ibxk.com.br/2025/07/04/04133738854005.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/601632-melhor-filme-do-ano-pecadores-finalmente-chega-ao-hbo-max-e-voce-precisa-assistir.htm",
+        "title": "Melhor filme do ano, Pecadores finalmente chega ao HBO Max (e você precisa assistir)",
+        "description": "Perdeu a chance de ver Pecadores no cinema? Agora você pode ver Michael B. Jordan e grande elenco diretamente em casa",
+        "image": "https://tm.ibxk.com.br/2025/07/04/04140927270056.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/produto/405523-loja-oficial-da-huawei-na-shopee-tem-ofertas-com-ate-60-off.htm",
         "title": "Loja oficial da Huawei na Shopee tem ofertas com até 60% OFF",
         "description": "Aproveite preços muito mais em conta em produtos da Huawei em promoção na Loja Oficial da marca na Shopee, incluindo celulares, tablets, relógios inteligentes e muito mais; confira as oportunidades",
         "image": "https://tm.ibxk.com.br/2025/07/03/03151817934004.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/501779-novo-battlefield-tem-orcamento-de-us-400-milhoes-diz-informante.htm",
-        "title": "Novo Battlefield tem orçamento de US$ 400 milhões, diz informante",
-        "description": "Segundo reportagem do Ars Technica, diversos desenvolvedores têm relatado problemas de saúde mental com a produção do novo Battlefield; Confira os detalhes!",
-        "image": "https://tm.ibxk.com.br/2025/07/04/04100335385010.jpg",
         "date": null
     }
 ]
