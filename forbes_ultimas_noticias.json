@@ -1,6 +1,20 @@
 [
     {
-        "url": "https://forbes.com.br/forbesagro/2025/07/precos-ao-produtor-do-brasil-tem-em-maio-maior-queda-em-quase-2-anos/",
+        "url": "https://forbes.com.br/forbes-collab/2025/07/a-historia-por-tras-do-untold-stories/",
+        "title": "A História por trás do Untold Stories",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Endeavor-Untold-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "A ideia do Untold Stories não nasceu de um plano. Nasceu de um silêncio."
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/china-vai-investir-em-fundo-de-florestas-proposto-pelo-brasil/",
+        "title": "China Vai Investir em Fundo de Florestas Proposto Pelo Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Fronteira-entre-a-Amazonia-e-o-Cerrado-em-Nova-Xavantina-MT-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "De acordo com uma das fontes, Lan Fo'an disse a Haddad que considerava importante a ideia do fundo e que a China iria colabora"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/precos-ao-produtor-do-brasil-tem-em-maio-maior-queda-em-quase-2-anos/",
         "title": "Preços Ao Produtor do Brasil Têm em Maio Maior Queda em Quase 2 Anos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_Milho-300x200.jpg",
         "date": "04/07/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-4-300x200.png",
         "date": "04/07/2025",
         "description": "Integração tecnológica em projetos educacionais aprimora o aprendizado, fortalece o papel dos professores e cria ambientes seguros, colaborativos e inclusivos"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/07/stf-homologa-acordo-para-ressarcir-vitimas-de-fraudes-no-inss/",
-        "title": "STF Homologa Acordo para Ressarcir Vítimas de Fraudes no INSS",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-STF-pejotizacao-300x200.jpg",
-        "date": "04/07/2025",
-        "description": "Valores ficarão fora do arcabouço fiscal, com tratamento igual ao dos precatórios"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/primeira-dupla-supernova-e-encontrada-no-ceu-noturno-entenda/",
-        "title": "Primeira \" Dupla Supernova\" É Encontrada no Céu Noturno; Entenda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/dupla-supernova-300x200.png",
-        "date": "04/07/2025",
-        "description": "Uma supernova, segundo a Nasa, é uma explosão extremamente brilhante e poderosa de uma estrela"
     }
 ]

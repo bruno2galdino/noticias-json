@@ -1,26 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/veja-resumo-da-partida-de-fonseca-com-jarry-em-12-minutos.html",
-        "title": "Veja resumo da partida de Fonseca com Jarry em 12 minutos",
-        "image": null,
-        "date": "04/07/2025",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-vence-perigoso-alemao-em-quatro-sets-e-amplia-serie-invicta.html",
-        "title": "Alcaraz vence perigoso alemão em quatro sets e amplia série invicta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/alcaraz_wimbledon_narede25-1024x571.png",
-        "date": "04/07/2025",
-        "description": "Londres (Inglaterra) –A série invicta de Carlos Alcaraz no circuito e busca pelo tricampeonato de Wimbledon continuam. O espanhol marcou sua 21ª vitória seguida nesta sexta-feira e garantiu vaga nas oitavas de final do Grand Slam londrino ao vencer o alemão Jan-Lennard Struff, de 35 anos e 125º do ranking, por 6/1, 3/6, 6/3 e 6/4 em 2h25 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/shelton-tira-o-resto-do-dia-de-folga-apos-jogar-apenas-4-pontos.html",
-        "title": "Shelton tira o resto do dia de folga após jogar apenas 4 pontos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/shelton-wimbledon-entrevista-2025-.jpg",
-        "date": "04/07/2025",
-        "description": "Londres (Inglaterra)– O norte-americano Ben Shelton pareceu visivelmente irritado na última quinta-feira ao ser notificado que, sacando para vencer a segunda rodada de Wimbledon contra o australiano Rinky Hijikata, a partida teria que ser interrompida por causa do limite de horário do All England Club. A situação ficou ainda mais estranha nesta sexta quando ele retornou à quadra por apenas 70 segundos e venceu os quatro pontos que faltavam para avançar com parciais de 6/2, 7/5 e 6/4."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-04-07.html",
         "title": "O dia dos brasileiros: veja os resultados desta sexta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/ingrid-martins_caldasdarainha_esperasaque.jpg",
@@ -68,5 +47,26 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/monfils-wimnledon-olhabola-2025-e1751650176788-1024x683.jpg",
         "date": "04/07/2025",
         "description": "Londres (Inglaterra)– Gael Monfils chegou a sacar para fechar sua partida de segunda rodada contra o húngaro Marton Fucsovics, mas foi quebrado de zero e depois perdeu o tiebreak. A partida foi interrompida e, nesta sexta-feira, o francês não conseguiu reagir em condições de quadra que ele considerou um pouco diferentes e foi derrotado por 6/4, 1/6, 4/6, 7/6 (7-5) e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/stefani-vai-confiante-para-as-oitavas-e-tambem-joga-mistas.html",
+        "title": "Stefani vai confiante para as oitavas e também joga mistas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/stefani_babos_wimbledon_voleia-1024x733.jpeg",
+        "date": "04/07/2025",
+        "description": "Londres (Inglaterra) –Classificada para as oitavas de final de duplas em Wimbledon, Luísa Stefani vai confiante para a próxima fase, ainda mais depois de umavitória tão difícil pela segunda rodada. A brasileira e a húngara Timea Babos superaram nesta sexta-feira a chinesa Hanyu Guo e a russa Alexandra Panova, recentes campeãs no WTA 500 de Bad Homburg, em partida com 2h54 de duração."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/osaka-nao-tem-nada-de-positivo-para-dizer-apos-derrota-em-wimbledon.html",
+        "title": "Osaka não tem “nada de positivo para dizer” após derrota em Wimbledon",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/osaka-1024x682.jpg",
+        "date": "04/07/2025",
+        "description": "Londres (Inglaterra)– Naomi Osaka não conseguiu encontrar muitas coisas positivas para dizer após ser eliminada na terceira rodada de Wimbledon nesta sexta-feira pela russa Anastasia Pavlyuchenkova, com parciais de 3/6, 6/4 e 6/4, e não vê a hora de começar a perna norte-americana do circuito em quadras duras."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fritz-volta-a-perder-set-mas-derrota-espanhol-e-vai-as-oitavas.html",
+        "title": "Fritz volta a perder set, mas derrota espanhol e vai às oitavas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/fritz-wimbledon-saca-2025-1024x682.jpg",
+        "date": "04/07/2025",
+        "description": "Londres (Inglaterra)– A campanha do norte-americano Taylor Fitz nesta edição de Wimbledon está sendo das mais trabalhosas. Depois de superar as duas primeiras rodadas com vitórias em cinco sets, nesta sexta-feira ele teve um pouco menos de trabalho com o espanhol Alejandro Davidovich Fokina, mas ainda sim cedeu um set e bateu o rival por 6/4, 6/3, 6/7 (5-7) e 6/1"
     }
 ]
