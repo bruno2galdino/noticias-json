@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/sem-wall-street-ibovespa-e-dolar-encerram-a-semana-em-alta/",
+        "title": "Sem Wall Street, Ibovespa e Dólar Encerram a Semana em Alta",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "04/07/2025",
+        "description": "Índice brasileiro superou a marca dos 141 mil pontos pela primeira vez na história"
+    },
+    {
         "url": "https://forbes.com.br/forbes-collab/2025/07/a-historia-por-tras-do-untold-stories/",
         "title": "A História por trás do Untold Stories",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Endeavor-Untold-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-3-300x200.png",
         "date": "04/07/2025",
         "description": "Em 15 de julho, líderes do governo, Câmara, Senado e Procuradoria-Geral da República deverão se reunir para chegar a acordo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/brandvoice-huawei-educacao-digital-e-inteligente-tecnologias-transformam-o-aprendizado-e-impulsionam-o-capital-humano/",
-        "title": "Educação Digital e Inteligente: Tecnologias Transformam o Aprendizado e Impulsionam o Capital Humano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-4-300x200.png",
-        "date": "04/07/2025",
-        "description": "Integração tecnológica em projetos educacionais aprimora o aprendizado, fortalece o papel dos professores e cria ambientes seguros, colaborativos e inclusivos"
     }
 ]
