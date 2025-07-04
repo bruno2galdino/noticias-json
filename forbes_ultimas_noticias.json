@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/infomercial-best-life-solucoes-reduzem-custos-empresariais/",
+        "title": "Soluções Reduzem Custos Empresariais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/best-life-if-julho-300x200.png",
+        "date": "04/07/2025",
+        "description": "Com foco em dados e performance, Best Life revoluciona a gestão de saúde e mira dobrar sua carteira até 2027"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/07/pais-europeu-acessivel-lanca-novo-visto-para-nomades-digitais-veja-o-que-voce-precisa-saber/",
+        "title": "Quer Morar na Europa? País Vizinho da Itália Lança Novo Visto para Nômades Digitais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-Eslovenia-visto-nomade-digital-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "Programa entra em vigor em novembro e permite que profissionais remotos residam no país vizinho de Itália e Croácia durante um ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/07/mark-travers-3-habitos-essenciais-que-podem-ajudar-a-prevenir-o-burnout/",
+        "title": "3 Hábitos Essenciais Que Podem Ajudar a Prevenir o Burnout",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/960x0-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "Excesso de esforço pode levar ao esgotamento. Adote estas três estratégias para se proteger"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/mercado-de-mas-resiste-e-tem-expectativas-positivas-para-o-segundo-semestre/",
+        "title": "Mercado de M&As Resiste e Tem Expectativas Positivas para o Segundo Semestre",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-2-300x200.png",
+        "date": "04/07/2025",
+        "description": "Volume de operações caiu na primeira metade do ano pelo cenário econômico incerto e alta dos juros"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/07/jornalista-empresaria-e-vencedora-do-emmy-quem-e-lauren-sanchez-esposa-de-jeff-bezos/",
+        "title": "Quem é Lauren Sánchez, Esposa de Jeff Bezos?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-lauren-sanchez-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "Americana que se casou com o bilionário fundador da Amazon na última semana também é filantropa e autora best-seller"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/07/aquisicao-historica-grupo-caffo-incorpora-a-iconica-cinzano-ao-portfolio/",
+        "title": "Aquisição Histórica: Grupo Caffo Incorpora a Icônica Cinzano Ao Portfólio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_Vermute_3JUl2025_Getty-300x200.png",
+        "date": "04/07/2025",
+        "description": "O negócio une duas trajetórias centenárias da enologia italiana sem sobreposição de produtos, com objetivo de crescimento internacional"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/world-bbq-day-aqui-esta-o-seu-manual-da-carne-na-brasa/",
+        "title": "World BBQ Day, Aqui Está o Seu Manual da Carne na Brasa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_churrasco_picanha_03jul25_Getty-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "Dá tempo de comemorar. Neste sábado, arrume grelhas, se arrisque em cortes e mergulhe nos sabores da proteína mais cobiçada do mundo"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/07/como-empregadores-do-setor-de-viagens-e-turismo-se-adaptam-a-geracao-z/",
+        "title": "Como Empregadores do Setor de Viagens e Turismo se Adaptam À Geração Z",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Jovens-ficam-de-pe-e-sentam-se-em-frente-a-Iglesia-de-Nuestra-Senora-de-Guadalupe-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "Empresas dos setores de turismo, hotelaria e aviação adotam novas estratégias para atrair e capacitar a Geração Z, priorizando tecnologia, flexibilidade e propósito no ambiente de trabalho"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/opostos-ibovespa-registra-maxima-historica-e-dolar-chega-a-minima-no-ano/",
         "title": "Opostos: Ibovespa Registra Máxima Histórica e Dólar Chega À Mínima no Ano",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-eua-camara-dos-deputados-300x200.jpg",
         "date": "03/07/2025",
         "description": "Presidente financiará sua repressão à imigração e oferecerá novos incentivos fiscais, entre outras medidas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/itau-bba-diz-que-safra-2025-26-ainda-e-periodo-de-ressaca/",
-        "title": "Itaú BBA Diz Que Safra 2025/26 Ainda É Período de “Ressaca”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_SojaItauBBA_3JUl2025_Getty-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Para o banco, safras anteriores pressionadas e o cenário geopolítico vão dar o tom dos negócios no próximo período"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/consumo-global-de-cafe-mostra-resiliencia-a-precos-altos-dizem-executivos-globais/",
-        "title": "Consumo Global de Café Mostra Resiliência a Preços Altos",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/12/agro-cafe-robusta-08Ago23-PauloWhitaker-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Cotação marcou recordes em fevereiro deste ano na bolsa ICE"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/tereos-quer-ampliar-atuacao-em-mercado-livre-de-energia/",
-        "title": "Tereos Quer Ampliar Atuação em Mercado Livre de Energia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Tereos_3JUl2025_Reuters-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "A empresa gera energia elétrica a partir da biomassa da cana em seis de suas usinas sucroalcooleiras no Estado de São Paulo"
-    },
-    {
-        "url": "https://forbes.com.br/brand-voice/2025/07/joao-appolinario-neto-participa-do-podcast-under-30-a-jornada/",
-        "title": "João Appolinário Neto Participa do Podcast Under 30 – a Jornada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/joao-appolinario-neto-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "CEO do Mega Studio Be Emotion fala sobre sua trajetória no programa apresentado por Johnnie Walker"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/07/fernando-maluf-julho-verde-nova-estrategia-reduz-risco-de-recidiva-no-cancer-de-cabeca-e-pescoco-apos-cirurgia/",
-        "title": "Julho Verde: Nova Estratégia Reduz Risco de Recidiva no Câncer de Cabeça e Pescoço após Cirurgia",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/07/cancer-cabeca-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Estudo apresentado na plenária da ASCO 2025 indica benefício da imunoterapia combinada ao tratamento padrão em pacientes de alto risco"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/onde-o-papa-leao-vai-passar-as-ferias-de-julho/",
-        "title": "Onde o Papa Leão Vai Passar as Férias de Julho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Papa-Leao-XIV-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Leão passará o período de 6 a 20 de julho a uma hora de carro ao sul de Roma"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/embraer-entrega-61-aeronaves-no-2o-tri-alta-de-30-ano-a-ano/",
-        "title": "Embraer Entrega 61 Aeronaves no 2º Tri, Alta de 30% Ano a Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/06/embraer-forbesmoney-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Na aviação executiva, as entregas subiram 41% ante o mesmo período um ano antes"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/no-japao-profissionais-conquistam-mais-um-grande-aumento-salarial/",
-        "title": "No Japão, Profissionais Conquistam Aumento Salarial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-aumento-salario-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Impulsionadas pela inflação e pela falta de profissionais, empresas concedem o maior reajuste salarial em mais de três décadas"
     }
 ]
