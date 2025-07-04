@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-feriado-no-eua-dolar-na-minima-e-bolsa-na-maxima/",
+        "title": "Pré-mercado: Feriado no EUA, Dólar na Mínima e Bolsa na Máxima",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "04/07/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 4 de julho"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/infomercial-best-life-solucoes-reduzem-custos-empresariais/",
         "title": "Soluções Reduzem Custos Empresariais",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/best-life-if-julho-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
         "date": "03/07/2025",
         "description": "Relatório de emprego nos EUA impulsionou mercado e recordes também foram registrados em Wall Street"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/camara-dos-deputados-dos-eua-aprova-projeto-de-corte-de-impostos-e-gastos-de-trump-que-vai-a-sancao/",
-        "title": "Câmara dos Deputados dos EUA Aprova Projeto de Corte de Impostos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-eua-camara-dos-deputados-300x200.jpg",
-        "date": "03/07/2025",
-        "description": "Presidente financiará sua repressão à imigração e oferecerá novos incentivos fiscais, entre outras medidas"
     }
 ]
