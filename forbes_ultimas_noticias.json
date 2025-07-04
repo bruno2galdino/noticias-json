@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/editoras-independentes-fazem-queixa-antitruste-na-ue-contra-visoes-gerais-de-ia-do-google/",
+        "title": "Editoras Independentes Fazem Queixa Antitruste na UE contra Visões Gerais de IA do Google",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/2025-04-22T144337Z_1_LYNXMPEL3L0RK_RTROPTP_4_ALPHABET-AI-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "O documento da Independent Publishers Alliance apresenta uma queixa à Comissão Europeia e alega que o Google abusa do seu poder de mercado nas pesquisas online"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/policia-civil-de-sp-prende-suspeito-de-envolvimento-em-ataque-cibernetico-a-cm-software/",
+        "title": "Polícia Civil de SP Prende Suspeito de Envolvimento em Ataque Cibernético À C&M Software",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/07/ForbesTech_Hacker_Kacper-Pempel_Reuters-2.png",
+        "date": "04/07/2025",
+        "description": "As investigações apontam que um funcionário da empresa teria facilitado a ação criminosa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/conciliacao-marcada-moraes-suspende-decisoes-do-governo-e-congresso-sobre-iof/",
+        "title": "Reconciliação Marcada: Moraes Suspende Decisões do Governo e Congresso sobre IOF",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-3-300x200.png",
+        "date": "04/07/2025",
+        "description": "Em 15 de julho, líderes do governo, Câmara, Senado e Procuradoria-Geral da República deverão se reunir para chegar a acordo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/07/brandvoice-huawei-educacao-digital-e-inteligente-tecnologias-transformam-o-aprendizado-e-impulsionam-o-capital-humano/",
         "title": "Educação Digital e Inteligente: Tecnologias Transformam o Aprendizado e Impulsionam o Capital Humano",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-4-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-Eslovenia-visto-nomade-digital-300x200.jpg",
         "date": "04/07/2025",
         "description": "Programa entra em vigor em novembro e permite que profissionais remotos residam no país vizinho de Itália e Croácia durante um ano"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/mark-travers-3-habitos-essenciais-que-podem-ajudar-a-prevenir-o-burnout/",
-        "title": "3 Hábitos Essenciais Que Podem Ajudar a Prevenir o Burnout",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/960x0-300x200.jpg",
-        "date": "04/07/2025",
-        "description": "Excesso de esforço pode levar ao esgotamento. Adote estas três estratégias para se proteger"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/mercado-de-mas-resiste-e-tem-expectativas-positivas-para-o-segundo-semestre/",
-        "title": "Mercado de M&As Resiste e Tem Expectativas Positivas para o Segundo Semestre",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Tamanho-site-Tech-2-300x200.png",
-        "date": "04/07/2025",
-        "description": "Volume de operações caiu na primeira metade do ano pelo cenário econômico incerto e alta dos juros"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/jornalista-empresaria-e-vencedora-do-emmy-quem-e-lauren-sanchez-esposa-de-jeff-bezos/",
-        "title": "Quem é Lauren Sánchez, Esposa de Jeff Bezos?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Jeff-Bezos-e-sua-noiva-Lauren-Sanchez-300x200.jpg",
-        "date": "04/07/2025",
-        "description": "Americana que se casou com o bilionário fundador da Amazon na última semana também é filantropa e autora best-seller"
     }
 ]
