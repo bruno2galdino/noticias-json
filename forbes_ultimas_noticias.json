@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/brandvoice-huawei-educacao-digital-e-inteligente-tecnologias-transformam-o-aprendizado-e-impulsionam-o-capital-humano/",
+        "title": "Educação Digital e Inteligente: Tecnologias Transformam o Aprendizado e Impulsionam o Capital Humano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-4-300x200.png",
+        "date": "04/07/2025",
+        "description": "Integração tecnológica em projetos educacionais aprimora o aprendizado, fortalece o papel dos professores e cria ambientes seguros, colaborativos e inclusivos"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/07/stf-homologa-acordo-para-ressarcir-vitimas-de-fraudes-no-inss/",
+        "title": "STF Homologa Acordo para Ressarcir Vítimas de Fraudes no INSS",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-STF-pejotizacao-300x200.jpg",
+        "date": "04/07/2025",
+        "description": "Valores ficarão fora do arcabouço fiscal, com tratamento igual ao dos precatórios"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/primeira-dupla-supernova-e-encontrada-no-ceu-noturno-entenda/",
+        "title": "Primeira \" Dupla Supernova\" É Encontrada no Céu Noturno; Entenda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/dupla-supernova-300x200.png",
+        "date": "04/07/2025",
+        "description": "Uma supernova, segundo a Nasa, é uma explosão extremamente brilhante e poderosa de uma estrela"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mkt/2025/07/the-led-compra-a-retail-media-e-projeta-investimento-de-r-200-milhoes/",
         "title": "The Led Compra a Retail Media e Projeta Investimento de R$ 200 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Richard-Albanesi-e-Cristiano-300x200.jpg",
@@ -22,7 +43,7 @@
     },
     {
         "url": "https://forbes.com.br/carreira/2025/07/pais-europeu-acessivel-lanca-novo-visto-para-nomades-digitais-veja-o-que-voce-precisa-saber/",
-        "title": "Quer Morar na Europa? País Vizinho da Itália Lança Novo Visto para Nômades Digitais",
+        "title": "Quer Morar na Europa? Eslovênia Lança Novo Visto para Nômades Digitais",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-Eslovenia-visto-nomade-digital-300x200.jpg",
         "date": "04/07/2025",
         "description": "Programa entra em vigor em novembro e permite que profissionais remotos residam no país vizinho de Itália e Croácia durante um ano"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-lauren-sanchez-300x200.jpg",
         "date": "04/07/2025",
         "description": "Americana que se casou com o bilionário fundador da Amazon na última semana também é filantropa e autora best-seller"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/aquisicao-historica-grupo-caffo-incorpora-a-iconica-cinzano-ao-portfolio/",
-        "title": "Grupo Caffo Incorpora a Icônica Cinzano ao Portfólio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_Vermute_3JUl2025_Getty-300x200.png",
-        "date": "04/07/2025",
-        "description": "O negócio une duas trajetórias centenárias da enologia italiana sem sobreposição de produtos, com objetivo de crescimento internacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/world-bbq-day-aqui-esta-o-seu-manual-da-carne-na-brasa/",
-        "title": "World BBQ Day, Aqui Está o Seu Manual da Carne na Brasa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_churrasco_picanha_03jul25_Getty-300x200.jpg",
-        "date": "04/07/2025",
-        "description": "Dá tempo de comemorar. Neste sábado, arrume grelhas, se arrisque em cortes e mergulhe nos sabores da proteína mais cobiçada do mundo"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/como-empregadores-do-setor-de-viagens-e-turismo-se-adaptam-a-geracao-z/",
-        "title": "Como Empregadores do Setor de Viagens e Turismo se Adaptam À Geração Z",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.Jovens-ficam-de-pe-e-sentam-se-em-frente-a-Iglesia-de-Nuestra-Senora-de-Guadalupe-300x200.jpg",
-        "date": "04/07/2025",
-        "description": "Empresas dos setores de turismo, hotelaria e aviação adotam novas estratégias para atrair e capacitar a Geração Z, priorizando tecnologia, flexibilidade e propósito no ambiente de trabalho"
     }
 ]
