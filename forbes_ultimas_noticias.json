@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2025/07/scarlett-johansson-se-torna-a-atriz-de-maior-bilheteria-da-historia-de-hollywood/",
+        "title": "Scarlett Johansson É a Atriz de Maior Bilheteria da História de Hollywood",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-Scarlett-Johansson-jurassic-world-300x200.jpg",
+        "date": "07/07/2025",
+        "description": "Somando US$ 14,8 bilhões em bilheteria, estrela de “Jurassic World: Recomeço” ultrapassa Samuel L. Jackson, Robert Downey Jr. e Zoe Saldana no ranking global"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mkt/2025/07/queremos-curar-restaurar-e-regenerar-o-mundo-que-conhecemos-hoje-diz-ceo-da-natura/",
         "title": "\"Queremos Curar, Restaurar e Regenerar o Mundo Que Conhecemos Hoje\", Diz CEO da Natura",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Design-sem-nome-6-300x200.png",
@@ -28,6 +35,13 @@
         "description": "Lula critica negacionismo climático e alfineta Trump por retirada dos EUA do Acordo de Paris"
     },
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/nina-ploger-recebe-titulo-de-comendadora-da-ordem-de-juscelino-kubitschek/",
+        "title": "Nina Plöger recebe título de Comendadora da Ordem de Juscelino Kubitschek",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/NinaPloger_Titulo_7JUl2025_LuPrezia-300x200.jpg",
+        "date": "07/07/2025",
+        "description": "Ela foi a primeira mulher do agronegócio a receber a honraria"
+    },
+    {
         "url": "https://forbes.com.br/listas/2025/07/10-empresas-mais-inovadoras-do-brasil-2024/",
         "title": "10 Empresas Mais Inovadoras do Brasil 2024",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/IMAGENS_DIMENSAO-SITE-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-1-2-300x200.png",
         "date": "07/07/2025",
         "description": "Embarcações serão construídas pela Seatrium e devem começar a funcionar a partir de 2029"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/mercado-reduz-projecao-de-inflacao-para-2025-e-eleva-pib/",
-        "title": "Mercado Reduz Projeção de Inflação para 2025 e Eleva PIB",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-4-300x200.png",
-        "date": "07/07/2025",
-        "description": "Alta dos preços em 2026 foi mantida, enquanto crescimento econômico teve queda"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/apple-leva-batalha-contra-multa-de-us-587-milhoes-da-ue-para-tribunal/",
-        "title": "Apple Leva Batalha contra Multa de US$ 587 Milhões da UE para Tribunal",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Logo-Apple-300x200.png",
-        "date": "07/07/2025",
-        "description": "Em uma decisão de abril, a Comissão Europeia afirmou que restrições técnicas e comerciais da empresa violaram a Lei de Mercados Digitais"
     }
 ]
