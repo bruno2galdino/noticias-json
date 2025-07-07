@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-as-tarifas-voltam-ao-radar-e-as-bolsas-caem/",
+        "title": "Pré-mercado: as Tarifas Voltam Ao Radar e as Bolsas Caem",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "07/07/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 7 de julho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/acoes-da-tesla-desabam-no-pre-mercado-apos-elon-musk-anunciar-novo-partido/",
+        "title": "Ações da Tesla Desabam no Pré-mercado após Elon Musk Anunciar Novo Partido",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Trusk-JPG-300x200.jpg",
+        "date": "07/07/2025",
+        "description": "Cotações recuaram 7% porque volta do bilionário à política preocupa investidores; Trump diz que Musk está “fora de controle”"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/dia-mundial-do-chocolate-o-que-voce-precisa-saber-sobre-essa-cadeia-produtiva/",
         "title": "Dia Mundial do Chocolate: o Que Você Precisa Saber sobre Essa Cadeia Produtiva",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_chocolate_10jul25_Liudmila-Chernetska_Getty-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_O-Cristo-Redentor-ao-nascer-do-sol-300x200.jpg",
         "date": "07/07/2025",
         "description": "Com custo de vida competitivo e uma diversidade que encanta, o Brasil reúne cenários de sonho e oportunidades concretas de prosperidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/ia-dados-e-o-novo-cenario-dos-servicos-financeiros/",
-        "title": "IA, Dados e o Novo Cenário dos Serviços Financeiros",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/bancos-dados-300x200.png",
-        "date": "07/07/2025",
-        "description": "Boa parte das instituições financeiras ainda lida com bases de dados desestruturadas, o que dificulta o uso eficiente da IA"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/fundadora-da-jo-malone-london-lanca-linha-de-vodca/",
-        "title": "Fundadora da Jo Malone London Lança Linha de Vodca",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Jo-Malone-CBE-lanca-Jo-Vodka-hoje-300x200.jpg",
-        "date": "06/07/2025",
-        "description": "Com design refinado e conceito multissensorial, nova marca britânica de bebidas estreia em 100 lojas pelo mundo"
     }
 ]
