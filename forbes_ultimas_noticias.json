@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/mercado-reduz-projecao-de-inflacao-para-2025-e-eleva-pib/",
+        "title": "Mercado Reduz Projeção de Inflação para 2025 e Eleva PIB",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-4-300x200.png",
+        "date": "07/07/2025",
+        "description": "Alta dos preços em 2026 foi mantida, enquanto crescimento econômico teve queda"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/apple-leva-batalha-contra-multa-de-us-587-milhoes-da-ue-para-tribunal/",
+        "title": "Apple Leva Batalha contra Multa de US$ 587 Milhões da UE para Tribunal",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Logo-Apple-300x200.png",
+        "date": "07/07/2025",
+        "description": "Em uma decisão de abril, a Comissão Europeia afirmou que restrições técnicas e comerciais da empresa violaram a Lei de Mercados Digitais"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-as-tarifas-voltam-ao-radar-e-as-bolsas-caem/",
         "title": "Pré-mercado: as Tarifas Voltam Ao Radar e as Bolsas Caem",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -12,6 +26,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Trusk-JPG-300x200.jpg",
         "date": "07/07/2025",
         "description": "Cotações recuaram 7% porque volta do bilionário à política preocupa investidores; Trump diz que Musk está “fora de controle”"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/infomercial-leao-group-nova-era-de-oportunidades-internacionais/",
+        "title": "Nova era de Oportunidades Internacionais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-1-300x200.png",
+        "date": "07/07/2025",
+        "description": "Geração 50+ conquista espaço global e transforma maturidade em ativo estratégico"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/07/dia-mundial-do-chocolate-o-que-voce-precisa-saber-sobre-essa-cadeia-produtiva/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/carreira-habilidades-inteligencia-artificial-300x200.jpg",
         "date": "07/07/2025",
         "description": "O médico goianiense Bones Gonçalves Jr, sócio da apresentadora Ana Hickmann, ganhou uma versão em IA a partir da estratégia da DMZ"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/como-a-polemica-entre-justin-baldoni-e-blake-lively-levou-um-bilionario-a-encerrar-sua-fundacao/",
-        "title": "Como o Escândalo Baldoni-Lively Levou um Bilionário a Encerrar Sua Fundação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-3-300x200.jpg",
-        "date": "07/07/2025",
-        "description": "Steve Sarowitz cofundou o estúdio de cinema Wayfarer com Baldoni e ganhou os holofotes com a polêmica que começou no set do filme \"É Assim Que Acaba\""
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2025/07/marcelo-bronze-da-danone-liderar-significa-criar-legados-compartilhados/",
-        "title": "CMO da Danone: “Liderar Significa Criar Legados Compartilhados\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Bronze-300x200.jpg",
-        "date": "07/07/2025",
-        "description": "CMO de uma das principais empresas de alimentos do mundo e eleito Melhor CMO da Forbes Brasil 2025 destaca os aprendizados de carreira e os desafios do marketing moderno"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/como-o-mundo-enxerga-a-riqueza-no-brasil/",
-        "title": "Como o Mundo Enxerga a Riqueza no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_O-Cristo-Redentor-ao-nascer-do-sol-300x200.jpg",
-        "date": "07/07/2025",
-        "description": "Com custo de vida competitivo e uma diversidade que encanta, o Brasil reúne cenários de sonho e oportunidades concretas de prosperidade"
     }
 ]
