@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/07/quem-e-o-novo-ceo-do-carrefour/",
+        "title": "Quem é o Novo CEO do Carrefour",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-carrefour-pablo-lorenzo-300x200.jpg",
+        "date": "08/07/2025",
+        "description": "Argentino com quase três décadas de casa, Pablo Lorenzo assume a liderança das operações na América Latina"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/chuvas-afetam-colheita-de-cafe-dos-cooperados-da-cooxupe/",
+        "title": "Chuvas Afetam Colheita de Café dos Cooperados da Cooxupé",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_ColheitaDeCafe_8JUl2025_Getty-300x200.jpg",
+        "date": "08/07/2025",
+        "description": "A safra dos mais de 20 mil cooperados é colhida nas regiões do Sul de Minas, Cerrado Mineiro, Matas de Minas e média mogiana do Estado de São Paulo"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/paquistao-importara-500-mil-toneladas-de-acucar-para-manter-precos-estaveis/",
         "title": "Paquistão Importará 500 Mil Toneladas de Açúcar para Manter Preços Estáveis",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-08T135346Z_1_LYNXMPEL670J6_RTROPTP_4_COMMODS0-ACUCAR-PAQUISTAO-300x200.jpg",
@@ -14,7 +28,7 @@
         "description": "Programas semelhantes também estão em desenvolvimento nos Estados de Tocantins e Pará"
     },
     {
-        "url": "https://forbes.com.br/forbes-money/2025/07/exportacao-de-carne-suina-do-brasil-registra-receita-recorde-em-junho/",
+        "url": "https://forbes.com.br/forbesagro/2025/07/exportacao-de-carne-suina-do-brasil-registra-receita-recorde-em-junho/",
         "title": "Exportação de Carne Suína do Brasil Registra Receita Recorde em Junho",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-08T142258Z_1_LYNXMPEL670K9_RTROPTP_4_EUROPA-CHINA-COMERCIO-SUINA-300x200.jpg",
         "date": "08/07/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-7-300x200.png",
         "date": "08/07/2025",
         "description": "Plaenge fortalece operação na capital do Mato Grosso do Sul com legado urbano, requinte e visão de futuro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/40-dos-projetos-com-agentes-de-ia-serao-cancelados-ate-2027-segundo-gartner/",
-        "title": "40% dos Projetos com Agentes de IA Serão Cancelados até 2027, Segundo Gartner",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agentes-de-IA-300x200.png",
-        "date": "08/07/2025",
-        "description": "Além de resultados aquém do esperado, empresas enfrentam desafios relacionados à infraestrutura e altos custos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/agro-se-torna-o-novo-porto-seguro-para-os-bilionarios-family-offices/",
-        "title": "Agro se Torna o Novo Porto Seguro para os Family Offices",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_terra_dolar_10jul25_Dmytro-Varavin_Getty-300x200.jpg",
-        "date": "08/07/2025",
-        "description": "Chamada de grande e bela lei, nova legislação nos EUA injeta US$ 56,6 bilhões em programas de proteção agrícola até 2031, entre eles isenções de impostos sobre herança, doações e transferências entre gerações"
     }
 ]
