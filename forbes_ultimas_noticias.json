@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/07/aeroporto-de-brasilia-e-o-unico-brasileiro-entre-os-10-melhores-do-mundo-em-2025/",
+        "title": "Aeroporto de Brasília É o Único Brasileiro entre os 10 Melhores do Mundo em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Apesar-do-bom-desempenho-da-capital-o-cenario-geral-dos-aeroportos-brasileiros-e-de-declinio-300x200.jpg",
+        "date": "08/07/2025",
+        "description": "Ranking da AirHelp mostra queda do Brasil em desempenho aeroportuário; país já teve até quatro terminais no top 10 em anos anteriores"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/sovecon-eleva-previsao-de-exportacao-de-trigo-russo-na-temporada-2025-26/",
+        "title": "Sovecon Eleva Previsão de Exportação de Trigo Russo na Temporada 2025/26",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/Agro_Trigo_Russia_13dez24_GettyImagesOlgaRolenko-300x200.jpg",
+        "date": "08/07/2025",
+        "description": "No final de junho, a consultoria aumentou sua estimativa em 0,2 milhão de toneladas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/brasil-inicia-temporada-de-exportacao-de-milho-com-desafios/",
+        "title": "Brasil Inicia Temporada de Exportação de Milho com Desafios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-milho-300x200.jpg",
+        "date": "08/07/2025",
+        "description": "Ainda há dificuldades logísticas em meio a um atraso na colheita de 2024/25"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/07/quem-e-o-novo-ceo-do-carrefour/",
-        "title": "Quem é o Novo CEO do Carrefour",
+        "title": "De Estagiário a CEO: Quem é o Novo Líder do Carrefour",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-carrefour-pablo-lorenzo-300x200.jpg",
         "date": "08/07/2025",
-        "description": "Argentino com quase três décadas de casa, Pablo Lorenzo assume a liderança das operações na América Latina"
+        "description": "Argentino com quase três décadas de casa, Pablo Lorenzo assume a liderança das operações"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/07/chuvas-afetam-colheita-de-cafe-dos-cooperados-da-cooxupe/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/china-eua-tarifas-money-reuters-300x200.png",
         "date": "08/07/2025",
         "description": "Resposta chinesa afetaria países que fechassem acordo com os Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/vendas-no-varejo-do-brasil-frustram-expectativa-e-recuam-em-maio/",
-        "title": "Vendas no Varejo do Brasil Frustram Expectativa e Recuam em Maio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/varejo-getty-images-money-supermercado-300x200.png",
-        "date": "08/07/2025",
-        "description": "Setor chega ao segundo mês consecutivo em queda e reflete cenário econômico adverso"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-investidores-acreditam-em-tregua-no-caso-das-tarifas/",
-        "title": "Pré-mercado: Investidores Acreditam em Trégua no Caso das Tarifas",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "08/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 8 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/informecial-plaenge-luxo-e-inovacao-em-campo-grande/",
-        "title": "Luxo e Inovação em Campo Grande",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-7-300x200.png",
-        "date": "08/07/2025",
-        "description": "Plaenge fortalece operação na capital do Mato Grosso do Sul com legado urbano, requinte e visão de futuro"
     }
 ]
