@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/paquistao-importara-500-mil-toneladas-de-acucar-para-manter-precos-estaveis/",
+        "title": "Paquistão Importará 500 Mil Toneladas de Açúcar para Manter Preços Estáveis",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-08T135346Z_1_LYNXMPEL670J6_RTROPTP_4_COMMODS0-ACUCAR-PAQUISTAO-300x200.jpg",
+        "date": "08/07/2025",
+        "description": "Governo autoriza importação do produto via setor público, segundo comunicado oficial"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/07/piaui-emitira-creditos-de-carbono-para-projetos-de-combate-ao-desmatamento/",
+        "title": "Piauí Emitirá Créditos de Carbono Para Projetos de Combate Ao Desmatamento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/ESG_Desmatamento_8JUl2025_Getty-300x200.jpg",
+        "date": "08/07/2025",
+        "description": "Programas semelhantes também estão em desenvolvimento nos Estados de Tocantins e Pará"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/exportacao-de-carne-suina-do-brasil-registra-receita-recorde-em-junho/",
+        "title": "Exportação de Carne Suína do Brasil Registra Receita Recorde em Junho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-08T142258Z_1_LYNXMPEL670K9_RTROPTP_4_EUROPA-CHINA-COMERCIO-SUINA-300x200.jpg",
+        "date": "08/07/2025",
+        "description": "Segundo a ABPA, a alta nos preços e nos embarques impulsionou recorde histórico do setor"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/japao-e-coreia-do-sul-buscam-amenizar-o-impacto-das-tarifas-antes-do-prazo-final-de-agosto/",
         "title": "Japão e Coreia do Sul Buscam Amenizar o Impacto das Tarifas Antes do Prazo Final de Agosto",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-08T101405Z_1_LYNXMPEL670C5_RTROPTP_4_USA-TRUMP-TARIFFS-LETTERS-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_terra_dolar_10jul25_Dmytro-Varavin_Getty-300x200.jpg",
         "date": "08/07/2025",
         "description": "Chamada de grande e bela lei, nova legislação nos EUA injeta US$ 56,6 bilhões em programas de proteção agrícola até 2031, entre eles isenções de impostos sobre herança, doações e transferências entre gerações"
-    },
-    {
-        "url": "https://forbes.com.br/coluna/2025/07/por-que-a-vida-off-line-esta-virando-o-novo-normal/",
-        "title": "Por Que a Vida Off-line Está Virando o Novo Normal",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/12/agro_-livros-22dez23_last19_Guetty-300x200.jpg",
-        "date": "08/07/2025",
-        "description": "Talvez desconectar seja, na verdade, uma forma de se reencontrar"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/a-inteligencia-artificial-vai-decidir-sua-proxima-promocao/",
-        "title": "Por Que a IA Vai Decidir Sua Próxima Promoção",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-ia-promocao-carreira-300x200.jpg",
-        "date": "08/07/2025",
-        "description": "Conquistar uma promoção hoje exige mais do que agradar ao chefe – é preciso passar pelo crivo da IA"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/agora-em-paris-kenner-quer-mostrar-moda-brasileira-sem-caricaturas/",
-        "title": "Agora em Paris, Kenner Quer Mostrar Moda Brasileira sem Caricaturas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Kenner-300x200.jpg",
-        "date": "08/07/2025",
-        "description": "Em nova fase de expansão internacional, marca carioca de calçados chega à Galeries Lafayette e Marselha com seu streetwear de \"alto valor agregado\""
     }
 ]
