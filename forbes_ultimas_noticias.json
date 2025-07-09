@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/tarifa-de-50-dos-eua-ameaca-exportacao-de-cafe-e-suco-de-laranja-do-brasil/",
+        "title": "Tarifa de 50% dos EUA Ameaça Exportação de Café e Suco de Laranja do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CafeeSucodeLaranja_9JUl2025_Getty-300x200.jpg",
+        "date": "09/07/2025",
+        "description": "Representantes dos dois setores analisam o impacto das novas tarifas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/tarifa-de-50-surpeende-americanos-e-leva-brasil-as-manchetes/",
+        "title": "Tarifa de 50% Surpreende Americanos e Leva Brasil Às Manchetes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-09-nyt-2-300x200.jpg",
+        "date": "09/07/2025",
+        "description": "O fato de decisão de Trump ter sido justificada por critérios políticos, e não econômicos, eleva insegurança nas relações comerciais dos EUA com o resto do mundo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/eua-vao-taxar-produtos-brasileiros-em-50-maior-tarifa-ate-agora/",
         "title": "EUA Vão Taxar Produtos Brasileiros em 50%, Maior Tarifa até Agora",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2224128131_donald-trump_money-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-08T234748Z_1_LYNXMPEL6710L_RTROPTP_4_EUA-TRUMP-TARIFAS-ARRECADACAO-300x200.jpg",
         "date": "09/07/2025",
         "description": "Segundo Bessent, impacto das novas taxações de Trump só começou a ser sentido no segundo trimestre, após aumento generalizado de taxas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/china-revela-novas-medidas-para-ajudar-em-meio-a-custos-comerciais/",
-        "title": "China Revela Novas Medidas para Ajudar em Meio a Custos Comerciais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-09T121820Z_1_LYNXMPEL680JV_RTROPTP_4_CHINA-ECONOMY-GDP-300x200.jpg",
-        "date": "09/07/2025",
-        "description": "Empresas em dificuldade poderão adiar contribuições sociais, segundo o governo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/bradesco-planeja-liberar-mais-de-r-50-bilhoes-para-plano-safra-2025-26/",
-        "title": "Bradesco Planeja Liberar Mais de R$ 50 Bilhões para Plano Safra 2025/26",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_PlanoSafraBradesco_9JUl2025_Getty-300x200.jpg",
-        "date": "09/07/2025",
-        "description": "Parte dos recursos será operacionalizada pelo E-agro, plataforma digital de serviços financeiros do banco voltados para o agronegócio"
     }
 ]
