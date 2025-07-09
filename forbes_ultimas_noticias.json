@@ -1,19 +1,5 @@
 [
     {
-        "url": "https://forbes.com.br/forbesagro/2025/07/produtividade-do-milho-deve-ficar-acima-do-esperado-na-temporada-2024-25/",
-        "title": "Produtividade do Milho Deve Ficar Acima do Esperado na Temporada 2024/25",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_MilhoSLC_9JUl2025_Getty-300x200.png",
-        "date": "09/07/2025",
-        "description": "A SLC Agrícola também estimou que a produtividade da safrinha de milho deve crescer 7,8% em comparação à projeção do primeiro trimestre"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/07/onda-de-calor-na-europa-causou-2-300-mortes-estimam-cientistas/",
-        "title": "Onda de Calor na Europa Causou 2.300 Mortes, Estimam Cientistas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/calor-300x200.png",
-        "date": "09/07/2025",
-        "description": "O estudo foi conduzido por pesquisadores do Imperial College London e da London School of Hygiene and Tropical Medicine"
-    },
-    {
         "url": "https://forbes.com.br/carreira/2025/07/apple-nomeia-sabih-khan-como-diretor-de-operacoes/",
         "title": "Apple Nomeia Sabih Khan Como Diretor de Operações",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/COO-Apple-300x200.png",
@@ -68,5 +54,19 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/ia-saude-300x200.png",
         "date": "09/07/2025",
         "description": "A pesquisa TIC Saúde 2024, conduzida pelo Cetic.br, revelou que 17% dos médicos e 16% dos enfermeiros já utilizam IA em suas rotinas profissionais"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/07/3-sinais-de-alerta-em-amizades-que-voce-nao-deve-ignorar/",
+        "title": "3 Sinais de Alerta em Amizades Que Você Não Deve Ignorar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Amizades-300x200.jpg",
+        "date": "09/07/2025",
+        "description": "Psicólogo mostra que algumas relações não terminam de repente; elas te desgastam aos poucos"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/07/renda-extra-ou-promocao-as-estrategias-da-geracao-z-e-dos-millennials-para-dobrar-a-renda/",
+        "title": "Renda Extra ou Promoção? As Estratégias da Geração Z para Dobrar a Renda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-geracao-z-carreira-300x200.jpg",
+        "date": "09/07/2025",
+        "description": "Com menos paciência e mais pragmatismo, jovens profissionais assumem o controle financeiro"
     }
 ]
