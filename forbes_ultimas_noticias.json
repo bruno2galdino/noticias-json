@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/eua-vao-taxar-produtos-brasileiros-em-50-maior-tarifa-ate-agora/",
+        "title": "EUA Vão Taxar Produtos Brasileiros em 50%, Maior Tarifa até Agora",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2224128131_donald-trump_money-300x200.jpg",
+        "date": "09/07/2025",
+        "description": "Donald Trump enviou carta a Lula citando “perseguição” a Jair Bolsonaro e “ordens de censura” do STF contra empresas de mídia americanas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/ibovespa-fecha-em-queda-de-mais-de-1-com-tarifas-sob-holofotes/",
+        "title": "Ibovespa Fecha em Queda de Mais de 1% com Tarifas sob Holofotes",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa_oficial-300x200.png",
+        "date": "09/07/2025",
+        "description": "Já o dólar disparou, terminando o dia com alta de 1,05%. Em carta publicada após as 17h, Trump divulgou taxas de 50% sobre o Brasil"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/07/red-bull-demite-christian-horner-o-que-sabemos-ate-agora/",
         "title": "Red Bull Demite Christian Horner: O Que Sabemos até Agora",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-max-verstappen-horner-redbull-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_PlanoSafraBradesco_9JUl2025_Getty-300x200.jpg",
         "date": "09/07/2025",
         "description": "Parte dos recursos será operacionalizada pelo E-agro, plataforma digital de serviços financeiros do banco voltados para o agronegócio"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/07/papa-leao-interrompe-ferias-para-apelar-por-acoes-sobre-mudancas-climaticas/",
-        "title": "Papa Leão Interrompe Férias para Apelar por Ações sobre Mudanças Climáticas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-09T123552Z_1_LYNXMPEL680K4_RTROPTP_4_POPE-LEO-CLIMATE-CHANGE-300x200.jpg",
-        "date": "09/07/2025",
-        "description": "O novo papa, eleito para suceder Francisco, alertou sobre uma \"crise ecológica\", sem citar desastres específicos ligados ao aquecimento global"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/produtividade-do-milho-deve-ficar-acima-do-esperado-na-temporada-2024-25/",
-        "title": "Produtividade do Milho Deve Ficar Acima do Esperado na Temporada 2024/25",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_MilhoSLC_9JUl2025_Getty-300x200.png",
-        "date": "09/07/2025",
-        "description": "A SLC Agrícola também estimou que a produtividade da safrinha de milho deve crescer 7,8% em comparação à projeção do primeiro trimestre"
     }
 ]
