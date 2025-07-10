@@ -1,10 +1,45 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/ceo-do-x-renuncia-linda-yaccarino-caiu-do-penhasco-de-vidro/",
-        "title": "Linda Yaccarino, CEO do X, renuncia",
+        "url": "https://forbes.com.br/forbesagro/2025/07/precos-do-cafe-e-do-suco-de-laranja-podem-subir-nos-eua/",
+        "title": "Preços do Café e do Suco de Laranja Podem Subir nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CafeeSucodeLaranja_9JUl2025_Getty-300x200.jpg",
+        "date": "10/07/2025",
+        "description": "O Brasil produz quase metade do café arábica do mundo e responde por 80% das exportações globais de suco de laranja"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/anec-ve-aumento-de-24-na-exportacao-de-soja-do-brasil-em-julho/",
+        "title": "Anec Vê Aumento de 24% na Exportação de Soja do Brasil em Julho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Agro_ColheitaDeSojaAgRural_17MAR25_Reuters-300x200.jpg",
+        "date": "10/07/2025",
+        "description": "Os embarques deverão crescer na comparação anual à medida que o Brasil escoa uma safra recorde em 2024/25"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/pedidos-semanais-de-auxilio-desemprego-nos-eua-tem-queda-inesperada-na-ultima-semana/",
+        "title": "Pedidos Semanais de Auxílio-desemprego nos EUA Têm Queda Inesperada na Última Semana",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/04/money-desemprego-eua-vagas-de-trabalho-300x200.jpg",
+        "date": "10/07/2025",
+        "description": "As contratações têm sido fracas, tornando mais difícil para as pessoas desempregadas encontrarem trabalho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/openai-lancara-navegador-em-desafio-ao-google-chrome/",
+        "title": "OpenAI Lançará Navegador em Desafio Ao Google Chrome",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/06/tech-concorrentes-chatgpt-13Jun23-GettyImages-6-300x200.jpg",
+        "date": "10/07/2025",
+        "description": "O navegador da OpenAI foi projetado para manter algumas interações do usuário em uma interface de bate-papo semelhante ao ChatGPT"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/07/ceo-do-x-renuncia-linda-yaccarino-caiu-do-penhasco-de-vidro/",
+        "title": "CEO do X Renuncia: Linda Yaccarino Caiu do “Penhasco de Vidro”?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-Linda-Yaccarino-CEO-X--300x200.jpg",
         "date": "10/07/2025",
         "description": "Nomeação da executiva há dois anos reacendeu o debate sobre o “penhasco de vidro” – quando mulheres assumem empresas em crise"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/acao-da-minerva-cai-95-com-nova-tarifa-dos-eua/",
+        "title": "Ação da Minerva Cai 9,5% com Nova Tarifa dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CarneMinerva_10JUl2025_Reuters-300x200.jpg",
+        "date": "10/07/2025",
+        "description": "A empresa estima um impacto potencial máximo ao redor de 5% de sua receita líquida"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/07/chanel-a-ultima-colecao-de-alta-costura-antes-de-mathieu-blazy/",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/feira-no-Rio-de-Janeiro-money-ipca-inflacao-300x200.png",
         "date": "10/07/2025",
         "description": "IPCA foi impulsionado pela alta nas contas de luz e no grupo de Transportes"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/07/eduardo-mira-tarifa-de-50-dos-eua-o-que-isso-significa-para-a-economia-brasileira/",
-        "title": "Tarifa de 50% dos EUA: o Que Isso Significa para a Economia Brasileira?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/Money_Trump_Tarifas_01FEV25_ElizabethFrantzReuters-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "O tarifaço anunciado por Donald Trump pode mudar o rumo das exportações brasileiras. Mas o que isso significa de verdade para a economia e para o seu bolso?"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/tarifaco-para-citi-impacto-sobre-empresas-brasileiras-de-commodities-nao-sera-significativo/",
-        "title": "Tarifaço: para Citi, Impacto sobre Empresas Brasileiras de Commodities Não Será Significativo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/porto-de-los-angeles-money-tarifas-300x200.png",
-        "date": "10/07/2025",
-        "description": "Apesar disso, analistas consideram que as mudanças impactarão na taxa de câmbio"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-reacao-negativa-ao-aumento-de-tarifas/",
-        "title": "Pré-mercado: Reação Negativa Ao Aumento de Tarifas",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "10/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 10 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/brasil-diz-que-respondera-com-reciprocidade-elevacao-de-tarifas-dos-eua/",
-        "title": "Brasil Diz Que Responderá com Reciprocidade Elevação de Tarifas dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2224318104_money_donald-trump-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Donald Trump anunciou na quarta-feira (9) a imposição de tarifas de 50% sobre produtos brasileiros"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/varejo-tem-queda-de-05-no-primeiro-semestre-segundo-ivs/",
-        "title": "Varejo Tem Queda de 0,5% no Primeiro Semestre, segundo IVS",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/varejo-25-de-marco-money-300x200.png",
-        "date": "10/07/2025",
-        "description": "Em junho, setor registrou recuo de 4,2%, reforçando indicativos de desaceleração da economia brasileira"
     }
 ]
