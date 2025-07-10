@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/tarifas-dos-eua-podem-reduzir-em-05-crescimento-do-pib-em-2025/",
+        "title": "Tarifas dos EUA Podem Reduzir em 0,5% Crescimento do PIB em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/06/agro-Fabrica-de-celulose-e-papel--300x200.jpg",
+        "date": "10/07/2025",
+        "description": "Suzano e Embraer podem ser as empresas mais afetadas pelas sanções americanas, avaliam bancos de investimento como o Goldman Sachs"
+    },
+    {
+        "url": "https://forbes.com.br/listas/2025/07/forbes-abre-inscricoes-para-lista-under-30-2025/",
+        "title": "Forbes Abre Inscrições para Lista Under 30 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/capa-ed-126_u30-300x200.jpg",
+        "date": "10/07/2025",
+        "description": "Em sua 12ª edição, seleção irá apontar empreendedores, criadores e game-changers abaixo de 30 anos que mais se destacaram em seus setores"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/apos-eua-anunciarem-tarifas-de-50-ibovespa-recua-e-dolar-sobe/",
         "title": "Após EUA Anunciar Tarifas de 50%, Ibovespa Recua e Dólar Sobe",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-5-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Bracelete-da-colecao-Monili-collab-entre-Gucci-e-Pomellato-300x200.jpg",
         "date": "10/07/2025",
         "description": "Por trás das linhas simples da parceria das grifes italianas há uma admirável herança estética"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/dubai-tera-restaurante-operado-por-um-chef-de-ia/",
-        "title": "Dubai Terá Restaurante Operado por um Chef de IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-6-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "O Woohoo será inaugurado em setembro no centro da cidade, a poucos passos do edifício mais alto do mundo, o Burj Khalifa"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/precos-do-cafe-e-do-suco-de-laranja-podem-subir-nos-eua/",
-        "title": "Preços do Café e do Suco de Laranja Podem Subir nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CafeeSucodeLaranja_9JUl2025_Getty-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "O Brasil produz quase metade do café arábica do mundo e responde por 80% das exportações globais de suco de laranja"
     }
 ]
