@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/apos-eua-anunciarem-tarifas-de-50-ibovespa-recua-e-dolar-sobe/",
+        "title": "Após EUA Anunciar Tarifas de 50%, Ibovespa Recua e Dólar Sobe",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-5-300x200.png",
+        "date": "10/07/2025",
+        "description": "Para especialistas, impacto das tarifas americanas deve ser limitado e há boas expectativas com a negociação entre os países"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/07/ana-maria-goncalves-e-a-primeira-mulher-negra-a-se-tornar-imortal-da-abl-em-128-anos/",
+        "title": "Ana Maria Gonçalves É a 1ª  Mulher Negra Imortal da ABL",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-Ana-Maria-Goncalves-300x200.jpg",
+        "date": "10/07/2025",
+        "description": "Autora de 55 anos, consagrada pela obra \"Um Defeito de Cor\", também é a mais jovem do atual quadro de imortais"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/agronegocio-brasileiro-reage-com-preocupacao-a-nova-tarifa-dos-eua/",
+        "title": "Agronegócio Brasileiro Reage com Preocupação a Nova Tarifa dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Cafe_10JUl2025_Getty-300x200.jpg",
+        "date": "10/07/2025",
+        "description": "Setor entende que não há justificativas para a taxação e prevê prejuízos para os dois países"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/07/giorgio-armani-prive-todos-os-tons-de-preto/",
         "title": "Giorgio Armani Privé: Todos os Tons de Preto",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Giorgio-Armani-Prive-Inverno-2526-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CafeeSucodeLaranja_9JUl2025_Getty-300x200.jpg",
         "date": "10/07/2025",
         "description": "O Brasil produz quase metade do café arábica do mundo e responde por 80% das exportações globais de suco de laranja"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/anec-ve-aumento-de-24-na-exportacao-de-soja-do-brasil-em-julho/",
-        "title": "Anec Vê Aumento de 24% na Exportação de Soja do Brasil em Julho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Agro_ColheitaDeSojaAgRural_17MAR25_Reuters-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Os embarques deverão crescer na comparação anual à medida que o Brasil escoa uma safra recorde em 2024/25"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pedidos-semanais-de-auxilio-desemprego-nos-eua-tem-queda-inesperada-na-ultima-semana/",
-        "title": "Pedidos Semanais de Auxílio-desemprego nos EUA Têm Queda Inesperada na Última Semana",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/04/money-desemprego-eua-vagas-de-trabalho-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "As contratações têm sido fracas, tornando mais difícil para as pessoas desempregadas encontrarem trabalho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/openai-lancara-navegador-em-desafio-ao-google-chrome/",
-        "title": "OpenAI Lançará Navegador em Desafio Ao Google Chrome",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/06/tech-concorrentes-chatgpt-13Jun23-GettyImages-6-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "O navegador da OpenAI foi projetado para manter algumas interações do usuário em uma interface de bate-papo semelhante ao ChatGPT"
     }
 ]
