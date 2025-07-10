@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2025/07/ceo-do-x-renuncia-linda-yaccarino-caiu-do-penhasco-de-vidro/",
+        "title": "Linda Yaccarino, CEO do X, renuncia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-Linda-Yaccarino-CEO-X--300x200.jpg",
+        "date": "10/07/2025",
+        "description": "Nomeação da executiva há dois anos reacendeu o debate sobre o “penhasco de vidro” – quando mulheres assumem empresas em crise"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/07/chanel-a-ultima-colecao-de-alta-costura-antes-de-mathieu-blazy/",
+        "title": "Chanel: a Última Coleção de Alta-costura Antes de Mathieu Blazy",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Chanel-Couture-Inverno-2026-300x200.jpg",
+        "date": "10/07/2025",
+        "description": "Celebrando 110 anos de couture, maison revisita seu legado e homenageia os símbolos do número 31 da Rue Cambon"
+    },
+    {
+        "url": "https://forbes.com.br/sem-categoria/2025/07/huawei-quer-investir-em-data-centers-no-brasil-mas-aguarda-mp-do-governo/",
+        "title": "Huawei Quer Investir em Data Centers no Brasil, Mas Aguarda MP do Governo",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/08/ForbesMoney_Huawei_Michele-Tantussi_Reuters.png",
+        "date": "10/07/2025",
+        "description": "O vice-presidente de Relações Públicas da empresa ressaltou que o avanço da inteligência artificial exige que esses estímulos e incentivos do governo federal ocorram em breve"
+    },
+    {
+        "url": "https://forbes.com.br/coluna/2025/07/o-que-perfis-curiosos-do-linkedin-dizem-sobre-o-trabalho-no-brasil/",
+        "title": "O Que Perfis Curiosos do Linkedin Dizem sobre o Trabalho no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/papai-noel-milton-beck-300x200.png",
+        "date": "10/07/2025",
+        "description": "Quando olhamos para o uso do LinkedIn em diferentes países, o comportamento brasileiro se destaca por sua informalidade e abertura"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/ipca-alimentos-recuam-em-junho-mas-inflacao-segue-acima-da-meta/",
+        "title": "IPCA: Alimentos Recuam em Junho, Mas Inflação Segue Acima da Meta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/feira-no-Rio-de-Janeiro-money-ipca-inflacao-300x200.png",
+        "date": "10/07/2025",
+        "description": "IPCA foi impulsionado pela alta nas contas de luz e no grupo de Transportes"
+    },
+    {
         "url": "https://forbes.com.br/colunas/2025/07/eduardo-mira-tarifa-de-50-dos-eua-o-que-isso-significa-para-a-economia-brasileira/",
         "title": "Tarifa de 50% dos EUA: o Que Isso Significa para a Economia Brasileira?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/02/Money_Trump_Tarifas_01FEV25_ElizabethFrantzReuters-300x200.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/varejo-25-de-marco-money-300x200.png",
         "date": "10/07/2025",
         "description": "Em junho, setor registrou recuo de 4,2%, reforçando indicativos de desaceleração da economia brasileira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/diretora-do-youtube-para-a-america-latina-nao-ter-medo-de-mudancas-foi-um-fator-determinante/",
-        "title": "Diretora do YouTube: \"Não Ter Medo de Mudanças Foi Crucial\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-patricia-muratori-youtube-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "À frente das operações na América Latina, Patricia Muratori Calfat compartilha como chegou até a liderança de uma das maiores plataformas digitais"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/07/a-historia-centenaria-da-vinicola-collavini-e-seus-rotulos-iconicos/",
-        "title": "A História Centenária da Vinícola Collavini e Seus Rótulos Icônicos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_CollioVinhedo_9JUl2025_Getty-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Da Ribolla Gialla ao Collio Bianco Broy, a vinícola italiana se destaca pela produção de vinhos brancos e por preservar as tradições do terroir friulano"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/por-que-as-pizzas-favoritas-dos-chefs-sao-quase-sempre-as-mesmas/",
-        "title": "Por Que as Pizzas Favoritas dos Chefs São (Quase) Sempre as Mesmas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Fotos-Gi-2-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "No Dia da Pizza, eles defendem a simplicidade como teste de qualidade e revelam seus sabores favoritos - sem nunca deixar de lado sua liberdade criativa"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/fernanda-abilel-pejotizacao-do-mundo-corporativo-desafios-praticos-e-juridicos/",
-        "title": "Pejotização do Mundo Corporativo: Desafios Práticos e Jurídicos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-carreira-jornada-de-trabalho-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Modelo de contratação cresce entre empresas e atrai jovens profissionais, mas levanta alertas sobre governança, compliance e insegurança jurídica"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/agroturismo-no-dia-mundial-da-pizza-saiba-como-os-italianos-estao-reinventando-essas-redondas/",
-        "title": "Como os Italianos Estão Reinventando as Pizzas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/AGRO_PIZZA_10jul25_Massimo-Ravera_Getty-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Já não se fala apenas de massa, mas de fermentações, fermento natural, grãos locais, sustentabilidade agrícola, e também de harmonização, design, narrativa e identidade"
     }
 ]
