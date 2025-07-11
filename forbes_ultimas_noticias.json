@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/servicos-no-brasil-crescem-em-maio-e-chegam-ao-4o-mes-em-alta/",
+        "title": "Serviços no Brasil Crescem Em Maio e Chegam ao 4º Mês em Alta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/servicos-restaurante-brasil-money-300x200.png",
+        "date": "11/07/2025",
+        "description": "Avanço indica resiliência do setor em meio à política monetária restritiva do Banco Central"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/07/infomercial-new-max-solina-entra-no-mercado-sul-americano-com-aquisicao-estrategica-da-new-max/",
+        "title": "Solina Entra no Mercado Sul-americano com Aquisição Estratégica da New Max",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-10-300x200.png",
+        "date": "11/07/2025",
+        "description": "Líder global em soluções culinárias acelera expansão internacional com aquisição de importante empresa brasileira de soluções para alimentos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/quem-e-isabelle-esser-o-cerebro-cientifico-por-tras-da-nova-danone/",
+        "title": "Quem É Isabelle Esser, o Cérebro Científico por trás da Nova Danone",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/IsabelleEsser_Danone_11JUl2025_Danone-2-300x200.jpg",
+        "date": "11/07/2025",
+        "description": "Saiba como ela integra biotecnologia, inteligência artificial e cultura alimentar em um portfólio que movimenta  27 bilhões de euros por ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/tarifa-de-trump-pode-aumentar-preco-do-hamburguer-nos-eua/",
+        "title": "Tarifa de Trump Pode Aumentar Preço do Hambúrguer nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/hamburguer-carne-money-reuters-300x200.png",
+        "date": "11/07/2025",
+        "description": "País vive uma queda na produção e cada vez mais depende das importações do Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-depois-do-brasil-trump-lanca-tarifa-de-35-sobre-o-canada/",
         "title": "Pré-mercado: Depois do Brasil, Trump Lança Tarifa de 35% sobre o Canadá",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CarneDeCodorna_8JUl2025_Getty-300x200.jpg",
         "date": "11/07/2025",
         "description": "Com a aprovação, a Vow quer levar o produto para os consumidores por meio de chefs renomados do país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/robotaxi-o-sonho-de-elon-musk-pode-se-tornar-um-pesadelo-para-a-tesla/",
-        "title": "Robotáxi: o Sonho de Elon Musk Pode se Tornar um Pesadelo para a Tesla",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tesla-Robotaxi-Elon-Musk-300x200.png",
-        "date": "11/07/2025",
-        "description": "Após acidentes fatais envolvendo os recursos de “copiloto automatizado”, o serviço de transporte totalmente autônomo da Tesla fica em risco"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/como-o-uso-de-emojis-por-diferentes-geracoes-gera-confusao-na-comunicacao-corporativa/",
-        "title": "Uso de Emojis por Diferentes Gerações Gera Confusão no Trabalho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-emojis-no-trabalho-300x200.jpg",
-        "date": "11/07/2025",
-        "description": "O joinha que você manda para o time pode estar sendo mal interpretado; entenda por quê"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/tarifas-dos-eua-podem-reduzir-em-05-crescimento-do-pib-em-2025/",
-        "title": "Tarifas dos EUA Podem Reduzir em 0,5% Crescimento do PIB em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/06/agro-Fabrica-de-celulose-e-papel--300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Suzano e Embraer podem ser as empresas mais afetadas pelas sanções americanas, avaliam bancos de investimento como o Goldman Sachs"
-    },
-    {
-        "url": "https://forbes.com.br/listas/2025/07/forbes-abre-inscricoes-para-lista-under-30-2025/",
-        "title": "Forbes Abre Inscrições para Lista Under 30 2025; Saiba Como Participar",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/12/capa-ed-126_u30-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Em sua 12ª edição, seleção irá apontar empreendedores, criadores e game-changers abaixo de 30 anos que mais se destacaram em seus setores"
     }
 ]
