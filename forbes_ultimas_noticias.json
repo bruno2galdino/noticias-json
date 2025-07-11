@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/07/acg-nomeia-novo-ceo-global-de-engenharia/",
+        "title": "ACG Nomeia Novo CEO Global de Engenharia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-Nikhil-Kulkarni-ACG-CEO-300x200.jpg",
+        "date": "11/07/2025",
+        "description": "Baseado na Índia, Nikhil Kulkarni assume liderança da multinacional farmacêutica mirando oportunidades de crescimento no Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/como-marca-francesa-de-oculos-ganhou-o-mundo-e-quer-conquista-o-mercado-americano/",
+        "title": "Como Três Amigos de Infância Criaram um Império Global de Óculos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/money-otica-300x200.png",
+        "date": "11/07/2025",
+        "description": "Trio de franceses começou a vender óculos de leitura chiques e acessíveis em bancos há quinze anos. Hoje, a Izipizi está presente em 85 países, fatura US$ 60 milhões por ano e quer conquistar os EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/07/a-onda-do-surfista-e-dj-que-construiu-uma-marca-de-bebidas-de-us-12-milhoes/",
+        "title": "A Onda do Surfista e DJ Que Construiu uma Marca de Bebidas de US$ 12 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Paul-Fisher_4jul25_Taylor-Hill_Getty-300x200.jpg",
+        "date": "11/07/2025",
+        "description": "Marketing de guerrilha do artista australiano indicado ao Grammy DJ Fisher foi a onda para fazer um negócio milionário em quatro anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/07/20-praias-lindas-e-escondidas-em-portugal-para-descobrir/",
+        "title": "20 Praias Lindas e Escondidas em Portugal Para Descobrir",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Encontre-a-sua-praia-privada-em-Portugal-300x200.jpg",
+        "date": "11/07/2025",
+        "description": "O litoral português é impressionante, mas fica ainda melhor em faixas de areia menos lotadas e procuradas por turistas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/startup-australiana-obtem-aval-para-vender-carne-de-codorna-cultivada/",
+        "title": "Startup Australiana Obtém Aval para Vender Carne de Codorna Cultivada",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CarneDeCodorna_8JUl2025_Getty-300x200.jpg",
+        "date": "11/07/2025",
+        "description": "Com a aprovação, a Vow quer levar o produto para os consumidores por meio de chefs renomados do país"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/robotaxi-o-sonho-de-elon-musk-pode-se-tornar-um-pesadelo-para-a-tesla/",
+        "title": "Robotáxi: o Sonho de Elon Musk Pode se Tornar um Pesadelo para a Tesla",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tesla-Robotaxi-Elon-Musk-300x200.png",
+        "date": "11/07/2025",
+        "description": "Após acidentes fatais envolvendo os recursos de “copiloto automatizado”, o serviço de transporte totalmente autônomo da Tesla fica em risco"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/07/como-o-uso-de-emojis-por-diferentes-geracoes-gera-confusao-na-comunicacao-corporativa/",
+        "title": "Uso de Emojis por Diferentes Gerações Gera Confusão no Trabalho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-emojis-no-trabalho-300x200.jpg",
+        "date": "11/07/2025",
+        "description": "O joinha que você manda para o time pode estar sendo mal interpretado; entenda por quê"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/tarifas-dos-eua-podem-reduzir-em-05-crescimento-do-pib-em-2025/",
         "title": "Tarifas dos EUA Podem Reduzir em 0,5% Crescimento do PIB em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2024/06/agro-Fabrica-de-celulose-e-papel--300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-5-300x200.png",
         "date": "10/07/2025",
         "description": "Para especialistas, impacto das tarifas americanas deve ser limitado e há boas expectativas com a negociação entre os países"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/ana-maria-goncalves-e-a-primeira-mulher-negra-a-se-tornar-imortal-da-abl-em-128-anos/",
-        "title": "Ana Maria Gonçalves É a 1ª  Mulher Negra Imortal da ABL",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-Ana-Maria-Goncalves-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Autora de 55 anos, consagrada pela obra \"Um Defeito de Cor\", também é a mais jovem do atual quadro de imortais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/agronegocio-brasileiro-reage-com-preocupacao-a-nova-tarifa-dos-eua/",
-        "title": "Agronegócio Brasileiro Reage com Preocupação a Nova Tarifa dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Cafe_10JUl2025_Getty-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Setor entende que não há justificativas para a taxação e prevê prejuízos para os dois países"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/giorgio-armani-prive-todos-os-tons-de-preto/",
-        "title": "Giorgio Armani Privé: Todos os Tons de Preto",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Giorgio-Armani-Prive-Inverno-2526-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Coleção de alta costura de Giorgio Armani explora a cor preta com adornos, texturas e jogo de opostos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/elie-saab-adiciona-atitude-ao-vocabulario-romantico-de-sua-alta-costura/",
-        "title": "Elie Saab Adiciona Atitude Ao Vocabulário Romântico de Sua Alta-costura",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Elie-Saab-Alta-Costura-Inverno-2526-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Em Paris, estilista libanês rejuvenesce o repertório feminino com novos shapes e casting poderoso"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/ferrero-compra-wk-kellogg-em-um-negocio-bilionario/",
-        "title": "Ferrero Compra WK Kellogg em um Negócio Bilionário",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-5-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Fabricante italiana de doces adquiriu a criadora dos Corn Flakes nos EUA por US$ 3,1 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/primeira-birkin-e-vendida-por-r-55-milhoes-e-bate-recorde-em-leilao/",
-        "title": "Primeira Birkin É Vendida por R$ 55 Milhões e Bate Recorde em Leilão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_1.Jean-Louis-Dumas-com-a-bolsa-Birkin-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Bolsa usada, manchada e riscada se torna o item mais caro já arrematado em leilão no segmento, superando modelos cravejados de diamantes"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/alta-joalheria-o-elo-equestre-entre-a-gucci-e-a-pomellato/",
-        "title": "Alta Joalheria: o Elo Equestre entre a Gucci e a Pomellato",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Bracelete-da-colecao-Monili-collab-entre-Gucci-e-Pomellato-300x200.jpg",
-        "date": "10/07/2025",
-        "description": "Por trás das linhas simples da parceria das grifes italianas há uma admirável herança estética"
     }
 ]
