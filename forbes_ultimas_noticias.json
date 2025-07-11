@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/07/vipr-agency-inaugura-nova-vertical-de-luxo-na-europa/",
+        "title": "Vipr Agency Inaugura Nova Vertical de Luxo na Europa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/padrao-Forbes-2025-07-11T165721.407-300x200.jpg",
+        "date": "11/07/2025",
+        "description": "Comandada pelas francesas Solenne Vervisch e Alexandra Pointel, a agência aposta em viagens sob medida, concierge de alto padrão e experiências exclusivas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/07/infomercial-avanco-acustica-empresa-transforma-residuos-em-solucoes-sustentaveis/",
+        "title": "Empresa Transforma Resíduos em Soluções Sustentáveis",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/1-13-300x200.png",
+        "date": "11/07/2025",
+        "description": "Avanço Acústica se consolida no design nacional com revestimentos sustentáveis de alto valor técnico e estético"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/exportacao-de-carne-bovina-para-os-eua-ficarao-inviaveis-com-tarifas-diz-abiec/",
         "title": "Exportação de Carne Bovina para os EUA Ficarão Inviáveis com Tarifas, Diz Abiec",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-11T135757Z_1_LYNXMPEL6A0KF_RTROPTP_4_MACRO-IPP-NOVEMBRO-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2224318104_money_donald-trump-300x200.jpg",
         "date": "11/07/2025",
         "description": "Após uma tendência de queda desde o início do ano, o dólar reverteu o movimento e passou a subir"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/servicos-no-brasil-crescem-em-maio-e-chegam-ao-4o-mes-em-alta/",
-        "title": "Serviços no Brasil Crescem Em Maio e Chegam ao 4º Mês em Alta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/servicos-restaurante-brasil-money-300x200.png",
-        "date": "11/07/2025",
-        "description": "Avanço indica resiliência do setor em meio à política monetária restritiva do Banco Central"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/infomercial-new-max-solina-entra-no-mercado-sul-americano-com-aquisicao-estrategica-da-new-max/",
-        "title": "Solina Entra no Mercado Sul-americano com Aquisição Estratégica da New Max",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-10-300x200.png",
-        "date": "11/07/2025",
-        "description": "Líder global em soluções culinárias acelera expansão internacional com aquisição de importante empresa brasileira de soluções para alimentos"
     }
 ]
