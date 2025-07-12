@@ -1,7 +1,14 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-money/2025/07/finalistas-de-wimbledon-disputam-premio-de-r-225-milhoes-mas-impostos-podem-reduzir-valor-pela-metade/",
-        "title": "Finalistas de Wimbledon Disputam Prêmio de R$ 22,5 Milhões, Mas Impostos Cortam Parte dos Ganhos",
+        "url": "https://forbes.com.br/forbes-mulher/2025/07/iga-swiatek-conquista-titulo-inedito-de-wimbledon/",
+        "title": "Iga Swiatek Conquista Título Inédito de Wimbledon",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/mulher-Iga-Swiatek-wimbledon-300x200.jpg",
+        "date": "12/07/2025",
+        "description": "Polonesa atropelou a americana Amanda Anisimova e se tornou a 2ª jogadora a vencer uma final por duplo 6-0"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/finalistas-de-wimbledon-disputam-premio-de-22-milhoes-mas-impostos-podem-reduzir-valor-pela-metade/",
+        "title": "Wimbledon: Finalistas Buscam Prêmio de R$ 22,5 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/money-alcaraz-sinner-wimbledon-300x200.jpg",
         "date": "12/07/2025",
         "description": "Amanda Anisimova e Iga Swiatek disputam a final feminina neste sábado; Jannik Sinner e Carlos Alcaraz se enfrentam no domingo"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro-Danone_10jul25_V.Ondei-1-300x200.jpg",
         "date": "12/07/2025",
         "description": "Saiba o que é a instalação centenária no norte da França e como ela conecta produção agroindustrial, controle de qualidade em tempo real a hábitos alimentares de um dos mercados mais exigentes da Europa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/como-esta-empresa-construiu-um-imperio-com-conselhos-duvidosos-no-facebook/",
-        "title": "Conselhos Duvidosos no Facebook: Como Esta Empresa Faturou Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-9-300x200.jpg",
-        "date": "12/07/2025",
-        "description": "A \"The Agora\" alcança milhões de pessoas nas redes sociais com promessas enganosas de riqueza e bem-estar"
     }
 ]
