@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/milho-atinge-minimas-de-contrato-em-chicago-por-expectativas-de-grande-safra-nos-eua/",
+        "title": "Milho Atinge Mínimas de Contrato em Chicago por Expectativas de Grande Safra nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-11T210143Z_1_LYNXMPEL6A0WY_RTROPTP_4_USA-GRAINS-TOUR-300x200.jpg",
+        "date": "12/07/2025",
+        "description": "Estimativas agrícolas dos Estados Unidos seguem estáveis, mas mercado aposta em alta com clima favorável"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/cafe-atinge-maxima-de-10-dias-em-meio-a-tarifa-de-trump-sobre-brasil-mas-depois-recua/",
         "title": "Café Atinge Máxima de 10 Dias em Meio À Tarifa de Trump sobre Brasil, Mas Depois Recua",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-11T204701Z_1_LYNXMPEL6A0WL_RTROPTP_4_BRAZIL-COFFEE-300x200.jpg",
@@ -22,7 +29,7 @@
     },
     {
         "url": "https://forbes.com.br/forbeswsb/2025/07/uisque-coreano-como-a-coreia-esta-criando-nova-cena-de-rotulos-autorais/",
-        "title": "Uísque Coreano? Como a Coreia Está Criando Nova Cena de Rótulos Autorais",
+        "title": "Uísque Coreano? Como o País Está Criando Nova Cena de Rótulos Autorais",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Uma-linha-de-copos-de-degustacao-cheios-de-diferentes-tipos-de-uisques-para-degustacao-com-o-foco-no-segundo-copo-o-resto-esta-fora-de-foco-300x200.jpg",
         "date": "12/07/2025",
         "description": "Nova geração de destilarias transforma a Coreia do Sul em um polo emergente na produção de uísques com identidade própria"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CarneBovina_10JUl2025_Getty-300x200.jpg",
         "date": "11/07/2025",
         "description": "Especialistas afirmam que o excedente da proteína pode abaixar os preços, mas efeitos dependem de consumo e repasse para outros mercados"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/processamento-de-cacau-no-brasil-cai-ao-menor-nivel-em-9-anos-no-1o-semestre/",
-        "title": "Processamento de Cacau no Brasil Cai Ao Menor Nível em 9 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-cacau-300x200.jpg",
-        "date": "11/07/2025",
-        "description": "Altos preços da commodity impactaram a demanda por chocolate"
     }
 ]
