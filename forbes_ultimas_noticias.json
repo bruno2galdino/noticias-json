@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/exportadores-da-china-correm-para-superar-proximo-prazo-de-trump-para-tarifas/",
+        "title": "Exportadores da China Correm para Superar Próximo Prazo de Trump para Tarifas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-14T100338Z_1_LYNXMPEL6D0AA_RTROPTP_4_CHINA-ECONOMY-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "Produtores chineses buscam novos mercados diante de demanda fraca interna e pressão nos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/07/novo-superman-estreia-com-us-217-milhoes-nas-bilheterias/",
+        "title": "Novo 'Superman' Estreia com US$ 217 Milhões nas Bilheterias",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Superman-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "Reboot de David Corenswet como Super-Homem se prepara para ser o primeiro sucesso da DC Studios em anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/07/orgao-de-fiscalizacao-financeira-do-g20-apresenta-plano-climatico-mas-faz-pausa-em-meio-a-divisoes/",
+        "title": "Órgão de Fiscalização Financeira do G20 Apresenta Plano Climático, Mas Faz Pausa em Meio a Divisões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-1-3-300x200.png",
+        "date": "14/07/2025",
+        "description": "Conselho de Estabilidade Financeira reforça coordenação e troca de dados sobre riscos financeiros climáticos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/produtores-de-chianti-olham-para-america-do-sul-e-asia-apos-tarifas-dos-eua/",
+        "title": "Produtores de Chianti Olham para América do Sul e Ásia após Tarifas dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_ChiantiTarifasTrump_10JUl2025_ClaudiaGrecoReuters-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "No sábado, Trump ameaçou impor uma tarifa de 30% sobre as importações da União Europeia a partir de 1º de agosto"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/investidores-da-meta-e-zuckerberg-se-enfrentam-em-julgamento-de-us-8-bilhoes/",
         "title": "Investidores da Meta e Zuckerberg se Enfrentam em Julgamento de US$ 8 Bilhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Zuckerberg-processo-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-7-300x200.png",
         "date": "14/07/2025",
         "description": "Países correm contra o tempo, ameaçados pela elevação das taxas de Trump, que devem começar a vigorar a partir de 1º de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/maio-registra-primeira-retracao-do-ano-na-atividade-economica/",
-        "title": "Maio Registra Primeira Retração do Ano na Atividade Econômica",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Avenida-Paulista-Masp-Economia-Money-300x200.png",
-        "date": "14/07/2025",
-        "description": "Dos setores avaliados pelo IBC-Br, apenas o de serviços avançou no período em relação ao mês anterior"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/07/o-impossivel-e-o-que-nos-inspira-diz-presidente-da-gm-america-do-sul/",
-        "title": "\"O Impossível É o Que nos Inspira\", Diz Presidente da GM América do Sul",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-9-300x200.png",
-        "date": "14/07/2025",
-        "description": "Chevrolet comemora 100 anos no Brasil com lançamentos para 2025; confira os destaques"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-no-aguardo-da-reacao-as-tarifas-sobre-o-mexico-e-a-uniao-europeia/",
-        "title": "Pré-mercado: no Aguardo da Reação Às Tarifas Sobre o México e a União Europeia",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "14/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 14 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/o-futuro-das-bebidas-pos-2025-segundo-os-ceos-do-setor/",
-        "title": "O Futuro das Bebidas pós 2025, Segundo os CEOs do Setor",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_bebidas_10jul25_Lucas-Ninno_Getty-300x200.jpg",
-        "date": "14/07/2025",
-        "description": "Crescimento, reposicionamento e disputas por espaço indicam uma reconfiguração profunda do mercado global"
     }
 ]
