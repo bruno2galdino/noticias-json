@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/vendas-de-cafe-25-26-do-brasil-estao-abaixo-da-media-de-5-anos-diz-safras/",
+        "title": "Vendas de Café 25/26 do Brasil Estão Abaixo da Média de 5 Anos, Diz Safras",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/agro_cafe_02dez24_Nando-Castoldi_GettyImages-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "Produtores do grão comercializaram 31% da colheita 2025/26 até 9 de julho"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/embarques-do-brasil-impulsionam-recorde-de-importacoes-de-soja-pela-china-em-junho/",
+        "title": "Embarques do Brasil Impulsionam Recorde de Importações de Soja Pela China em Junho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-14T111753Z_1_LYNXMPEL6D0DZ_RTROPTP_4_BRAZIL-SOYBEANS-1-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "Altos lucros com farelo de soja incentivam novas compras, diz analista da Sublime China Information"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/mato-grosso-eleva-exportacoes-de-carnes-no-semestre-com-alta-puxada-pela-bovina/",
+        "title": "Mato Grosso Eleva Exportações de Carnes no Semestre com Alta Puxada Pela Bovina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro-carne-bovina-15ju25-Wenderson-Araujo_CNA-300x200.jpeg",
+        "date": "14/07/2025",
+        "description": "Mercados asiáticos e do Oriente Médio sustentam desempenho do segmento e ampliam fluxo de divisas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/exportadores-da-china-correm-para-superar-proximo-prazo-de-trump-para-tarifas/",
         "title": "Exportadores da China Correm para Superar Próximo Prazo de Trump para Tarifas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-14T100338Z_1_LYNXMPEL6D0AA_RTROPTP_4_CHINA-ECONOMY-300x200.jpg",
@@ -8,7 +29,7 @@
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/07/novo-superman-estreia-com-us-217-milhoes-nas-bilheterias/",
-        "title": "Novo 'Superman' Estreia com US$ 217 Milhões nas Bilheterias",
+        "title": "'Superman' Estreia com US$ 217 Milhões nas Bilheterias",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Superman-300x200.jpg",
         "date": "14/07/2025",
         "description": "Reboot de David Corenswet como Super-Homem se prepara para ser o primeiro sucesso da DC Studios em anos"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/mulher-marta-copa-america-futebol-feminino-300x200.jpg",
         "date": "14/07/2025",
         "description": "Embora jogar no torneio continue sendo uma possibilidade, o desejo de ter um filho pode decidir o futuro da atacante"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/07/sem-citar-trump-barroso-diz-que-imposicao-de-tarifa-se-baseia-em-compreensao-imprecisa-dos-fatos/",
-        "title": "Sem Citar Trump, Barroso Diz Que Imposição de Tarifa se Baseia \"Em Compreensão Imprecisa dos Fatos\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/06/Money-stf-barroso-18jun21-ueslei-marcelino-reuters.jpg",
-        "date": "14/07/2025",
-        "description": "Com o objetivo de defender a atuação do poder Judiciário, o presidente do STF publicou uma carta na noite de domingo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/mercado-reduz-projecao-de-inflacao-para-2025-e-ve-pib-maior-em-2026-mostra-focus/",
-        "title": "Mercado Reduz Projeção de Inflação para 2025 e Vê PIB Maior em 2026, Mostra Focus",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/Agro_PrecoDosAlimentos_20FEV25_Getty-300x200.jpg",
-        "date": "14/07/2025",
-        "description": "O levantamento, que capta a percepção do mercado para indicadores econômicos, mostrou que a expectativa para a inflação, medida pelo IPCA, é de 5,17% ao fim deste ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/tarifaco-uniao-europeia-e-coreia-do-sul-buscam-acordos-comerciais-com-eua/",
-        "title": "Tarifaço: União Europeia e Coreia do Sul Buscam Acordos Comerciais com EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-7-300x200.png",
-        "date": "14/07/2025",
-        "description": "Países correm contra o tempo, ameaçados pela elevação das taxas de Trump, que devem começar a vigorar a partir de 1º de agosto"
     }
 ]
