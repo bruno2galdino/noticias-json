@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/07/ceo-da-fabricante-do-tylenol-kenvue-se-demite-em-meio-a-revisao-estrategica/",
+        "title": "CEO da Fabricante do Tylenol, Kenvue, se Demite em Meio à Revisão Estratégica",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-Thibaut-Mongon-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "Ações da companhia subiram 3,3% nas negociações do pré-mercado, com a nomeação de um CEO interino"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/07/marta-pondera-sobre-maternidade-e-sonho-da-copa-do-mundo-de-2027/",
+        "title": "Marta Pondera sobre Maternidade e Sonho da Copa do Mundo de 2027",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/mulher-marta-copa-america-futebol-feminino-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "Embora jogar no torneio continue sendo uma possibilidade, o desejo de ter um filho pode decidir o futuro da atacante"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/07/sem-citar-trump-barroso-diz-que-imposicao-de-tarifa-se-baseia-em-compreensao-imprecisa-dos-fatos/",
+        "title": "Sem Citar Trump, Barroso Diz Que Imposição de Tarifa se Baseia \"Em Compreensão Imprecisa dos Fatos\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/06/Money-stf-barroso-18jun21-ueslei-marcelino-reuters.jpg",
+        "date": "14/07/2025",
+        "description": "Com o objetivo de defender a atuação do poder Judiciário, o presidente do STF publicou uma carta na noite de domingo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/mercado-reduz-projecao-de-inflacao-para-2025-e-ve-pib-maior-em-2026-mostra-focus/",
+        "title": "Mercado Reduz Projeção de Inflação para 2025 e Vê PIB Maior em 2026, Mostra Focus",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/Agro_PrecoDosAlimentos_20FEV25_Getty-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "O levantamento, que capta a percepção do mercado para indicadores econômicos, mostrou que a expectativa para a inflação, medida pelo IPCA, é de 5,17% ao fim deste ano"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/tarifaco-uniao-europeia-e-coreia-do-sul-buscam-acordos-comerciais-com-eua/",
         "title": "Tarifaço: União Europeia e Coreia do Sul Buscam Acordos Comerciais com EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-7-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Marcio-300x200.jpg",
         "date": "14/07/2025",
         "description": "CMO de uma das maiores empresas de telecomunicações do mundo e eleito Melhor CMO da Forbes Brasil 2025 destaca os aprendizados de carreira e os desafios do marketing moderno"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/17-habilidades-em-inteligencia-artificial-para-colocar-no-curriculo/",
-        "title": "17 Habilidades em Inteligência Artificial para Colocar no Currículo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/webstories-carreira-inteligencia-artificial-chatgpt-300x200.jpeg",
-        "date": "14/07/2025",
-        "description": "Veja as competências mais requisitadas e como desenvolvê-las para turbinar seu salário e proteger sua carreira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/mulheres-negras-em-conselhos-qualificacao-cresce-mas-presenca-ainda-e-timida/",
-        "title": "Mulheres Negras se Preparam para Assumir Posições em Conselhos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-mulheres-negras-em-conselhos-300x200.jpg",
-        "date": "14/07/2025",
-        "description": "Mesmo com preparo técnico e trajetória de liderança, executivas negras ainda enfrentam barreiras para ocupar cadeiras na liderança"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/entenda-o-tarifaco-dos-eua-sobre-o-brasil/",
-        "title": "Entenda o Tarifaço dos EUA sobre o Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Donald-Trump-tarifas-money-300x200.png",
-        "date": "14/07/2025",
-        "description": "Possível tarifa de 50% sobre produtos brasileiros pode impactar o mercado de câmbio e a inflação"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/como-os-alimentos-funcionais-conquistaram-o-mercado-no-brasil/",
-        "title": "Como os Alimentos Funcionais Conquistaram o Mercado no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Alimentos-funcionais-tem-modificado-a-forma-de-consumo-no-Brasil-e-no-mundo-300x200.jpg",
-        "date": "14/07/2025",
-        "description": "Com proteínas, colágeno, adaptógenos e superfoods, alimentos saudáveis e prontos para o consumo ganham cada vez mais espaço e redesenham a forma como nos alimentamos"
     }
 ]
