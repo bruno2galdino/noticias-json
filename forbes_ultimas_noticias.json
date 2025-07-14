@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/ultimato-trump-pressiona-russia-por-acordo-de-paz-e-ameaca-com-tarifas-de-100/",
+        "title": "Ultimato: Trump Pressiona Rússia por Acordo de Paz e Ameaça com Tarifas de 100%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/donald-trump1-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "Presidente americano também anunciou envio de armamento à Ucrânia nesta segunda-feira (14)"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/produtores-de-sorvete-dos-eua-devem-eliminar-corantes-artificiais-ate-2028/",
+        "title": "Produtores de Sorvete dos EUA Devem Eliminar Corantes Artificiais até 2028",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-sorvete-eua-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "40 empresas removerão corantes de seus produtos de varejo, excluindo os produtos não lácteos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/incertezas-provocadas-por-tarifas-mantem-ritmo-de-alta-do-dolar/",
+        "title": "Incertezas Provocadas por Tarifas Mantêm Ritmo de Alta do Dólar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-2-300x200.png",
+        "date": "14/07/2025",
+        "description": "Ibovespa segue em queda, com assinatura de lei da reciprocidade no radar"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/07/meta-vai-investir-bilhoes-de-dolares-em-superinteligencia-diz-zuckerberg/",
         "title": "Meta Vai Investir Bilhões de Dólares em Superinteligência, Diz Zuckerberg",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-meta--300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-14T100338Z_1_LYNXMPEL6D0AA_RTROPTP_4_CHINA-ECONOMY-300x200.jpg",
         "date": "14/07/2025",
         "description": "Produtores chineses buscam novos mercados diante de demanda fraca interna e pressão nos EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/novo-superman-estreia-com-us-217-milhoes-nas-bilheterias/",
-        "title": "'Superman' Estreia com US$ 217 Milhões nas Bilheterias",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Superman-300x200.jpg",
-        "date": "14/07/2025",
-        "description": "Reboot de David Corenswet como Super-Homem se prepara para ser o primeiro sucesso da DC Studios em anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/07/orgao-de-fiscalizacao-financeira-do-g20-apresenta-plano-climatico-mas-faz-pausa-em-meio-a-divisoes/",
-        "title": "Órgão de Fiscalização Financeira do G20 Apresenta Plano Climático, Mas Faz Pausa em Meio a Divisões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-1-3-300x200.png",
-        "date": "14/07/2025",
-        "description": "Conselho de Estabilidade Financeira reforça coordenação e troca de dados sobre riscos financeiros climáticos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/produtores-de-chianti-olham-para-america-do-sul-e-asia-apos-tarifas-dos-eua/",
-        "title": "Produtores de Chianti Olham para América do Sul e Ásia após Tarifas dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_ChiantiTarifasTrump_10JUl2025_ClaudiaGrecoReuters-300x200.jpg",
-        "date": "14/07/2025",
-        "description": "No sábado, Trump ameaçou impor uma tarifa de 30% sobre as importações da União Europeia a partir de 1º de agosto"
     }
 ]
