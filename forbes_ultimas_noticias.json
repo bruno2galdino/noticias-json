@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/meta-vai-investir-bilhoes-de-dolares-em-superinteligencia-diz-zuckerberg/",
+        "title": "Meta Vai Investir Bilhões de Dólares em Superinteligência, Diz Zuckerberg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-meta--300x200.jpg",
+        "date": "14/07/2025",
+        "description": "Anúncio ocorre em momento em que gigantes da tecnologia estão na corrida para liderar a próxima onda da IA"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/bitcoin-ultrapassa-us-120-mil-pela-primeira-vez/",
+        "title": "Bitcoin Ultrapassa US$ 120 Mil Pela Primeira Vez",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-11-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "O preço da criptomoeda subiu mais de 28% desde o início do ano, impulsionado por uma valorização pós-posse presidencial de Trump"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/colheita-da-segunda-safra-de-milho-alcanca-40-no-centro-sul-diz-agrural/",
+        "title": "Colheita da segunda safra de milho alcança 40% no centro-sul, diz AgRural",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_MilhoConab_10JUl2025_Getty-300x200.jpg",
+        "date": "14/07/2025",
+        "description": "Os trabalhos no campo tiveram seu \"melhor desempenho semanal da temporada\", com impulso do clima mais seco e temperaturas mais altas"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/vendas-de-cafe-25-26-do-brasil-estao-abaixo-da-media-de-5-anos-diz-safras/",
         "title": "Vendas de Café 25/26 do Brasil Estão Abaixo da Média de 5 Anos, Diz Safras",
         "image": "https://forbes.com.br/wp-content/uploads/2024/12/agro_cafe_02dez24_Nando-Castoldi_GettyImages-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_ChiantiTarifasTrump_10JUl2025_ClaudiaGrecoReuters-300x200.jpg",
         "date": "14/07/2025",
         "description": "No sábado, Trump ameaçou impor uma tarifa de 30% sobre as importações da União Europeia a partir de 1º de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/investidores-da-meta-e-zuckerberg-se-enfrentam-em-julgamento-de-us-8-bilhoes/",
-        "title": "Investidores da Meta e Zuckerberg se Enfrentam em Julgamento de US$ 8 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Zuckerberg-processo-300x200.png",
-        "date": "14/07/2025",
-        "description": "Acionistas da Meta Platforms processaram o executivo pela violação de um acordo firmado em 2012 com a Comissão Federal de Comércio dos EUA para proteger os dados dos usuários"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/ceo-da-fabricante-do-tylenol-kenvue-se-demite-em-meio-a-revisao-estrategica/",
-        "title": "CEO da Fabricante do Tylenol, Kenvue, se Demite",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-Thibaut-Mongon-300x200.jpg",
-        "date": "14/07/2025",
-        "description": "Ações da companhia subiram 3,3% nas negociações do pré-mercado, com a nomeação de um CEO interino"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/marta-pondera-sobre-maternidade-e-sonho-da-copa-do-mundo-de-2027/",
-        "title": "Marta Pondera sobre Maternidade e Sonho da Copa do Mundo de 2027",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/mulher-marta-copa-america-futebol-feminino-300x200.jpg",
-        "date": "14/07/2025",
-        "description": "Embora jogar no torneio continue sendo uma possibilidade, o desejo de ter um filho pode decidir o futuro da atacante"
     }
 ]
