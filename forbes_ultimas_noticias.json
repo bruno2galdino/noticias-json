@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/tarifas-dos-eua-levam-frigorificos-a-reavaliar-exportacoes-de-carne-bovina-segundo-abiec/",
+        "title": "Tarifas dos EUA Levam Frigoríficos a Reavaliar Exportações de Carne Bovina, Segundo Abiec",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_carne_bovina_15jul25_Ribeirorocha_Getty-300x200.jpg",
+        "date": "15/07/2025",
+        "description": "\"Novos embarques estão sob análise do setor privado por conta da alta da tarifa\", disse Roberto Perosa, presidente da Associação Brasileira das Indústrias Exportadoras de Carnes"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/raizen-fecha-usina-historica-e-levanta-r-1-bilhao-com-venda-de-cana-de-acucar/",
+        "title": "Raízen Fecha Usina Histórica e Levanta R$ 1 Bilhão com Venda de Cana-de-açúcar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_colheita_cana_15jul25_-Santosha_Getty-300x200.jpg",
+        "date": "15/07/2025",
+        "description": "Suspensão das atividades da Santa Elisa marca reestruturação do portfólio da companhia, joint venture da Shell com Cosan, de Rubens Ometto Silveira Mello"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/dolar-encerra-sequencia-de-alta-mas-ibovespa-permanece-em-baixa/",
         "title": "Dólar Encerra Sequência de Alta, Mas Ibovespa Permanece em Baixa",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-3-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-1340651855-300x200.jpg",
         "date": "15/07/2025",
         "description": "Amizade é mais do que afeto: é essencial para o autocuidado, o bem-estar e uma vida longa"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/forbes-mulher-agro-bioinsumos-como-gerar-valor-e-transformar-o-agronegocio/",
-        "title": "Bioinsumos: Como Gerar Valor e Transformar o Agronegócio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Bioinsumo_14JUl2025_Westend61GettyImages-300x200.jpg",
-        "date": "15/07/2025",
-        "description": "O uso desses produtos deve aumentar de 3% a 5% até 2030, e seu potencial já é reconhecido pelo mercado"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/07/pgr-pede-condenacao-de-bolsonaro-e-de-outros-sete-por-tentativa-de-golpe-de-estado/",
-        "title": "PGR Pede Condenação de Bolsonaro e de Outros Sete por Tentativa de Golpe de Estado",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/04/ESG-bolsonaro-22abr21-marcos-correa-presidencia-da-republica.jpg",
-        "date": "15/07/2025",
-        "description": "Além do ex-presidente, o pedido contempla Alexandre Ramagem, Almir Garnier, Anderson Torres, Augusto Heleno, Mauro Cid, Paulo Sérgio Nogueira e Walter Braga Netto"
     }
 ]
