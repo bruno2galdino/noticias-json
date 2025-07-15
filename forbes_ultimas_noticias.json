@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/coluna/2025/07/quem-tem-amigo-tem-tudo-a-essencia-da-boa-saude-mental/",
+        "title": "Quem Tem Amigo Tem Tudo: A Essência da Boa Saúde Mental",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-1340651855-300x200.jpg",
+        "date": "15/07/2025",
+        "description": "Amizade é mais do que afeto: é essencial para o autocuidado, o bem-estar e uma vida longa"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/forbes-mulher-agro-bioinsumos-como-gerar-valor-e-transformar-o-agronegocio/",
+        "title": "Bioinsumos: Como Gerar Valor e Transformar o Agronegócio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Bioinsumo_14JUl2025_Westend61GettyImages-300x200.jpg",
+        "date": "15/07/2025",
+        "description": "O uso desses produtos deve aumentar de 3% a 5% até 2030, e seu potencial já é reconhecido pelo mercado"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/07/pgr-pede-condenacao-de-bolsonaro-e-de-outros-sete-por-tentativa-de-golpe-de-estado/",
         "title": "PGR Pede Condenação de Bolsonaro e de Outros Sete por Tentativa de Golpe de Estado",
         "image": "https://forbes.com.br/wp-content/uploads/2021/04/ESG-bolsonaro-22abr21-marcos-correa-presidencia-da-republica.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/IMG_6743-300x200.jpg",
         "date": "15/07/2025",
         "description": "Da lente ao silêncio: os bastidores de uma jornada fotográfica na Patagônia chilena em busca de um dos maiores felinos das Américas"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/usp-abre-inscricoes-para-mba-executivo-lideranca-gestao/",
-        "title": "USP Abre Inscrições para MBA Executivo em Liderança e Gestão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-mba-usp-300x200.jpg",
-        "date": "15/07/2025",
-        "description": "Curso combina aulas ao vivo a distância, masterclasses com CEOs e foco em liderança de alta performance"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/dia-da-independencia-do-conteudo-cloudflare-da-ultimato-a-empresas-de-ia/",
-        "title": "“Dia da Independência do Conteúdo”: Cloudflare Dá Ultimato a Empresas de IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2020/05/Negócios-Matthew-Prince-8maio-ReproduçãoForbes.jpg",
-        "date": "15/07/2025",
-        "description": "A empresa propõe que as Big Techs paguem pelos conteúdos extraídos de sites e plataformas na web"
     }
 ]
