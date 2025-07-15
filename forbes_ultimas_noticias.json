@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/jensen-huang-ultrapassa-bernard-arnault-e-se-torna-sexto-mais-rico-do-mundo/",
+        "title": "Jensen Huang Ultrapassa Bernard Arnault e se Torna Sexto Mais Rico do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-14-300x200.jpg",
+        "date": "15/07/2025",
+        "description": "As ações da Nvidia subiram mais de 4%, superando os US$ 171 (R$ 950,76)"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/quem-sao-os-bilionarios-que-estao-ganhando-ficando-ainda-mais-ricos-com-a-alta-recorde-do-bitcoin/",
         "title": "Quem São os Bilionários Que Estão Ficando Ainda Mais Ricos com Recorde do Bitcoin?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-12-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "15/07/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 15 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/focinho-de-boi-ganha-status-para-seu-reconhecimento-facial/",
-        "title": "Focinho de Boi Ganha Status para Seu Reconhecimento Facial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro-focinho_boi_14jul25_Shiota_Getty-300x200.jpg",
-        "date": "15/07/2025",
-        "description": "Saiba como a QR Cattle desenvolveu uma ferramenta de R$ 0,95 capaz de identificar animais em até quatro segundos"
     }
 ]
