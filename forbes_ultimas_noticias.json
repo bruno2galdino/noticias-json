@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/cobranca-de-iof-retorna-parcialmente-apos-decisao-de-moraes/",
+        "title": "Cobrança de IOF Retorna Parcialmente, após Decisão de Moraes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/praca-dos-tres-poderes-brasilia-governo-federal-money-300x200.png",
+        "date": "16/07/2025",
+        "description": "Retomada vem dentro dos moldes estabelecidos por decretos do governo federal"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/em-dia-de-grandes-repercussoes-ibovespa-encerra-sequencia-de-queda/",
+        "title": "Em Dia de Grandes Repercussões, Ibovespa Encerra Sequência de Queda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-4-300x200.png",
+        "date": "16/07/2025",
+        "description": "Índice estava há sete dias em território negativo, impulsionado pelas ameaças tarifárias de Trump sobre produtos brasileiros"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/exportacoes-de-carne-aos-eua-estao-totalmente-paralisadas-diz-roberto-perosa-da-abiec/",
         "title": "“Exportações de Carne Aos EUA Estão Totalmente Paralisadas”, diz Roberto Perosa, da ABIEC",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Roberto-Perosa-_16jul25_Agencia_Brasil-300x200.jpg",
@@ -12,6 +26,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-tirolez-aliny-nazar-300x200.jpg",
         "date": "16/07/2025",
         "description": "Com passagens por empresas como Piracanjuba e Alpargatas, executiva soma 27 anos de experiência e carreira internacional"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/07/brasil-sera-o-primeiro-pais-a-fabricar-a-cerveja-hofbrau-fora-da-alemanha/",
+        "title": "Brasil Será o Primeiro País a Fabricar a Cerveja Hofbräu Fora da Alemanha",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_CervejaHofbrau_15JUl2025_Picturealliance_Getty-300x200.jpg",
+        "date": "16/07/2025",
+        "description": "Produção local eliminará taxas de importação e deve ampliar o acesso do consumidor brasileiro à marca"
     },
     {
         "url": "https://forbes.com.br/geral/2025/07/as-top-5-materias-mais-clicadas-no-site-da-forbes-em-julho/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/12/Imposto-Priscila-Zambotto-GettyImages-300x200.png",
         "date": "16/07/2025",
         "description": "A renúncia fiscal estimada em 2026 será de R$ 25,84 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/empresas-dos-eua-planejam-reduzir-beneficios-de-saude/",
-        "title": "Gastos com Remédios para Emagrecer Pressionam Planos de Saúde nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-saude-empresas-eua-300x200.jpg",
-        "date": "16/07/2025",
-        "description": "Companhias planejam aumentar o compartilhamento de custos diante da alta com medicamentos para perda de peso"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/brasil-pede-de-dialogo-aos-eua-e-manifesta-indignacao-com-tarifa/",
-        "title": "Brasil Pede de Diálogo Aos EUA e Manifesta Indignação com Tarifa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/GettyImages-1134709395-1-300x200.jpg",
-        "date": "16/07/2025",
-        "description": "Em carta enviada ao governo americano, país reitera pedido de negociação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/nvidia-aumentara-vendas-de-chips-h20-para-china-aproveitando-tregua-entre-eua-e-china/",
-        "title": "Nvidia Aumentará Vendas de Chips H20 para China, Aproveitando Trégua entre EUA e China",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Nvidia-logo-300x200.png",
-        "date": "16/07/2025",
-        "description": "Retomada do comércio faz parte de negociações entre países sobre terras raras"
     }
 ]
