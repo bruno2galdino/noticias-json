@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/exportacoes-de-carne-aos-eua-estao-totalmente-paralisadas-diz-roberto-perosa-da-abiec/",
+        "title": "“Exportações de Carne Aos EUA Estão Totalmente Paralisadas”, diz Roberto Perosa, da ABIEC",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Roberto-Perosa-_16jul25_Agencia_Brasil-300x200.jpg",
+        "date": "16/07/2025",
+        "description": "Com embarques suspensos e contratos em risco, setor cobra reação urgente do governo e alerta que a medida afeta diretamente a competitividade dos frigoríficos e da cadeia pecuária nacional"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/07/tirolez-anuncia-aliny-nazar-como-nova-cfo/",
+        "title": "Tirolez Anuncia Aliny Nazar Como Nova CFO",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-tirolez-aliny-nazar-300x200.jpg",
+        "date": "16/07/2025",
+        "description": "Com passagens por empresas como Piracanjuba e Alpargatas, executiva soma 27 anos de experiência e carreira internacional"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/07/as-top-5-materias-mais-clicadas-no-site-da-forbes-em-julho/",
+        "title": "As Top 5 Matérias Mais Clicadas no Site da Forbes em Julho",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "16/07/2025",
+        "description": "Quais foram as matérias mais acessadas no último mês"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/como-funciona-a-lei-da-reciprocidade-assinada-nesta-semana/",
+        "title": "Como Funciona a Lei da Reciprocidade Econômica, Assinada Nesta Semana",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/lei-da-reciprocidade-exportacao-do-brasil-importacao-economia-300x200.png",
+        "date": "16/07/2025",
+        "description": "Norma regulamenta ações retaliatórias do Brasil contra medidas prejudiciais vindas de parceiros comerciais"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/trump-flerta-com-possivel-demissao-de-jerome-powell-e-depois-volta-atras/",
         "title": "Trump Flerta com Possível Demissão de Jerome Powell e Depois Volta Atrás",
         "image": "https://forbes.com.br/wp-content/uploads/2024/02/money-fed-jerome-powell-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/Nvidia-logo-300x200.png",
         "date": "16/07/2025",
         "description": "Retomada do comércio faz parte de negociações entre países sobre terras raras"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/4-ideias-que-resumem-a-alta-moda-dolce-gabbana-2025/",
-        "title": "4 Ideias Que Resumem a Alta Moda Dolce & Gabbana 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Alta-Moda-Dolce-Gabbana-2025-300x200.jpg",
-        "date": "16/07/2025",
-        "description": "Inspirada na Roma Antiga, a coleção celebrou a herança cultural da Cidade Eterna"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/reforma-da-omc-busca-comercio-mais-justo-e-tomada-de-decisao-mais-facil-para-acabar-com-paralisia/",
-        "title": "Reforma da OMC Busca Comércio Mais Justo e Tomada de Decisão Mais Fácil para Acabar com Paralisia",
-        "image": "https://forbes.com.br/wp-content/uploads/2020/11/negocios_OMC_141019_Denis-Balibouse_Reuters.jpg",
-        "date": "16/07/2025",
-        "description": "Evitar que os membros bloqueiem as decisões é agora a principal prioridade nas negociações de reforma da instituição"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/trump-escala-guerra-comercial-com-nova-investigacao-o-que-isso-significa-para-o-brasil/",
-        "title": "Trump Escala Guerra Comercial com Nova Investigação. O Que Isso Significa para o Brasil?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-trump-money-1-300x200.jpg",
-        "date": "16/07/2025",
-        "description": "Medida é uma tentativa de legitimar a retaliação contra o comércio brasileiro com investigação que aborda até o PIX"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-eua-investigam-praticas-comerciais-do-brasil-pix-e-etanol-na-mira/",
-        "title": "Pré-mercado: EUA Investigam Práticas Comerciais do Brasil; PIX e Etanol na Mira",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "16/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 16 de julho"
     }
 ]
