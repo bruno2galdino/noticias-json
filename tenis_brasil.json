@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/becker-aprova-possivel-parceria-entre-zverev-e-toni-nadal.html",
-        "title": "Becker aprova possível parceria entre Zverev e Toni Nadal",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/zverev-rafa-nadal-academy-treino-2025-e1752667118219-1024x683.jpg",
-        "date": "16/07/2025",
-        "description": "Hamburgo (Alemanha)– Na última segunda-feira, a Rafa Nadal Academy compartilhou imagens de um treino do alemão Alexander Zverev em suas instalações. Apesar das especulações, não se sabe se o tenista de 28 anos estaria em busca de uma colaboração de curto prazo com Toni Nadal ou se almeja algo de longo prazo. Para o compatriota Boris Becker, essa seria uma parceria positiva para Sascha."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-16-07.html",
         "title": "O dia dos brasileiros: veja os resultados desta quarta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/12/54198568298_6e8c8005bc_k-e1734090060237-1024x683.jpg",
@@ -14,59 +7,66 @@
         "description": "ATP 250 de Gstaad (Suíça) – Saibro – 596.035 eurosDuplas – Primeira rodada –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/visual-de-gauff-para-o-show-de-beyonce-arranca-elogios.html",
+        "title": "Visual de Gauff para o show de Beyoncé arranca elogios",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/gauff_cowgirl.jpg",
+        "date": "16/07/2025",
+        "description": "Atlanta (EUA) –Coco Gauff, de 21 anos, fez os fãs arregalarem os olhos ao aparecer todo cheia de estilo, usando botas de cowboy e um chapéu grande, no show da cantora Beyoncé em Atlanta."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/tsitsipas-reconhece-que-precisa-trabalhar-mais-para-voltar-ao-topo.html",
+        "title": "Tsitsipas reconhece que precisa trabalhar mais para voltar ao topo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/tsitsipas.avif",
+        "date": "16/07/2025",
+        "description": "Atenas (Grécia)– Depois de ouvir duras palavras do seu novo treinador, o croata Goran Ivanisevic, o grego Stefanos Tsitsipas parece estar comprometido a acatara crítica que lhe foi feitae trabalhar duro para recobrar a melhor forma e assim poder voltar a brigar pelos principais títulos do circuito. Em entrevista aoTennis365, ele mostrou confiança na volta por cima."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/tommy-paul-anuncia-noivado-pelas-redes-sociais.html",
+        "title": "Tommy Paul anuncia noivado pelas redes sociais",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/01/tommy-paul-ao-back-2025.jpg",
+        "date": "16/07/2025",
+        "description": "Boca Raton (EUA) –Quadrifinalista de Roland Garros neste ano, o americano Tommy Paul atingiu outra marca, desta vez na vida pessoal. O número americano de 28 anos e Paige Lorenze anunciaram o noivado nas redes sociais no domingo passado."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/navratilova-aconselha-raducanu-a-se-comprometer-com-o-treinador.html",
+        "title": "Navratilova aconselha Raducanu a se comprometer com um treinador",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/raducanu-wimbledon-estica-2025-1024x682.jpg",
+        "date": "16/07/2025",
+        "description": "Londres (Inglaterra)– Os bons resultados que a britânica Emma Raducanu tem demonstrado ultimamente, com um bom desempenho em Wimbledon, onde caiu na terceira rodada, mas deixou uma boa impressão contra a número 1 do mundo Aryna Sabalenka, não passaram despercebidos e chamaram a atenção de Martina Navratilova."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sonego-comemora-titulo-de-sinner-um-incentivo-a-mais-para-todos-nos.html",
+        "title": "Sonego comemora título de Sinner: “Um incentivo a mais para todos nós”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sinner_wimbledon_trofeu-1024x682.jpg",
+        "date": "16/07/2025",
+        "description": "Turim (Itália)– O italiano Lorenzo Sonego ficou feliz em ver seu compatriota Jannik Sinner derrotar o espanhol Carlos Alcaraz e se tornar o primeiro campeão de Wimbledon em seu país. Em entrevista aoTuttosport, ele explicou o que o momento significou para o tênis italiano e elogiou a força mental de seu companheiro de equipe na Copa Davis."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/saem-os-primeiros-campeoes-do-bt-10-em-sorriso-ramos-estreia.html",
+        "title": "Saem os primeiros campeões do BT 10 em Sorriso. Ramos estreia.",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/campeoesbt10_sorriso.jpg",
+        "date": "16/07/2025",
+        "description": "Sorriso (MT) –Bicampeão mundial, o espanhol Antomi Ramos, número sete do mundo, entra em quadra, nesta quarta-feira, no inédito torneio internacional de beach tennis de Sorriso, em Mato Grosso, na Arena Porto Seguro."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/becker-aprova-possivel-parceria-entre-zverev-e-toni-nadal.html",
+        "title": "Becker aprova possível parceria entre Zverev e Toni Nadal",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/zverev-rafa-nadal-academy-treino-2025-e1752667118219-1024x683.jpg",
+        "date": "16/07/2025",
+        "description": "Hamburgo (Alemanha)– Na última segunda-feira, a Rafa Nadal Academy compartilhou imagens de um treino do alemão Alexander Zverev em suas instalações. Apesar das especulações, não se sabe se o tenista de 28 anos estaria em busca de uma colaboração de curto prazo com Toni Nadal ou se almeja algo de longo prazo. Para o compatriota Boris Becker, essa seria uma parceria positiva para Sascha."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/numeros-dao-favoritismo-a-sinner-para-fase-da-quadra-sintetica.html",
+        "title": "Números dão favoritismo a Sinner para fase da quadra sintética",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/09/sinner_trofeu_web.jpg",
+        "date": "16/07/2025",
+        "description": "Nova York (EUA)– Campeão de Wimbledon no domingo, o italiano Jannik Sinner se prepara para voltar à quadra dura, sua principal especialidade. Isso tudo faz com que ascasas de apostasjá o coloquem com favoritismo claro para o US Open. O número 1 do mundo tem no momento o dobro da cotação do espanhol Carlos Alcaraz e oito vezes mais do que o sérvio Novak Djokovic."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/sofia-mendonca-vence-no-pinheiros-cinco-brasileiras-furam-o-quali.html",
         "title": "Sofia Mendonça vence no Pinheiros, cinco brasileiras furam o quali",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sofia_mendonca_pinheiros.jpg",
         "date": "16/07/2025",
         "description": "São Paulo (SP) –A gaúcha Sofia Mendonça marcou a primeira vitória brasileira no Brasil Tennis Classic Ano VII, torneio ITF W35 disputado no Esporte Clube Pinheiros, em São Paulo. Ela superou a peruana Romina Ccuno, atual 631ª da WTA, por 4/6, 7/5 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-15-07.html",
-        "title": "O dia dos brasileiros: veja os resultados desta terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/04/zanellato-voleia.jpg",
-        "date": "15/07/2025",
-        "description": "ATP 250 de Bastad (Suécia) – Saibro – 596.035 eurosPrimeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/jabeur-se-retira-de-montreal-e-nao-esta-inscrita-no-us-open.html",
-        "title": "Jabeur se retira de Montréal e não está inscrita no US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/jabeur_wimbledon_cabisbaixa-1024x656.jpg",
-        "date": "15/07/2025",
-        "description": "Montréal (Canadá) –A organização do WTA 1000 de Montréal anunciou duas desistências nesta terça-feira, com a tunisiana Ons Jabeur e a britânica Sonay Kartal. Elas serão substituídas na chave pela holandesa Suzan Lamens e a mexicana Renata Zarazua no torneio entre 27 de julho e 7 de agosto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/recurso-da-corte-arbitral-amplia-suspensao-de-tara-moore-para-4-anos.html",
-        "title": "Recurso da Corte Arbitral amplia suspensão de Tara Moore para 4 anos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/tara_moore_itau.jpg",
-        "date": "15/07/2025",
-        "description": "Londres (Inglaterra) –A britânica Tara Moore teve sua suspensão por doping ampliada para quatro anos após decisão da Corte Arbitral do Esporte (CAS), anunciada nesta terça-feira. A medidareverte a decisão anteriorde um tribunal independente, que havia inocentado a jogadora de qualquer culpa ou negligência pelas substâncias proibidas encontradas em seu organismo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-e-anunciado-como-novo-embaixador-global-de-yopro.html",
-        "title": "Alcaraz é anunciado embaixador global de bebida láctea proteica",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/YoPRO-Brasil_Alcaraz_corte.jpg",
-        "date": "15/07/2025",
-        "description": "São Paulo (SP) –O espanhol Carlos Alcaraz, cinco vezes campeão de Grand Slam, foi anunciado nesta terça-feira como embaixador global da YoPRO, marca de bebida proteica da Danone. O atleta incorpora valores que definem a marca: paixão, autenticidade e uma busca incansável por evolução, o que o torna o parceiro ideal para representar YoPRO."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ribeiro-lidera-trio-de-vitorias-brasileiras-joao-lago-faz-1o-ponto-na-atp.html",
-        "title": "Ribeiro lidera trio de vitórias brasileiras, João Lago faz 1º ponto na ATP",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/10/52287876856_86ae66e699_c.jpg",
-        "date": "15/07/2025",
-        "description": "Bucaramanga (Colômbia) –O gaúcho Eduardo Ribeiro liderou três vitórias brasileiras na rodada de estreia do ITF M15 de Bucaramanga, em quadras de saibro na Colômbia. Principal cabeça de chave, Ribeiro venceu um duelo nacional contra Victor Pagotto por 6/4 e 6/1. Seu próximo rival será o colombiano Samuel Palacios."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bia-haddad-e-joao-fonseca-tem-vagas-garantidas-no-us-open.html",
-        "title": "Bia Haddad e João Fonseca têm vagas garantidas no US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/08/bia_toss_uso-1024x576.jpg",
-        "date": "15/07/2025",
-        "description": "Nova York (EUA) –O Brasil tem dois representantes garantidos nas chaves principais do US Open, que será disputado entre 24 de agosto e 7 de setembro. As listas de inscritos foram divulgadas nesta terça-feira, com Beatriz Haddad Maia e João Fonseca entrando diretamente, com base nos rankings da semana."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/boisson-vence-a-primeira-em-hamburgo-favoritas-jogam-na-quarta.html",
-        "title": "Boisson vence a primeira em Hamburgo, favoritas jogam na quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/boisson_hamburgo_vibra-1024x640.jpg",
-        "date": "15/07/2025",
-        "description": "Hamburgo (Alemanha) –Depois de se destacar em Roland Garros, com uma grande campanha até a semifinal, a francesa Lois Boisson estreou com vitória no WTA 250 de Hamburgo. A jogadora de 22 anos e 63ª do ranking venceu a austríaca Julia Grabher por 6/1 e 6/3."
     }
 ]
