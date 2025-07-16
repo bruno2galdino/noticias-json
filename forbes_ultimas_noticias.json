@@ -28,11 +28,25 @@
         "description": "Com passagens por empresas como Piracanjuba e Alpargatas, executiva soma 27 anos de experiência e carreira internacional"
     },
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/exportadores-de-cafe-veem-cenario-de-negociacoes-favoravel-com-os-eua/",
+        "title": "Exportadores de Café Veem Cenário de Negociações Favorável com os EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Cafe_15JUl2025_Mikolette_Getty-300x200.jpg",
+        "date": "16/07/2025",
+        "description": "Segundo o Conselho dos Exportadores de Café (Cecafé), a tarifa de 50% ainda não levou a uma suspensão de embarques de café do Brasil para o país"
+    },
+    {
         "url": "https://forbes.com.br/forbeswsb/2025/07/brasil-sera-o-primeiro-pais-a-fabricar-a-cerveja-hofbrau-fora-da-alemanha/",
         "title": "Brasil Será o Primeiro País a Fabricar a Cerveja Hofbräu Fora da Alemanha",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_CervejaHofbrau_15JUl2025_Picturealliance_Getty-300x200.jpg",
         "date": "16/07/2025",
         "description": "Produção local eliminará taxas de importação e deve ampliar o acesso do consumidor brasileiro à marca"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/safra-de-cafe-2024-25-fecha-como-a-terceira-maior-da-historia-brasileira-em-volume/",
+        "title": "Safra de Café 2024/25 Fecha Como a Terceira Maior da História Brasileira em Volume",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Cafe_15JUl2025_FernandoPodolski_Getty-300x200.jpg",
+        "date": "16/07/2025",
+        "description": "As exportações totais de café, que incluem o café solúvel e industrializado, caíram 27,9% em relação a junho do ano passado"
     },
     {
         "url": "https://forbes.com.br/geral/2025/07/as-top-5-materias-mais-clicadas-no-site-da-forbes-em-julho/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/02/money-fed-jerome-powell-300x200.jpg",
         "date": "16/07/2025",
         "description": "O presidente americano passou meses criticando Powell por não reduzir a taxa de juros e tem ameaçado o chefe do BC americano de demissão"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/starbucks-aumenta-frequencia-de-trabalho-presencial-para-quatro-dias-por-semana/",
-        "title": "Starbucks Aumenta Frequência de Trabalho Presencial para Quatro Dias por Semana",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Starbucks-300x200.jpg",
-        "date": "16/07/2025",
-        "description": "Nova política deve entrar em vigor em setembro; atualmente, companhia adota modelo de três dias presenciais por semana"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/isencao-de-ir-comissao-da-camara-aprova-proposta-para-quem-ganha-ate-r-5-mil/",
-        "title": "Isenção de IR: Comissão da Câmara Aprova Proposta para Quem Ganha até R$ 5 Mil",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/12/Imposto-Priscila-Zambotto-GettyImages-300x200.png",
-        "date": "16/07/2025",
-        "description": "A renúncia fiscal estimada em 2026 será de R$ 25,84 bilhões"
     }
 ]
