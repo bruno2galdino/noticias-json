@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/abiove-eleva-projecoes-de-exportacoes-de-soja-do-brasil/",
+        "title": "Abiove Eleva Projeções de Exportações de Soja do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-17T132712Z_1_LYNXMPEL6G0LU_RTROPTP_4_PARAGUAY-SOYBEANS-300x200.jpg",
+        "date": "17/07/2025",
+        "description": "Processamento de oleaginosa deve atingir recorde de 57,8 milhões de toneladas em 2025, impulsionado pela maior demanda por biodiesel"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/camara-dos-deputados-dos-eua-concorda-em-considerar-legislacoes-sobre-criptomoedas-em-vitoria-para-o-setor/",
+        "title": "Câmara dos Deputados dos EUA Concorda em Considerar Legislações sobre Criptomoedas em Vitória para o Setor",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-17T113907Z_1_LYNXMPEL6G0IF_RTROPTP_4_MACRO-EUA-CRIPTO-300x200.jpg",
+        "date": "17/07/2025",
+        "description": "Com aval do Senado, proposta sobre stablecoins aguarda aprovação final no parlamento antes de seguir para sanção de Trump"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/forbes-mulher-agro-pantanal-integrado-cooperacao-inovacao-e-a-chave-para-um-futuro-sustentavel/",
+        "title": "Pantanal Integrado: Cooperação, Inovação e a Chave para um Futuro Sustentável",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Pantanal_15JUl2025_MatsBrynolf_Getty-300x200.jpg",
+        "date": "17/07/2025",
+        "description": "Entenda como natureza e humanidade podem coexistir em perfeita harmonia no bioma localizado no coração do Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/como-ficam-as-novas-aliquotas-do-iof-apos-decisao-de-alexandre-de-moraes/",
         "title": "Como Ficam as Novas Alíquotas do IOF após Decisão de Alexandre de Moraes",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-iof-moedas-300x200.jpg",
@@ -28,7 +49,7 @@
         "description": "Levantamento da Serasa indica que gastos com saúde e dívidas no cartão atrapalham; maioria dos entrevistados não segue objetivos definidos no início de 2025"
     },
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/o-que-realmente-significa-ser-uma-organizacao-ai-first/",
+        "url": "https://forbes.com.br/forbes-collab/2025/07/o-que-realmente-significa-ser-uma-organizacao-ai-first/",
         "title": "O Que Realmente Significa Ser uma Organização AI-first?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/AI-first-300x200.png",
         "date": "17/07/2025",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-marcelle-paiva-oracle-300x200.jpg",
         "date": "17/07/2025",
         "description": "Publicitária de formação, Marcelle Paiva fez carreira em grandes empresas de tecnologia e usou sua visão de marketing para ler o mercado e estruturar um núcleo de inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/cop30-enfrenta-impasse-global-com-eua-fora-das-negociacoes-afirma-brito/",
-        "title": "COP30 Enfrenta Impasse Global com EUA Fora das Negociações, Afirma Marcelo Brito",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/MarcelloBrito_16JUl2025_-300x200.jpg",
-        "date": "17/07/2025",
-        "description": "Para o enviado especial do Consórcio Amazônia Legal, o cenário geopolítico global e os posicionamentos de Donald Trump sobre o clima podem esfriar a conferência"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/o-que-significa-ser-rico-na-nova-zelandia/",
-        "title": "O Que Significa Ser Rico na Nova Zelândia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Lago-Tekapo-Monte-Cook-Nova-Zelandia-300x200.jpg",
-        "date": "17/07/2025",
-        "description": "Descubra os programas de passaporte dourado e visto dourado do país e o que significa ter riqueza por lá"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/inteligencia-artificial-nao-apenas-automatiza-tarefas-mas-pode-ser-sua-nova-chefe/",
-        "title": "Por Que a Inteligência Artificial Pode Ser Sua Nova Chefe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-IA-inteligencia-artificial-carreira-300x200.jpg",
-        "date": "17/07/2025",
-        "description": "De distribuir trabalho a monitorar desempenho, veja como prosperar quando seu próximo gestor for um algoritmo"
     }
 ]
