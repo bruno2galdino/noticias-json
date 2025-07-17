@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/mudanca-da-coca-cola-para-acucar-de-cana-sairia-cara-e-prejudicaria-agricultores-dos-eua/",
+        "title": "Mudança da Coca-Cola para Açúcar de Cana Sairia Cara",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-coca-cola-300x200.jpg",
+        "date": "17/07/2025",
+        "description": "Trump disse na quarta-feira (17) que a empresa havia concordado em usar açúcar de cana em suas bebidas no país"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/brasil-vai-julgar-e-cobrar-impostos-das-empresas-digitais-norte-americanas-diz-lula/",
+        "title": "Brasil Vai \"Julgar e Cobrar Impostos\" das Empresas Digitais Norte-Americanas, Diz Lula",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-lula-impostos-300x200.jpg",
+        "date": "17/07/2025",
+        "description": "Comunicado acontece após Donald Trump anunciar tarifa de 50% sobre produtos brasileiros a partir de agosto"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/07/meteorito-de-marte-e-leiloado-por-recorde-de-us-53-milhoes/",
         "title": "Meteorito de Marte é Leiloado por Recorde de US$ 5,3 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-meteorito-marte-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2022/08/agro-petrobras-diesel-02ago22-PauloWhitaker-300x200.jpg",
         "date": "17/07/2025",
         "description": "A CEO, Magda Chambriard, afirmou que o mercado norte-americano não é essencial para a empresa"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/como-sera-o-novo-exame-obrigatorio-de-medicina/",
-        "title": "Como Será o Novo Exame Obrigatório de Medicina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-medicina-exame-nacional-medicos-300x200.jpg",
-        "date": "17/07/2025",
-        "description": "Com urgência aprovada, proposta prevê prova para médicos recém-formados antes do registro profissional"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/unigel-propoe-suspensao-de-obrigacoes-financeiras-em-meio-a-desafios-no-setor/",
-        "title": "Unigel Propõe Suspensão de Obrigações Financeiras em Meio a Desafios no Setor",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/07/ForbesMoney-Unigel-HenriSlezynger-300721-Divulgacao.jpg",
-        "date": "17/07/2025",
-        "description": "Empresa afirma que, mesmo com proposta de standstill, operação e cadeia produtiva seguem totalmente atendidas"
     }
 ]
