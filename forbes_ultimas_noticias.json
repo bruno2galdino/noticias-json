@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/pesquisa-mostra-por-que-brasileiro-nao-consegue-cumprir-metas-financeiras/",
+        "title": "Pesquisa Mostra por Que Brasileiro Não Consegue Cumprir Metas Financeiras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/budget-300x200.jpg",
+        "date": "17/07/2025",
+        "description": "Levantamento da Serasa indica que gastos com saúde e dívidas no cartão atrapalham; maioria dos entrevistados não segue objetivos definidos no início de 2025"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/07/o-que-realmente-significa-ser-uma-organizacao-ai-first/",
         "title": "O Que Realmente Significa Ser uma Organização AI-first?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/AI-first-300x200.png",
@@ -7,7 +14,7 @@
         "description": "Tecnologia deve ser vista não como doutrina e sim como poderoso meio de solução das dores dos clientes"
     },
     {
-        "url": "https://forbes.com.br/carreira/2025/07/startup-cria-plataforma-para-compartilhar-refeicoes-durante-reunioes-virtuais/",
+        "url": "https://forbes.com.br/forbesagro/2025/07/startup-cria-plataforma-para-compartilhar-refeicoes-durante-reunioes-virtuais/",
         "title": "Startup Cria Plataforma Para Compartilhar Refeições Durante Reuniões Virtuais",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_RefeicoesOnline_15JUl2025_AndreyPopov_Getty-300x200.jpg",
         "date": "17/07/2025",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-4-300x200.png",
         "date": "16/07/2025",
         "description": "Índice estava há sete dias em território negativo, impulsionado pelas ameaças tarifárias de Trump sobre produtos brasileiros"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/exportacoes-de-carne-aos-eua-estao-totalmente-paralisadas-diz-roberto-perosa-da-abiec/",
-        "title": "“Exportações de Carne Aos EUA Estão Totalmente Paralisadas”, diz Roberto Perosa, da ABIEC",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Roberto-Perosa-_16jul25_Agencia_Brasil-300x200.jpg",
-        "date": "16/07/2025",
-        "description": "Com embarques suspensos e contratos em risco, setor cobra reação urgente do governo e alerta que a medida afeta diretamente a competitividade dos frigoríficos e da cadeia pecuária nacional"
     }
 ]
