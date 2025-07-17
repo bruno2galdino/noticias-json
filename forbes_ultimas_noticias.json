@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/07/meteorito-de-marte-e-leiloado-por-recorde-de-us-53-milhoes/",
+        "title": "Meteorito de Marte é Leiloado por Recorde de US$ 5,3 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-meteorito-marte-300x200.jpg",
+        "date": "17/07/2025",
+        "description": "Rocha de 24,5 kg é o maior pedaço conhecido de Marte encontrado na Terra"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/apesar-de-retomada-do-iof-dolar-cai-e-bolsa-tem-leve-alta/",
+        "title": "Apesar de Retomada do IOF, Dólar Cai e Bolsa Tem Leve Alta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-4-300x200.png",
+        "date": "17/07/2025",
+        "description": "Investidores temem um cenário de insegurança jurídica, mas ativos não acompanharam a cautela"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/receita-dispensa-bancos-de-recolherem-iof-retroativo-mas-indica-que-podera-cobrar-contribuintes/",
+        "title": "Receita Dispensa Bancos de Recolherem IOF Retroativo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-money-iof-300x200.jpg",
+        "date": "17/07/2025",
+        "description": "Fisco ponderou que “irá manifestar-se oportunamente, buscando evitar surpresa e insegurança jurídica na aplicação da lei”"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-collab/2025/07/o-brasil-e-joao-nosso-gigante-acorda-todos-os-dias-na-sarjeta-economica/",
+        "title": "O Brasil É João: Nosso Gigante Acorda Todos os Dias na Sarjeta Econômica",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2220303484-300x200.jpg",
+        "date": "17/07/2025",
+        "description": "Como a insegurança jurídica e decisões arbitrárias sabotam o potencial econômico do Brasil e o comparam a um gênio autodestrutivo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/07/investidores-da-meta-e-zuckerberg-chegam-a-acordo-sobre-julgamento-de-privacidade-do-facebook/",
         "title": "Investidores da Meta e Zuckerberg Chegam a Acordo sobre Julgamento de Privacidade do Facebook",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/meta-logo-forbes-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2021/07/ForbesMoney-Unigel-HenriSlezynger-300721-Divulgacao.jpg",
         "date": "17/07/2025",
         "description": "Empresa afirma que, mesmo com proposta de standstill, operação e cadeia produtiva seguem totalmente atendidas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/abiove-eleva-projecoes-de-exportacoes-de-soja-do-brasil/",
-        "title": "Abiove Eleva Projeções de Exportações de Soja do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-17T132712Z_1_LYNXMPEL6G0LU_RTROPTP_4_PARAGUAY-SOYBEANS-300x200.jpg",
-        "date": "17/07/2025",
-        "description": "Processamento de oleaginosa deve atingir recorde de 57,8 milhões de toneladas em 2025, impulsionado pela maior demanda por biodiesel"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/camara-dos-deputados-dos-eua-concorda-em-considerar-legislacoes-sobre-criptomoedas-em-vitoria-para-o-setor/",
-        "title": "Câmara dos Deputados dos EUA Concorda em Considerar Legislações sobre Criptomoedas em Vitória para o Setor",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-17T113907Z_1_LYNXMPEL6G0IF_RTROPTP_4_MACRO-EUA-CRIPTO-300x200.jpg",
-        "date": "17/07/2025",
-        "description": "Com aval do Senado, proposta sobre stablecoins aguarda aprovação final no parlamento antes de seguir para sanção de Trump"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/safra-global-de-milho-vem-com-1276-bilhao-de-toneladas-muito-acima-do-ciclo-anterior/",
-        "title": "Safra global de milho vem com 1,276 bilhão de toneladas, muito acima do ciclo anterior",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Milho_15JUl2025_dusanpetkovic_Getty-300x200.jpg",
-        "date": "17/07/2025",
-        "description": "Conselho Internacional de Grãos diz que safra maior nos EUA deve compensar perdas em países como Hungria e Romênia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/forbes-mulher-agro-pantanal-integrado-cooperacao-inovacao-e-a-chave-para-um-futuro-sustentavel/",
-        "title": "Pantanal Integrado: Cooperação, Inovação e a Chave para um Futuro Sustentável",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Pantanal_15JUl2025_MatsBrynolf_Getty-300x200.jpg",
-        "date": "17/07/2025",
-        "description": "Entenda como natureza e humanidade podem coexistir em perfeita harmonia no bioma localizado no coração do Brasil"
     }
 ]
