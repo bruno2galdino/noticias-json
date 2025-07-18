@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/american-express-supera-expectativas-de-lucro-com-aumento-de-gastos-de-clientes-ricos/",
+        "title": "American Express Supera Expectativas de Lucro com Aumento de Gastos de Clientes Ricos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-21-300x200.jpg",
+        "date": "18/07/2025",
+        "description": "O resultado acima do esperado ressalta como o foco da empresa nos consumidores alta renda ajudou a isolá-la dos efeitos da diminuição da confiança do consumidor"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/adm-encerra-operacao-de-fabrica-de-alimentos-para-pets-no-brasil/",
+        "title": "ADM Encerra Operação de Fábrica de Alimentos para Pets no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_ADM_18JUl2025_VincentAlban_Reuters-300x200.jpg",
+        "date": "18/07/2025",
+        "description": "A empresa norte-americana disse que a medida faz parte de esforços para otimizar custos e operações"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-collab/2025/07/a-exclusao-silenciosa-das-pmes-do-sistema-financeiro-e-a-tentativa-de-virar-o-jogo/",
+        "title": "A Exclusão Silenciosa das PMEs do Sistema Financeiro e a Tentativa de Virar o Jogo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Delend-300x200.jpg",
+        "date": "18/07/2025",
+        "description": "Enquanto o sistema financeiro tradicional ignora milhões de empresas, Delend aposta em inteligência artificial e Open Finance para virar esse jogo"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/fazendas-historicas-do-rio-viram-palco-de-musica-e-cafe-especial/",
         "title": "Fazendas Históricas do Rio Viram Palco de Música e Café Especial",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_capela-da-fazenda-Florenca_18jul25_-CristinaIndiodoBrasilAgenciaBrasil-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2021/10/Money_JairBolsonaro_191021_Ueslei-MarcelinoReuters.jpg",
         "date": "18/07/2025",
         "description": "Em nota sem citar Bolsonaro, a Polícia Federal disse que cumpriu dois mandados de busca e apreensão e \"medidas cautelares diversas da prisão\""
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/camara-dos-eua-aprova-legislacao-sobre-stablecoins/",
-        "title": "Câmara dos EUA Aprova Legislação sobre Stablecoins",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Congresso-americano-Money-300x200.png",
-        "date": "18/07/2025",
-        "description": "Projeto de Lei depende agora apenas da sanção do presidente americano, Donald Trump"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-resultados-de-empresas-fazem-bolsas-dos-eua-renovar-recordes/",
-        "title": "Pré-mercado: Resultados de Empresas Fazem Bolsas dos EUA Renovar Recordes",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "18/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 18 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/escolhas-do-editor/2025/07/tarifas-de-50-podem-impactar-qualidade-do-sistema-financeiro-brasileiro-aponta-moodys/",
-        "title": "Tarifas de 50% Podem Impactar Qualidade do Sistema Financeiro Brasileiro, Aponta Moody's",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-18-300x200.jpg",
-        "date": "18/07/2025",
-        "description": "Embora os bancos brasileiros não possuam grande exposição a empresas exportadoras, uma eventual combinação de fatores pode comprometer a rentabilidade das instituições"
     }
 ]
