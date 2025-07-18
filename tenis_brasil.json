@@ -1,19 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-18-07.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/12/jennifer-rosa-dourado_joinville.jpg",
-        "date": "18/07/2025",
-        "description": "Challenger de Bunschoten (Holanda) – Saibro – 91.250 eurosDuplas – Semifinal –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tenis-feminino-cresce-mas-jogadoras-ainda-buscam-meios-de-se-manter.html",
-        "title": "Tênis feminino cresce, mas jogadoras ainda buscam meios de se manter",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/arte_ps_candiotto.jpg",
-        "date": "18/07/2025",
-        "description": "O tênis feminino no Brasil vive um momento de maior exposição e visibilidade, especialmente após a medalha olímpica de Luísa Stefani e Laura Pigossi em Tóquio e das conquistas de Beatriz Haddad Maia, atual 21ª do mundo, na elite do circuito nas últimas temproadas. Há pouco mais de um ano, o Ginásio Ibirapuera, em São Paulo, recebeu um quase 15 mil pessoas nos dois dias de confronto entre Brasil e Alemanha pela Billie Jean King Cup. E a capital paulista voltará a receber em setembro um torneio da WTA depois de 25 anos."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/juan-manuel-cerundolo-vence-6-games-seguidos-no-fim-e-surpreende-ruud.html",
         "title": "Juan Manuel Cerúndolo vence 6 games seguidos no fim e surpreende Ruud",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/cerundolo-gstaad-2025-qf-e1752862778473-1024x682.jpg",
@@ -56,6 +42,13 @@
         "description": "Londres (Inglaterra) –Jogadores profissionais de tênis em cadeira de rodas em todo o mundo terão mais oportunidades de competir ao lado de seus pares sem cadeira de rodas a partir do próximo ano, graças a uma nova estrutura de calendário anunciada nesta sexta-feira pela Federação Internacional de Tênis (ITF)."
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-18-07.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/12/jennifer-rosa-dourado_joinville.jpg",
+        "date": "18/07/2025",
+        "description": "Challenger de Bunschoten (Holanda) – Saibro – 91.250 eurosDuplas – Semifinal –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/stephens-ganha-o-premio-humanitario-do-espys-pelo-trabalho-da-fundacao.html",
         "title": "Stephens ganha o prêmio humanitário do ESPYs por sua fundação",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/stephens_premio-ESPYs.jpg",
@@ -63,10 +56,10 @@
         "description": "Los Angeles (EUA) –A americana Sloane Stephens, campeã do US Open de 2017, teve seus esforços fora das quadras reconhecido na entrega dos prêmios ESPYS na última quarta-feira."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-descansa-nas-praias-espanholas-antes-da-temporada-norte-americana.html",
-        "title": "Alcaraz descansa nas praias espanholas antes da temporada norte-americana",
-        "image": null,
+        "url": "https://tenisbrasil.uol.com.br/kyrgios-acredita-que-djokovic-nao-seguira-jogando-por-mais-um-ano.html",
+        "title": "Kyrgios acredita que Djokovic não seguirá jogando por mais um ano",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/12/djokovic-kyrgios-brisbane-2025-e1735559352367-1024x683.jpg",
         "date": "18/07/2025",
-        "description": ""
+        "description": "Londres (Inglaterra)– O australiano Nick Kyrgios, que mantém uma amizade com o sérvio Novak Djokovic, especulou sobre a aposentadoria do recordista de títulos de Grand Slam em conversa no podcastAll on the Table, de Patrick Mouratoglou. Depois de uma conversa com o ex-número 1 em Indian Wells, ele acredita que ‘Nole’ não jogará por mais de um ano."
     }
 ]
