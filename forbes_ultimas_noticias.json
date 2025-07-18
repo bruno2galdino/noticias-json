@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-cast/2025/07/renata-koch-participa-do-podcast-under-30-a-jornada/",
+        "title": "Renata Koch Participa do Podcast Under 30 – A Jornada",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/renata-koch-u30-1-300x200.jpg",
+        "date": "18/07/2025",
+        "description": "Ativista climática, fundadora EmpoderaClima, falou sobre sua trajetória no programa apresentado por Johnnie Walker"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/07/bb-seguridade-recebe-indicacao-para-novo-diretor-presidente/",
+        "title": "BB Seguridade Recebe Indicação para Novo Diretor-Presidente",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-Delano-Valentim-de-Andrade-bb-seguridade-300x200.jpg",
+        "date": "18/07/2025",
+        "description": "Delano Valentim de Andrade é o atual CEO do BB Americas Bank"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/helen-jacintho-em-tempos-de-polarizacao-politica-acabou-sobrando-para-o-agro-brasileiro/",
+        "title": "Em Tempos de Polarização Política, Acabou Sobrando para o Agro Brasileiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_TrumpTarifasAgro_15JUl2025_ChipSomodevilla_Getty-300x200.jpg",
+        "date": "18/07/2025",
+        "description": "Entenda como a nova tarifa de 50% imposta pelo presidente Donald Trump impacta diversos produtos brasileiros exportados para os EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/moraes-reve-decisao-sobre-iof-para-dispensar-cobranca-retroativa-do-tributo/",
         "title": "Moraes Revê Decisão sobre IOF para Dispensar Cobrança Retroativa do Tributo",
         "image": "https://forbes.com.br/wp-content/uploads/2022/03/Money_Dolar-Real-Moeda-IOF-300x200.jpg",
@@ -29,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-collab/2025/07/a-exclusao-silenciosa-das-pmes-do-sistema-financeiro-e-a-tentativa-de-virar-o-jogo/",
-        "title": "A Exclusão Silenciosa das PMEs do Sistema Financeiro e a Tentativa de Virar o Jogo",
+        "title": "A Exclusão Silenciosa das PMEs do Sistema Financeiro e a Aposta Para Virar o Jogo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Delend-300x200.jpg",
         "date": "18/07/2025",
         "description": "Enquanto o sistema financeiro tradicional ignora milhões de empresas, Delend aposta em inteligência artificial e Open Finance para virar esse jogo"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Joao_Martins_18jul25_-Wenderson-AraujoTriluxCNA-300x200.jpg",
         "date": "18/07/2025",
         "description": "Saiba o que significam as cobranças da Confederação Nacional da Agricultura e Pecuária por estabilidade e reformas estruturantes que garantam investimentos, segurança jurídica e protagonismo global do Brasil em alimentos e energia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/cop30-abre-inscricoes-para-participacao-na-green-zone/",
-        "title": "COP30 Abre Inscrições para Participação na Green Zone",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/ESG_COP30_18JUl2025_SOPAImages_Getty--300x200.jpg",
-        "date": "18/07/2025",
-        "description": "As inscrições devem ser feitas até o dia 22 de julho pelo site oficial da conferência"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/unigel-diz-nao-haver-determinacao-para-pedido-de-recuperacao-judicial/",
-        "title": "Unigel Diz Não Haver Determinação para Pedido de Recuperação Judicial",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/07/ForbesMoney-Unigel-HenriSlezynger-300721-Divulgacao.jpg",
-        "date": "18/07/2025",
-        "description": "A companhia informou que negocia com credores a suspensão temporária do pagamento de suas dívidas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/lilo-e-stitch-e-primeiro-filme-de-2025-a-fazer-us-1-bilhao/",
-        "title": "'Lilo e Stitch' É 1º Filme Americano de 2025 a Fazer US$ 1 Bilhão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Lilo-e-Stitch-300x200.webp",
-        "date": "18/07/2025",
-        "description": "Live-action da Disney é o primeiro blockbuster bilionário do ano, especialmente depois de atrair grandes audiências familiares"
     }
 ]
