@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/07/lilo-e-stitch-e-primeiro-filme-de-2025-a-fazer-us-1-bilhao/",
+        "title": "‘Lilo e Stitch’ É Primeiro Filme de 2025 a Fazer US$ 1 Bilhão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Lilo-e-Stitch-300x200.webp",
+        "date": "18/07/2025",
+        "description": "Live-action da Disney é o primeiro blockbuster bilionário do ano, especialmente depois de atrair grandes audiências familiares"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/lula-fala-em-chantagem-inaceitavel-de-trump-e-defende-soberania-em-atuacao-sobre-big-techs/",
+        "title": "Lula Fala em \"Chantagem Inaceitável\" de Trump e Defende Soberania em Atuação sobre Big Techs",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/2024-11-27T133502Z_1_LYNXNPEKAQ0JV_RTROPTP_4_POLITICA-LULA-MERCOSUL-UE-300x200.jpg",
+        "date": "18/07/2025",
+        "description": "No pronunciamento desta quinta-feira, o presidente disse que a tentativa de intervenção no Judiciário é um ataque à soberania brasileira"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/07/bolsonaro-e-alvo-de-operacao-da-pf-e-tera-de-usar-tornozeleira-eletronica/",
+        "title": "Bolsonaro É Alvo de Operação da PF e Terá de Usar Tornozeleira Eletrônica",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/10/Money_JairBolsonaro_191021_Ueslei-MarcelinoReuters.jpg",
+        "date": "18/07/2025",
+        "description": "Em nota sem citar Bolsonaro, a Polícia Federal disse que cumpriu dois mandados de busca e apreensão e \"medidas cautelares diversas da prisão\""
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/camara-dos-eua-aprova-legislacao-sobre-stablecoins/",
         "title": "Câmara dos EUA Aprova Legislação sobre Stablecoins",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Congresso-americano-Money-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/iPhone-16-300x200.png",
         "date": "18/07/2025",
         "description": "Alguns aparelhos importantes ficaram de fora da atualização. Entre eles estão o iPhone X, XS, XR e XS Max"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/07/modelo-de-credito-da-natura-destina-r-13-milhoes-para-produtores-da-amazonia/",
-        "title": "Modelo de Crédito da Natura Destina R$ 13 Milhões a Produtores da Amazônia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_AmazoniaNatura_15JUl2025_Brasil2_Getty-300x200.jpg",
-        "date": "18/07/2025",
-        "description": "A iniciativa Mecanismo de Financiamento Amazônia Viva está presente em 16 territórios da região"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/07/2-sinais-de-que-voce-e-uma-pessoa-convencionalmente-legal/",
-        "title": "2 Sinais de Que Você É uma Pessoa Convencionalmente \"Legal\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/960x0-7-300x200.jpg",
-        "date": "18/07/2025",
-        "description": "Pessoas “descoladas” ao redor do mundo tendem a ter esses seis traços de personalidade em comum"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/openai-lanca-chatgpt-agent-entenda-o-que-muda/",
-        "title": "OpenAI Lança \"ChatGPT Agent\"; Entenda o Que Muda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/openai-chatgpt-agentes-300x200.png",
-        "date": "18/07/2025",
-        "description": "Segundo o anúncio, a ferramenta é capaz de executar tarefas e trabalhos diversos para os usuários"
     }
 ]
