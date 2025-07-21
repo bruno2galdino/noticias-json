@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/07/diversidade-genetica-brasileira-pode-revolucionar-a-saude-publica/",
+        "title": "Diversidade Genética Brasileira Pode Revolucionar a Saúde Pública",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2204954826-300x200.jpg",
+        "date": "21/07/2025",
+        "description": "Entender o DNA da população é também um passo em direção a políticas públicas mais inclusivas e eficazes"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/apos-boatos-rede-dor-e-fleury-negam-que-tenham-alcancado-acordo-de-combinacao-de-negocios/",
+        "title": "Após Boatos, Rede D'or e Fleury Negam Que Tenham Alcançado Acordo de Combinação de Negócios",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/08/Rede-DOr-1-300x200.png",
+        "date": "21/07/2025",
+        "description": "Colunista apontou Rede D'Or e Bradesco -- principal acionista da Fleury -- estariam em negociação"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/governo-diz-que-insistira-negociacoes-mas-pode-ficar-sem-respostas-ate-o-dia-1o-de-agosto/",
+        "title": "Governo Diz Que Insistirá Negociações, Mas Pode Ficar sem Respostas até o Dia 1º de Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/praca-dos-tres-poderes-brasilia-governo-federal-money-300x200.png",
+        "date": "21/07/2025",
+        "description": "Segundo o ministro da Fazenda, Fernando Haddad, é possível que sejam implementados instrumentos de apoio aos segmentos mais afetados"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-eua-mantem-discurso-firme-com-relacao-as-tarifas/",
         "title": "Pré-mercado: EUA Mantém Discurso Firme com Relação Às Tarifas",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -8,7 +29,7 @@
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/07/depois-da-cinzano-nova-fusao-no-setor-de-destilados-italianos-nardini-compra-a-domenis-1898/",
-        "title": "Depois da Cinzano, Nova Fusão no Setor de Destilados Italianos: Nardini Compra a Domenis 1898",
+        "title": "Depois da Cinzano, Nova Fusão: Nardini Compra a Domenis 1898",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Michele-Viscidi-Nardini_-20jul2025-_-DivulgForbesItalia-300x200.jpg",
         "date": "21/07/2025",
         "description": "\"A Domenis representou desde o início uma oportunidade única\", disse o CEO da Nardini, Michele Viscidi"
@@ -29,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/07/nao-e-hora-de-tomar-grandes-decisoes-de-investimentos-aponta-cio-do-santander-private-bank/",
-        "title": "Não É Hora de Tomar Grandes Decisões de Investimentos, Diz CIO do Santander Private Bank",
+        "title": "Não É Hora de Tomar Grandes Decisões de Investimentos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/img-1500x1000-1-300x200.jpg",
         "date": "21/07/2025",
         "description": "Tarifaço americano e cenário fiscal são as principais preocupações nos pratos dos investidores, mas deveriam afetar pouco decisões imediatas"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Nujuma-A-Ritz-Carlton-Reserve-300x200.jpg",
         "date": "21/07/2025",
         "description": "De Atenas ao Vietnã, esses destinos aprovados pelo Forbes Travel Guide ficam fora do circuito tradicional e oferecem sol, areia e tranquilidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/morre-preta-gil-a-mulher-que-se-tornou-uma-das-artistas-mais-versateis-do-brasil/",
-        "title": "Morre Preta Gil, a Mulher Que se Tornou uma das Artistas Mais Versáteis do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Untitled-design-300x200.png",
-        "date": "20/07/2025",
-        "description": "Cantora, apresentadora e empresária, ela soube criar sua própria identidade artística e conquistar múltiplos mercados sem depender do legado familiar"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/morre-aos-83-anos-edwin-feulner-fundador-do-instituto-conservador-norte-americano-heritage-foundation/",
-        "title": "Morre Edwin Feulner, Fundador do Instituto Conservador nos EUA, o Heritage Foundation",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Edwin-Feulner_-20jul2025-_-Jonathan-WongGetty-300x200.jpg",
-        "date": "20/07/2025",
-        "description": "Fundação criou o Projeto 2025, considerado a base política do segundo mandato do presidente Donald Trump"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/importacoes-chinesas-de-soja-do-brasil-aumentam-9-em-junho/",
-        "title": "Importações chinesas de soja do Brasil aumentam 9% em junho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro-soja_colheita_-20jul2025-_-ReurtesDiego-Vara-300x200.jpg",
-        "date": "20/07/2025",
-        "description": "País asiático atingiu o nível mais alto de compras de todos os tempos para o referido mês"
     }
 ]
