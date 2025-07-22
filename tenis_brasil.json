@@ -1,26 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-22-07.html",
-        "title": "O dia dos brasileiros: veja os resultados desta terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/picinelli-campinas-2025-1024x683.jpg",
-        "date": "22/07/2025",
-        "description": "ATP 250 de Kitzbuhel (Áustria) – Saibro – 596.035 eurosPrimeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wilander-explica-por-que-sinner-e-um-melhor-modelo-do-que-alcaraz.html",
-        "title": "Wilander explica por que Sinner é um melhor modelo do que Alcaraz",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sinner_alcaraz_wimbledon_trofeus-1024x682.jpg",
-        "date": "22/07/2025",
-        "description": "Paris (França)– Após Jannik Sinner se vingar de Carlos Alcaraz com uma atuação impecável na final de Wimbledon, o debate sobre a rivalidade entre o italiano e o espanhol. Em entrevista aoL’Equipe, o sueco Mats Wilander comentou sobre o assunto e explicou por que acredita que o atual número 1 do mundo seja um exemplo melhor para os demais tenistas."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/navratilova-discorda-do-governo-trump-voltando-se-contra-imigrantes.html",
-        "title": "Navratilova discorda de Trump e mulheres trans nos esportes femininos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/12/2023_by-Jimmie48_WTA-1024x667.jpg",
-        "date": "22/07/2025",
-        "description": "Londres (Inglaterra) –Durante a edição deste ano de Wimbledon, Martina Navratilova, tcheca naturalizada americana, concedeu entrevista a Amol Rajan, jornalista da BBC. A ex-número 1 do mundo desertou há 50 anos da Tchecoslováquia comunista para buscar seus objetivos de vida e esportivos nos Estados Unidos. Na época, a jovem de 18 anos tornou-se uma das mais famosas desertoras da Cortina de Ferro."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/haas-acredita-que-zverev-va-tirar-licoes-da-queda-na-estreia-em-wimbledon.html",
         "title": "Haas acredita que Zverev vá tirar lições da queda na estreia em Wimbledon",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/zverev-wimbledon-grita-2025-1024x682.jpg",
@@ -40,6 +19,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/campeoesacailandia_bt10.jpg",
         "date": "22/07/2025",
         "description": "Açailândia (MA) –Começou nesta segunda-feira a disputa do inédito torneio internacional de beach tennis em Açailândia, no coração do Maranhão. No primeiro evento, atletas maranhenses conquistaram o troféu do BT 10, com pontos no ranking mundial."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-22-07.html",
+        "title": "O dia dos brasileiros: veja os resultados desta terça",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/picinelli-campinas-2025-1024x683.jpg",
+        "date": "22/07/2025",
+        "description": "ATP 250 de Kitzbuhel (Áustria) – Saibro – 596.035 eurosPrimeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/toronto-sera-primeiro-masters-1000-desde-2017-sem-numeros-1-e-2.html",
@@ -68,5 +54,19 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/08/Melhores-lances-WTA-1024x576.jpg",
         "date": "21/07/2025",
         "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pegula-e-rybakina-enfrentam-canadenses-sakkari-estreia-bem.html",
+        "title": "Pegula e Rybakina enfrentam canadenses, Sakkari estreia bem",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/mboko_washington_vibra.jpg",
+        "date": "21/07/2025",
+        "description": "Washington (EUA) –O início das disputas do WTA 500 de Washington definiu as adversárias de estreia de Jessica Pegula e Elena Rybakina. Elas entram diretamente na segunda rodada do torneio preparatório para o US Open e enfrentarão tenistas canadenses."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/opelka-desafia-medvedev-em-washington-fritz-enfrenta-vukic.html",
+        "title": "Opelka desafia Medvedev em Washington, Fritz enfrenta Vukic",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/opelka_washington_fore-1024x620.jpg",
+        "date": "21/07/2025",
+        "description": "Washington (EUA) –O exímio sacador Reilly Opelka será o adversário de estreia de Daniil Medvedev no ATP 500 de Washington. Opelka disparou 23 aces nesta segunda-feira para vencer o duelo norte-americano contra Murphy Cassone por 7/6 (7-4), 6/7 (5-7) e 6/3 em 2h20 de partida."
     }
 ]
