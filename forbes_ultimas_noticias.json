@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/07/apos-despedida-dos-palcos-morre-ozzy-osbourne-aos-76-anos/",
+        "title": "Após Despedida dos Palcos, Morre Ozzy Osbourne, Aos 76 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-11-300x200.png",
+        "date": "22/07/2025",
+        "description": "Família comunicou a partida do ídolo do heavy metal nesta terça-feira (22)"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/santa-clara-recebe-investimento-do-bndes-e-mira-faturamento-bilionario-ate-2030/",
+        "title": "Santa Clara Recebe Investimento do BNDES e Mira Faturamento Bilionário até 2030",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_biologicos_bioinsumos_21jul2025_Andrew-Brookes_Getty-300x200.jpg",
+        "date": "22/07/2025",
+        "description": "Operação marca retorno do banco ao capital de empresas fechadas e viabiliza plano de crescimento com foco em tecnologia agrícola e novos mercados"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/apesar-de-recordes-mercado-se-divide-sobre-projecoes-para-nasdaq-e-sp-500/",
         "title": "Apesar de Recordes, Mercado se Divide sobre Projeções para Nasdaq e S&P 500 Neste Ano",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-5-1-300x200.png",
@@ -49,24 +63,10 @@
         "description": "Mudança sinaliza esforço dos EUA para reduzir a dependência das redes de satélites da SpaceX nas comunicações militares"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/07/drones-agricolas-avancam-mas-exigem-regulamentacao-mais-clara/",
-        "title": "Drones Agrícolas Avançam, Mas Exigem Regulamentação Mais Clara",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_DroneAgricola_18JUl2025_guteksk7_Getty-300x200.jpg",
+        "url": "https://forbes.com.br/forbesagro/2025/07/cientistas-propoem-criacao-de-observatorio-global-da-biodiversidade-do-solo/",
+        "title": "Cientistas Propõem Criação de Observatório Global da Biodiversidade do Solo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Solo_18JUl2025_RomanBulatov_Getty-300x200.jpg",
         "date": "22/07/2025",
-        "description": "Estudo feito pela Embrapa Soja (PR) mostra que a tecnologia tem ganhado espaço nas lavouras, o que exige regras mais específicas sobre seu uso"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/colheita-de-cafe-2025-de-cooperados-da-cooxupe-atinge-59/",
-        "title": "Colheita de Café 2025 de Cooperados da Cooxupé Atinge 59%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-22T150732Z_1_LYNXMPEL6L0TX_RTROPTP_4_YEMEN-COFFEE-FERMENTATION-300x200.jpg",
-        "date": "22/07/2025",
-        "description": "Safra dos mais de 20 mil cooperados da Cooxupé é colhida em quatro importantes regiões cafeeiras de Minas Gerais e São Paulo"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/07/catar-confirma-conversas-sobre-sediar-os-jogos-olimpicos-de-2036/",
-        "title": "Catar Confirma Conversas sobre Sediar os Jogos Olímpicos de 2036",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-22T150813Z_1_LYNXMPEL6L0TV_RTROPTP_4_OLYMPICS-2020-NBCUNIVERSAL-300x200.jpg",
-        "date": "22/07/2025",
-        "description": "Outros países asiáticos que avaliam uma candidatura incluem Arábia Saudita e Coreia do Sul; Egito, Hungria, Itália, Alemanha, Dinamarca e Canadá também sinalizaram interesse"
+        "description": "Iniciativa de pesquisadores da Embrapa e da Organização das Nações Unidas para Alimentação e Agricultura (FAO) busca padronizar indicadores dos solos em escala mundial"
     }
 ]

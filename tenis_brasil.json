@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/com-novo-tecnico-pigossi-inicia-calendario-em-quadras-duras.html",
+        "title": "Com novo técnico, Pigossi inicia calendário em quadras duras",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/pigossi_valencia_saque-1024x529.jpg",
+        "date": "22/07/2025",
+        "description": "Figueira da Foz (Portugal) –Segunda melhor brasileira no ranking da WTA, ocupando a 206ª colocação, Laura Pigossi anunciou mudanças em sua equipe de trabalho. A paulistana de 30 anos não está mais treinando na ADI Academy, em Barcelona, e começou a viajar com novo técnico, o peruano Sérgio Galdós, além do preparador físico Carlos Aguilar. Ela também trocou de raquete, está jogando com aYonex V Core."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-22-07.html",
+        "title": "O dia dos brasileiros: veja os resultados desta terça",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/picinelli-campinas-2025-1024x683.jpg",
+        "date": "22/07/2025",
+        "description": "ATP 250 de Kitzbuhel (Áustria) – Saibro – 596.035 eurosPrimeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/joao-reis-vai-as-oitavas-na-finlandia-pucinelli-e-alves-caem.html",
         "title": "João Reis vai às oitavas na Finlândia, Pucinelli e Alves caem",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/joao_lreis_campinas_vibra-e1749933734477-1024x683.jpg",
@@ -23,9 +37,9 @@
     {
         "url": "https://tenisbrasil.uol.com.br/zheng-desiste-do-us-open-depois-da-artroscopia-no-cotovelo-direito.html",
         "title": "Zheng desiste do US Open depois da artroscopia no cotovelo direito",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/Qinwen_Zheng_-_Roland_Garros_2025_-_Day_10-DSC-e1752936661598-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/09/zheng-prepara-back-2024-e1725453884898-1024x681.jpg",
         "date": "22/07/2025",
-        "description": "Nova York (EUA)– Medalha de ouro olímpica em Paris, no ano passado, Qinwen Zheng desistiu de participar do Aberto dos EUA na segunda-feira, dois dias após anunciar que havia passado por uma artroscopia no cotovelo direito devido a “dores persistentes”."
+        "description": "Nova York (EUA)– A organização do US Open confirmou na última segunda-feira a desistência da chinesa Qinwen Zheng, dois dias depois de a chinesa anunciar que havia passado por umaartroscopia no cotovelo direitodevido a “dores persistentes”."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/noskova-e-siniakova-lideram-seis-vitorias-tchecas-no-wta-de-praga.html",
@@ -33,13 +47,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/noskova_praga_25_toss-1024x683.jpg",
         "date": "22/07/2025",
         "description": "Praga (República Tcheca) –Nos jogos que complementaram a primeira rodada do WTA 250 de Praga, seis jogadoras tchecas estrearam com vitória no torneio em quadras duras. Destaque para Linda Noskova, principal cabeça de chave, e também para a experiente Katerina Siniakova. Ao todo, serão oito tenistas da casa na segunda rodada do torneio."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-22-07.html",
-        "title": "O dia dos brasileiros: veja os resultados desta terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/picinelli-campinas-2025-1024x683.jpg",
-        "date": "22/07/2025",
-        "description": "ATP 250 de Kitzbuhel (Áustria) – Saibro – 596.035 eurosPrimeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/wild-derrota-jovem-alemao-na-estreia-e-vai-desafiar-o-experiente-bautista.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sinner_alcaraz_wimbledon_trofeus-1024x682.jpg",
         "date": "22/07/2025",
         "description": "Paris (França)– Após Jannik Sinner se vingar de Carlos Alcaraz com uma atuação impecável na final de Wimbledon, o debate sobre a rivalidade entre o italiano e o espanhol. Em entrevista aoL’Equipe, o sueco Mats Wilander comentou sobre o assunto e explicou por que acredita que o atual número 1 do mundo seja um exemplo melhor para os demais tenistas."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/navratilova-criticas-a-trump-e-contra-trans-no-esporte-feminino.html",
-        "title": "Navratilova: críticas a Trump e contra trans no esporte feminino",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/12/2023_by-Jimmie48_WTA-1024x667.jpg",
-        "date": "22/07/2025",
-        "description": "Londres (Inglaterra) –Durante a edição deste ano de Wimbledon, Martina Navratilova, tcheca naturalizada americana, concedeu entrevista a Amol Rajan, jornalista da BBC. A ex-número 1 do mundo desertou há 50 anos da Tchecoslováquia comunista para buscar seus objetivos de vida e esportivos nos Estados Unidos. Na época, a jovem de 18 anos tornou-se uma das mais famosas desertoras da Cortina de Ferro."
     }
 ]
