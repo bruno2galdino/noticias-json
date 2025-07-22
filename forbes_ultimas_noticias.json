@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/contrarretaliacoes-o-que-esse-palavrao-pode-significar-para-o-agro-na-america-latina-e-caribe/",
+        "title": "Contrarretaliações, o Que Esse Palavrão Pode Significar para o Agro na América Latina e Caribe",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_-laranja_21jul2025_-Mediaphotos_Getty-1-300x200.jpg",
+        "date": "22/07/2025",
+        "description": "Estudo do IFPRI projeta perdas, reposicionamentos e oportunidades com nova rodada de embates tarifários colocados por Donald Trump"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/domo-de-ouro-de-trump-procura-alternativas-a-spacex-de-musk/",
+        "title": "Domo de Ouro de Trump Procura Alternativas À Spacex de Musk",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-22T145307Z_1_LYNXMPEL6L0T8_RTROPTP_4_USA-TRUMP-DEFENSE-300x200.jpg",
+        "date": "22/07/2025",
+        "description": "Mudança sinaliza esforço dos EUA para reduzir a dependência das redes de satélites da SpaceX nas comunicações militares"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/drones-agricolas-avancam-mas-exigem-regulamentacao-mais-clara/",
+        "title": "Drones Agrícolas Avançam, Mas Exigem Regulamentação Mais Clara",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_DroneAgricola_18JUl2025_guteksk7_Getty-300x200.jpg",
+        "date": "22/07/2025",
+        "description": "Estudo feito pela Embrapa Soja (PR) mostra que a tecnologia tem ganhado espaço nas lavouras, o que exige regras mais específicas sobre seu uso"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/colheita-de-cafe-2025-de-cooperados-da-cooxupe-atinge-59/",
         "title": "Colheita de Café 2025 de Cooperados da Cooxupé Atinge 59%",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-22T150732Z_1_LYNXMPEL6L0TX_RTROPTP_4_YEMEN-COFFEE-FERMENTATION-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Dennis-Herszkowicz-CEO-da-TOTVS-2-300x200.jpg",
         "date": "22/07/2025",
         "description": "Aquisição fortalece portfólio da gigante brasileira e mira transformação digital de empresas do setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-investidores-aguardam-declaracoes-de-presidente-do-fed/",
-        "title": "Pré-mercado: Investidores Aguardam Declarações de Presidente do FED",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "22/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 22 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/07/3-microcomportamentos-que-fazem-os-relacionamentos-durarem/",
-        "title": "3 'Microcomportamentos' Que Fazem os Relacionamentos Durarem",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/960x0-1-1-300x200.jpg",
-        "date": "22/07/2025",
-        "description": "Às vezes, os menores momentos fazem a maior diferença. Aqui estão três maneiras sutis pelas quais casais podem crescer juntos e manter uma conexão profunda a longo prazo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/threads-vai-ultrapassar-o-x-em-breve-a-guerra-entre-zuckerberg-e-musk-esquenta/",
-        "title": "Threads Vai Ultrapassar o X em Breve? A Guerra entre Zuckerberg e Musk Esquenta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/X-Threads-300x200.png",
-        "date": "22/07/2025",
-        "description": "David Carr, editor de pesquisas da SimilarWeb, disse à Forbes que há “fortes evidências” de que o Threads está alcançando o X, especialmente em dispositivos móveis"
     }
 ]
