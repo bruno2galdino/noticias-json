@@ -1,31 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-23-07.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/chabalgoity_banana_fore.jpg",
-        "date": "23/07/2025",
-        "description": "ATP 250 de Kitzbuhel (Áustria) – Saibro – 596.035 eurosSegunda rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alves-se-recupera-nas-duplas-reis-enfrentara-frances-nas-oitavas.html",
-        "title": "Alves se recupera nas duplas, Reis enfrentará francês nas oitavas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/mateus_alves_saque_sanluis.jpg",
-        "date": "23/07/2025",
-        "description": "Segovia (Espanha) –Depois de cair na estreia de simples do challenger de Segovia, em quadras duras na Espanha, Mateus Alves se recuperou nas duplas e estreou com vitória, ao lado do francês Arthur Bouquier. Eles venceram nesta quarta-feira o tcheco David Poljak e o chinês Aoran Wang por 6/3 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/turne-de-exibicao-do-trofeu-do-atp-finals-comeca-em-turim.html",
-        "title": "Turnê de exibição do troféu do ATP Finals começa em Turim",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/atp-finals-2025trophytour.jpg",
-        "date": "23/07/2025",
-        "description": "Turim (ITA) –Turim se prepara para sediar a quinta edição do ATP Finals, torneio que encerra a temporada profissional, reunindo os oito melhores tenistas de simples e duplas do mundo. Após a emoção de 2024 e a vitória histórica de Jannik Sinner, o primeiro italiano a levantar o título, a elite do tênis retornará à Inalpi Arena de 9 a 16 de novembro."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/wild-derruba-bautista-repete-quartas-e-evita-queda-no-ranking.html",
         "title": "Wild derruba Bautista, repete quartas e evita queda no ranking",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/wild_fore_kitz_cut-1024x655.jpg",
         "date": "23/07/2025",
         "description": "Kitzbuhel (Áustria)– Assim como fez no ano passado, o paranaense Thiago Wild se garantiu nas quartas de final do ATP 250 de Kitzbuhel. Sua classificação veio com uma grande vitória nesta quarta-feira, batendo o experiente espanhol Roberto Bautista, cabeça de chave 4 no torneio, com parciais de 7/5 e 7/5, depois de 1h59 de confronto."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-23-07.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/12/432448_1090649_53382882553_6ffcf9ae20_k-1024x630.jpg",
+        "date": "23/07/2025",
+        "description": "ATP 250 de Kitzbuhel (Áustria) – Saibro – 596.035 eurosSegunda rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/cinco-tchecas-vao-as-quartas-em-praga-e-jovem-de-18-anos-vence-a-cabeca-2.html",
@@ -68,5 +54,19 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/jada_clijsters.jpg",
         "date": "23/07/2025",
         "description": "Nova Jersey (EUA) –A maioria dos fãs do tênis lembra-se da conquista de Kim Clisters no US Open de 2009 quando a filha Jada, então com um ano de idade, dividiu os holofotes com a mãe ao posar para fotos ao lado do troféu. Dezessete anos depois, a jovem, que escolheu seguir os passos do pai Brian Lynch no basquete, deixa o ninho para dar novos passos na carreira esportiva."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ivanisevic-afirma-que-criticas-pos-wimbledon-afetaram-tsitsipas.html",
+        "title": "Ivanisevic afirma que críticas pós-Wimbledon afetaram Tsitsipas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/tsitsipas-ivanisevic-treino-1024x682.jpg",
+        "date": "23/07/2025",
+        "description": "Zagreb (Croácia)– A relação profissional entre Goran Ivanisevic e Stefanos Tsitsipas teve um início conturbado, com o croata tecendo duras críticas ao grego depois de sua eliminação na estreia em Wimbledon. O treinador afirmou que Tsitsipas erao jogador mais despreparado que viu na vida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/paul-e-dimitrov-sao-mais-duas-ausencias-no-masters-1000-de-toronto.html",
+        "title": "Paul e Dimitrov são mais duas ausências no Masters 1000 de Toronto",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/Artes-fotos-multiplas-900x600-1-1.jpg",
+        "date": "23/07/2025",
+        "description": "Toronto (Canadá)– A onda de desfalques para o Masters 1000 de Toronto continua. Nesta quarta-feira, o norte-americano Tommy Paul e o búlgaro Grigor Dimitrov também foram oficializados fora da competição."
     }
 ]
