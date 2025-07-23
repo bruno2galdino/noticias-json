@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/guarana-do-brasil-ganha-o-mundo-com-acesso-inedito-a-malasia/",
+        "title": "Guaraná do Brasil Ganha o Mundo com Acesso Inédito à Malásia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_guarana_fruta_21jul2025_Brasil2_Getty-300x200.jpg",
+        "date": "23/07/2025",
+        "description": "Nova abertura comercial impulsiona a fruta amazônica em mercados asiáticos e amplia oportunidades para pequenos e médios produtores nacionais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/microsoft-culpa-hackers-chineses-por-ataque-ao-sharepoint/",
+        "title": "Microsoft Culpa Hackers Chineses por Ataque Ao SharePoint",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/microsoft-300x200.jpg",
+        "date": "23/07/2025",
+        "description": "O esforço de espionagem cibernética teve como alvo cerca de 100 organizações durante o fim de semana"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/07/corte-mundial-da-ony-diz-que-mudancas-climaticas-sao-ameaca-existencial/",
         "title": "Corte Mundial da ONY Diz Que Mudanças Climáticas São 'Ameaça Existencial'",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Fogo-em-floresta-do-Arizona-nos-EUA-Reuters-Money-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_mineracao-de-fosfato-em-Nauru_21jul2025-AuscapeUniversalGetty--300x200.jpg",
         "date": "23/07/2025",
         "description": "Com estoque limitado no planeta, nutriente vital à produção de alimentos exige soluções urgentes e investimentos inteligentes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/amazon-abre-vagas-para-programa-de-empreendedorismo-feminino/",
-        "title": "Amazon Abre Vagas Para Curso de Empreendedorismo Feminino",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Empreendedorismo-3-1-300x200.jpg",
-        "date": "23/07/2025",
-        "description": "Com aulas online e mentorias especializadas, a iniciativa gratuita Decola Garota prepara mulheres para escalar seus negócios no e-commerce"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/com-a-chegada-de-nova-diretora-petrobras-tem-maioria-feminina-na-lideranca/",
-        "title": "Com Nova Diretora, Petrobras Tem Maioria Feminina na Liderança",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/mulher-diretoras-petrobras-300x200.jpg",
-        "date": "23/07/2025",
-        "description": "Retorno de Angélica Laureano à estatal, como líder de transição energética e sustentabilidade, marca um momento inédito: cinco mulheres na diretoria executiva, uma delas na presidência"
     }
 ]
