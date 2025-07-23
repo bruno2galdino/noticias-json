@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/405889-paypal-world-anuncia-parceria-com-mercado-pago-e-outras-carteiras-internacionais.htm",
+        "title": "PayPal World anuncia parceria com Mercado Pago e outras carteiras internacionais",
+        "description": "O PayPay World busca ser um espaço comum para facilitar o pagamento entre carteiras digitais internacionais",
+        "image": "https://tm.ibxk.com.br/2025/07/23/23115402827202.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/405882-usuario-cria-emulador-do-windows-xp-rodavel-em-qualquer-navegador-acesse.htm",
+        "title": "Usuário cria 'emulador' do Windows XP rodável em qualquer navegador; acesse",
+        "description": "Um usuário do Reddit lançou uma versão superficialmente funcional do Windows XP rodável de qualquer navegador",
+        "image": "https://tm.ibxk.com.br/2025/07/23/23101840399084.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/405883-novo-rival-do-chatgpt-proton-lanca-chatbot-de-ia-seguro-e-que-protege-os-seus-dados.htm",
         "title": "Novo rival do ChatGPT? Proton lança chatbot de IA seguro e que protege os seus dados",
         "description": "Plataforma chamada de Lumo não compartilha dados dos usuários, apaga histórico e não usa conteúdos no treinamento do modelo de linguagem",
@@ -46,13 +60,6 @@
         "title": "Super Mario Party + Jamboree TV traz melhoria na resolução e minigames que tiram proveito das funcionalidades do Switch 2",
         "description": "O pacote de melhoria de Super Mario Party Jamboree é divertido, mas tem o preço bem salgadinho",
         "image": "https://tm.ibxk.com.br/2025/07/22/22232223541004.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/501904-primeiro-jogo-oficial-de-hellraiser-e-anunciado-para-ps5-pc-e-xbox-series-s-e-x-saiba-tudo-sobre-o-game.htm",
-        "title": "Primeiro jogo oficial de Hellraiser é anunciado para PS5, PC e Xbox Series S e X! Saiba tudo sobre o game",
-        "description": "A Saber Interactive, mesmo estúdio de Evil Dead: The Game, anunciou o primeiro jogo oficial da franquia Hellraiser, que ainda não tem data de lançamento definida; Veja os detalhes!",
-        "image": "https://tm.ibxk.com.br/2025/07/22/22130533395251.jpg",
         "date": null
     }
 ]
