@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesesg/2025/07/corte-mundial-da-ony-diz-que-mudancas-climaticas-sao-ameaca-existencial/",
+        "title": "Corte Mundial da ONY Diz Que Mudanças Climáticas São 'Ameaça Existencial'",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Fogo-em-floresta-do-Arizona-nos-EUA-Reuters-Money-300x200.png",
+        "date": "23/07/2025",
+        "description": "Corte Internacional de Justiça aponta obrigações legais para países, que terão peso político e jurídico"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/07/venus-williams-se-torna-tenista-mais-velha-a-vencer-jogo-de-simples-da-wta-desde-2004/",
+        "title": "Venus Williams se Torna Tenista Mais Velha a Vencer Jogo de Simples da WTA desde 2004",
+        "image": "https://forbes.com.br/wp-content/uploads/2019/08/listas-atletas10-070819-forbes.jpg",
+        "date": "23/07/2025",
+        "description": "A sete vezes campeã de Grand Slam em simples é a mais velha vencedora desde Martina Navratilova, que venceu em Wimbledon aos 47 anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/weg-ve-lucro-crescer-10-no-2o-trimestre/",
+        "title": "WEG Vê Lucro Crescer 10% no 2º Trimestre",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WEG-300x200.png",
+        "date": "23/07/2025",
+        "description": "No entanto, resultado veio abaixo ao projetado pelo mercado, que apontava R$ 1,76 bilhão em lucro líquido"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/07/por-que-o-brasil-virou-mercado-chave-para-o-bourbon-da-jim-beam/",
+        "title": "Por Que o Brasil Virou um Mercado-Chave para o Bourbon",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Fred-Noe-Bourbon-Jim-Beam-300x200.jpg",
+        "date": "23/07/2025",
+        "description": "Tradicional marca americana Jim Beam viu seu tamanho triplicar no país, especialmente motivada pelo consumo do público jovem"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mkt/2025/07/formula-e-se-associa-a-marvel-studios-para-lancar-o-e-prix-de-londres-2025/",
         "title": "Fórmula e se Associa À Marvel Studios para Lançar o E-prix de Londres 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/formula-E-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/mulher-diretoras-petrobras-300x200.jpg",
         "date": "23/07/2025",
         "description": "Retorno de Angélica Laureano à estatal, como líder de transição energética e sustentabilidade, marca um momento inédito: cinco mulheres na diretoria executiva, uma delas na presidência"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/ia-para-o-bem-publico-o-que-o-mundo-pode-aprender-com-a-suica/",
-        "title": "IA para o Bem Público: o Que o Mundo Pode Aprender com a Suíça",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Suica-300x200.png",
-        "date": "23/07/2025",
-        "description": "Em vez de buscar modelos de uso geral, o Instituto Nacional Suíço de IA pretende desenvolver modelos voltados para aplicações específicas em áreas como ciência, educação, saúde, robótica e estudos climáticos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/deportacoes-nos-eua-quem-vai-colher-a-alface-cortar-os-bifes-e-plantar-os-tomates/",
-        "title": "Deportações nos EUA: Quem Vai Colher a Alface, Cortar os Bifes e Plantar os Tomates?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_-Imigrantes_-Yuma-Arizona21jul2025-Getty-ImagesBob-Riha-Jr-300x200.jpg",
-        "date": "23/07/2025",
-        "description": "Indústria alimentícia do país está à beira de uma crise de mão de obra, com regras de trabalho operacionais complexas, alta de preços e escassez de alimentos no horizonte"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/07/3-razoes-para-fazer-uma-lista-de-desejos-invertida/",
-        "title": "3 Razões para Fazer uma \"Lista de Desejos Invertida\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/960x0-2-2-300x200.jpg",
-        "date": "23/07/2025",
-        "description": "Sempre nos dizem para seguir em frente. Mas é preciso parar e refletir sobre o que realmente nos faz avançar"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/confira-dicas-de-viagem-de-homem-que-ja-visitou-todos-os-paises-do-mundo/",
-        "title": "Dicas de Viagem do Homem Que Já Visitou Todos os Países do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Harry-Mitsidis-em-algum-lugar-do-mundo-300x200.jpg",
-        "date": "23/07/2025",
-        "description": "Depois de visitar as 193 nações reconhecidas pela ONU, Harry Mitsidis compartilha aprendizados, experiências e reflexões sobre o que realmente significa conhecer o mundo"
     }
 ]
