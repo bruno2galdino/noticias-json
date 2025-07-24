@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/vli-recebe-navios-com-maior-capacidade-em-terminal-de-santos-apos-ampliar-calado/",
+        "title": "VLI Recebe Navios com Maior Capacidade em Terminal de Santos após Ampliar Calado",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/02/agro_portodesantos_13-jul-2023-Getty-300x200.jpg",
+        "date": "24/07/2025",
+        "description": "Com a iniciativa, o porto pôde operar recentemente com navios de até 74 mil toneladas para a exportação de açúcar"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/tarifas-de-trump-causam-estragos-no-cinturao-citricola-do-brasil/",
+        "title": "Tarifas de Trump Causam Estragos no Cinturão Citrícola do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/04/agro-empresas-suco-de-laranja-300x200.jpg",
+        "date": "24/07/2025",
+        "description": "As novas taxas podem impossibilitar a entrada de frutas nos EUA, que compram 42% do suco de laranja exportado pelo Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/novos-dobraveis-da-samsung-chegam-ao-brasil-precos-ultrapassam-os-r-14-mil/",
+        "title": "Novos Dobráveis da Samsung Chegam Ao Brasil; Preços Ultrapassam os R$ 14 Mil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Folds-Samsung-300x200.png",
+        "date": "24/07/2025",
+        "description": "Os modelos Galaxy Z Fold 7, Galaxy Z Flip 7 e Galaxy Z Flip 7 FE já estão em pré-venda, com preços a partir de R$ 14.599, R$ 8.199 e R$ 6.699, respectivamente"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/tarifaco-trump-diz-que-tarifa-de-50-e-para-paises-com-que-nao-se-da-bem-e-lula-quer-negociar/",
         "title": "Tarifaço: Trump Diz Que Tarifa de 50% É para Países com Que Não se Dá Bem e Lula Quer Negociar",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-18-300x200.jpg",
@@ -8,7 +29,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/07/edicacao-especial-de-um-labubu-e-vendido-por-quase-us-11-mil-o-que-esta-por-tras-do-fenomeno/",
-        "title": "Edicação Especial de um Labubu É Vendido por Quase US$ 11 Mil. O Que Está por trás do Fenômeno?",
+        "title": "Edição Especial de um Labubu É Vendido por Quase US$ 11 Mil. O Que Está por trás do Fenômeno?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Design-sem-nome-1-300x200.png",
         "date": "24/07/2025",
         "description": "Apesar do valor alto, peça não é a venda mais cara da marca, que já teve o boneco em tamanho real sendo arrematado por US$ 150 mil"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-24T122925Z_1_LYNXMPEL6N0SP_RTROPTP_4_ECB-POLICY-300x200.jpg",
         "date": "24/07/2025",
         "description": "Reportagens indicam que EUA e UE podem chegar a um acordo prevendo tarifa de 15% sobre importações europeias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/patrimonio-de-musk-acompanha-acoes-da-tesla-e-despenca-us-12-bi/",
-        "title": "Patrimônio de Musk Acompanha Ações da Tesla e Despenca US$ 12 Bi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Elon-Musk-Acoes-Tesla-Money-300x200.png",
-        "date": "24/07/2025",
-        "description": "Recuo acontece após bilionário afirmar que a montadora passará por períodos difíceis"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/07/avanco-da-energia-limpa-nos-eua-perde-forca-com-corte-de-subsidios-por-trump/",
-        "title": "Avanço da Energia Limpa nos EUA Perde Força com Corte de Subsídios por Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Trump_-27abr_25_Getty-300x200.jpg",
-        "date": "24/07/2025",
-        "description": "Empresas voltadas para energia solar e eólica estão reavaliando suas estratégias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/vazamento-recorde-dados-ligados-ao-pix-envolve-11-milhoes-de-pessoas/",
-        "title": "Vazamento Recorde de Dados Ligados Ao Pix Envolve 11 Milhões de Pessoas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Fachada-do-Banco-Central-vazamento-de-dados-Money-300x200.png",
-        "date": "24/07/2025",
-        "description": "Informação foi confirmada pelo Banco Central e pelo Conselho Nacional de Justiça"
     }
 ]
