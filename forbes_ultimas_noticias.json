@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/colunas/2025/07/eduardo-mira-como-ganhar-dinheiro-com-o-tesouro-direto/",
+        "title": "Como Ganhar Dinheiro com o Tesouro Direto",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/12/Selic-300x200.jpg",
+        "date": "24/07/2025",
+        "description": "Selic está em 15% ao ano, maior taxa desde julho de 2006, o que proporciona uma oportunidade histórica"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/agricultura-sustentavel-e-aliada-da-conservacao-ambiental-e-da-saude-publica/",
         "title": "Agricultura Sustentável É Aliada da Conservação Ambiental e da Saúde Pública",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_EmbrapaAgrizone_18JUl2025_Hispanolistic_Getty-300x200.jpg",
@@ -8,7 +15,7 @@
     },
     {
         "url": "https://forbes.com.br/carreira/2025/07/empresas-disputam-superprofissionais-sobe-regua-mantem-salarios/",
-        "title": "Disputa por “Superprofissionais” Eleva a Régua e Alonga os Processos",
+        "title": "Disputa por “Superprofissionais” Eleva a Régua e Alonga Processos Seletivos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-entrevista-emprego-felicidade-300x200.jpg",
         "date": "24/07/2025",
         "description": "Com múltiplas entrevistas, etapas adicionais e exigências técnicas elevadas, processo de contratação demora 15% mais, afastando candidatos e travando a inovação e diversidade"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-10-300x200.png",
         "date": "23/07/2025",
         "description": "Índice vem sofrendo quedas recorrentes desde o anúncio das tarifas americanas de 50% sobre importações vindas do Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/calendario-de-resultados-confira-quando-as-empresas-divulgarao-balancos/",
-        "title": "Calendário de Resultados: Quando Empresas Divulgarão Balanços",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-12-300x200.png",
-        "date": "23/07/2025",
-        "description": "Temporada começou para valer nesta quarta-feira (23), com a WEG, e se encerra no dia 14 de agosto, com BRF, Cemig, CPFL, Cosan, Cyrella, IRB Brasil, Marfrif e Yduqs"
     }
 ]
