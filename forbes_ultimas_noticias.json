@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/a-ciencia-que-vale-bilhoes-como-a-soja-sustenta-o-agro-e-a-industria/",
+        "title": "A Ciência que Vale Bilhões: Como a Soja Sustenta o Agro e a Indústria",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_SojaBiotecnologia_18JUl2025_PRImageFactory_Getty-300x200.jpg",
+        "date": "25/07/2025",
+        "description": "Congresso nacional da oleaginosa mostra por que ela chegou até aqui e acelera sua quinta geração impulsionada por ciência nacional e protagonismo global"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/vendas-da-lvmh-caem-mas-superam-previsoes-pessimistas-do-mercado/",
+        "title": "Vendas da LVMH Caem, Mas Superam Previsões Pessimistas do Mercado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/LVMH-vendas-luxo-Money-300x200.png",
+        "date": "25/07/2025",
+        "description": "Com três fábricas nos Estados Unidos, empresa quer abrir mais uma no Texas para lidar com as tarifas"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/trump-diz-que-eua-venderao-muita-carne-bovina-para-a-australia/",
         "title": "Trump Diz Que EUA Venderão \"Muita\" Carne Bovina para a Austrália",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-25T110155Z_1_LYNXMPEL6O0GB_RTROPTP_4_EUA-TRUMP-AUSTRALIA-CARNE-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Range-Rover-Evoque-2026-300x200.jpg",
         "date": "25/07/2025",
         "description": "Montado em Itatiaia, o SUV está disponível apenas na versão topo de linha Autobiography, com nova central multimídia curva e pacote completo de assistência ao motorista"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-inflacao-antes-do-copom-de-julho-encerra-a-semana/",
-        "title": "Pré-mercado: Inflação Antes do Copom de Julho Encerra a Semana",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "25/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 25 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/07/brandvoice-inpasa-eficiencia-energetica-e-sustentabilidade-inpasa-acelera-inovacao-industrial/",
-        "title": "Eficiência Energética e Sustentabilidade: Inpasa Acelera Inovação Industrial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/inpasa-if-300x200.png",
-        "date": "25/07/2025",
-        "description": "Companhia aposta em reuso de água, geração de biogás e sistemas automatizados"
     }
 ]
