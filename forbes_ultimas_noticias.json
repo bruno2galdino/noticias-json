@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/milei-reduz-impostos-das-exportacao-de-carne-e-graos-da-argentina/",
+        "title": "Milei Reduz Impostos das Exportação de Carne e Grãos da Argentina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Javier_Milei_26jul2025_REUTERSMariana-Nedelcu-1-300x200.jpg",
+        "date": "26/07/2025",
+        "description": "Reduções chegam a até 26% e atendem antiga demanda do agro, que foi duramente impactado por tributos nas últimas décadas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/hamburgueres-frozen-e-acoes-em-alta-a-bilionaria-historia-do-shake-shack/",
+        "title": "Hambúrgueres, Frozen e Ações em Alta: a Bilionária História do Shake Shack",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Danny-Meyer_26jul2025_Todd-WilliamsonGetty-Images-300x200.jpg",
+        "date": "26/07/2025",
+        "description": "Danny Meyer fez nome comandando restaurantes sofisticados em Nova York, mas sua real fortuna veio do fast food para as massas; Brasil está na mira"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/07/mick-jagger-faz-82-anos-com-estilo-agora-em-forma-de-boneco/",
         "title": "Mick Jagger Faz 82 Anos com Estilo, Agora em Forma de Boneco",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/MickJaggerKeithRichards_26JUl2025_KevinMazur_GettyImages-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/Life_Como-a-modelo-e-influenciadora-Martha-Graeff-reinventou-a-carreira-e-fundou-o-movimento-que-prega-o-envelhecimento-feliz-300x200.jpg",
         "date": "26/07/2025",
         "description": "Modelo e influenciadora reinventou a carreira para pregar o envelhecimento com vitalidade e hoje investe na própria marca de suplementos e testes de idade biológica"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/07/2-razoes-pelas-quais-voce-esta-sofrendo-de-esgotamento-no-relacionamento/",
-        "title": "2 Razões Pelas Quais Você Está Sofrendo de Esgotamento no Relacionamento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/960x0-8-300x200.jpg",
-        "date": "26/07/2025",
-        "description": "Colocar sempre o outro em primeiro lugar pode esgotar emocionalmente, mesmo em relações saudáveis"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/zhong-da-nongfu-spring-volta-a-ser-o-mais-rico-da-china/",
-        "title": "Zhong, da Nongfu Spring, Volta a Ser o Mais Rico da China",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-25-300x200.jpg",
-        "date": "26/07/2025",
-        "description": "O retorno do magnata das bebidas ao topo da lista é resultado da valorização de 35,8% das ações da Nongfu Spring na bolsa de Hong Kong em 2025"
     }
 ]
