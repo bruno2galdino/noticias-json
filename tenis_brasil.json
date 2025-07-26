@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/bons-exemplos-grandes-historias.html",
+        "title": "Bons exemplos, grandes histórias",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/blog_gustavo.jpg",
+        "date": "26/07/2025",
+        "description": "Ainda que em níveis totalmente distintos, o tênis nos dá grandes histórias nesta semana. Recomendo refletir sobre elas. Afinal, este mundo anda precisando de bons exemplos."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado.html",
         "title": "O dia dos brasileiros: veja os resultados deste sábado",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/boscardin_corre_saibro_poa.jpg",
         "date": "26/07/2025",
         "description": "ITF M25 de São Paulo (SP) – Saibro – US$ 30 milSemifinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bouchard-sobre-adeus-chega-uma-hora-que-nao-vale-mais-a-pena.html",
+        "title": "Bouchard sobre adeus: “Chega uma hora que não vale mais a pena”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/bouchard-montreal-2025-1024x667.jpeg",
+        "date": "26/07/2025",
+        "description": "Montréal (Canadá)– Prestes a se despedir do tênis profissional, Eugenie Bouchard concedeu uma entrevista à WTA refletindo sobre sua trajetória nas quadras. A canadense de 31 anos confirmou que o WTA 1000 de Montréal, que começa neste domingo, marcarásua última participação no circuito."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bublik-e-campeao-em-kitzbuhel-e-fatura-segundo-titulo-seguido.html",
+        "title": "Bublik é campeão em Kitzbuhel e fatura segundo título seguido",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/bublik-kitzbuhel-vibra-2025-1.jpg",
+        "date": "26/07/2025",
+        "description": "Kitzbuhel (Áustria)– Pela segunda semana consecutiva, o cazaque Alexander Bublik levanta um troféu no saibro. Campeão em Gstaad há seis dias, ele faturou neste sábado o ATP 250 de Kitzbuhel, na Áustria, ao bater na decisão o francês Arthur Cazaux pelo placar de 6/4 e 6/3, em 1h24 de jogo."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/boscardin-supera-danielzinho-e-vai-a-final-na-alemanha.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/lucas_andrade_pinheiros-1024x683.jpg",
         "date": "25/07/2025",
         "description": "São Paulo (SP)– Enfim, a nova geração do tênis brasileiro aproveitou totalmente a oportunidade de jogar em casa e monopolizou as semifinais do ITF de São Paulo, torneio de nível M25 que acontece no saibro do clube Pinheiros. Neste sábado, Gustavo Almeida enfrenta João Schiessl e Igor Gimenez joga contra Lucas Andrade da Silva."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/irmaos-miguel-buscam-titulo-inedito-no-pinheiros.html",
-        "title": "Irmãos Miguel buscam título inédito no Pinheiros",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/guto_felipe_miguel-1024x683.jpg",
-        "date": "25/07/2025",
-        "description": "São Paulo (SP)– Os irmãos Luiz Felipe e Guto Miguel obtiveram a segunda vitória na disputa da chave de duplas do ITF M25 disputado no saibro do clube Pinheiros e com isso garantiram lugar na final do torneio, que acontece neste sábado."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/primeiro-dia-da-chave-ga-do-brasileirao-recebe-mais-de-130-jogos.html",
-        "title": "Primeiro dia da chave GA+ do Brasileirão recebe mais de 130 jogos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/Brasileirao_GA_foto-nao-identificada.jpg",
-        "date": "25/07/2025",
-        "description": "Uberlândia (MG)– A chave GA+ do Campeonato Brasileiro Infantojuvenil começou recheado de jogos. Nesta sexta-feira, foi realizada a primeira rodada da competição, com 131 partidas, divididas em dois clubes: Praia Clube e Cajubá Country Club, ambos em Uberlândia."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-25-07.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/06/rebeca_pereira_rioclaro_rebate.jpg",
-        "date": "25/07/2025",
-        "description": "Challenger de Segovia (Espanha) – Sintético – 91.250 eurosDuplas – Semifinal –Veja a chave"
     }
 ]
