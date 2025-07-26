@@ -14,6 +14,13 @@
         "description": "Ibovespa tem novo recuo, porém encerra os cinco pregões com avanço de 0,11%"
     },
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/lista-forbes-melhores-cios-do-brasil-2025-veja-os-10-escolhidos/",
+        "title": "Lista Forbes Melhores CIOs do Brasil 2025: Veja os 10 Escolhidos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Capa-Web_CIOs-300x200.png",
+        "date": "25/07/2025",
+        "description": "Seleção com executivos e executivas de Bradesco, Cogna, B3, Coca-Cola, GSK, J&J, Mondelēz, Motiva, Volkswagen e Unilever é publicada pela segunda vez pela Forbes Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/congresso-da-soja-aponta-desafios-e-caminhos-em-meio-a-nova-ordem-global/",
         "title": "Congresso da Soja Aponta Desafios e Caminhos em Meio à Nova Ordem Global",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_CBSoja_-24jul2025_CBSoja_Divulg-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Elon-Musk-satelite-starlink-Guerra-na-Ucrania-Money-300x200.png",
         "date": "25/07/2025",
         "description": "Serviço oferecido pela Starlink foi interrompido durante contraofensiva do país, causando pânico nas autoridades e militares em campo"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/intel-vai-demitir-15-da-forca-de-trabalho-em-meio-a-desafios-na-fabricacao/",
-        "title": "Intel Vai Demitir 15% da Força de Trabalho em Meio a Desafios na Fabricação",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Tech_Intel-300x200.jpg",
-        "date": "25/07/2025",
-        "description": "Os planos fazem parte do esforço do novo presidente-executivo, Lip Bu Tan, para reverter a situação da companhia"
     }
 ]
