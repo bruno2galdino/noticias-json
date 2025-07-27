@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/ciencia/405946-como-funciona-o-codigo-morse.htm",
+        "title": "Como funciona o Código Morse?",
+        "description": "Descubra a lógica por trás dos pontos e traços e a importância histórica do Código Morse para a comunicação. Acesse o blog do TecMundo!",
+        "image": "https://tm.ibxk.com.br/2025/07/25/25103715119056.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/501939-wuchang-de-graca-life-is-strange-2-baratinho-e-mais-veja-as-indicacoes-de-games-da-semana.htm",
         "title": "Wuchang de graça,  Life is Strange 2 baratinho e mais! Veja as indicações de games da semana",
         "description": "Soulslike chinês está de graça na Game Pass e Life is Strange 2 custando menos de R$ 20 na PS Store",
@@ -60,13 +67,6 @@
         "title": "Motorola Edge 50 Neo é um intermediário bonito, potente e frágil [REVIEW]",
         "description": "Confira as nossas impressões sobre o celular intermediário da Motorola",
         "image": "https://tm.ibxk.com.br/2025/07/25/25140818828318.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/405932-de-informar-a-transformar-por-que-a-comunicacao-interna-e-o-novo-rh-estrategico.htm",
-        "title": "De 'informar' a 'transformar': por que a comunicação interna é o novo RH estratégico?",
-        "description": "Quem enxerga a comunicação interna como apenas um ato de “informar” está vivendo décadas no passado",
-        "image": "https://tm.ibxk.com.br/2025/07/24/24160013532069.jpg",
         "date": null
     }
 ]
