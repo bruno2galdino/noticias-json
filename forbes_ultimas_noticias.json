@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/tesla-assina-contrato-de-fornecimento-de-chips-de-us-165-bi-com-a-samsung/",
+        "title": "Tesla Assina Contrato de Fornecimento de Chips de US$ 16,5 Bi com a Samsung",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/10/Tesla-Getty-300x200.jpg",
+        "date": "28/07/2025",
+        "description": "As ações da Samsung subiram quase 7% após a notícia do acordo"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/07/nasa-vai-perder-quase-4-mil-funcionarios/",
+        "title": "NASA Vai Perder Quase 4 Mil Funcionários",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/nasa-forbes-demissao-300x200.jpg",
+        "date": "28/07/2025",
+        "description": "Porta-voz da companhia afirma que 20% da força de trabalho deixará a agência, que manterá cerca de 14 mil profissionais empregados"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/07/piastri-e-norris-correm-como-campeoes-na-luta-pelo-titulo-da-f1/",
+        "title": "Piastri e Norris Correm Como Campeões na Luta Pelo Título da F1",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/07/Lando-Norris-da-McLaren-alcancou-seu-primeiro-podio-em-2020-no-Grande-Premio-da-Austria-300x200.jpg",
+        "date": "28/07/2025",
+        "description": "Os dois estão separados por 16 pontos, com o australiano Piastri liderando a sexta dobradinha da McLaren na temporada"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/eua-podem-estabelecer-tarifas-globais-de-15-a-20/",
+        "title": "EUA Podem Estabelecer Tarifas Globais de 15% a 20%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Money_TrumpTariffs_28JUl2025_ChipSomodevilla_Getty-300x200.jpg",
+        "date": "28/07/2025",
+        "description": "Trump disse que vai enviar cartas a cerca de 200 países notificando-os sobre a nova taxa em breve"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/colheita-de-milho-segunda-safra-atinge-68-no-centro-sul/",
         "title": "Colheita de Milho Segunda Safra Atinge 68% no Centro-sul",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-28T121118Z_1_LYNXMPEL6R0KZ_RTROPTP_4_BRAZIL-CORN-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2021/07/negocios_BNDES_211119_Sergio-Moraes_Reuters.jpg",
         "date": "28/07/2025",
         "description": "Segundo fontes com conhecimento do assunto, o plano deve ser oficialmente lançado em agosto com uma chamada pública"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/compra-de-armas-e-taxa-base-de-15-conheca-os-detalhes-do-acordo-comercial-entre-uniao-europeia-e-eua/",
-        "title": "Conheça os Detalhes do Acordo Comercial entre União Europeia e EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Estados-Unidos_Uniao-Europeia_Money_Tarifaco-1-300x200.jpg",
-        "date": "28/07/2025",
-        "description": "Acordo é alvo de críticas por parte de líderes europeus"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-semana-comeca-com-acordo-eua-x-ue-e-tera-reunioes-de-bc-e-fed/",
-        "title": "Pré-mercado: Semana Começa com Acordo EUA X UE e Terá Reuniões de BC e FED",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "28/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 28 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/os-criadores-de-south-park-se-tornaram-bilionarios/",
-        "title": "Os Criadores de South Park Agora Fazem Parte do Clube dos Bilionários",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/South-Park-criadores-bilionarios-Money-300x200.png",
-        "date": "28/07/2025",
-        "description": "O contrato bilionário com a Paramount consolida a dupla como os showrunners mais bem pagos da televisão americana"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/07/quanto-custa-produzir-vinho-hoje-o-desafio-dos-produtores-no-mercado-global/",
-        "title": "Quanto Custa Produzir Vinho Hoje: O Desafio dos Produtores no Mercado Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_ProdutoraDeVinho_8JUl2025_OliverRossi_Getty-300x200.jpg",
-        "date": "28/07/2025",
-        "description": "Os dias atuais exigem mais que tradição, é preciso estratégia financeira, acesso a crédito e adaptação às mudanças climáticas e às demandas do consumidor"
     }
 ]
