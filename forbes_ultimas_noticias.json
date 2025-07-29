@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/we-love-brazilian-soybean-diz-o-chines-suping-geng-de-olho-no-que-se-planta-aqui/",
+        "title": "“We Love Brazilian Soybean\", Diz o Chinês Suping Geng, de Olho no Que se Planta Aqui",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Geng_Seng_28jul25_JuliaMaciel-300x200.png",
+        "date": "29/07/2025",
+        "description": "Saiba por que a DBN Biotech montou um quartel-general no país e quer fazer a partir das lavouras brasileiras a “Nova Rota da Soja”"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/a-tecnologia-australiana-que-esta-reinventando-a-classificacao-da-carne-bovina/",
+        "title": "A Tecnologia Que Está Reinventando a Classificação da Carne",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_MEQ_28JUl2025_SedidaPelaMEQParaForbesAustralia-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "MEQ desenvolveu a primeira câmera com inteligência artificial aprovada pelo governo dos EUA para uso na indústria da carne bovina; na Austrália, a JBS Foods Australia já utiliza a ferramenta"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/07/5-prompts-do-chatgpt-para-fazer-seu-perfil-no-linkedin-se-destacar/",
+        "title": "5 Prompts do Chatgpt para Fazer Seu Perfil no LinkedIn se Destacar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-linkedin-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Mais do que criar um currículo online, veja como atrair conexões, convites e propostas por meio da plataforma"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/07/paola-montenegro-herdeira-sobrinha-bisneta-tarsila-do-amaral/",
+        "title": "Tarsila S/A: Quem É a Herdeira Que Gere a Marca da Maior Pintora do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/mulher-paola-montenegro-tarsila-do-amaral-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Paola Montenegro é sobrinha-bisneta de Tarsila do Amaral e gestora da empresa que cuida de licenciamentos e exposições das obras da artista"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/07/a-principal-motivacao-que-preve-o-sucesso-romantico/",
+        "title": "A Principal Motivação Que Prevê o Sucesso Romântico",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/960x0-9-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Pesquisas revelam que suas chances de encontrar o amor dependem, em grande parte, dos motivos pelos quais você o está procurando. Entenda o porquê"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/por-que-o-brasil-e-uma-das-grandes-apostas-da-azimut-wealth-management/",
+        "title": "Por Que o Brasil É uma das Grandes Apostas da Azimut Wealth Management",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Wilson-1-1-2-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Semelhanças com processo de amadurecimento econômico da Itália são algumas das razões que levam a uma aposta de longuíssimo prazo no Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/07/como-a-arabia-saudita-esta-se-tornando-uma-potencia-mundial-do-turismo/",
+        "title": "Como a Arábia Saudita Está se Tornando uma Potência Mundial do Turismo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_O-CEO-do-Grupo-Diriyah-Gate-Company-Limited-Jerry-Inzerillo-diz-que-o-Reino-da-Arabia-Saudita-esta-bem-posicionado-para-ser-uma-grande-forca-no-turismo-mundial-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Planos envolvem investimentos na casa dos US$ 800 bilhões, 42 novos hotéis de luxo e a transformação do litoral em uma \"Miami do Mar Vermelho\""
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/07/brasil-sai-do-mapa-da-fome-novamente/",
         "title": "Brasil Sai do Mapa da Fome Novamente, Diz ONU",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/fome-brasil-mapa-da-fome-300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-Knorr-Bremse-nomeia-Rafael-Pelizzari-como-novo-Diretor-Geral-para-a-America-do-Sul-300x200.jpg",
         "date": "28/07/2025",
         "description": "Com mais de 16 anos de experiência na companhia e passagens pela China e Alemanha, Rafael Pelizzari assume o cargo com foco em inovação, sustentabilidade e expansão regional"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/tesla-assina-contrato-de-fornecimento-de-chips-de-us-165-bi-com-a-samsung/",
-        "title": "Tesla Assina Contrato de Fornecimento de Chips de US$ 16,5 Bi com a Samsung",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/10/Tesla-Getty-300x200.jpg",
-        "date": "28/07/2025",
-        "description": "As ações da Samsung subiram quase 7% após a notícia do acordo"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/07/nasa-vai-perder-quase-4-mil-funcionarios/",
-        "title": "NASA Vai Perder Quase 4 Mil Funcionários",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/nasa-forbes-demissao-300x200.jpg",
-        "date": "28/07/2025",
-        "description": "Porta-voz da companhia afirma que 20% da força de trabalho deixará a agência, que manterá cerca de 14 mil profissionais empregados"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/07/piastri-e-norris-correm-como-campeoes-na-luta-pelo-titulo-da-f1/",
-        "title": "Piastri e Norris Correm Como Campeões na Luta Pelo Título da F1",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/07/Lando-Norris-da-McLaren-alcancou-seu-primeiro-podio-em-2020-no-Grande-Premio-da-Austria-300x200.jpg",
-        "date": "28/07/2025",
-        "description": "Os dois estão separados por 16 pontos, com o australiano Piastri liderando a sexta dobradinha da McLaren na temporada"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/eua-podem-estabelecer-tarifas-globais-de-15-a-20/",
-        "title": "EUA Podem Estabelecer Tarifas Globais de 15% a 20%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Money_TrumpTariffs_28JUl2025_ChipSomodevilla_Getty-300x200.jpg",
-        "date": "28/07/2025",
-        "description": "Trump disse que vai enviar cartas a cerca de 200 países notificando-os sobre a nova taxa em breve"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/colheita-de-milho-segunda-safra-atinge-68-no-centro-sul/",
-        "title": "Colheita de Milho Segunda Safra Atinge 68% no Centro-sul",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-28T121118Z_1_LYNXMPEL6R0KZ_RTROPTP_4_BRAZIL-CORN-300x200.jpg",
-        "date": "28/07/2025",
-        "description": "Clima seco acelera colheita, enquanto previsão de chuva leva produtores a antecipar trabalhos no campo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/btg-pactual-compra-operacao-do-hsbc-no-uruguai-por-quase-r1-bi/",
-        "title": "BTG Pactual Compra Operação do HSBC no Uruguai por Quase R$ 1 Bilhão",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/09/BTG-getty-images-SOPA-Images-300x200.jpg",
-        "date": "28/07/2025",
-        "description": "Na América Latina, o BTG já está presente no Chile, Colômbia, México, Peru e Argentina, além do Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/heineken-comemora-acordo-comercial-entre-ue-e-eua/",
-        "title": "Heineken Comemora Acordo Comercial entre UE e EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-28T110728Z_1_LYNXMPEL6R0I0_RTROPTP_4_HEINEKEN-RESULTS-300x200.jpg",
-        "date": "28/07/2025",
-        "description": "Cervejaria enfrenta queda na confiança do consumidor em mercados como o Brasil e sente impacto nas exportações para os EUA"
     }
 ]
