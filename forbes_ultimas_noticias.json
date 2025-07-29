@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/formada-em-filosofia-programadora-autodidata-usa-tecnologia-para-melhorar-publicacoes-em-braille/",
+        "title": "Formada em Filosofia, Programadora Autodidata Usa Tecnologia para Melhorar Publicações em Braille",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Nagila-S-300x200.png",
+        "date": "29/07/2025",
+        "description": "Nágila Seidenstucker atua como supervisora de desenvolvimento de sistemas e inovação da Fundação Dorina Nowill para Cegos desde o início de 2024"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/07/fernando-maulf-biopsia-liquida-o-exame-que-antecipa-o-futuro-do-tratamento-oncologico/",
+        "title": "Biópsia Líquida: O Exame Que Antecipa o Futuro do Tratamento Oncológico",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2213666852-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Detecção precoce via sangue transforma o tratamento do câncer: decisões mais inteligentes, humanas e personalizadas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/trump-decidira-sobre-acordos-comerciais-ate-sexta-diz-secretario-de-comercio-dos-estados-unidos/",
+        "title": "Trump Decidirá sobre Acordos Comerciais até Sexta, Diz Secretário de Comércio dos Estados Unidos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-29T132125Z_1_LYNXMPEL6S0S8_RTROPTP_4_EUA-COMERCIO-LUTNICK-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "EUA e UE mantêm negociações sensíveis sobre tarifas e serviços digitais em meio a um cenário global em transformação"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/ifood-anuncia-compra-de-20-da-crmbonus/",
+        "title": "Ifood Anuncia Compra de 20% da CRMBonus",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/05/carreira-ifood-bolsas-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Tecnologia para conquistar, engajar e fidelizar clientes no varejo"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/07/procter-gamble-substitui-ceo-pelo-diretor-de-operacoes/",
         "title": "Procter & Gamble Substitui CEO Pelo Diretor de Operações",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/carreira-Shailesh-Jejurikar-procter-gamble-ceo-300x200.jpg",
@@ -21,7 +49,7 @@
         "description": "Com embalagens com pedras preciosas e fórmulas exclusivas, esses cosméticos ultrapassam a barreira da maquiagem para se tornarem joias de milhares de reais"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/07/industria-de-suco-de-laranja-pode-ter-prejuizo-de-r-43-bi-com-tarifa-de-50/",
+        "url": "https://forbes.com.br/forbes-money/2025/07/industria-de-suco-de-laranja-pode-ter-prejuizo-de-r-43-bi-com-tarifa-de-50/",
         "title": "Taxação dos EUA ameaça competitividade do Brasil no segundo maior mercado da cadeia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_suco_laranja_EUA_28jul25_Ipopba_Getty-300x200.jpg",
         "date": "29/07/2025",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/deficit-300x200.png",
         "date": "29/07/2025",
         "description": "Segundo dados do Departamento de Comércio americano, o cenário fez o PIB recuar 0,5%"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/excesso-de-farelo-de-soja-na-china-levanta-duvidas-sobre-demanda-antes-da-comercializacao-dos-eua/",
-        "title": "Excesso de Farelo de Soja na China Levanta Dúvidas sobre Demanda Antes da Comercialização dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_soja_24-jul-23_Getty-300x200.jpg",
-        "date": "29/07/2025",
-        "description": "Uma desaceleração na demanda chinesa pode pressionar os futuros da soja em Chicago, que já estão em baixa pela segunda semana consecutiva"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/tarifaco-plano-de-contingencia-e-apresentado-a-lula/",
-        "title": "Tarifaço: Plano de Contingência É Apresentado a Lula",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-18-300x200.jpg",
-        "date": "29/07/2025",
-        "description": "Projeto tem como intuito ajudar empresas que serão afetadas pela tarifa de 50% que pode ser imposta pelos EUA, a partir desta sexta-feira (1º)"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/cargill-compra-a-mig-plus-e-acelera-expansao-no-setor-de-nutricao-animal/",
-        "title": "Cargill Compra a Mig-Plus e Acelera Expansão no Setor de Nutrição Animal",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_Mig_Plus_Cargill_compra_28jul25_Mig_Divulg-300x200.jpg",
-        "date": "29/07/2025",
-        "description": "Aquisição amplia a presença da multinacional no Sul do Brasil e reforça sua atuação em suínos e ruminantes"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/07/o-que-e-o-decanterino-a-invencao-que-quer-mudar-a-degustacao-de-vinho/",
-        "title": "O Que É o Decanterino, a Invenção Que Quer Mudar a Degustação de Vinho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/wsb_vinho-taca_28jul25_Don-Farrall_Getty-300x200.jpg",
-        "date": "29/07/2025",
-        "description": "O novo decanter foi inventado pelo italiano Carlo Benati, arquiteto de Verona; saiba o que ele é de fato"
     }
 ]
