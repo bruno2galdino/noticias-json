@@ -1,7 +1,21 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/07/viajar-para-dormir-o-que-a-busca-por-descanso-diz-sobre-nossas-noites/",
+        "title": "Viajar Para Dormir: O Que a Busca Por Descanso Diz Sobre Nossas Noites",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2169505548-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Quando o repouso vira destino e o sono se torna chave para a saúde mental"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/cooperados-da-cooxupe-colheram-671-da-area-de-cafe/",
+        "title": "Cooperados da Cooxupé Colheram 67,1% da Área de Café",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Cafe_29JUl2025_AtlantidePhototravel_Getty-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Cafeicultores do Sul de Minas, principal região produtora, já colheram 70,9%"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/07/formada-em-filosofia-programadora-autodidata-usa-tecnologia-para-melhorar-publicacoes-em-braille/",
-        "title": "Formada em Filosofia, Programadora Autodidata Usa Tecnologia para Melhorar Publicações em Braille",
+        "title": "Programadora Autodidata Usa Tecnologia para Melhorar Publicações em Braille",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Nagila-S-300x200.png",
         "date": "29/07/2025",
         "description": "Nágila Seidenstucker atua como supervisora de desenvolvimento de sistemas e inovação da Fundação Dorina Nowill para Cegos desde o início de 2024"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_suco_laranja_EUA_28jul25_Ipopba_Getty-300x200.jpg",
         "date": "29/07/2025",
         "description": "Saiba como a taxação dos EUA ameaça competitividade do Brasil no segundo maior mercado da cadeia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/ano-de-apostas-ousadas-em-superinteligencia-deve-render-pouco-para-meta/",
-        "title": "Ano de Apostas Ousadas em \"Superinteligência\" Deve Render Pouco para Meta",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/07/mark-zuckerberg-300x200.png",
-        "date": "29/07/2025",
-        "description": "Para o segundo trimestre, a Meta deve registrar o crescimento de lucro mais lento em dois anos, enquanto os custos devem subir em quase 9%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/eua-tem-forte-queda-no-deficit-comercial-de-junho-em-meio-a-tarifas/",
-        "title": "EUA Têm Forte Queda no Déficit Comercial de Junho, em Meio a Tarifas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/deficit-300x200.png",
-        "date": "29/07/2025",
-        "description": "Segundo dados do Departamento de Comércio americano, o cenário fez o PIB recuar 0,5%"
     }
 ]
