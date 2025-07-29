@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/na-contramao-de-wall-street-ibovespa-sobe-com-pedido-do-brasil-aos-eua-no-radar/",
+        "title": "Na Contramão de Wall Street, Ibovespa Sobe com Pedido do Brasil aos EUA no Radar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-13-300x200.png",
+        "date": "29/07/2025",
+        "description": "Governo brasileiro solicitou exclusão do setor alimentício e da Embraer do tarifaço, que tem previsão de início para esta sexta"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/exportadores-de-carne-bovina-podem-perder-us-1-bi-com-tarifaco-de-trump/",
+        "title": "Exportadores de Carne Bovina Podem Perder US$ 1 Bi com Tarifaço",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/Agro_Precodacarne_Inflacao_18FEV25_Getty-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Estados Unidos são o segundo maior destino das exportações de carne bovina do Brasil, depois da China"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/cafe-e-cacau-podem-ficar-isentos-de-tarifas-dos-eua/",
+        "title": "Café e Cacau Podem Ficar Isentos de Tarifas dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Agro_cafe-Brasil-300x200.jpg",
+        "date": "29/07/2025",
+        "description": "Donald Trump concordou em estabelecer tarifas zero para os recursos naturais que não são cultivados nos Estados Unidos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/mais-tarifas-sobre-o-brasil-significam-desaceleracao-acentuada-da-atividade-diz-fmi/",
         "title": "Mais Tarifas sobre o Brasil Significam Desaceleração Acentuada da Atividade, Diz FMI",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2224318104_money_donald-trump-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Nagila-S-300x200.png",
         "date": "29/07/2025",
         "description": "Nágila Seidenstucker atua como supervisora de desenvolvimento de sistemas e inovação da Fundação Dorina Nowill para Cegos desde o início de 2024"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/07/fernando-maulf-biopsia-liquida-o-exame-que-antecipa-o-futuro-do-tratamento-oncologico/",
-        "title": "Biópsia Líquida: O Exame Que Antecipa o Futuro do Tratamento Oncológico",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2213666852-300x200.jpg",
-        "date": "29/07/2025",
-        "description": "Detecção precoce via sangue transforma o tratamento do câncer: decisões mais inteligentes, humanas e personalizadas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/trump-decidira-sobre-acordos-comerciais-ate-sexta-diz-secretario-de-comercio-dos-estados-unidos/",
-        "title": "Trump Decidirá sobre Acordos Comerciais até Sexta, Diz Secretário de Comércio dos Estados Unidos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-29T132125Z_1_LYNXMPEL6S0S8_RTROPTP_4_EUA-COMERCIO-LUTNICK-300x200.jpg",
-        "date": "29/07/2025",
-        "description": "EUA e UE mantêm negociações sensíveis sobre tarifas e serviços digitais em meio a um cenário global em transformação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/ifood-anuncia-compra-de-20-da-crmbonus/",
-        "title": "Ifood Anuncia Compra de 20% da CRMBonus",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/05/carreira-ifood-bolsas-300x200.jpg",
-        "date": "29/07/2025",
-        "description": "Tecnologia para conquistar, engajar e fidelizar clientes no varejo"
     }
 ]
