@@ -1,7 +1,35 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/criacao-de-vagas-no-setor-privado-dos-eua-fica-acima-do-esperado-em-julho/",
+        "title": "Criação de Vagas no Setor Privado dos EUA Fica Acima do Esperado em Julho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Uma-bandeira-dos-EUA-tremula-perto-de-conteineres-enquanto-um-navio-e-descarregado-no-Porto-de-Los-Angeles-300x200.jpg",
+        "date": "30/07/2025",
+        "description": "Foram abertas 104.000 posições de emprego no mês passado, depois de um declínio revisado de 23.000 em junho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/economia-dos-eua-se-recupera-no-segundo-trimestre/",
+        "title": "Economia dos EUA se Recupera no Segundo Trimestre",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Porto-de-Oakland-economia-dos-EUA-Money-300x200.png",
+        "date": "30/07/2025",
+        "description": "Avanço foi impulsionado pelo aumento das importações e dos gastos dos consumidores"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/trump-diz-que-prazo-de-1o-de-agosto-para-tarifas-nao-sera-prorrogado/",
+        "title": "Trump Diz Que Prazo de 1º de Agosto para Tarifas Não Será Prorrogado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/donald-trump1-300x200.jpg",
+        "date": "30/07/2025",
+        "description": "O presidente dos Estados Unidos reforçou a data em publicação no Truth Social"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/mais-da-metade-dos-brasileiros-compra-online-durante-a-noite-ou-de-madrugada/",
+        "title": "Comportamento: Mais da Metade dos Brasileiros Têm Hábitos Noturnos de Compra Online",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-13-300x200.png",
+        "date": "30/07/2025",
+        "description": "Pesquisa da Octadesk ainda mostra que 88% das pessoas preferem comprar pela internet"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/07/hm-estreia-no-brasil-com-loja-fisica-e-online/",
-        "title": "H&M estreia no Brasil com loja física e online",
+        "title": "H&m Estreia no Brasil com Loja Física e Online",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/padrao-Forbes-5-300x200.jpg",
         "date": "30/07/2025",
         "description": "A varejista sueca chega ao país em 23 de agosto com duas lojas, e-commerce e uma campanha estrelada por nomes da música e da moda internacional"
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Motor-Honda-Ayrton-Senna-300x200.jpg",
         "date": "30/07/2025",
         "description": "Marca japonesa estreia sua unidade de venda de memorabilia com as peças originais do motor que fez o brasileiro bicampeão mundial em 1990"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-collab/2025/07/quando-o-capital-global-encontra-os-gargalos-da-energia-no-brasil/",
-        "title": "Quando o Capital Global Encontra os Gargalos da Energia no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-2-2-300x200.png",
-        "date": "30/07/2025",
-        "description": "Brasol aposta em inovação financeira e infraestrutura como serviço para destravar o potencial da transição energética no país"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/07/2-razoes-por-tras-da-repentina-febre-do-labubu/",
-        "title": "2 Razões por trás da Repentina Febre do ‘Labubu’",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Labubus-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Alguns estão perplexos com a rapidez com que esses brinquedos conquistaram o mundo. Mas, do ponto de vista psicológico, tendências como essa estão longe de ser surpreendentes"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/paula-veloso-cria-marca-propria-para-levar-o-cafe-da-familia-a-geracao-z/",
-        "title": "Paula Veloso Cria Marca Própria para Levar o Café da Família À Geração Z",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/PaulaVeloso_22JUl2025_PaulaVeloso-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Aos 26 anos, mineira aposta no mercado da bebida monodose em sachês a partir do legado do avô, fundador da Veloso Green Coffee"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/o-que-a-brasileira-mariangela-hungria-diz-e-que-o-mundo-comeca-a-escutar/",
-        "title": "O Que a Brasileira Mariangela Hungria Diz e Que o Mundo Começa a Escutar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Mariangela_Hungria_28jul25_Embrapa-1-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Como a ganhadora do mais recente World Food Prize inspira uma nova geração de cientistas com sua visão colaborativa e de defesa incondicional do solo"
     }
 ]
