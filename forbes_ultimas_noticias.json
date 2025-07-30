@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/07/o-que-e-a-lei-magnitsky-aplicada-a-moraes/",
+        "title": "O Que É a Lei Magnitsky Aplicada À Moraes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/2-14-300x200.jpg",
+        "date": "30/07/2025",
+        "description": "Lei foi inicialmente criada para punir responsáveis por morte de advogado russo"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/07/eua-impoem-sancoes-a-moraes-do-stf-mostra-site-do-tesouro-americano/",
+        "title": "EUA Impõem Sanções a Moraes, do STF, Mostra Site do Tesouro Americano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Alexandre-de-Moraes-STF-Sancao-dos-EUA-Geral-300x200.png",
+        "date": "30/07/2025",
+        "description": "Decisão foi baseada na Lei Magnitsky, que dá direito ao presidente americano sancionar economicamente pessoas estrangeiras"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/aumento-das-provisoes-prejudica-resultado-do-santander-brasil/",
+        "title": "Aumento das Provisões Prejudica Resultado do Santander Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/04/2024-04-30-santander-j-300x200.jpg",
+        "date": "30/07/2025",
+        "description": "Banco elevou reservas para perdas com inadimplência devido a cenário econômico \"desafiador\" e a alterações nas normas do sistema financeiro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/importadora-americana-jde-peets-ve-pouco-impacto-de-tarifas-para-o-cafe-do-brasil/",
+        "title": "Importadora Americana JDE Peet's Vê Pouco Impacto de Tarifas para o Café do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CafeDoBrasil_30JUl2025_PauloFridmanCorbisGettyImages-300x200.jpg",
+        "date": "30/07/2025",
+        "description": "Trump disse no início do mês que aumentaria as tarifas sobre as importações brasileiras para 50% a partir de 1º de agosto"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/dubladores-tentam-se-proteger-da-ameaca-da-inteligencia-artificial/",
+        "title": "Dubladores Tentam se Proteger da Ameaça da Inteligência Artificial",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-30T141233Z_1_LYNXMPEL6T0TW_RTROPTP_4_FILME-IA-DUBLAGEM-300x200.jpg",
+        "date": "30/07/2025",
+        "description": "Dublador francês de grandes estrelas de Hollywood enfrenta os desafios da IA para preservar a profissão"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/margens-no-processamento-eleva-lucro-da-bunge-no-trimestre/",
+        "title": "Margens no Processamento Eleva Lucro da Bunge no Trimestre",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Bunge_30JUl2025_SOPAImagesGettyImages-300x200.jpg",
+        "date": "30/07/2025",
+        "description": "Nos últimos trimestres, a empresa e suas concorrentes, como a Archer-Daniels-Midland e a Cargill, tiveram seus lucros reduzidos por conta da ampla oferta global de safras"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/07/goleada-poe-selecao-brasileira-de-futebol-feminino-na-final-da-copa-america-e-na-olimpiada/",
         "title": "Goleada Põe Seleção Brasileira de Futebol Feminino na Final da Copa América",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/mulher-futebol-feminino-selecao-brasileira-copa-america-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/nu-e-net-300x200.png",
         "date": "30/07/2025",
         "description": "Iniciativa traz filme inspirado na série e mostra soluções para clientes darem o próximo passo em suas finanças"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/brasil-depende-dos-eua-mas-tambem-depende-do-brics-da-europa-e-do-mercosul-diz-tebet/",
-        "title": "Brasil Depende dos EUA, Mas Também Depende do Brics, da Europa e do Mercosul, diz Tebet",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-30T141401Z_1_LYNXMPEL6T0U3_RTROPTP_4_MACRO-TEBET-COMERCIO-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Ministra destaca necessidade de ajustes internos para reduzir vulnerabilidade do país diante de crises globais"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/gala-da-cruz-vermelha-de-monaco-reune-filantropia-arte-e-rock/",
-        "title": "Gala da Cruz Vermelha de Mônaco Reúne Filantropia, Arte e Rock",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/padrao-Forbes-6-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Evento beneficente teve show de Billy Idol, doação de obra de Bernar Venet e presença da família principesca no Sporting Monte‑Carlo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/como-a-ia-esta-transformando-cidades-pelo-mundo/",
-        "title": "Como a IA Está Transformando Cidades pelo Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/cidades-inteligentes-300x200.png",
-        "date": "30/07/2025",
-        "description": "Dos EUA à Malásia, a inteligência artificial está contribuindo para ambientes mais seguros, limpos e dinâmicos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/producao-de-petroleo-da-petrobras-cresce-mais-de-7-no-brasil-no-2o-tri/",
-        "title": "Produção de Petróleo da Petrobras Cresce Mais de 7% no 2º Tri",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Petrobras-producao-de-petroleo-Money-300x200.png",
-        "date": "30/07/2025",
-        "description": "Empresa atribui performance ao avanço operacional das novas plataformas no Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/criacao-de-vagas-no-setor-privado-dos-eua-fica-acima-do-esperado-em-julho/",
-        "title": "Criação de Vagas no Setor Privado dos EUA Fica Acima do Esperado em Julho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Uma-bandeira-dos-EUA-tremula-perto-de-conteineres-enquanto-um-navio-e-descarregado-no-Porto-de-Los-Angeles-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Foram abertas 104.000 posições de emprego no mês passado, depois de um declínio revisado de 23.000 em junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/economia-dos-eua-se-recupera-no-segundo-trimestre/",
-        "title": "Economia dos EUA se Recupera no Segundo Trimestre",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Porto-de-Oakland-economia-dos-EUA-Money-300x200.png",
-        "date": "30/07/2025",
-        "description": "Avanço foi impulsionado pelo aumento das importações e dos gastos dos consumidores"
     }
 ]

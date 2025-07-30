@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/406046-ios-186-corrige-brecha-de-seguranca-contida-em-projeto-publico-do-google.htm",
+        "title": "iOS 18.6 corrige brecha de segurança contida em projeto público do Google",
+        "description": "A atualização para o iOS 18.6 inclui uma variedade de correções de segurança, dentre elas uma que resolve uma brecha em um projeto público do Google",
+        "image": "https://tm.ibxk.com.br/2025/05/19/19085036878003.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/501952-censura-de-jogos-adultos-no-pc-entenda-polemica-envolvendo-steam-visa-e-paypal.htm",
+        "title": "Censura de jogos adultos no PC: Entenda polêmica envolvendo Steam, Visa e PayPal",
+        "description": "Um movimento coordenado retirou centenas de jogos da Steam e Itch. Entenda a situação e saiba o que esperar do futuro das lojas de PC",
+        "image": "https://tm.ibxk.com.br/2025/07/29/29092219697004.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406033-a-falsa-sensacao-de-seguranca-custa-caro-no-brasil.htm",
+        "title": "A falsa sensação de segurança custa caro no Brasil",
+        "description": "Por muito tempo, ciberataques foram tratados como eventos isolados, mas a realidade é que em 2025 ataques se tornaram cotidiano das organizações brasileiras.",
+        "image": "https://tm.ibxk.com.br/2025/07/30/30105606927166.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/406044-youtube-libera-nos-apps-para-smart-tvs-recurso-muito-utilizado-na-versao-web.htm",
+        "title": "YouTube libera nos apps para smart tvs recurso muito utilizado na versão web",
+        "description": "A nova função \"Pular para frente\" permite avançar para trechos mais selecionados pelos usuários, mas só está disponível para assinantes.",
+        "image": "https://tm.ibxk.com.br/2025/07/30/30113929921252.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/produto/406029-smartwatches-baratinhos-na-shopee-modelos-haylou-qcy-positivo-e-mais-por-menos-de-r250.htm",
         "title": "Smartwatches baratinhos na Shopee: modelos Haylou, QCY, Positivo e mais por menos de R$250",
         "description": "Garanta já smartwatches de marcas como Haylou, QCY, Zwear, Colmi, Positivo, Imenso e outras por menos de R$250 e com recursos interessantes para o dia a dia!",
@@ -39,13 +67,6 @@
         "title": "Curta de Wandinha feito por brasileira que dirigiu Agatha Desde Sempre apresenta Pézinho! Assista aqui",
         "description": "Em parceria com a Netflix e Nubank, brasileira que dirigiu séries como The Witcher e Paradise fez curta-metragem inspirado no universo de Wandinha",
         "image": "https://tm.ibxk.com.br/2025/07/30/30104245451157.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406026-chatgpt-se-transforma-em-professor-com-o-novo-modo-estudo.htm",
-        "title": "ChatGPT se transforma em professor com o novo 'Modo Estudo'",
-        "description": "Focado nos estudantes universitários, o novo recurso do ChatGPT objetiva estimular o aprendizado, em vez de entregar respostas prontas ao usuário.",
-        "image": "https://tm.ibxk.com.br/2025/07/30/30093154562023.jpg",
         "date": null
     }
 ]
