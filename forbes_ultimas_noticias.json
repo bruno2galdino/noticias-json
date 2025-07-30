@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/ibovespa-sobe-apos-trump-excluir-setores-na-tarifa-de-50/",
+        "title": "Ibovespa Sobe após Trump Excluir Setores na Tarifa de 50%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-12-300x200.png",
+        "date": "30/07/2025",
+        "description": "Ainda nesta quarta-feira (30), o Banco Central anuncia sua decisão de política monetária, com economistas estimando manutenção da Selic em 15% ao ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/com-projecao-de-vendas-em-queda-do-ozempic-acoes-da-novo-nordisk-desabam-21-na-bolsa/",
+        "title": "Com Projeção de Vendas em Queda do Ozempic, Ações da Novo Nordisk Desabam 21% na Bolsa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-27-300x200.jpg",
+        "date": "30/07/2025",
+        "description": "O movimento aconteceu após a farmacêutica dinamarquesa reduzir suas projeções de receita e lucro para o ano"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/trump-poupa-alguns-setores-do-agro-no-tarifaco-de-50/",
         "title": "Trump Poupa Alguns Setores do Agro no Tarifaço de 50%",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Donald_Trump_28jul25_-Anna-Moneymake_Getty-Images-300x200.jpg",
@@ -29,7 +43,7 @@
     },
     {
         "url": "https://forbes.com.br/geral/2025/07/o-que-e-a-lei-magnitsky-aplicada-a-moraes/",
-        "title": "O Que É a Lei Magnitsky Aplicada A Moraes",
+        "title": "O Que É a Lei Magnitsky, Aplicada A Alexandre de Moraes",
         "image": "https://forbes.com.br/wp-content/uploads/2025/02/2-14-300x200.jpg",
         "date": "30/07/2025",
         "description": "Lei foi inicialmente criada para punir responsáveis por morte de advogado russo"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CafeDoBrasil_30JUl2025_PauloFridmanCorbisGettyImages-300x200.jpg",
         "date": "30/07/2025",
         "description": "Trump disse no início do mês que aumentaria as tarifas sobre as importações brasileiras para 50% a partir de 1º de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/07/dubladores-tentam-se-proteger-da-ameaca-da-inteligencia-artificial/",
-        "title": "Dubladores Tentam se Proteger da Ameaça da Inteligência Artificial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-30T141233Z_1_LYNXMPEL6T0TW_RTROPTP_4_FILME-IA-DUBLAGEM-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Dublador francês de grandes estrelas de Hollywood enfrenta os desafios da IA para preservar a profissão"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/margens-no-processamento-eleva-lucro-da-bunge-no-trimestre/",
-        "title": "Margens no Processamento Eleva Lucro da Bunge no Trimestre",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Bunge_30JUl2025_SOPAImagesGettyImages-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Nos últimos trimestres, a empresa e suas concorrentes, como a Archer-Daniels-Midland e a Cargill, tiveram seus lucros reduzidos por conta da ampla oferta global de safras"
     }
 ]
