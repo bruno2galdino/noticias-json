@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/avioes-petroleo-e-suco-de-laranja-o-que-ficou-de-fora-do-tarifaco/",
+        "title": "Aviões, Petróleo e Suco de Laranja: o Que Ficou de Fora do Tarifaço",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Trump_-27abr_25_Getty-2-300x200.jpg",
+        "date": "30/07/2025",
+        "description": "Ordem executiva assinada por Donald Trump excluiu diversos produtos que são fundamentais na relação comercial Brasil-EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/cafe-brasileiro-sob-alvo-cecafe-quer-isencao-na-tarifa-de-trump/",
+        "title": "Café Brasileiro sob Alvo: Cecafé Quer Isenção na Tarifa de Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_cafe_torrado_28jul25_-Dndavis_Getty-Images-300x200.jpg",
+        "date": "30/07/2025",
+        "description": "Setor alega impacto bilionário na economia dos EUA e busca apoio de entidades daquele país para excluir o produto da nova taxação de 50%"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/ibovespa-sobe-apos-trump-excluir-setores-na-tarifa-de-50/",
         "title": "Ibovespa Sobe após Trump Excluir Setores na Tarifa de 50%",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-12-300x200.png",
@@ -49,24 +63,10 @@
         "description": "Lei foi inicialmente criada para punir responsáveis por morte de advogado russo"
     },
     {
-        "url": "https://forbes.com.br/geral/2025/07/eua-impoem-sancoes-a-moraes-do-stf-mostra-site-do-tesouro-americano/",
-        "title": "EUA Impõem Sanções a Moraes, do STF, Mostra Site do Tesouro Americano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Alexandre-de-Moraes-STF-Sancao-dos-EUA-Geral-300x200.png",
+        "url": "https://forbes.com.br/forbesagro/2025/07/brf-lanca-linha-de-frango-resfriado-na-arabia-saudita/",
+        "title": "BRF Lança Linha de Frango Resfriado na Arábia Saudita",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_cafe_torrado_28jul25_-SimpleImages_Getty-Images-300x200.jpg",
         "date": "30/07/2025",
-        "description": "Decisão foi baseada na Lei Magnitsky, que dá direito ao presidente americano sancionar economicamente pessoas estrangeiras"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/aumento-das-provisoes-prejudica-resultado-do-santander-brasil/",
-        "title": "Aumento das Provisões Prejudica Resultado do Santander Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/04/2024-04-30-santander-j-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Banco elevou reservas para perdas com inadimplência devido a cenário econômico \"desafiador\" e a alterações nas normas do sistema financeiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/importadora-americana-jde-peets-ve-pouco-impacto-de-tarifas-para-o-cafe-do-brasil/",
-        "title": "Importadora Americana JDE Peet's Vê Pouco Impacto de Tarifas para o Café do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_CafeDoBrasil_30JUl2025_PauloFridmanCorbisGettyImages-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Trump disse no início do mês que aumentaria as tarifas sobre as importações brasileiras para 50% a partir de 1º de agosto"
+        "description": "Empresa estima que esse mercado crescerá entre 2,5% e 3,5% ao ano até 2030"
     }
 ]

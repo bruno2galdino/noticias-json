@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/406024-home-office-60-vagas-para-trabalho-remoto-internacional-3007.htm",
+        "title": "Home office: 60 vagas para trabalho remoto internacional [30/07]",
+        "description": "Buscando uma nova oportunidade no mercado de trabalho internacional? Confira a seleção a nova seleção de vagas remotas!",
+        "image": "https://tm.ibxk.com.br/2025/05/20/20151620867466.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/406053-olist-lanca-agentes-de-ia-para-automatizar-rotinas-em-pequenas-e-medias-empresas.htm",
         "title": "Olist lança agentes de IA para automatizar rotinas em pequenas e médias empresas",
         "description": "Os bots autônomos da Olist podem realizar tarefas como emitir notas fiscais e gerar relatórios, entre outras, deixando o empreendedor com mais tempo livre.",
@@ -60,13 +67,6 @@
         "title": "Netflix anuncia elenco da série Orgulho e Preconceito! Saiba tudo sobre a produção",
         "description": "A nova adaptação de Orgulho e Preconceito promete ser bastante fiel ao livro de 1813. Confira mais detalhes sobre a série da Netflix",
         "image": "https://tm.ibxk.com.br/2025/07/30/30141120111056.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406046-ios-186-corrige-brecha-de-seguranca-contida-em-projeto-publico-do-google.htm",
-        "title": "iOS 18.6 corrige brecha de segurança contida em projeto público do Google",
-        "description": "A atualização para o iOS 18.6 inclui uma variedade de correções de segurança, dentre elas uma que resolve uma brecha em um projeto público do Google",
-        "image": "https://tm.ibxk.com.br/2025/05/19/19085036878003.jpg",
         "date": null
     }
 ]
