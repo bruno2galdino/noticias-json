@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/como-a-ia-esta-transformando-cidades-pelo-mundo/",
+        "title": "Como a IA Está Transformando Cidades pelo Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/cidades-inteligentes-300x200.png",
+        "date": "30/07/2025",
+        "description": "Dos EUA à Malásia, a inteligência artificial está contribuindo para ambientes mais seguros, limpos e dinâmicos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/producao-de-petroleo-da-petrobras-cresce-mais-de-7-no-brasil-no-2o-tri/",
+        "title": "Produção de Petróleo da Petrobras Cresce Mais de 7% no 2º Tri",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Petrobras-producao-de-petroleo-Money-300x200.png",
+        "date": "30/07/2025",
+        "description": "Empresa atribui performance ao avanço operacional das novas plataformas no Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/07/criacao-de-vagas-no-setor-privado-dos-eua-fica-acima-do-esperado-em-julho/",
         "title": "Criação de Vagas no Setor Privado dos EUA Fica Acima do Esperado em Julho",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Uma-bandeira-dos-EUA-tremula-perto-de-conteineres-enquanto-um-navio-e-descarregado-no-Porto-de-Los-Angeles-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-26-300x200.jpg",
         "date": "30/07/2025",
         "description": "Para Rafaela Vitória, do Inter, Selic deve seguir em 15% e ainda é difícil precificar os impactos da política comercial de Donald Trump"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/07/como-ler-um-rotulo-de-bourbon/",
-        "title": "Como Ler um Rótulo de Bourbon",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/wsb_bourbon_28jul25_Dpapicture-alliance-Getty-Images-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Compreender sua linguagem pode ajudar a identificar qualidade, evitar armadilhas e fazer escolhas mais inteligentes em todas as faixas de preço"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/07/honda-vai-leiloar-motor-usado-por-ayrton-senna-na-formula-1/",
-        "title": "Honda Vai Leiloar Motor Usado por Ayrton Senna na Fórmula 1",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Motor-Honda-Ayrton-Senna-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Marca japonesa estreia sua unidade de venda de memorabilia com as peças originais do motor que fez o brasileiro bicampeão mundial em 1990"
     }
 ]
