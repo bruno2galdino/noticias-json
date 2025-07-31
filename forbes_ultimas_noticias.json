@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/07/ibovespa-fecha-em-queda-puxado-por-ambev-apos-divulgacao-de-balanco/",
+        "title": "Ibovespa Fecha em Queda Puxado por Ambev após Divulgação de Balanço",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-11-300x200.png",
+        "date": "31/07/2025",
+        "description": "Já o dólar fechou o dia em alta ante o real a R$ 5,60"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/07/a-india-sempre-habitou-meus-sonhos-diz-riccy-souza-aranha/",
+        "title": "“A Índia Sempre Habitou Meus Sonhos”, Diz Riccy Souza Aranha",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/padrao-Forbes-10-300x200.jpg",
+        "date": "31/07/2025",
+        "description": "Diretora criativa transforma sonho antigo em realidade e encontra no país das cores uma fonte inesgotável de beleza, acolhimento e criatividade"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/07/brandvoice-nescafe-nova-geracao-da-cafeicultura-brasileira-e-destaque-em-campanha-de-nescafe/",
+        "title": "Nova Geração da Cafeicultura Brasileira É Destaque em Campanha de NESCAFÉ®",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/1-14-300x200.png",
+        "date": "31/07/2025",
+        "description": "“NESCAFÉ® Fazedores” valoriza a qualidade, a tradição e a inovação no campo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-collab/2025/07/rede-tenis-sonhadores-devem-sonhar-juntos/",
         "title": "Sonhadores Devem Sonhar Juntos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/rede-tenis_ago25-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/microsoft-forbes--300x200.jpg",
         "date": "31/07/2025",
         "description": "Valorização ocorre depois que a companhia publicou na noite da véspera resultado trimestral com receita acima do esperado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/taxa-de-desemprego-do-brasil-cai-a-58-no-2o-tri-e-vai-ao-menor-nivel-da-serie-renda-e-recorde/",
-        "title": "Taxa de Desemprego do Brasil Cai a 5,8% no 2º Tri",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/money-demissao-desemprego-300x200.jpg",
-        "date": "31/07/2025",
-        "description": "Resultado mostrou forte redução em relação aos 7% do primeiro trimestre, ficando ainda abaixo da expectativa em pesquisa da Reuters, de 6%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/inflacao-dos-eua-acelera-em-junho-e-gastos-do-consumidor-tem-leve-alta/",
-        "title": "Inflação dos EUA Acelera em Junho e Gastos do Consumidor Têm Leve Alta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_alimentos_supermercado_11abr_2025_Getty-300x200.jpg",
-        "date": "31/07/2025",
-        "description": "Números são atribuídos à alta dos preços de alguns produtos, diante do tarifaço de Donald Trump"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/argentina-reduz-impostos-sobre-exportacoes-de-graos-e-alimentos/",
-        "title": "Argentina Reduz Impostos sobre Exportações de Grãos e Alimentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-31T131751Z_1_LYNXMPEL6U0W0_RTROPTP_4_BRAZIL-CORN-300x200.jpg",
-        "date": "31/07/2025",
-        "description": "País se destaca como líder nas exportações de derivados de soja e figura entre os maiores exportadores globais de milho e carne bovina"
     }
 ]
