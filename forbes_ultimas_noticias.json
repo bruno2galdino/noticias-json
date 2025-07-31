@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-collab/2025/07/rede-tenis-sonhadores-devem-sonhar-juntos/",
+        "title": "Sonhadores Devem Sonhar Juntos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/rede-tenis_ago25-300x200.jpg",
+        "date": "31/07/2025",
+        "description": "Rede Tênis promoveu programa de treinamento em São Paulo com coordenadores dos 9 estados do país que recebem o projeto Rede Tênis de Massificação"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/resultado-do-bradesco-melhora-com-controle-da-inadimplencia/",
+        "title": "Resultado do Bradesco Melhora com Controle da Inadimplência",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/08/banco-bradesco-300x200.jpg",
+        "date": "31/07/2025",
+        "description": "Banco divulgou aumento de 15,1% na receita e de 28,6% no lucro na comparação com o segundo trimestre de 2024"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/negocios-em-feira-da-cooabriel-quase-dobram-no-embalo-de-precos-do-cafe/",
+        "title": "Negócios em Feira da Cooabriel Quase Dobram no Embalo de Preços do Café",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/agro-cafe-robusta-08Ago23-PauloWhitaker-300x200.jpg",
+        "date": "31/07/2025",
+        "description": "Em 2025, a cooperativa espera bater um recorde de recebimentos do grão, após a colheita de uma boa safra"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/07/eduardo-mira-o-tarifaco-de-trump-e-bastidores-geopoliticos-por-tras-da-taxacao-de-50/",
+        "title": "O Tarifaço De Trump e Os Bastidores Geopolíticos Por Trás Da Taxação De 50%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_TrumpTarifasAgro_15JUl2025_ChipSomodevilla_Getty-300x200.jpg",
+        "date": "31/07/2025",
+        "description": "Medida do governo americano não teve nenhuma relação com as disputas internas, mas com um desafio à hegemonia americana"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/franca-luta-contra-rapida-disseminacao-de-doenca-viral-no-gado-em-regioes-produtoras-de-queijo/",
         "title": "França Luta contra Rápida Disseminação de Doença Viral no Gado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/gado-queijo-franca-forbes--300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-31T131751Z_1_LYNXMPEL6U0W0_RTROPTP_4_BRAZIL-CORN-300x200.jpg",
         "date": "31/07/2025",
         "description": "País se destaca como líder nas exportações de derivados de soja e figura entre os maiores exportadores globais de milho e carne bovina"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/industria-volta-a-pedir-negociacao-e-nao-retaliacao-contra-tarifa-de-50/",
-        "title": "Indústria Volta a Pedir Negociação e Não Retaliação contra Tarifa de 50%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-18-300x200.jpg",
-        "date": "31/07/2025",
-        "description": "A CNI aponta que produtos e setores importantes da economia foram deixados de fora da lista de exceções"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/07/vinho-e-destilados-da-ue-terao-tarifas-de-15-dos-eua/",
-        "title": "Vinho e Destilados da UE Terão Tarifas de 15% dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/08/agro_vinho_29jul24_5PH_Guetty-300x200.jpg",
-        "date": "31/07/2025",
-        "description": "Atualmente, a taxa dos EUA sobre esses produtos europeus é de 10%"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/tag-investimentos-lanca-fiagro-e-mira-r-1-bi-ate-2027/",
-        "title": "Tag Investimentos Lança Primeiro Fiagro e Mira R$ 1 Bi até 2027",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_fiagro_financas_31jul25_Galeanu-Mihai_Getty--300x200.jpg",
-        "date": "31/07/2025",
-        "description": "Estrutura aposta em análise preditiva, cartão digital e originação com cooperativas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/precos-do-cafe-sobem-com-tarifaco-dos-eua-ao-brasil/",
-        "title": "Preços do café sobem com tarifaço dos EUA ao Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-31T133953Z_1_LYNXMPEL6U0WS_RTROPTP_4_COMMODS-CAFE-PRECOS-300x200.jpg",
-        "date": "31/07/2025",
-        "description": "Tarifa de 50% atinge o Brasil, mas setores como energia e suco de laranja ficam de fora da medida anunciada por Trump"
     }
 ]
