@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/07/franca-luta-contra-rapida-disseminacao-de-doenca-viral-no-gado-em-regioes-produtoras-de-queijo/",
+        "title": "França Luta contra Rápida Disseminação de Doença Viral no Gado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/gado-queijo-franca-forbes--300x200.jpg",
+        "date": "31/07/2025",
+        "description": "51 surtos foram relatados e cerca de 1.000 animais foram abatidos desde que o primeiro caso foi detectado no final de junho"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/acao-da-ambev-cai-apos-reducao-em-volume-vendido-no-2o-trimestre/",
+        "title": "Ação da Ambev Cai após Redução em Volume Vendido no 2º Trimestre",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Ambev_31JUl2025_PauloWhitakerReuters-300x200.jpg",
+        "date": "31/07/2025",
+        "description": "Para a empresa, o clima foi o fator-chave para o recuo nos volumes"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/07/valor-de-mercado-da-microsoft-supera-us-4-trilhoes-apos-resultados/",
+        "title": "Valor de Mercado da Microsoft Supera US$ 4 Trilhões após Resultados",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/microsoft-forbes--300x200.jpg",
+        "date": "31/07/2025",
+        "description": "Valorização ocorre depois que a companhia publicou na noite da véspera resultado trimestral com receita acima do esperado"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/taxa-de-desemprego-do-brasil-cai-a-58-no-2o-tri-e-vai-ao-menor-nivel-da-serie-renda-e-recorde/",
+        "title": "Taxa de Desemprego do Brasil Cai a 5,8% no 2º Tri",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/money-demissao-desemprego-300x200.jpg",
+        "date": "31/07/2025",
+        "description": "Resultado mostrou forte redução em relação aos 7% do primeiro trimestre, ficando ainda abaixo da expectativa em pesquisa da Reuters, de 6%"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/07/inflacao-dos-eua-acelera-em-junho-e-gastos-do-consumidor-tem-leve-alta/",
+        "title": "Inflação dos EUA Acelera em Junho e Gastos do Consumidor Têm Leve Alta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_alimentos_supermercado_11abr_2025_Getty-300x200.jpg",
+        "date": "31/07/2025",
+        "description": "Números são atribuídos à alta dos preços de alguns produtos, diante do tarifaço de Donald Trump"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/07/argentina-reduz-impostos-sobre-exportacoes-de-graos-e-alimentos/",
         "title": "Argentina Reduz Impostos sobre Exportações de Grãos e Alimentos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-31T131751Z_1_LYNXMPEL6U0W0_RTROPTP_4_BRAZIL-CORN-300x200.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-31T133953Z_1_LYNXMPEL6U0WS_RTROPTP_4_COMMODS-CAFE-PRECOS-300x200.jpg",
         "date": "31/07/2025",
         "description": "Tarifa de 50% atinge o Brasil, mas setores como energia e suco de laranja ficam de fora da medida anunciada por Trump"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/csn-reduz-participacao-na-usiminas/",
-        "title": "CSN Reduz Participação na Usiminas",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/05/usiminas-forbescarreira-300x200.jpg",
-        "date": "31/07/2025",
-        "description": "Venda foi feita ao preço de mercado, somando mais de 62 milhões de ações da siderúrgica mineira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/tarifaco-veja-todas-as-excecoes-das-novas-taxas-de-trump/",
-        "title": "Tarifaço: Veja Todas as Exceções das Novas Taxas de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-trump-money-300x200.jpg",
-        "date": "31/07/2025",
-        "description": "Presidente americano assinou na última quarta-feira (30) ordem que aplica tarifas de 50% a produtos brasileiros; veja o que ficou de fora"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-juros-ficam-em-15-ate-2026/",
-        "title": "Pré-mercado: Juros Ficam em 15% até 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "31/07/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 31 de julho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/como-a-metric-coffee-conecta-o-campo-a-xicara-e-prega-o-fair-trade-do-cafe/",
-        "title": "Como a Metric Coffee Conecta o Campo À Xícara e Prega o Fair Trade do Café",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_cafe_produtor_Brasil_31jul25_Brastock-Images_Getty-Images-300x200.jpg",
-        "date": "31/07/2025",
-        "description": "Fundada em Chicago, a empresa estabeleceu um modelo de negócios que prioriza o comércio direto e a remuneração justa, principalmente para os produtores do grão"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/07/50-over-50-conheca-mulheres-que-usam-o-poder-da-maturidade-para-liderar-e-inovar/",
-        "title": "50 Over 50: Mulheres Mostram o Poder da Maturidade na Vida e na Carreira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/mulher-julie-andrews-1-300x200.jpg",
-        "date": "31/07/2025",
-        "description": "Quinta edição da lista traz a atriz Julie Andrews, a escritora Isabel Allende, executivas C-Level de empresas como OpenAI e Nvidia e muitas outras que se destacam após os 50 anos"
     }
 ]
