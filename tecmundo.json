@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/406080-novo-virus-do-pix-trojan-ghostspy-foca-ataques-em-celulares-android.htm",
+        "title": "Novo 'Vírus do Pix', trojan GhostSpy foca ataques em celulares Android",
+        "description": "GhostSpy é vendido como serviço, com painel para controlar o acesso remoto, executar roubo de dados e tem até multa contratual para seus usuários!",
+        "image": "https://tm.ibxk.com.br/2025/07/31/31191003791005.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/ciencia/406078-mega-relampago-o-que-e-e-como-explicar-o-raio-de-829-km-registrado-nos-eua.htm",
+        "title": "Mega Relâmpago: o que é e como explicar o raio de 829 km registrado nos EUA?",
+        "description": "O megaflash aconteceu durante tempestade nas Grandes Planícies da América do Norte em 2017, mas só foi descoberto agora.",
+        "image": "https://tm.ibxk.com.br/2025/07/31/31170807373103.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/601786-nos-cinemas-12-melhores-filmes-que-serao-lancados-em-agosto.htm",
+        "title": "Nos cinemas: 12 melhores filmes que serão lançados em agosto",
+        "description": "Procurando por bons filmes para assistir no cinema em agosto de 2025? Veja 12 títulos imperdíveis para aproveitar neste mês!",
+        "image": "https://tm.ibxk.com.br/2025/07/30/30122853688351.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/406084-cade-aceita-denuncia-da-opera-e-vai-investigar-microsoft-no-brasil.htm",
+        "title": "Cade aceita denúncia da Opera e vai investigar Microsoft no Brasil",
+        "description": "Inquérito administrativo contra Microsoft por suposto abuso de posição dominante foi instaurado pelo órgão.",
+        "image": "https://tm.ibxk.com.br/2025/07/31/31182457750162.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/406077-a-nova-batalha-dos-navegadores-coluna.htm",
         "title": "A nova batalha dos navegadores [Coluna]",
         "description": "Governança em tempos de agentes de IA autônomos.",
@@ -32,27 +60,6 @@
         "title": "Prime Video terá filmes e séries de peso em agosto! Veja lista de lançamentos",
         "description": "Em agosto, o Prime Video traz filmes aterrorizantes, séries documentais e algumas surpresas! Confira os principais lançamentos",
         "image": "https://tm.ibxk.com.br/2025/07/31/31160507991002.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406062-10-prompts-simples-para-chatgpt-que-facilitam-tarefas-diarias.htm",
-        "title": "10 prompts simples para ChatGPT que facilitam tarefas diárias",
-        "description": "Com comandos bastante simples, o bot da OpenAI pode ajudar no preparo do almoço, com exercícios para se manter em forma e a realizar reparos.",
-        "image": "https://tm.ibxk.com.br/2025/07/31/31121022821230.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/501980-battlefield-6-sera-lancado-dia-10-de-outubro-veja-como-jogar-o-beta-gratis.htm",
-        "title": "Battlefield 6 será lançado dia 10 de outubro! Veja preço e como jogar o beta grátis",
-        "description": "Confira tudo sobre o gameplay, multiplayer e campanha solo do novo Battlefield",
-        "image": "https://tm.ibxk.com.br/2025/07/31/31140412475010.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406072-hackers-usam-extensoes-maliciosas-para-vazar-dados-de-chats-com-ia.htm",
-        "title": "Hackers usam extensões maliciosas para vazar dados de chats com IA",
-        "description": "Um novo método de ciberataque, \"Man in the Prompt\", abusa da estrutura da página de chatbots com IA para extrair informações confidenciais de empresas",
-        "image": "https://tm.ibxk.com.br/2025/05/09/09111321451072.jpg",
         "date": null
     }
 ]
