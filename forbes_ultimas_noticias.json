@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://forbes.com.br/forbesagro/2025/07/como-a-metric-coffee-conecta-o-campo-a-xicara-com-etica-e-rastreabilidade/",
-        "title": "Como a Metric Coffee Conecta o Campo À Xícara com Ética e Rastreabilidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_ColheitadeCafe_30JUl2025_TimothyFadekCorbisGetty-Images-300x200.jpg",
+        "url": "https://forbes.com.br/forbes-money/2025/07/pre-mercado-juros-ficam-em-15-ate-2026/",
+        "title": "Pré-mercado: Juros Ficam em 15% até 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "31/07/2025",
-        "description": "Fundada em Chicago, a empresa estabeleceu um modelo de negócios que prioriza o comércio direto, a remuneração justa, principalmente para os colhedores"
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 31 de julho"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/07/como-a-metric-coffee-conecta-o-campo-a-xicara-e-prega-o-fair-trade-do-cafe/",
+        "title": "Como a Metric Coffee Conecta o Campo À Xícara e Prega o Fair Trade do Café",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_cafe_produtor_Brasil_31jul25_Brastock-Images_Getty-Images-300x200.jpg",
+        "date": "31/07/2025",
+        "description": "Fundada em Chicago, a empresa estabeleceu um modelo de negócios que prioriza o comércio direto e a remuneração justa, principalmente para os produtores do grão"
     },
     {
         "url": "https://forbes.com.br/forbes-mulher/2025/07/50-over-50-conheca-mulheres-que-usam-o-poder-da-maturidade-para-liderar-e-inovar/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/Trump_-27abr_25_Getty-2-300x200.jpg",
         "date": "30/07/2025",
         "description": "Ordem executiva assinada por Donald Trump excluiu diversos produtos que são fundamentais na relação comercial Brasil-EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/07/cafe-brasileiro-sob-alvo-cecafe-quer-isencao-na-tarifa-de-trump/",
-        "title": "Café Brasileiro sob Alvo: Cecafé Quer Isenção na Tarifa de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_cafe_torrado_28jul25_-Dndavis_Getty-Images-300x200.jpg",
-        "date": "30/07/2025",
-        "description": "Setor alega impacto bilionário na economia dos EUA e busca apoio de entidades daquele país para excluir o produto da nova taxação de 50%"
     }
 ]
