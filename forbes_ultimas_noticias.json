@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/colheita-de-cafe-da-safra-2025-26-do-brasil-atinge-90/",
+        "title": "Colheita de café da safra 2025/26 do Brasil atinge 90%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-01T185323Z_1_LYNXMPEL702EC_RTROPTP_4_BRAZIL-COFFEE-FROSTS-300x200.jpg",
+        "date": "01/08/2025",
+        "description": "Avanço da produção supera média histórica e desempenho de 2024, aponta consultoria agrícola"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-fecha-em-queda-puxado-por-bb-e-petrobras-com-mercado-reagindo-a-dados-de-emprego-dos-eua/",
+        "title": "Ibovespa Fecha em Queda Puxado por BB e Petrobras, com Mercado Reagindo a Dados de Emprego dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-8-300x200.png",
+        "date": "01/08/2025",
+        "description": "Após atingir R$ 5,60 na véspera, o dólar recuou, terminando o dia abaixo dos R$ 5,55"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/por-dentro-do-escritorio-vermelho-de-nizan-guanaes/",
+        "title": "Por Dentro do Escritório Vermelho de Nizan Guanaes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/B0131763-300x200.jpg",
+        "date": "01/08/2025",
+        "description": "Ele queria um espaço “barulhento, vibrante e explosivo” — e Sig Bergamin e Murilo Lomas entregaram exatamente isso com um projeto ousado e monocromático"
+    },
+    {
         "url": "https://forbes.com.br/forbes-cast/2025/08/artista-plastico-o-bastardo-participa-do-podcast-under-30-a-jornada/",
         "title": "Artista Plástico O Bastardo Participa do Podcast Under 30 - A Jornada",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/o-bastardo_u30-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Marfrig_Getty-300x200.jpg",
         "date": "01/08/2025",
         "description": "A empresa afirmou que a não há interrupções nas linhas de produção"
-    },
-    {
-        "url": "https://forbes.com.br/sem-categoria/2025/08/como-a-embraer-saiu-ilesa-da-ofensiva-tarifaria-de-trump/",
-        "title": "Como a Embraer Saiu da Ofensiva Tarifária de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/09/money-embraer-aviao-reuters-300x200.jpg",
-        "date": "01/08/2025",
-        "description": "Pressão da fabricante brasileira e parceiros destaca risco das tarifas para voos regionais e economia local nos EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/a-apple-esta-pronta-para-abrir-sua-carteira-para-recuperar-o-atraso-em-ia-diz-ceo/",
-        "title": "A Apple Está Pronta para Abrir Sua Carteira para Recuperar o Atraso em IA, Diz CEO",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-01T114439Z_1_LYNXMPEL70208_RTROPTP_4_APPLE-CONFERENCE-300x200.jpg",
-        "date": "01/08/2025",
-        "description": "Tim Cook indica que Apple pode romper tradição de cautela fiscal para investir pesado em inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/jbs-firma-parceria-com-o-governo-federal-para-contratar-inscritos-no-cadunico/",
-        "title": "JBS Firma Parceria com o Governo Federal para Contratar Inscritos no CadÚnico",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_jbs_investimento_brasil_-JBS_01JUL25_BrunoFranco_-300x200.jpg",
-        "date": "01/08/2025",
-        "description": "Plano prevê uso de base pública de dados para ampliar contratações em regiões estratégicas"
     }
 ]
