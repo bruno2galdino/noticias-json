@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/mcdonalds-planeja-aumentar-investimento-em-ia-ate-2027/",
+        "title": "McDonald's Planeja Aumentar Investimento em IA até 2027",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-mcdonalds-300x200.jpg",
+        "date": "01/08/2025",
+        "description": "Empresa está apostando na Índia para ser um centro importante de governança de dados, engenharia e arquitetura de plataforma"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/tarifa-de-50-dos-eua-sobre-cafe-brasileiro-pode-beneficiar-a-china/",
+        "title": "Tarifa de 50% dos EUA sobre Café Brasileiro Pode Beneficiar a China",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/agro-cafe-robusta-08Ago23-PauloWhitaker-300x200.jpg",
+        "date": "01/08/2025",
+        "description": "Consumo de café está aumentando na China, à medida que os jovens profissionais abandonam o chá e buscam a cafeína"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/gerdau-decide-reduzir-investimento-no-brasil-apos-decepcao-com-medidas-comerciais-do-governo/",
         "title": "Gerdau Decide Reduzir Investimento no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-money-gerdau-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Amazon-Money-300x200.png",
         "date": "01/08/2025",
         "description": "Desempenho frustrou acionistas diante dos ganhos robustos de rivais como Alphabet e Microsoft"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-tarifas-derrubam-bolsas-nos-eua-na-asia-e-na-europa/",
-        "title": "Pré-mercado: Tarifas Derrubam Bolsas nos EUA, na Ásia e na Europa",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "01/08/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 1 de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/trump-amplia-guerra-comercial-e-atinge-dezenas-de-paises-com-tarifas-elevadas-de-ate-50/",
-        "title": "Trump Amplia Guerra Comercial e Atinge Dezenas de Países com Tarifas Elevadas de até 41%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/GettyImages-2224318104_money_donald-trump-300x200.jpg",
-        "date": "01/08/2025",
-        "description": "Novo decreto inclui tarifas de até 41% para 69 parceiros comerciais, além dos 50% anteriormente impostos ao Brasil"
     }
 ]
