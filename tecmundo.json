@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/406101-golpe-abusa-de-protocolos-autorizadores-para-invadir-contas-corporativas-da-microsoft.htm",
+        "title": "Golpe abusa de protocolos autorizadores para invadir contas corporativas da Microsoft",
+        "description": "Um novo método refinado de phishing que mira contas corporativas busca roubar as credenciais de acesso de contas e invadir ambientes empresariais",
+        "image": "https://tm.ibxk.com.br/2025/07/23/23222539956013.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/501999-nintendo-switch-jogos-da-eshop-com-ate-90-off-aproveite.htm",
+        "title": "Nintendo Switch: jogos da eShop com até 90% OFF; aproveite",
+        "description": "Confira agora as principais ofertas de jogos na eShop e garanta ótimos títulos para Nintendo Switch como Monster Hunter Rise, Darkest Dungeon II e FAR: Lone Sails, que está saindo por menos de R$10",
+        "image": "https://tm.ibxk.com.br/2025/08/01/01182221609000.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/601806-a-serie-delirio-da-netflix-vai-ganhar-segunda-temporada.htm",
         "title": "A série Delírio, da Netflix, vai ganhar segunda temporada?",
         "description": "Delírio é uma produção colombiana repleta de mistérios que tem feito sucesso no streaming",
@@ -46,20 +60,6 @@
         "title": "Steam recebe 5 jogos grátis nesta semana! Veja lista de 01/08 e resgate!",
         "description": "Quebra-cabeça, roguelite e até mesmo battle royale de ninjas: veja recomendações de jogos grátis para curtir no PC!",
         "image": "https://tm.ibxk.com.br/2025/08/01/01133601741009.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/601805-e-possivel-teletransportar-o-planeta-terra-astrofisica-esclarece-polemica-de-quarteto-fantastico.htm",
-        "title": "É possível teletransportar o planeta Terra? Astrofísica esclarece polêmica de Quarteto Fantástico",
-        "description": "‘Se conseguimos teletransportar uma partícula, conseguimos fazer isso com qualquer coisa, certo?’ Cientista explica que não é bem assim",
-        "image": "https://tm.ibxk.com.br/2025/08/01/01162518253212.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406103-golpistas-distribuem-ransomware-se-passando-por-discord-twitch-e-onlyfans.htm",
-        "title": "Golpistas distribuem ransomware se passando por Discord, Twitch e OnlyFans",
-        "description": "Os cibercriminosos convencem a vítima a baixar um arquivo malicioso que instala o ransomware Epsilon Red no computador e sequestra os dados das vítimas",
-        "image": "https://tm.ibxk.com.br/2025/07/30/30105606927166.jpg",
         "date": null
     }
 ]

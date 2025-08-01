@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/08/morango-do-amor-ganha-versao-de-r-2-100-em-sao-paulo/",
+        "title": "Morango do Amor Ganha Versão de R$ 2.100 em São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_morango-do-amor-de-luxo-4-300x200.jpg",
+        "date": "01/08/2025",
+        "description": "Criação do confeiteiro Denilson Lima é decorada como ovos Fabergé e diz esgotar diariamente com tanta demanda"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/trump-diz-que-lula-pode-ligar-para-ele-a-hora-que-quiser/",
+        "title": "Trump Diz Que Lula \"Pode Ligar para Ele a Hora Que Quiser\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/donald-trump-300x200.jpg",
+        "date": "01/08/2025",
+        "description": "\"Vamos ver o que acontece\", acrescentou o presidente dos Estados Unidos, questionado sobre o que estaria na mesa de negociação"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/colheita-de-cafe-da-safra-2025-26-do-brasil-atinge-90/",
         "title": "Colheita de café da safra 2025/26 do Brasil atinge 90%",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-01T185323Z_1_LYNXMPEL702EC_RTROPTP_4_BRAZIL-COFFEE-FROSTS-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-money-gerdau-300x200.jpg",
         "date": "01/08/2025",
         "description": "Empresa demitiu desde o início do ano 1.500 trabalhadores no país diante da pressão de aço importado e contido em produtos acabados"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/china-amplia-compra-de-farelo-de-soja-da-argentina/",
-        "title": "China Amplia Compra de Farelo de Soja da Argentina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_FareloDeSoja_31JUl2025_TangKeVCGGetty-300x200.jpg",
-        "date": "01/08/2025",
-        "description": "A redução dos impostos sobre o produto diminui os custos de exportação"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/marfrig-diz-que-tarifaco-dos-eua-nao-afeta-operacoes-no-brasil/",
-        "title": "Marfrig Diz Que Tarifaço dos EUA Não Afeta Operações no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Marfrig_Getty-300x200.jpg",
-        "date": "01/08/2025",
-        "description": "A empresa afirmou que a não há interrupções nas linhas de produção"
     }
 ]
