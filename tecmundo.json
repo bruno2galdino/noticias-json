@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/406075-hacker-coloca-a-venda-dados-de-clientes-e-infraestrutura-da-claro.htm",
+        "title": "Hacker coloca à venda dados de clientes e infraestrutura AWS da Claro",
+        "description": "A empresa de telecomunicações Claro sofreu um suposto ataque cibernético na última segunda-feira (29). O resultado da invasão envolveria o roubo de dados pessoais de clientes, infraestrutura de nuvem Amazon AWS e diversas bases de dados da companhia.",
+        "image": "https://tm.ibxk.com.br/2025/08/01/01141943189083.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/501993-nintendo-aumenta-precos-do-switch-apos-tarifas-de-trump-nos-eua.htm",
+        "title": "Nintendo aumenta preços do Switch após tarifas de Trump nos EUA",
+        "description": "Enquanto Switch 2 permanece com mesmo valor, a empresa reajustou preços da primeira geração do console e acessórios. Veja posicionamento sobre preços no Brasil",
+        "image": "https://tm.ibxk.com.br/2025/08/01/01134129392026.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/software/406093-chatgpt-remove-recurso-que-mostrava-conversas-privadas-no-google.htm",
         "title": "ChatGPT remove recurso que mostrava conversas privadas no Google",
         "description": "A indexação dos links de conversas com a IA nos buscadores acontecia após o usuário ativar a função de compartilhamento do ChatGPT, tornando públicas as conversas.",
@@ -53,20 +67,6 @@
         "title": "SmartTVs Samsung ficaram com apps 'fora do ar' nesta quinta-feira (31), mas problema foi resolvido",
         "description": "Vários usuários relataram não conseguir acessar aplicativos de streaming a partir de smart TVs Samsung na noite de quinta-feira (31)",
         "image": "https://tm.ibxk.com.br/2025/08/01/01100545929082.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/501986-especificacoes-do-ps6-e-de-novo-portatil-da-sony-sao-reveladas-em-vazamento.htm",
-        "title": "Especificações do PS6 e de novo portátil da Sony são reveladas em vazamento",
-        "description": "ASony estaria trabalhando em duas versões do PS6 para a sua nova geração, sendo um console de mesa e um portátil. Veja os detalhes!",
-        "image": "https://tm.ibxk.com.br/2025/08/01/01094256124030.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/406087-renove-seu-smartphone-modelos-samsung-motorola-e-apple-com-ate-45-off-no-mercado-livre.htm",
-        "title": "Renove seu smartphone: modelos Samsung, Motorola e Apple com até 45% OFF no Mercado Livre",
-        "description": "Aproveite preços mais baixos em diversos modelos de celular de marcas famosas como Apple, Samsung e Motorola, entre outras, e garanta smartphones como Galaxy S25, iPhone 16, Moto G15 e muito mais com grandes descontos por tempo limitado",
-        "image": "https://tm.ibxk.com.br/2025/08/01/01083433856006.jpg",
         "date": null
     }
 ]
