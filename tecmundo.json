@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/406083-10-noticias-de-tecnologia-para-voce-comecar-o-dia-0108.htm",
+        "title": "10 notícias de tecnologia para você começar o dia (01/08)",
+        "description": "Comece esta sexta-feira (01) por dentro de tudo o que rolou no mundo da Ciência e Tecnologia",
+        "image": "https://tm.ibxk.com.br/2025/07/31/31085115310004.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/501983-silent-hill-f-e-grotesco-mas-estranhamente-convidativo-primeiras-impressoes.htm",
         "title": "Silent Hill F é grotesco, mas estranhamente convidativo | Primeiras Impressões",
         "description": "Silent Hill F traz terror japonês à franquia com ambientação nos anos 1960, nova protagonista, combate inédito e um Outro Mundo inspirado em templos antigos!",
@@ -60,13 +67,6 @@
         "title": "A nova batalha dos navegadores [Coluna]",
         "description": "Governança em tempos de agentes de IA autônomos.",
         "image": "https://tm.ibxk.com.br/2025/07/31/31165752667065.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406076-avast-lanca-ferramenta-para-recuperar-arquivos-sequestrado-por-ransomware.htm",
-        "title": "Avast lança ferramenta para recuperar arquivos sequestrados por ransomware",
-        "description": "Companhia liberou uma ferramenta totalmente gratuita após o grupo FunkSec ser considerado extinto",
-        "image": "https://tm.ibxk.com.br/2025/05/20/20162646918004.jpg",
         "date": null
     }
 ]
