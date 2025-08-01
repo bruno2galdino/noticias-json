@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-cast/2025/08/artista-plastico-o-bastardo-participa-do-podcast-under-30-a-jornada/",
+        "title": "Artista Plástico O Bastardo Participa do Podcast Under 30 - A Jornada",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/o-bastardo_u30-300x200.jpg",
+        "date": "01/08/2025",
+        "description": "Mateus Maia falou sobre sua trajetória no programa apresentado por Johnnie Walker"
+    },
+    {
+        "url": "https://forbes.com.br/coluna/2025/08/laranja-e-petroleo-fora-do-tarifaco-trump-pragmatismo-estrategico-ou-dependencia-mutua/",
+        "title": "Laranja e Petróleo Fora do Tarifaço Trump: Pragmatismo Estratégico ou Dependência Mútua?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-brasil-eua-tarifas-300x200.jpg",
+        "date": "01/08/2025",
+        "description": "Isenções estratégicas de Trump expõem os limites do protecionismo na economia global interdependente"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/mcdonalds-planeja-aumentar-investimento-em-ia-ate-2027/",
         "title": "McDonald's Planeja Aumentar Investimento em IA até 2027",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-mcdonalds-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_jbs_investimento_brasil_-JBS_01JUL25_BrunoFranco_-300x200.jpg",
         "date": "01/08/2025",
         "description": "Plano prevê uso de base pública de dados para ampliar contratações em regiões estratégicas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/ab-inbev-planeja-planejamento-de-vendas-do-brasil-para-china-com-foco-em-volumes/",
-        "title": "AB InBev Planeja Planejamento de Vendas do Brasil para China com Foco em Volumes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-01T110032Z_1_LYNXMPEL701YB_RTROPTP_4_ALIMENTOS-ABINBEV-VOLUMES-300x200.jpg",
-        "date": "01/08/2025",
-        "description": "Preocupações com crescimento e volume ofuscam lucros sólidos das principais cervejarias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/amazon-despenca-na-bolsa-apos-fraco-crescimento-em-computacao-em-nuvem/",
-        "title": "Amazon Despenca na Bolsa após Fraco Crescimento em Computação em Nuvem",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Amazon-Money-300x200.png",
-        "date": "01/08/2025",
-        "description": "Desempenho frustrou acionistas diante dos ganhos robustos de rivais como Alphabet e Microsoft"
     }
 ]
