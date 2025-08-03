@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/peel-transforma-bananas-feias-e-manchadas-em-sorvete-premium/",
+        "title": "Peel Transforma Bananas Feias e Manchadas em Sorvete Premium",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/ValeriaAlvarez_Peel_01AGO2025_SedidaPorPeelParaForbesEUA-300x200.jpg",
+        "date": "03/08/2025",
+        "description": "A marca de Valeria Alvarez, que já fez parcerias com a Gucci e a Crown Affair, dá um novo destino para bananas que eram descartadas pela sua aparência"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/08/sabaticos-ganham-espaco-como-resposta-ao-esgotamento-profissional/",
+        "title": "Sabáticos Ganham Espaço Como Resposta Ao Esgotamento Profissional",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-periodo-sabatico-carreira-300x200.jpg",
+        "date": "03/08/2025",
+        "description": "Líderes e jovens profissionais recorrem a pausas intencionais na carreira em busca de equilíbrio e propósito"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/como-funciona-a-producao-de-vinhos-biodinamicos-e-por-que-ela-e-especial/",
+        "title": "Como Funciona a Produção de Vinhos Biodinâmicos e Por Que Ela É Especial",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/WSB_VinhoBiodinamico_01AGO2025_CharlesORear-300x200.jpg",
+        "date": "03/08/2025",
+        "description": "A produção biodinâmica, que utiliza compostos naturais e calendários lunares, pode originar vinhos mais vivos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/como-o-segundo-homem-mais-rico-do-mundo-e-seu-filho-fecharam-o-acordo-bilionario-com-a-paramount/",
+        "title": "Como o Segundo Homem Mais Rico do Mundo e Seu Filho Fecharam o Acordo Bilionário com a Paramount",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-300x200.png",
+        "date": "03/08/2025",
+        "description": "David Ellison, filho do bilionário do setor de software Larry Ellison, cultivou ao longo dos últimos 15 anos uma relação com a Paramount como produtor de cinema"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/ia-ajuda-a-recriar-orgaos-humanos-e-evita-teste-em-animais/",
+        "title": "IA Ajuda a Recriar Órgãos Humanos e Evita Teste em Animais",
+        "image": "https://forbes.com.br/wp-content/uploads/2019/09/Negócios-startupIA-270919-Gettyimagesheroimages.jpg",
+        "date": "03/08/2025",
+        "description": "O avanço da tecnologia, os investimentos e o surgimento de novas startups estão possibilitando que várias indústrias abandonem práticas antigas e adotem novas ferramentas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/por-dentro-do-plano-da-robinhood-de-dominar-o-mundo-com-ajuda-das-criptos/",
+        "title": "Por Dentro do Plano da Robinhood de Dominar o Mundo com Ajuda das Criptos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-1-300x200.png",
+        "date": "03/08/2025",
+        "description": "Cofundada por Vladimir Tenev, empresa acabou com o modelo de cobrança de taxas da indústria de corretagem e mira ir muito longe"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/como-lissa-carmona-ajudou-a-redefinir-o-brasil-no-circuito-global-do-design/",
+        "title": "Como Lissa Carmona Ajudou a Redefinir o Brasil no Circuito Global do Design",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Lissa-Carmona-Etel-300x200.jpg",
+        "date": "03/08/2025",
+        "description": "Nos 40 anos da Etel, a empresária fala sobre legado, como o design alterou seu plano de carreira no mercado financeiro e o contínuo processo de internacionalização da marca criada por sua mãe"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/08/como-escolher-o-gin-certo-para-cada-tipo-de-bebida/",
+        "title": "Como Escolher o Gin Certo para Cada Tipo de Bebida",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Barman-especialista-esta-preparando-bebidas-em-boate-300x200.jpg",
+        "date": "03/08/2025",
+        "description": "Entenda como as diferentes variações de gin influenciam no preparo de coquetéis clássicos e modernos, e saiba qual escolher para cada tipo de bebida"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/azul-garante-compromisso-de-investimento-de-us650-milhoes/",
         "title": "Azul Garante Compromisso de Investimento de Us$650 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-02T152156Z_1_LYNXMPEL7105Y_RTROPTP_4_AZUL-M-A-GOL-LINHAS-AE-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-02T002904Z_1_LYNXMPEL71009_RTROPTP_4_USA-ECONOMY-TRUMP-300x200.jpg",
         "date": "02/08/2025",
         "description": "Apesar das críticas, presidente americano indica que Powell deve seguir até o fim do mandato"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/lula-diz-que-brasil-sempre-esteve-aberto-a-dialogo-com-eua/",
-        "title": "Lula Diz Que Brasil Sempre Esteve Aberto a Diálogo com EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-11-300x200.jpg",
-        "date": "02/08/2025",
-        "description": "Governo buscará diálogo com Trump, mas tomará medidas para proteger empresas e trabalhadores"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/a-historia-do-fast-food-das-feiras-medievais-ao-drive-thru/",
-        "title": "A História do Fast-Food: das Feiras Medievais Ao Drive-Thru",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_McDonalds_01AGO2025_NurPhotoGetty-300x200.jpg",
-        "date": "02/08/2025",
-        "description": "Séculos antes do hambúrguer do McDonald's, vendedores de rua já ofereciam refeições prontas em mercados medievais na Europa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/como-esta-familia-bilionaria-esta-prosperando-apesar-do-colapso-da-industria-naval-americana/",
-        "title": "Como Esta Família Bilionária Está Prosperando Apesar do Colapso da Indústria Naval Americana",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-28-300x200.jpg",
-        "date": "02/08/2025",
-        "description": "Thomas Crowley Jr., da terceira geração à frente da Crowley Maritime, descobriu como navegar pelas leis protecionistas dos Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/iphone-17-pro-vazamento-traz-detalhes-de-design-e-cor/",
-        "title": "iPhone 17 Pro: Vazamento Traz Detalhes de Design e Cor",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/iPhone-16-Pro-300x200.png",
-        "date": "02/08/2025",
-        "description": "Já houve relatos de que o modelo será mais grosso do que nunca , que o logotipo da Apple na parte traseira poderá mudar de posição e que os telefones poderão incluir novos tamanhos de tela"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/consagrado-por-wall-street-ceo-da-startup-de-design-figma-se-torna-bilionario/",
-        "title": "Consagrado Por Wall Street: CEO da Startup de Design Figma se Torna Bilionário",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2-300x200.jpg",
-        "date": "02/08/2025",
-        "description": "A empresa, que abriu capital na Bolsa de Valores de Nova York na quinta-feira (31), agora vale quase US$ 70 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/os-lugares-favoritos-de-bad-bunny-em-porto-rico-e-como-visitar-cada-um/",
-        "title": "Os Lugares Favoritos de Bad Bunny em Porto Rico",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/FEED_GB_OK-2-300x200.jpg",
-        "date": "02/08/2025",
-        "description": "De Santurce à ilha Palomino, veja como planejar uma viagem pela ilha seguindo as letras do astro latino, que transforma paisagens da sua terra natal em música"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/08/mercado-de-vinhos-no-japao-tem-crescimento-rapido-com-foco-em-vinhos-naturais/",
-        "title": "Mercado de Vinhos no Japão Tem Crescimento Rápido com Foco em Vinhos Naturais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/WSB_VinhoJapones_01AGO2025_NTPhotographyGetty-300x200.jpg",
-        "date": "02/08/2025",
-        "description": "A produção no país mais que dobrou em 16 anos e atrai importadores que buscam vinhos com terroir bem definido"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/por-que-2026-sera-o-ano-de-anne-hathaway/",
-        "title": "Entenda Por Que 2026 Será o Ano de Anne Hathaway",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/anne-hathaway-forbes-cinema-300x200.jpg",
-        "date": "02/08/2025",
-        "description": "Atriz retorna aos cinemas com pelo menos seis filmes ao longo do ano, entre sequências aguardadas e produções inéditas; confira"
     }
 ]
