@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/demanda-por-frango-faz-tyson-foods-aumentar-previsao-de-receita/",
+        "title": "Demanda por Frango Faz Tyson Foods Aumentar Previsão de Receita",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_TysonFoods_4AGO2025_JustinSullivan_GettyImages-300x200.jpg",
+        "date": "04/08/2025",
+        "description": "As margens de lucro aumentaram nos negócios de frango e alimentos preparados durante o trimestre"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/forbes-mulher-agro-como-tarifaco-de-trump-impacta-o-setor-sucroenergetico-no-nordeste/",
+        "title": "Como Tarifaço de Trump Impacta o Setor Sucroenergético no Nordeste",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_SetorSucroenergetico_4AGO2025_MailsonPignata_GettyImages-300x200.jpg",
+        "date": "04/08/2025",
+        "description": "A tarifa de 50% afeta diretamente a dinâmica econômica do setor ao distorcer mercados, pressionar preços e reduzir incentivos à exportação"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/mercado-reduz-projecao-para-inflacao-neste-ano-pela-10a-semana-seguida/",
         "title": "Mercado Reduz Projeção para Inflação Neste Ano Pela 10ª Semana Seguida",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/BC-Focus-Money-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/AgustinaHobbsEPaulHobbs_01AGO2025_SenaSebastian-300x200.jpg",
         "date": "04/08/2025",
         "description": "Filha do famoso enólogo Paul Hobbs, ela aposta no terroir de Coombsville para estrear em Napa Valley, na Califórnia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/entenda-por-que-a-apple-pode-adiar-o-lancamento-do-iphone-17/",
-        "title": "Entenda por Que a Apple Pode Adiar o Lançamento do iPhone 17",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/08/iPhone-15-Pro-Max.2-300x200.png",
-        "date": "04/08/2025",
-        "description": "Se os quatro modelos forem lançados na mesma data, as pré-encomendas quase certamente abrirão na sexta-feira após a apresentação, ou seja, sexta-feira, 12 de setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/os-destinos-mais-seguros-do-mundo-para-proteger-e-multiplicar-riqueza-no-longo-prazo/",
-        "title": "Os Destinos Mais Seguros do Mundo para Proteger e Multiplicar Riqueza no Longo Prazo",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/03/Money_dinheiro_fortunas-300x200.jpg",
-        "date": "04/08/2025",
-        "description": "Estudo aponta que, para ter sucesso, não é mais preciso escapar do “radar”, mas de saber navegar dentro dele"
     }
 ]
