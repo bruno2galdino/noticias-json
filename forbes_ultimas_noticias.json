@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/plantio-de-soja-no-brasil-deve-avancar-2-e-safra-2025-26-pode-bater-recorde/",
+        "title": "Plantio de Soja no Brasil Deve Avançar 2%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/agro_colheita_Soja_28fev25_REUTERSDiego-Vara-300x200.jpg",
+        "date": "04/08/2025",
+        "description": "Céleres estimou em 48,6 milhões de hectares a área plantada para o novo ciclo, com plantio a partir de setembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/ambev-e-savixx-investem-r-90-mi-em-nova-estrutura-no-porto-do-rio/",
+        "title": "Ambev e Savixx Investem R$ 90 Mi em Nova Estrutura no Porto do Rio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/ambev_forbesmoney-300x200.jpg",
+        "date": "04/08/2025",
+        "description": "Investimento é parte de estratégia para ampliar eficiência logística"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/08/serie-wandinha-retorna-com-segunda-temporada-focada-na-familia-e-nas-mulheres/",
         "title": "Elenco de \"Wandinha\" Revela o Que Esperar da Nova Temporada",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/wandinha-jenna-ortega-forbes-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-04T104212Z_1_LYNXMPEL730DU_RTROPTP_4_BP-WIND-ENERGY-LP-POWER-300x200.jpg",
         "date": "04/08/2025",
         "description": "Após resultados fracos com renováveis, petroleira britânica retoma foco em petróleo e gás para atrair investidores e impulsionar ações"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/nova-safra-de-soja-do-brasil-deve-crescer-56-diz-stonex/",
-        "title": "Nova Safra de Soja do Brasil Deve Crescer 5,6%, Diz StoneX",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_SojaPlantada_4AGO2025_DesignPicsEditorial-_GettyImages-300x200.jpg",
-        "date": "04/08/2025",
-        "description": "A primeira estimativa da consultoria para o ciclo 2025/26 espera aumentos da área plantada e da produtividade média nacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/demanda-por-frango-faz-tyson-foods-aumentar-previsao-de-receita/",
-        "title": "Demanda por Frango Faz Tyson Foods Aumentar Previsão de Receita",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_TysonFoods_4AGO2025_JustinSullivan_GettyImages-300x200.jpg",
-        "date": "04/08/2025",
-        "description": "As margens de lucro aumentaram nos negócios de frango e alimentos preparados durante o trimestre"
     }
 ]
