@@ -1,7 +1,14 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/08/alexandre-de-moraes-decreta-prisao-domiciliar-do-ex-presidente-jair-bolsonaro/",
+        "title": "Alexandre de Moraes Decreta Prisão Domiciliar do Ex-presidente Jair Bolsonaro",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/03/Jair-Bolsonaro-Reuters-300x200.jpg",
+        "date": "04/08/2025",
+        "description": "No mês passado, o ministro havia obrigado o ex-presidente a utilizar tornozeleira eletrônica"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-fecha-em-leve-alta-com-divulgacoes-de-balancos-em-destaque/",
-        "title": "Ibovespa Fecha em Leve Alta com Divulgações de Balanços em Destaque",
+        "title": "Com Noticiário Corporativo em Alta, Ibovespa Fecha em Leve Alta",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-10-300x200.png",
         "date": "04/08/2025",
         "description": "Já o dólar recuou pela segunda sessão seguida, a 0,69%"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-04T140555Z_1_LYNXMPEL730JO_RTROPTP_3_BRAZIL-ETHANOL-300x200.jpg",
         "date": "04/08/2025",
         "description": "Com clima mais seco e lavouras maduras, produtores aceleram a colheita, que deve seguir em ritmo forte nos próximos dias, aponta relatório"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/azul-firma-contrato-de-apoio-bca-com-stakeholders-de-us-650-mi/",
-        "title": "Azul firma contrato de apoio \"BCA\" com stakeholders de US$ 650 Mi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-04T095120Z_1_LYNXMPEL730C3_RTROPTP_4_MERCADOS-BRASIL-AZUL-300x200.jpg",
-        "date": "04/08/2025",
-        "description": "Acordo de garantia (BCA) ainda depende de aprovação do Tribunal dos EUA para avançar"
     }
 ]
