@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-semana-comeca-com-incerteza-sobre-juro-nos-eua/",
+        "title": "Pré-mercado: Semana Começa com Incerteza sobre Juro nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "04/08/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 4 de agosto"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/nao-quero-ser-so-produtiva-quero-estar-presente-e-feliz-diz-anitta/",
+        "title": "“Não Quero Ser Só Produtiva, Quero Estar Presente e Feliz”, Diz Anitta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-13-300x200.jpg",
+        "date": "04/08/2025",
+        "description": "Artista fala sobre conquistas, moda como expressão e sua participação na campanha que marca a chegada de varejista sueca ao Brasil"
+    },
+    {
         "url": "https://forbes.com.br/manchete-2/2025/08/ted-ketterer-da-coca-cola-inspirar-e-fundamental-na-trajetoria-de-um-lider/",
         "title": "Ted Ketterer, da Coca-Cola: “Inspirar É Fundamental na Trajetória de um Líder\"",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Captura-de-Tela-2025-06-27-as-13.19.35-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-16-300x200.jpg",
         "date": "03/08/2025",
         "description": "Com estratégia arriscada, Norris vence após disputa acirrada com Piastri; Bortoleto brilha com melhor resultado na F1"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/china-habilita-183-exportadoras-brasileiras-de-cafe/",
-        "title": "China Habilita 183 Exportadoras Brasileiras de Café",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-15-300x200.jpg",
-        "date": "03/08/2025",
-        "description": "Medida favorece exportadores brasileiros em meio a restrições impostas pelos Estados Unidos ao café nacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/desanimado-hamilton-diz-ser-inutil-e-que-ferrari-deveria-substitui-lo/",
-        "title": "Desanimado, Hamilton diz ser \"inútil\" e que Ferrari deveria substituí-lo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-14-300x200.jpg",
-        "date": "03/08/2025",
-        "description": "Após fraco desempenho no treino classificatório na Hungria, piloto britânico admite frustração e afirma que equipe “provavelmente precisa trocar de piloto\""
     }
 ]
