@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/mercado-reduz-projecao-para-inflacao-neste-ano-pela-10a-semana-seguida/",
+        "title": "Mercado Reduz Projeção para Inflação Neste Ano Pela 10ª Semana Seguida",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/BC-Focus-Money-300x200.png",
+        "date": "04/08/2025",
+        "description": "Ainda assim, 2025 deve ter um IPCA acima da meta de 3% estabelecida pelo Banco Central"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/tesla-aprova-premio-em-acoes-de-us-29-bi-para-elon-musk/",
+        "title": "Tesla Aprova Prêmio em Ações de US$ 29 Bi para Elon Musk",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tesla-Robotaxi-Elon-Musk-300x200.png",
+        "date": "04/08/2025",
+        "description": "Bilionário recebeu no total 96 milhões de papéis da empresa, enquanto luta contra decisão judicial que anulou sua remuneração original"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-semana-comeca-com-incerteza-sobre-juro-nos-eua/",
         "title": "Pré-mercado: Semana Começa com Incerteza sobre Juro nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/03/Money_dinheiro_fortunas-300x200.jpg",
         "date": "04/08/2025",
         "description": "Estudo aponta que, para ter sucesso, não é mais preciso escapar do “radar”, mas de saber navegar dentro dele"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/veja-como-vai-funcionar-o-chatgpt-no-excel/",
-        "title": "O Fim das Fórmulas Gigantes: ChatGPT Poderá Operar uma Planilha Sozinho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Excel-300x200.webp",
-        "date": "04/08/2025",
-        "description": "A nova plataforma da OpenAI alega-se, será capaz de abrir uma planilha, preenchê-la e criar resultados sozinho, sem supervisão humana, esse é um novo domínio da automação que deve mudar muita coisa"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/norris-segura-piastri-para-vencer-gp-da-hungria-bortoleto-e-6o/",
-        "title": "Norris Segura Piastri para Vencer GP da Hungria; Bortoleto É 6º",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-16-300x200.jpg",
-        "date": "03/08/2025",
-        "description": "Com estratégia arriscada, Norris vence após disputa acirrada com Piastri; Bortoleto brilha com melhor resultado na F1"
     }
 ]
