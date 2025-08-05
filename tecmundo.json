@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/ciencia/406139-oculos-vr-alivia-alucinacoes-em-pacientes-com-esquizofrenia-revela-estudo.htm",
+        "title": "Óculos VR alivia alucinações em pacientes com esquizofrenia, revela estudo",
+        "description": "Estudo dinamarquês demonstra que terapia imersiva com VR pode reduzir a gravidade e frequência de vozes em adultos.",
+        "image": "https://tm.ibxk.com.br/2025/08/04/04174520983319.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/406160-jbl-lanca-boombox-4-no-brasil-com-bateria-maior-ia-e-led-veja-detalhes.htm",
+        "title": "JBL lança Boombox 4 no Brasil com bateria maior, IA e LED; veja detalhes",
+        "description": "A JBL Boombox 4, caixa de som destaque da marca chega com novidades como LED e bateria maior.",
+        "image": "https://tm.ibxk.com.br/2025/08/05/05174653994133.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/406163-competicao-oferece-ate-1-milhao-a-quem-descobrir-brecha-de-seguranca-no-whatsapp.htm",
+        "title": "Competição oferece até 1 milhão a quem descobrir brecha de segurança no WhatsApp",
+        "description": "Patrocinadora do evento, a Meta vai pagar até US$ 1 milhão a quem descobrir uma brecha de segurança no WhatsApp no Pwn2Own de outubro",
+        "image": "https://tm.ibxk.com.br/2025/05/16/16111139182137.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/406171-a-compra-comeca-no-comentario-o-novo-comportamento-do-consumidor-digital-coluna.htm",
+        "title": "A compra começa no comentário: o novo comportamento do consumidor digital [Coluna]",
+        "description": "A decisão de compra começa em uma conversa no chat, um comentário em rede social ou até na sugestão feita por um agente virtual movido por IA.",
+        "image": "https://tm.ibxk.com.br/2025/08/05/05183636265006.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406164-pesquisa-descobre-brechas-criticas-em-plataforma-de-ia-da-nvidia.htm",
+        "title": "Pesquisa descobre brechas críticas em plataforma de IA da Nvidia",
+        "description": "Ambiente para testagem de inteligência artificial poderia ser explorado por vulnerabilidades de alta periculosidade e expor dados",
+        "image": "https://tm.ibxk.com.br/2025/08/05/05155320734067.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406138-conversas-no-chatgpt-nao-tem-sigilo-alerta-sam-altman.htm",
+        "title": "Conversas no ChatGPT não têm sigilo, alerta Sam Altman",
+        "description": "CEO da OpenAI revela que diálogos e desabafos com a IA, não são legalmente confidenciais e podem ser exigidos pela Justiça.",
+        "image": "https://tm.ibxk.com.br/2025/08/04/04173213884301.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/601821-10-filmes-e-series-para-assistir-na-netflix-em-agosto.htm",
         "title": "10 filmes e séries para assistir na Netflix em agosto",
         "description": "O que assistir na Netflix em agosto? Confira 10 filmes e séries quentes que valem o seu tempo e que devem bombar no streaming neste mês!",
@@ -18,27 +60,6 @@
         "title": "Como conseguir keys para o beta grátis de Battlefield 6?",
         "description": "O Voxel preparou um guia prático para você saber como jogar o beta aberto e gratuito de Battlefield 6 este mês! Confira o tutorial",
         "image": "https://tm.ibxk.com.br/2025/08/05/05132308746238.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/406153-airpods-pro-3-saiba-o-que-esperar-do-novo-fone-da-apple-que-pode-ser-lancado-em-breve.htm",
-        "title": "AirPods Pro 3: saiba o que esperar do novo fone da Apple que pode ser lançado em breve",
-        "description": "A próxima geração do fone premium da Apple deve ganhar cancelamento de ruído aprimorado, sensores de saúde e tradução em tempo real, entre outras novidades.",
-        "image": "https://tm.ibxk.com.br/2025/08/05/05135637370261.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/406150-descontos-na-netshoes-nike-adidas-e-mais-com-ate-80-off.htm",
-        "title": "Descontos na Netshoes: Nike, Adidas e mais com até 80% OFF",
-        "description": "Confira agora uma seleção de ofertas em produtos esportivos na Netshoes e garanta tênis, camisetas, acessórios e até suplementos a preços mais baixos por tempo limitado",
-        "image": "https://tm.ibxk.com.br/2025/08/05/05104118746023.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/601822-apos-quase-10-anos-cena-pos-creditos-do-mcu-finalmente-ganhara-continuacao.htm",
-        "title": "Após quase 10 anos, cena pós créditos do MCU finalmente ganhará continuação",
-        "description": "Uma cena de Homem-Aranha: De Volta ao Lar finalmente vai ganhar consequências em Brand New Day",
-        "image": "https://tm.ibxk.com.br/2025/08/05/05144743866021.jpg",
         "date": null
     }
 ]
