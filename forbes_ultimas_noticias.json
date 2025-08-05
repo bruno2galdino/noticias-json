@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-fecha-em-alta-com-apoio-de-itau-antes-de-balanco/",
+        "title": "Ibovespa Fecha em Alta com Apoio de Itaú Antes de Balanço",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-11-300x200.png",
+        "date": "05/08/2025",
+        "description": "Dólar encerra o dia praticamente estável com tarifas e Ata do Copom no radar"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/brasil-movimentou-r-5-bi-em-stablecoins-atreladas-ao-real-em-2024/",
+        "title": "Brasil Movimentou R$ 5 Bi em Stablecoins Atreladas ao Real em 2024",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/05/Stablecoins-Getty-300x200.jpg",
+        "date": "05/08/2025",
+        "description": "Moedas estão sendo mais utilizadas, mas enfrentam desafios como a baixa liquidez"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/os-substitutos-de-jerome-powell-trump-afirma-que-tem-4-nomes-em-mente-para-o-comando-do-fed/",
+        "title": "Os Substitutos de Jerome Powell? Trump Afirma Que Tem 4 Nomes em Mente para o Comando do Fed",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/donald-trump-300x200.jpg",
+        "date": "05/08/2025",
+        "description": "Entre as possíveis nomeações estão o ex-diretor do Fed Kevin Warsh e o diretor do Conselho Econômico Nacional Kevin Hassett"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/08/brasil-fica-de-fora-de-caucao-de-ate-r-82-mil-para-visto-dos-eua-veja-lista-de-paises/",
         "title": "Brasil Fica de Fora de Caução de até R$ 82 Mil para Visto dos EUA; Veja Lista de Países",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Essa-nao-e-a-primeira-vez-que-o-governo-americano-tenta-implementar-a-exigencia-de-caucao-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/tarifas-brasil-eua-forbes-300x200.jpg",
         "date": "05/08/2025",
         "description": "Impacto relativamente baixo acontece graças às amplas exceções à taxação e ao fortalecimento das relações comerciais com a China"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/08/apesar-de-pressoes-brasil-rejeita-tirar-a-cop30-de-belem/",
-        "title": "Apesar de Pressões, Brasil Rejeita Tirar a COP30 de Belém",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-04T210852Z_1_LYNXMPEL730U1_RTROPTP_4_BRAZIL-RELIGION-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Países em desenvolvimento alertam que alta nos preços de acomodações em Belém dificulta hospedagem devido à escassez de quartos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/bb-seguridade-corta-projecoes-para-o-ano-apesar-de-alta-no-lucro-recorrente-do-2o-tri/",
-        "title": "BB Seguridade Corta Projeções para o Ano Apesar de Alta no Lucro Recorrente do 2º Tri",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Money_BB-Seguridade-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Braço de seguros do Banco do Brasil, a empresa superou as expectativas do mercado ao registrar lucro recorrente de R$ 2,24 bilhões no segundo trimestre"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/assembleia-de-acionistas-da-brf-aprova-fusao-com-marfrig/",
-        "title": "Assembleia de Acionistas da BRF Aprova Fusão com Marfrig",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_BRF_25jun21_REUTERS_Rodolfo-Buhrer-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "A consumação da incorporação de ações ainda depende da aprovação pela assembleia geral extraordinária da Marfrig"
     }
 ]
