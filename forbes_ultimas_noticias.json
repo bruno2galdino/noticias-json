@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/exclusao-de-grandes-produtores-marca-tratativas-do-brasil-para-vender-carne-ao-japao/",
+        "title": "Exclusão de Grandes Produtores Marca Tratativas do Brasil para Vender Carne Ao Japão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_bovinos_angus_04ago25_REUTERSJose-Luis-Gonzalez-300x200.jpg",
+        "date": "05/08/2025",
+        "description": "Negociações priorizam fornecedores do Sul, que representam menos de 4% das exportações, e deixam de fora Estados responsáveis por quase 60% do volume enviado ao exterior"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/colombia-tem-maior-producao-de-cafe-arabica-lavado-para-julho-em-uma-decada/",
+        "title": "Colômbia Tem Maior Produção de Café Arábica Lavado para Julho em Uma Década",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cafe_04ago25_Reuters_Khaled-Abdullah-300x200.jpg",
+        "date": "05/08/2025",
+        "description": "Chuvas no primeiro semestre atrasaram a colheita e impulsionaram a produção para 1,37 milhão de sacas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-fecha-em-alta-com-apoio-de-itau-antes-de-balanco/",
         "title": "Ibovespa Fecha em Alta com Apoio de Itaú Antes de Balanço",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-11-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_MilhoConab_10JUl2025_Getty-300x200.jpg",
         "date": "05/08/2025",
         "description": "Companhia projeta ter um megacomplexo de biocombustíveis aproveitando as potencialidades da região"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/embraer-mantem-previsoes-para-2025-apos-evitar-tarifa-mais-alta-dos-eua/",
-        "title": "Embraer Mantém Previsões para 2025 após Evitar Tarifa Mais Alta dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/tarifas-embraer-forbes-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Companhia teve um resultado operacional medido pelo Ebitda ajustado de R$ 1,39 bilhão, avanço sobre os R$ 995,5 milhões de um ano antes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/economia-brasileira-deve-sentir-impacto-mas-suportar-tarifas-de-50-de-trump/",
-        "title": "Economia Brasileira Deve Sentir Impacto, Mas Suportar Tarifas de 50% de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/tarifas-brasil-eua-forbes-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Impacto relativamente baixo acontece graças às amplas exceções à taxação e ao fortalecimento das relações comerciais com a China"
     }
 ]
