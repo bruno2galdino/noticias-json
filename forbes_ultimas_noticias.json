@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/com-o-aumento-de-ataques-ciberneticos-cisos-ganham-cada-vez-mais-espaco-estrategico/",
+        "title": "Com o Aumento de Ataques Cibernéticos, CISOs Ganham Cada Vez Mais Espaço Estratégico",
+        "image": "https://forbes.com.br/wp-content/uploads/2015/07/hacker.jpg",
+        "date": "06/08/2025",
+        "description": "O Chief Information Security Officer evoluiu de técnico e focado em gestão de softwares para desempenhar um papel cada vez mais executivo e estratégico"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-tarifas-comecam-hoje-com-investidores-em-compasso-de-espera/",
+        "title": "Pré-mercado: Tarifas Começam Hoje com Investidores em Compasso de Espera",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "06/08/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 6 de agosto"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/08/rotulos-nutricionais-de-ia-vp-explica-iniciativa-da-motorola-solutions/",
         "title": "“Rótulos Nutricionais de IA”: VP Explica Iniciativa da Motorola Solutions",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Motorola-Solutions-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/1-300x200.png",
         "date": "06/08/2025",
         "description": "De item colecionável e uma espécie de moeda emocional a fragilidade de uma marca por meio de falsificações"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/08/capacidade-de-absorcao-de-co2-nas-florestas-europeias-esta-em-declinio/",
-        "title": "Capacidade de Absorção de CO2 nas Florestas Europeias Está em Declínio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_floresta_Austria__04ago25_Zoltan-Kalmar_Pixabay_ForbesPortugal-300x200.jpg",
-        "date": "06/08/2025",
-        "description": "Estudo publicado na Nature mostra queda de quase um terço, colocando em risco as metas de neutralidade carbônica da UE para 2050"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/exclusao-de-grandes-produtores-marca-tratativas-do-brasil-para-vender-carne-ao-japao/",
-        "title": "Exclusão de Grandes Produtores Marca Tratativas do Brasil para Vender Carne Ao Japão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_bovinos_angus_04ago25_REUTERSJose-Luis-Gonzalez-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Negociações priorizam fornecedores do Sul, que representam menos de 4% das exportações, e deixam de fora Estados responsáveis por quase 60% do volume enviado ao exterior"
     }
 ]
