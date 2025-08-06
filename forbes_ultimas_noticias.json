@@ -1,72 +1,72 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/rotulos-nutricionais-de-ia-vp-explica-iniciativa-da-motorola-solutions/",
+        "title": "“Rótulos Nutricionais de IA”: VP Explica Iniciativa da Motorola Solutions",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Motorola-Solutions-300x200.png",
+        "date": "06/08/2025",
+        "description": "Em entrevista à Forbes Brasil, Elton Borgonovo, vice-presidente da companhia para a América Latina, fala sobre a solução inédita de transparência"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/08/startups-de-ia-adotam-modelo-de-trabalho-chines-9-9-6-entenda/",
+        "title": "Startups de IA Adotam Modelo de Trabalho Chinês 9-9-6; Entenda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-trabalho-burnout-300x200.jpg",
+        "date": "06/08/2025",
+        "description": "Regime impõe jornadas das 9h às 21h, seis dias por semana – apesar de estudos mostrarem que mais horas de trabalho não significam mais produtividade"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/08/4-ingredientes-essenciais-para-um-relacionamento-feliz/",
+        "title": "4 Ingredientes Essenciais para um Relacionamento Feliz",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Relacionamento-1-300x200.jpg",
+        "date": "06/08/2025",
+        "description": "Pesquisa revela como a satisfação na vida a dois está intimamente ligada a quatro fatores distintos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/tarifaco-americano-ameaca-quebrar-decada-dourada-do-agro-brasileiro/",
+        "title": "Tarifaço Americano Ameaça Quebrar Década Dourada do Agro Brasileiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_navio_exportacao_-05ago25__Ugurhan_Getty-300x200.jpg",
+        "date": "06/08/2025",
+        "description": "Os 50% a partir desta quarta (6) podem custar US$ 5,8 bilhões ao setor que cresceu 93% nos EUA entre 2015 e 2024"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/como-o-envelhecimento-populacional-global-esta-redefinindo-a-economia/",
+        "title": "Como o Envelhecimento Populacional Global Está Redefinindo a Economia?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/GettyImages-71285438-1-300x200.jpg",
+        "date": "06/08/2025",
+        "description": "Apesar dos desafios, a longevidade abre caminho para novas oportunidades de investimentos. O banco suíço Lombard Odier traz uma análise sobre o velho novo futuro"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/08/conhaque-em-queda-afeta-receita-da-lvmh-no-primeiro-semestre-de-2025/",
+        "title": "Conhaque em Queda Afeta Receita da LVMH no Primeiro Semestre de 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/WSB_ConhaqueHennessy_5AGO2025_BudrulChukrutSOPAImagesLightRocketGetty-Images-300x200.jpg",
+        "date": "06/08/2025",
+        "description": "A Moët Hennessy, marca de vinhos e destilados do grupo, registrou diminuição de 8% em sua receita"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/10-aquarios-incriveis-ao-redor-do-mundo-que-valem-a-visita/",
+        "title": "10 Aquários Incríveis Ao Redor do Mundo Que Valem a Visita",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Pai-e-filha-observando-tubaroes-no-aquario-300x200.jpg",
+        "date": "06/08/2025",
+        "description": "Do maior aquário da Europa ao Musée Océanographique de Monaco, inaugurado pelo príncipe Albert I, confira alguns dos melhores aquários para conhecer"
+    },
+    {
+        "url": "https://forbes.com.br/manchete-2/2025/08/adeus-labubu-a-ascensao-e-queda-da-boneca-que-virou-febre-no-tiktok/",
+        "title": "Adeus, Labubu? a Ascensão e Queda da Boneca Febre no TikTok",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/1-300x200.png",
+        "date": "06/08/2025",
+        "description": "De item colecionável e uma espécie de moeda emocional a fragilidade de uma marca por meio de falsificações"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/08/capacidade-de-absorcao-de-co2-nas-florestas-europeias-esta-em-declinio/",
+        "title": "Capacidade de Absorção de CO2 nas Florestas Europeias Está em Declínio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_floresta_Austria__04ago25_Zoltan-Kalmar_Pixabay_ForbesPortugal-300x200.jpg",
+        "date": "06/08/2025",
+        "description": "Estudo publicado na Nature mostra queda de quase um terço, colocando em risco as metas de neutralidade carbônica da UE para 2050"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/exclusao-de-grandes-produtores-marca-tratativas-do-brasil-para-vender-carne-ao-japao/",
         "title": "Exclusão de Grandes Produtores Marca Tratativas do Brasil para Vender Carne Ao Japão",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_bovinos_angus_04ago25_REUTERSJose-Luis-Gonzalez-300x200.jpg",
         "date": "05/08/2025",
         "description": "Negociações priorizam fornecedores do Sul, que representam menos de 4% das exportações, e deixam de fora Estados responsáveis por quase 60% do volume enviado ao exterior"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/entregas-de-fertilizantes-no-brasil-crescem-e-ja-totalizam-1583-mi-de-toneladas-no-ano/",
-        "title": "Entregas de Fertilizantes no Brasil Crescem e Já Totalizam 15,83 Mi de Toneladas no Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_fertilizante_-04ago25_Monty-Rakusen_Getty-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Avanço foi impulsionado por maiores importações e produção nacional, com Mato Grosso liderando o consumo no período"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/bb-seguridade-ve-estabilidade-e-ajuste-de-precos-no-seguro-agricola/",
-        "title": "BB Seguridade Vê Estabilidade e Ajuste de Preços no Seguro Agrícola",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_financas_-04ago25_Krongkaew_getty-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Diretor financeiro afirma que não há previsão de impacto climático relevante e indica payout maior aos acionistas no segundo semestre"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/colombia-tem-maior-producao-de-cafe-arabica-lavado-para-julho-em-uma-decada/",
-        "title": "Colômbia Tem Maior Produção de Café Arábica Lavado para Julho em Uma Década",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cafe_04ago25_Reuters_Khaled-Abdullah-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Chuvas no primeiro semestre atrasaram a colheita e impulsionaram a produção para 1,37 milhão de sacas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-fecha-em-alta-com-apoio-de-itau-antes-de-balanco/",
-        "title": "Ibovespa Fecha em Alta com Apoio de Itaú Antes de Balanço",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-11-300x200.png",
-        "date": "05/08/2025",
-        "description": "Dólar encerra o dia praticamente estável com tarifas e Ata do Copom no radar"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/brasil-movimentou-r-5-bi-em-stablecoins-atreladas-ao-real-em-2024/",
-        "title": "Brasil Movimentou R$ 5 Bi em Stablecoins Atreladas ao Real em 2024",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/05/Stablecoins-Getty-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Moedas estão sendo mais utilizadas, mas enfrentam desafios como a baixa liquidez"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/os-substitutos-de-jerome-powell-trump-afirma-que-tem-4-nomes-em-mente-para-o-comando-do-fed/",
-        "title": "Os Substitutos de Jerome Powell? Trump Afirma Que Tem 4 Nomes em Mente para o Comando do Fed",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/donald-trump-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Entre as possíveis nomeações estão o ex-diretor do Fed Kevin Warsh e o diretor do Conselho Econômico Nacional Kevin Hassett"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/brasil-fica-de-fora-de-caucao-de-ate-r-82-mil-para-visto-dos-eua-veja-lista-de-paises/",
-        "title": "Brasil Fica de Fora de Caução de até R$ 82 Mil para Visto dos EUA; Veja Lista de Países",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Essa-nao-e-a-primeira-vez-que-o-governo-americano-tenta-implementar-a-exigencia-de-caucao-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Nova exigência do governo americano, que entra em vigor em 20 de agosto, atinge visto de turismo e negócios"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/vietna-enfrenta-agravamento-de-surtos-de-peste-suina-africana/",
-        "title": "Vietnã Enfrenta Agravamento de Surtos de Peste Suína Africana",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/09/ForbesAgro_Suino_America_03092021_Rodolfo-Buhrer_Reuters-e1656620021514.jpg",
-        "date": "05/08/2025",
-        "description": "Número de porcos infectados mais do que triplicou em apenas duas semanas"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/08/saber-reclamar-pode-mudar-seu-cerebro-e-sua-vida/",
-        "title": "Saber Reclamar Pode Mudar Seu Cérebro e Sua Vida",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/GettyImages-1431382581-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Queixar-se constantemente, no entanto, distorce a percepção da realidade, afeta relações e prejudica a saúde mental"
     }
 ]
