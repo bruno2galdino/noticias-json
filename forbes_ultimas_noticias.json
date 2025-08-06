@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/veredicto-sobre-autopilot-ameaca-ambicoes-de-musk-com-tesla/",
+        "title": "Veredicto sobre Autopilot Ameaça Ambições de Musk com Tesla",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tesla-Elon-Musk-Tech-Money-300x200.png",
+        "date": "06/08/2025",
+        "description": "CEO da empresa quer expandir rapidamente os serviços de robotáxi nos Estados Unidos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/tarifas-em-setores-cruciais-podem-durar-alem-da-era-trump-aponta-jp-morgan/",
+        "title": "Tarifas em Setores Cruciais Podem Durar Além da era Trump, Aponta JP Morgan",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Donald-Trump-Tarifaco-JP-Morgan-300x200.png",
+        "date": "06/08/2025",
+        "description": "Segundo relatório do Centro para Geopolítica do banco, nova política foi adotada para melhorar setores estratégicos dos EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/08/com-o-aumento-de-ataques-ciberneticos-cisos-ganham-cada-vez-mais-espaco-estrategico/",
         "title": "Com o Aumento de Ataques Cibernéticos, CISOs Ganham Cada Vez Mais Espaço Estratégico",
         "image": "https://forbes.com.br/wp-content/uploads/2015/07/hacker.jpg",
@@ -12,6 +26,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "06/08/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 6 de agosto"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/brandvoice-totvs-um-novo-passo-da-ia-aplicada-aos-negocios/",
+        "title": "Um Novo Passo da Ia Aplicada Aos Negócios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/bv-totvs-ago-300x200.png",
+        "date": "06/08/2025",
+        "description": "TOTVS aposta na ampliação do acesso das empresas à inteligência artificial para aumentar a eficiência e competitividade dos negócios"
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/08/rotulos-nutricionais-de-ia-vp-explica-iniciativa-da-motorola-solutions/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/GettyImages-71285438-1-300x200.jpg",
         "date": "06/08/2025",
         "description": "Apesar dos desafios, a longevidade abre caminho para novas oportunidades de investimentos. O banco suíço Lombard Odier traz uma análise sobre o velho novo futuro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/08/conhaque-em-queda-afeta-receita-da-lvmh-no-primeiro-semestre-de-2025/",
-        "title": "Conhaque em Queda Afeta Receita da LVMH no Primeiro Semestre de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/WSB_ConhaqueHennessy_5AGO2025_BudrulChukrutSOPAImagesLightRocketGetty-Images-300x200.jpg",
-        "date": "06/08/2025",
-        "description": "A Moët Hennessy, marca de vinhos e destilados do grupo, registrou diminuição de 8% em sua receita"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/10-aquarios-incriveis-ao-redor-do-mundo-que-valem-a-visita/",
-        "title": "10 Aquários Incríveis Ao Redor do Mundo Que Valem a Visita",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Pai-e-filha-observando-tubaroes-no-aquario-300x200.jpg",
-        "date": "06/08/2025",
-        "description": "Do maior aquário da Europa ao Musée Océanographique de Monaco, inaugurado pelo príncipe Albert I, confira alguns dos melhores aquários para conhecer"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2025/08/adeus-labubu-a-ascensao-e-queda-da-boneca-que-virou-febre-no-tiktok/",
-        "title": "Adeus, Labubu? a Ascensão e Queda da Boneca Febre no TikTok",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/1-300x200.png",
-        "date": "06/08/2025",
-        "description": "De item colecionável e uma espécie de moeda emocional a fragilidade de uma marca por meio de falsificações"
     }
 ]
