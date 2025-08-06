@@ -7,6 +7,20 @@
         "description": "Negociações priorizam fornecedores do Sul, que representam menos de 4% das exportações, e deixam de fora Estados responsáveis por quase 60% do volume enviado ao exterior"
     },
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/entregas-de-fertilizantes-no-brasil-crescem-e-ja-totalizam-1583-mi-de-toneladas-no-ano/",
+        "title": "Entregas de Fertilizantes no Brasil Crescem e Já Totalizam 15,83 Mi de Toneladas no Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_fertilizante_-04ago25_Monty-Rakusen_Getty-300x200.jpg",
+        "date": "05/08/2025",
+        "description": "Avanço foi impulsionado por maiores importações e produção nacional, com Mato Grosso liderando o consumo no período"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/bb-seguridade-ve-estabilidade-e-ajuste-de-precos-no-seguro-agricola/",
+        "title": "BB Seguridade Vê Estabilidade e Ajuste de Preços no Seguro Agrícola",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_financas_-04ago25_Krongkaew_getty-300x200.jpg",
+        "date": "05/08/2025",
+        "description": "Diretor financeiro afirma que não há previsão de impacto climático relevante e indica payout maior aos acionistas no segundo semestre"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/colombia-tem-maior-producao-de-cafe-arabica-lavado-para-julho-em-uma-decada/",
         "title": "Colômbia Tem Maior Produção de Café Arábica Lavado para Julho em Uma Década",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cafe_04ago25_Reuters_Khaled-Abdullah-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/GettyImages-1431382581-300x200.jpg",
         "date": "05/08/2025",
         "description": "Queixar-se constantemente, no entanto, distorce a percepção da realidade, afeta relações e prejudica a saúde mental"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/colheita-de-milho-do-parana-atinge-75-da-area-aponta-deral/",
-        "title": "Colheita de Milho do Paraná Atinge 75% da Área, Aponta Deral",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/forbes-milho-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Trabalhos estão atrasados ante a mesma época do ano passado, quando o Estado havia colhido mais de 90% da área"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/grupo-potencial-investira-r-2-bi-em-usina-de-etanol-de-milho-no-parana/",
-        "title": "Grupo Potencial Investirá R$ 2 Bi em Usina de Etanol de Milho no Paraná",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_MilhoConab_10JUl2025_Getty-300x200.jpg",
-        "date": "05/08/2025",
-        "description": "Companhia projeta ter um megacomplexo de biocombustíveis aproveitando as potencialidades da região"
     }
 ]
