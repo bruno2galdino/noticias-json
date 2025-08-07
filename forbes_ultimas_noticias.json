@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/listas/2025/08/forbes-the-founders-2025-os-empreendedores-que-fazem-a-diferenca/",
+        "title": "Forbes The Founders 2025: os Empreendedores que Fazem a Diferença",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/abre-founder-2025-v2-victor-affaro-e-divulgacao-1-300x200.jpeg",
+        "date": "07/08/2025",
+        "description": "Estreia da lista que homenageia empreendedores que venceram em diversas áreas, do agro à música, da dermocosmética à tecnologia"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-avanca-com-balancos-sob-holofotes-eletrobras-dispara/",
         "title": "Ibovespa Avança com Balanços sob Holofotes; Eletrobras Dispara",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-12-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-tarifas-300x200.jpg",
         "date": "07/08/2025",
         "description": "Presidente dos Estados Unidos disse que a nova taxa tarifária se aplicaria a \"todos os chips e semicondutores que entram no país\""
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/anec-eleva-previsao-de-exportacao-de-milho-do-brasil-em-2025/",
-        "title": "Anec Eleva Previsão de Exportação de Milho do Brasil em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Milho_7AGO2025_mvburling-300x200.jpg",
-        "date": "07/08/2025",
-        "description": "Apesar do aumento da estimativa, o total embarcado deverá ficar abaixo da máxima histórica de 55,6 milhões de toneladas de 2023"
     }
 ]
