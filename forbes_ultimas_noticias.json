@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/tarifas-mais-altas-de-trump-atingem-produtos-dos-principais-parceiros-comerciais-dos-eua/",
+        "title": "Tarifas Mais Altas de Trump Atingem Produtos dos Principais Parceiros Comerciais dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-07T101029Z_1_LYNXMPEL760KO_RTROPTP_4_USA-TRUMP-TARIFFS-300x200.jpg",
+        "date": "07/08/2025",
+        "description": "Estados Unidos iniciam cobrança de tarifas elevadas após impasse e pressão de parceiros comerciais"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/china-importa-recorde-de-soja-em-julho-com-alta-nos-embarques-do-brasil/",
+        "title": "China Importa Recorde de Soja em Julho com Fortes Embarques do Brasil e Incertezas dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-07T112845Z_1_LYNXMPEL760NW_RTROPTP_4_USA-TRADE-CHINA-SOYBEANS-300x200.jpg",
+        "date": "07/08/2025",
+        "description": "Tensões comerciais impulsionam maior compra diária de farelo de soja na China em 2025"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/pedidos-de-auxilio-desemprego-nos-eua-sobem-na-ultima-semana/",
         "title": "Pedidos de Auxílio-desemprego nos EUA Sobem na Última Semana",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/auxilio-desemprego-EUA-economia-Money-300x200.png",
@@ -14,7 +28,7 @@
         "description": "Volume é suficiente para atender às demandas até o final deste ano, enquanto isso, empresa avalia redirecionar suas vendas"
     },
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/apple-anuncia-investimento-de-us-100-bilhoes-nos-eua/",
+        "url": "https://forbes.com.br/forbes-money/2025/08/apple-anuncia-investimento-de-us-100-bilhoes-nos-eua/",
         "title": "Apple Anuncia Investimento de US$ 100 Bilhões nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/trump-tim-cook-300x200.png",
         "date": "07/08/2025",
@@ -50,23 +64,9 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/08/america-latina-esta-exposta-ao-tarifaco-mas-empresas-nao-devem-ter-tanta-dor-de-cabeca/",
-        "title": "América Latina Está Exposta Ao Tarifaço, Mas Empresas Não Devem Ter Tanta Dor de Cabeça com Dívidas",
+        "title": "Tarifaço: Empresas Não Devem Ter Tanta Dor de Cabeça com Dívidas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/America-Latina-economia-Money-300x200.png",
         "date": "07/08/2025",
         "description": "Pesquisa da Moody’s mostra que receita da maioria das companhias latino-americanas depende menos de 10% do mercado americano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/o-futuro-e-agora-como-a-ia-esta-transformando-setores-da-economia/",
-        "title": "O Futuro É Agora: Como a IA Está Transformando Setores da Economia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/IA-Futuro-Economia-300x200.png",
-        "date": "07/08/2025",
-        "description": "Setores como varejo, indústria e educação têm a oportunidade de transformar suas práticas e alcançar novos patamares de eficiência e inovação"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/arte-de-carlito-carvalhosa-em-livro-assinado-por-seis-curadores/",
-        "title": "Arte de Carlito Carvalhosa em Livro Assinado por Seis Curadores",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_0.Carlito-Carvalhosa-Nara-Roesler-Books-2025-300x200.jpg",
-        "date": "07/08/2025",
-        "description": "Esmerada publicação é a mais abrangente sobre obra do grande artista paulistano, oriundo da Casa 7, falecido em 2021 aos 59 anos"
     }
 ]
