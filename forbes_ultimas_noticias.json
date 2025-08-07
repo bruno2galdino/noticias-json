@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/lancamento-do-iphone-17-se-aproxima-tudo-que-sabemos-ate-agora/",
+        "title": "Lançamento do iPhone 17 se Aproxima; Tudo Que Sabemos até Agora",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/iphone-17-300x200.png",
+        "date": "07/08/2025",
+        "description": "Além do iPhone 17, iPhone 17 Pro e o iPhone 17 Pro Max, a Apple trará um modelo totalmente novo"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/patria-agronegocios-ve-menor-avanco-na-area-de-soja-no-brasil-em-quase-20-anos/",
+        "title": "Pátria Agronegócios Vê Menor Avanço na Área de Soja no Brasil em Quase 20 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/agro_colheita_Soja_28fev25_REUTERSDiego-Vara-300x200.jpg",
+        "date": "07/08/2025",
+        "description": "Área plantada com a oleaginosa no país deve atingir 48,13 milhões de hectares"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/pecuaristas-dos-eua-comecam-a-reconstruir-rebanho/",
+        "title": "Pecuaristas dos EUA Começam a Reconstruir Rebanho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-agro-pecuarista-300x200.jpg",
+        "date": "07/08/2025",
+        "description": "Fazendeiros começaram a dar os primeiros passos para aumentar a produção de gado depois que o estoque do país diminuiu devido a uma seca"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/suzano-eleva-em-us-20-o-preco-da-celulose-para-mercado-asiatico/",
+        "title": "Suzano Eleva em US$ 20 o Preço da Celulose para Mercado Asiático",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Suzano_7AGO2025_SOPAImages_GettyImages-300x200.jpg",
+        "date": "07/08/2025",
+        "description": "O reajuste tem efeito imediato para os pedidos de compra de agosto"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/trump-diz-que-eua-cobrarao-tarifa-de-cerca-de-100-sobre-importacoes-de-semicondutores/",
+        "title": "EUA Cobrarão Tarifa de 100% sobre Importações de Semicondutores",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-tarifas-300x200.jpg",
+        "date": "07/08/2025",
+        "description": "Presidente dos Estados Unidos disse que a nova taxa tarifária se aplicaria a \"todos os chips e semicondutores que entram no país\""
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/anec-eleva-previsao-de-exportacao-de-milho-do-brasil-em-2025/",
+        "title": "Anec Eleva Previsão de Exportação de Milho do Brasil em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Milho_7AGO2025_mvburling-300x200.jpg",
+        "date": "07/08/2025",
+        "description": "Apesar do aumento da estimativa, o total embarcado deverá ficar abaixo da máxima histórica de 55,6 milhões de toneladas de 2023"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/saudita-salic-diz-ao-cade-ser-acionista-passivo-da-minerva-e-brf/",
+        "title": "Saudita Salic Diz Ao Cade Ser Acionista Passivo da Minerva e BRF",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_BRF_7AGO2025_RodolfoBuhrer_Reuters-300x200.jpg",
+        "date": "07/08/2025",
+        "description": "A transação entre BRF e Marfrig passa por revisão no Cade após alerta da Minerva sobre participação saudita em empresas concorrentes"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/trump-diz-que-iniciou-processo-de-entrevistas-para-diretor-do-fed-que-foi-reduzido-a-3-opcoes/",
+        "title": "Trump Diz Que Iniciou Processo de Entrevistas para Diretor do Fed, Que Foi Reduzido a 3 Opções",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-06T221120Z_1_LYNXMPEL7512A_RTROPTP_4_USA-TRUMP-INVESTMENT-300x200.jpg",
+        "date": "07/08/2025",
+        "description": "Presidente dos EUA mencionou Kevin Hassett e Kevin Warsh como favoritos à nova indicação econômica"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/tarifas-mais-altas-de-trump-atingem-produtos-dos-principais-parceiros-comerciais-dos-eua/",
         "title": "Tarifas Mais Altas de Trump Atingem Produtos dos Principais Parceiros Comerciais dos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-07T101029Z_1_LYNXMPEL760KO_RTROPTP_4_USA-TRUMP-TARIFFS-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-07T112845Z_1_LYNXMPEL760NW_RTROPTP_4_USA-TRADE-CHINA-SOYBEANS-300x200.jpg",
         "date": "07/08/2025",
         "description": "Tensões comerciais impulsionam maior compra diária de farelo de soja na China em 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pedidos-de-auxilio-desemprego-nos-eua-sobem-na-ultima-semana/",
-        "title": "Pedidos de Auxílio-desemprego nos EUA Sobem na Última Semana",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/auxilio-desemprego-EUA-economia-Money-300x200.png",
-        "date": "07/08/2025",
-        "description": "Avanço indica estabilidade no mercado de trabalho americano, apesar do aumento de novas vagas ter desacelerado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/para-driblar-tarifas-suzano-montou-estoque-de-papel-nos-eua/",
-        "title": "Para Driblar Tarifas, Suzano Montou Estoque de Papel nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_Suzano_Aracruz_Unidade_3jun25_Suzano_Divulg-300x200.jpg",
-        "date": "07/08/2025",
-        "description": "Volume é suficiente para atender às demandas até o final deste ano, enquanto isso, empresa avalia redirecionar suas vendas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/apple-anuncia-investimento-de-us-100-bilhoes-nos-eua/",
-        "title": "Apple Anuncia Investimento de US$ 100 Bilhões nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/trump-tim-cook-300x200.png",
-        "date": "07/08/2025",
-        "description": "O valor será direcionado para a expansão da cadeia de suprimentos da empresa e na ampliação da manufatura avançada no país"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/high-on-love-a-nova-frequencia-de-cris-barros/",
-        "title": "High on Love: a Nova Frequência de Cris Barros",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-17-300x200.jpg",
-        "date": "07/08/2025",
-        "description": "Entre sustentabilidade, presença digital global e processos mais conscientes, a estilista apresenta uma nova fase de sua marca, com mais alma e presença"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-ausencia-de-reacao-com-tarifas-anima-investidores/",
-        "title": "Pré-mercado: Ausência de Reação com Tarifas Anima Investidores",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "07/08/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 7 de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/brandvoice-singularity-brazil-menos-forecast-mais-foresight/",
-        "title": "Menos Forecast, Mais Foresight",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/singularitu-bv-agosto-300x200.png",
-        "date": "07/08/2025",
-        "description": "Por que imaginar o futuro vale mais que projetar o passado"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/empresas-de-capital-aberto-tem-16-de-mulheres-e-menos-de-1-de-pretos-na-alta-lideranca/",
-        "title": "Empresas de Capital Aberto Têm 16% de Mulheres e Menos de 1% de Pretos na Liderança",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-pesquisa-ibgc-diversidade-empresas-1-300x200.jpg",
-        "date": "07/08/2025",
-        "description": "Novo levantamento do IBGC analisou conselhos, diretorias e o quadro de funcionários de 390 companhias listadas na B3"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/america-latina-esta-exposta-ao-tarifaco-mas-empresas-nao-devem-ter-tanta-dor-de-cabeca/",
-        "title": "Tarifaço: Empresas Não Devem Ter Tanta Dor de Cabeça com Dívidas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/America-Latina-economia-Money-300x200.png",
-        "date": "07/08/2025",
-        "description": "Pesquisa da Moody’s mostra que receita da maioria das companhias latino-americanas depende menos de 10% do mercado americano"
     }
 ]
