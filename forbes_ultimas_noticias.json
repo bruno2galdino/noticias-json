@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/pedidos-de-auxilio-desemprego-nos-eua-sobem-na-ultima-semana/",
+        "title": "Pedidos de Auxílio-desemprego nos EUA Sobem na Última Semana",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/auxilio-desemprego-EUA-economia-Money-300x200.png",
+        "date": "07/08/2025",
+        "description": "Avanço indica estabilidade no mercado de trabalho americano, apesar do aumento de novas vagas ter desacelerado"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/para-driblar-tarifas-suzano-montou-estoque-de-papel-nos-eua/",
         "title": "Para Driblar Tarifas, Suzano Montou Estoque de Papel nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_Suzano_Aracruz_Unidade_3jun25_Suzano_Divulg-300x200.jpg",
@@ -28,6 +35,13 @@
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 7 de agosto"
     },
     {
+        "url": "https://forbes.com.br/carreira/2025/08/brandvoice-singularity-brazil-menos-forecast-mais-foresight/",
+        "title": "Menos Forecast, Mais Foresight",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/singularitu-bv-agosto-300x200.png",
+        "date": "07/08/2025",
+        "description": "Por que imaginar o futuro vale mais que projetar o passado"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/08/empresas-de-capital-aberto-tem-16-de-mulheres-e-menos-de-1-de-pretos-na-alta-lideranca/",
         "title": "Empresas de Capital Aberto Têm 16% de Mulheres e Menos de 1% de Pretos na Liderança",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-pesquisa-ibgc-diversidade-empresas-1-300x200.jpg",
@@ -49,24 +63,10 @@
         "description": "Setores como varejo, indústria e educação têm a oportunidade de transformar suas práticas e alcançar novos patamares de eficiência e inovação"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/2025/08/salto-alto-a-trajetoria-dos-sapatos-dos-reis-ate-os-escritorios/",
-        "title": "Salto Alto: a Trajetória dos Sapatos dos Reis até os Escritórios",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.Revisitar-a-trajetoria-historica-do-salto-e-essencial-para-entender-nao-apenas-a-moda-mas-as-transformacoes-culturais-sociais-e-economicas-que-moldaram-300x200.jpg",
+        "url": "https://forbes.com.br/forbeslife/2025/08/arte-de-carlito-carvalhosa-em-livro-assinado-por-seis-curadores/",
+        "title": "Arte de Carlito Carvalhosa em Livro Assinado por Seis Curadores",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_0.Carlito-Carvalhosa-Nara-Roesler-Books-2025-300x200.jpg",
         "date": "07/08/2025",
-        "description": "A peça que moldou a silhueta da moda por séculos se reinventa para acompanhar as novas demandas de liberdade, conforto e autenticidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/quer-se-proteger-da-inflacao-compre-uma-floresta/",
-        "title": "Quer se Proteger da Inflação? Compre uma Floresta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Angela-Davis_04ago25_Pedro-Oliveira_Forbes-300x200.jpg",
-        "date": "07/08/2025",
-        "description": "Investidores ricos e instituições comprometeram US$ 10 bilhões em áreas florestais administradas por Angela Davis. Pessoas comuns precisam se contentar com ações de fundos imobiliários de investimento em madeira."
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-avanca-com-balancos-corporativos-em-foco/",
-        "title": "Ibovespa Avança com Balanços Corporativos em Foco",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-5-300x200.png",
-        "date": "06/08/2025",
-        "description": "O dólar caiu 0,78% em sua quarta sessão consecutiva de queda"
+        "description": "Esmerada publicação é a mais abrangente sobre obra do grande artista paulistano, oriundo da Casa 7, falecido em 2021 aos 59 anos"
     }
 ]
