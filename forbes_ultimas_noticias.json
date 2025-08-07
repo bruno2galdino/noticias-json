@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-avanca-com-balancos-sob-holofotes-eletrobras-dispara/",
+        "title": "Ibovespa Avança com Balanços sob Holofotes; Eletrobras Dispara",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-12-300x200.png",
+        "date": "07/08/2025",
+        "description": "Dólar termina o dia em queda pela quinta sessão seguida"
+    },
+    {
+        "url": "https://forbes.com.br/sem-home/2025/08/as-top-5-materias-mais-clicadas-no-site-da-forbes-em-agosto/",
+        "title": "As Top 5 Matérias Mais Clicadas no Site da Forbes em Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "07/08/2025",
+        "description": "Quais foram as matérias mais acessadas no último mês"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/08/veja-fotos-do-novo-beach-club-do-fasano-na-sardenha/",
         "title": "Veja Fotos do Novo Beach Club do Fasano na Sardenha",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Fasano-Sardenha-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Milho_7AGO2025_mvburling-300x200.jpg",
         "date": "07/08/2025",
         "description": "Apesar do aumento da estimativa, o total embarcado deverá ficar abaixo da máxima histórica de 55,6 milhões de toneladas de 2023"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/saudita-salic-diz-ao-cade-ser-acionista-passivo-da-minerva-e-brf/",
-        "title": "Saudita Salic Diz Ao Cade Ser Acionista Passivo da Minerva e BRF",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_BRF_7AGO2025_RodolfoBuhrer_Reuters-300x200.jpg",
-        "date": "07/08/2025",
-        "description": "A transação entre BRF e Marfrig passa por revisão no Cade após alerta da Minerva sobre participação saudita em empresas concorrentes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/trump-diz-que-iniciou-processo-de-entrevistas-para-diretor-do-fed-que-foi-reduzido-a-3-opcoes/",
-        "title": "Trump Diz Que Iniciou Processo de Entrevistas para Diretor do Fed, Que Foi Reduzido a 3 Opções",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-06T221120Z_1_LYNXMPEL7512A_RTROPTP_4_USA-TRUMP-INVESTMENT-300x200.jpg",
-        "date": "07/08/2025",
-        "description": "Presidente dos EUA mencionou Kevin Hassett e Kevin Warsh como favoritos à nova indicação econômica"
     }
 ]
