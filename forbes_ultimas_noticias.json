@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/o-salto-quantico-da-ia-4-mudancas-essenciais-no-gpt-5-que-voce-precisa-conhecer/",
+        "title": "O Salto Quântico da IA: 4 Mudanças Essenciais no GPT-5 que Você Precisa Conhecer",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/gpt5-300x200.webp",
+        "date": "08/08/2025",
+        "description": "Versão gratuita, raciocínio avançado, segurança aprimorada e mais precisão redefinem a experiência na plataforma da OpenAI"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-semana-se-encerra-com-reacao-fraca-as-tarifas/",
+        "title": "Pré-mercado: Semana se Encerra com Reação Fraca Às Tarifas",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "08/08/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 8 de agosto"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/empresa-de-cogumelos-vai-de-antiga-granja-a-negocio-de-us-10-milhoes/",
         "title": "Empresa de Cogumelos Vai de Antiga Granja a Negócio de US$ 10 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Cogumelo_7AGO2025_ConstanzaGuanziroli_GettyImages-300x200.jpg",
@@ -36,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-mkt/2025/08/bis-lanca-experiencia-imersiva-no-roblox-com-ambientacao-no-estadio-morumbis/",
-        "title": "BIS Lança Experiência Imersiva no Roblox com Ambientação no Estádio Morumbis",
+        "title": "BIS Lança Experiência Imersiva na Roblox com Ambientação no Estádio Morumbis",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Captura-de-Tela-2025-08-07-as-22.11.54-300x200.png",
         "date": "08/08/2025",
         "description": "A iniciativa faz parte da estratégia da marca de ocupar espaços culturais relevantes para seu público e a experiência inclui elementos característicos de BIS"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/dobraveis-300x200.png",
         "date": "08/08/2025",
         "description": "Estimativas da Counterpoint Research apontam que menos de 2% dos smartphones vendidos no mundo pertencem à categoria"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/o-destino-secreto-da-austria-que-todo-viajante-devia-conhecer/",
-        "title": "O Destino Secreto da Áustria Que Todo Viajante Devia Conhecer",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Vista-de-Zell-Am-See-e-da-base-da-estacao-de-esqui-Schmittenhohe-na-Austria-300x200.jpg",
-        "date": "08/08/2025",
-        "description": "Em meio aos Alpes austríacos, Zell am See oferece infraestrutura para esportes de inverno, paisagens naturais e tradição local longe das rotas turísticas manjadas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/08/pilotas-de-aviao-contam-como-chegaram-a-cabine-de-comando/",
-        "title": "Pilotas de Avião Contam Como Chegaram À Cabine de Comando",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-pilotas-de-aviao-4-300x200.jpg",
-        "date": "08/08/2025",
-        "description": "Mulheres representam 5% dos pilotos nas principais companhias do mundo; profissionais compartilham os desafios da carreira e as trajetórias até o cargo"
     }
 ]
