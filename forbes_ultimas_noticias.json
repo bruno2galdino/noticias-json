@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/precos-globais-dos-alimentos-tem-maior-alta-em-dois-anos-puxados-por-carne-e-oleos-vegetais/",
+        "title": "Preços Globais dos Alimentos Têm Maior Alta em Dois Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mercado-alimentos-preco-forbes-300x200.jpg",
+        "date": "08/08/2025",
+        "description": "Salto dos preços e níveis recordes compensaram a queda vista para os cereais, laticínios e açúcar"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/colheita-de-cafe-2025-26-do-brasil-ja-alcanca-94/",
+        "title": "Colheita de Café 2025/26 do Brasil Já Alcança 94%",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/agro-cafe-robusta-08Ago23-PauloWhitaker-300x200.jpg",
+        "date": "08/08/2025",
+        "description": "Avanço foi de 4 pontos percentuais em relação à semana anterior, segundo levantamento da Safras & Mercado"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/b3-tem-lucro-liquido-recorrente-de-r-128-bi-no-2o-tri/",
         "title": "B3 Tem Lucro Líquido Recorrente de R$ 1,28 Bi no 2º Tri",
         "image": "https://forbes.com.br/wp-content/uploads/2025/03/GettyImages-2201575010-1-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "08/08/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 8 de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/infomercial-blue-saude-primeiro-laboratorio-de-ia-brasileiro/",
-        "title": "Primeiro Laboratório de IA Brasileiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/echo-blue-if-1-300x200.png",
-        "date": "08/08/2025",
-        "description": "Echo nasce com a proposta de transformar a aplicação da inteligência artificial no setor empresarial e posicionar o Brasil como potência"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/empresa-de-cogumelos-vai-de-antiga-granja-a-negocio-de-us-10-milhoes/",
-        "title": "Empresa de Cogumelos Vai de Antiga Granja a Negócio de US$ 10 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Cogumelo_7AGO2025_ConstanzaGuanziroli_GettyImages-300x200.jpg",
-        "date": "08/08/2025",
-        "description": "Fundada em 1982, a Hongos del Pilar saiu de uma criação de frangos para se tornar referência no cultivo de cogumelos frescos na Argentina"
     }
 ]
