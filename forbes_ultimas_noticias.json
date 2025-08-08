@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/acao-da-softbank-sobe-e-atinge-recorde-com-perspectivas-de-ia/",
+        "title": "Ação da SoftBank Sobe e Atinge Recorde com Perspectivas de IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/09/money_softbank_14set21_REUTERS_Issei-Kato.jpg",
+        "date": "08/08/2025",
+        "description": "A empresa anunciou uma série de robustos investimentos este ano, incluindo um compromisso de US$30 bilhões com a OpenAI, fabricante do ChatGPT"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/petrobras-tem-lucro-liquido-de-r-2665-bi-no-2o-tri-e-anuncia-r-86-bi-em-dividendos/",
+        "title": "Petrobras Tem Lucro Líquido de R$ 26,65 Bi no 2º Tri e Anuncia R$ 8,6 Bi em Dividendos",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/petrobras-dividendos-300x200.jpg",
+        "date": "08/08/2025",
+        "description": "A companhia anunciou o pagamento de R$ 8,66 bilhões em dividendos e juros sobre capital próprio (JCP)"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/08/o-salto-quantico-da-ia-4-mudancas-essenciais-no-gpt-5-que-voce-precisa-conhecer/",
         "title": "O Salto Quântico da IA: 4 Mudanças Essenciais no GPT-5 que Você Precisa Conhecer",
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/GettyImages-2197366908-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Captura-de-Tela-2025-08-07-as-22.11.54-300x200.png",
         "date": "08/08/2025",
         "description": "A iniciativa faz parte da estratégia da marca de ocupar espaços culturais relevantes para seu público e a experiência inclui elementos característicos de BIS"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/o-contexto-de-taxas-nao-afeta-em-nada-nossa-operacao-diz-ceo-da-indiana-manageengine/",
-        "title": "“O Contexto de Taxas Não Afeta em Nada Nossa Operação”, Diz CEO da Indiana ManageEngine",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/RajeshGanesan-300x200.jpg",
-        "date": "08/08/2025",
-        "description": "Brasil se destaca por ser um dos mercados de maior crescimento da empresa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/apesar-de-novos-investimentos-mercado-global-de-celulares-dobraveis-permanece-timido/",
-        "title": "Apesar de Novos Investimentos, Mercado Global de Celulares Dobráveis Permanece Tímido",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/dobraveis-300x200.png",
-        "date": "08/08/2025",
-        "description": "Estimativas da Counterpoint Research apontam que menos de 2% dos smartphones vendidos no mundo pertencem à categoria"
     }
 ]
