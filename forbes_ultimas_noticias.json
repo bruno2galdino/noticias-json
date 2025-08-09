@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/jim-lovell-comandante-da-missao-lunar-apollo-13-morre-aos-97-anos/",
+        "title": "Jim Lovell, Comandante da Missão Lunar Apollo 13, Morre Aos 97 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-4-300x200.png",
+        "date": "09/08/2025",
+        "description": "Episódio quase terminou em tragédia e sua história inspiradora virou filme"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/petrobras-se-surpreende-e-oficia-braskem-sobre-potencial-venda-de-ativos/",
+        "title": "Petrobras se Surpreende e Oficia Braskem sobre Potencial Venda de Ativos",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Predio-da-Petrobras-no-Rio-de-Janeiro-300x200.jpg",
+        "date": "09/08/2025",
+        "description": "A petroquímica confirmou que está negociando ativos não especificados com a Unipar"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/a-herdeira-que-esta-revolucionando-o-mais-antigo-conglomerado-das-filipinas/",
         "title": "A Herdeira Que Está Revolucionando o Mais Antigo Conglomerado das Filipinas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-3-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-21-300x200.jpg",
         "date": "08/08/2025",
         "description": "Após sete anos em shoppings, marca focada em garimpo e restauração de móveis, aposta em novo endereço para atender arquitetos em São Paulo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-fecha-em-queda-pressionado-por-petrobras/",
-        "title": "Ibovespa Fecha em Queda Pressionado por Petrobras",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-5-300x200.png",
-        "date": "08/08/2025",
-        "description": "Dólar terminou o dia em leve alta de 0,2%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/casa-dos-ventos-busca-regioes-com-menos-cortes-de-geracao-para-2-gw-em-novas-renovaveis/",
-        "title": "Casa dos Ventos Busca Regiões com Menos Cortes de Geração para 2 GW em Novas Renováveis",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/esg-energia-eolica-alemanha-300x200.jpg",
-        "date": "08/08/2025",
-        "description": "O novo plano de investimentos deve envolver 1,5 GW em eólicas no Nordeste"
     }
 ]
