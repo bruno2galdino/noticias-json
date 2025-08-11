@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/ucrania-aumenta-previsao-de-safra-de-graos-a-56-milhoes-de-toneladas-em-2025/",
+        "title": "Ucrânia Aumenta Previsão de Safra de Grãos a 56 Milhões de Toneladas em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Trigo-300x200.jpg",
+        "date": "11/08/2025",
+        "description": "Os agricultores ucranianos já colheram quase 20 milhões de toneladas de grãos até o momento"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/m-dias-branco-nao-ve-novos-aumentos-de-precos-de-produtos-diante-de-boa-oferta-do-trigo/",
+        "title": "M.Dias Branco Não Vê Novos Aumentos de Preços de Produtos Diante de Boa Oferta do Trigo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Lavoura-de-trigo-300x200.jpg",
+        "date": "11/08/2025",
+        "description": "A empresa destacou o aumento de 14,8% no preço médio do trigo do trimestre em relação ao registrado no ano passado"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/haddad-diz-que-reuniao-com-bessent-marcada-para-esta-semana-foi-cancelada/",
+        "title": "Haddad Diz Que Reunião com Bessent Marcada para Esta Semana Foi Cancelada",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Ministro-da-Fazenda-Fernando-Haddad-300x200.jpg",
+        "date": "11/08/2025",
+        "description": "O cancelamento da reunião foi informado por email, sob o argumento de \"falta de agenda\", e que não há nova data para que ela aconteça"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/cade-adia-decisao-final-sobre-acordo-marfrig-brf/",
         "title": "Cade Adia Decisão Final sobre Acordo Marfrig-BRF",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_BRF_7AGO2025_RodolfoBuhrer_Reuters-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-1-2-300x200.png",
         "date": "11/08/2025",
         "description": "Expectativa para 2026 também teve recuo, assim como a da balança comercial, com queda em ambos os anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/veja-quanto-os-brasileiros-gastam-em-media-com-streaming-por-mes-pais-ja-ultrapassa-os-eua/",
-        "title": "Brasileiros Devem Atingir R$ 206,5 bilhões em Gastos com Streaming",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Netflix-logo-iphone-300x200.png",
-        "date": "11/08/2025",
-        "description": "Nos EUA, mesmo com uma receita total projetada de R$ 3,46 trilhões, o crescimento é mais lento e o gasto per capita com entretenimento digital está em queda, no Brasil, apesar da renda média ser menor, o consumidor está proporcionalmente mais engajado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-semana-tera-inflacao-nos-eua-e-expectativa-com-tarifas/",
-        "title": "Pré-mercado: Semana Terá Inflação nos EUA e Expectativa com Tarifas",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "11/08/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 11 de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/infomercial-leao-group-novo-mapa-global-da-tecnologia/",
-        "title": "Novo Mapa Global da Tecnologia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/1-1-300x200.png",
-        "date": "11/08/2025",
-        "description": "Brasil entra no radar como fonte de profissionais qualificados, e empresas especializadas, como a Leao Group Global, ajudam a pavimentar esse caminho"
     }
 ]
