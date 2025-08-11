@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-fecha-em-leve-queda-com-tombo-de-braskem/",
+        "title": "Ibovespa Fecha em Leve Queda com Tombo de Braskem",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-11-300x200.png",
+        "date": "11/08/2025",
+        "description": "Os investidores pouco reagiram ao noticiário sobre a disputa comercial entre Brasil e EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/ucrania-aumenta-previsao-de-safra-de-graos-a-56-milhoes-de-toneladas-em-2025/",
         "title": "Ucrânia Aumenta Previsão de Safra de Grãos a 56 Milhões de Toneladas em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Trigo-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Siri-300x200.jpg",
         "date": "11/08/2025",
         "description": "A novidade representa uma evolução importante em relação à versão atual da Siri, que ainda apresenta limitações na interação com apps de terceiros"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/mercado-volta-a-reduzir-projecao-de-inflacao-para-2025/",
-        "title": "Mercado Volta a Reduzir Projeção de Inflação para 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-1-2-300x200.png",
-        "date": "11/08/2025",
-        "description": "Expectativa para 2026 também teve recuo, assim como a da balança comercial, com queda em ambos os anos"
     }
 ]
