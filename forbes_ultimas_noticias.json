@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/varejo-tem-alta-de-24-em-julho-aponta-indice-stone/",
+        "title": "Varejo Tem Alta de 2,4% em Julho, Aponta Índice Stone",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Money_Vendas-no-varejo-dos-EUA-tem-alta-moderada-em-fevereiro-300x200.webp",
+        "date": "11/08/2025",
+        "description": "Segundo dados do Índice do Varejo Stone (IVS), cinco dos oito segmentos analisados registraram crescimento no mês"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/hora-de-fazer-um-balanco-o-que-vem-a-seguir-para-os-sistemas-alimentares-globais/",
         "title": "Lento Demais: Conferência da ONU Alerta para Estagnação dos Sistemas Alimentares",
         "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
@@ -8,7 +15,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/08/com-o-chatgpt-5-openai-pretende-se-tornar-o-coracao-do-mundo-corporativo/",
-        "title": "Com o ChatGPT 5, OpenAI pretende se tornar o coração do mundo corporativo",
+        "title": "Com o Chatgpt 5, Openai Pretende se Tornar o Coração do Mundo Corporativo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/OpenAI-300x200.webp",
         "date": "11/08/2025",
         "description": "O modelo de inteligência artificial mais aguardado do ano foi revelado inesperadamente, e o fabricante afirma que ele possui capacidade para nível de doutorado"
@@ -42,7 +49,7 @@
         "description": "Mercado global de artigos esportivos pode ultrapassar a marca dos R$ 869 bilhões nos próximos dez anos"
     },
     {
-        "url": "https://forbes.com.br/forbes-mulher/2025/08/licoes-de-carreira-de-viola-davis/",
+        "url": "https://forbes.com.br/carreira/2025/08/licoes-de-carreira-de-viola-davis/",
         "title": "\"Tudo Que Você Quer Está do Outro Lado do Medo\": 6 Lições de Viola Davis",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/viola-davis-60-anos-forbes-300x200.jpg",
         "date": "11/08/2025",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-4-1-300x200.png",
         "date": "10/08/2025",
         "description": "Psicólogo explica a importância de desenvolver-se para ter confiança, empatia e controle emocional"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/8-tequilas-perfeitas-para-preparar-uma-paloma/",
-        "title": "8 Tequilas Perfeitas para Preparar uma Paloma",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.O-Paloma-e-o-coquetel-de-tequila-preferido-do-Mexico-que-personifica-o-que-o-Mexico-e_-simplicidade-cheia-de-sabor-300x200.jpg",
-        "date": "10/08/2025",
-        "description": "Do clássico ao ousado, conheça oito rótulos ideais para preparar uma paloma autêntica - o drink favorito do México"
     }
 ]
