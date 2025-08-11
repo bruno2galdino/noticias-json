@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/mercado-volta-a-reduzir-projecao-de-inflacao-para-2025/",
+        "title": "Mercado Volta a Reduzir Projeção de Inflação para 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-1-2-300x200.png",
+        "date": "11/08/2025",
+        "description": "Expectativa para 2026 também teve recuo, assim como a da balança comercial, com queda em ambos os anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/veja-quanto-os-brasileiros-gastam-em-media-com-streaming-por-mes-pais-ja-ultrapassa-os-eua/",
+        "title": "Brasileiros Devem Atingir R$ 206,5 bilhões em Gastos com Streaming",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Netflix-logo-iphone-300x200.png",
+        "date": "11/08/2025",
+        "description": "Nos EUA, mesmo com uma receita total projetada de R$ 3,46 trilhões, o crescimento é mais lento e o gasto per capita com entretenimento digital está em queda, no Brasil, apesar da renda média ser menor, o consumidor está proporcionalmente mais engajado"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-semana-tera-inflacao-nos-eua-e-expectativa-com-tarifas/",
         "title": "Pré-mercado: Semana Terá Inflação nos EUA e Expectativa com Tarifas",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -51,22 +65,8 @@
     {
         "url": "https://forbes.com.br/forbes-money/2025/08/como-reserva-viu-potencial-no-futebol-e-ja-faturou-r-100-milhoes-com-parcerias/",
         "title": "Como Reserva Viu Potencial no Futebol e Já Faturou R$ 100 Milhões com Parcerias",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-5-300x200.png",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-1-1-300x200.png",
         "date": "11/08/2025",
         "description": "Mercado global de artigos esportivos pode ultrapassar a marca dos R$ 869 bilhões nos próximos dez anos"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/licoes-de-carreira-de-viola-davis/",
-        "title": "\"Tudo Que Você Quer Está do Outro Lado do Medo\": 6 Lições de Viola Davis",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/viola-davis-60-anos-forbes-300x200.jpg",
-        "date": "11/08/2025",
-        "description": "Da infância marcada pela pobreza ao topo de Hollywood, confira os aprendizados que moldaram a trajetória da artista, que completa 60 anos nesta segunda-feira (11)"
-    },
-    {
-        "url": "https://forbes.com.br/sem-categoria/2025/08/china-quer-que-eua-relaxem-controles-de-exportacao-de-chips-de-ia-em-acordo-comercial/",
-        "title": "China Quer Que EUA Relaxem Controles de Exportação de Chips de IA em Acordo Comercial",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/09/5-pontos-cruciais-na-disputa-de-chips-entre-China-e-EUA-300x200.png",
-        "date": "10/08/2025",
-        "description": "Sucessivas administrações dos EUA restringiram as exportações de chips avançados para a China"
     }
 ]
