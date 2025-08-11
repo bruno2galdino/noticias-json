@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/faberge-e-vendida-por-us-50-milhoes-para-investidor-de-tecnologia-dos-eua/",
+        "title": "Fabergé É Vendida por US$ 50 Milhões para Investidor de Tecnologia dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Faberge-300x200.jpg",
+        "date": "11/08/2025",
+        "description": "A marca enfrentou dificuldades nos últimos anos, em meio à desaceleração do mercado de bens de luxo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/trump-recua-mais-uma-vez-e-adia-tarifas-sobre-a-china-por-mais-90-dias/",
+        "title": "Trump Recua Mais uma Vez e Adia Tarifas sobre a China por Mais 90 Dias",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Money_EUAChinaNegociacoes_27JUl2025_DadoRuvic_Reuters-300x200.jpg",
+        "date": "11/08/2025",
+        "description": "Segundo a imprensa internacional, Trump assinou uma ordem executiva estendendo a trégua até 9 de novembro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-fecha-em-leve-queda-com-tombo-de-braskem/",
         "title": "Ibovespa Fecha em Leve Queda com Tombo de Braskem",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-11-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_etanol_biodiesel_27jun25_getty-300x200.jpg",
         "date": "11/08/2025",
         "description": "Administração planeja uma bateria de testes com o biocombustível B50, processo que pode se estender por até oito meses"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/08/trump-diz-que-assumira-controle-da-policia-de-washington-d-c-e-enviara-guarda-nacional/",
-        "title": "Trump Diz Que Assumirá Controle da Polícia de Washington, D.C. e Enviará Guarda Nacional",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-11T145557Z_1_LYNXMPEL7A0II_RTROPTP_4_USA-TRUMP-CRIME-300x200.jpg",
-        "date": "11/08/2025",
-        "description": "Presidente dos Estados Unidos intensifica investidas contra cidades democratas ao expandir o uso do poder federal, em meio a críticas de autoritarismo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/apple-testa-nova-siri-capaz-de-operar-aplicativos-com-comandos-de-voz/",
-        "title": "Apple Testa Nova Siri Capaz de Operar Aplicativos com Comandos de Voz",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Siri-300x200.jpg",
-        "date": "11/08/2025",
-        "description": "A novidade representa uma evolução importante em relação à versão atual da Siri, que ainda apresenta limitações na interação com apps de terceiros"
     }
 ]
