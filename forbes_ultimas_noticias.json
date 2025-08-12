@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/sabesp-tem-salto-no-lucro-do-2o-tri-com-avanco-operacional-acima-do-esperado/",
+        "title": "Sabesp Tem Salto no Lucro do 2º Tri com Avanço Operacional Acima do Esperado",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/12/Sabesp-1-300x200.jpg",
+        "date": "12/08/2025",
+        "description": "Parte do avanço foi por conta da privatização da companhia, o que teria melhorado suas operações"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/sea-dona-da-shopee-tem-receita-acima-do-esperado-no-trimestre/",
+        "title": "Sea, Dona da Shopee, Tem Receita Acima do Esperado no Trimestre",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/05/shopee-forbesmoney-300x200.jpg",
+        "date": "12/08/2025",
+        "description": "Resultado superou a projeção em mais de US$ 1 bilhão, o que fez ações da empresa subirem mais de 9% em Wall Street"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/08/paola-vilas-transforma-legado-de-lina-bo-bardi-em-joias/",
         "title": "Paola Vilas Transforma Legado de Lina Bo Bardi em Joias",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-23-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/1960x0-300x200.webp",
         "date": "12/08/2025",
         "description": "Terapeutas dizem que o tipo certo de viagem pode oferecer espaço emocional, perspectiva e rituais que favorecem a cura"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/o-fim-da-internet-discada-4-perrengues-que-a-geracao-z-nao-viveu/",
-        "title": "O Fim da Internet Discada: 4 Perrengues Que a Geração Z Não Viveu",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/InternetDiscada-300x200.jpg",
-        "date": "12/08/2025",
-        "description": "A AOL encerrou oficialmente seu serviço de internet discada nos Estados Unidos, marcando o fim de uma era que moldou os primeiros passos da vida digital"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/a-apple-esta-preparando-sua-maior-reformulacao-em-anos-e-assim-que-sera-o-novo-iphone-17-pro/",
-        "title": "Apple Prepara Sua Maior Reformulação em Anos: Assim Será o Novo iPhone 17 Pro",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/12/IOS.17.dezembro-scaled-e1722461243412-300x200.jpeg",
-        "date": "12/08/2025",
-        "description": "Com corpo mais grosso, zoom óptico de 8x, tela antirreflexo e cor laranja que rompe com a estética anterior, o modelo topo de linha, que será lançado em setembro, busca se destacar com mudanças pontuais"
     }
 ]
