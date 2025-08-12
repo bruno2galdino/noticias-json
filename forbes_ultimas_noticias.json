@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/por-dentro-do-centro-de-experimentacao-corporativa-da-samsung-em-sao-paulo/",
+        "title": "Por Dentro do Centro de Experimentação Corporativa da Samsung em São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/corporativo-samsung-300x200.png",
+        "date": "12/08/2025",
+        "description": "O Business Experience Studio conta com 389 metros quadrados dentro da sede da empresa sul-coreana na capital paulista"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/08/arthur-guerra-os-riscos-ocultos-da-terapia-via-ia-para-adolescentes/",
         "title": "Os Riscos Ocultos da Terapia Via IA para Adolescentes",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/adolescente-computador_ia-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2022/05/shopee-forbesmoney-300x200.jpg",
         "date": "12/08/2025",
         "description": "Resultado superou a projeção em mais de US$ 1 bilhão, o que fez ações da empresa subirem mais de 9% em Wall Street"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/paola-vilas-transforma-legado-de-lina-bo-bardi-em-joias/",
-        "title": "Paola Vilas Transforma Legado de Lina Bo Bardi em Joias",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-23-300x200.jpg",
-        "date": "12/08/2025",
-        "description": "Primeira artista convidada a reinterpretar toda a obra de Lina na joalheria, designer cria coleção de 12 peças que une o olhar poético da arquiteta à escultura vestível"
     }
 ]
