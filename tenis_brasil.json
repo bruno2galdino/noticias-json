@@ -1,8 +1,22 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-resultados-desta-segunda-11-08.html",
+        "url": "https://tenisbrasil.uol.com.br/e-desta-vez-faltou-jogo-para-fonseca.html",
+        "title": "E desta vez faltou jogo para Fonseca",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/02/Artes-Blogs-TenisBrasil-1024x576.jpg",
+        "date": "11/08/2025",
+        "description": "Se dois dias atrás sobrou sorte para João Fonseca, que se aproveitou da queda física vertiginosa do top 20 Alejandro Davidovich, na noite desta segunda-feira faltou mesmo jogo para o carioca, totalmente envolvido pelo estilo quase kamikaze do francês Terence Atmane, 136º do ranking."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-nao-brilha-mas-elimina-sacador-canadense.html",
+        "title": "Sinner não brilha, mas elimina sacador canadense",
+        "image": null,
+        "date": "12/08/2025",
+        "description": "Embed from Getty Images* atualizado às 0h16 com vitória de Mannarino"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-11-08.html",
         "title": "O dia dos brasileiros: veja os resultados desta segunda",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/fonseca-toronto-espera-2025-e1754075971787-1024x683.jpeg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/54338526643_8e1c60dd0b_o-e1748631238970-1024x682.jpg",
         "date": "11/08/2025",
         "description": "Masters 1000 de Cincinnati (EUA) – Sintético – US$ 9.193.540Terceira rodada –Veja a chave"
     },
@@ -37,7 +51,7 @@
     {
         "url": "https://tenisbrasil.uol.com.br/tiafoe-e-rune-duelam-nas-oitavas-em-cincinnati-tsitsipas-leva-virada.html",
         "title": "Tiafoe e Rune duelam nas oitavas em Cincinnati, Tsitsipas leva virada",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/tiafoe_cincy_vibra-1024x629.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/tiafoe_cincy_back_KR-1024x683.jpg",
         "date": "11/08/2025",
         "description": "Cincinnati (EUA) –Finalista da edição passada do Masters 1000 de Cincinnati, Frances Tiafoe garantiu seu lugar nas oitavas de final. O norte-americano de 27 anos e 14º do mundo venceu o francês Ugo Humbert, 25º do ranking, por duplo 6/4."
     },
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/kalinskaya_cincy_preparasaque_full-1024x597.jpg",
         "date": "11/08/2025",
         "description": "Cincinnati (EUA) –A russa Anna Kalinskaya conseguiu um ótimo resultado nesta segunda-feira e garantiu vaga nas oitavas de final do WTA 1000 de Cincinnati. A jogadora de 26 anos e 34ª do ranking eliminou a norte-americana Amanda Anisimova, número 8 do mundo e finalista de Wimbledon, por 7/5 e 6/4"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/queda-de-energia-interrompe-a-rodada-desta-segunda-em-cincinnati.html",
-        "title": "Queda de energia interrompe a rodada desta segunda em Cincinnati",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/DJI_20250715105520_0618_D-2-1-1024x576-1.jpg",
-        "date": "11/08/2025",
-        "description": "Cincinnati (EUA) –Uma queda de energia suspendeu a rodada desta segunda-feira no Masters 1000 de Cincinnati às 17h25 (horário local ou 18h25 de Brasília). A previsão de retorno é das 19h30 (de Brasília)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/melo-e-zverev-vencem-em-cincinnati-e-desafiam-lideres-do-ranking.html",
-        "title": "Melo e Zverev vencem em Cincinnati e desafiam líderes do ranking",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/08/melo-zverev-cincinnati-2024-wednesday-2-1024x576.jpg",
-        "date": "11/08/2025",
-        "description": "Cincinnati (EUA) –A participação brasileira na chave de duplas do Masters 1000 de Cincinnati começou com vitória de Marcelo Melo, que joga ao lado do alemão Alexander Zverev. Eles venceram nesta segunda-feira o experiente indiano de 45 anos Rohan Bopanna e o jovem norte-americano Ethan Quinn, de apenas 21, por 7/5, 3/6 e 10-6 em 1h19 de partida."
     }
 ]
