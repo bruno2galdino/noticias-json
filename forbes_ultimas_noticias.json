@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/08/anel-de-noivado-de-cristiano-ronaldo-e-avaliado-em-us-3-milhoes/",
+        "title": "Cristiano Ronaldo Pede Namorada Casamento com Anel de US$ 3 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.Elizabeth-Taylor-usa-um-diamante-de-69-quilates-no-pescoco-e-seu-anel-de-noivado-de-33-quilates-ambos-de-Richard-Burton-no-Oscar-de-1970-300x200.jpg",
+        "date": "12/08/2025",
+        "description": "Joia com diamante raro de 50 quilates supera modelos icônicos dados a Mariah Carey, Kim Kardashian e Lauren Sánchez"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/justica-aprova-ecerramento-de-recuperacao-judicial-da-samarco/",
+        "title": "Justiça Aprova Ecerramento de Recuperação Judicial da Samarco",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Samarco-samarco-Jefferson-Rocio-300x200.jpg",
+        "date": "12/08/2025",
+        "description": "Empresa projeta atingir 100% de sua capacidade produtiva até 2028,  quando deverá alcançar uma escala de produção de cerca de 26 a 27 milhões de toneladas de pelotas e finos de minério de ferro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/dolar-fecha-a-r-538-menor-cotacao-desde-14-de-junho-de-2024/",
+        "title": "Dólar Fecha a R$ 5,38, Menor Cotação desde 14 de Junho de 2024",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-11-300x200.png",
+        "date": "12/08/2025",
+        "description": "Ibovespa sobe 1,66%, o maior patamar em cerca de um mês"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/08/por-dentro-do-centro-de-experimentacao-corporativa-da-samsung-em-sao-paulo/",
         "title": "Por Dentro do Centro de Experimentação Corporativa da Samsung em São Paulo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/corporativo-samsung-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/02/Agro_SistemasAlimentaresTrump_7FEV25_Getty-300x200.jpg",
         "date": "12/08/2025",
         "description": "Economistas apontam que a queda no preço dos alimentos (incluindo o café e proteínas) não tem relação com a política tarifária de Trump"
-    },
-    {
-        "url": "https://forbes.com.br/eventos/2025/08/forbes-promove-power-lunch-com-mulher-agro-acompanhe/",
-        "title": "Forbes Promove Power Lunch com Mulheres do Agro; Acompanhe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Forbes-Mulher-Agro-Fasano-Itaim-ago25-Bernardo-Medeiros_Forbes@0.5x-300x200.png",
-        "date": "12/08/2025",
-        "description": "Evento no Hotel Fasano Itaim, em São Paulo, celebra o grupo Forbes Mulher Agro e recebe grandes nomes do setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/sabesp-tem-salto-no-lucro-do-2o-tri-com-avanco-operacional-acima-do-esperado/",
-        "title": "Sabesp Tem Salto no Lucro do 2º Tri com Avanço Operacional Acima do Esperado",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/12/Sabesp-1-300x200.jpg",
-        "date": "12/08/2025",
-        "description": "Parte do avanço foi por conta da privatização da companhia, o que teria melhorado suas operações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/sea-dona-da-shopee-tem-receita-acima-do-esperado-no-trimestre/",
-        "title": "Sea, Dona da Shopee, Tem Receita Acima do Esperado no Trimestre",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/05/shopee-forbesmoney-300x200.jpg",
-        "date": "12/08/2025",
-        "description": "Resultado superou a projeção em mais de US$ 1 bilhão, o que fez ações da empresa subirem mais de 9% em Wall Street"
     }
 ]
