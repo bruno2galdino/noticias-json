@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/08/arthur-guerra-os-riscos-ocultos-da-terapia-via-ia-para-adolescentes/",
+        "title": "Os Riscos Ocultos da Terapia Via IA para Adolescentes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/adolescente-computador_ia-300x200.jpg",
+        "date": "12/08/2025",
+        "description": "Resposta imprecisa ou distorcida dessa tecnologia pode funcionar como gatilho para uma crise de saúde mental"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/startup-de-ia-perplexity-faz-oferta-de-us-345-bilhoes-pelo-navegador-chrome-do-google/",
+        "title": "Startup de IA Perplexity Faz Oferta de US$ 34,5 Bilhões Pelo Navegador Chrome, do Google",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/08/Google-Chrome-300x200.png",
+        "date": "12/08/2025",
+        "description": "A compra permitiria que a startup explorasse a base de mais de três bilhões de usuários do buscador"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/natura-ve-evidencias-de-alta-probabilidade-de-venda-da-avon-internacional-em-12-meses/",
+        "title": "Natura Vê Evidências de Alta Probabilidade de Venda da Avon Internacional em 12 Meses",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/09/ForbesMoney_Natura_28052021_Amanda-Perobelli_Reuters-e1655307266745.jpg",
+        "date": "12/08/2025",
+        "description": "A receita líquida da empresa recuou 1,7%, para R$ 5,7 bilhões"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mkt/2025/08/em-nova-fase-neon-anuncia-parceria-com-a-unboring-company-para-apostar-em-entretenimento/",
         "title": "Em Nova Fase, Neon Anuncia Parceria com a Unboring Company para Apostar em Entretenimento",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Neon_Unboring-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/padrao-Forbes-23-300x200.jpg",
         "date": "12/08/2025",
         "description": "Primeira artista convidada a reinterpretar toda a obra de Lina na joalheria, designer cria coleção de 12 peças que une o olhar poético da arquiteta à escultura vestível"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-inflacao-no-brasil-e-nos-eua-deve-confirmar-juros-apertados/",
-        "title": "Pré-mercado: Inflação no Brasil e nos EUA Deve Confirmar Juros Apertados",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "12/08/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 12 de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/medo-da-superinteligencia-artificial-faz-estudantes-abandonarem-harvard-e-mit/",
-        "title": "Medo da Super IA Faz Estudantes Abandonarem Harvard",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-inteligencia-artificial-geral-300x200.jpg",
-        "date": "12/08/2025",
-        "description": "Universitários deixam os estudos para empreender com IA ou evitar que essa tecnologia se volte contra a humanidade"
-    },
-    {
-        "url": "https://forbes.com.br/escolhas-do-editor/2025/08/a-nova-missao-da-mulher-mais-rica-do-mundo-formar-medicos/",
-        "title": "A Nova Missão da Mulher Mais Rica do Mundo: Formar Médicos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Mulher-Alice-Walton-Walmart-1-300x200.jpg",
-        "date": "12/08/2025",
-        "description": "Aos 75 anos, Alice Walton, herdeira do Walmart, financiou a criação da instituição americana que leva seu nome na cidade natal de sua família"
     }
 ]
