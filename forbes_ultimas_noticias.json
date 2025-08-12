@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/precos-dos-alimentos-cai-e-inflacao-sobe-menos-do-que-o-esperado/",
+        "title": "Preços dos Alimentos Cai e Inflação Sobe Menos do Que o Esperado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/Agro_SistemasAlimentaresTrump_7FEV25_Getty-300x200.jpg",
+        "date": "12/08/2025",
+        "description": "Economistas apontam que a queda no preço dos alimentos (incluindo o café e proteínas) não tem relação com a política tarifária de Trump"
+    },
+    {
+        "url": "https://forbes.com.br/eventos/2025/08/forbes-promove-power-lunch-com-mulher-agro-acompanhe/",
+        "title": "Forbes Promove Power Lunch com Mulher Agro; Acompanhe",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "12/08/2025",
+        "description": "Evento no Hotel Fasano Itaim, em São Paulo, celebra o grupo Forbes Mulher Agro e recebe grandes nomes do setor"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/sabesp-tem-salto-no-lucro-do-2o-tri-com-avanco-operacional-acima-do-esperado/",
         "title": "Sabesp Tem Salto no Lucro do 2º Tri com Avanço Operacional Acima do Esperado",
         "image": "https://forbes.com.br/wp-content/uploads/2023/12/Sabesp-1-300x200.jpg",
@@ -46,7 +60,7 @@
         "title": "Por Que a Dominância do Dólar Não Deve Acabar da Noite para o Dia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-6-300x200.png",
         "date": "12/08/2025",
-        "description": "O dólar é utilizadoo no comércio global desde 1944, quando foi assinado o acordo de Bretton Woods. Seu uso como reserva tem caído, mas seu reinado não está ameaçado"
+        "description": "O dólar é utilizado no comércio global desde 1944, quando foi assinado o acordo de Bretton Woods. Seu uso como reserva tem caído, mas seu reinado não está ameaçado"
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/08/muitas-empresas-ainda-operam-com-estruturas-pensadas-para-um-mundo-pre-ia-adverte-cmo-da-ibm/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Paslar_Cristina_283-0587-300x200.jpg",
         "date": "12/08/2025",
         "description": "Cristina Paslar fala sobre os desafios da adoção de inteligência artificial, o papel do marketing na inovação e como transformar tecnologia em valor real para empresas e consumidores"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/08/saude-feminina-muito-alem-da-medicina-um-cuidado-pela-vida/",
-        "title": "Saúde Feminina: Cuidando Além da Medicina para uma Vida Plena e Duradoura",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/GettyImages-1481074775-300x200.jpg",
-        "date": "12/08/2025",
-        "description": "Encontro reúne especialistas para discutir avanços, desafios e o papel social na promoção do cuidado da mulher"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/08/como-viajar-pode-ajudar-na-superacao-do-luto/",
-        "title": "Como Viajar Pode Ajudar na Superação do Luto",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/1960x0-300x200.webp",
-        "date": "12/08/2025",
-        "description": "Terapeutas dizem que o tipo certo de viagem pode oferecer espaço emocional, perspectiva e rituais que favorecem a cura"
     }
 ]
