@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/brasil-produz-mais-carne-no-2o-tri-de-2025-diz-ibge/",
+        "title": "Brasil Produz Mais Carne no 2º Tri de 2025, Diz IBGE",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Pedacos-de-carne-em-acougue-no-Rio-de-Janeiro-300x200.jpg",
+        "date": "13/08/2025",
+        "description": "O Instituto revelou também um aumento nos abates de animais aumentou em relação ao mesmo período do ano passado"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/eua-perdem-vendas-de-soja-para-china-com-espaco-ocupado-pelo-brasil/",
+        "title": "EUA Perdem Vendas de Soja para China, com Espaço Ocupado Pelo Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Cargas-de-soja-em-porto-300x200.jpg",
+        "date": "13/08/2025",
+        "description": "A China vem reduzindo sua dependência dos produtos agrícolas dos  desde o primeiro mandato de Trump"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/colheita-de-cafe-dos-cooperados-da-cooxupe-atinge-804-da-area/",
+        "title": "Colheita de Café dos Cooperados da Cooxupé Atinge 80,4% da Área",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-300x200.jpg",
+        "date": "13/08/2025",
+        "description": "Trata-se de um avanço de 87,3% no comparativo com a mesma época do ano passada"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/forbes-mulher-agro-a-forca-invisivel-por-tras-da-mesa-do-mundo/",
+        "title": "A Força Invisível por trás da Mesa do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_consumo_China_13ago25_d3sign_Getty-300x200.jpg",
+        "date": "13/08/2025",
+        "description": "O papel estratégico do agro brasileiro na segurança alimentar e energética global e as quais seriam as consequências de uma paralisação inédita"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/petrobras-fundamentos-justificam-queda-das-acoes-pos-balanco/",
         "title": "Petrobras: Fundamentos Justificam Queda das Ações Pós-balanço?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/petrobras-tania-rego-agencia-brasil-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Cana-De-Acucar_31JUl2025_WitthayaPrasongsinGetty-300x200.jpg",
         "date": "13/08/2025",
         "description": "O Departamento elevou sua projeção para o açúcar de beterraba para 5,26 milhões de toneladas contra os 5,09 milhões de toneladas estimados no mês passado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-collab/2025/08/consultorio-proprio-ou-sob-demanda-o-modelo-que-esta-redesenhando-a-medicina-no-brasil/",
-        "title": "Consultório Próprio ou sob Demanda? O Modelo Que Está Redesenhando a Medicina no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Livance_fundadores-48-300x200.jpg",
-        "date": "13/08/2025",
-        "description": "Livance reúne mais de 8 mil médicos em uma rede flexível e conectada, baseada em tecnologia e espaços compartilhados"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/setor-de-suco-de-laranja-ainda-pode-perder-r-154-bilhao-com-tarifaco-de-trump/",
-        "title": "Setor de Suco de Laranja Ainda Pode Perder R$ 1,54 Bilhão com Tarifaço de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/07/agro_suco_laranja_concentrado-_-02jul24__Group4-Studio_Gettyimages-300x200.jpg",
-        "date": "13/08/2025",
-        "description": "Os subprodutos do insumo são muito utilizados pelas indústrias de bebidas e cosméticos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/china-aloca-11-bilhao-de-iuanes-para-apoiar-producao-de-graos/",
-        "title": "China Aloca 1,1 Bilhão de Iuanes para Apoiar Produção de Grãos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-13T140956Z_1_LYNXMPEL7C0LC_RTROPTP_4_MARKETS-GRAIN-CASH-300x200.jpg",
-        "date": "13/08/2025",
-        "description": "O apoio abrangerá 13 regiões chinesas com subsídios para insumos agrícolas em culturas como milho, soja e arroz"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/geoffrey-hinton-e-improvavel-que-a-ia-queira-obedecer-criancas-de-3-anos-e-e-assim-que-elas-nos-verao/",
-        "title": "Geoffrey Hinton: \"É Improvável Que a IA Queira Obedecer Crianças de 3 Anos, e É Assim Que Elas nos Verão.\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/05/Geoffrey-Hinton-300x200.jpg",
-        "date": "13/08/2025",
-        "description": "O pioneiro britânico da inteligência artificial alerta que a chegada de sistemas capazes de pensar além da mente humana pode ocorrer em poucos anos e que a chave não é controlá-los, mas fazer com que eles se importem com a nossa sobrevivência"
     }
 ]
