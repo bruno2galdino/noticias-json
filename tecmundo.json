@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/406314-10-noticias-de-tecnologia-para-voce-comecar-o-dia-1308.htm",
+        "title": "10 notícias de tecnologia para você começar o dia (13/08)",
+        "description": "Comece esta quarta-feira (13) por dentro de tudo o que rolou no mundo da Ciência e Tecnologia.",
+        "image": "https://tm.ibxk.com.br/2025/07/28/28133519635009.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502075-gta-v-enhanced-agora-roda-em-ate-500-fps-e-ray-tracing-com-nova-tecnologia-da-nvidia.htm",
         "title": "GTA V Enhanced agora roda em até 500 fps e Ray Tracing com nova tecnologia da Nvidia",
         "description": "A Rockstar Games e a Nvidia lançaram uma atualização com DLSS 4 em GTA V Enhanced! Veja o que muda no game",
@@ -60,13 +67,6 @@
         "title": "Volta às aulas AliExpress: até 60% OFF em gadgets e consoles portateis",
         "description": "Confira uma seleção de ofertas da liquidação de volta às aulas no AliExpress e aproveite preços mais em conta em itens de marcas como Haylou, Baseus, Amazfit, Colmi e muitas outras por tempo limitado",
         "image": "https://tm.ibxk.com.br/2025/08/12/12152237330036.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406309-brasil-chega-a-15-milhao-de-tv-boxes-piratas-infectadas-malware-bad-box-20.htm",
-        "title": "Brasil chega a 1,5 milhão de TV boxes piratas infectadas malware Bad Box 2.0",
-        "description": "O programa malicioso pode vir pré-instalado nos dispositivo ou ser acionado remotamente, facilitando o roubo de dados e o uso do equipamento em ataques cibernéticos.",
-        "image": "https://tm.ibxk.com.br/2025/08/12/12153733678074.jpg",
         "date": null
     }
 ]
