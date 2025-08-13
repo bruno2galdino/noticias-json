@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/databricks-anuncia-ricardo-buffon-como-country-manager-no-brasil/",
+        "title": "Databricks Anuncia Ricardo Buffon como Country Manager no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/buffoni-300x200.png",
+        "date": "13/08/2025",
+        "description": "Com passagens por Oracle e Google Cloud, o executivo chega para liderar a vertical brasileira da startup avaliada em US$ 62 bilhões"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/08/beyonce-gasta-r-550-mil-em-presentes-louis-vuitton-para-seus-dancarinos/",
         "title": "Beyoncé Gasta R$ 550 Mil em Presentes Louis Vuitton para Seus Dançarinos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.Beyonce-e-seus-dancarinos-se-apresentam-em-Chicago-durante-a-turne-Cowboy-Carter-no-Soldier-Field-no-domingo-18-de-maio-de-2025-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/corporativo-samsung-300x200.png",
         "date": "12/08/2025",
         "description": "O Business Experience Studio conta com 389 metros quadrados dentro da sede da empresa sul-coreana na capital paulista"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/08/arthur-guerra-os-riscos-ocultos-da-terapia-via-ia-para-adolescentes/",
-        "title": "Os Riscos Ocultos da Terapia Via IA para Adolescentes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/adolescente-computador_ia-300x200.jpg",
-        "date": "12/08/2025",
-        "description": "Resposta imprecisa ou distorcida dessa tecnologia pode funcionar como gatilho para uma crise de saúde mental"
     }
 ]
