@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/voxel/502075-gta-v-enhanced-agora-roda-em-ate-500-fps-e-ray-tracing-com-nova-tecnologia-da-nvidia.htm",
+        "title": "GTA V Enhanced agora roda em até 500 fps e Ray Tracing com nova tecnologia da Nvidia",
+        "description": "A Rockstar Games e a Nvidia lançaram uma atualização com DLSS 4 em GTA V Enhanced! Veja o que muda no game",
+        "image": "https://tm.ibxk.com.br/2025/08/12/12134135473030.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/software/406310-waze-deve-parar-de-funcionar-em-smartphones-antigos.htm",
+        "title": "Waze deve parar de funcionar em smartphones antigos",
+        "description": "Próxima atualização do software de direção solicita um sistema operacional mais avançado que aparelhos mais velhos não têm.",
+        "image": "https://tm.ibxk.com.br/2025/08/12/12152545115048.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/601864-o-que-aconteceu-com-as-criancas-em-a-hora-do-mal-entenda-o-final-do-filme-de-terror.htm",
         "title": "O que aconteceu com as crianças em A Hora do Mal? Entenda o final do filme de terror",
         "description": "A Hora do Mal, filme do mesmo diretor de Noites Brutais, traz uma história intrigante e assustadora. Entenda o final da produção de terror que está nos cinemas!",
@@ -53,20 +67,6 @@
         "title": "Brasil chega a 1,5 milhão de TV boxes piratas infectadas malware Bad Box 2.0",
         "description": "O programa malicioso pode vir pré-instalado nos dispositivo ou ser acionado remotamente, facilitando o roubo de dados e o uso do equipamento em ataques cibernéticos.",
         "image": "https://tm.ibxk.com.br/2025/08/12/12153733678074.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406312-play-store-esta-com-3-apps-e-20-pacotes-de-icones-gratis-por-tempo-limitado-baixe-agora.htm",
-        "title": "Play Store está com 3 apps e 20 pacotes de ícones grátis por tempo limitado; baixe agora",
-        "description": "Confira uma lista de aplicativos grátis por tempo limitado na Play Store escolhidos pela curadoria do TecMundo",
-        "image": "https://tm.ibxk.com.br/2025/03/27/27132827967345.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/internet/406258-netflix-de-ia-amazon-lanca-showrunner-um-streaming-que-permite-criar-suas-proprias-series.htm",
-        "title": "Netflix de IA: Amazon lança Showrunner, um streaming que permite criar suas próprias séries",
-        "description": "Desenvolvido pela Fable, a plataforma usa IA generativa para permitir que os usuários criem suas próprias cenas",
-        "image": "https://tm.ibxk.com.br/2025/08/12/12163329539018.jpg",
         "date": null
     }
 ]
