@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/dentro-da-mina-que-abastece-o-mundo-da-tecnologia-e-financia-os-rebeldes-do-congo/",
+        "title": "Dentro da Mina Que Abastece o Mundo da Tecnologia — e Financia os Rebeldes do Congo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mineradores-no-Congo-300x200.png",
+        "date": "13/08/2025",
+        "description": "O minério de coltan, essencial para dispositivos como celulares e computadores, é extraído por trabalhadores precarizados (incluindo crianças) na cidade de Rubaya, no Congo"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/forbes-mulher-agro-reune-liderancas-no-rooftop-do-fasano-para-debater-governanca-pos-sucessao-e-economia/",
         "title": "Forbes Mulher Agro Reúne Lideranças no Rooftop do Fasano para Debater Governança Pós Sucessão e Economia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_FMA_encontro-Fasano_11ago25_LuPrezia-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/1500x1000-300x200.jpg",
         "date": "13/08/2025",
         "description": "Das 25 empresas que têm potencial para ultrapassar a marco do US$ 1 bilhão, 20 são de inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/o-que-explica-o-fracasso-do-chatgpt-5-e-como-a-openai-vai-reagir/",
-        "title": "O Que Explica O Fracasso Do ChatGPT-5 E Como A OpenAI Vai Reagir?",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/11/Samuel-Altman-300x200.jpg",
-        "date": "13/08/2025",
-        "description": "A expectativa era de um salto de eficiência, mas as primeiras reações foram, em muitos casos, de decepção, com usuários relatando que a nova versão parece \"mais burra\""
     }
 ]
