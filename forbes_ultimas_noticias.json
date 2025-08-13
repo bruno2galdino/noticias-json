@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/petrobras-fundamentos-justificam-queda-das-acoes-pos-balanco/",
+        "title": "Petrobras: Fundamentos Justificam Queda das Ações Pós-balanço?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/petrobras-tania-rego-agencia-brasil-300x200.jpg",
+        "date": "13/08/2025",
+        "description": "Petroleira perdeu R$ 32 bilhões em valor de mercado logo após balanço, com alguns investidores temerosos com a política de investimentos da empresa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/governo-anuncia-lista-de-medidas-de-contingencia-para-amenizar-tarifaco-veja-lista-completa-de-acoes/",
+        "title": "Governo Anuncia Lista de Medidas de Contingência para Amenizar Tarifaço; Veja Lista Completa de Ações",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/lei-da-reciprocidade-exportacao-do-brasil-importacao-economia-300x200.png",
+        "date": "13/08/2025",
+        "description": "Objetivo é garantir desenvolvimento econômico, mantendo setores dependentes dos EUA em funcionamento"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/guerlain-lanca-perfume-maturado-em-barris-de-conhaque-hennessy/",
+        "title": "Guerlain Lança Perfume Maturado em Barris de Conhaque Hennessy no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Guerlain-Hennessy-2-300x200.jpg",
+        "date": "13/08/2025",
+        "description": "Primeiro perfume âmbar masculino da história, o Habit Rouge ganha nova versão em seu aniversário de 60 anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/empresas-precisam-focar-em-resolver-problemas-reais-com-a-ia-diz-paula-bellizia-vp-da-aws-na-america-latina/",
+        "title": "\"Empresas Precisam Focar em Resolver Problemas Reais com a IA\", Diz Paula Bellizia, VP da AWS na América Latina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Paula-Bellizia-AWS-300x200.png",
+        "date": "13/08/2025",
+        "description": "Durante o AWS Summit São Paulo, a executiva compartilhou as tendências para uma adoção bem-sucedida da inteligência artificial"
+    },
+    {
         "url": "https://forbes.com.br/sem-categoria/2025/08/pesquisa-revela-que-consumo-de-alcool-nos-eua-esta-em-nivel-recorde-de-baixa-com-aumento-de-preocupacoes-com-saude/",
         "title": "Pesquisa Revela Que Consumo de Álcool nos EUA Está em Nível Recorde de Baixa com Aumento de Preocupações com Saúde",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-13T135256Z_2_LYNXMPEL7C0KQ_RTROPTP_4_EUA-CONSUMO-ALCOOL-PESQUISA-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/05/Geoffrey-Hinton-300x200.jpg",
         "date": "13/08/2025",
         "description": "O pioneiro britânico da inteligência artificial alerta que a chegada de sistemas capazes de pensar além da mente humana pode ocorrer em poucos anos e que a chave não é controlá-los, mas fazer com que eles se importem com a nossa sobrevivência"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/dentro-da-mina-que-abastece-o-mundo-da-tecnologia-e-financia-os-rebeldes-do-congo/",
-        "title": "Dentro da Mina Que Abastece o Mundo da Tecnologia — e Financia os Rebeldes do Congo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mineradores-no-Congo-300x200.png",
-        "date": "13/08/2025",
-        "description": "O minério de coltan, essencial para dispositivos como celulares e computadores, é extraído por trabalhadores precarizados (incluindo crianças) na cidade de Rubaya, no Congo"
-    },
-    {
-        "url": "https://forbes.com.br/eventos/2025/08/forbes-mulher-agro-reune-liderancas-no-rooftop-do-fasano-para-debater-governanca-pos-sucessao-e-economia/",
-        "title": "Forbes Mulher Agro Reúne Lideranças para Debater Governança",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_FMA_encontro-Fasano_11ago25_LuPrezia-300x200.jpg",
-        "date": "13/08/2025",
-        "description": "Grupo com 51 produtoras rurais, executivas e diretoras do agronegócio, criado há três anos, mantém encontros regulares como think tank"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/governo-afirma-que-lancara-pacote-de-r-30-bilhoes-para-empresas-afetadas-por-tarifaco/",
-        "title": "Governo Afirma Que Lançará Pacote de R$ 30 Bilhões para Empresas Afetadas por Tarifaço",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-10-300x200.png",
-        "date": "13/08/2025",
-        "description": "Enquanto isso, Brasil buscará solução ao problema na Organização Mundial do Comércio"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/grupo-porto-tem-crescimento-de-50-no-lucro-e-rentabilidade-acima-dos-24/",
-        "title": "Grupo Porto Tem Crescimento de 50% no Lucro e Rentabilidade Acima dos 24%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Porto_02-2-1-300x200.jpg",
-        "date": "13/08/2025",
-        "description": "Vertical de serviços foi a única com recuo no lucro, com queda de 6,5%"
     }
 ]
