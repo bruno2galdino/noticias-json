@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/precos-ao-produtor-dos-eua-aceleram-em-julho-com-aumento-de-custos-de-servicos-e-bens/",
+        "title": "Preços Ao Produtor dos EUA Aceleram em Julho com Aumento de Custos de Serviços e Bens",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-2-1-300x200.png",
+        "date": "14/08/2025",
+        "description": "No acumulado dos 12 últimos meses até julho, o índice registra alta de 3,3%"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/jbs-tem-alta-de-606-no-lucro-adquire-unidade-nos-eua-e-anuncia-recompra-de-acoes/",
+        "title": "JBS tem Alta de 60,6% no Lucro, Adquire Unidade nos EUA e Anuncia Recompra de Ações",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_JBS_carne_proteina_12novt24_Divulgacao-1-300x200.jpg",
+        "date": "14/08/2025",
+        "description": "Divulgação de resultados foi a primeira após a companhia listar suas ações na Bolsa de Valores americana; receita recorde ocorre mesmo em cenário de um ciclo desafiador"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-investidor-aguarda-mais-dados-de-inflacao-nos-eua/",
         "title": "Pré-mercado: Investidor Aguarda Mais Dados de Inflação nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/960x0-2-300x200.jpg",
         "date": "14/08/2025",
         "description": "A maioria das pessoas desiste antes mesmo de começar por causa dessas armadilhas comuns do mindset. Veja como reconhecê-las e evitá-las para obter resultados reais"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/arte-de-laura-vinci-leva-quatro-decadas-de-carreira-ao-mube/",
-        "title": "Arte de Laura Vinci Leva Quatro Décadas de Carreira Ao MuBE",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.A-artista-conceitual-Laura-Vinci-foto-de-Jennifer-Glass-300x200.jpg",
-        "date": "14/08/2025",
-        "description": "Em Fluxos, a artista conceitual Laura Vinci dialoga com a arquitetura de Paulo Mendes da Rocha no MuBE, em São Paulo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/08/acabar-com-a-fome-e-uma-decisao-social-e-economica-diz-geyze-diniz-fundadora-do-pacto-contra-a-fome/",
-        "title": "Geyze Diniz: “Acabar com a Fome é uma Decisão Social e Econômica”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-geyze-diniz-pacto-contra-fome-3-300x200.jpg",
-        "date": "13/08/2025",
-        "description": "Evento celebra dois anos da organização e destaca avanços na erradicação da fome e redução do desperdício de alimentos no Brasil"
     }
 ]
