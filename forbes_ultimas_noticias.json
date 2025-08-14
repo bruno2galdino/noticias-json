@@ -1,8 +1,50 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-recua-com-tombo-de-raizen/",
+        "title": "Mesmo em Meio à Onda Global de Fraqueza, Dólar Encerra em Leve Alta de 0,31%",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa-300x200.png",
+        "date": "14/08/2025",
+        "description": "Ibovespa recua 0,12% na reta final da temporada de balanços"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/oracle-e-google-firmam-acordo-para-oferecer-modelos-gemini/",
+        "title": "Oracle e Google Firmam Acordo para Oferecer Modelos Gemini",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/12/Gemini-300x200.png",
+        "date": "14/08/2025",
+        "description": "O acordo permitirá que desenvolvedores utilizem os modelos do Google para gerar textos, vídeos, imagens e áudios enquanto operam na nuvem"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2025/08/comcast-e-honda-assinam-primeiro-naming-rights-olimpico/",
+        "title": "Comcast e Honda Assinam Primeiro Naming Rights Olímpico",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-7-300x200.png",
+        "date": "14/08/2025",
+        "description": "A Comcast emprestará seu nome ao Comcast Squash Center no Universal Studios, onde o squash fará sua estreia olímpica; já  Honda Center receberá os jogos de vôlei"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/jbs-preve-melhora-no-ciclo-pecuario-nos-eua-a-partir-do-final-de-2027/",
+        "title": "JBS Prevê Melhora no Ciclo Pecuário nos EUA a Partir do Final de 2027",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Logo-da-JBS-na-New-York-Stock-Exchange-300x200.jpg",
+        "date": "14/08/2025",
+        "description": "As restrições às exportações de frango brasileiro da China e da União Europeia, aplicadas desde maio após um surto de gripe aviária no maior exportador de aves do mundo, também estão pesando sobre a JBS"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/chinesas-meituan-e-didi-brigam-na-justica-por-mercado-de-entrega-de-comida-no-brasil/",
+        "title": "Chinesas Meituan e DiDi Brigam na Justiça por Mercado de Entrega de Comida no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Entregador-de-delivery-300x200.jpg",
+        "date": "14/08/2025",
+        "description": "O anúncio do processo da Keeta veio dois dias depois que a 99 divulgou seu investimento de R$1 bilhão no segmento de delivery de comida no Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/08/taylor-swift-diz-que-novo-album-reflete-alegria-da-recente-turne/",
+        "title": "Taylor Swift Diz Que Novo Álbum Reflete Alegria da Recente Turnê",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/taylor-swift-300x200.png",
+        "date": "14/08/2025",
+        "description": "The Life of a Showgirl será lançado no próximo dia 3 de outubro, segundo a cantora pop"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/08/novo-tipo-de-supernova-surge-apos-explosao-causada-por-buraco-negro/",
         "title": "Novo Tipo de Supernova Surge após Explosão Causada por Buraco Negro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-2-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-3-300x200.jpg",
         "date": "14/08/2025",
         "description": "Fenômeno cósmico raro revela como buracos negros podem acender supernovas fatais"
     },
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Logo-da-Valentino-em-loja-de-Roma-300x200.jpg",
         "date": "14/08/2025",
         "description": "A Valentino chegou a um acordo mútuo com Venturini para rescindir seu contrato de trabalho e suas funções no conselho a partir de quarta-feira"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/mclaren-vai-leiloar-carro-de-f1-de-2026-antes-de-ele-entrar-na-pista/",
-        "title": "McLaren Vai Leiloar Carro de F1 de 2026 Antes de Ele Entrar na Pista",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-14T142922Z_1_LYNXMPEL7D0NE_RTROPTP_4_F1-MCLAREN-CARRO-LEILAO-300x200.jpg",
-        "date": "14/08/2025",
-        "description": "Segundo Zak Brown, será a primeira vez que um carro futuro de F1 será leiloado antes de sua apresentação oficial"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/conab-ve-mais-exportacao-de-milho-do-brasil-com-embates-tarifarios-dos-eua/",
-        "title": "Conab Vê Mais Exportação de Milho do Brasil com Embates Tarifários dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-14T150433Z_1_LYNXMPEL7D0NX_RTROPTP_4_BRAZIL-COTTON-SOYBEANS-300x200.jpg",
-        "date": "14/08/2025",
-        "description": "Estatal agrícola atribui alta nas exportações à maior oferta interna e à demanda externa aquecida, em meio a disputas comerciais entre EUA e importadores"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/eneva-ve-despacho-elevado-de-termicas-e-necessidade-premente-de-capacidade-para-setor-eletrico/",
-        "title": "Eneva Vê Despacho Elevado de Térmicas e Necessidade \"Premente\" de Capacidade para Setor Elétrico",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-14T151318Z_1_LYNXMPEL7D0OK_RTROPTP_4_BRAZIL-300x200.jpg",
-        "date": "14/08/2025",
-        "description": "Executivo prevê forte operação da termelétrica Parnaíba até novembro, impulsionada por preços altos e demanda na estação seca"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/realme-planeja-fabricar-50-mil-celulares-mensalmente-em-manaus/",
-        "title": "Realme Planeja Fabricar 50 Mil Celulares Mensalmente em Manaus",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/country-manager-realme-e-mercado-livre-300x200.png",
-        "date": "14/08/2025",
-        "description": "Em entrevista à Forbes Brasil, Xiaoyi Shao, country manager da fabricante de smartphones chinesa, explica detalhes das operações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/08/mais-da-metade-das-marcas-brasileiras-planeja-elevar-investimento-em-marketing-de-influencia-em-2025/",
-        "title": "Mais da Metade das Marcas Brasileiras Planeja Elevar Investimento em Marketing de Influência em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/GettyImages-1390556151-300x200.jpg",
-        "date": "14/08/2025",
-        "description": "ROI comprovado e liderança engajada impulsionam setor, mas desafios de mensuração persistem"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/eve-capta-us-230-milhoes-e-anuncia-listagem-dupla-no-brasil-e-nos-eua/",
-        "title": "Eve Capta US$ 230 Milhões e Anuncia Listagem Dupla no Brasil e nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/07/Eve-Evolts-300x200.jpg",
-        "date": "14/08/2025",
-        "description": "O aumento de capital foi realizado com recursos próprios, do BNDES e de parceiros privados por meio de uma oferta direta registrada"
     }
 ]
