@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/bonini-vence-em-tres-sets-e-faz-semi-no-pan-americano-junior.html",
+        "title": "Bonini vence em três sets e faz semi no Pan-Americano Júnior",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/bonini_pan_junior_preparasaque-1024x604.jpg",
+        "date": "14/08/2025",
+        "description": "Assunção (Paraguai) –O paranaense João Pedro Bonini será o representante brasileiro nas semifinais dos Jogos Pan-Americanos Júnior, em Assunção. Principal cabeça de chave, Bonini venceu o paraguaio Alex Santino por 7/6 (7-4), 2/6 e 6/4 em 2h41 de partida."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/iga-sabalenka-e-alcaraz-jogam-a-tarde-gauff-fecha-as-21h30.html",
         "title": "Iga, Sabalenka e Alcaraz jogam à tarde, Gauff fecha às 21h30",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/alcaraz_cincy_desliza_KR-1024x683.jpg",
         "date": "14/08/2025",
         "description": "Cincinnati (EUA) –A sexta-feira em Cincinnati terá seis jogos das quartas de final, todas as partidas da chave feminina e as duas últimas do masculino. Lembrando que as semifinais dos homens serão nos sábado e as das mulheres no domingo, com finais previstas para segunda-feira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/vinda-do-quali-gracheva-faz-quartas-e-enfrenta-kudermetova.html",
+        "title": "Vinda do quali, Gracheva faz quartas e enfrenta Kudermetova",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/gracheva_cincy_vibra-1024x585.jpg",
+        "date": "14/08/2025",
+        "description": "Cincinnati (EUA) –No encontro entre duas jogadoras vindas do quali, a francesa Varvara Gracheva levou a melhor sobre a jovem alemã de 20 anos Ella Seidel para chegar às quartas de final do WTA 1000 de Cincinnati. Atual 103ª do ranking, a francesa de 25 anos marcou as parciais de 2/6, 6/1 e 6/1 para fazer sua melhor campanha em torneios deste nível."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/monteiro-define-calendario-com-quali-em-ny-e-challengers-na-europa.html",
@@ -35,13 +49,6 @@
         "description": "Bydgoszcz (Polônia) –A gaúcha Gabriela Cé faz mais uma boa semana no saibro europeu. Vinda de uma semifinal na Bélgica, a canhota de 32 anos e 391ª do ranking está nas quartas de final do ITF W35 de Bydgoszcz, na Polônia."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/vinda-do-quali-gracheva-faz-quartas-de-wta-1000-pela-1a-vez.html",
-        "title": "Vinda do quali, Gracheva faz quartas de WTA 1000 pela 1ª vez",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/gracheva_cincy_vibra-1024x585.jpg",
-        "date": "14/08/2025",
-        "description": "Cincinnati (EUA) –No encontro entre duas jogadoras vindas do quali, a francesa Varvara Gracheva levou a melhor sobre a jovem alemã de 20 anos Ella Seidel para chegar às quartas de final do WTA 1000 de Cincinnati. Atual 103ª do ranking, a francesa de 25 anos marcou as parciais de 2/6, 6/1 e 6/1 para fazer sua melhor campanha em torneios deste nível."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/lideres-do-ranking-superam-melo-e-zverev-em-cincinnati.html",
         "title": "Líderes do ranking superam Melo e Zverev em Cincinnati",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/arevalo-pavic-cincinnati-2025-r2-1024x576.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/sinner_cincy_vibra_2R-1024x683.jpg",
         "date": "14/08/2025",
         "description": "Cincinnati (EUA) –Pela primeira vez em três confrontos, Jannik Sinner conseguiu superar o canadense Félix Auger-Aliassime para garantir seu lugar na semifinal do Masters 1000 de Cincinnati. Líder do ranking mundial e atual campeão do torneio, o italiano marcou as parciais de 6/0 e 6/2 em 1h11."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/cincinnati-ja-acumula-16-desistencias-durante-os-torneios.html",
-        "title": "Cincinnati já acumula 16 desistências durante os torneios",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/tiafoe_cincy_back_KR-1024x683.jpg",
-        "date": "14/08/2025",
-        "description": "Cincinnati (EUA) –Ainda que as chaves do Masters 1000 e WTA 1000 de Cincinnati tenham contado com três nomes de peso que não estiveram em quadra no Canadá, Jannik Sinner, Carlos Alcaraz e Aryna Sabalenka, o torneio tem sofrido com muitas desistências. Até está quinta-feira, já foram 16 tenistas que abandonaram as disputas em simples."
     }
 ]
