@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/cargill-bioenergia-construira-usina-de-etanol-de-milho-em-goias/",
+        "title": "Cargill Bioenergia Construirá Usina de Etanol de Milho em Goiás",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Carregamento-de-milho-em-caminhao-300x200.jpg",
+        "date": "15/08/2025",
+        "description": "O movimento da multinacional no Brasil acontece após a Cargill ter anunciado em fevereiro acordo para comprar 50% de participação na SJC Bioenergia"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/em-dia-forte-de-divulgacao-de-balancos-ibovespa-fecha-quase-estavel/",
+        "title": "Em dia forte de divulgação de balanços, Ibovespa fecha quase estável",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-11-300x200.png",
+        "date": "15/08/2025",
+        "description": "O dólar terminou o dia em baixa de 0,37%, refletindo perdas da moeda no exterior diante de dados econômicos mistos nos EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/08/conselhao-e-cop30-decisoes-cruciais-a-tres-meses-da-conferencia/",
         "title": "Conselhão e COP30: Decisões Cruciais a Três Meses da Conferência",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_Manaus_17ago25_Anderson-Coelho_Getty-300x200.jpg",
@@ -9,7 +23,7 @@
     {
         "url": "https://forbes.com.br/forbesagro/2025/08/brf-espera-que-china-e-ue-retomem-importacoes-de-carne-de-frango-do-brasil/",
         "title": "BRF espera que China e UE retomem importações de carne de frango do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-4-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_CarneDeFrango_19ago2025_Reuters-300x200.jpg",
         "date": "15/08/2025",
         "description": "A administração da companhia informou que os estoques aumentaram acima dos níveis desejáveis devido às restrições à exportação"
     },
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/11/agro_banco-do-Brasil_15novt24_ArqPessoal-300x200.jpg",
         "date": "15/08/2025",
         "description": "Nível de retorno sobre patrimônio líquido (ROE) ficou em 8,4%, o menor entre os quatro grandes bancos brasileiros"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/producao-de-acucar-do-centro-sul-recua-08-na-2a-quinzena-de-julho-apesar-de-mix-de-54/",
-        "title": "Produção de Açúcar do Centro-sul Recua 0,8% na 2ª Quinzena de Julho Apesar de Mix de 54%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-15T142503Z_1_LYNXMPEL7E0KE_RTROPTP_4_BRAZIL-ETHANOL-300x200.jpg",
-        "date": "15/08/2025",
-        "description": "Condições climáticas recentes reduzem a qualidade da matéria-prima no setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/plataforma-da-petrobras-em-buzios-alcanca-recorde-de-maior-vazao-por-unidade-na-empresa/",
-        "title": "Plataforma da Petrobras em Búzios Alcança Recorde de Maior Vazão por Unidade na Empresa",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/04/Money_petrobras-300x200.jpg",
-        "date": "15/08/2025",
-        "description": "Em menos de seis meses, o Almirante Tamandaré atingiu sua capacidade total de 225 mil barris/dia com apenas cinco poços em operação"
     }
 ]
