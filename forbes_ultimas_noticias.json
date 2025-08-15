@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/08/buffet-da-area-vip-da-lady-gaga-e-doacao-de-r-80-mil-os-bastidores-do-aniversario-de-bruna-marquezine/",
+        "title": "Buffet da Área Vip da Lady Gaga e Doação de R$ 80 Mil: os Bastidores do Aniversário de Bruna Marquezine",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Bruna-Marquezine-300x200.jpg",
+        "date": "15/08/2025",
+        "description": "Evento para 200 pessoas acontecerá na Ilha Fiscal, local histórico do Rio de Janeiro, e terá gastronomia do buffet que atendeu Gaga e Madonna em Copacabana"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/brf-lucra-r-735-mi-no-2o-tri-mesmo-com-surto-de-gripe-aviaria/",
+        "title": "BRF Lucra R$ 735 Mi no 2º Tri Mesmo com Surto de Gripe Aviária",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_BRF_7AGO2025_RodolfoBuhrer_Reuters-300x200.jpg",
+        "date": "15/08/2025",
+        "description": "A receita líquida totalizou R$ 15,36 bilhões, um aumento de 2,9% ano a ano, segundo a empresa"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/marfrig-fatura-r-85-milhoes-no-2o-tri-alta-de-13/",
+        "title": "Marfrig Fatura R$ 85 Milhões no 2º Tri, Alta de 13%",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/01/Agro_Marfrig_Getty.jpg",
+        "date": "15/08/2025",
+        "description": "A empresa, que está em processo para incorporação das ações da BRF, atingiu uma receita líquida consolidada de R$ 37,8 bilhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/forbes-mulher-agro-cafe-brasileiro-um-novo-simbolo-de-modernidade-globalizacao-e-abertura-cultural/",
+        "title": "China Abraça o Café Brasileiro e Redesenha o Mercado Global da Bebida",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Cafe_7AGO2025_Filmstax_GettyImages-300x200.jpg",
+        "date": "15/08/2025",
+        "description": "Mudança de hábitos coloca o grão no centro de uma transformação cultural e econômica que movimenta bilhões e redefine o consumo no país asiático"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/agronegocio-e-vilao-e-banco-do-brasil-ve-lucro-despencar-60/",
         "title": "Agronegócio Influencia e Banco do Brasil Vê Lucro Despencar 60%",
         "image": "https://forbes.com.br/wp-content/uploads/2024/11/agro_banco-do-Brasil_15novt24_ArqPessoal-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Brasil-cafe-exportacoes-EUA-Brasil-x-EUA-Agro-Money-300x200.png",
         "date": "15/08/2025",
         "description": "Presidente da cooperativa aponta que commodity é muito importante para o dia a dia dos americanos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/vendas-no-varejo-dos-eua-sobem-em-julho/",
-        "title": "Vendas no Varejo dos EUA Sobem em Julho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/varejo-EUA-vendas-Money-300x200.png",
-        "date": "15/08/2025",
-        "description": "Avanço é inferior à alta revisada para cima registrada no mês de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/black-mirror-vai-virar-uma-historia-em-quadrinhos-veja-uma-previa-gratuita/",
-        "title": "'Black Mirror' Vai Virar uma História em Quadrinhos; Veja uma Prévia Gratuita",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/bm4-300x200.jpg",
-        "date": "15/08/2025",
-        "description": "Na quinta-feira, a editora independente britânica Twisted Comics lançou na plataforma de jogos Steam as primeiras 20 páginas da edição inaugural da série de quadrinhos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-por-que-a-reuniao-entre-trump-e-putin-e-relevante/",
-        "title": "Pré-mercado: Por Que a Reunião entre Trump e Putin É Relevante?",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "15/08/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 15 de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/drawback-vai-alem-de-carros-e-eletronicos-o-agro-tambem-precisa-dele-para-se-proteger-do-tarifaco/",
-        "title": "Drawback Vai Além de Carros e Eletrônicos, o Agro Também Precisa Dele para se Proteger do Tarifaço",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_laranja_agroindustria_17ago25_Siculodoc_Divulg-300x200.jpg",
-        "date": "15/08/2025",
-        "description": "Pacote de R$ 30 bilhões amplia seu uso, que se torna decisivo para as agroindústrias de carnes, sucos, óleos vegetais, soja, café e açúcar manterem competitividade frente às sobretaxas dos EUA"
     }
 ]
