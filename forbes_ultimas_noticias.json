@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/black-mirror-vai-virar-uma-historia-em-quadrinhos-veja-uma-previa-gratuita/",
+        "title": "'Black Mirror' Vai Virar uma História em Quadrinhos; Veja uma Prévia Gratuita",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/bm4-300x200.jpg",
+        "date": "15/08/2025",
+        "description": "Na quinta-feira, a editora independente britânica Twisted Comics lançou na plataforma de jogos Steam as primeiras 20 páginas da edição inaugural da série de quadrinhos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-por-que-a-reuniao-entre-trump-e-putin-e-relevante/",
         "title": "Pré-mercado: Por Que a Reunião entre Trump e Putin É Relevante?",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.As-reservas-das-vilas-de-Christian-Louboutin-ja-estao-abertas-300x200.jpg",
         "date": "15/08/2025",
         "description": "O designer de sapatos acaba de expandir sua presença hoteleira no Alentejo, com duas novas vilas privativas com interiores assinados por ele"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-recua-com-tombo-de-raizen/",
-        "title": "Mesmo em Meio à Onda Global de Fraqueza, Dólar Encerra em Leve Alta de 0,31%",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa-300x200.png",
-        "date": "14/08/2025",
-        "description": "Ibovespa recua 0,12% na reta final da temporada de balanços"
     }
 ]
