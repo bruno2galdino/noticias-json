@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/agronegocio-e-vilao-e-banco-do-brasil-ve-lucro-despencar-60/",
+        "title": "Agronegócio Influencia e Banco do Brasil Vê Lucro Despencar 60%",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/agro_banco-do-Brasil_15novt24_ArqPessoal-300x200.jpg",
+        "date": "15/08/2025",
+        "description": "Nível de retorno sobre patrimônio líquido (ROE) ficou em 8,4%, o menor entre os quatro grandes bancos brasileiros"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/producao-de-acucar-do-centro-sul-recua-08-na-2a-quinzena-de-julho-apesar-de-mix-de-54/",
         "title": "Produção de Açúcar do Centro-sul Recua 0,8% na 2ª Quinzena de Julho Apesar de Mix de 54%",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-15T142503Z_1_LYNXMPEL7E0KE_RTROPTP_4_BRAZIL-ETHANOL-300x200.jpg",
@@ -7,7 +14,7 @@
         "description": "Condições climáticas recentes reduzem a qualidade da matéria-prima no setor"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/08/plataforma-da-petrobras-em-buzios-alcanca-recorde-de-maior-vazao-por-unidade-na-empresa/",
+        "url": "https://forbes.com.br/forbes-money/2025/08/plataforma-da-petrobras-em-buzios-alcanca-recorde-de-maior-vazao-por-unidade-na-empresa/",
         "title": "Plataforma da Petrobras em Búzios Alcança Recorde de Maior Vazão por Unidade na Empresa",
         "image": "https://forbes.com.br/wp-content/uploads/2024/04/Money_petrobras-300x200.jpg",
         "date": "15/08/2025",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_laranja_agroindustria_17ago25_Siculodoc_Divulg-300x200.jpg",
         "date": "15/08/2025",
         "description": "Pacote de R$ 30 bilhões amplia seu uso, que se torna decisivo para as agroindústrias de carnes, sucos, óleos vegetais, soja, café e açúcar manterem competitividade frente às sobretaxas dos EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/regras-de-ia-da-meta-permitiram-conversas-sensuais-de-bots-com-criancas/",
-        "title": "Regras de IA da Meta Permitiram Conversas “Sensuais” de Bots com Crianças",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-meta--300x200.jpg",
-        "date": "15/08/2025",
-        "description": "A Reuters analisou um documento interno da Meta e descobriu como os modelos de IA da plataforma operam em relação a tópicos sensíveis"
     }
 ]
