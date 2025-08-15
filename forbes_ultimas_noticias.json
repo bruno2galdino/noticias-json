@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-por-que-a-reuniao-entre-trump-e-putin-e-relevante/",
+        "title": "Pré-mercado: Por Que a Reunião entre Trump e Putin É Relevante?",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "15/08/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 15 de agosto"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/drawback-vai-alem-de-carros-e-eletronicos-o-agro-tambem-precisa-dele-para-se-proteger-do-tarifaco/",
         "title": "Drawback Vai Além de Carros e Eletrônicos, o Agro Também Precisa Dele para se Proteger do Tarifaço",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_laranja_agroindustria_17ago25_Siculodoc_Divulg-300x200.jpg",
@@ -18,7 +25,7 @@
         "title": "Os Prós e Contras do Plano do Brasil para Enfrentar o Tarifaço",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-9-300x200.png",
         "date": "15/08/2025",
-        "description": "Para Especialistas, Plano Brasil Soberano Ajuda, Mas Gera Incertezas Fiscais e jurídicas"
+        "description": "Para especialistas, Plano Brasil Soberano ajuda, mas gera incertezas fiscais e jurídicas"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/08/vinho-e-ouro-liquido-de-us-323-bi-para-a-economia-dos-eua-diz-presidente-da-wine-america/",
@@ -29,7 +36,7 @@
     },
     {
         "url": "https://forbes.com.br/forbessaude/2025/08/3-maneiras-pelas-quais-o-habito-de-demonstrar-afeto-previsivel-protege-o-amor/",
-        "title": "3 Maneiras Pelas Quais o Hábito de Demonstrar Afeto Previsível Protege o Amor",
+        "title": "3 Razões Pelas Quais o Hábito de Demonstrar Afeto Previsível Protege o Amor",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/960x0-1-1-300x200.jpg",
         "date": "15/08/2025",
         "description": "A surpresa sempre terá seu lugar nos relacionamentos. Mas é no afeto previsível que vivem a verdadeira segurança e conexão"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Fechamento_Bolsa-300x200.png",
         "date": "14/08/2025",
         "description": "Ibovespa recua 0,12% na reta final da temporada de balanços"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/oracle-e-google-firmam-acordo-para-oferecer-modelos-gemini/",
-        "title": "Oracle e Google Firmam Acordo para Oferecer Modelos Gemini",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/12/Gemini-300x200.png",
-        "date": "14/08/2025",
-        "description": "O acordo permitirá que desenvolvedores utilizem os modelos do Google para gerar textos, vídeos, imagens e áudios enquanto operam na nuvem"
     }
 ]
