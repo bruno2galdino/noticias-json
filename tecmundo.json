@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/guia-de-compras/406400-uno-dobble-e-mais-descubra-os-jogos-mais-comprados-na-amazon.htm",
+        "title": "Uno, Dobble e mais: descubra os jogos mais comprados na Amazon",
+        "description": "Jogos como UNO, Dobble, War e Banco Imobiliário estão entre os mais comprados na Amazon, confira e garanta diversão para todas as idades!",
+        "image": "https://tm.ibxk.com.br/2025/07/18/18171122571089.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406397-servico-da-microsof-tem-brecha-vulneravel-a-ataques-de-autenticacao-descobrem-pesquisadores.htm",
+        "title": "Serviço da Microsoft tem brecha vulnerável a ataques de autenticação, descobrem pesquisadores",
+        "description": "Uma vulnerabilidade contida no Microsoft Entra ID permite o downgrade do método de autenticação para uma alternativa mais vulnerável",
+        "image": "https://tm.ibxk.com.br/2025/07/23/23222539956013.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/601904-assista-agora-filme-gratis-mostra-como-reconhecer-e-se-proteger-de-predadores-sexuais-online.htm",
+        "title": "Assista agora! Filme grátis mostra como reconhecer e se proteger de predadores sexuais online",
+        "description": "O documentário Realidade Violada, disponível de graça no YouTube, mostra atuação da polícia para combater predadores sexuais e traz dicas de como proteger as crianças online.",
+        "image": "https://tm.ibxk.com.br/2025/08/16/16095127277004.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/601901-dias-perfeitos-tem-quantos-episodios-veja-calendario-de-lancamento.htm",
         "title": "Dias Perfeitos tem quantos episódios? Veja calendário de lançamento",
         "description": "Dias Perfeitos mostra um relacionamento casual se transformando em uma relação perigosa",
@@ -39,34 +60,6 @@
         "title": "Como estão Margarida e Renê Bonetti, de A Mulher da Casa Abandonada, hoje em dia?",
         "description": "Confira como estão as pessoas da série do Prime Video atualmente, incluindo Margarida Bonetti",
         "image": "https://tm.ibxk.com.br/2025/08/15/15175138017062.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406373-microsoft-revela-falhas-graves-de-seguranca-em-recurso-nativo-do-windows.htm",
-        "title": "Microsoft revela falhas graves de segurança em recurso nativo do Windows",
-        "description": "A empresa descreveu como percebeu que o BitLocker ampliou a superfície vulnerável a ataques do WinRE, ferramenta de recuperação de sistema",
-        "image": "https://tm.ibxk.com.br/2025/03/19/19120018544195.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502105-nintendo-switch-jogos-da-eshop-com-ate-90-off-aproveite.htm",
-        "title": "Nintendo Switch: jogos da eShop com até 90% OFF; aproveite",
-        "description": "Confira agora as principais ofertas de jogos na eShop e garanta ótimos títulos para Nintendo Switch como LEGO Star Wars: The Skywalker Saga, Monster Hunter Rise e Effie, que está saindo por menos de R$10",
-        "image": "https://tm.ibxk.com.br/2025/08/15/15190526833004.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/601899-superman-ja-esta-disponivel-para-assistir-online-mesmo-em-cartaz-no-cinema-entenda-motivo.htm",
-        "title": "Superman já está disponível para assistir online mesmo em cartaz no cinema! Entenda motivo",
-        "description": "Novo longa-metragem do DCU foi lançado antecipadamente online para acompanhar estreia da segunda temporada de Pacificador, que chega em breve",
-        "image": "https://tm.ibxk.com.br/2025/08/15/15170045519002.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406402-uber-podera-compensar-usuarios-em-casos-de-atrasos-nos-compromissos.htm",
-        "title": "Uber poderá compensar usuários em casos de atrasos nos compromissos",
-        "description": "Plataforma de corridas ainda analisa essa possibilidade e não bateu o martelo, mas vem medindo o interesse dos clientes.",
-        "image": "https://tm.ibxk.com.br/2025/06/20/20112134871055.jpg",
         "date": null
     }
 ]
