@@ -1,6 +1,20 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/americana-cria-startup-para-fazer-caes-viverem-mais-e-melhor/",
+        "url": "https://forbes.com.br/forbeslife/2025/08/bal-harbour-se-prepara-para-a-copa-do-mundo-2026-de-olho-no-turista-brasileiro/",
+        "title": "Bal Harbour se Prepara para a Copa do Mundo 2026 de Olho no Turista Brasileiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Bal-Harbour-300x200.jpg",
+        "date": "16/08/2025",
+        "description": "Epicentro do luxo em Miami, destino tem Brasil como principal mercado estrangeiro e aposta em novidades e na proximidade com o estádio para atrair visitantes durante a Copa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/sam-altman-despreza-elon-musk-mas-agora-ele-esta-atras-de-suas-empresas/",
+        "title": "Sam Altman Despreza Elon Musk, Mas Agora Ele Está Atrás de Suas Empresas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/SamElon-300x200.jpg",
+        "date": "16/08/2025",
+        "description": "O CEO da OpenAI está desafiando seu antigo amigo, uma empresa de cada vez: X, Tesla e até Neuralink estão na mira dele"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/08/americana-cria-startup-para-fazer-caes-viverem-mais-e-melhor/",
         "title": "Americana Cria Startup para Cães Viverem Mais e Melhor",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-cachorro-loyal-300x200.jpg",
         "date": "16/08/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_tarifas_EUA_17ago25_JJ-GouinGetty-Images-300x200.jpg",
         "date": "15/08/2025",
         "description": "Confederação da Agricultura e Pecuária do Brasil contesta sobre tarifas, etanol e desmatamento, e reforça compromisso do país com regras claras no comércio internacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/cargill-bioenergia-construira-usina-de-etanol-de-milho-em-goias/",
-        "title": "Cargill Bioenergia Construirá Usina de Etanol de Milho em Goiás",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Carregamento-de-milho-em-caminhao-300x200.jpg",
-        "date": "15/08/2025",
-        "description": "O movimento da multinacional no Brasil acontece após a Cargill ter anunciado em fevereiro acordo para comprar 50% de participação na SJC Bioenergia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/em-dia-forte-de-divulgacao-de-balancos-ibovespa-fecha-quase-estavel/",
-        "title": "Em Dia Forte de Divulgação de Balanços, Ibovespa Fecha Quase Estável",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-11-300x200.png",
-        "date": "15/08/2025",
-        "description": "O dólar terminou o dia em baixa de 0,37%, refletindo perdas da moeda no exterior diante de dados econômicos mistos nos EUA"
     }
 ]
