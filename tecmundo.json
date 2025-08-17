@@ -1,7 +1,14 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/406253-o-que-e-autenticacao-multifatorial-e-porque-voce-deveria-habilita-la-em-todas-as-suas-contas.htm",
+        "title": "O que é autenticação multifatorial e porque você deveria habilitá-la em todas as suas contas",
+        "description": "A autenticação multifatorial (MFA) é um dos mecanismos de segurança mais populares atualmente, mas também tem vulnerabilidades e exige cuidados",
+        "image": "https://tm.ibxk.com.br/2025/08/15/15180827177091.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502099-app-da-epic-games-libera-novo-jogo-gratis-de-celular-para-jogar-no-android-resgate-agora.htm",
-        "title": "App da Epic Games libera novo jogo grátis de celular para jogar no Android! Resgate agora",
+        "title": "Epic Games libera novo jogo grátis de celular no Android por tempo limitado! Resgate agora",
         "description": "Esta semana a Epic Games liberou mais um bom jogo no celular, mas por tempo limitado! Veja qual o título da vez e saiba como resgatar",
         "image": "https://tm.ibxk.com.br/2025/08/14/14215951352098.jpg",
         "date": null
@@ -60,13 +67,6 @@
         "title": "A única solução para a Apple é um fracasso",
         "description": "Para resolver a \"crise\" de inovação que a empresa passa, a melhor forma é encarar o pior.",
         "image": "https://tm.ibxk.com.br/2025/08/14/14163331685072.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406266-as-principais-certificacoes-em-seguranca-da-informacao.htm",
-        "title": "As principais certificações em segurança da informação",
-        "description": "Quer trabalhar com segurança da informação? Confira as principais certificações exigidas e como cada uma pode impulsionar sua carreira na área.",
-        "image": "https://tm.ibxk.com.br/2025/08/11/11205608151000.jpg",
         "date": null
     }
 ]
