@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/aos-21-anos-ela-criou-uma-startup-que-ja-captou-r-23-milhoes/",
+        "title": "Aos 21 Anos, Ela Criou uma Startup Que Já Captou R$ 23 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tech_Co-foundersinvestidor-Neurogram-300x200.jpg",
+        "date": "18/08/2025",
+        "description": "Hoje, aos 25, Daniele de Mari, ao lado do sócio Heitor Ettori, planeja expandir os negócios da Neurogram com tecnologia e novos investimentos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/yuval-harari-a-cooperacao-humana-e-a-unica-forma-de-garantir-um-futuro-seguro-na-era-da-ia/",
+        "title": "Yuval Harari: \"A Cooperação Humana É a Única Forma de Garantir um Futuro Seguro na era da IA”",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/YUVALHOME-300x200.jpg",
+        "date": "18/08/2025",
+        "description": "O historiador esteve em São Paulo para o evento inaugural do SP2B, festival de inovação realizado pelos mesmos criadores do Rio2C"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/brasil-e-16o-pais-mais-rico-do-mundo-em-2025-veja-top-50/",
+        "title": "Brasil É 16º País Mais Rico do Mundo em 2025; Veja Top 50",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.A-Grande-Muralha-da-China-300x200.jpg",
+        "date": "18/08/2025",
+        "description": "Pesquisa da UBS mediu o patrimônio líquido total ao redor do mundo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2025/08/forbes-brasil-pub-e-softbank-se-unem-para-homenagear-os-founders-brasileiros/",
+        "title": "Forbes Brasil, Pub e Softbank se Unem para Homenagear os Founders Brasileiros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/FAugusto-300x200.jpg",
+        "date": "18/08/2025",
+        "description": "Um dos principais objetivos da primeira lista Forbes The Founders é reconhecer uma nova geração de empreendedores e destacar histórias de inspiração e superação"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/cambio-juros-e-tarifaco-por-que-as-expectativas-de-inflacao-nao-param-de-cair/",
+        "title": "Câmbio, Juros e Tarifaço: por Que as Expectativas de Inflação Não Param de Cair?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-10-300x200.png",
+        "date": "18/08/2025",
+        "description": "As projeções do mercado se afastam das máximas e se aproximam cada vez mais do teto da meta estipulada pelo BC"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/a-guerra-tarifaria-de-trump-esta-criando-um-novo-e-improvavel-bilionario-nos-eua/",
         "title": "A Guerra Tarifária de Trump Está Criando um Novo e Improvável Bilionário nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-6-1-300x200.png",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Pao-de-Queijo-300x200.jpg",
         "date": "17/08/2025",
         "description": "A Forbes conversou com experts para entender como reconhecer (e fazer) uma versão excepcional do quitute mineiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/10-bourbons-artesanais-e-pouco-conhecidos-que-voce-precisa-provar/",
-        "title": "10 Bourbons Artesanais Pouco Conhecidos Que Vale Provar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Bourbon-perto-da-fogueira-300x200.jpg",
-        "date": "17/08/2025",
-        "description": "Pequenas destilarias nos Estados Unidos apostam em métodos próprios e produções limitadas para criar destilados com perfis únicos de sabor"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/bal-harbour-se-prepara-para-a-copa-do-mundo-2026-de-olho-no-turista-brasileiro/",
-        "title": "Bal Harbour se Prepara para a Copa do Mundo 2026 de Olho no Turista Brasileiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Bal-Harbour-300x200.jpg",
-        "date": "16/08/2025",
-        "description": "Epicentro do luxo em Miami, destino tem Brasil como principal mercado estrangeiro e aposta em novidades e na proximidade com o estádio para atrair visitantes durante a Copa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/sam-altman-despreza-elon-musk-mas-agora-ele-esta-atras-de-suas-empresas/",
-        "title": "Sam Altman Despreza Elon Musk, e Agora Ele Está Atrás de Suas Empresas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/SamElon-300x200.jpg",
-        "date": "16/08/2025",
-        "description": "O CEO da OpenAI está desafiando seu antigo amigo, uma empresa de cada vez: X, Tesla e até Neuralink estão na mira dele"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/08/americana-cria-startup-para-fazer-caes-viverem-mais-e-melhor/",
-        "title": "Americana Cria Startup para Cães Viverem Mais e Melhor",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-cachorro-loyal-300x200.jpg",
-        "date": "16/08/2025",
-        "description": "Celine Halioua, fundadora da Loyal, já levantou US$ 135 milhões de grandes investidores para desenvolver pílulas de longevidade canina"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/as-15-melhores-citacoes-de-livros-da-historia/",
-        "title": "As 15 Melhores Citações de Livros da História",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.David-Tennant-como-Hamlet-atua-na-producao-da-Royal-Shakespeare-Company-da-peca-_Hamlet_-de-William-Shakespeare-que-apresenta-uma-das-melhores-citacoes-de-livros-300x200.jpg",
-        "date": "16/08/2025",
-        "description": "Confira frases clássicas e contemporâneas que revelam ensinamentos e reflexões de grandes obras da literatura"
     }
 ]
