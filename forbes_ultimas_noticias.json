@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/leilao-de-cepacs-da-faria-lima-testa-apetite-do-mercado/",
+        "title": "Leilão de Cepacs da Faria Lima testa apetite do mercado",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Faria-Lima-300x200.jpg",
+        "date": "18/08/2025",
+        "description": "Expectativa da Prefeitura de São Paulo é a de que ele movimente R$ 2,9 bilhões; juros elevados, custos de obra pressionados e insegurança jurídica podem levar gestoras a adotar uma postura pragmática"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/quase-90-dos-desenvolvedores-de-videogames-usam-agentes-de-ia-diz-estudo-do-google/",
+        "title": "Quase 90% dos Desenvolvedores de Videogames Usam Agentes de IA, Diz Estudo do Google",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/11/carreira-emprego-videogames-300x200.jpg",
+        "date": "18/08/2025",
+        "description": "Em meio a demissões em massa e fechamento de estúdios, artistas de videogames cruzaram os braços em 2024 por melhores salários e regulação do uso de Inteligência Artificial"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/trump-diz-que-sera-grande-honra-receber-lideres-europeus-na-casa-branca/",
         "title": "Trump Diz Que Será \"Grande Honra\" Receber Líderes Europeus na Casa Branca",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-11T145557Z_1_LYNXMPEL7A0II_RTROPTP_4_USA-TRUMP-CRIME-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_agro-digital-40_18ago25_Panchanut-Chobjit_Getty-300x200.jpg",
         "date": "18/08/2025",
         "description": "Levantamento inédito traz dois anos de monitoramento do ecossistema de agtechs e foodtechs, com dados exclusivos sobre capital, tendências e startups na América Latina"
-    },
-    {
-        "url": "https://forbes.com.br/escolhas-do-editor/2025/08/aos-21-anos-ela-criou-uma-startup-que-ja-captou-r-23-milhoes/",
-        "title": "Aos 21 Anos, Ela Criou uma Startup Que Já Captou R$ 23 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tech_Co-foundersinvestidor-Neurogram-300x200.jpg",
-        "date": "18/08/2025",
-        "description": "Hoje, aos 25, Daniele de Mari, ao lado do sócio Heitor Ettori, planeja expandir os negócios da Neurogram com tecnologia e novos investimentos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/yuval-harari-a-cooperacao-humana-e-a-unica-forma-de-garantir-um-futuro-seguro-na-era-da-ia/",
-        "title": "Yuval Harari: \"A Cooperação Humana É a Única Forma de Garantir um Futuro Seguro na era da IA”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/YUVALHOME-300x200.jpg",
-        "date": "18/08/2025",
-        "description": "O historiador esteve em São Paulo para o evento inaugural do SP2B, festival de inovação realizado pelos mesmos criadores do Rio2C"
     }
 ]
