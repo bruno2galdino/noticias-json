@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-fecha-em-alta-acoes-da-raizen-disparam/",
+        "title": "Ibovespa Fecha em Alta; Ações da Raízen Disparam",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-11-300x200.png",
+        "date": "18/08/2025",
+        "description": "O salto nos papéis da Raízen foi impactado pelo noticiário sobre a possibilidade da Petrobras investir na companhia"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/moodys-eleva-projecao-do-pib-para-america-latina-para-21/",
+        "title": "Moody's Eleva Projeção do PIB para América Latina para 2,1%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/America-Latina-economia-Money-300x200.png",
+        "date": "18/08/2025",
+        "description": "Mesmo sendo afetada pelo tarifaço, região mostra resiliência, mas pode ter cenário mais desafiador em 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/baile-do-bb-arrecada-mais-de-meio-milhao-de-reais/",
+        "title": "Baile do BB Arrecada Mais de Meio Milhão de Reais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.Beto-Pacheco-e-Tiago-Moura-os-organizadores-do-Baile-do-BB-300x200.jpg",
+        "date": "18/08/2025",
+        "description": "Evento realizado no último sábado no Hotel Rosewood teve como objetivo apoiar a Casa Santa Teresinha, que atende crianças e adolescentes com doenças genéticas raras de pele"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/soho-house-fechara-capital-em-acordo-de-us-27-bi-ashton-kutcher-integrara-conselho/",
         "title": "Soho House Vai Fechar Capital em Acordo de US$ 2,7 Bi; Ashton Kutcher Integrará Conselho",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-1-1-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/11/carreira-emprego-videogames-300x200.jpg",
         "date": "18/08/2025",
         "description": "Em meio a demissões em massa e fechamento de estúdios, artistas de videogames cruzaram os braços em 2024 por melhores salários e regulação do uso de Inteligência Artificial"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/trump-diz-que-sera-grande-honra-receber-lideres-europeus-na-casa-branca/",
-        "title": "Trump Diz Que Será \"Grande Honra\" Receber Líderes Europeus na Casa Branca",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-11T145557Z_1_LYNXMPEL7A0II_RTROPTP_4_USA-TRUMP-CRIME-300x200.jpg",
-        "date": "18/08/2025",
-        "description": "O presidente dos EUA se reúne com Putin antes de encontrar líderes ocidentais, em agenda que pode redefinir a diplomacia americana"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/08/o-futuro-do-pagamento-invisivel-mastercard-discute-inovacao-e-o-marketing-multissensorial/",
-        "title": "O Futuro do Pagamento Invisível: Mastercard Discute Inovação e o Marketing Multissensorial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/TaciLopesMastercard-300x200.jpg",
-        "date": "18/08/2025",
-        "description": "Em participação na nova temporada do podcast Forbes MKT, Taci Lopes, CMO, explica como a empresa deixou de ser apenas uma processadora de cartões para se tornar uma gigante tech"
-    },
-    {
-        "url": "https://forbes.com.br/last/2025/08/google-anuncia-instalacao-de-reator-nuclear-em-estado-dos-eua/",
-        "title": "Google Anuncia Instalação de Reator Nuclear em Estado dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-google-alphabet-300x200.jpg",
-        "date": "18/08/2025",
-        "description": "A corrida pela IA generativa acelera a demanda energética e impulsiona investimentos em fontes como a energia nuclear avançada"
     }
 ]

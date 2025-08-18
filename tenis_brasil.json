@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/com-titulo-alcaraz-entra-de-vez-na-luta-pelo-numero-1.html",
-        "title": "Com título, Alcaraz entra de vez na luta pelo número 1",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/alcaraz_cincy_desliza_KR-1024x683.jpg",
-        "date": "18/08/2025",
-        "description": "Cincinnati (EUA)– O mal-estar inesperado de Jannik Sinner, que o impediu de ser competitivo e o obrigou a abandonar a final de Cincinnati após seis games perdidos, também poderá causar dificuldade para o italiano se manter como líder do ranking."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/sinner-abandona-apos-cinco-games-e-alcaraz-conquista-cincinnati.html",
         "title": "Sinner abandona após cinco games e Alcaraz conquista Cincinnati",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/alcaraz_sinner_cincy_consola_cut-1024x642.jpg",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/pod_saretta.jpg",
         "date": "18/08/2025",
         "description": "Um dos jogadores de maior sucesso no tênis profissional brasileiro, Flávio Saretta abraçou de vez a carreira de treinador, depois da aposentadoria precoce das quadras e dos bons tempos de comentarista de TV."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/e-de-dzumhur-a-melhor-jogada-de-julho-do-circuito-da-atp-confira.html",
+        "title": "É de Dzumhur a melhor jogada de julho do circuito da ATP. Confira.",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/dzumhur-bucareste-rebate-2025-e1745521479851-1024x683.jpg",
+        "date": "18/08/2025",
+        "description": ""
     }
 ]
