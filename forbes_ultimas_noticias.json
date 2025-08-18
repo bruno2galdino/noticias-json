@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mkt/2025/08/sao-paulo-da-a-largada-para-um-megaevento-de-inovacao-e-economia-criativa-que-vai-transformar-o-ibirapuera-em-2026/",
+        "title": "São Paulo Dá a Largada para um Megaevento de Inovação e Economia Criativa Que Vai Transformar o Ibirapuera em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/SP2B-300x200.jpg",
+        "date": "18/08/2025",
+        "description": "Com a presença de Yuval Noah Harari, Hugh Forrest e Gilberto Gil, a “Première Edition” do SP2B anunciou a chegada de um novo festival global com DNA paulistano e a ambição de se tornar um dos maiores do mundo, como explicam o idealizador Rafael Lazarini"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/expectativa-para-inflacao-fica-abaixo-de-5-pela-primeira-vez-no-ano/",
+        "title": "Expectativa para a Inflação Fica Abaixo de 5% Pela Primeira Vez no Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-1-3-300x200.png",
+        "date": "18/08/2025",
+        "description": "Projeção do IPCA chega à 12ª semana em queda no Focus; projeção para 2026 também caiu"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ibc-br-recua-em-junho-mas-termina-2o-tri-com-expansao-de-03-mostra-bc/",
+        "title": "IBC-Br Recua em Junho, Mas Termina 2º Tri com Expansão de 0,3%, Mostra BC",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-3-1-300x200.png",
+        "date": "18/08/2025",
+        "description": "De abril a junho, Brasil ainda não sofria com tarifaço imposto pelos Estados Unidos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-semana-tera-encontro-de-jackson-hole-focus-indica-ipca-de-495/",
         "title": "Pré-mercado: Semana Terá Encontro de Jackson Hole; Focus Indica IPCA de 4,95%",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -7,7 +28,14 @@
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 18 de agosto"
     },
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/aos-21-anos-ela-criou-uma-startup-que-ja-captou-r-23-milhoes/",
+        "url": "https://forbes.com.br/forbesagro/2025/08/do-inverno-dos-vcs-a-retomada-do-capital-no-agro-rural-tech-report-2025-expoe-a-nova-logica-do-dinheiro/",
+        "title": "Rural Tech Report 2025 Expõe a Nova Lógica do Dinheiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_agro-digital-40_18ago25_Panchanut-Chobjit_Getty-300x200.jpg",
+        "date": "18/08/2025",
+        "description": "Levantamento inédito traz dois anos de monitoramento do ecossistema de agtechs e foodtechs, com dados exclusivos sobre capital, tendências e startups na América Latina"
+    },
+    {
+        "url": "https://forbes.com.br/escolhas-do-editor/2025/08/aos-21-anos-ela-criou-uma-startup-que-ja-captou-r-23-milhoes/",
         "title": "Aos 21 Anos, Ela Criou uma Startup Que Já Captou R$ 23 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tech_Co-foundersinvestidor-Neurogram-300x200.jpg",
         "date": "18/08/2025",
@@ -28,7 +56,7 @@
         "description": "Pesquisa da UBS mediu o patrimônio líquido total ao redor do mundo"
     },
     {
-        "url": "https://forbes.com.br/forbes-mkt/2025/08/forbes-brasil-pub-e-softbank-se-unem-para-homenagear-os-founders-brasileiros/",
+        "url": "https://forbes.com.br/manchete-2/2025/08/forbes-brasil-pub-e-softbank-se-unem-para-homenagear-os-founders-brasileiros/",
         "title": "Forbes Brasil, Pub e Softbank se Unem para Homenagear os Founders Brasileiros",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/FAugusto-300x200.jpg",
         "date": "18/08/2025",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-10-300x200.png",
         "date": "18/08/2025",
         "description": "As projeções do mercado se afastam das máximas e se aproximam cada vez mais do teto da meta estipulada pelo BC"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/a-guerra-tarifaria-de-trump-esta-criando-um-novo-e-improvavel-bilionario-nos-eua/",
-        "title": "A Guerra Tarifária de Trump Está Criando um Novo e Improvável Bilionário nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-6-1-300x200.png",
-        "date": "17/08/2025",
-        "description": "James Litinsky transformou um investimento de US$ 20 milhões (R$ 108 milhões) em títulos problemáticos em uma fortuna bilionária na mineração"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/o-genio-por-tras-da-venda-de-us-19-bilhao-que-conquistou-a-pepsi/",
-        "title": "Quem É o Visionário por trás da Bebida Que Já Superou até a Coca-Cola",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2-7-300x200.jpg",
-        "date": "17/08/2025",
-        "description": "Por anos, Rohan Oza faturou milhões para celebridades como Jennifer Aniston e 50 Cent; em maio, o veterano do Shark Tank vendeu o refrigerante prebiótico Poppi para a Pepsi"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/5-minutos-de-mindfulness-o-habito-que-pode-fortalecer-a-sua-carreira/",
-        "title": "5 Minutos de Mindfulness: o Hábito Simples Que Pode Fortalecer a Sua Carreira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Carreira_Mindfullness_Meditacao-300x200.jpg",
-        "date": "17/08/2025",
-        "description": "Estudos mostram que a prática rápida de atenção plena pode reduzir o estresse, aumentar o foco e impulsionar o desempenho profissional"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/cafe-do-panama-e-leiloado-pelo-recorde-de-us-30-mil-o-quilo/",
-        "title": "Café do Panamá É Leiloado Pelo Recorde de US$ 30 Mil o Quilo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cafe_Panama_17ago25_LaEsperalda_Divulg-300x200.jpg",
-        "date": "17/08/2025",
-        "description": "Conheça o Geisha, produzido na Hacienda La Esmeralda, propriedade que está elevando o padrão para o agroturismo de luxo do grão"
     }
 ]
