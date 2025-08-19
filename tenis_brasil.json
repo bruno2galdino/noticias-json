@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca.html",
+        "title": "O dia dos brasileiros: veja os resultados desta terça",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/romboli_delray_fore_juarez-1024x500.jpg",
+        "date": "19/08/2025",
+        "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesQualificatório – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/italianos-iniciam-bem-defesa-do-titulo-nas-duplas-mistas.html",
+        "title": "Italianos iniciam bem defesa do título nas duplas mistas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/vava_sara_musetti_nally_uso.jpg",
+        "date": "19/08/2025",
+        "description": "Nova York (EUA)– Atuais campeões, os italianos Sara Errani e Andrea Vavassori conseguiram a primeira vitória na tentativa de defesa de título dentro do novo formato para a competição que é utilizado neste ano pelo US Open. Os dois venceram Elena Rybakina e Taylor Fritz no estádio Louis Armstrong, por 4/2 e 4/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cerundolo-mensik-e-cobolli-completam-times-da-laver-cup.html",
+        "title": "Cerúndolo, Mensik e Cobolli completam times da Laver Cup",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/cerundolo-munich-2025-thursday-e1744910799809-1024x682.jpg",
+        "date": "19/08/2025",
+        "description": "San Francisco (EUA)– O time Mundo convocou o argentino Francisco Cerúndolo e a equipe Europa chamou o tcheco Jakub Mensik e o italiano Flavio Cobolli para completar o quadro de 12 participantes da oitava edição da Laver Cup, que acontecerá entre 19 e 21 de setembro no Chase Center, o ginásio do Golden State Warriors da NBA."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/fils-desiste-do-us-open-e-darderi-sera-cabeca-de-chave.html",
         "title": "Fils desiste do US Open e Darderi será cabeça de chave",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/fils-cabisbaixo-rg-2025-.jpg",
@@ -35,13 +56,6 @@
         "description": "Londres (Inglaterra)– A Associação masculina (ATP) confirmou nesta segunda-feira um novo líder para o ranking de duplas. O britânico Lloyd Glasspool, de 31 anos, se converteu no 66ª diferente tenista a assumir o número 1 desde a implantação do sistema, em março de 1976."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca.html",
-        "title": "O dia dos brasileiros: veja os resultados desta terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/romboli_delray_fore_juarez-1024x500.jpg",
-        "date": "19/08/2025",
-        "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesQualificatório – Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-tem-agora-a-setima-maior-colecao-de-masters-1000.html",
         "title": "Alcaraz tem agora a sétima maior coleção de Masters 1000",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/alcaraz_cincy_grita_qf-1024x600.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/iga_alcaraz_cincy.jpg",
         "date": "19/08/2025",
         "description": "Cincinnati (EUA)– Preocupados em chegar rapidamente a Flushing Meadows, onde na tarde desta terça-feira irão disputar a chave de duplas mistas do US Open, o espanhol Carlos Alcaraz e a polonesa Iga Swiatek viajaram juntos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/atmane-se-diz-esgotado-e-desiste-de-jogar-qualificatorio.html",
-        "title": "Atmane se diz esgotado e desiste de jogar qualificatório",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/atmane-cincinnati-2025-r4-1024x576.jpg",
-        "date": "19/08/2025",
-        "description": "Nova York (EUA)– O descanso de dois dias não foi suficiente e o canhoto francês Terence Atmane não se sentiu em condições físicas para disputar o qualificatório do US Open."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/morumbi-ganha-novo-complexo-com-cinco-quadras-cobertas.html",
-        "title": "Morumbi ganha novo complexo com cinco quadras cobertas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/nova_arena_morumbi-1024x576.jpeg",
-        "date": "19/08/2025",
-        "description": "São Paulo (SP)– O espaço onde funcionava a antiga Unisys Arena — ícone esportivo e referência nos anos 2000 — ganha agora um novo capítulo. O local renasce com um moderno complexo esportivo que traz cinco quadras de tênis de piso rápido, todas cobertas e com padrão internacional, incluindo medidas oficiais e iluminação nível ATP."
     }
 ]
