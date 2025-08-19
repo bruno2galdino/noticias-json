@@ -1,19 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/glasspool-e-o-66o-a-assumir-numero-1-de-duplas-veja-todas-as-trocas.html",
-        "title": "Glasspool é o 66º a assumir número 1 de duplas. Veja todas as trocas.",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/glasspool_lta-1024x576.jpg",
-        "date": "19/08/2025",
-        "description": "Londres (Inglaterra)– A Associação masculina (ATP) confirmou nesta segunda-feira um novo líder para o ranking de duplas. O britânico Lloyd Glasspool, de 31 anos, se converteu no 66ª diferente tenista a assumir o número 1 desde a implantação do sistema, em março de 1976."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca.html",
-        "title": "O dia dos brasileiros: veja os resultados desta terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/romboli_delray_fore_juarez-1024x500.jpg",
-        "date": "19/08/2025",
-        "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesQualificatório – Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-tem-agora-a-setima-maior-colecao-de-masters-1000.html",
         "title": "Alcaraz tem agora a sétima maior coleção de Masters 1000",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/alcaraz_cincy_grita_qf-1024x600.jpg",
@@ -22,10 +8,10 @@
     },
     {
         "url": "https://tenisbrasil.uol.com.br/sinner-fala-em-descanso-antes-de-encarar-o-us-open.html",
-        "title": "Sinner fala em descanso antes de encarar o US Open",
+        "title": "Sinner opta por descanso e não joga mistas no US Open",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/sinner-cincinnati-olha-2025-.jpg",
         "date": "19/08/2025",
-        "description": "Cincinnati (EUA)– O italiano Jannik Sinner dificilmente irá participar da chave de duplas mistas do US Open, previstas para começar na tarde desta terça-feira, em Nova York. Ele está escalado para jogar ao lado da tcheca Katerina Siniakova, a número 2 do mundo em duplas."
+        "description": "* atualizado com desistência oficial"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-e-swiatek-compartilham-jato-rumo-a-nova-york.html",
@@ -40,6 +26,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/atmane-cincinnati-2025-r4-1024x576.jpg",
         "date": "19/08/2025",
         "description": "Nova York (EUA)– O descanso de dois dias não foi suficiente e o canhoto francês Terence Atmane não se sentiu em condições físicas para disputar o qualificatório do US Open."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca.html",
+        "title": "O dia dos brasileiros: veja os resultados desta terça",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/romboli_delray_fore_juarez-1024x500.jpg",
+        "date": "19/08/2025",
+        "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesQualificatório – Primeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/morumbi-ganha-novo-complexo-com-cinco-quadras-cobertas.html",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/Artes-Blogs-900x600-2.jpg",
         "date": "18/08/2025",
         "description": "Depois de 10 dias de um tênis bem perto do irretocável, com vitórias de peso sobre adversárias imponentes, nenhum set perdido, a polonesa Iga Swiatek roubou o favoritismo para o US Open e definitivamente está no páreo para chegar ao segundo título em Nova York, meta também perseguida por Aryna Sabalenka e Coco Gauff."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/principais-favoritas-samsonova-e-wang-estreiam-bem-em-cleveland.html",
+        "title": "Principais favoritas, Samsonova e Wang estreiam bem em Cleveland",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/samsonova_estras_vibra-1024x641.jpg",
+        "date": "18/08/2025",
+        "description": "Cleveland (EUA) –Principais cabeças de chave do WTA 250 de Cleveland, a russa Liudmila Samsonova e a chinesa Xinyu Wang venceram suas partidas de estreia no torneio preparatório para o US Open."
     }
 ]
