@@ -7,9 +7,23 @@
         "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesQualificatório – Primeira rodada –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/pegula-draper-e-collins-harrison-garantem-ultimas-vagas-nas-semis.html",
+        "title": "Pegula/Draper e Collins/Harrison garantem últimas vagas nas semis",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/collins_harrison_uso_mistas-1024x576.jpg",
+        "date": "19/08/2025",
+        "description": "Nova York (EUA) –O complemento da longa rodada desta terça-feira no US Open definiu as duas últimas parcerias classificadas para as semifinais.Principais cabeças de chave, Jessica Pegula e Jack Draper seguem firme, assim como a parceria norte-americana de Danielle Collins e Christian Harrison, que entrou no torneio de última hora."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ana-candiotto-e-julia-konishi-estreiam-com-vitoria-em-santiago.html",
+        "title": "Ana Candiotto e Júlia Konishi estreiam com vitória em Santiago",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/candiotto_ecp_back25.jpg",
+        "date": "19/08/2025",
+        "description": "Santiago (Chile) –Em rodada com seis brasileiras, as paulistas Ana Candiotto e Júlia Konishi venceram seus jogos na rodada de estreia do ITF W15 de Santiago, em quadras de saibro."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/pegula-e-draper-eliminam-raducanu-e-alcaraz-russos-batem-djokovic-e-danilovic.html",
         "title": "Pegula e Draper eliminam Raducanu e Alcaraz, russos batem Djokovic e Danilovic",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/draper_pegula_usopen-1024x599.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/pegula_draper_uso_back-1024x576.jpg",
         "date": "19/08/2025",
         "description": "Nova York (EUA) –A tão esperada parceria de Emma Raducanu e Carlos Alcaraz durou apenas uma partida no torneio de duplas mistas do US Open. Eles foram superados na rodada de estreia pela norte-americana Jessica Pegula e o britânico Jack Draper, principais cabeças de chave, que marcaram um duplo 4/2 em 50 minutos de partida. A rodada que atraiu grandes estrelas do circuito teve estádio cheio para o jogo no Arthur Ashe."
     },
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/fullana_rioclaro25_fore.jpg",
         "date": "19/08/2025",
         "description": "São Petersburgo (EUA) –Como já havia acontecido na semana anterior, a brasiliense Luiza Fullana voltou a superar o melhor ranking da carreira, aproveitando bem os torneios realizados na América do Sul. Ela saltou 31 posições na atualização desta terça-feira e atingiu o 461º lugar, tornando-se agora a número 5 do Brasil."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/swiatek-e-ruud-avancam-nas-mistas-venus-e-opelka-caem-na-estreia.html",
-        "title": "Swiatek e Ruud avançam nas mistas, Venus e Opelka caem na estreia",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/ruud_iga_mucho_rublev_uso.jpg",
-        "date": "19/08/2025",
-        "description": "Nova York (EUA)– A polonesa Iga Swiatek não perdeu o embalo. Poucas horas depois de conquistar o WTA 1000 de Cincinnati e recuperar o número 2 do mundo, ela se juntou ao norueguês Casper Ruud e avançou na nova fórmula de disputa de duplas mistas do US Open."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/italianos-iniciam-bem-defesa-do-titulo-nas-duplas-mistas.html",
-        "title": "Italianos iniciam bem defesa do título nas duplas mistas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/vavassori_errani_usopen25-1024x640.jpg",
-        "date": "19/08/2025",
-        "description": "Nova York (EUA)– Atuais campeões, os italianos Sara Errani e Andrea Vavassori conseguiram a primeira vitória na tentativa de defesa de título dentro do novo formato para a competição que é utilizado neste ano pelo US Open. Os dois venceram Elena Rybakina e Taylor Fritz no estádio Louis Armstrong, por 4/2 e 4/2."
     }
 ]
