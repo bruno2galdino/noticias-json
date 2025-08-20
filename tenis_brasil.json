@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/loureiro-vence-na-romenia-tres-brasileiros-jogam-na-polonia.html",
+        "title": "Loureiro vence na Romênia, três brasileiros jogam na Polônia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/54115895487_289ab9445f_k-1024x683.jpg",
+        "date": "19/08/2025",
+        "description": "Arad (Romênia) –O mineiro João Victor Loureiro estreou com vitória no ITF M15 de Arad, em quadras de saibro na Romênia. Ele venceu o britânico Jeremy Gschwendtner, cabeça 6 do torneio, por 6/4, 1/6 e 6/2. Seu próximo rival pode ser o russo Ivan Denisov ou o romeno Andrei Cuceu."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bu-vence-tsitsipas-na-estreia-em-winston-salem-griekspoor-tambem-cai.html",
+        "title": "Bu elimina Tsitsipas na estreia em Winston Salem, Griekspoor também cai",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/bu_winstonsalem_vibra-1024x626.jpg",
+        "date": "19/08/2025",
+        "description": "Winston Salem (EUA) –Principal cabeça de chave do ATP 250 de Winston Salem, Stefanos Tsitsipas foi eliminado ainda na rodada de estreia. O grego foi superado nesta terça-feira pelo chinês Yunchaokete Bu, 76º do ranking, por 6/3 e 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bia-estreia-nesta-quarta-feira-as-20h-no-wta-500-de-monterrey.html",
+        "title": "Bia estreia nesta quarta-feira às 20h no WTA 500 de Monterrey",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/bia_mtl_term-e1753885219983-1024x682.jpg",
+        "date": "19/08/2025",
+        "description": "Monterrey (México) –A estreia de Beatriz Haddad Maia no WTA 500 de Monterrey acontecerá nesta quarta-feira às 20h (de Brasília). A número 1 do Brasil e 20ª do mundo enfrentará a tcheca Marie Bouzkova, 53ª do ranking. O torneio é transmitido peloDisney+."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/zakharova-vence-antes-da-chuva-e-ja-esta-na-semifinal-em-cleveland.html",
         "title": "Zakharova vence antes da chuva e já está na semifinal em Cleveland",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/zakharova_cleveland_rebate-1024x561.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/pegula_draper_uso_back-1024x576.jpg",
         "date": "19/08/2025",
         "description": "Nova York (EUA) –A tão esperada parceria de Emma Raducanu e Carlos Alcaraz durou apenas uma partida no torneio de duplas mistas do US Open. Eles foram superados na rodada de estreia pela norte-americana Jessica Pegula e o britânico Jack Draper, principais cabeças de chave, que marcaram um duplo 4/2 em 50 minutos de partida. A rodada que atraiu grandes estrelas do circuito teve estádio cheio para o jogo no Arthur Ashe."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/romboli-e-smith-estreiam-bem-nas-duplas-em-winston-salem.html",
-        "title": "Romboli e Smith estreiam bem nas duplas em Winston Salem",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/smith-romboli-los-cabos-2025-e1752752377554-1024x684.jpg",
-        "date": "19/08/2025",
-        "description": "Winston Salem (EUA) –A participação brasileira no ATP 250 de Winston Salem começou com vitória de Fernando Romboli, ao lado do australiano John-Patrick Smith. Eles venceram os norte-americanos Vasil Kirkov e Sebastian Korda por 6/2 e 7/5."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/apos-periodo-de-treinos-baran-e-loch-disputam-bt-400-na-franca.html",
-        "title": "Após período de treinos, Baran e Loch disputam BT 400 na França",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/andre_baran_posada.jpg",
-        "date": "19/08/2025",
-        "description": "Uberlândia (MG) –Depois de quase um mês e meio sem disputar grandes torneios, o brasileiro André Baran está de volta às quadras nesta semana. O atleta número 1 do Brasil e 4 do mundo embarca para a disputa do BT400 de Saint Georges de Didonne, na França, a partir desta quinta-feira. O torneio renderá 400 pontos no ranking internacional à dupla campeã, além de uma premiação em dinheiro de 35 mil dólares."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rio-de-janeiro-vai-receber-um-wta-125-a-partir-de-12-de-outubro.html",
-        "title": "Rio de Janeiro vai receber um WTA 125 a partir de 12 de outubro",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/techset_rio-1024x680.jpg",
-        "date": "19/08/2025",
-        "description": "Rio de Janeiro (RJ) –O Rio de Janeiro voltará ao calendário do tênis feminino com a disputa do Rio Ladies Open, que acontecerá entre os dias 12 e 19 de outubro, na academia Techset, na Barra da Tijuca. A competição é do nível WTA 125 e terá premiação de US$ 115 mil com 125 pontos para as campeãs de simples e de duplas."
     }
 ]
