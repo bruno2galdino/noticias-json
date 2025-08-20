@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeswsb/2025/08/como-os-vinhos-da-fria-suecia-vem-mostrando-qualidade-e-ganhando-tacas/",
+        "title": "Como os Vinhos da Fria Suécia Vêm Mostrando Qualidade e Ganhando Taças",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Josefinelust-Kullabergs-Vingard_19ago25_-300x200.jpg",
+        "date": "20/08/2025",
+        "description": "Produção ainda pequena, mas em crescimento, impulsiona rótulos que surpreendem pelo frescor e inovação"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/francis-mallmann-sao-paulo-e-a-capital-gastronomica-da-america-do-sul/",
+        "title": "Francis Mallmann: “São Paulo É a Capital Gastronômica da América do Sul”",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Francis-Mallmann-300x200.jpg",
+        "date": "20/08/2025",
+        "description": "Mestre da cozinha de fogo, o chef argentino desembarca no Brasil para o festival Churrascada; à Forbes, falou sobre sua filosofia de vida, o futuro da carne e a busca de mais romance e menos rotina"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/produtores-da-argentina-escolhem-cada-vez-mais-o-dolar-como-moeda-para-financiamentos/",
+        "title": "8 em cada 10 Produtores da Argentina Escolhem o Dólar como Moeda para Financiamentos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_colheita_Argentina_19ago25_Forbes_Argentina-300x200.jpg",
+        "date": "20/08/2025",
+        "description": "Em muitos casos a taxa zero e sem comissões, e espera-se que essa tendência continue até o final do ano"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/08/luciana-rodrigues-o-segredo-de-uma-herdeira/",
+        "title": "O Segredo de uma Herdeira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/imagem-coluna-lu-rodrigues-300x200.jpg",
+        "date": "20/08/2025",
+        "description": "Escrevo para honrar a história do meu pai e de tantos outros: cerca de 2 milhões de brasileiros com 60 anos ou mais vivem com algum tipo de demência"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/08/mulheres-mais-poderosas-do-brasil-forbes-reune-liderancas-e-debate-sustentabilidade-e-alta-performance/",
         "title": "Forbes Reúne Lideranças e Debate Sustentabilidade e Alta Performance",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-evento-poderosas-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Logo-da-Klabin-300x200.jpg",
         "date": "19/08/2025",
         "description": "\"Considerando os referidos aportes, a Klabin alcançará o montante de R$2,7 bilhões no âmbito do Projeto Plateau\", disse a empresa"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/cade-suspende-moratoria-da-soja-e-abre-investigacao-sobre-signatarios/",
-        "title": "Cade Suspende Moratória da Soja e Abre Investigação sobre Signatários",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Campo-de-soja-300x200.jpg",
-        "date": "19/08/2025",
-        "description": "Além disso, determina a retirada de todas as informações sobre a Moratória da Soja e da publicidade relacionada disponível online"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/india-remove-tarifas-de-importacao-sobre-algodao-e-alivia-setor-de-vestuario/",
-        "title": "Índia Remove Tarifas de Importação sobre Algodão e Alivia Setor de Vestuário",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Unidade-de-processamento-de-algodao-na-India-300x200.jpg",
-        "date": "19/08/2025",
-        "description": "A tarifa dos EUA inclui uma taxa de 25% já existente e uma taxa adicional de 25% sobre a importação do algodão"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/sp-afirma-classificacao-de-credito-aa-dos-eua-e-cita-receita-com-tarifas/",
-        "title": "S&P Afirma Classificação de Crédito \"AA+\" dos EUA e Cita Receita com Tarifas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-19T104537Z_1_LYNXMPEL7I0FB_RTROPTP_4_USA-TRUMP-TARIFFS-300x200.jpg",
-        "date": "19/08/2025",
-        "description": "Medida consolida política fiscal iniciada em 2017 e aprofunda a agenda de cortes de impostos e gastos públicos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/intel-recebe-investimento-de-us-2-bilhoes-do-softbank/",
-        "title": "Intel Recebe Investimento de US$ 2 Bilhões do Softbank",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/05/money-softbank-alibaba-09fev22-SOPAImages-300x200.png",
-        "date": "19/08/2025",
-        "description": "Recursos visam revitalizar a gigante americana, que perdeu relevância no setor de IA após anos de má gestão"
     }
 ]
