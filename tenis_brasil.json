@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-20-08.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/12/konishi-1024x683.jpg",
+        "date": "20/08/2025",
+        "description": "WTA 500 de Monterrey (México) – Sintético – US$ 1.064.510Primeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/loureiro-vence-na-romenia-tres-brasileiros-jogam-na-polonia.html",
         "title": "Loureiro vence na Romênia, três brasileiros jogam na Polônia",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/54115895487_289ab9445f_k-1024x683.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/candiotto_ecp_back25.jpg",
         "date": "19/08/2025",
         "description": "Santiago (Chile) –Em rodada com seis brasileiras, as paulistas Ana Candiotto e Júlia Konishi venceram seus jogos na rodada de estreia do ITF W15 de Santiago, em quadras de saibro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pegula-e-draper-eliminam-raducanu-e-alcaraz-russos-batem-djokovic-e-danilovic.html",
-        "title": "Pegula e Draper eliminam Raducanu e Alcaraz, russos batem Djokovic e Danilovic",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/pegula_draper_uso_back-1024x576.jpg",
-        "date": "19/08/2025",
-        "description": "Nova York (EUA) –A tão esperada parceria de Emma Raducanu e Carlos Alcaraz durou apenas uma partida no torneio de duplas mistas do US Open. Eles foram superados na rodada de estreia pela norte-americana Jessica Pegula e o britânico Jack Draper, principais cabeças de chave, que marcaram um duplo 4/2 em 50 minutos de partida. A rodada que atraiu grandes estrelas do circuito teve estádio cheio para o jogo no Arthur Ashe."
     }
 ]
