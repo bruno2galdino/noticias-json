@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-21-08.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/54338526643_8e1c60dd0b_o-e1748631238970-1024x682.jpg",
+        "date": "21/08/2025",
+        "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesQualificatório – Segunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/mais-jovem-no-top-100-da-atp-joao-fonseca-completa-19-anos.html",
+        "title": "Mais jovem no top 100 da ATP, João Fonseca completa 19 anos",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/fonseca-trofeu_sorrindo-1024x632.jpg",
+        "date": "21/08/2025",
+        "description": "Suely KawanaDa redação"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/rio-de-janeiro-recebe-etapa-inaugural-do-brasil-open-beach-tennis-series.html",
         "title": "Rio de Janeiro recebe etapa inaugural do Brasil Open Beach Tennis Series",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/beach-tennis_foto-generica.jpg",
@@ -35,13 +49,6 @@
         "description": "Nova York (EUA) –Novidade para a edição de 2025 do US Open, o torneio de duplas mistas teve novo formato e atraiu grandes nomes do circuito de simples para os dois dias de competição. Mas a parceria italiana deSara Errani e Andrea Vavassoriconseguiu defender o título conquistado no ano passado e para vencer o terceiro Grand Slam juntos."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-21-08.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quinta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/matos-stuttgart-espera-2025-819x1024.jpg",
-        "date": "21/08/2025",
-        "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesQualificatório – Segunda rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/navarro-e-a-bicampea-fernandez-sao-eliminadas-em-monterrey.html",
         "title": "Navarro e a bicampeã Fernandez são eliminadas em Monterrey",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/navarro_mtr_fore-1024x682.jpg",
@@ -61,12 +68,5 @@
         "image": null,
         "date": "21/08/2025",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/errani-e-vavassori-superam-iga-e-ruud-e-defendem-o-titulo-nas-duplas-mistas.html",
-        "title": "Errani e Vavassori superam Iga e Ruud e defendem o título nas duplas mistas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/errani_vavassori_USO_celebram_semi-1024x576.jpg",
-        "date": "21/08/2025",
-        "description": "Nova York (EUA) –Mesmo com a mudança no formato do torneio de duplas mistas do US Open, a parceria italiana de Sara Errani e Andrea Vavassori defendeu o título conquistado no ano passado, tendo superado várias estrelas do circuito de simples. Os agora bicampeões venceram na final a polonesa Iga Swiatek e o norueguês Casper Ruud por 6/3, 5/7 e 10-6, com grande público na sessão noturna do Arthur Ashe Stadium."
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/deepseek-lanca-modelo-de-ia-com-suporte-a-chips-chineses/",
+        "title": "Deepseek Lança Modelo de IA com Suporte a Chips Chineses",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/tech-deepseek-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "A compatibilidade com processadores domésticos reforça a tentativa de substituir a tecnologia dos EUA"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/08/frank-caprio-conhecido-como-melhor-juiz-do-mundo-morre-aos-88-anos/",
         "title": "Frank Caprio, Conhecido Como \"Melhor Juiz do Mundo\", Morre Aos 88 Anos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Frank-Caprio-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.1995-Ferrari-F50-300x200.jpg",
         "date": "21/08/2025",
         "description": "Modelo raro foi destaque da RM Sotheby’s durante a Monterey Car Week 2025, semana passada, na Califórnia"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/mercado-nautico-brasileiro-vive-melhor-momento-de-maturidade-diz-referencia-do-design-naval/",
-        "title": "Mercado Náutico Brasileiro Vive Melhor Momento de Maturidade, Diz Referência do Design Naval",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Tony-Castro_design-nautico-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "Português Tony Castro falou à Forbes sobre sua nova parceria no Brasil, a real sustentabilidade do mercado e como as tarifas de Trump afetaram os estaleiros"
     }
 ]
