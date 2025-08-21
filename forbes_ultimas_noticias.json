@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/colunas/2025/08/eduardo-mira-o-que-warren-buffett-pode-te-ensinar-sobre-reserva-de-oportunidade/",
+        "title": "O Que Warren Buffett Pode te Ensinar sobre Reserva de Oportunidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Buffett-2025-08-21-1-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "Ter recursos disponíveis para comprar ativos bons que estão baratos por alguma crise rendeu fortunas ao bilionário"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-ata-mostra-divisao-no-banco-central-dos-eua/",
+        "title": "Pré-mercado: Ata Mostra Divisão no Banco Central dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "21/08/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 21 de agosto"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/08/conheca-o-ex-engenheiro-da-nasa-que-treina-robos-para-fazer-juntas-pre-laminadas/",
         "title": "Ex-engenheiro da Nasa Treina Robôs para Empresas de Cannabis",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Nasa-Robo-300x200.jpg",
@@ -29,7 +43,7 @@
     },
     {
         "url": "https://forbes.com.br/carreira/2025/08/peter-diamandis-o-melhor-jeito-de-prever-o-futuro-e-cria-lo/",
-        "title": "Peter Diamandis: “O Melhor Jeito de Prever o Futuro é Criá-lo”",
+        "title": "Peter Diamandis: “O Melhor Jeito de Prever o Futuro É Criá-lo”",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-peter-diamandis-300x200.jpg",
         "date": "21/08/2025",
         "description": "À Forbes, o visionário fundador da Singularity University afirma que a tecnologia e a IA têm o poder de potencializar as capacidades humanas e de resolver os grandes desafios do mundo"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Marcos_Jank_20ago25_LuPrezia-300x200.jpg",
         "date": "21/08/2025",
         "description": "Marcos Jank, do Insper Global Agribusiness Center, diz que os países não querem depender de alimentos importados e que o Brasil vive em um mundo de incertezas sem precedentes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-tem-leve-alta-com-ajuda-de-petrobras-e-alivio-em-bancos/",
-        "title": "Ibovespa Tem Leve Alta com Ajuda de Petrobras e Alívio em Bancos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/fechamento-money-10-300x200.png",
-        "date": "20/08/2025",
-        "description": "Os papéis bancários tiveram forte baixa na terça-feira (19) após o ministro do STF, Flávio Dino, decidir que leis estrangeiras não podem afetar brasileiros em território nacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/ba-cripto-buenos-aires-anuncia-que-comecara-a-aceitar-criptomoedas-para-o-pagamento-de-impostos/",
-        "title": "BA Cripto: Buenos Aires Anuncia Que Começará a Aceitar Criptomoedas para o Pagamento de Impostos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-1-1-300x200.png",
-        "date": "20/08/2025",
-        "description": "A meta do governo é que a cidade seja líder mundial em cripto"
     }
 ]
