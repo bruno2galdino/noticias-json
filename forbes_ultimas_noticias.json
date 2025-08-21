@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/mercado-de-genetica-bovina-avanca-no-brasil-com-recorde-na-producao-de-semen/",
+        "title": "Mercado de Genética Bovina Avança no Brasil com Recorde na Produção de Sêmen",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_semen_Bovino_20ago25_Thanakorn-Boonthawee_Getty-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "Relatório da Asbia em parceria com o Cepea mostra crescimento de 14% nas doses ofertadas, puxado pela produção nacional que ultrapassou 13 milhões de unidades"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-fecha-em-leve-alta-tendo-vale-como-contrapeso-a-incertezas-domesticas/",
+        "title": "Ibovespa Fecha em Baixa, Tendo Vale Como Contrapeso",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-5-300x200.png",
+        "date": "21/08/2025",
+        "description": "Dólar termina dia no positivo; atenções estão voltadas para o simpósio de Jackson Hole, onde Jerome Powell discursará na sexta-feira (22)"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/08/nova-exposicao-do-farol-santander-celebra-arte-popular-brasileira/",
         "title": "Nova Exposição do Farol Santander Celebra Arte Popular Brasileira",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Farol-Santander-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-21T115734Z_1_LYNXMPEL7K0HH_RTROPTP_4_CHINA-ARGENTINA-AVES-DE-CORRAL-300x200.jpg",
         "date": "21/08/2025",
         "description": "Comunicado oficial não esclarece razões nem prazo para o fim da suspensão"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/china-aumenta-em-139-as-compras-de-soja-do-brasil-em-julho/",
-        "title": "China Aumenta em 13,9% as Compras de Soja do Brasil em Julho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-20T112222Z_1_LYNXMPEL7J0HJ_RTROPTP_4_INDIA-PORTS-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "Volume supera marcas anteriores e reflete aquecimento na demanda interna"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/americanos-temem-que-a-ia-substitua-trabalhadores-permanentemente/",
-        "title": "Americanos Temem Que a IA Substitua Empregos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-trabalho-inteligencia-artificial-1-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "A inteligência artificial gera preocupações à medida que transforma empregos, indústrias e a vida cotidiana"
     }
 ]
