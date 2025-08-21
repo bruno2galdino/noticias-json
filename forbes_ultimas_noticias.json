@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/china-aumenta-em-139-as-compras-de-soja-do-brasil-em-julho/",
+        "title": "China Aumenta em 13,9% as Compras de Soja do Brasil em Julho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-20T112222Z_1_LYNXMPEL7J0HJ_RTROPTP_4_INDIA-PORTS-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "Volume supera marcas anteriores e reflete aquecimento na demanda interna"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/08/americanos-temem-que-a-ia-substitua-trabalhadores-permanentemente/",
+        "title": "Americanos Temem Que a IA Substitua Empregos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-trabalho-inteligencia-artificial-1-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "A inteligência artificial gera preocupações à medida que transforma empregos, indústrias e a vida cotidiana"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/sem-china-exportacao-de-frango-do-brasil-recuara-em-2025-apos-gripe-aviaria-diz-abpa/",
+        "title": "Sem China, Exportação de Frango do Brasil Recuará em 2025 após Gripe Aviária, Diz ABPA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_CarneDeFrango_19MAI2025_Reuters-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "O total exportado neste ano deverá ficar abaixo da projeção de 5,35 milhões de toneladas divulgada antes de um foco de gripe aviária em granja comercial"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/08/deepseek-lanca-modelo-de-ia-com-suporte-a-chips-chineses/",
         "title": "Deepseek Lança Modelo de IA com Suporte a Chips Chineses",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/tech-deepseek-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "21/08/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 21 de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/escolhas-do-editor/2025/08/conheca-o-ex-engenheiro-da-nasa-que-treina-robos-para-fazer-juntas-pre-laminadas/",
-        "title": "Ex-engenheiro da Nasa Treina Robôs para Empresas de Cannabis",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Nasa-Robo-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "Equipamento Sorting Robotics de Nohtal Partansky é usado por alguns dos maiores nomes da indústria da cannabis, de Stiiizy a Tilray"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/08/uma-sexta-feira-mais-louca-ainda-acerta-nessas-3-licoes-sobre-como-lidar-com-o-caos-familiar/",
-        "title": "“Uma Sexta-Feira Mais Louca Ainda” Acerta Nessas 3 Lições sobre Como Lidar com o Caos Familiar”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/960x0-4-300x200.jpg",
-        "date": "21/08/2025",
-        "description": null
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/ferrari-f50-que-pertenceu-a-ralph-lauren-e-leiloada-por-us-9-milhoes/",
-        "title": "Ferrari F50 Que Pertenceu a Ralph Lauren É Leiloada por US$ 9 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.1995-Ferrari-F50-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "Modelo raro foi destaque da RM Sotheby’s durante a Monterey Car Week 2025, semana passada, na Califórnia"
     }
 ]
