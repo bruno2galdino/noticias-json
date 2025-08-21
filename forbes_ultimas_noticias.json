@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/eua-e-ue-firmam-acordo-comercial-com-alivio-nas-tarifas-de-automoveis-do-bloco/",
+        "title": "EUA e UE Firmam Acordo Comercial; Com Alívio nas Tarifas de Automóveis do Bloco",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-5-2-300x200.png",
+        "date": "21/08/2025",
+        "description": "Documento oficializa tarifa de 15% sobre importações vindas da União Europeia para os Estados Unidos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/o-que-muda-para-as-redes-sociais-com-a-aprovacao-do-pl-da-adultizacao/",
+        "title": "O Que Muda para as Redes Sociais com a Aprovação do \"PL da Adultização\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/PL-adultizacao-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "O PL exige que as plataformas garantam, desde a concepção, configurações padrão voltadas à privacidade e segurança de crianças e adolescentes"
+    },
+    {
         "url": "https://forbes.com.br/colunas/2025/08/eduardo-mira-o-que-warren-buffett-pode-te-ensinar-sobre-reserva-de-oportunidade/",
         "title": "O Que Warren Buffett Pode te Ensinar sobre Reserva de Oportunidade",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Buffett-2025-08-21-1-300x200.jpg",
@@ -50,23 +64,9 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/08/transparencia-e-a-melhor-forma-de-garantir-direitos-autorais-na-era-da-ia-diz-cmo-global-da-adobe/",
-        "title": "\"Transparência É a Melhor Forma de Garantir Direitos Autorais na era da IA\", Diz CMO Global da Adobe",
+        "title": "\"Transparência É a Melhor Forma de Garantir Direitos Autorais na era da IA\", Diz VP de MKT da Adobe",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/SimonAdobe-300x200.jpg",
         "date": "21/08/2025",
         "description": "Simon Morris, VP de Marketing Internacional da Adobe, fala sobre o papel da inteligência artificial na criatividade, a proteção dos criadores e a estratégia da marca na América Latina"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/com-faturamento-de-us-15-bilhao-no-continente-levis-quer-duplicar-tamanho-no-brasil-em-5-anos/",
-        "title": "Com Faturamento de US$ 1,5 Bilhão no Continente, Levi's Quer Duplicar Tamanho no Brasil em 5 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-13-300x200.png",
-        "date": "21/08/2025",
-        "description": "Marca almeja conquistar os mais jovens e mostrar que não é voltada apenas para o público masculino"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/o-fim-das-ilusoes-como-o-agro-do-brasil-precisa-navegar-na-nova-desordem-mundial/",
-        "title": "O Fim das Ilusões? Como o Agro do Brasil Precisa Navegar na Nova Desordem Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Marcos_Jank_20ago25_LuPrezia-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "Marcos Jank, do Insper Global Agribusiness Center, diz que os países não querem depender de alimentos importados e que o Brasil vive em um mundo de incertezas sem precedentes"
     }
 ]
