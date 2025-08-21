@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/08/mastercard-anuncia-nova-cfo-no-brasil/",
+        "title": "Mastercard Anuncia Nova CFO no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-Marilia-Mendonca-Garcia-cfo-mastercard-1-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "Marília Mendonça Garcia acumula mais de 15 anos em posições de liderança em grandes empresas como Carrefour, Johnson & Johnson, Azul e LATAM"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/google-lanca-novos-smartphones-e-da-enfase-a-ia-em-vez-de-atualizacoes-do-hardware/",
+        "title": "Google Lança Novos Smartphones e Dá Ênfase a IA em Vez de Atualizações do Hardware",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-20T231658Z_1_LYNXMPEL7J0YU_RTROPTP_3_TECH-GOOGLE-HARDWARE-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "Em evento mais voltado ao grande público, Google destaca IA com ajuda de celebridades, enquanto novidades de hardware ficam em segundo plano"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/08/ju-ferraz-body-discute-os-impactos-da-autoestima-e-da-diversidade-na-vida-e-nos-negocios/",
+        "title": "BODY Discute Impactos da Autoestima e da Diversidade na Vida e nos Negócios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-ju-ferraz-painel-rio-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "Projeto levou ao Rio Innovation Week debates sobre futuro inclusivo, autonomia feminina e o poder da autenticidade"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/china-suspende-importacao-de-produtos-avicolas/",
+        "title": "China Suspende Importação de Produtos Avícolas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-21T115734Z_1_LYNXMPEL7K0HH_RTROPTP_4_CHINA-ARGENTINA-AVES-DE-CORRAL-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "Comunicado oficial não esclarece razões nem prazo para o fim da suspensão"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/china-aumenta-em-139-as-compras-de-soja-do-brasil-em-julho/",
         "title": "China Aumenta em 13,9% as Compras de Soja do Brasil em Julho",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-20T112222Z_1_LYNXMPEL7J0HJ_RTROPTP_4_INDIA-PORTS-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-6-2-300x200.png",
         "date": "21/08/2025",
         "description": "Associação de produtores alerta que impacto econômico pode ser grande caso países não cheguem a um consenso"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/eua-e-ue-firmam-acordo-comercial-com-alivio-nas-tarifas-de-automoveis-do-bloco/",
-        "title": "EUA e UE Firmam Acordo Comercial; Com Alívio nas Tarifas de Automóveis do Bloco",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-5-2-300x200.png",
-        "date": "21/08/2025",
-        "description": "Documento oficializa tarifa de 15% sobre importações vindas da União Europeia para os Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/o-que-muda-para-as-redes-sociais-com-a-aprovacao-do-pl-da-adultizacao/",
-        "title": "O Que Muda para as Redes Sociais com a Aprovação do \"PL da Adultização\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/PL-adultizacao-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "O PL exige que as plataformas garantam, desde a concepção, configurações padrão voltadas à privacidade e segurança de crianças e adolescentes"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/08/eduardo-mira-o-que-warren-buffett-pode-te-ensinar-sobre-reserva-de-oportunidade/",
-        "title": "O Que Warren Buffett Pode te Ensinar sobre Reserva de Oportunidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Buffett-2025-08-21-1-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "Ter recursos disponíveis para comprar ativos bons que estão baratos por alguma crise rendeu fortunas ao bilionário"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-ata-mostra-divisao-no-banco-central-dos-eua/",
-        "title": "Pré-mercado: Ata Mostra Divisão no Banco Central dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "21/08/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 21 de agosto"
     }
 ]
