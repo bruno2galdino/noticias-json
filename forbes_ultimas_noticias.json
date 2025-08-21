@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/08/nova-exposicao-do-farol-santander-celebra-arte-popular-brasileira/",
+        "title": "Nova Exposição do Farol Santander Celebra Arte Popular Brasileira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Farol-Santander-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "“Brasil: Arte Popular” abre nesta sexta (22), em semestre movimentado no circuito paulistano das artes"
+    },
+    {
+        "url": "https://forbes.com.br/sem-categoria/2025/08/india-retoma-importacao-de-oleo-de-canola-por-alta-de-precos/",
+        "title": "Índia Retoma Importação de Óleo de Canola por Alta de Preços",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-6-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "Havia quase cinco anos que o país não importava o produto; avanço foi de 34% e com o mais caro valor desde 2022"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/desmatamento-em-larga-escala-na-amazonia-e-business-imobiliario-diz-secretario-do-meio-ambiente-do-para/",
+        "title": "\"Desmatamento em Larga Escala na Amazônia É Business Imobiliário\", Diz Secretário do Meio Ambiente do Pará",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_fazenda_Redencao_Para_20ago25_Ricardo-Lima_Getty-1-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "Às vésperas da COP30 em Belém, o estado aposta em rastreabilidade e coalizões com frigoríficos e produtores para transformar a pecuária em vitrine de sustentabilidade no evento global"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/meta-congela-contratacoes-de-ia-diz-the-wall-street-journal/",
+        "title": "Meta Congela Contratações de IA, diz o Wall Street Journal",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Meta-energia-nuclear-300x200.png",
+        "date": "21/08/2025",
+        "description": "Empresa diz estruturar seus esforços em superinteligência com planejamento organizacional e formação de equipe especializada"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/08/mastercard-anuncia-nova-cfo-no-brasil/",
         "title": "Mastercard Anuncia Nova CFO no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-Marilia-Mendonca-Garcia-cfo-mastercard-1-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-trabalho-inteligencia-artificial-1-300x200.jpg",
         "date": "21/08/2025",
         "description": "A inteligência artificial gera preocupações à medida que transforma empregos, indústrias e a vida cotidiana"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/sem-china-exportacao-de-frango-do-brasil-recuara-em-2025-apos-gripe-aviaria-diz-abpa/",
-        "title": "Sem China, Exportação de Frango do Brasil Recuará em 2025 após Gripe Aviária, Diz ABPA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_CarneDeFrango_19MAI2025_Reuters-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "O total exportado neste ano deverá ficar abaixo da projeção de 5,35 milhões de toneladas divulgada antes de um foco de gripe aviária em granja comercial"
-    },
-    {
-        "url": "https://forbes.com.br/last/2025/08/deepseek-lanca-modelo-de-ia-com-suporte-a-chips-chineses/",
-        "title": "Deepseek Lança Modelo de IA com Suporte a Chips Chineses",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/tech-deepseek-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "A compatibilidade com processadores domésticos reforça a tentativa de substituir a tecnologia dos EUA"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/08/frank-caprio-conhecido-como-melhor-juiz-do-mundo-morre-aos-88-anos/",
-        "title": "Frank Caprio, Conhecido Como \"Melhor Juiz do Mundo\", Morre Aos 88 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Frank-Caprio-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "Magistrado ganhou notoriedade global por seu estilo compassivo no tribunal e pelo programa Caught in Providence"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/produtores-de-soja-dos-eua-pedem-que-trump-faca-um-acordo-de-compra-com-a-china-2/",
-        "title": "Produtores de Soja dos EUA Pedem Que Trump Faça um Acordo de Compra com a China",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-6-2-300x200.png",
-        "date": "21/08/2025",
-        "description": "Associação de produtores alerta que impacto econômico pode ser grande caso países não cheguem a um consenso"
     }
 ]
