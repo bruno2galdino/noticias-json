@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/08/frank-caprio-conhecido-como-melhor-juiz-do-mundo-morre-aos-88-anos/",
+        "title": "Frank Caprio, Conhecido Como \"Melhor Juiz do Mundo\", Morre Aos 88 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Frank-Caprio-300x200.jpg",
+        "date": "21/08/2025",
+        "description": "Magistrado ganhou notoriedade global por seu estilo compassivo no tribunal e pelo programa Caught in Providence"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/produtores-de-soja-dos-eua-pedem-que-trump-faca-um-acordo-de-compra-com-a-china-2/",
+        "title": "Produtores de Soja dos EUA Pedem Que Trump Faça um Acordo de Compra com a China",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-6-2-300x200.png",
+        "date": "21/08/2025",
+        "description": "Associação de produtores alerta que impacto econômico pode ser grande caso países não cheguem a um consenso"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/eua-e-ue-firmam-acordo-comercial-com-alivio-nas-tarifas-de-automoveis-do-bloco/",
         "title": "EUA e UE Firmam Acordo Comercial; Com Alívio nas Tarifas de Automóveis do Bloco",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-5-2-300x200.png",
@@ -28,7 +42,7 @@
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 21 de agosto"
     },
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/conheca-o-ex-engenheiro-da-nasa-que-treina-robos-para-fazer-juntas-pre-laminadas/",
+        "url": "https://forbes.com.br/escolhas-do-editor/2025/08/conheca-o-ex-engenheiro-da-nasa-que-treina-robos-para-fazer-juntas-pre-laminadas/",
         "title": "Ex-engenheiro da Nasa Treina Robôs para Empresas de Cannabis",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Nasa-Robo-300x200.jpg",
         "date": "21/08/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Tony-Castro_design-nautico-300x200.jpg",
         "date": "21/08/2025",
         "description": "Português Tony Castro falou à Forbes sobre sua nova parceria no Brasil, a real sustentabilidade do mercado e como as tarifas de Trump afetaram os estaleiros"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/peter-diamandis-o-melhor-jeito-de-prever-o-futuro-e-cria-lo/",
-        "title": "Peter Diamandis: “O Melhor Jeito de Prever o Futuro É Criá-lo”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-peter-diamandis-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "À Forbes, o visionário fundador da Singularity University afirma que a tecnologia e a IA têm o poder de potencializar as capacidades humanas e de resolver os grandes desafios do mundo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/transparencia-e-a-melhor-forma-de-garantir-direitos-autorais-na-era-da-ia-diz-cmo-global-da-adobe/",
-        "title": "\"Transparência É a Melhor Forma de Garantir Direitos Autorais na era da IA\", Diz VP de MKT da Adobe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/SimonAdobe-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "Simon Morris, VP de Marketing Internacional da Adobe, fala sobre o papel da inteligência artificial na criatividade, a proteção dos criadores e a estratégia da marca na América Latina"
     }
 ]
