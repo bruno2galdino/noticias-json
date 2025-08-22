@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/igc-ve-producao-mundial-de-milho-em-recorde-com-impulso-da-safra-dos-eua/",
+        "title": "IGC Vê Produção Mundial de Milho em Recorde com Impulso da Safra dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-21T145531Z_1_LYNXMPEL7K0OM_RTROPTP_4_BRAZIL-CORN-300x200.jpg",
+        "date": "22/08/2025",
+        "description": "Safra global de milho deve atingir recorde de 1,299 bilhão de toneladas, segundo nova projeção do órgão intergovernamental"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/dolar-recua-e-wall-street-avanca-apos-sinalizacao-de-powell/",
+        "title": "Jerome Powell Sinaliza Possível Corte de Juros, Agrada Trump e Bolsas Disparam",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Jerome-Powell-Fed-Juros-Americanos-Money-300x200.png",
+        "date": "22/08/2025",
+        "description": "Presidente do Federal Reserve indicou em discurso que autarquia deve cortar a margem de juros em breve"
+    },
+    {
         "url": "https://forbes.com.br/last/2025/08/meta-assina-contrato-de-mais-de-us-10-bi-com-google-diz-fonte/",
         "title": "Meta Assina Contrato de Mais de US$ 10 Bi com Google, Diz Fonte",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/2025-01-24T151543Z_1_LYNXNPEL0N0Q7_RTROPTP_4_META-PLATFORMS-EXPENDITURE-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_0.Porte-Noel-na-cidade-de-Chablis-Bourgogne-Franca-300x200.jpg",
         "date": "22/08/2025",
         "description": "Após visitar diversos produtores e degustar 130 exemplares da região francesa, foram selecionados os seguintes rótulos de cinco sub-regiões vinícolas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/para-alem-da-queda-do-dolar-como-outras-moedas-fortes-tem-se-comportado-em-meio-a-turbulencia/",
-        "title": "Para Além da Queda do Dólar: Como Outras Moedas Fortes Têm se Comportado em Meio à Turbulência",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2-11-300x200.jpg",
-        "date": "22/08/2025",
-        "description": "A moeda americana segue como a principal referência para investidores que buscam proteção em momentos de crise econômica,  mas ela não está sozinha nesse papel"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/mercado-de-genetica-bovina-avanca-no-brasil-com-recorde-na-producao-de-semen/",
-        "title": "Mercado de Genética Bovina Avança no Brasil com Recorde na Produção de Sêmen",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_semen_Bovino_20ago25_Thanakorn-Boonthawee_Getty-300x200.jpg",
-        "date": "21/08/2025",
-        "description": "Relatório da Asbia em parceria com o Cepea mostra crescimento de 14% nas doses ofertadas, puxado pela produção nacional que ultrapassou 13 milhões de unidades"
     }
 ]
