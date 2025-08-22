@@ -1,10 +1,31 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-money/2025/08/bndes-passa-a-deter-participacao-de-44-na-eve-da-embraer/",
-        "title": "BNDES Passa a Deter Participação de 4,4% na Eve, da Embraer",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/06/forbes-agro-BNDES-300x200.jpg",
+        "url": "https://forbes.com.br/forbesagro/2025/08/colheita-de-cafe-do-brasil-esta-praticamente-encerrada-diz-safras-mercado/",
+        "title": "Colheita de Café do Brasil Está Praticamente Encerrada, Diz Safras & Mercado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cafe_especial_17ago25_Guido-Mieth_Getty-300x200.jpg",
         "date": "22/08/2025",
-        "description": "Banco fez anúncio durante divulgação de resultados referentes ao último trimestre"
+        "description": "O percentual alcançado é ligeiramente superior ao registrado no mesmo período do ano passado"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/orgaos-do-governo-divergem-sobre-moratoria-da-soja-aumentando-riscos-para-tradings/",
+        "title": "Órgãos do Governo Divergem sobre Moratória da Soja, Aumentando Riscos para Tradings",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Soja_7JUl2025_Getty-1-300x200.png",
+        "date": "22/08/2025",
+        "description": "O Conselho Administrativo de Defesa Econômica (Cade) iniciou uma investigação nesta semana"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/anp-autoriza-copersucar-a-participar-do-renovabio-como-importador-de-etanol-dos-eua/",
+        "title": "ANP Autoriza Copersucar a Participar do RenovaBio Como Importador de Etanol dos Eua",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-21T213353Z_1_LYNXMPEL7K0XY_RTROPTP_4_BRAZIL-ENERGY-FUEL-300x200.jpg",
+        "date": "22/08/2025",
+        "description": "Importador de biocombustível recebe 1º certificado para atuar no RenovaBio e negociar créditos de descarbonização"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/lista-forbes-os-jogadores-de-tenis-mais-bem-pagos-do-mundo-em-2025/",
+        "title": "Lista Forbes: Os Jogadores de Tênis Mais Bem Pagos do Mundo em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-10-1-300x200.png",
+        "date": "22/08/2025",
+        "description": "Juntos, os dez principais nomes do tênis faturaram US$ 285 milhões (R$ 1,55 bilhão) no último ano; Carlos Alcaraz e Jannik Sinner, protagonistas da nova grande rivalidade do esporte, duelam dentro e fora das quadras"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/08/chuvas-favorecem-trigo-argentino-em-fase-chave-de-fertilizacao-diz-bolsa/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/GettyImages-2214711070-1-300x200.jpg",
         "date": "22/08/2025",
         "description": "Participação minoritária na empresa suíça de calçados, a On, ajudou Federer a alcançar o clube do bilhão"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-em-compasso-de-espera-com-a-reuniao-de-jackson-hole/",
-        "title": "Pré-mercado: em Compasso de Espera com a Reunião de Jackson Hole",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "22/08/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 22 de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/contagem-regressiva-para-o-iphone-17-veja-os-fracassos-e-sucessos-da-apple-desde-2007/",
-        "title": "Contagem Regressiva para o Iphone 17; Veja os Campeões de Vendas da Apple desde 2007",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/iphone-300x200.jpg",
-        "date": "22/08/2025",
-        "description": "Desde que foi lançado, o iPhone já rendeu para a Apple mais de 1,2 bilhão de unidades vendidas, o último lançamento, no primeiro trimestre deste ano, o iPhone 16 foi o smartphone mais vendido do mundo"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/disparidade-salarial-entre-ceos-e-funcionarios-cresce-nos-eua/",
-        "title": "Disparidade Salarial entre CEOs e Funcionários Cresce nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-ceo-starbucks-brian-niccol-300x200.jpg",
-        "date": "22/08/2025",
-        "description": "Entre 2019 e 2024, a remuneração dos altos executivos cresceu mais que o dobro em relação à mediana do salário dos trabalhadores"
     }
 ]
