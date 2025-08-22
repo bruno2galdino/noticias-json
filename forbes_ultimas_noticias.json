@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/tarifaco-safra-menor-e-demanda-externa-impulsionam-preco-do-cafe-diz-cecafe/",
+        "title": "Tarifaço, Safra Menor no Brasil e Demanda da Europa e Ásia Impulsionam Preço do Café, diz Cecafé",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-2-2-300x200.jpg",
+        "date": "22/08/2025",
+        "description": "Safra brasileira de arábica de 2025, cuja colheita está sendo finalizada, mostrou-se com um rendimento 10% menor do que o esperado"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-dispara-subindo-quase-de-3-com-efeito-de-jerome-powell-nos-mercados/",
+        "title": "Ibovespa Dispara, Subindo Quase 3% com Efeito de Jerome Powell nos Mercados",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-5-300x200.png",
+        "date": "22/08/2025",
+        "description": "O movimento aconteceu após o presidente do Fed sinalizar, no simpósio de Jackson Hole, corte na taxa de juros americana"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/para-dino-sancoes-abrem-caminho-para-retaliacoes-contra-empresas/",
+        "title": "Para Dino, Sanções Abrem Caminho para Retaliações Contra Empresas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-1-2-300x200.jpg",
+        "date": "22/08/2025",
+        "description": "\"Um país que valoriza a sua Constituição não pode aceitar medidas de força que ameacem seus cidadãos, suas cidadãs e as suas empresas\", disse o ministro"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/colheita-de-cafe-do-brasil-esta-praticamente-encerrada-diz-safras-mercado/",
         "title": "Colheita de Café do Brasil Está Praticamente Encerrada, Diz Safras & Mercado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cafe_especial_17ago25_Guido-Mieth_Getty-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-21T145531Z_1_LYNXMPEL7K0OM_RTROPTP_4_BRAZIL-CORN-300x200.jpg",
         "date": "22/08/2025",
         "description": "Safra global de milho deve atingir recorde de 1,299 bilhão de toneladas, segundo nova projeção do órgão intergovernamental"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/dolar-recua-e-wall-street-avanca-apos-sinalizacao-de-powell/",
-        "title": "Jerome Powell Sinaliza Possível Corte de Juros, Agrada Trump e Bolsas Disparam",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Jerome-Powell-Fed-Juros-Americanos-Money-300x200.png",
-        "date": "22/08/2025",
-        "description": "Presidente do Federal Reserve indicou em discurso que autarquia deve cortar a margem de juros em breve"
-    },
-    {
-        "url": "https://forbes.com.br/last/2025/08/meta-assina-contrato-de-mais-de-us-10-bi-com-google-diz-fonte/",
-        "title": "Meta Assina Contrato de Mais de US$ 10 Bi com Google, Diz Fonte",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/2025-01-24T151543Z_1_LYNXNPEL0N0Q7_RTROPTP_4_META-PLATFORMS-EXPENDITURE-300x200.jpg",
-        "date": "22/08/2025",
-        "description": "A Meta usará os servidores, armazenamento, rede e outros serviços do Google Cloud"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/lenda-do-tenis-roger-federer-agora-e-o-mais-novo-bilionario/",
-        "title": "Lenda do Tênis, Roger Federer Agora É o Mais Novo Bilionário",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/GettyImages-2214711070-1-300x200.jpg",
-        "date": "22/08/2025",
-        "description": "Participação minoritária na empresa suíça de calçados, a On, ajudou Federer a alcançar o clube do bilhão"
     }
 ]
