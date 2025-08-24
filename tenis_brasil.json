@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/candiotto-para-na-semi-no-chile-oliveira-e-vice-nas-duplas.html",
+        "title": "Candiotto para na semi no Chile, Oliveira é vice nas duplas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/candiotto_ecp_back25.jpg",
+        "date": "23/08/2025",
+        "description": "Santiago (Chile) –A paulista Ana Candiotto caiu na semifinal do ITF W15 de Santiago, em quadras de saibro no Chile. A jovem de 21 anos foi superada pela equatoriana Mell Reasco, vinda do quali, por 6/3 e 6/1."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fucsovics-conquista-terceiro-atp-e-impede-titulo-inedito-de-botic.html",
+        "title": "Fucsovics conquista terceiro ATP e impede título inédito de Botic",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/fucsovics_trofeu_winston-1024x576.jpg",
+        "date": "23/08/2025",
+        "description": "Winston-Salem (EUA) –No último torneio preparatório para o US Open, o húngaro Marton Fucsovics conquistou o ATP 250 de Winston-Salem. Ele superou neste sábado o holandês Botic van de Zandschulp, 92º do ranking, por 6/3 e 7/6 (7-3)."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-23-08.html",
         "title": "O dia dos brasileiros: veja os resultados deste sábado",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/03/53380060543_a0d6fba85c_c.jpg",
         "date": "23/08/2025",
         "description": "ATP 250 de Winston-Salem (EUA) – Sintético – US$ 798.335Duplas – Final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-estreia-na-2a-feira-sessao-noturna-tem-alcaraz-e-venus.html",
+        "title": "Fonseca estreia na 2ª feira, sessão noturna tem Alcaraz e Venus",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/fonseca-cincinnati-2025-thursday-1-1024x576.jpg",
+        "date": "23/08/2025",
+        "description": "Nova York (EUA) –A estreia de João Fonseca no US Open acontecerá na próxima segunda-feira. O carioca de 19 anos e número 1 do Brasil fará o segundo jogo da quadra Grandstand, por volta das 13h30 (de Brasília) contra o sérvio Miomir Kecmanovic. Será um confronto entre os números 44 a 45 do mundo."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/cirstea-conquista-aos-35-anos-seu-terceiro-titulo-de-wta-em-cleveland.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/arte-ps_tien.jpg",
         "date": "23/08/2025",
         "description": "A primeira rodada do US Open, que já começa neste domingo, prevê uma série de jogos entre nomes consagrados e tenistas da nova geração, alguns deles motivados por bons resultados das últimas semanas. Será uma oportunidade para os jovens jogadores se testarem nos grandes palcos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/kvitova-celebra-sua-trajetoria-no-tenis-e-nao-se-ve-como-treinadora.html",
-        "title": "Kvitova celebra sua trajetória no tênis e não se vê como treinadora",
-        "image": null,
-        "date": "23/08/2025",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/programa-esporte-seguro-da-atp-completa-um-ano-e-faz-balanco.html",
-        "title": "Programa Esporte Seguro da ATP completa um ano e faz balanço",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/safe-sport.jpg",
-        "date": "23/08/2025",
-        "description": "Londres (Inglaterra) –Em seu ano de estreia, a iniciativa Esporte Seguro (Safe Sport) da ATP analisou mais de 3,1 milhões de comentários em redes sociais, sinalizando mais de 162.000 direcionados a 245 jogadores como “graves” e ocultando comentários abusivos à medida que eram detectados, em uma tentativa de proteger os principais jogadores da ATP de conteúdo digital prejudicial."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/oncins-analisa-us-open-e-momentos-de-fonseca-e-bia.html",
-        "title": "Oncins analisa US Open e momentos de Fonseca e Bia",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/pod_oncins_uso.jpg",
-        "date": "23/08/2025",
-        "description": "O capitão do time brasileiro da Copa Davis é o entrevistado desta semana noPodcast de TenisBrasile, às vésperas do US Open, avalia as chaves de simples em Nova York. Para Jaime Oncins, o italiano Jannik Sinner e o espanhol Carlos Alcaraz estão acima de todos os demais concorrentes e Iga Swiatek promete lutar pelo título com Aryna Sabalenka."
     }
 ]
