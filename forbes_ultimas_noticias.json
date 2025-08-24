@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/spacex-de-elon-musk-fara-10o-teste-de-voo-para-starship/",
+        "title": "SpaceX, de Elon Musk, Fará 10º Teste de Voo para Starship",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Lancamento-do-Starship-300x200.png",
+        "date": "24/08/2025",
+        "description": "Testes anteriores do foguete terminaram em falhas iniciais"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/08/a-simples-regra-dos-5-segundos-que-pode-mudar-o-rumo-de-qualquer-briga/",
         "title": "A Simples “Regra dos 5 Segundos” Que Pode Mudar o Rumo de Qualquer Briga",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/960x0-2-1-300x200.jpg",
@@ -43,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/08/ex-unicornio-do-setor-de-uisque-uncle-nearest-enfrenta-dificuldades-para-sobreviver-apos-inadimplencia-em-emprestimos-de-us-108-milhoes/",
-        "title": "Ex-unicórnio do Setor de Uísque, Uncle Nearest, Enfrenta Dificuldades para Sobreviver após Inadimplência em Empréstimos de US$ 108 Milhões",
+        "title": "Ex-unicórnio do Uísque Sofre para Sobreviver após Inadimplência de US$ 108 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2-13-300x200.jpg",
         "date": "24/08/2025",
         "description": "A fundadora, Fawn Weaver, corre o risco de perder o controle da destilaria no Tennessee, após decisão judicial"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/iPhone-300x200.png",
         "date": "24/08/2025",
         "description": "O lançamento do iOS 18.6.2 ocorre apenas três semanas após o iOS 18.6 ter corrigido uma extensa lista de 29 vulnerabilidades."
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2025/08/por-que-o-serprino-pode-ser-o-seu-proximo-vinho-favorito/",
-        "title": "Por Que o Serprino Pode Ser o Seu Próximo Vinho Favorito",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_Vinhedos-Serprino-nas-Colinas-Euganeana_20ago25_-l.Sinigaglia-300x200.jpg",
-        "date": "24/08/2025",
-        "description": "Como o frisante das Colinas Eugâneas no Vêneto, combina tradição, terroir vulcânico e versatilidade gastronômica em uma alternativa autêntica ao Prosecco"
     }
 ]
