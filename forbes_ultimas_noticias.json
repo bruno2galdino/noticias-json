@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/08/a-simples-regra-dos-5-segundos-que-pode-mudar-o-rumo-de-qualquer-briga/",
+        "title": "A Simples “Regra dos 5 Segundos” Que Pode Mudar o Rumo de Qualquer Briga",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/960x0-2-1-300x200.jpg",
+        "date": "24/08/2025",
+        "description": "Pesquisas mostram que uma intervenção de apenas cinco segundos é suficiente para evitar que um conflito saia do controle"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/china-propoe-regras-sobre-precos-de-plataformas-de-internet/",
+        "title": "China Propõe Regras sobre Preços de Plataformas de Internet",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/GettyImages-523738180-300x200.jpg",
+        "date": "24/08/2025",
+        "description": "Comissão de Reforma da China diz que iniciativa pretende promover transparência e preços justos"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/08/3-sinais-de-que-seu-parceiro-quer-passar-a-vida-ao-seu-lado/",
+        "title": "3 Sinais de Que Seu Parceiro Quer Passar a Vida Ao Seu Lado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/960x0-7-300x200.jpg",
+        "date": "24/08/2025",
+        "description": "Seu parceiro leva o relacionamento tão a sério quanto você? Com base em pesquisas psicológicas, aqui estão três maneiras certeiras de descobrir"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/discussoes-sobre-corte-de-juros-pelo-bce-podem-ser-retomadas-apos-a-pausa-de-setembro-dizem-fontes/",
+        "title": "Discussões sobre Corte de Juros Pelo BCE Podem Ser Retomadas após a Pausa de Setembro, Dizem Fontes",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/03/Money_BCE-300x200.jpg",
+        "date": "24/08/2025",
+        "description": "Christine Lagarde, presidente do BCE, afirma que o banco encerrou o ciclo de cortes e prepara terreno para uma pausa prolongada nos juros"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/08/os-restaurantes-mais-dificeis-de-reservar-no-mundo/",
         "title": "Os Restaurantes Mais Difíceis de Reservar no Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_El-Cellar-de-Can-Roca-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_Vinhedos-Serprino-nas-Colinas-Euganeana_20ago25_-l.Sinigaglia-300x200.jpg",
         "date": "24/08/2025",
         "description": "Como o frisante das Colinas Eugâneas no Vêneto, combina tradição, terroir vulcânico e versatilidade gastronômica em uma alternativa autêntica ao Prosecco"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/08/morre-aos-86-anos-o-pianista-miguel-proenca/",
-        "title": "Morre, Aos 86 Anos, o Pianista Miguel Proença",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/miguelpianista-300x200.webp",
-        "date": "23/08/2025",
-        "description": "Artista deixa como legado uma discografia dedicada à valorização de compositores brasileiros da música erudita"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/08/apos-entrar-no-tiktok-trump-diz-que-pode-estender-prazo-de-venda-se-necessario/",
-        "title": "Após Entrar no TikTok, Trump Diz Que Pode Estender Prazo de Venda, se Necessário",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-23T000443Z_2_LYNXMPEL7L0YD_RTROPTP_3_USA-TIKTOK-300x200.jpg",
-        "date": "23/08/2025",
-        "description": "Presidente dos EUA minimiza riscos do aplicativo de vídeos curtos e diz que falará com Xi Jinping “no momento certo”"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/governo-abre-consulta-para-2-leiloes-de-capacidade-de-energia-com-inclusao-de-carvao-e-oleo/",
-        "title": "Governo Abre Consulta para 2 Leilões de Capacidade de Energia com Inclusão de Carvão e Óleo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-14T151318Z_1_LYNXMPEL7D0OK_RTROPTP_4_BRAZIL-300x200.jpg",
-        "date": "23/08/2025",
-        "description": "Leilão de capacidade é visto como chave para garantir segurança do sistema diante da expansão de renováveis intermitentes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/india-diz-que-negociacoes-comerciais-com-eua-continuam-em-andamento/",
-        "title": "Índia Diz Que Negociações Comerciais com EUA Continuam em Andamento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro-acucar-india-300x200.jpg",
-        "date": "23/08/2025",
-        "description": "EUA impõem tarifas extras de até 50% sobre produtos indianos em resposta ao aumento das compras de petróleo russo"
     }
 ]
