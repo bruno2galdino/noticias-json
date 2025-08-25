@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/406569-governo-trump-confirma-aquisicao-de-quase-10-das-acoes-da-intel.htm",
+        "title": "Governo Trump confirma aquisição de quase 10% das ações da Intel",
+        "description": "Empresa de semicondutores dos Estados Unidos está em fase delicada; Casa Branca pode fazer acordos parecidos com outras empresas.",
+        "image": "https://tm.ibxk.com.br/2025/06/26/26101749423048.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/406574-govbr-caiu-app-e-site-do-servico-tem-instabilidade-nesta-segunda-feira-25.htm",
+        "title": "Gov.br caiu? App e site do serviço têm instabilidade nesta segunda-feira (25)",
+        "description": "Usuários relatam múltiplas dificuldades para acessar o ecossistema do Governo Fedderal; problemas começaram nesta manhã",
+        "image": "https://tm.ibxk.com.br/2025/08/25/25125259577185.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/guia-de-compras/406571-liquida-99-do-mercado-livre-tem-celulares-smart-tvs-e-mais-com-ate-70-off.htm",
+        "title": "Liquida 9.9 do Mercado Livre tem celulares, smart TVs e mais com até 70% OFF",
+        "description": "Aproveite preços mais em conta, condições especiais de pagamento e entrega rápida em diversas opções de TVs, celulares, fones e mais acessórios e eletrônicos com desconto no MeLi por tempo limitado",
+        "image": "https://tm.ibxk.com.br/2025/08/25/25114827496125.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502131-tudo-sobre-project-spectrum-novo-jogo-de-terror-dos-criadores-de-delta-force.htm",
         "title": "Tudo sobre Project Spectrum, novo jogo de terror dos criadores de Delta Force",
         "description": "Project Spectrum estava sendo desenvolvido em segredo há dois anos pela Team Jade, estúdio responsável pelo shooter Delta Force! Conheça o game",
@@ -25,27 +46,6 @@
         "title": "Filho de Norman Reedus, de Walking Dead e Death Stranding, é preso por agressão",
         "description": "Mingus Reedus foi detido após acusações de agressão nos Estados Unidos, mas defesa aponta que “a história foi contada de forma errada”. Saiba mais detalhes",
         "image": "https://tm.ibxk.com.br/2025/08/25/25110528195062.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/ciencia/406562-musica-eletronica-reduz-chance-de-picadas-do-aedes-aegypti-revela-estudo.htm",
-        "title": "Música eletrônica reduz chance de picadas do Aedes aegypti, revela estudo",
-        "description": "Pesquisa mostra que certas batidas confundem animal vetor da dengue e pioram até desempenho do mosquito na reprodução.",
-        "image": "https://tm.ibxk.com.br/2025/08/25/25091433656047.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/406550-monitores-aoc-asus-e-mais-a-partir-de-r220-no-magazine-luiza-aproveite.htm",
-        "title": "Monitores AOC, ASUS e mais a partir de R$220 no Magazine Luiza; aproveite",
-        "description": "Confira já uma lista com diversos modelos de monitores de computador mais baratos no Magazine Luiza por tempo limitado e aproveite para garantir imagens de qualidade pagando bem menos",
-        "image": "https://tm.ibxk.com.br/2025/08/22/22151003144014.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406558-whatsapp-pode-ganhar-correio-de-voz-para-chamadas-perdidas.htm",
-        "title": "WhatsApp pode ganhar correio de voz para chamadas perdidas",
-        "description": "A nova solução permite deixar um recado rápido para os momentos em que o destinatário não atender ou recusar a ligação.",
-        "image": "https://tm.ibxk.com.br/2025/08/22/22191612555010.jpg",
         "date": null
     }
 ]
