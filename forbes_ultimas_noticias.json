@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/cargill-cocoa-promise-ja-beneficia-12-mil-produtores-de-cacau-no-brasil/",
+        "title": "Cargill Cocoa Promise Já Beneficia 12 Mil Produtores de Cacau no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cacau_produtor_20ago25_-Freedom_Naruk_Getty-300x200.jpg",
+        "date": "25/08/2025",
+        "description": "Projetos em estados como Bahia e Pará mostram como assistência técnica e gestão podem dobrar a produtividade"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/08/como-maria-sharapova-agora-no-hall-da-fama-do-tenis-construiu-sua-marca-pessoal/",
         "title": "Como Maria Sharapova Transformou Vitórias em Negócios",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-maria-sharapova-hall-fama-tenis-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-8-1-300x200.png",
         "date": "25/08/2025",
         "description": "Queda é a 13ª consecutiva e se aproxima da margem de tolerância estabelecida pelo BC"
-    },
-    {
-        "url": "https://forbes.com.br/sem-categoria/2025/08/governo-americano-cogita-comprar-acoes-da-intel-mas-empresa-faz-alerta/",
-        "title": "Governo Americano Cogita Comprar Ações da Intel, Mas Empresa Faz Alerta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-7-1-300x200.png",
-        "date": "25/08/2025",
-        "description": "Negociação teria como intuito recuperar a empresa, que vive em dificuldades financeiras"
     }
 ]
