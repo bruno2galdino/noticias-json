@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/soja-cai-em-chicago-porque-china-sinaliza-menos-apetite-pelo-grao-dos-eua/",
+        "title": "Soja Cai em Chicago Porque China Sinaliza Menos Apetite Pelo Grão dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_soja_Produtor_25ago25_Drs-Producoes_Getty-300x200.jpg",
+        "date": "25/08/2025",
+        "description": "Investidores ajustam posições diante da incerteza nas negociações e do efeito das isenções a refinarias sobre a demanda por biocombustíveis, no caso do milho"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/cai-o-embargo-a-carne-de-frango-do-brasil-no-chile-e-arabia-saudita/",
+        "title": "Chile e a Arábia Saudita Retiram Embargo À Carne de Frango do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_frango_25ago25_Daniel-Tadevosyan_Getty-1-300x200.jpg",
+        "date": "25/08/2025",
+        "description": "Anúncio foi feito pelo Ministério da Agricultura nesta segunda-feira (25)"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/com-perspectiva-mais-positiva-para-a-inflacao-ibovespa-sobe-e-dolar-tem-nova-queda/",
+        "title": "Com Perspectiva Mais Positiva para a Inflação, Ibovespa Sobe e Dólar Tem Nova Queda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/fechamento-money-300x200.png",
+        "date": "25/08/2025",
+        "description": "Pesquisa Focus publicada nesta segunda-feira (25) projeta novo recuo para o IPCA, que está na 13ª semana seguida em queda"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/brasil-vai-para-o-top-10-entre-os-maiores-consumidores-globais-de-ovos-em-2025/",
         "title": "Brasil Vai para o Top 10 entre os Maiores Consumidores Globais de Ovos em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_ovos_25ago25_Krit-of-Studio-OMG_Getty-300x200.jpg",
@@ -22,7 +43,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/08/lancamento-do-iphone-17-se-aproxima-veja-o-cronograma-definitivo/",
-        "title": "Lançamento do iPhone 17 se Aproxima; Veja o Cronograma Definitivo",
+        "title": "Lançamento do iPhone 17: Veja o Cronograma Definitivo",
         "image": "https://forbes.com.br/wp-content/uploads/2024/01/Tech_Apple-Iphone-ios-17-300x200.jpg",
         "date": "25/08/2025",
         "description": "A Apple gosta de causar impacto com o anúncio de um evento especial, se mantiver o mesmo cronograma dos anos anteriores, o dia 26 de agosto será o dia, duas semanas antes da apresentação principal"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2022/05/Agro_castanhas_nozes_10mai22_Tatiana-Suyarova_Getty-300x200.jpg",
         "date": "25/08/2025",
         "description": "A regra permite que União, Estados e municípios façam compras para seus programas de alimentação de forma simplificada"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/china-emitira-200-mil-t-de-cotas-de-importacao-de-algodao-com-tarifas-reduzidas/",
-        "title": "China Emitirá 200 Mil t de Cotas de Importação de Algodão com Tarifas Reduzidas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-25T113051Z_1_LYNXMPEL7O0ER_RTROPTP_4_BRAZIL-COTTON-SOYBEANS-300x200.jpg",
-        "date": "25/08/2025",
-        "description": "Distribuição de cotas será limitada a pedidos contratados até atingir o volume máximo, diz comissão"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/familia-coelho-diniz-amplia-fatia-no-gpa-a-quase-25-e-pede-eleicao-de-novo-conselho-de-administracao/",
-        "title": "Família Coelho Diniz Amplia Fatia no GPA a Quase 25% e Pede Eleição de Novo Conselho de Administração",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/08/MONEY_GPA_1708-300x200.jpg",
-        "date": "25/08/2025",
-        "description": "Família assume posição de maior acionista do GPA, superando participação do grupo francês Casino"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/keurig-dr-pepper-anuncia-a-compra-da-jde-peets-por-us-18-bi-e-vai-ser-a-maior-empresa-de-cafe-do-mundo/",
-        "title": "Keurig Dr Pepper Anuncia a Compra da JDE Peet’s por US$ 18 Bi e Vai Ser a Maior Empresa de Café do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cafe-JDE_Keurig_20ago25_-Michael-M.-Santiago_getty-300x200.jpg",
-        "date": "25/08/2025",
-        "description": "Aquisição bilionária envolve a cisão dos negócios do grão e das bebidas em meio à alta dos preços causada pelo tarifaço de Trump"
     }
 ]

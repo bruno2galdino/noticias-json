@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/bia-estreia-terca-no-us-open-em-rodada-com-iga-sinner-e-gauff.html",
+        "title": "Bia estreia terça no US Open em rodada com Iga, Sinner e Gauff",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/bia_monterrey_fore-1024x682.jpg",
+        "date": "25/08/2025",
+        "description": "Nova York (EUA) –Com a primeira rodada do US Open desmembrada em três dias, a estreia de Beatriz Haddad Maia acontecerá apenas na terça-feira, ao meio-dia (de Brasília) na quadra 12. A número 1 do Brasil e 22ª do mundo enfrenta a britânica Sonay Kartal, de 23 anos e 51ª do ranking. Bia retorna a Nova York um ano depois de chegar às quartas de final, em sua segunda melhor campanha em Grand Slam da carreira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/garcia-e-superada-em-tres-sets-e-encerra-a-carreira-no-us-open.html",
+        "title": "Garcia é superada em três sets e encerra a carreira no US Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/garcia_usopen_toss-1024x576.jpg",
+        "date": "25/08/2025",
+        "description": "Nova York (EUA) –A rodada desta segunda-feira no US Open foi marcada por despedidas. Horas depois do último jogo dePetra Kvitovano tênis profissional, foi a vez da francesa Caroline Garcia encerrar a carreira, com a derrota em três sets para a russa Kamilla Rakhimova, 65ª do ranking, com parciais de 6/4, 4/6 e 6/3 em 2h17 de partida."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/joao-fonseca-ja-esta-no-top-10-brasileiro-em-premios-na-carreira.html",
         "title": "João Fonseca já está no top 10 brasileiro em prêmios na carreira",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/fonseca-toronto-devolve-2025-e1754075848627-1024x683.jpeg",
@@ -18,7 +32,7 @@
         "title": "Zarazua surpreende Keys em duelo de 3h10, Rybakina estreia bem",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/zarazua_usopen_vibra-1024x576.jpg",
         "date": "25/08/2025",
-        "description": "Nova York (EUA) –No jogo que abriu a programação desta segunda-feira no Arthur Ashe Stadium, a mexicana Renata Zarazua protagonizou uma grande surpresa ao eliminar Madison Keys, número 6 do mundo e campeã do US Open, com parciais de 6/7 (10-12), 7/6 (7-3) e 7/5 em 3h10 de partida."
+        "description": "Nova York (EUA) –No jogo que abriu a programação desta segunda-feira no Arthur Ashe Stadium, a mexicana Renata Zarazua protagonizou uma grande surpresa na primeira rodada do US Open ao eliminar Madison Keys, número 6 do mundo e campeã do Australian Open, com parciais de 6/7 (10-12), 7/6 (7-3) e 7/5 em 3h10 de partida."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/copa-brasil-tem-semifinais-em-alphaville-com-julio-silva.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/krejcikova-1024x761.jpg",
         "date": "25/08/2025",
         "description": "Nova York (EUA)– O tão aguardado duelo entre a experiente Barbosa Krejcikova e a revelação canadense Victoria Mboko foi decepcionante. Ainda com punho não completamente recuperado, a campeã de Montréal sacou mal, cometeu muitas duplas faltas e não aguentou o ritmo variado imposto pela tcheca, que fechou a partida de 1h23 com o placar de 6/3 e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/norrie-vence-dois-sets-e-supera-estreia-com-abandono-de-korda.html",
-        "title": "Norrie vence dois sets e supera estreia com abandono de Korda",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/norrie-usopen-back-2025-e1756145535631-1024x681.jpg",
-        "date": "25/08/2025",
-        "description": "Nova York (EUA)– O físico não tem ajudado muito o norte-americano Sebastian Korda, que depois do US Open só voltou a competir no ATP 250 de Winston-Salem, onde foi até as semifinais e sequer entrou em quadra para buscar um lugar na final. Em sua estreia no US Open, ele aguentou dois sets e abandonou a partida contra o britânico Cameron Norrie."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/circuito-de-tenis-profissional-vai-agitar-o-rio-em-outubro.html",
-        "title": "Circuito de Tênis Profissional vai agitar o Rio em outubro",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/riotennisacademy.jpg",
-        "date": "25/08/2025",
-        "description": "Rio de Janeiro (RJ) –O Circuito BRB Engie de Tênis Profissional será realizado entre os dias 5 e 11 de outubro na  Rio Tennis Academy, em parceria com a Confederação Brasileira de Tênis. Este é o segundo maior torneio internacional de tênis masculino da cidade, só atrás do Rio Open, que acontece em fevereiro."
     }
 ]
