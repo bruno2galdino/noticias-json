@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/diretora-do-fed-entrara-na-justica-para-manter-se-no-cargo/",
+        "title": "Diretora do Fed Entrará na Justiça para Manter-se no Cargo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-11-2-300x200.png",
+        "date": "26/08/2025",
+        "description": "Lisa Cook foi demitida pelo presidente americano, Donald Trump, na segunda-feira (25)"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/cooxupe-reporta-colheita-de-cafe-em-913-da-area-dos-cooperados/",
+        "title": "Cooxupé Reporta Colheita de Café em 91,3% da Área dos Cooperados",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-26T150836Z_1_LYNXMPEL7P0PD_RTROPTP_4_BRAZIL-COFFEE-FROSTS-300x200.jpg",
+        "date": "26/08/2025",
+        "description": "Ritmo da colheita segue abaixo dos anos anteriores nas principais regiões produtoras de café arábica"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/conab-reduz-estimativa-de-producao-de-acucar-do-brasil-em-2025-26/",
+        "title": "Conab Reduz Estimativa de Produção de Açúcar do Brasil em 2025/26",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-26T135859Z_1_LYNXMPEL7P0N1_RTROPTP_4_GLOBAL-SUGAR-300x200.jpg",
+        "date": "26/08/2025",
+        "description": "Condições climáticas adversas impactam produtividade da cana e levam à revisão para baixo na estimativa de açúcar da nova safra"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/spotify-anuncia-recurso-de-mensagens-para-usuarios-gratuitos-e-premium/",
+        "title": "Spotify Anuncia Recurso de Mensagens para Usuários Gratuitos e Premium",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-26T142019Z_1_LYNXMPEL7P0NP_RTROPTP_4_SPOTIFY-TECH-RESULTS-PIX-300x200.jpg",
+        "date": "26/08/2025",
+        "description": "Nova função busca aumentar o engajamento e reforçar a disputa com rivais no mercado de streaming"
+    },
+    {
         "url": "https://forbes.com.br/forbes-collab/2025/08/quando-o-esporte-e-a-educacao-se-encontram/",
         "title": "Quando o Esporte e a Educação se Encontram",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-5-3-300x200.png",
@@ -8,8 +36,8 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/08/dono-do-onlyfans-ve-fortuna-dobrar-com-venda-e-dividendo-recorde/",
-        "title": "Fortuna de Bilionário do OnlyFans Dobra com Venda e Dividendo Recorde",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-13-1-300x200.png",
+        "title": "Dono do OnlyFans Vê Fortuna Dobrar com Dividendo Recorde",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-14-1-300x200.png",
         "date": "26/08/2025",
         "description": "Bilionário Leonid Radvinsky já lucrou mais de R$ 9,7 bilhões com a plataforma desde 2018 e negocia a possível venda da empresa por R$ 43,4 bilhões"
     },
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/GettyImages-1268555447-300x200.jpg",
         "date": "26/08/2025",
         "description": "Tabagismo ainda é fator-chave, mas poluição e cigarros eletrônicos transformam o quadro epidemiológico da doença"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/aneel-aprova-edital-para-leilao-de-energia-para-sistemas-isolados-do-am-e-pa/",
-        "title": "Aneel Aprova Edital para Leilão de Energia para Sistemas Isolados do AM e PA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-26T143822Z_1_LYNXMPEL7P0O5_RTROPTP_4_ELETROBRAS-PRIVATISATION-300x200.jpg",
-        "date": "26/08/2025",
-        "description": "Leilão busca garantir fornecimento de energia com participação mínima de fontes renováveis em 11 localidades do Norte"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/trump-renova-iniciativa-para-negociacoes-sobre-desnuclearizacao-com-russia-e-china/",
-        "title": "Trump Renova Iniciativa para Negociações sobre Desnuclearização com Rússia e China",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-26T144119Z_1_LYNXMPEL7P0O8_RTROPTP_4_USA-SOUTHKOREA-300x200.jpg",
-        "date": "26/08/2025",
-        "description": "Declarações ocorrem em meio a tentativas de reativar a diplomacia nuclear com potências globais e Coreia do Norte"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/08/dia-da-igualdade-feminina-por-que-estamos-a-mais-de-um-seculo-da-paridade-de-genero/",
-        "title": "Por Que Estamos a Mais de um Século da Igualdade de Gênero?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-igualdade-de-genero-300x200.jpg",
-        "date": "26/08/2025",
-        "description": "Segundo o Fórum Econômico Mundial, faltam 123 anos para as mulheres alcançarem a plena equidade em relação à saúde, educação, participação econômica e política"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/trump-demite-diretora-do-fed-alegando-impropriedade-hipotecaria/",
-        "title": "Trump Demite Diretora do Fed, Alegando Impropriedade Hipotecária",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-10-2-300x200.png",
-        "date": "26/08/2025",
-        "description": "Lisa Cook, primeira diretora negra do Fed da história, está determinada a não sair da autarquia"
     }
 ]
