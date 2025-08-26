@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ipca-15-tem-em-agosto-primeira-queda-em-dois-anos/",
+        "title": "IPCA-15 Tem em Agosto Primeira Queda em Dois Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-9-2-300x200.png",
+        "date": "26/08/2025",
+        "description": "Índice teve recuo baseado na queda das contas de energia e nos preços dos alimentos"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/08/ascensao-meteorica-de-joao-fonseca-continua-com-sua-primeira-vitoria-no-us-open/",
+        "title": "Ascensão de João Fonseca Continua com Sua Primeira Vitória no US Open",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/joao-fonseca-us-open-tenis-300x200.jpg",
+        "date": "26/08/2025",
+        "description": "O brasileiro de 19 anos venceu sua partida de estreia em cada um de seus debuts em Grand Slam neste ano"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/08/quem-e-o-novo-presidente-da-americanas/",
+        "title": "Quem É o Novo Presidente da Americanas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-presidente-americanas-fernando-soares-300x200.jpg",
+        "date": "26/08/2025",
+        "description": "Fernando Dias Soares, até então vice-presidente de operações da companhia, substitui Leonardo Coelho, que passará a integrar o Comitê Financeiro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/08/gta-vi-vira-fenomeno-de-negocios-e-expectativa-de-lancamento-gera-milhoes/",
         "title": "GTA 6 Vira Fenômeno de Negócios e Expectativa de Lançamento Gera Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/GTA6-1-300x200.jpg",
@@ -35,7 +56,7 @@
         "description": "Milton Beck, diretor geral do LinkedIn para América Latina, escreve à Forbes Brasil sobre o impacto da inteligência artificial no mercado de trabalho"
     },
     {
-        "url": "https://forbes.com.br/forbeswsb/2025/08/este-uisque-de-46-anos-pode-alcancar-us-400-mil-em-leilao/",
+        "url": "https://forbes.com.br/forbeslife/2025/08/este-uisque-de-46-anos-pode-alcancar-us-400-mil-em-leilao/",
         "title": "Este Uísque de 46 Anos Pode Alcançar US$ 400 Mil em Leilão",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/O-decantador-Port-Ellen-Prism-projetado-pelo-artista-Wilfried-Grootens-captura-camadas-giratorias-de-fumaca-no-vidro-para-refletir-a-profundidade-e-o-carater-do-uisque-300x200.jpg",
         "date": "26/08/2025",
@@ -43,30 +64,9 @@
     },
     {
         "url": "https://forbes.com.br/carreira/2025/08/quiet-cracking-como-fenomeno-silencioso-prejudica-a-produtividade-e-o-engajamento-no-trabalho/",
-        "title": "Quiet Cracking: Fenômeno Silencioso Corrói Produtividade e Engajamento no Trabalho",
+        "title": "Quiet Cracking: Fenômeno Silencioso Corrói o Trabalho",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-quiet-cracking-300x200.jpg",
         "date": "26/08/2025",
         "description": "Mesmo insatisfeitos, profissionais permanecem em seus empregos por depender do salário ou pela falta de alternativas mais vantajosas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/naomi-campbell-quem-acha-que-sabe-tudo-se-torna-irrelevante/",
-        "title": "Naomi Campbell: \"Quem Acha Que Sabe Tudo, se Torna Irrelevante\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/A-supermodelo-Naomi-Campbell-conversou-com-a-Forbes-sobre-carreira-homenagens-e-como-e-ser-uma-mulher-preta-no-mercado-da-beleza-300x200.jpg",
-        "date": "26/08/2025",
-        "description": "Modelo britânica conversou com a Forbes durante passagem pelo Brasil sobre sua carreira longeva, como é ser uma mulher preta na moda e a exposição que a homenageia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/para-encontrar-alienigenas-devemos-procurar-alinhamentos-planetarios-dizem-cientistas/",
-        "title": "Para Encontrar Alienígenas, Devemos Procurar Alinhamentos Planetários, Dizem Cientistas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Alinhamento-300x200.jpg",
-        "date": "26/08/2025",
-        "description": "A descoberta se baseia na análise das transmissões humanas no espaço profundo, a maioria das quais ocorre entre a Terra e Marte"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/hermes-traz-seu-kiosk-itinerante-para-o-brasil/",
-        "title": "Hermès Traz Seu Kiosk Itinerante para o Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Le-Monde-dHermes-Kiosk-300x200.jpg",
-        "date": "25/08/2025",
-        "description": "Entre os dias 10 e 14 de setembro, maison francesa recebe o público para apresentar a nova edição da publicação Le Monde d’Hermès"
     }
 ]
