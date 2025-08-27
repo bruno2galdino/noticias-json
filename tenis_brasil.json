@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-27-08.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/monteiro_oeiras5_olhabola-1024x683.jpg",
+        "date": "27/08/2025",
+        "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesSegunda rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/zverev-vence-em-sets-diretos-e-confirma-favoritismo-na-estreia.html",
         "title": "Zverev vence em sets diretos e confirma favoritismo na estreia",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/zverev_uso_fore-1024x576.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/anisimova-sorri-us-open-2025-1024x678.jpg",
         "date": "26/08/2025",
         "description": "Nova York (EUA)– Atual vice-campeã de Wimbledon, Amanda Anisimova começou sua campanha com confiança e tranquilidade no US Open. A norte-americana de 23 anos precisou de apenas 1h09 para superar a australiana Kimberly Birrell, 83ª do ranking, por 6/3 e 6/2, avançando à segunda rodada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-se-ve-bem-fisicamente-e-projeta-duelo-duro-contra-popyrin.html",
-        "title": "Sinner se vê bem fisicamente e projeta duelo duro contra Popyrin",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/sinner-r1-us-open-2025-1024x702.jpg",
-        "date": "26/08/2025",
-        "description": "Nova York (EUA)– Atual campeão do US Open, o italiano Jannik Sinner estreou com autoridade na defesa do título nesta terça-feira. Ele superou o tcheco Vit Kopriva por 6/1, 6/1 e 6/2, em 1h40 de jogo, controlando todos os sets e impondo seu ritmo desde o início."
     }
 ]
