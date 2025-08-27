@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-27-08.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/monteiro_oeiras5_olhabola-1024x683.jpg",
+        "date": "27/08/2025",
+        "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesSegunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/salvador-sedia-a-9a-copa-costa-verde-para-tenistas-masters.html",
+        "title": "Salvador sedia a 9ª Copa Costa Verde para tenistas masters",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/costaverdetennisclube_quadras.jpg",
+        "date": "27/08/2025",
+        "description": "Salvador (Bahia) –Pela nona temporada, o Costa Verde Tennis Clube, em Piatã, Salvador (BA), receberá uma etapa do circuito mundial Masters, com atletas de 30 até mais de 80 anos, valendo pontos para o ranking mundial da Federação Internacional de Tênis."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/zverev-nao-foi-otimo-mas-venci-em-sets-diretos-e-estou-classificado.html",
+        "title": "Zverev: “Não foi ótimo, mas venci em sets diretos e estou classificado”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/zverev-usopen-back-2025-e1756304727756-1024x681.jpg",
+        "date": "27/08/2025",
+        "description": "Nova York (EUA)– Em sua estreia no US Open, o alemão Alexander Zverev venceu o chileno Alejandro Tabilo por 6/2, 7/6 (7-4) e 6/4 em uma partida que foi madrugada adentro, começando na terça-feira e acabando nas primeiras horas de quarta-feira. O duelo veio após uma batalha de 3h na qual a tenista da casa Coco Gauff também superou a estreia."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/gauff-enaltece-adversaria-e-foca-no-trabalho-para-melhorar-o-saque.html",
+        "title": "Gauff enaltece adversária e foca no trabalho para melhorar o saque",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/gauff-usopen-saca-2025-e1756302922224-1024x681.jpg",
+        "date": "27/08/2025",
+        "description": "Nova York (EUA)– Não foi nada fácil a estreia da norte-americana Coco Gauff neste US Open, precisando de três horas para superar a australiana Ajla Tomljanovic em batalha de três apertados sets. Após garantir a vaga na segunda rodada, a tenista da casa falou sobre a dificuldade da partida, elogiou a rival e comentou o trabalho duro para mudar o saque."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/de-minaur-sai-de-quadra-feliz-com-desempenho-na-estreia-e-espera-ir-longe.html",
         "title": "De Minaur sai de quadra feliz com desempenho na estreia e espera ir longe",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/deminaur-usopen-toss-2025-e1756299301619-1024x681.jpg",
@@ -21,13 +49,6 @@
         "description": "Como (Itália)– O cearense Thiago Monteiro parece estar deixando a má fase aos poucos para trás. Depois de superar a estreia no challenger de Como com desistência, nesta quarta-feira ele avançou um pouco mais e se garantiu nas quartas de final ao bater o eslovaco Adrej Martin em sets diretos, com parciais de 6/3 e 6/4."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-27-08.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/monteiro_oeiras5_olhabola-1024x683.jpg",
-        "date": "27/08/2025",
-        "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesSegunda rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/zverev-vence-em-sets-diretos-e-confirma-favoritismo-na-estreia.html",
         "title": "Zverev vence em sets diretos e confirma favoritismo na estreia",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/zverev_uso_fore-e1756299588228-1024x681.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/osaka-vibra-us-open-2025-e1756299635314-1024x683.jpg",
         "date": "26/08/2025",
         "description": "Nova York (EUA)– Bicampeã do US Open,Naomi Osaka estreou com vitória no Grand Slam nova-iorquinoao superar a belga Greet Minnen por 6/3 e 6/4, na noite desta terça-feira. Apesar do triunfo, a japonesa reconheceu que o nervosismo pesou em alguns momentos da partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/gauff-e-bastante-exigida-e-vence-duelo-de-tres-horas-na-estreia.html",
-        "title": "Gauff é bastante exigida e vence duelo de três horas na estreia",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/gauff_uso_comemora_25-e1756299613275-1024x681.jpg",
-        "date": "26/08/2025",
-        "description": "Nova York (EUA) –Escalada para abrir a sessão noturna do Arthur Ashe Stadium nesta terça-feira, Coco Gauff teve trabalho para superar a estreia no US Open. A número 3 do mundo precisou de 3h para vencer a experiente australiana Ajla Tomljanovic, de 32 anos e 79ª do ranking, por 6/4, 6/7 (2-7) e 7/5."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/stefani-bia-e-ingrid-jogam-duplas-no-us-open-venus-e-convidada.html",
-        "title": "Stefani, Bia e Ingrid jogam duplas no US Open, Venus é convidada",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/bia_siegemund_dupla_dubai-e1750084634353-1024x683.jpg",
-        "date": "26/08/2025",
-        "description": "Nova York (EUA) –O Brasil terá três representantes nas duplas femininas do US Open. Luísa Stefani, ao lado da húngara Timea Babos, e Beatriz Haddad Maia, com a alemã Laura Siegemund, são cabeças de chave. E o torneio também conta com Ingrid Martins, com a parceira norte-americana Quinn Gleason."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rublev-diz-que-esta-tentando-mudar-e-oferece-apoio-a-medvedev.html",
-        "title": "Rublev diz que está tentando mudar e oferece apoio a Medvedev",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/rublev-r1-us-open-2025-e1756299659264.jpg",
-        "date": "26/08/2025",
-        "description": "Nova York (EUA)– Ex-número 5 do mundo, dono de 17 títulos de ATP e ainda um dos principais tenistas do circuito, Andrey Rublev é também conhecido por seu destemperamento dentro de quadra, tendo protagonizado algumas cenas de puro descontrole emocional. Diante dessa fama ruim, o russo de 27 anos diz que vem tentando mudar em busca de crescimento pessoal."
     }
 ]
