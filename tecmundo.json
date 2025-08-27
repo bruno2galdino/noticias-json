@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/406640-recurso-anti-chatos-ia-claude-vai-encerrar-sozinho-conversas-abusivas-ou-insistentes.htm",
+        "title": "Recurso anti-chatos: IA Claude vai encerrar sozinho conversas abusivas ou insistentes",
+        "description": "A IA da Anthropic, Claude, vai poder encerrar conversas caso o usuário peça para gerar conteúdo potencialmente nocivo muitas vezes.",
+        "image": "https://tm.ibxk.com.br/2025/07/01/01092657544021.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/406652-qual-e-o-impacto-de-uma-possivel-venda-do-chrome-na-atribuicao-e-mensuracao-em-ambiente-digital.htm",
+        "title": "Qual é o impacto de uma possível venda do Chrome na atribuição e mensuração em ambiente digital?",
+        "description": "Não é mais especulação — Perplexity ofereceu US$ 34 bilhões pelo Chrome, OpenAI declarou interesse público, e múltiplas empresas de IA já lançaram navegadores próprios.",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27173655384010.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/406649-ia-pode-fazer-empresas-economizarem-r-54-trilhoes-por-ano-revela-relatorio.htm",
+        "title": "IA pode fazer empresas economizarem R$ 5,4 trilhões por ano, revela relatório",
+        "description": "Documento explica que esse não será um processo simples, tampouco rápido, e pode demorar anos até que as companhias tenham algum retorno",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27163605128020.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502194-steam-recebe-promocao-da-rockstar-com-red-dead-2-e-mais-jogos-com-grandes-descontos.htm",
         "title": "Steam recebe promoção da Rockstar com Red Dead 2 e mais jogos com grandes descontos",
         "description": "A Steam está com uma grande oportunidade para quem ainda não se aventurou nos principais jogos da Rockstar! Confira os descontos na plataforma da Valve",
@@ -39,27 +60,6 @@
         "title": "Guerreiras do K-Pop 2 ganha novidade após filme quebrar recordes",
         "description": "O grande sucesso de Guerreiras do K-Pop está motivando a Sony a tentar apressar uma sequência",
         "image": "https://tm.ibxk.com.br/2025/08/27/27140227979161.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406633-windows-11-tera-bluetooth-le-com-qualidade-avancada-para-headsets.htm",
-        "title": "Windows 11 terá Bluetooth LE com qualidade avançada para headsets",
-        "description": "Microsoft trabalha em novo algoritmo de compressão para permitir melhorias de áudio em headsets ainda para este ano",
-        "image": "https://tm.ibxk.com.br/2025/08/27/27114553877004.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406637-google-tradutor-ganha-copia-do-duolingo-e-ferramenta-para-traducoes-simultaneas-em-conversas.htm",
-        "title": "Google Tradutor ganha cópia do Duolingo e ferramenta para traduções simultâneas em conversas",
-        "description": "O Google Tradutor agora serve como ferramenta para prática de um novo idioma, bem como uma solução para dialogar em idiomas que você não entende bem",
-        "image": "https://tm.ibxk.com.br/2025/08/27/27125234717050.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502183-play-store-libera-quatro-jogos-gratis-por-tempo-limitado-no-android-resgate-agora.htm",
-        "title": "Play Store libera quatro jogos grátis por tempo limitado no Android! Resgate agora",
-        "description": "A Play Store liberou mais uma leva de jogos gratuitos para jogar no Android, mas você deve correr para garanti-los na sua biblioteca! Saiba mais",
-        "image": "https://tm.ibxk.com.br/2025/08/26/26102149431038.jpg",
         "date": null
     }
 ]

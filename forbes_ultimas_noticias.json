@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/em-dia-de-recorde-do-sp-500-ibovespa-sobe-mais-de-1-e-dolar-cai/",
+        "title": "Em Dia de Recorde do S&p 500, Ibovespa Sobe Mais de 1% e Dólar Cai",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/fechamento-money-2-300x200.png",
+        "date": "27/08/2025",
+        "description": "Moeda se mantém em baixa por conta das incertezas em relação à autonomia do Federal Reserve"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/produtores-de-soja-do-brasil-e-bayer-entram-em-conflito-sobre-incentivos-a-multiplicadores-de-sementes/",
+        "title": "Produtores de Soja do Brasil e Bayer Entram em Conflito sobre Incentivos a Multiplicadores de Sementes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Milho-300x200.jpg",
+        "date": "27/08/2025",
+        "description": "Em um comunicado, a Bayer defendeu seu programa de incentivos aos multiplicadores que desenvolvem germoplasma"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/com-tarifa-dos-eua-rearranjo-da-exportacao-de-carne-do-brasil-passa-pelo-mexico/",
+        "title": "Com Tarifa dos EUA, Rearranjo da Exportação de Carne do Brasil Passa Pelo México",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Gado-em-instalacao-nos-arredores-de-Ciudad-Juarez-no-Mexico-300x200.jpg",
+        "date": "27/08/2025",
+        "description": "Além do rearranjo por conta da tarifa dos EUA, outros fatores devem acabar atraindo mais demanda para o Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/brasil-abre-129-775-vagas-formais-de-trabalho-em-julho-abaixo-do-esperado/",
         "title": "Brasil Abre 129.775 Vagas Formais de Trabalho em Julho, Abaixo do Esperado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Homem-segura-carteira-de-trabalho-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/12/Tech_TikTok_Apple_Google_7dez24_GettyImagesRoniBintang--300x200.jpg",
         "date": "27/08/2025",
         "description": "A ByteDance planeja oferecer aos funcionários US$ 200,41 por ação durante próximo programa de recompra de ações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/oncoclinicas-vende-participacao-no-umc-por-r-160-milhoes/",
-        "title": "Oncoclínicas Vende Participação no UMC por R$ 160 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/05/money-oncoclinicas-300x200.jpg",
-        "date": "27/08/2025",
-        "description": "Em troca do valor, empresa cedeu 84% de sua participação no capital social do Complexo Hospitalar Uberlândia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/fruta-imperfeita-cresce-e-salva-do-lixo-300-toneladas-de-alimentos-no-semestre/",
-        "title": "Fruta Imperfeita Cresce e Salva do Lixo 300 Toneladas de Alimentos no Semestre",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_fruta_imperfeita_27ago25-Luana_Almeida-300x200.jpg",
-        "date": "27/08/2025",
-        "description": "Comprada pela Food To Save, startup fortalece expansão e aposta na consolidação de um modelo de consumo mais responsável no país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/lisa-cook-do-fed-recorre-a-proeminente-advogado-de-washington-para-enfrentar-trump/",
-        "title": "Lisa Cook, do Fed, Recorre a Proeminente Advogado de Washington para Enfrentar Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-12-2-300x200.png",
-        "date": "27/08/2025",
-        "description": "Abbe Lowell criou escritório focado em defender autorizadas de acusações do atual governo americano"
     }
 ]
