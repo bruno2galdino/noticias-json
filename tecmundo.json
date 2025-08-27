@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/406655-brasil-sofreu-mais-de-500-mil-ataques-ddos-na-primeira-metade-de-2025.htm",
+        "title": "Brasil sofreu mais de 500 mil ataques DDoS na primeira metade de 2025",
+        "description": "Segundo relatório da NETSCOUT, Brasil foi um dos principais alvos de ataques DDoS no mundo, sendo alvo de mais da metade deles",
+        "image": "https://tm.ibxk.com.br/2025/07/23/23222539956013.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/406639-o-que-e-a-taxa-de-rede-entenda-o-assunto-que-pode-deixar-a-internet-mais-cara.htm",
+        "title": "O que é a taxa de rede? Entenda o assunto que pode deixar a internet mais cara",
+        "description": "Conforme o CGI.br, o ecossistema de internet no Brasil segue um modelo que atende às demandas de uso e expansão, com a cobrança podendo afetar o acesso dos consumidores.",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27140914079185.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/601966-dubladores-de-superman-revelam-cenas-mais-dificeis-e-memoraveis-do-filme.htm",
+        "title": "Dubladores de Superman revelam cenas mais difíceis e memoráveis do filme",
+        "description": "Qual a melhor cena do filme do Superman? Dubladores revelam os momentos mais desafiadores e memoráveis do trabalho no longa-metragem.",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27155845521412.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/celular/406643-quantos-dias-realme-revela-quanto-tempo-vai-durar-a-bateria-do-celular-de-15000-mah.htm",
+        "title": "Quantos dias? Realme revela quanto tempo vai durar a bateria do celular de 15.000 mAh",
+        "description": "O novo celular da Realme com 15.000 mAh mostra que é possível fazer celulares com baterias com altíssima densidade energética, embora este modelo não chegue ao mercado",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27151126938351.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/software/406640-recurso-anti-chatos-ia-claude-vai-encerrar-sozinho-conversas-abusivas-ou-insistentes.htm",
         "title": "Recurso anti-chatos: IA Claude vai encerrar sozinho conversas abusivas ou insistentes",
         "description": "A IA da Anthropic, Claude, vai poder encerrar conversas caso o usuário peça para gerar conteúdo potencialmente nocivo muitas vezes.",
@@ -39,27 +67,6 @@
         "title": "Jogamos o prólogo de The Outer Worlds 2! Confira primeiras impressões com o RPG",
         "description": "Primeira missão de The Outer Worlds 2 traz um começo promissor para a novo título da franquia",
         "image": "https://tm.ibxk.com.br/2025/08/27/27165101593029.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406644-apoiando-genocidio-microsoft-fecha-predio-apos-invasao-de-manifestantes-pro-palestina.htm",
-        "title": "'Apoiando genocídio': Microsoft fecha prédio após invasão de manifestantes pró-Palestina",
-        "description": "Após um protesto do grupo \"No Azure for Apartheid\", um dos prédios da sede da Microsoft foi interditado.",
-        "image": "https://tm.ibxk.com.br/2025/07/02/02104323506021.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/406626-roteadores-em-promocao-e-com-cupons-magalu-de-ate-40-off-confira.htm",
-        "title": "Roteadores em promoção e com cupons Magalu de até 40% OFF; confira",
-        "description": "Confira agora uma seleção de roteadores em promoção no Magalu e garanta mais descontos com cupons em modelos D-Link, Mercusys, TP-Link e mais por tempo limitado",
-        "image": "https://tm.ibxk.com.br/2025/08/27/27090548898006.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/601965-guerreiras-do-k-pop-2-ganha-novidade-apos-filme-quebrar-recordes.htm",
-        "title": "Guerreiras do K-Pop 2 ganha novidade após filme quebrar recordes",
-        "description": "O grande sucesso de Guerreiras do K-Pop está motivando a Sony a tentar apressar uma sequência",
-        "image": "https://tm.ibxk.com.br/2025/08/27/27140227979161.jpg",
         "date": null
     }
 ]
