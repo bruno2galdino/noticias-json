@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-tensao-institucional-segue-elevada-nos-eua/",
+        "title": "Pré-mercado: Tensão Institucional Segue Elevada nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "27/08/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 27 de agosto"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/festa-do-peao-de-barretos-e-a-disney-brasileira-que-movimenta-r-12-bi-nesta-semana/",
         "title": "Festa do Peão de Barretos É a Disney Brasileira Que Movimenta R$ 1,2 Bi Nesta Semana",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_FestaPeaoBarretos_Arena_25ago25_Alisson_Demetrio-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-mariana-dias-gupy-300x200.png",
         "date": "27/08/2025",
         "description": "Cofundadora da maior HRTech do Brasil, ela captou R$ 500 milhões, educou o mercado e mostrou que maternidade e liderança se fortalecem"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/liderancas-de-tecnologia-celebram-os-melhores-cios-do-brasil-no-forbes-power-lunch/",
-        "title": "Lideranças de Tecnologia Celebram os Melhores CIOs do Brasil no Forbes Power Lunch",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Capa-Melhores-CIOs-300x200.png",
-        "date": "26/08/2025",
-        "description": "A 2ª edição do evento reuniu executivos do setor e os homenageados pela lista anual na Casa Manioca, em São Paulo"
     }
 ]
