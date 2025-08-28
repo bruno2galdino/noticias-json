@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-inflacao-acelera-em-agosto/",
+        "title": "Pré-mercado: Inflação Acelera em Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "28/08/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 28 de agosto"
+    },
+    {
         "url": "https://forbes.com.br/colunas/2025/08/eduardo-mira-aposentadoria-o-que-fazer-agora-para-nao-ter-uma-surpresa-ruim-no-futuro/",
         "title": "Aposentadoria: o Que Fazer Agora para Não Ter uma Surpresa Ruim no Futuro",
         "image": "https://forbes.com.br/wp-content/uploads/2023/06/aposentadoria-5-1-300x200.jpg",
@@ -42,11 +49,18 @@
         "description": "Ao contrário do crescimento global do setor, o Brasil manteve apenas cinco representantes da tecnologia na lista de bilionários de 2025 — que juntos acumulam R$ 237,8 bilhões"
     },
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/quem-sao-os-estreantes-na-lista-dos-mais-ricos-do-brasil/",
+        "title": "Quem São os Estreantes na Lista dos Mais Ricos do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/BILIONARIOS_ESTREANTES-300x200.jpg",
+        "date": "28/08/2025",
+        "description": "Iris Abravanel, viúva de Silvio Santos, é um dos nomes mais famosos a aparecer pela primeira vez na lista de bilionários"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/08/moda-hotspots-e-collabs-a-estrategia-da-havaianas-para-virar-referencia-de-lifestyle/",
         "title": "Moda, Hotspots e Collabs: a Estratégia da Havaianas para Virar Referência de Lifestyle",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Havaianas-300x200.jpg",
         "date": "28/08/2025",
-        "description": "Em entrevista à Forbes, CMO explica quais os planos para firmar o chinelo de dedo como objeto de desejo pelo mundo"
+        "description": "Em entrevista à Forbes, CMO global explica quais os planos para firmar o chinelo de dedo como objeto de desejo pelo mundo"
     },
     {
         "url": "https://forbes.com.br/listas/2025/08/lista-forbes-os-10-maiores-bilionarios-do-brasil-em-2025/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/BILIONARIOS_BRASIL-300x200.jpg",
         "date": "28/08/2025",
         "description": "Em sua 13ª edição, a lista de bilionários brasileiros conta com 300 pessoas com patrimônio acima de R$ 1 bilhão"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/em-dia-de-recorde-do-sp-500-ibovespa-sobe-mais-de-1-e-dolar-cai/",
-        "title": "Em Dia de Recorde do S&p 500, Ibovespa Sobe Mais de 1% e Dólar Cai",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/fechamento-money-2-300x200.png",
-        "date": "27/08/2025",
-        "description": "Moeda se mantém em baixa por conta das incertezas em relação à autonomia do Federal Reserve"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/produtores-de-soja-do-brasil-e-bayer-entram-em-conflito-sobre-incentivos-a-multiplicadores-de-sementes/",
-        "title": "Produtores de Soja do Brasil e Bayer Entram em Conflito sobre Incentivos a Multiplicadores de Sementes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Milho-300x200.jpg",
-        "date": "27/08/2025",
-        "description": "Em um comunicado, a Bayer defendeu seu programa de incentivos aos multiplicadores que desenvolvem germoplasma"
     }
 ]
