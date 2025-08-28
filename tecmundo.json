@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/406234-o-que-e-um-drone-saiba-como-funciona-e-curiosidades.htm",
+        "title": "O que é um drone? Saiba como funciona e curiosidades",
+        "description": "Quer saber o que é um drone, como ele funciona e se precisa de internet para voar? Confira este guia completo sobre os veículos aéreos não tripulados!",
+        "image": "https://tm.ibxk.com.br/2025/08/07/07191155156003.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502198-assinaturas-mais-baratas-do-game-pass-comecam-a-receber-jogos-em-nuvem-do-xbox.htm",
+        "title": "Assinaturas mais baratas do Game Pass começam a receber jogos em nuvem do Xbox",
+        "description": "O Xbox Cloud Gaming está chegando a mais usuários do Game Pass! Confira esta e outras notícias de games!",
+        "image": "https://tm.ibxk.com.br/2025/08/15/15180341378084.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406656-senado-aprova-pl-da-adultizacao-para-proteger-criancas-e-adolescentes.htm",
+        "title": "Senado aprova ‘PL da Adultização’ para proteger crianças e adolescentes",
+        "description": "O projeto de lei que busca combater a adultização de crianças e adolescentes na internet foi aprovado pelo Senado; entenda o que isso significa",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27211102978004.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406645-operacao-em-sp-mira-estrangeiros-que-movimentaram-r-480-milhoes-em-golpes-virtuais.htm",
+        "title": "Operação em SP mira estrangeiros que movimentaram R$ 480 milhões em golpes virtuais",
+        "description": "A quadrilha usava um site hospedado na Turquia para simular aportes com promessas de impulsionar investimentos, fazendo vítimas em todo o Brasil.",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27153657603363.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/601968-conrad-ou-jeremiah-confira-o-que-aconteceu-no-esperado-oitavo-episodio-de-o-verao-que-mudou-a-minha-vida.htm",
+        "title": "Conrad ou Jeremiah? Confira o que aconteceu no esperado oitavo episódio de O Verão que Mudou a Minha Vida",
+        "description": "Com quem será que a Belly vai casar: Leia aqui o resumo do que aconteceu no episódio da série",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27201412213020.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/406646-para-reduzir-dependencia-da-nvidia-china-quer-triplicar-producao-de-chips-para-ia.htm",
+        "title": "Para reduzir dependência da Nvidia, China quer triplicar produção de chips para IA",
+        "description": "Empresas chinesas expressam preocupações com produtos da Nvidia e querem se distanciar da empresa enquanto evoluem",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27154256704377.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/406647-dos-dados-ao-negocio-como-a-cultura-data-driven-impulsiona-lucros-e-eficiencia-nas-empresas.htm",
         "title": "Dos dados ao negócio: como a cultura data-driven impulsiona lucros e eficiência nas empresas",
         "description": "Cultura data-driven não é um projeto de TI, é um compromisso que a empresa faz a longo prazo.",
@@ -25,48 +67,6 @@
         "title": "O que é a taxa de rede? Entenda o assunto que pode deixar a internet mais cara",
         "description": "Conforme o CGI.br, o ecossistema de internet no Brasil segue um modelo que atende às demandas de uso e expansão, com a cobrança podendo afetar o acesso dos consumidores.",
         "image": "https://tm.ibxk.com.br/2025/08/27/27140914079185.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/601966-dubladores-de-superman-revelam-cenas-mais-dificeis-e-memoraveis-do-filme.htm",
-        "title": "Dubladores de Superman revelam cenas mais difíceis e memoráveis do filme",
-        "description": "Qual a melhor cena do filme do Superman? Dubladores revelam os momentos mais desafiadores e memoráveis do trabalho no longa-metragem.",
-        "image": "https://tm.ibxk.com.br/2025/08/27/27155845521412.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/406643-quantos-dias-realme-revela-quanto-tempo-vai-durar-a-bateria-do-celular-de-15000-mah.htm",
-        "title": "Quantos dias? Realme revela quanto tempo vai durar a bateria do celular de 15.000 mAh",
-        "description": "O novo celular da Realme com 15.000 mAh mostra que é possível fazer celulares com baterias com altíssima densidade energética, embora este modelo não chegue ao mercado",
-        "image": "https://tm.ibxk.com.br/2025/08/27/27151126938351.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406640-recurso-anti-chatos-ia-claude-vai-encerrar-sozinho-conversas-abusivas-ou-insistentes.htm",
-        "title": "Recurso anti-chatos: IA Claude vai encerrar sozinho conversas abusivas ou insistentes",
-        "description": "A IA da Anthropic, Claude, vai poder encerrar conversas caso o usuário peça para gerar conteúdo potencialmente nocivo muitas vezes.",
-        "image": "https://tm.ibxk.com.br/2025/07/01/01092657544021.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406652-qual-e-o-impacto-de-uma-possivel-venda-do-chrome-na-atribuicao-e-mensuracao-em-ambiente-digital.htm",
-        "title": "Qual é o impacto de uma possível venda do Chrome na atribuição e mensuração em ambiente digital?",
-        "description": "Não é mais especulação — Perplexity ofereceu US$ 34 bilhões pelo Chrome, OpenAI declarou interesse público, e múltiplas empresas de IA já lançaram navegadores próprios.",
-        "image": "https://tm.ibxk.com.br/2025/08/27/27173655384010.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406649-ia-pode-fazer-empresas-economizarem-r-54-trilhoes-por-ano-revela-relatorio.htm",
-        "title": "IA pode fazer empresas economizarem R$ 5,4 trilhões por ano, revela relatório",
-        "description": "Documento explica que esse não será um processo simples, tampouco rápido, e pode demorar anos até que as companhias tenham algum retorno",
-        "image": "https://tm.ibxk.com.br/2025/08/27/27163605128020.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502194-steam-recebe-promocao-da-rockstar-com-red-dead-2-e-mais-jogos-com-grandes-descontos.htm",
-        "title": "Steam recebe promoção da Rockstar com Red Dead 2 e mais jogos com grandes descontos",
-        "description": "A Steam está com uma grande oportunidade para quem ainda não se aventurou nos principais jogos da Rockstar! Confira os descontos na plataforma da Valve",
-        "image": "https://tm.ibxk.com.br/2025/08/27/27105608703015.jpg",
         "date": null
     }
 ]
