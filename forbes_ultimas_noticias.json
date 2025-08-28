@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesesg/2025/08/esg/",
+        "title": "Títulos ESG na B3 Chegam a R$ 138,16 Bilhões e Avançam 26,38% em um Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/ESG_FinanciamentoClimatico_7JUl2025_Getty-300x200.jpg",
+        "date": "28/08/2025",
+        "description": "A maior parte das emissões do primeiro semestre de 2025 foi do setor de serviços de eletricidade"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/3-coisas-que-voce-precisa-saber-sobre-conrado-segreto/",
+        "title": "3 Coisas Que Você Precisa Saber sobre Conrado Segreto",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.Ale-Berriel-Silvia-Pfeifer-e-Claudia-Liz-no-desfile-Carol-Bassi-Visita-Conrado-Segreto-300x200.jpg",
+        "date": "28/08/2025",
+        "description": "Carol Bassi resgata a memória do costureiro brasileiro com coleção e mostra inéditas"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/lista-forbes-agro-tem-39-bilionarios-em-2025/",
         "title": "Lista Forbes: Agro Tem 39 Bilionários em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/BILIONARIOS_AGRO-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Jensen-Huang-CEO-da-Nvidia-300x200.jpg",
         "date": "28/08/2025",
         "description": "Jensen Huang procurou tranquilizar os investidores preocupados com indicações de desaceleração do crescimento da fabricante de chips"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/lista-forbes-os-10-bilionarios-mais-jovens-do-brasil-em-2025/",
-        "title": "O 10 Bilionários Mais Jovens do Brasil em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/BILIONARIOS_MAIS-JOVENS-300x200.jpg",
-        "date": "28/08/2025",
-        "description": "O top 10 conta com sete herdeiros da empresa catarinense de motores WEG e apenas um empreendedor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-inflacao-acelera-em-agosto/",
-        "title": "Pré-mercado: Inflação Acelera em Agosto",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "28/08/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 28 de agosto"
     }
 ]
