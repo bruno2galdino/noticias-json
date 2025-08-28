@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/08/christian-louboutin-inaugura-terceira-loja-no-brasil/",
+        "title": "Christian Louboutin Inaugura Terceira Loja no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/A-nova-boutique-da-Christian-Louboutin-300x200.jpg",
+        "date": "28/08/2025",
+        "description": "Nova boutique reforça a aposta no mercado de luxo brasileiro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/deficit-federal-de-r-591-bi-em-julho-e-o-segundo-pior-para-o-mes/",
+        "title": "Déficit Federal de R$ 59,1 Bi em Julho é o Segundo Pior para o Mês",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-5-1-300x200.jpg",
+        "date": "28/08/2025",
+        "description": "Do lado das despesas, a alta ocorreu por causa do aumento nos gastos com benefícios previdenciários (+26,8%) e com pessoal e encargos sociais (+17,9%), influenciados pelo adiamento do pagamento dos precatórios para julho"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/08/btg/",
         "title": "IFC e BTG Pactual Fazem Parceria de até Us$1 Bi para Sustentabilidade",
         "image": "https://forbes.com.br/wp-content/uploads/2023/06/Money-empresas-brasileiras-09Jun23-Reproducao-1-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-28T134635Z_1_LYNXMPEL7R0NT_RTROPTP_4_MACRO-FED-COOK-300x200.jpg",
         "date": "28/08/2025",
         "description": "Processo de Lisa Cook contra Trump desafia limites do poder presidencial e ameaça a histórica independência do Federal Reserve"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/importacao-de-petroleo-russo-pela-india-deve-aumentar-em-setembro-desafiando-os-eua/",
-        "title": "Importação de Petróleo Russo Pela Índia Deve Aumentar em Setembro, Desafiando os EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/07/agro_petroleo_18-jul-23_Reuters-1-300x200.jpg",
-        "date": "28/08/2025",
-        "description": "A Índia se tornou o maior comprador de suprimentos de petróleo russo que foram deslocados pelas sanções ocidentais depois que Moscou invadiu a Ucrânia em 2022"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/vendas-pendentes-de-moradias-nos-eua-caem-mais-do-que-o-esperado-em-julho/",
-        "title": "Vendas Pendentes de Moradias nos EUA Caem Mais do Que o Esperado em Julho",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/05/Venda-casas-EUA-300x200.jpg",
-        "date": "28/08/2025",
-        "description": "As taxas de hipoteca altas e a desaceleração do mercado de trabalho afastaram possíveis proprietários"
     }
 ]
