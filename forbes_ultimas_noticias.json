@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/expectativas-para-eleicoes-no-brasil-e-juros-nos-eua-elevam-ibovespa/",
+        "title": "Expectativas para Eleições no Brasil e Juros nos EUA Elevam Ibovespa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/fechamento-money-3-300x200.png",
+        "date": "28/08/2025",
+        "description": "Agentes do mercado elevaram suas apostas no corte da margem americana de juros; dólar tem novo recuo"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/embrapa-apta-e-pecege-firmam-alianca-para-criar-corredor-de-inovacao-agropecuaria-de-sp/",
+        "title": "Embrapa, Apta e Pecege Firmam Aliança para Criar Corredor de Inovação Agropecuária de SP",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_laboratorio_Embrapa_28ago25_Saulo-Coelho_Embrapa-300x200.jpg",
+        "date": "28/08/2025",
+        "description": "Parceria entre instituições públicas e privadas estrutura iniciativa que conecta polos científicos, startups e produtores em cinco regiões estratégicas do estado"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/08/christian-louboutin-inaugura-terceira-loja-no-brasil/",
         "title": "Christian Louboutin Inaugura Terceira Loja no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/A-nova-boutique-da-Christian-Louboutin-300x200.jpg",
@@ -21,7 +35,7 @@
         "description": "Segundo as instituições, o objetivo é fomentar iniciativas com impacto social e ambiental positivo, por meio de cofinanciamento de projetos, participação em fundos e coinvestimentos em empresas"
     },
     {
-        "url": "https://forbes.com.br/forbesesg/2025/08/titulos-esg-na-b3-chegam-a-r-13816-bilhoes-e-avancam-2638-em-um-ano/",
+        "url": "https://forbes.com.br/forbes-money/2025/08/titulos-esg-na-b3-chegam-a-r-13816-bilhoes-e-avancam-2638-em-um-ano/",
         "title": "Títulos ESG na B3 Chegam a R$ 138,16 Bilhões e Avançam 26,38% em um Ano",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/ESG_FinanciamentoClimatico_7JUl2025_Getty-300x200.jpg",
         "date": "28/08/2025",
@@ -35,7 +49,7 @@
         "description": "Carol Bassi resgata a memória do costureiro brasileiro com coleção e mostra inéditas"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/08/lista-forbes-agro-tem-39-bilionarios-em-2025/",
+        "url": "https://forbes.com.br/listas/2025/08/lista-forbes-agro-tem-39-bilionarios-em-2025/",
         "title": "Lista Forbes: Agro Tem 39 Bilionários em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/BILIONARIOS_AGRO-300x200.jpg",
         "date": "28/08/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-28T132645Z_1_LYNXMPEL7R0NF_RTROPTP_4_BRAZIL-SOYBEANS-TRUMP-300x200.jpg",
         "date": "28/08/2025",
         "description": "Deral projeta leve aumento na área de soja no Paraná para 2025/26, com produção podendo crescer 4% se clima for favorável"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/ue-propoe-remover-tarifas-para-reduzir-taxas-sobre-carros/",
-        "title": "UE Propõe Remoção de Tarifas sobre Importações dos Eua para Acelerar Redução de Taxas sobre Automóveis",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
-        "date": "28/08/2025",
-        "description": "Comissão Europeia propõe eliminar tarifas sobre produtos dos EUA em troca de corte retroativo nas taxas americanas sobre carros europeus"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/diretora-do-fed-processa-trump-por-tentativa-de-demissao/",
-        "title": "Diretora do Fed Processa Trump por Tentativa de Demissão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-28T134635Z_1_LYNXMPEL7R0NT_RTROPTP_4_MACRO-FED-COOK-300x200.jpg",
-        "date": "28/08/2025",
-        "description": "Processo de Lisa Cook contra Trump desafia limites do poder presidencial e ameaça a histórica independência do Federal Reserve"
     }
 ]
