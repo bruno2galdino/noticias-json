@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/601972-sucesso-demon-slayer-castelo-infinito-ultrapassa-titanic-e-se-torna-a-terceira-maior-bilheteria-na-historia-do-japao.htm",
+        "title": "Sucesso! Demon Slayer Castelo Infinito ultrapassa Titanic e se torna a terceira maior bilheteria na história do Japão",
+        "description": "O filme do anime garantiu bons números desde sua estreia e promete ainda mais recordes",
+        "image": "https://tm.ibxk.com.br/2025/08/28/28115701347409.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/406672-microsoft-demite-engenheiros-envolvidos-no-protesto-pro-palestina-de-quarta-feira-27.htm",
+        "title": "Microsoft demite engenheiros envolvidos no protesto pró-Palestina de quarta-feira (27)",
+        "description": "A Microsoft demitiu os engenheiros de software Riki Fameli e Anna Hattle por \"várias violações às políticas e códigos de conduta da empresa\" após invasão ao escritório do presidente da empresa.",
+        "image": "https://tm.ibxk.com.br/2025/05/19/19093132848065.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502193-gears-of-war-reloaded-roda-melhor-no-ps5-ou-no-xbox-series-veja-o-comparativo-grafico.htm",
+        "title": "Gears of War Reloaded roda melhor no PS5 ou no Xbox Series? Veja o comparativo gráfico",
+        "description": "Segundo a análise técnica do Digital Foundry, Gears of War Reloaded tem uma reprodução sólida tanto no PS5 quanto no Xbox Series X|S! Confira",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27095636775019.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/406673-chatgpt-vai-ter-controle-parental-apos-suicidio-de-jovem-de-16-anos.htm",
+        "title": "ChatGPT vai ter controle parental após suicídio de jovem de 16 anos",
+        "description": "A OpenAI anunciou na terça (26) que trabalha para desenvolver ferramentas de controle parental para o ChatGPT.",
+        "image": "https://tm.ibxk.com.br/2025/08/19/19123838336116.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/406665-nvidia-bate-recorde-e-fatura-us-46-bilhoes-gracas-a-data-centers.htm",
+        "title": "Nvidia bate recorde e fatura US$ 46 bilhões graças a data centers",
+        "description": "Companhia explica alta demanda no segmento de computação para LLMs e alavanca lucros gigantescos com IA.",
+        "image": "https://tm.ibxk.com.br/2025/02/27/27105017523080.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/601974-conheca-o-elenco-completo-de-star-wars-starfighter-que-tera-brasileira-mia-goth.htm",
         "title": "Conheça o elenco completo de Star Wars Starfighter, que terá brasileira Mia Goth",
         "description": "Com Ryan Gosling e Amy Adams, o novo filme de Star Wars começou a produção e chega em 2027",
@@ -25,27 +60,6 @@
         "title": "Semana do Cinema começa hoje (28) com ingressos por R$ 10 em todo o Brasil",
         "description": "A Semana do Cinema também traz vários combos promocionais com pipoca, refrigerante e mais!",
         "image": "https://tm.ibxk.com.br/2025/08/28/28101407917151.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502173-epic-games-store-libera-dois-jogos-gratis-nesta-quinta-28-resgate-agora.htm",
-        "title": "Epic Games Store libera dois jogos grátis nesta quinta (28)! Resgate agora",
-        "description": "Como de costume, a Epic Games liberou mais dois jogos gratuitos para os membros da plataforma resgatarem nesta quinta (28). Conheça Machinarium e Make Way!",
-        "image": "https://tm.ibxk.com.br/2025/08/25/25124508211175.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406661-bytedance-avalia-tiktok-em-us-330-bilhoes-revelam-informantes.htm",
-        "title": "ByteDance avalia TikTok em US$ 330 bilhões, revelam informantes",
-        "description": "A ByteDance se prepara para fazer uma nova rodada de recompra de ações e deve oferecer cerca de US$ 200 por cada fatia, totalizando valor de US$ 330 bilhões",
-        "image": "https://tm.ibxk.com.br/2025/05/14/14125140130171.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406666-nao-o-brasil-nao-foi-proibido-de-importar-chips-de-ia-da-nvidia.htm",
-        "title": "Não, o Brasil não foi proibido de importar chips de IA da Nvidia",
-        "description": "Empresa confirmou ao TecMundo que não há \"qualquer proibição à importação de GPUs no país\" por enquanto, apesar de tensões comerciais e políticas com os EUA.",
-        "image": "https://tm.ibxk.com.br/2025/08/28/28113715472338.jpg",
         "date": null
     }
 ]

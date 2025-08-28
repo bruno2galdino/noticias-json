@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/lista-forbes-agro-tem-39-bilionarios-em-2025/",
+        "title": "Lista Forbes: Agro Tem 39 Bilionários em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/BILIONARIOS_AGRO-300x200.jpg",
+        "date": "28/08/2025",
+        "description": "Fortuna combinada do grupo é de R$ 382,8 bilhões em patrimônio, com atuação nas cadeias que vão do antes e ao depois da porteira; saiba quem são os 10 primeiros"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/nvidia-continua-crescendo-mas-incerteza-na-china-atrapalha-perspectivas/",
+        "title": "Nvidia Continua Crescendo, Mas Incerteza na China Atrapalha Perspectivas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-13-2-300x200.png",
+        "date": "28/08/2025",
+        "description": "Apesar de desafios, Huang tem otimismo quanto à possibilidade de voltar a vender chips para mercado chinês"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/area-plantada-com-soja-no-parana-em-2025-26-deve-crescer-1-aponta-deral/",
+        "title": "Área Plantada com Soja no Paraná em 2025/26 Deve Crescer 1%, Aponta Deral",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-28T132645Z_1_LYNXMPEL7R0NF_RTROPTP_4_BRAZIL-SOYBEANS-TRUMP-300x200.jpg",
+        "date": "28/08/2025",
+        "description": "Deral projeta leve aumento na área de soja no Paraná para 2025/26, com produção podendo crescer 4% se clima for favorável"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/ue-propoe-remover-tarifas-para-reduzir-taxas-sobre-carros/",
+        "title": "UE Propõe Remoção de Tarifas sobre Importações dos Eua para Acelerar Redução de Taxas sobre Automóveis",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "28/08/2025",
+        "description": "Comissão Europeia propõe eliminar tarifas sobre produtos dos EUA em troca de corte retroativo nas taxas americanas sobre carros europeus"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/diretora-do-fed-processa-trump-por-tentativa-de-demissao/",
         "title": "Diretora do Fed Processa Trump por Tentativa de Demissão",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-28T134635Z_1_LYNXMPEL7R0NT_RTROPTP_4_MACRO-FED-COOK-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "28/08/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 28 de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/08/eduardo-mira-aposentadoria-o-que-fazer-agora-para-nao-ter-uma-surpresa-ruim-no-futuro/",
-        "title": "Aposentadoria: o Que Fazer Agora para Não Ter uma Surpresa Ruim no Futuro",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/06/aposentadoria-5-1-300x200.jpg",
-        "date": "28/08/2025",
-        "description": "Para construir um patrimônio que gere renda é preciso focar no que você pode controlar: a acumulação de ativos"
-    },
-    {
-        "url": "https://forbes.com.br/listas/2025/08/lista-forbes-bilionarios-brasileiros-2025-e-destaque-da-nova-edicao-da-revista/",
-        "title": "Lista Forbes Bilionários Brasileiros 2025 É Destaque da Nova Edição da Revista",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/revista-web-300x200.png",
-        "date": "28/08/2025",
-        "description": "Edição 133 já está disponível no aplicativo da Forbes Brasil; saiba mais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/tarifas-de-trump-podem-matar-afogado-um-gigante-da-agua-de-coco/",
-        "title": "Tarifas de Trump Podem Matar Afogada uma Gigante da Água de Coco",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Michael-Kirban_27ago25_-VC_Divulg-300x200.jpg",
-        "date": "28/08/2025",
-        "description": "Cofundador e presidente da Vita Coco, Michael Kirban, diz que o Brasil não é problema, mas não é o o que diz Wall Street"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/08/como-escolher-a-garrafa-de-vinho-perfeita-segundo-sommeliers/",
-        "title": "Como Escolher a Garrafa de Vinho Perfeita, Segundo Sommeliers",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_WSB_-vinho_branco_supermercado_27ago25_-Getty-300x200.jpg",
-        "date": "28/08/2025",
-        "description": "Confira 11 dicas para escolher o recipiente ideal da sua bebida, ao pedir em um restaurante ou ao procurar na loja favorita"
     }
 ]
