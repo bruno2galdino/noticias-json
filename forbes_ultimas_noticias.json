@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/pix-como-novas-regras-vao-facilitar-devolucao-de-valores-em-casos-de-golpe/",
+        "title": "Pix: Como Novas Regras Vão Facilitar Devolução de Valores em Casos de Golpe",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/GettyImages-1432050907-1-300x200.jpg",
+        "date": "29/08/2025",
+        "description": "Mecanismo Especial de Devolução (MED) começará a funcionar de forma totalmente digital a partir de 1º de outubro"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/08/aviao-que-trazia-alckmin-tebet-e-favaro-do-mexico-sofre-problema-de-reabastecimento-ministros-estao-bem/",
+        "title": "Avião Que Trazia Alckmin, Tebet e Fávaro do México Sofre Problema de Reabastecimento, Ministros Estão Bem",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-29T143555Z_2_LYNXMPEL7S0P3_RTROPTP_4_USA-TRUMP-TARIFFS-BRAZIL-scaled-e1756481855976-300x200.jpg",
+        "date": "29/08/2025",
+        "description": "Aeronave da FAB teve falha durante escala na Colômbia; autoridades brasileiras aguardaram outro avião para retornar ao país"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/receita-federal-divulga-regras-que-equiparam-fintechs-a-bancos/",
+        "title": "Receita Federal Divulga Regras que Equiparam Fintechs a Bancos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-6-1-300x200.jpg",
+        "date": "29/08/2025",
+        "description": "A medida havia sido abortada após uma série de confusões na comunicação, mas foi retomada em meio a pressão sobre compliance das empresas financeiras"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/bolha-da-ia-e-uma-possibilidade-diz-garry-bolles/",
+        "title": "Bolha da IA É uma Possibilidade, Diz Garry Bolles",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Garry-Bolles-300x200.png",
+        "date": "29/08/2025",
+        "description": "Em entrevista à Forbes Brasil, o especialista com mais de 40 anos de experiência no Vale do Silício fala sobre o futuro da inteligência artificial e os riscos e oportunidades da tecnologia"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/08/julia-roberts-nega-que-seu-novo-filme-seja-retrocesso-para-mulheres/",
         "title": "Julia Roberts Nega Que Seu Novo Filme Seja Retrocesso para Mulheres",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-julia-roberts-festival-cinema-de-veneza-300x200.jpg",
@@ -36,37 +64,9 @@
     },
     {
         "url": "https://forbes.com.br/forbes-mkt/2025/08/coca-cola-e-star-wars-se-unem-em-nova-campanha-exclusiva/",
-        "title": "Coca-Cola® e Star Wars se Unem em Nova Campanha Exclusiva",
+        "title": "Coca-Cola e Star Wars se Unem em Nova Campanha Exclusiva",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/coca-e-star-wars-300x200.png",
         "date": "29/08/2025",
         "description": "A parceria lança 24 novos desenhos dos personagens icônicos da saga nas latas do refrigerante em edição limitada e imersiva"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/nike-vai-cortar-empregos-corporativos-em-meio-a-esforco-de-reestruturacao/",
-        "title": "Nike Vai Cortar Empregos Corporativos em Reestruturação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Carreira_Nike-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "As demissões não afetarão os negócios da empresa na região da Europa, Oriente Médio e Ásia e na divisão Converse"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-mes-termina-com-inflacao-americana-decisiva/",
-        "title": "Pré-mercado: Mês Termina com Inflação Americana Decisiva",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "29/08/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 29 de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/como-projetos-de-carbono-estruturam-nova-economia-do-agro/",
-        "title": "Como Projetos de Carbono Estruturam a Nova Economia do Agro Baseada no Solo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_soja-28ago25_Zoya2222_Getty-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Projetos de monitoramento da terra, como o do IBRA Megalab, mostram que tecnologias e parcerias estruturam dados para iniciativas como o ProCarbono, da Bayer, o Programa Renove, da Minerva Foods, entre outros"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/com-tarifaco-de-trump-colombia-procura-brechas-deixadas-por-brasil-em-cafe-e-cacau/",
-        "title": "Com Tarifaço de Trump, Colômbia Procura Brechas Deixadas por Brasil em Café e Cacau",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cafe_vacau_28ago25_Apomares_Getty-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Como a  reconfiguração comercial americana favorece exportadores menores em detrimento das potências regionais tradicionais"
     }
 ]
