@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/08/pre-mercado-mes-termina-com-inflacao-americana-decisiva/",
+        "title": "Pré-mercado: Mês Termina com Inflação Americana Decisiva",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "29/08/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 29 de agosto"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/como-projetos-de-carbono-estruturam-nova-economia-do-agro/",
         "title": "Como Projetos de Carbono Estruturam a Nova Economia do Agro Baseada no Solo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_soja-28ago25_Zoya2222_Getty-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_laboratorio_Embrapa_28ago25_Saulo-Coelho_Embrapa-300x200.jpg",
         "date": "28/08/2025",
         "description": "Parceria entre instituições públicas e privadas estrutura iniciativa que conecta polos científicos, startups e produtores em cinco regiões estratégicas do estado"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/christian-louboutin-inaugura-terceira-loja-no-brasil/",
-        "title": "Christian Louboutin Inaugura Terceira Loja no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/A-nova-boutique-da-Christian-Louboutin-300x200.jpg",
-        "date": "28/08/2025",
-        "description": "Nova boutique reforça a aposta no mercado de luxo brasileiro"
     }
 ]
