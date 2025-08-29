@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2025/08/julia-roberts-nega-que-seu-novo-filme-seja-retrocesso-para-mulheres/",
+        "title": "Julia Roberts Nega Que Seu Novo Filme Seja Retrocesso para Mulheres",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-julia-roberts-festival-cinema-de-veneza-300x200.jpg",
+        "date": "29/08/2025",
+        "description": "Dirigido pelo italiano Luca Guadagnino e também estrelado por Ayo Edebiri e Andrew Garfield, o filme estreia nesta sexta-feira (29) no Festival de Cinema de Veneza"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/raizen-fecha-acordo-para-vender-duas-usinas-no-ms-por-r154-bilhao/",
+        "title": "Raízen Fecha Acordo para Vender Duas Usinas no MS por R$1,54 Bilhão",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Tanque-com-logo-da-Raizen-Foto-Reproducao-Raizen-300x200.png",
+        "date": "29/08/2025",
+        "description": "Maior processadora de cana-de-açúcar do mundo vem enfrentando momento delicado e busca reduzir suas dívidas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/gastos-do-consumidor-dos-eua-sobem-em-julho-nucleo-da-inflacao-acelera/",
+        "title": "Gastos do Consumidor dos EUA Sobem em Julho; Núcleo da Inflação Acelera",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-14-2-300x200.png",
+        "date": "29/08/2025",
+        "description": "Cenário, no entanto, não deve mudar corte dos juros americanos em setembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/brasil-inicia-medidas-para-adotar-reciprocidade-contra-tarifaco-dos-eua/",
+        "title": "Brasil Inicia Medidas para Adotar Reciprocidade contra Tarifaço dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/porto-de-los-angeles-money-tarifas-300x200.png",
+        "date": "29/08/2025",
+        "description": "A decisão de avançar com o processo de reciprocidade marca uma escalada na resposta brasileira à disputa econômica com os EUA e surge diante da falta de espaço para negociação"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/08/fertilizantes-heringer-anuncia-troca-de-presidente-e-diretor-financeiro-em-meio-a-mudancas-no-alto-escalao/",
         "title": "Fertilizantes Heringer Anuncia Troca de Presidente e Diretor Financeiro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-agro-fertilizantes-heringer-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cafe_vacau_28ago25_Apomares_Getty-300x200.jpg",
         "date": "29/08/2025",
         "description": "Como a  reconfiguração comercial americana favorece exportadores menores em detrimento das potências regionais tradicionais"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/nova-aposta-do-estrelado-kanoe-e-o-wine-concierge-com-servico-de-vinhos-de-luxo/",
-        "title": "Nova Aposta do Estrelado Kanoe É o ‘Wine Concierge’, com Serviço de Vinhos de Luxo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Kanoe-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Com chegada da sommelière Gabriele Frizon, grupo do chef Tadashi Shiraishi investe em acesso a adegas privativas e rótulos de colecionador para elevar experiência de hospitalidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/08/viuva-e-filhas-de-silvio-santos-entram-na-lista-de-bilionarios-brasileiros-da-forbes/",
-        "title": "Bilionários Brasileiros 2025: Viúva e Filhas de Silvio Santos Entram na Lista",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/bilionarios-iris-abravanel-silvio-santos-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Iris Abravanel e as seis filhas do apresentador e fundador do SBT, falecido em agosto de 2024, herdaram um patrimônio de R$ 6,4 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/08/o-que-e-estresse-ambiental-e-como-lidar-com-ele/",
-        "title": "O Que É Estresse Ambiental e Como Lidar com Ele",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/GettyImages-2204781960-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Estresse ambiental afeta o corpo de forma sutil. Veja como evitá-lo antes que se acumule, segundo terapeutas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/lista-forbes-dallas-cowboys-bate-recorde-e-lidera-franquias-mais-valiosas-da-nfl/",
-        "title": "Lista Forbes: com Recorde do Dallas Cowboys, Veja Quais São as Franquias Mais Valiosas da NFL",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-16-300x200.png",
-        "date": "29/08/2025",
-        "description": "Os 32 times de futebol americano valem, em média, US$ 7,1 bilhões (R$ 38,3 bilhões), um salto de 25% em relação ao ano anterior"
     }
 ]
