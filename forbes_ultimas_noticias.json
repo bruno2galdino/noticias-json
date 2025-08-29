@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/08/10-anos-do-grupo-pop-como-a-holding-chegou-aos-r-100-milhoes-em-contratos/",
+        "title": "10 Anos do Grupo Pop: Como a Holding Chegou Aos R$ 100 milhões em Contratos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/O-sucesso-vem-principalmente-da-familiaridade-dos-fundadores-do-Grupo-POP-com-o-universo-digital-300x200.jpg",
+        "date": "29/08/2025",
+        "description": "Holding fundada por Fernando Bento e Lelê Saddi reúne cerca de 200 clientes e prevê faturar R$ 30 milhões este ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/transacao-no-uruguai-opoe-marfrig-e-minerva-em-divulgacoes-ao-mercado/",
+        "title": "Transação no Uruguai Opõe Marfrig e Minerva em Divulgações Ao Mercado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Marfrig_Getty-300x200.jpg",
+        "date": "29/08/2025",
+        "description": "Marfrig declara contrato encerrado em venda de unidades no Uruguai, enquanto Minerva afirma que acordo segue válido"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/pix-como-novas-regras-vao-facilitar-devolucao-de-valores-em-casos-de-golpe/",
         "title": "Pix: Como Novas Regras Vão Facilitar Devolução de Valores em Casos de Golpe",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/GettyImages-1432050907-1-300x200.jpg",
@@ -21,8 +35,8 @@
         "description": "A medida havia sido abortada após uma série de confusões na comunicação, mas foi retomada em meio a pressão sobre compliance das empresas financeiras"
     },
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/bolha-da-ia-e-uma-possibilidade-diz-garry-bolles/",
-        "title": "Bolha da IA É uma Possibilidade, Diz Garry Bolles",
+        "url": "https://forbes.com.br/forbes-tech/2025/08/bolha-da-ia-e-uma-possibilidade-diz-gary-bolles/",
+        "title": "Bolha da IA É uma Possibilidade, Diz Gary Bolles",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Garry-Bolles-300x200.png",
         "date": "29/08/2025",
         "description": "Em entrevista à Forbes Brasil, o especialista com mais de 40 anos de experiência no Vale do Silício fala sobre o futuro da inteligência artificial e os riscos e oportunidades da tecnologia"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/porto-de-los-angeles-money-tarifas-300x200.png",
         "date": "29/08/2025",
         "description": "A decisão de avançar com o processo de reciprocidade marca uma escalada na resposta brasileira à disputa econômica com os EUA e surge diante da falta de espaço para negociação"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/fertilizantes-heringer-anuncia-troca-de-presidente-e-diretor-financeiro-em-meio-a-mudancas-no-alto-escalao/",
-        "title": "Fertilizantes Heringer Anuncia Troca de Presidente e Diretor Financeiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-agro-fertilizantes-heringer-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "A companhia também anunciou a saída do presidente do conselho de administração e dos diretores comercial e de operações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/08/coca-cola-e-star-wars-se-unem-em-nova-campanha-exclusiva/",
-        "title": "Coca-Cola e Star Wars se Unem em Nova Campanha Exclusiva",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/coca-e-star-wars-300x200.png",
-        "date": "29/08/2025",
-        "description": "A parceria lança 24 novos desenhos dos personagens icônicos da saga nas latas do refrigerante em edição limitada e imersiva"
     }
 ]
