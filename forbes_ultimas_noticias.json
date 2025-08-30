@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/08/luis-fernando-verissimo-genio-da-cronica-brasileira-morre-aos-88-anos/",
+        "title": "Luis Fernando Verissimo, Gênio da Crônica Brasileira, Morre Aos 88 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Luis-Fernando-Verissimo-300x200.jpg",
+        "date": "30/08/2025",
+        "description": "Um dos autores mais lidos do Brasil, o escritor estava internado havia três semanas em um hospital de Porto Alegre"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/08/lista-forbes-as-melhores-universidades-dos-estados-unidos/",
         "title": "As Melhores Universidades dos Estados Unidos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-melhores-universidades-estados-unidos-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_algodao_28ago25_REUTERSAmanda-Perobelli-300x200.jpg",
         "date": "29/08/2025",
         "description": "Mas ritmo segue abaixo do registrado na mesma época da safra anterior"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/china-aumenta-compras-de-soja-da-argentina-e-do-uruguai-em-meio-a-guerra-comercial-dos-eua/",
-        "title": "China Aumenta Compras de Soja da Argentina e do Uruguai em Meio À Guerra Comercial dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Cargas-de-soja-em-porto-1-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "A China não reservou nenhuma compra de soja dos EUA para embarque no quarto trimestre"
     }
 ]
