@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/08/10-frases-marcantes-de-luis-fernando-verissimo-sobre-vida-morte-e-humanidade/",
+        "title": "10 Frases Marcantes de Luis Fernando Verissimo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/luis-fernando-verissimo-300x200.jpg",
+        "date": "30/08/2025",
+        "description": "O escritor, cronista e humorista morreu neste sábado (30) aos 88 anos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/maioria-das-tarifas-de-trump-e-ilegal-decide-tribunal-de-recursos-dos-eua/",
         "title": "Maioria das Tarifas de Trump É Ilegal, Decide Tribunal dos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-money-1-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_gado_28ago25_Shiota_Getty-300x200.jpg",
         "date": "29/08/2025",
         "description": "Ibama amplia pressão sobre frigoríficos e expõe os limites do monitoramento da cadeia bovina, onde a rastreabilidade trava nos fornecedores indiretos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-tem-novo-recorde-historico-e-dolar-sobe/",
-        "title": "Ibovespa Tem Novo Recorde Histórico e Dólar Sobe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/fechamento-money-4-300x200.png",
-        "date": "29/08/2025",
-        "description": "Embora avanço do índice tenha sido de menos de 0,30%, foi suficiente para passar alcançar 141.422,26 pontos"
     }
 ]
