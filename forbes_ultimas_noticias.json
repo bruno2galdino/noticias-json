@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/08/lista-forbes-as-melhores-universidades-dos-estados-unidos/",
+        "title": "As Melhores Universidades dos Estados Unidos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/carreira-melhores-universidades-estados-unidos-300x200.jpg",
+        "date": "30/08/2025",
+        "description": "O MIT ocupa o primeiro lugar no ranking anual, que reúne 500 universidades capazes de formar graduados com os melhores resultados acadêmicos, financeiros e profissionais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/4-estrategias-para-construir-riqueza-e-se-tornar-um-milionario/",
+        "title": "4 Estratégias para Construir Riqueza e se Tornar um Milionário",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/12/Predio-300x200.jpg",
+        "date": "30/08/2025",
+        "description": "Embora não haja uma estimativa de quantas famílias ainda estão a caminho de se tornarem milionárias, com tempo suficiente e orientação financeira inteligente, qualquer pessoa pode construir um patrimônio líquido de um milhão"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/por-que-voce-deveria-fazer-uma-viagem-de-iate-para-a-ilha-de-komodo/",
+        "title": "Por Que Você Deveria Conhecer a Ilha de Komodo por Iate",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_0.O-conves-principal-do-Lako-dia-300x200.jpg",
+        "date": "30/08/2025",
+        "description": "Além de ver os famosos dragões-de-komodo, velejar até a ilha leva a praias de areia rosa, mergulhos com snorkel e pores do sol impressionantes"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/experiencias-olfativas-e-minimalismo-estao-redefinindo-o-mercado-de-fragrancias/",
+        "title": "Experiências Olfativas e Minimalismo Estão Redefinindo o Mercado de Fragrâncias",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.O-desafio-do-perfumista-atual-e-pensar-alem-do-perfume_-e-ser-um-designer-de-experiencias-300x200.jpg",
+        "date": "30/08/2025",
+        "description": "Casas de fragrância, marcas de nicho e grandes maisons reposicionam a perfumaria de luxo com vivências sensoriais e composições mais suaves"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/08/como-conversar-com-a-familia-sobre-planos-de-aposentadoria-e-financas/",
+        "title": "Como Conversar com a Família sobre Planos de Aposentadoria e Finanças",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-17-300x200.png",
+        "date": "30/08/2025",
+        "description": "Embora não seja o programa favorito de ninguém, diálogo sobre temas difíceis é fundamental para que todos estejam na mesma página"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/08/como-eduardo-saverin-transformou-o-investimento-no-facebook-em-patrimonio-bilionario/",
+        "title": "Como Eduardo Saverin Transformou o Investimento no Facebook em Patrimônio Bilionário",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/eduardo-saverin-300x200.png",
+        "date": "30/08/2025",
+        "description": "A fortuna, estimada em R$ 227 bilhões em 2025, foi construída a partir de um investimento de US$ 1 mil na “startup” de um colega: Mark Zuckerberg"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/08/apreensao-de-gado-e-o-xis-da-questao-por-que-os-fornecedores-indiretos-sao-um-gargalo-na-pecuaria/",
         "title": "Apreensão de Gado e o Xis da Questão: Por Que os Fornecedores Indiretos São um Gargalo na Pecuária",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_gado_28ago25_Shiota_Getty-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Cargas-de-soja-em-porto-1-300x200.jpg",
         "date": "29/08/2025",
         "description": "A China não reservou nenhuma compra de soja dos EUA para embarque no quarto trimestre"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/oia-preve-deficit-global-de-acucar-menor-em-2025-26/",
-        "title": "OIA Prevê Déficit Global de Açúcar Menor em 2025/26",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Canavial-em-Jacarezinho-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "A produção global de açúcar foi projetada para aumentar em 3,1%, para 180,59 milhões de toneladas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/amaggi-e-inpasa-vao-construir-ao-menos-3-usinas-de-etanol-de-milho-em-mato-grosso/",
-        "title": "Amaggi e Inpasa Vão Construir Ao Menos 3 Usinas de Etanol de Milho em Mato Grosso",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_milho_28ago25_Richard-Hamilton-Smith_Getty-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Cada uma das unidades deverá ter a capacidade inicial de processar anualmente cerca de 2 milhões de toneladas do cereal"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/10-anos-do-grupo-pop-como-a-holding-chegou-aos-r-100-milhoes-em-contratos/",
-        "title": "10 Anos do Grupo Pop: Como a Holding Chegou Aos R$ 100 milhões em Contratos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/O-sucesso-vem-principalmente-da-familiaridade-dos-fundadores-do-Grupo-POP-com-o-universo-digital-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Holding fundada por Fernando Bento e Lelê Saddi reúne cerca de 200 clientes e prevê faturar R$ 30 milhões este ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/transacao-no-uruguai-opoe-marfrig-e-minerva-em-divulgacoes-ao-mercado/",
-        "title": "Transação no Uruguai Opõe Marfrig e Minerva em Divulgações Ao Mercado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Marfrig_Getty-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Marfrig declara contrato encerrado em venda de unidades no Uruguai, enquanto Minerva afirma que acordo segue válido"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/pix-como-novas-regras-vao-facilitar-devolucao-de-valores-em-casos-de-golpe/",
-        "title": "Pix: Como Novas Regras Vão Facilitar Devolução de Valores em Casos de Golpe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/GettyImages-1432050907-1-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Mecanismo Especial de Devolução (MED) começará a funcionar de forma totalmente digital a partir de 1º de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/08/aviao-que-trazia-alckmin-tebet-e-favaro-do-mexico-sofre-problema-de-reabastecimento-ministros-estao-bem/",
-        "title": "Avião Que Trazia Alckmin, Tebet e Fávaro do México Sofre Problema de Reabastecimento, Ministros Estão Bem",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-29T143555Z_2_LYNXMPEL7S0P3_RTROPTP_4_USA-TRUMP-TARIFFS-BRAZIL-scaled-e1756481855976-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Aeronave da FAB teve falha durante escala na Colômbia; autoridades brasileiras aguardaram outro avião para retornar ao país"
     }
 ]
