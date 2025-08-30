@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/08/apreensao-de-gado-e-o-xis-da-questao-por-que-os-fornecedores-indiretos-sao-um-gargalo-na-pecuaria/",
+        "title": "Apreensão de Gado e o Xis da Questão: Por Que os Fornecedores Indiretos São um Gargalo na Pecuária",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_gado_28ago25_Shiota_Getty-300x200.jpg",
+        "date": "29/08/2025",
+        "description": "Ibama amplia pressão sobre frigoríficos e expõe os limites do monitoramento da cadeia bovina, onde a rastreabilidade trava nos fornecedores indiretos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/08/ibovespa-tem-novo-recorde-historico-e-dolar-sobe/",
         "title": "Ibovespa Tem Novo Recorde Histórico e Dólar Sobe",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/fechamento-money-4-300x200.png",
         "date": "29/08/2025",
         "description": "Embora avanço do índice tenha sido de menos de 0,30%, foi suficiente para passar alcançar 141.422,26 pontos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/colheita-de-algodao-em-mato-grosso-avanca-para-7666-da-area-diz-imea/",
+        "title": "Colheita de Algodão em Mato Grosso Avança para 76,66% da Área, Diz Imea",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_algodao_28ago25_REUTERSAmanda-Perobelli-300x200.jpg",
+        "date": "29/08/2025",
+        "description": "Mas ritmo segue abaixo do registrado na mesma época da safra anterior"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/08/china-aumenta-compras-de-soja-da-argentina-e-do-uruguai-em-meio-a-guerra-comercial-dos-eua/",
@@ -19,6 +33,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Canavial-em-Jacarezinho-300x200.jpg",
         "date": "29/08/2025",
         "description": "A produção global de açúcar foi projetada para aumentar em 3,1%, para 180,59 milhões de toneladas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/08/amaggi-e-inpasa-vao-construir-ao-menos-3-usinas-de-etanol-de-milho-em-mato-grosso/",
+        "title": "Amaggi e Inpasa Vão Construir Ao Menos 3 Usinas de Etanol de Milho em Mato Grosso",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_milho_28ago25_Richard-Hamilton-Smith_Getty-300x200.jpg",
+        "date": "29/08/2025",
+        "description": "Cada uma das unidades deverá ter a capacidade inicial de processar anualmente cerca de 2 milhões de toneladas do cereal"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/08/10-anos-do-grupo-pop-como-a-holding-chegou-aos-r-100-milhoes-em-contratos/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-29T143555Z_2_LYNXMPEL7S0P3_RTROPTP_4_USA-TRUMP-TARIFFS-BRAZIL-scaled-e1756481855976-300x200.jpg",
         "date": "29/08/2025",
         "description": "Aeronave da FAB teve falha durante escala na Colômbia; autoridades brasileiras aguardaram outro avião para retornar ao país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/receita-federal-divulga-regras-que-equiparam-fintechs-a-bancos/",
-        "title": "Receita Federal Divulga Regras que Equiparam Fintechs a Bancos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-6-1-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "A medida havia sido abortada após uma série de confusões na comunicação, mas foi retomada em meio a pressão sobre compliance das empresas financeiras"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/bolha-da-ia-e-uma-possibilidade-diz-gary-bolles/",
-        "title": "Bolha da IA É uma Possibilidade, Diz Gary Bolles",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Garry-Bolles-300x200.png",
-        "date": "29/08/2025",
-        "description": "Em entrevista à Forbes Brasil, o especialista com mais de 40 anos de experiência no Vale do Silício fala sobre o futuro da inteligência artificial e os riscos e oportunidades da tecnologia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/08/julia-roberts-nega-que-seu-novo-filme-seja-retrocesso-para-mulheres/",
-        "title": "Julia Roberts Nega Que Seu Novo Filme Seja Retrocesso para Mulheres",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-julia-roberts-festival-cinema-de-veneza-300x200.jpg",
-        "date": "29/08/2025",
-        "description": "Dirigido pelo italiano Luca Guadagnino e também estrelado por Ayo Edebiri e Andrew Garfield, o filme estreia nesta sexta-feira (29) no Festival de Cinema de Veneza"
     }
 ]
