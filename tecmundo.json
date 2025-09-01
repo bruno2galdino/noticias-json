@@ -1,7 +1,21 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/601990-disney-recebe-lilo-stitch-e-mais-lancamentos-em-setembro-veja-lista-de-estreias.htm",
+        "title": "Disney+ recebe Lilo & Stitch e mais lançamentos em setembro! Veja lista de estreias",
+        "description": "Confira as principais novidades chegando em setembro no Disney+, incluindo Lilo & Stitch, Futurama e séries como Only Murders in the Building",
+        "image": "https://tm.ibxk.com.br/2025/09/01/01102511850473.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406708-falha-no-whatsapp-permitiu-espionar-usuarios-com-dispositivos-apple.htm",
+        "title": "Falha no WhatsApp permitiu espionar usuários com dispositivos Apple",
+        "description": "Vulnerabilidades já foram corrigidas, mas a Meta insiste que um software espião ainda pode estar dentro do seu celular e recomendação algumas ações",
+        "image": "https://tm.ibxk.com.br/2025/08/29/29180639384020.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/406712-hackers-desviam-r-420-milhoes-por-transferencias-pix-em-ataque-a-empresa-sinqia.htm",
-        "title": "Hackers desviam R$ 420 milhões por transferências Pix em ataque a empresa Sinqia",
+        "title": "Hackers desviam R$ 420 milhões do HSBC por transferências Pix",
         "description": "Hackers desviaram mais de R$ 400 milhões por transferências Pix após ataque bem sucedido ao ambiente Pix da empresa Sinqia",
         "image": "https://tm.ibxk.com.br/2025/09/01/01095800487453.jpg",
         "date": null
@@ -46,20 +60,6 @@
         "title": "Live action de Kpop Demon Hunters: pode acontecer?",
         "description": "Live action de Kpop Demon Hunters: confira os rumores e todas as novidades dos bastidores reveladas até agora.",
         "image": "https://tm.ibxk.com.br/2025/08/22/22100342375057.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502201-por-que-resident-evil-requiem-tem-camera-em-primeira-e-terceira-pessoa-capcom-explica.htm",
-        "title": "Por que Resident Evil Requiem tem câmera em primeira e terceira pessoa? Capcom explica",
-        "description": "Em entrevista ao GamesRadar, o diretor Koshi Nakanishi explicou os motivos pelos quais Requiem terá duas opções de câmeras — e eles têm relação com RE7! Entenda",
-        "image": "https://tm.ibxk.com.br/2025/08/28/28091830742036.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/601975-wandinha-invocacao-do-mal-4-e-mais-os-lancamentos-de-filmes-e-series-da-semana-3108.htm",
-        "title": "Wandinha, Invocação do Mal 4 e mais! Os lançamentos de filmes e séries da semana (31/08)",
-        "description": "A primeira semana de setembro traz ótimas estreias nos cinemas e nas plataformas de streaming. Confira a seleção que preparamos!",
-        "image": "https://tm.ibxk.com.br/2025/08/29/29170940225052.jpg",
         "date": null
     }
 ]
