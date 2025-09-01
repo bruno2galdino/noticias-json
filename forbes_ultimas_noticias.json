@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/09/terremoto-de-magnitude-6-deixa-800-mortos-e-quase-3-mil-feridos-no-afeganistao/",
+        "title": "Terremoto de Magnitude 6 Deixa 800 Mortos e Quase 3 Mil Feridos no Afeganistão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-01T104705Z_1_LYNXMPEL800VV_RTROPTP_4_AFGHANISTAN-QUAKE-1-1-300x200.jpg",
+        "date": "01/09/2025",
+        "description": "Este é o terceiro terremoto mortal enfrentado pelo governo Talibã"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/fabricio-bloisi-cofundador-movile-ceo-prosus-tecnologia-esta-indo-para-mundo/",
         "title": "Cofundador da Movile: \"A Tecnologia Que Criamos em Campinas Está Indo para o Mundo\"",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/fabricio-bloisi-movile-300x200.png",
@@ -15,7 +22,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/09/com-foco-em-lifestyle-nubank-quer-expandir-ultravioleta-e-conquistar-fatia-da-alta-renda/",
-        "title": "Com Foco em Lifestyle, Nubank Quer Expandir Ultravioleta e Conquistar Fatia da Alta Renda",
+        "title": "Com Foco em Lifestyle, Nubank Quer Expandir Ultravioleta e Conquistar Mercado de Alta Renda",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/img-1500x1000-2-300x200.jpg",
         "date": "01/09/2025",
         "description": "O banco digital anunciou uma expansão recente em seu segmento de alta renda. Confira entrevista de Aly Ahearn, diretora responsável pelo segmento de alta renda da instituição, à Forbes Brasil"
@@ -35,7 +42,7 @@
         "description": "Em 2025, a Apple escolheu o \"Awe Dropping\", algo como \"queixos vão cair\", para o evento que ocorre na próxima semana"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/09/do-grupo-bom-futuro-aos-vinhedos-do-sul-a-nova-fronteira-de-zeca-bortoli/",
+        "url": "https://forbes.com.br/escolhas-do-editor/2025/09/do-grupo-bom-futuro-aos-vinhedos-do-sul-a-nova-fronteira-de-zeca-bortoli/",
         "title": "Do Grupo Bom Futuro Aos Vinhedos do Sul, a Nova Fronteira de Zeca Bortoli",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Zeca_Bortoli_01set25_Vinuta_Divulg-300x200.jpg",
         "date": "01/09/2025",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/money-viagem-visto-eua-passaporte-300x200.jpg",
         "date": "31/08/2025",
         "description": "Países das Américas Central e do Sul estão entre os mais afetados pela nova cobrança, que entra em vigor a partir de 1º de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/08/infomercial-whalemate-parceiro-ventures-investe-r-6-milhoes-na-whalemate-startup-de-ciberseguranca-argentina/",
-        "title": "Parceiro Ventures Investe R$ 6 Milhões na Whalemate, Startup de Cibersegurança Argentina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/whalemate-if-1-300x200.png",
-        "date": "31/08/2025",
-        "description": "Com tecnologia validada por empresas como Mercado Livre e Rappi, a companhia prepara expansão regional e aposta no Brasil como mercado estratégico"
     }
 ]
