@@ -1,13 +1,55 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-mulher/2025/08/bia-haddad-avanca-as-oitavas-de-final-do-us-open/",
+        "url": "https://forbes.com.br/forbes-money/2025/09/fabricio-bloisi-cofundador-movile-ceo-prosus-tecnologia-esta-indo-para-mundo/",
+        "title": "Cofundador da Movile: \"A Tecnologia Que Criamos em Campinas Está Indo para o Mundo\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/fabricio-bloisi-movile-300x200.png",
+        "date": "01/09/2025",
+        "description": "O empresário é atualmente CEO da global Prosus, controladora da Movile, que abriga marcas como iFood e Sympla"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/por-que-a-riviera-portuguesa-e-nova-aposta-do-mercado-imobiliario-de-luxo/",
+        "title": "Por Que a Riviera Portuguesa É Nova Aposta do Mercado Imobiliário",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.A-cintilante-e-glamorosa-Baia-de-Cascais-rica-em-historias-de-intriga-romance-e-muito-antes-do-seculo-XX-apresentar-o-Agente-007-contos-de-pescadores-300x200.jpg",
+        "date": "01/09/2025",
+        "description": "Com o m² superando € 25 mil e projetos assinados por designers de renome, a região de Cascais e Estoril estabelece novos recordes no mercado europeu"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/com-foco-em-lifestyle-nubank-quer-expandir-ultravioleta-e-conquistar-fatia-da-alta-renda/",
+        "title": "Com Foco em Lifestyle, Nubank Quer Expandir Ultravioleta e Conquistar Fatia da Alta Renda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/img-1500x1000-2-300x200.jpg",
+        "date": "01/09/2025",
+        "description": "O banco digital anunciou uma expansão recente em seu segmento de alta renda. Confira entrevista de Aly Ahearn, diretora responsável pelo segmento de alta renda da instituição, à Forbes Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/de-quase-falidas-duas-irmas-transformam-o-skyr-islandes-em-iogurte-querido-nos-eua/",
+        "title": "Irmãs Transformam o Skyr Islandês em Iogurte Querido nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Hayley-e-Stephanie-Painter_01set25_PS_Divulg-300x200.jpg",
+        "date": "01/09/2025",
+        "description": "Conheça a Painterland Sisters Yogurt, que acaba de fechar uma rodada seed e está nas mais de 500 lojas do Whole Foods Market"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/relembre-os-temas-de-lancamentos-do-iphone-nos-ultimos-anos-e-entenda-o-que-eles-significam/",
+        "title": "Relembre os Temas de Lancamento do iPhone nos Últimos Anos e Entenda o Que Eles Significam",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Tim-Cook-iPhone-16-300x200.png",
+        "date": "01/09/2025",
+        "description": "Em 2025, a Apple escolheu o \"Awe Dropping\", algo como \"queixos vão cair\", para o evento que ocorre na próxima semana"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/do-grupo-bom-futuro-aos-vinhedos-do-sul-a-nova-fronteira-de-zeca-bortoli/",
+        "title": "Do Grupo Bom Futuro Aos Vinhedos do Sul, a Nova Fronteira de Zeca Bortoli",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Zeca_Bortoli_01set25_Vinuta_Divulg-300x200.jpg",
+        "date": "01/09/2025",
+        "description": "Empresário que construiu fortuna no Cerrado volta às raízes gaúchas para plantar seus primeiros vinhedos próprios, fazer vinho premium e resgatar uma história de 120 anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/08/bia-haddad-avanca-as-oitavas-de-final-do-us-open/",
         "title": "Bia Haddad Avança Às Oitavas de Final do US Open",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-bia-haddad-us-open-300x200.jpg",
         "date": "31/08/2025",
         "description": "A brasileira não teve dificuldades para derrotar a grega Maria Sakkari por 2 sets a 0"
     },
     {
-        "url": "https://forbes.com.br/forbeswsb/2025/08/lungarotti-preserva-e-promove-a-historia-do-vinho-na-umbria/",
+        "url": "https://forbes.com.br/forbesagro/2025/08/lungarotti-preserva-e-promove-a-historia-do-vinho-na-umbria/",
         "title": "Lungarotti Preserva e Promove a História do Vinho na Úmbria",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/wsb-chiara-lungarotti-300x200.jpg",
         "date": "31/08/2025",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/whalemate-if-1-300x200.png",
         "date": "31/08/2025",
         "description": "Com tecnologia validada por empresas como Mercado Livre e Rappi, a companhia prepara expansão regional e aposta no Brasil como mercado estratégico"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/diplomata-brasileiro-classifica-de-ganha-ganha-acordo-por-gas-de-vaca-muerta/",
-        "title": "Diplomata Brasileiro Classifica de “Ganha-ganha” Acordo por Gás de Vaca Muerta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2-22-300x200.jpg",
-        "date": "31/08/2025",
-        "description": "Declaração ocorreu em evento na realizado na Argentina para tentar destravar pendências e colocar em prática cooperação entre os dois países"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/hotel-do-futuro-conheca-o-resort-da-arabia-saudita-com-cara-de-ficcao-cientifica/",
-        "title": "Conheça o Resort da Arábia Saudita Que Fica sobre a Água",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.Vila-capsula-sobre-a-agua-no-Shebara-Resort-no-Mar-Vermelho-300x200.jpg",
-        "date": "31/08/2025",
-        "description": "Em ilhas desabitadas do Mar Vermelho, recém-inaugurado Shebara tem vilas espelhadas sobre a água, spa com esfoliação de meteorito e design futurista"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/vinicolas-da-california-apostam-em-trufas-e-criam-novo-negocio-de-luxo-gastronomico/",
-        "title": "Vinícolas da Califórnia Apostam em Trufas e Criam Novo Negócio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_trufas_28ago25_Getty_Gabbiere-300x200.jpg",
-        "date": "31/08/2025",
-        "description": "De ingrediente clandestino na floresta a ativo estratégico, a nova colheita promete mudar o jogo para um produto valorizado"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/08/cesar-carvalho-wellhub-gympass-o-mineiro-que-criou-um-unicornio-de-bem-estar-corporativo/",
-        "title": "O Mineiro Que Criou um Unicórnio de Bem-Estar Corporativo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/the-founders-cesar-carvalho-wellhub-300x200.png",
-        "date": "31/08/2025",
-        "description": "O empresário fundou o Wellhub (ex-Gympass) em 2012; sete anos depois, a startup foi avaliada em US$ 1,1 bilhão. Hoje, já vale mais que o dobro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/12-erros-que-te-impedem-de-ficar-rico/",
-        "title": "12 Erros Que Te Impedem de se Tornar um Multimilionário",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-18-300x200.png",
-        "date": "31/08/2025",
-        "description": "Equívocos vão do planejamento financeiro até relacionamentos; confira"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/08/10-frases-marcantes-de-luis-fernando-verissimo-sobre-vida-morte-e-humanidade/",
-        "title": "10 Frases Marcantes de Luis Fernando Verissimo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/luis-fernando-verissimo-300x200.jpg",
-        "date": "30/08/2025",
-        "description": "O escritor, cronista e humorista morreu neste sábado (30) aos 88 anos"
     }
 ]
