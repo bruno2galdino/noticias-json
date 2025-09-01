@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/os-10-bilionarios-mais-ricos-do-mundo-em-setembro/",
+        "title": "Os 10 Bilionários Mais Ricos do Mundo em Setembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/elon-musk-300x200.png",
+        "date": "01/09/2025",
+        "description": "Pelo 16º mês consecutivo, Elon Musk mantém o título de pessoa mais rica do planeta. Confira o top 10 bilionários"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/09/terremoto-de-magnitude-6-deixa-800-mortos-e-quase-3-mil-feridos-no-afeganistao/",
         "title": "Terremoto de Magnitude 6 Deixa 800 Mortos e Quase 3 Mil Feridos no Afeganistão",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-01T104705Z_1_LYNXMPEL800VV_RTROPTP_4_AFGHANISTAN-QUAKE-1-1-300x200.jpg",
         "date": "01/09/2025",
         "description": "Este é o terceiro terremoto mortal enfrentado pelo governo Talibã"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/infomercial-balfour-capital-group-preservando-riqueza-em-mercados-volateis/",
+        "title": "Preservando Riqueza em Mercados Voláteis",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/balfour-if-300x200.png",
+        "date": "01/09/2025",
+        "description": "Balfour Capital Group alia estratégia, diversificação e proteção de patrimônio para investidores brasileiros"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/09/fabricio-bloisi-cofundador-movile-ceo-prosus-tecnologia-esta-indo-para-mundo/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/mulher-bia-haddad-us-open-300x200.jpg",
         "date": "31/08/2025",
         "description": "A brasileira não teve dificuldades para derrotar a grega Maria Sakkari por 2 sets a 0"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/08/lungarotti-preserva-e-promove-a-historia-do-vinho-na-umbria/",
-        "title": "Lungarotti Preserva e Promove a História do Vinho na Úmbria",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/wsb-chiara-lungarotti-300x200.jpg",
-        "date": "31/08/2025",
-        "description": "Chiara Lungarotti, CEO do negócio familiar, produz um novo Rubesco em homenagem ao principal rótulo da vinícola, criado em 1962"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/08/nova-taxa-de-us-250-para-visto-dos-eua-pode-agravar-queda-em-viagens-ao-pais/",
-        "title": "Nova Taxa de US$ 250 para Visto Pode Reduzir Viagens aos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/money-viagem-visto-eua-passaporte-300x200.jpg",
-        "date": "31/08/2025",
-        "description": "Países das Américas Central e do Sul estão entre os mais afetados pela nova cobrança, que entra em vigor a partir de 1º de outubro"
     }
 ]
