@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/406683-a-jornada-da-inteligencia-artificial-entre-o-medo-humano-e-a-prosperidade-social.htm",
+        "title": "A jornada da inteligência artificial entre o medo humano e a prosperidade social",
+        "description": "Como medo da IA pode paralisar o progresso? Saiba o que passado pode nos ensinar sobre a revolução da inteligência artificial.",
+        "image": "https://tm.ibxk.com.br/2025/08/29/29084633480010.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406478-o-que-acontece-em-um-vazamento-de-dados-e-como-se-proteger.htm",
+        "title": "O que acontece em um vazamento de dados e como se proteger",
+        "description": "Vazamentos de dados acontecem o tempo todo, e muito provavelmente você foi (ou será) vítima de um deles; entenda o que acontece após o incidente",
+        "image": "https://tm.ibxk.com.br/2025/07/24/24093239336029.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406735-recebeu-uma-encomenda-inesperada-cuidado-pode-ser-golpe.htm",
+        "title": "Recebeu uma encomenda inesperada? Cuidado, pode ser golpe",
+        "description": "Criminosos compram bancos de dados para conseguir endereço e outros dados pessoais de vítimas para roubar credenciais bancárias",
+        "image": "https://tm.ibxk.com.br/2025/09/01/01181414840122.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406737-gmail-nao-sofreu-ataque-hacker-em-massa-confirma-google.htm",
+        "title": "Gmail não sofreu ataque hacker em massa, confirma Google",
+        "description": "Confusão começou após múltiplos incidentes de segurança envolvendo a Salesforce, usada como plataforma de gerenciamento pelo Google",
+        "image": "https://tm.ibxk.com.br/2025/07/04/04120152174067.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502219-5-jogos-gratis-em-alta-da-play-store-para-jogar-no-android-esta-semana.htm",
+        "title": "5 jogos grátis em alta da Play Store para jogar no Android esta semana",
+        "description": "A Play Store está recheada de boas novidade em alta esta semana. Confira a lista de jogos gratuitos para jogar em celulares Android!",
+        "image": "https://tm.ibxk.com.br/2025/08/31/31231213544025.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/software/406730-windows-11-25h2-esta-prestes-a-ser-lancada-para-todos-e-e-menor-do-que-o-esperado.htm",
         "title": "Windows 11 25H2 está prestes a ser lançada para todos — e é menor do que o esperado",
         "description": "A atualização Windows 11 25H2 não é uma grande atualização, como de costume, mas um \"Pacote de ativação\", que só habilita recursos contidos no sistema",
@@ -32,34 +67,6 @@
         "title": "Após Death Stranding 2, Kojima revelará mais novidades de futuros jogos em breve",
         "description": "Confira um resumo com as principais notícias de games do dia",
         "image": "https://tm.ibxk.com.br/2025/09/01/01171601646091.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406732-elon-musk-se-mantem-no-topo-do-ranking-dos-mais-ricos-do-mundo-veja-lista-atualizada.htm",
-        "title": "Elon Musk se mantém no topo do ranking dos mais ricos do mundo; veja lista atualizada",
-        "description": "Somado, o patrimônio líquido das 10 pessoas mais ricas do mundo chega a US$ 2,13 trilhões, o equivalente a R$ 11,5 trilhões, segundo o ranking mais recente da Forbes.",
-        "image": "https://tm.ibxk.com.br/2025/09/01/01163801092038.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/601996-filme-sobre-putin-e-aplaudido-por-10-minutos-em-festival-de-vezena-conheca-wizard-of-the-kremlin.htm",
-        "title": "Filme sobre Putin é aplaudido por 10 minutos em Festival de Vezena! Conheça Wizard of the Kremlin",
-        "description": "The Wizard of the Kremlin mostra como um publicitário ajudou na ascensão política de Vladimir Putin. Confira mais detalhes sobre o longa-metragem",
-        "image": "https://tm.ibxk.com.br/2025/09/01/01134049079013.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406722-microsoft-edge-testa-recurso-que-permite-reproduzir-videos-do-youtube-em-segundo-plano-de-graca.htm",
-        "title": "Microsoft Edge testa recurso que permite reproduzir vídeos do YouTube em segundo plano de graça",
-        "description": "Um novo recurso em testes no Microsoft Edge Canary permite colocar vídeos do YouTube em segundo plano sem assinar YouTube Premium",
-        "image": "https://tm.ibxk.com.br/2025/03/20/20114237627218.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/406729-smart-tvs-em-oferta-na-amazon-economize-em-modelos-samsung-aoc-philips-e-mais.htm",
-        "title": "Smart TVs em oferta na Amazon: economize em modelos Samsung, AOC, Philips e mais",
-        "description": "Aproveite preços mais em conta em diversas opções de TVs inteligentes na Amazon e garanta imagens de alta qualidade com modelos Samsung, AOC, Philco, Britânia e mais por tempo limitado",
-        "image": "https://tm.ibxk.com.br/2025/09/01/01145623042009.jpg",
         "date": null
     }
 ]
