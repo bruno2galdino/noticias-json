@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/celular/406713-por-que-celulares-nao-tem-mais-baterias-removiveis.htm",
+        "title": "Por que celulares não têm mais baterias removíveis?",
+        "description": "Questões estéticas e de funcionalidades dos dispositivos fizeram a indústria de smartphones adotar característica quase como um padrão nos últimos anos",
+        "image": "https://tm.ibxk.com.br/2025/09/01/01102650567479.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/produto/406736-samsung-lanca-o-intermediario-galaxy-tab-s10-lite-no-brasil-a-partir-de-r-28-mil.htm",
         "title": "Samsung lança o intermediário Galaxy Tab S10 Lite no Brasil a partir de R$ 2,8 mil",
         "description": "Já à venda no país, tablet para usos variados tem tela grande, recursos de IA e maior integração com o ecossistema da fabricante",
@@ -60,13 +67,6 @@
         "title": "Netflix recebe 7 filmes e séries de peso nesta semana! Veja lista de lançamentos (01/09)",
         "description": "Novos filmes e séries estreiam na Netflix nesta semana, prometendo movimentar os assinantes do streaming; saiba o que assistir!",
         "image": "https://tm.ibxk.com.br/2025/09/01/01160146211005.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406733-anuncios-do-facebook-espalham-malware-focado-em-investidores-de-acoes-e-criptomoedas.htm",
-        "title": "Anúncios do Facebook espalham malware focado em investidores de ações e criptomoedas",
-        "description": "Campanha espalha o vírus Brokewell, capaz de roubar credenciais, espionar aplicativos e exibir telas falsas em celulares Android",
-        "image": "https://tm.ibxk.com.br/2025/09/01/01163243629021.jpg",
         "date": null
     }
 ]
