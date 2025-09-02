@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/empresa-de-blockchain-figure-busca-avaliacao-de-ate-us-41-bilhoes-em-ipo-nos-eua/",
+        "title": "Empresa de Blockchain Figure Busca Avaliação de US$ 4,1 Bilhões em IPO",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/criptomoedas_forbesmoney-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Companhia é a mais recente empresa de criptomoedas a capitalizar o interesse renovado dos investidores em novas listagens no setor"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/emater-ve-queda-na-area-com-soja-no-rs-mas-salto-na-produtividade-com-clima-melhor/",
+        "title": "Emater Vê Queda na Área com Soja no RS Mas Salto na Produtividade com Clima Melhor",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-02T144853Z_1_LYNXMPEL810R5_RTROPTP_4_BRAZIL-SOY-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Com menos área, mas mais produtividade, a soja no RS pode se recuperar da seca se o clima colaborar"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/com-expo-arterea-projeto-ar-esquenta-a-cena-da-arte-em-sp/",
+        "title": "Com Expo Arterea, Projeto AR Esquenta a Cena da Arte em SP",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Intervencoes-no-espaco-externo-da-mostra-Arterea-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Camila Yunes Guarita, Fernanda Abdalla e Pedro Bava estão à frente da iniciativa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/descoberta-de-medicamentos-impulsionada-por-ia-cresce/",
+        "title": "Descoberta de Medicamentos Impulsionada por IA Cresce",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Money_saude_medicamentos_Unsplash-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Agência dos EUA pressiona para menos testes em animais; entenda"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/09/o-cuidado-que-comeca-no-limite-por-que-dizer-nao-a-familia-e-um-ato-de-amor/",
         "title": "O Cuidado Que Começa no Limite: Por Que Dizer 'Não' À Família É um Ato de Amor",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1431406266-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/podcast-royal-prestige_paulo-modelo-300x200.jpg",
         "date": "02/09/2025",
         "description": "CEO Paulo Moledo fala sobre a estratégia global da companhia, o impacto do empreendedorismo no Brasil e os diferenciais que sustentam o crescimento da marca no setor de utensílios de cozinha premium"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/pib-cresce-04-no-2o-trimestre-e-confirma-desaceleracao-da-economia/",
-        "title": "PIB Cresce 0,4% no 2º Trimestre e Confirma Desaceleração da Economia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/M1-PIB-Fabrica-Claraboia-Filmes-CNI-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "IBGE credita o baixo avanço ao impacto da política monetária, marcada por juros elevados desde setembro do ano passado; resultados são ligeiramente acima dos previstos pelo mercado"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/brandvoice-fg-empreendimentos-engenharia-se-transforma-em-arte-e-legado/",
-        "title": "Engenharia se Transforma em Arte e Legado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/senna-tower-fg-empreendimentos-bv-300x200.png",
-        "date": "02/09/2025",
-        "description": "Com mais de 550 metros, Senna Tower, da FG Empreendimentos, une luxo, inovação e o legado do tricampeão de Fórmula 1 em Balneário Camboriú"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/09/2-razoes-pelas-quais-os-clubes-de-corrida-sao-os-mais-novos-centros-sociais/",
-        "title": "2 Razões Pelas Quais os \"Clubes de Corrida\" São os Mais Novos Centros Sociais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/corrida-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Ultimamente, houve um aumento nos clubes de corrida, mas o que está realmente por trás desse interesse repentino em correr em grupo, em vez de sozinho?"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/09/sintomas-diagnostico-e-tratamento-entenda-os-principais-pontos-sobre-a-leucemia/",
-        "title": "Sintomas, Diagnóstico e Tratamento: Entenda os Principais Pontos sobre a Leucemia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-6-300x200.png",
-        "date": "02/09/2025",
-        "description": "Mais de 11 mil brasileiros recebem o diagnóstico da doença por ano, segundo o INCA"
     }
 ]
