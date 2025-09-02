@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/406766-dell-lanca-alienware-16-area-51-e-aurora-com-rtx-5070-e-design-clean.htm",
+        "title": "Dell lança Alienware 16 Area-51 e Aurora com RTX 5070 e design clean",
+        "description": "Notebooks gamer da marca norte-americana também buscam atender profissionais e se destacam pela construção e tela Quad HD+ de alta velocidade",
+        "image": "https://tm.ibxk.com.br/2025/09/02/02160144003171.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602002-que-horas-estreia-a-segunda-parte-de-wandinha-temporada-2-veja-o-que-esperar.htm",
+        "title": "Que horas estreia a segunda parte de Wandinha Temporada 2? Veja o que esperar",
+        "description": "Prepare-se para acordar bem cedo para acompanhar o final de Wandinha assim que ele for lançado na Netflix",
+        "image": "https://tm.ibxk.com.br/2025/09/02/02102226518036.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/celular/406761-iphone-17-nao-deve-ser-mais-caro-que-a-geracao-anterior-apontam-analistas.htm",
+        "title": "iPhone 17 não deve ser mais caro que a geração anterior, apontam analistas",
+        "description": "A maioria dos modelos da linha iPhone 17 não deve ser mais cara na estreia do que o iPhone 16, especula a JPMorgan",
+        "image": "https://tm.ibxk.com.br/2025/08/26/26113507221144.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502235-estudio-de-hollow-knight-silksong-da-otima-noticia-para-donos-do-switch-2.htm",
+        "title": "Estúdio de Hollow Knight Silksong dá ótima notícia para donos do Switch 2",
+        "description": "Novidades de Silksong e mais! Confira as principais notícias de games do dia!",
+        "image": "https://tm.ibxk.com.br/2025/09/02/02150607532102.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/guia-de-compras/406756-componentes-para-o-seu-pc-placa-de-video-fonte-ssd-e-mais-em-oferta.htm",
+        "title": "Componentes para o seu PC: placa de vídeo, fonte, SSD e mais em oferta",
+        "description": "Por tempo limitado, Amazon tem várias opções de componentes e peças de computador a preços mais em conta para você atualizar o setup gastando menos; confira as oportunidades",
+        "image": "https://tm.ibxk.com.br/2025/09/02/02132629713071.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/406762-palo-alto-confirma-vazamento-de-dados-decorrente-do-ataque-a-salesforce.htm",
         "title": "Palo Alto confirma vazamento de dados decorrente do ataque à Salesforce",
         "description": "A Palo Alto Networks, empresa de segurança cibernética, sofreu com o vazamento de dados da Salesforce",
@@ -25,34 +60,6 @@
         "title": "Galaxy S25 em oferta: versão plus, padrão e edge com até 45% OFF",
         "description": "Compre os celulares Galaxy S25, S25+ e S25 Edge com até 45% OFF e garanta desempenho, câmeras avançadas, telas vibrantes e IA integrada para o dia a dia.",
         "image": "https://tm.ibxk.com.br/2025/08/08/08133101731151.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406758-monetarie-scd-sofre-suposto-ciberataque-e-tem-valores-financeiros-desviados.htm",
-        "title": "Monbank sofre ciberataque ao sistema PIX e tem R$ 4,9 milhões desviados",
-        "description": "A Monetarie, fintech de crédito digital, foi alvo de um ciberataque e desvio de valores. Até o momento, R$ 4,7 milhões já foram recuperados.",
-        "image": "https://tm.ibxk.com.br/2025/08/18/18220831656014.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602004-apos-mais-de-20-anos-ator-de-dexter-vira-meme-novamente-por-causa-da-serie.htm",
-        "title": "Após mais de 20 anos, ator de Dexter vira meme novamente por causa da série",
-        "description": "Presente nas duas primeiras temporadas de Dexter, o detetive James Doakes voltou a se destacar na internet.",
-        "image": "https://tm.ibxk.com.br/2025/09/02/02130452593019.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406755-microsoft-nega-que-update-do-windows-11-causava-problemas-em-ssds.htm",
-        "title": "Microsoft nega que update do Windows 11 causava problemas em SSDs",
-        "description": "Após investigação, a Microsoft negou que há relação entre o update de segurança de agosto e o problema em SSDs relatados por usuários",
-        "image": "https://tm.ibxk.com.br/2024/09/03/03102558282142.png",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/406753-samsung-anuncia-tv-qled-de-ate-r-99-mil-e-nova-the-frame-para-2025.htm",
-        "title": "Samsung anuncia TV QLED de até R$ 99 mil e nova The Frame para 2025",
-        "description": "Novas TVs da empresa focam em altas taxas de atualização e mais fidelidade de cores com inteligência artificial embutida",
-        "image": "https://tm.ibxk.com.br/2025/09/02/02131241246067.jpg",
         "date": null
     }
 ]

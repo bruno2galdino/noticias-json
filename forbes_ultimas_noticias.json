@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/projecao-de-25-do-pib-para-2025-tem-vies-de-baixa-diz-fazenda/",
+        "title": "Projeção de 2,5% do PIB para 2025 tem Viés de Baixa, diz Fazenda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Porto-de-Oakland-economia-dos-EUA-Money-300x200.png",
+        "date": "02/09/2025",
+        "description": "A desaceleração no segundo trimestre ocorreu em ritmo mais acentuado do que o previsto em julho"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/09/novo-terremoto-atinge-afeganistao-numero-de-mortos-ultrapassa-1-400/",
+        "title": "Novo Terremoto Atinge Afeganistão; Número de Mortos Ultrapassa 1.400",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/terremoto-afeganistao-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Tremor secundário causou pânico e interrompeu os esforços de resgate"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/09/la-nina-pode-afetar-clima-a-partir-de-setembro-diz-organizacao-meteorologica-mundial/",
+        "title": "La Niña Pode Afetar Clima a Partir de Setembro, Diz Organização Meteorológica Mundial",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-02T131646Z_1_LYNXMPEL810NZ_RTROPTP_4_CLIMATE-CHANGE-UN-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Com 55% de chance de formação nos próximos meses, fenômeno climático pode trazer riscos e oportunidades para diversos setores econômicos e de saúde pública"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/demanda-por-fertilizantes-no-brasil-deve-saltar-ate-2030-estima-governo/",
+        "title": "Demanda por Fertilizantes no Brasil Deve Saltar até 2030, Estima Governo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-02T135330Z_1_LYNXMPEL810OY_RTROPTP_4_BRAZIL-LOGISTICS-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Crescimento da agricultura e recuperação de pastagens devem impulsionar fortemente o uso de fertilizantes no Brasil até 2030"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/empresa-de-blockchain-figure-busca-avaliacao-de-ate-us-41-bilhoes-em-ipo-nos-eua/",
         "title": "Empresa de Blockchain Figure Busca Avaliação de US$ 4,1 Bilhões em IPO",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/criptomoedas_forbesmoney-300x200.jpg",
@@ -18,7 +46,7 @@
         "title": "Com Expo Arterea, Projeto AR Esquenta a Cena da Arte em SP",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Intervencoes-no-espaco-externo-da-mostra-Arterea-300x200.jpg",
         "date": "02/09/2025",
-        "description": "Camila Yunes Guarita, Fernanda Abdalla e Pedro Bava estão à frente da iniciativa"
+        "description": "Camila Yunes Guarita, Fernanda Abdalla e Teodoro Bava estão à frente da iniciativa"
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/09/descoberta-de-medicamentos-impulsionada-por-ia-cresce/",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/06/agro_Heinz_09jun23_Guettyimages-300x200.jpg",
         "date": "02/09/2025",
         "description": "Empresa diz que cisão histórica visa liberar o potencial de marcas icônicas e impulsionar o crescimento dez anos após fusão, que se mostrou malsucedida no decorrer do tempo"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/atlas-schindler-tem-nova-cto-para-a-america-latina/",
-        "title": "Atlas Schindler Tem Nova CTO na América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-cto-atlas-schindler-Thaize-Schmitz-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Thaize Schmitz, engenheira com passagens por Embraco e Tigre, sucede a Humberto Ebram, que assume como CTO do grupo na China"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/cosan-discute-com-shell-estrategia-de-reforco-de-capital-da-raizen/",
-        "title": "Cosan Discute com Shell Estratégia de Reforço de Capital da Raízen",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cana_02set25_Elzauer_Getty-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Controladores analisam alternativas para reduzir dívida e atrair parceiros em meio a perdas bilionárias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/dupla-de-luisa-stefani-vence-3a-seguida-e-vai-as-quartas-do-us-open/",
-        "title": "Dupla de Luisa Stefani Vai Às Quartas do US Open",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/tenis-luisa-stefani-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Ao lado da húngara Timea Babos, brasileira volta à quadra nesta terça"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-cast/2025/09/royal-prestige-aposta-em-vendas-diretas-para-transformar-vidas-de-empreendedores/",
-        "title": "Royal Prestige Aposta em Vendas Diretas para Transformar Vidas de Empreendedores",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/podcast-royal-prestige_paulo-modelo-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "CEO Paulo Moledo fala sobre a estratégia global da companhia, o impacto do empreendedorismo no Brasil e os diferenciais que sustentam o crescimento da marca no setor de utensílios de cozinha premium"
     }
 ]
