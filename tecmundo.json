@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/406762-palo-alto-confirma-vazamento-de-dados-decorrente-do-ataque-a-salesforce.htm",
+        "title": "Palo Alto confirma vazamento de dados decorrente do ataque à Salesforce",
+        "description": "A Palo Alto Networks, empresa de segurança cibernética, sofreu com o vazamento de dados da Salesforce",
+        "image": "https://tm.ibxk.com.br/2025/09/02/02150920468107.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502233-voce-tem-menos-de-48-horas-para-resgatar-dois-jogos-gratis-aproveite-agora-2.htm",
         "title": "Você tem menos de 48 horas para resgatar dois jogos grátis! Aproveite agora (2)",
         "description": "Lembrete: Com boas avaliações, os jogos Machinarium e Make Way estão disponíveis de graça por tempo limitado no PC.",
@@ -22,8 +29,8 @@
     },
     {
         "url": "https://www.tecmundo.com.br/seguranca/406758-monetarie-scd-sofre-suposto-ciberataque-e-tem-valores-financeiros-desviados.htm",
-        "title": "Monetarie SCD sofre suposto ciberataque e tem valores financeiros desviados",
-        "description": "A Monetarie, fintech de crédito digital, teria sido alvo de um ciberataque com possível desvio de valores. Rumor inclui recomendações de segurança, mas ainda não há confirmação oficial do incidente.",
+        "title": "Monbank sofre ciberataque ao sistema PIX e tem R$ 4,9 milhões desviados",
+        "description": "A Monetarie, fintech de crédito digital, foi alvo de um ciberataque e desvio de valores. Até o momento, R$ 4,7 milhões já foram recuperados.",
         "image": "https://tm.ibxk.com.br/2025/08/18/18220831656014.jpg",
         "date": null
     },
@@ -46,13 +53,6 @@
         "title": "Samsung anuncia TV QLED de até R$ 99 mil e nova The Frame para 2025",
         "description": "Novas TVs da empresa focam em altas taxas de atualização e mais fidelidade de cores com inteligência artificial embutida",
         "image": "https://tm.ibxk.com.br/2025/09/02/02131241246067.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502232-call-of-duty-vai-virar-filme-pelas-maos-da-paramount-pictures-veja-os-detalhes.htm",
-        "title": "Call of Duty vai virar filme pelas mãos da Paramount Pictures! Veja os detalhes",
-        "description": "A Paramount anunciou, nesta terça-feira (02), que está trabalhando no filme live-action de Call of Duty, que ainda não possui data de estreia! Saiba tudo sobre a produção",
-        "image": "https://tm.ibxk.com.br/2025/09/02/02130524877025.jpg",
         "date": null
     }
 ]
