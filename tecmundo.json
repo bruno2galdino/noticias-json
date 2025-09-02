@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/602001-hbo-max-recebe-filmes-e-series-de-peso-em-setembro-veja-lancamentos.htm",
+        "title": "HBO Max recebe filmes e séries de peso em setembro! Veja lançamentos",
+        "description": "Os destaques do HBO Max em setembro incluem a minissérie Task e o filme Karate Kid: Lendas",
+        "image": "https://tm.ibxk.com.br/2025/09/02/02093424801006.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/406739-marca-chinesa-mostra-monitor-de-1000-hz-para-pro-players.htm",
+        "title": "Marca chinesa mostra monitor de 1.000 Hz para pro-players",
+        "description": "Modelo utiliza painel TN para melhorar velocidade das imagens e utiliza tecnologias para reduzir o motion blur na jogatina",
+        "image": "https://tm.ibxk.com.br/2025/09/01/01192621433004.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/celular/406743-galaxy-s25-fe-e-tab-s11-vazam-em-imagens-promocionais-da-samsung.htm",
+        "title": "Galaxy S25 FE e Tab S11 vazam em imagens promocionais da Samsung",
+        "description": "Aparelhos devem ser revelados em breve e a ficha técnica dos modelos já é praticamente de conhecimento geral, exceto por alguns preços",
+        "image": "https://tm.ibxk.com.br/2025/08/12/12111852211072.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/guia-de-compras/406734-renove-o-setup-notebooks-e-monitores-em-promocao-no-magalu.htm",
         "title": "Renove o setup: notebooks e monitores em promoção no Magalu",
         "description": "Confira já uma seleção de ofertas de tecnologia no Magazine Luiza e garanta o monitor ou notebook novos de grandes marcas a preços mais baixinhos por tempo limitado; aproveite",
@@ -11,41 +32,6 @@
         "title": "The Sims ganha remake feito por fã na Unreal Engine 5! Veja o resultado",
         "description": "O desenvolvedor do canal Adam Does GameDev recriou o lote de Bob Newbie do primeiro The Sims na Unreal Engine 5 e o resultado ficou surpreendente! Confira",
         "image": "https://tm.ibxk.com.br/2025/08/27/27082716991010.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/601998-vingadores-doomsday-pode-desfazer-final-feliz-de-ultimato-entenda-teoria.htm",
-        "title": "Vingadores Doomsday pode desfazer final feliz de Ultimato! Entenda teoria",
-        "description": "Fotos do set de Vingadores: Doomsday pode ter confirmado a volta de um personagem importante",
-        "image": "https://tm.ibxk.com.br/2025/09/01/01160131794002.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/apostas/406723-o-que-e-chance-dupla.htm",
-        "title": "O que é Chance Dupla nas Apostas? Como Funciona e Dicas",
-        "description": "Descubra o que significa Chance Dupla nas apostas esportivas. Entenda as variações 1X, 12, 2X e aprenda as melhores estratégias para otimizar suas apostas",
-        "image": "https://tm.ibxk.com.br/2025/09/01/01132638825002.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406738-amazon-interrompe-campanha-maliciosa-que-mirava-usuarios-do-microsoft-365.htm",
-        "title": "Amazon interrompe campanha maliciosa que mirava usuários do Microsoft 365",
-        "description": "Atribuída aos hackers russos do grupo APT29, a operação tinha o objetivo de roubar senhas e dados sensíveis por meio de uma tática engenhosa.",
-        "image": "https://tm.ibxk.com.br/2025/09/01/01183249596135.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/406713-por-que-celulares-nao-tem-mais-baterias-removiveis.htm",
-        "title": "Por que celulares não têm mais baterias removíveis?",
-        "description": "Questões estéticas e de funcionalidades dos dispositivos fizeram a indústria de smartphones adotar característica quase como um padrão nos últimos anos",
-        "image": "https://tm.ibxk.com.br/2025/09/01/01102650567479.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/406736-samsung-lanca-o-intermediario-galaxy-tab-s10-lite-no-brasil-a-partir-de-r-28-mil.htm",
-        "title": "Samsung lança o intermediário Galaxy Tab S10 Lite no Brasil a partir de R$ 2,8 mil",
-        "description": "Já à venda no país, tablet para usos variados tem tela grande, recursos de IA e maior integração com o ecossistema da fabricante",
-        "image": "https://tm.ibxk.com.br/2025/09/01/01180019128117.jpg",
         "date": null
     }
 ]
