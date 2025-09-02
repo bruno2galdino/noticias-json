@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-cast/2025/09/royal-prestige-aposta-em-vendas-diretas-para-transformar-vidas-de-empreendedores/",
+        "title": "Royal Prestige Aposta em Vendas Diretas para Transformar Vidas de Empreendedores",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/podcast-royal-prestige_paulo-modelo-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "CEO Paulo Moledo fala sobre a estratégia global da companhia, o impacto do empreendedorismo no Brasil e os diferenciais que sustentam o crescimento da marca no setor de utensílios de cozinha premium"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/pib-cresce-04-no-2o-trimestre-e-confirma-desaceleracao-da-economia/",
+        "title": "PIB Cresce 0,4% no 2º Trimestre e Confirma Desaceleração da Economia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/M1-PIB-Fabrica-Claraboia-Filmes-CNI-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "IBGE credita o baixo avanço ao impacto da política monetária, marcada por juros elevados desde setembro do ano passado; resultados são ligeiramente acima dos previstos pelo mercado"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/09/2-razoes-pelas-quais-os-clubes-de-corrida-sao-os-mais-novos-centros-sociais/",
         "title": "2 Razões Pelas Quais os \"Clubes de Corrida\" São os Mais Novos Centros Sociais",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/corrida-300x200.jpg",
@@ -15,7 +29,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/09/negocios-e-regulamentacao-da-ia-o-que-muda-com-a-chegada-da-openai-ao-brasil/",
-        "title": "Negócios e Regulamentação da IA: O que Muda com a Chegada da OpenAI ao Brasil",
+        "title": "Negócios e Regulamentação: O que Muda com a Chegada da OpenAI ao Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Nicolas-Andrade-OpenAI-Brasil-300x200.png",
         "date": "02/09/2025",
         "description": "Em entrevista à Forbes Brasil, Nicolas Andrade, diretor de políticas públicas da OpenAI para a América Latina, fala sobre a aterrissagem da companhia em São Paulo"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/boreout-tedio-carreira-burnout-trabalho-lumi-nola-300x200.jpg",
         "date": "02/09/2025",
         "description": "Saiba diferenciar o tédio do esgotamento no trabalho e como transformá-lo em motor de crescimento"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/por-que-alimentos-salgados-citricos-e-agridoces-se-tornaram-a-nova-obsessao-da-geracao-z/",
-        "title": "Por Que Alimentos Salgados, Cítricos e Agridoces se Tornaram a Nova Obsessão da Geração Z",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_alimentos_02set25_Getty-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Os bastidores que explicam os fenômenos foodies e o que eles dizem à agroindústria que monitora tendências"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/conab-anuncia-r-300-milhoes-para-apoiar-produtores-de-arroz-no-brasil/",
-        "title": "Conab Anuncia R$ 300 Milhões para Apoiar Produtores de Arroz no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Arroz-300x200.jpg",
-        "date": "01/09/2025",
-        "description": "Os estoques públicos formados com o arroz adquirido pelo governo podem ser usados em situações de crise"
     }
 ]
