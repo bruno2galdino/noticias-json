@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/09/2-razoes-pelas-quais-os-clubes-de-corrida-sao-os-mais-novos-centros-sociais/",
+        "title": "2 Razões Pelas Quais os \"Clubes de Corrida\" São os Mais Novos Centros Sociais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/corrida-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Ultimamente, houve um aumento nos clubes de corrida, mas o que está realmente por trás desse interesse repentino em correr em grupo, em vez de sozinho?"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/09/sintomas-diagnostico-e-tratamento-entenda-os-principais-pontos-sobre-a-leucemia/",
+        "title": "Sintomas, Diagnóstico e Tratamento: Entenda os Principais Pontos sobre a Leucemia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-6-300x200.png",
+        "date": "02/09/2025",
+        "description": "Mais de 11 mil brasileiros recebem o diagnóstico da doença por ano, segundo o INCA"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/negocios-e-regulamentacao-da-ia-o-que-muda-com-a-chegada-da-openai-ao-brasil/",
+        "title": "Negócios e Regulamentação da IA: O que Muda com a Chegada da OpenAI ao Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Nicolas-Andrade-OpenAI-Brasil-300x200.png",
+        "date": "02/09/2025",
+        "description": "Em entrevista à Forbes Brasil, Nicolas Andrade, diretor de políticas públicas da OpenAI para a América Latina, fala sobre a aterrissagem da companhia em São Paulo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/apple-watch-ultra-3-esta-a-poucos-dias-de-distancia-veja-o-que-esta-por-vir/",
+        "title": "Apple Watch Ultra 3 Está a Poucos Dias de Distância; Veja o Que Está por Vir",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/AppleWatch-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "O código do iOS 26 beta sugere que a tela será melhorada em cerca de 12 pixels em cada direção, o que a tornaria a maior tela de um Apple Watch até o momento"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2025/09/a-revolucao-do-marketing-licoes-de-criatividade-adaptacao-e-inovacao-da-coca-cola-brasil/",
+        "title": "A Revolução do Marketing: Lições de Criatividade, Adaptação e Inovação da Coca-Cola Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/TedKett-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Em participação na nova temporada do podcast Forbes MKT, Ted Ketterer, CMO da Coca-Cola Brasil, explica como a empresa reforça a conexão com os consumidores por meio de collabs e inovação"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/uma-jornada-pelo-japao-atraves-de-tres-experiencias-four-seasons/",
+        "title": "Uma Jornada Pelo Japão Através de Três Experiências Four Seasons",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.A-area-externa-do-Four-Seasons-Kyoto-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "De templos ancestrais em Quioto à modernidade de Tóquio e à efervescência de Osaka, rede canadense consolida experiência de hospitalidade no país"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/mercado-privado-passa-a-ser-o-novo-simbolo-de-exclusividade-no-mundo-dos-investimentos/",
+        "title": "Mercado Privado Passa a ser o Novo Símbolo de Exclusividade no Mundo dos Investimentos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-1536x1024-1-e1654788080105-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Private equity, venture capital e club deals substituem os offshores como símbolos de sofisticação financeira, mas o acesso segue restrito"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/4-sinais-de-que-voce-esta-com-boreout-e-nao-burnout/",
+        "title": "Boreout ou Burnout? 4 Sinais para Identificar a Diferença",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/boreout-tedio-carreira-burnout-trabalho-lumi-nola-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Saiba diferenciar o tédio do esgotamento no trabalho e como transformá-lo em motor de crescimento"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/por-que-alimentos-salgados-citricos-e-agridoces-se-tornaram-a-nova-obsessao-da-geracao-z/",
         "title": "Por Que Alimentos Salgados, Cítricos e Agridoces se Tornaram a Nova Obsessão da Geração Z",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_alimentos_02set25_Getty-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Arroz-300x200.jpg",
         "date": "01/09/2025",
         "description": "Os estoques públicos formados com o arroz adquirido pelo governo podem ser usados em situações de crise"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/analistas-veem-positivamente-entrada-do-mercado-livre-no-setor-farmaceutico-mas-efeito-limitado-no-curto-prazo/",
-        "title": "Analistas Veem Positivamente Entrada do Mercado Livre no Setor Farmacêutico, Mas Efeito Limitado no Curto Prazo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Logo-do-Mercado-Livre-300x200.jpg",
-        "date": "01/09/2025",
-        "description": "O Mercado Livre confirmou \"a possível aquisição de uma empresa que comercializa medicamentos\""
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/presidente-do-brb-mostra-confianca-em-conclusao-de-aquisicao-de-ativos-do-master/",
-        "title": "Presidente do BRB Mostra Confiança em Conclusão de Aquisição de Ativos do Master",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Logo-do-BRB-na-sede-do-banco-em-Brasilia-300x200.jpg",
-        "date": "01/09/2025",
-        "description": "Costa afirmou que \"até agora não temos conhecimento de nenhuma ação ou investigação que estão dentro do nosso perímetro de operação\""
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/09/bndes-seleciona-fundos-para-projetos-de-economia-verde/",
-        "title": "BNDES Seleciona Fundos para Projetos de Economia \"Verde\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Logo-do-BNDES-300x200.jpg",
-        "date": "01/09/2025",
-        "description": "O braço de participações BNDESPAR terá até 25% de envolvimento no capital comprometido"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/india-retira-restricoes-a-materias-primas-para-producao-de-etanol/",
-        "title": "Índia Retira Restrições a Matérias-primas para Produção de Etanol",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Canavial-300x200.jpg",
-        "date": "01/09/2025",
-        "description": "A Índia havia restringido a produção no atual ano comercial devido a uma queda na oferta de cana-de-açúcar"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/australia-deve-ter-safra-de-trigo-acima-da-media-em-2025-diz-governo/",
-        "title": "Austrália Deve Ter Safra de Trigo Acima da Média em 2025, Diz Governo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Plantacao-de-trigo-300x200.jpg",
-        "date": "01/09/2025",
-        "description": "Espera-se que a produção de cevada e canola aumente, com a produção de ambas as culturas provavelmente acima da média"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/jp-morgan-ve-brasil-acima-da-media-entre-paises-latinos-e-projeta-selic-em-1075/",
-        "title": "JP Morgan vê Brasil Acima da Média e Projeta Selic em 10,75%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/carreira-JPMorgan--300x200.webp",
-        "date": "01/09/2025",
-        "description": "Na dança das cadeiras, Banco do Brasil saiu do portfólio da gigante de serviços financeiros, e Nubank ganhou espaço"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/apos-recorde-em-agosto-bolsa-comeca-setembro-em-queda/",
-        "title": "Após Recorde em Agosto, Bolsa Começa Setembro em Queda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/fechamento-money-4-300x200.png",
-        "date": "01/09/2025",
-        "description": "O dia foi de movimento baixo devido ao feriado nos Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/nestle-demite-ceo-por-relacionamento-amoroso-com-subordinada/",
-        "title": "Nestlé Demite CEO por Relacionamento Amoroso com Subordinada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-laurent-freixe-nestle-300x200.jpg",
-        "date": "01/09/2025",
-        "description": "Companhia nomeou Philipp Navratil como sucessor de Laurent Freixe"
     }
 ]
