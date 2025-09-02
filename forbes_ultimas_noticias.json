@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/puxado-por-wall-street-ibovespa-cai-e-dolar-sobe/",
+        "title": "Puxado por Wall Street, Ibovespa Cai e Dólar Sobe",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-300x200.png",
+        "date": "02/09/2025",
+        "description": "Temores fiscais nos Estados Unidos derrubaram os principais índices da Bolsa de Nova York"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/ricardo-almeida-abre-loja-conceito-no-shopping-higienopolis/",
+        "title": "Ricardo Almeida Abre Loja Conceito no Shopping Higienópolis",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Divulgacao-Ricardo-Almeida-8-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Após quatro décadas de história, a marca inaugura espaço que reflete seu olhar inquieto, une tradição e futuro e apresenta uma nova identidade visual"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/projecao-de-25-do-pib-para-2025-tem-vies-de-baixa-diz-fazenda/",
         "title": "Projeção de 2,5% do PIB para 2025 tem Viés de Baixa, diz Fazenda",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Porto-de-Oakland-economia-dos-EUA-Money-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Money_saude_medicamentos_Unsplash-300x200.jpg",
         "date": "02/09/2025",
         "description": "Agência dos EUA pressiona para menos testes em animais; entenda"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/09/o-cuidado-que-comeca-no-limite-por-que-dizer-nao-a-familia-e-um-ato-de-amor/",
-        "title": "O Cuidado Que Começa no Limite: Por Que Dizer 'Não' À Família É um Ato de Amor",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1431406266-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Estabelecer fronteiras nas relações afetivas não é afastamento, é autoconsciência: um gesto de amor-próprio que preserva laços e protege a saúde emocional"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/kraft-heinz-se-divide-em-duas-visando-crescimento/",
-        "title": "Kraft Heinz se Divide em Duas Visando Crescimento",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/06/agro_Heinz_09jun23_Guettyimages-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Empresa diz que cisão histórica visa liberar o potencial de marcas icônicas e impulsionar o crescimento dez anos após fusão, que se mostrou malsucedida no decorrer do tempo"
     }
 ]
