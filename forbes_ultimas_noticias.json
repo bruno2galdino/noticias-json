@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/09/o-cuidado-que-comeca-no-limite-por-que-dizer-nao-a-familia-e-um-ato-de-amor/",
+        "title": "O Cuidado Que Começa no Limite: Por Que Dizer 'Não' À Família É um Ato de Amor",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1431406266-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Estabelecer fronteiras nas relações afetivas não é afastamento, é autoconsciência: um gesto de amor-próprio que preserva laços e protege a saúde emocional"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/kraft-heinz-se-divide-em-duas-visando-crescimento/",
+        "title": "Kraft Heinz se Divide em Duas Visando Crescimento",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/06/agro_Heinz_09jun23_Guettyimages-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Empresa diz que cisão histórica visa liberar o potencial de marcas icônicas e impulsionar o crescimento dez anos após fusão, que se mostrou malsucedida no decorrer do tempo"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/atlas-schindler-tem-nova-cto-para-a-america-latina/",
+        "title": "Atlas Schindler Tem Nova CTO na América Latina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-cto-atlas-schindler-Thaize-Schmitz-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Thaize Schmitz, engenheira com passagens por Embraco e Tigre, sucede a Humberto Ebram, que assume como CTO do grupo na China"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/cosan-discute-com-shell-estrategia-de-reforco-de-capital-da-raizen/",
         "title": "Cosan Discute com Shell Estratégia de Reforço de Capital da Raízen",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cana_02set25_Elzauer_Getty-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-6-300x200.png",
         "date": "02/09/2025",
         "description": "Mais de 11 mil brasileiros recebem o diagnóstico da doença por ano, segundo o INCA"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/negocios-e-regulamentacao-da-ia-o-que-muda-com-a-chegada-da-openai-ao-brasil/",
-        "title": "Negócios e Regulamentação: O que Muda com a Chegada da OpenAI ao Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Nicolas-Andrade-OpenAI-Brasil-300x200.png",
-        "date": "02/09/2025",
-        "description": "Em entrevista à Forbes Brasil, Nicolas Andrade, diretor de políticas públicas da OpenAI para a América Latina, fala sobre a aterrissagem da companhia em São Paulo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/apple-watch-ultra-3-esta-a-poucos-dias-de-distancia-veja-o-que-esta-por-vir/",
-        "title": "Apple Watch Ultra 3 Está a Poucos Dias de Distância; Veja o Que Está por Vir",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/AppleWatch-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "O código do iOS 26 beta sugere que a tela será melhorada em cerca de 12 pixels em cada direção, o que a tornaria a maior tela de um Apple Watch até o momento"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/09/a-revolucao-do-marketing-licoes-de-criatividade-adaptacao-e-inovacao-da-coca-cola-brasil/",
-        "title": "A Revolução do Marketing: Lições de Criatividade, Adaptação e Inovação da Coca-Cola Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/TedKett-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Em participação na nova temporada do podcast Forbes MKT, Ted Ketterer, CMO da Coca-Cola Brasil, explica como a empresa reforça a conexão com os consumidores por meio de collabs e inovação"
     }
 ]
