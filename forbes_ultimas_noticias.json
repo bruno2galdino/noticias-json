@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/cosan-discute-com-shell-estrategia-de-reforco-de-capital-da-raizen/",
+        "title": "Cosan Discute com Shell Estratégia de Reforço de Capital da Raízen",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cana_02set25_Elzauer_Getty-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Controladores analisam alternativas para reduzir dívida e atrair parceiros em meio a perdas bilionárias"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/09/dupla-de-luisa-stefani-vence-3a-seguida-e-vai-as-quartas-do-us-open/",
+        "title": "Dupla de Luisa Stefani Vai Às Quartas do US Open",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/tenis-luisa-stefani-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Ao lado da húngara Timea Babos, brasileira volta à quadra nesta terça"
+    },
+    {
         "url": "https://forbes.com.br/forbes-cast/2025/09/royal-prestige-aposta-em-vendas-diretas-para-transformar-vidas-de-empreendedores/",
         "title": "Royal Prestige Aposta em Vendas Diretas para Transformar Vidas de Empreendedores",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/podcast-royal-prestige_paulo-modelo-300x200.jpg",
@@ -12,6 +26,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/M1-PIB-Fabrica-Claraboia-Filmes-CNI-300x200.jpg",
         "date": "02/09/2025",
         "description": "IBGE credita o baixo avanço ao impacto da política monetária, marcada por juros elevados desde setembro do ano passado; resultados são ligeiramente acima dos previstos pelo mercado"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/brandvoice-fg-empreendimentos-engenharia-se-transforma-em-arte-e-legado/",
+        "title": "Engenharia se Transforma em Arte e Legado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/senna-tower-fg-empreendimentos-bv-300x200.png",
+        "date": "02/09/2025",
+        "description": "Com mais de 550 metros, Senna Tower, da FG Empreendimentos, une luxo, inovação e o legado do tricampeão de Fórmula 1 em Balneário Camboriú"
     },
     {
         "url": "https://forbes.com.br/forbessaude/2025/09/2-razoes-pelas-quais-os-clubes-de-corrida-sao-os-mais-novos-centros-sociais/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/TedKett-300x200.jpg",
         "date": "02/09/2025",
         "description": "Em participação na nova temporada do podcast Forbes MKT, Ted Ketterer, CMO da Coca-Cola Brasil, explica como a empresa reforça a conexão com os consumidores por meio de collabs e inovação"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/uma-jornada-pelo-japao-atraves-de-tres-experiencias-four-seasons/",
-        "title": "Uma Jornada Pelo Japão Através de Três Experiências Four Seasons",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.A-area-externa-do-Four-Seasons-Kyoto-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "De templos ancestrais em Quioto à modernidade de Tóquio e à efervescência de Osaka, rede canadense consolida experiência de hospitalidade no país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/mercado-privado-passa-a-ser-o-novo-simbolo-de-exclusividade-no-mundo-dos-investimentos/",
-        "title": "Mercado Privado Passa a ser o Novo Símbolo de Exclusividade no Mundo dos Investimentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-1536x1024-1-e1654788080105-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Private equity, venture capital e club deals substituem os offshores como símbolos de sofisticação financeira, mas o acesso segue restrito"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/4-sinais-de-que-voce-esta-com-boreout-e-nao-burnout/",
-        "title": "Boreout ou Burnout? 4 Sinais para Identificar a Diferença",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/boreout-tedio-carreira-burnout-trabalho-lumi-nola-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Saiba diferenciar o tédio do esgotamento no trabalho e como transformá-lo em motor de crescimento"
     }
 ]
