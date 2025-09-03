@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/infomercial-priime-tech-a-transformacao-silenciosa-da-logistica-mundial/",
+        "title": "A Transformação Silenciosa da Logística Mundial",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/priime-tech-if--300x200.png",
+        "date": "03/09/2025",
+        "description": "Com soluções baseadas em inteligência artificial e atuação em operações críticas como portos, rodovias e fronteiras, a Priime Tech avança na liderança global"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/09/carla-madeira-sobre-novo-livro-adaptacoes-audiovisual/",
+        "title": "Carla Madeira sobre Novo Livro: “Não Estou Preocupada em Agradar ou Vender”",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/mulher-carla-madeira-300x200.jpg",
+        "date": "03/09/2025",
+        "description": "À Forbes, a autora brasileira mais lida nos últimos anos fala sobre processo criativo, adaptações de seus livros e antecipa detalhes da nova obra"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/nano-banana-conheca-a-ferramenta-de-ia-do-google-para-imagens-que-viralizou/",
+        "title": "Nano Banana: a Ferramenta de IA do Google Que Viralizou",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/05/carreira_ansiedade_alimentacao_11052021_-AdrinJacquierBretEyeEm_GettyImages.jpg",
+        "date": "03/09/2025",
+        "description": "O novo modelo do Google não gera vídeos diretamente, mas sua capacidade de manter a consistência de personagens em diferentes imagens é um avanço que pode revolucionar a produção de conteúdo visual, da publicidade à ficção"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/ritz-carlton-inaugura-safari-camp-inedito-no-quenia-por-r-19-mil-a-noite/",
+        "title": "Ritz-Carlton Inaugura Safári Camp Inédito no Quênia por R$ 19 Mil a Noite",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.The-Ritz-Carlton-Masai-Mara-Safari-Camp-300x200.jpg",
+        "date": "03/09/2025",
+        "description": "Primeiro projeto de safari do grupo reúne hospitalidade, cultura Maasai e ações de sustentabilidade"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/hm-studio-lanca-colecao-inspirada-na-arquitetura-de-sao-paulo/",
+        "title": "H&M Studio Lança Coleção Inspirada na Arquitetura de São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.A-HM-Studio-chega-ao-Brasil-homenageando-o-brutalismo-de-Sao-Paulo-300x200.jpg",
+        "date": "03/09/2025",
+        "description": "Em entrevista exclusiva à Forbes, a designer sueca Ann-Sofie Johansson revelou como o brutalismo paulistano inspirou a nova criação da linha Studio"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/09/3-maneiras-de-driblar-a-regra-do-pico-final-no-amor/",
+        "title": "3 Maneiras de Driblar a ‘Regra do Pico-Final’ no Amor",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/960x0-300x200.jpg",
+        "date": "03/09/2025",
+        "description": "Superar a “regra do pico-final” do amor pode ajudar você a lembrar do seu relacionamento de forma mais justa e a vivê-lo de maneira mais plena"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/schneider-electric-ve-brasil-como-vitrine-promissora/",
+        "title": "Schneider Electric Vê Brasil como Vitrine Promissora",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Manish-Pant-Vice-presidente-executivo-para-operacao-internacional-Schneider-Electric-300x200.png",
+        "date": "03/09/2025",
+        "description": "Empresa quer ampliar mercado no país, fornecendo soluções para data centers e aproveitando a abundância de recursos locais"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/09/como-fafa-de-belem-move-a-amazonia-rumo-a-cop30/",
+        "title": "Como Fafá de Belém Move a Amazônia Rumo À COP30",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Fafa-de-Belem_02set25_Bernardo_Medeiros_Forbes-300x200.jpg",
+        "date": "03/09/2025",
+        "description": "Entre a criação do Fórum Varanda da Amazônia e a preparação de Belém para receber a COP30, ela articula vozes plurais da região e cobra reconhecimento histórico para os povos e saberes do norte"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/puxado-por-wall-street-ibovespa-cai-e-dolar-sobe/",
         "title": "Puxado por Wall Street, Ibovespa Cai e Dólar Sobe",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-300x200.png",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Divulgacao-Ricardo-Almeida-8-300x200.jpg",
         "date": "02/09/2025",
         "description": "Após quatro décadas de história, a marca inaugura espaço que reflete seu olhar inquieto, une tradição e futuro e apresenta uma nova identidade visual"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/projecao-de-25-do-pib-para-2025-tem-vies-de-baixa-diz-fazenda/",
-        "title": "Projeção de 2,5% do PIB para 2025 tem Viés de Baixa, diz Fazenda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Porto-de-Oakland-economia-dos-EUA-Money-300x200.png",
-        "date": "02/09/2025",
-        "description": "A desaceleração no segundo trimestre ocorreu em ritmo mais acentuado do que o previsto em julho"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/09/novo-terremoto-atinge-afeganistao-numero-de-mortos-ultrapassa-1-400/",
-        "title": "Novo Terremoto Atinge Afeganistão; Número de Mortos Ultrapassa 1.400",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/terremoto-afeganistao-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Tremor secundário causou pânico e interrompeu os esforços de resgate"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/09/la-nina-pode-afetar-clima-a-partir-de-setembro-diz-organizacao-meteorologica-mundial/",
-        "title": "La Niña Pode Afetar Clima a Partir de Setembro, Diz Organização Meteorológica Mundial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-02T131646Z_1_LYNXMPEL810NZ_RTROPTP_4_CLIMATE-CHANGE-UN-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Com 55% de chance de formação nos próximos meses, fenômeno climático pode trazer riscos e oportunidades para diversos setores econômicos e de saúde pública"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/demanda-por-fertilizantes-no-brasil-deve-saltar-ate-2030-estima-governo/",
-        "title": "Demanda por Fertilizantes no Brasil Deve Saltar até 2030, Estima Governo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-02T135330Z_1_LYNXMPEL810OY_RTROPTP_4_BRAZIL-LOGISTICS-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Crescimento da agricultura e recuperação de pastagens devem impulsionar fortemente o uso de fertilizantes no Brasil até 2030"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/empresa-de-blockchain-figure-busca-avaliacao-de-ate-us-41-bilhoes-em-ipo-nos-eua/",
-        "title": "Empresa de Blockchain Figure Busca Avaliação de US$ 4,1 Bilhões em IPO",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/criptomoedas_forbesmoney-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Companhia é a mais recente empresa de criptomoedas a capitalizar o interesse renovado dos investidores em novas listagens no setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/emater-ve-queda-na-area-com-soja-no-rs-mas-salto-na-produtividade-com-clima-melhor/",
-        "title": "Emater Vê Queda na Área com Soja no RS Mas Salto na Produtividade com Clima Melhor",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-02T144853Z_1_LYNXMPEL810R5_RTROPTP_4_BRAZIL-SOY-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Com menos área, mas mais produtividade, a soja no RS pode se recuperar da seca se o clima colaborar"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/com-expo-arterea-projeto-ar-esquenta-a-cena-da-arte-em-sp/",
-        "title": "Com Expo Arterea, Projeto AR Esquenta a Cena da Arte em SP",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Intervencoes-no-espaco-externo-da-mostra-Arterea-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Camila Yunes Guarita, Fernanda Abdalla e Teodoro Bava estão à frente da iniciativa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/descoberta-de-medicamentos-impulsionada-por-ia-cresce/",
-        "title": "Descoberta de Medicamentos Impulsionada por IA Cresce",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Money_saude_medicamentos_Unsplash-300x200.jpg",
-        "date": "02/09/2025",
-        "description": "Agência dos EUA pressiona para menos testes em animais; entenda"
     }
 ]
