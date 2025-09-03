@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/406792-usuarios-acusam-a-microsoft-de-praticar-obsolescencia-programada-com-o-fim-do-windows-10.htm",
+        "title": "Usuários acusam a Microsoft de praticar \"obsolescência programada\" com o fim do Windows 10",
+        "description": "O suporte para o Windows 10 chegará ao fim em breve, e consumidores dizem que a decisão configura prática de \"obsolescência programada\".",
+        "image": "https://tm.ibxk.com.br/2025/05/19/19093132848065.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/celular/406791-iphone-17-pro-max-vaza-em-video-e-confirma-design-inedito.htm",
         "title": "iPhone 17 Pro Max vaza em vídeo e confirma design inédito",
         "description": "Aparelho parece ter sido vazado em uma etapa de produção em massa, trazendo um novo módulo de câmeras retangular e grandioso.",
@@ -39,27 +46,6 @@
         "title": "China apresenta nova geração de mísseis nucleares, drones e mais armas",
         "description": "Lançadas por ar, terra ou mar, as novas armas nucleares chinesas são capazes de alcançar praticamente qualquer lugar na Terra.",
         "image": "https://tm.ibxk.com.br/2025/09/03/03113930820223.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/406788-acer-lanca-novos-nitro-v-16-com-rtx-5070-e-monitor-oled-de-720-hz.htm",
-        "title": "Acer lança novos Nitro V 16 com RTX 5070 e monitor OLED de 720 Hz",
-        "description": "Linha Nitro V 16 chega ao Brasil em breve, e a apresentação da marca ainda revelou uma atualização para o Predator Helios 18 AI com RTX 5090.",
-        "image": "https://tm.ibxk.com.br/2025/09/03/03112012279206.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406787-android-16-facilita-a-ativacao-do-modo-extra-escuro-entenda.htm",
-        "title": "Android 16 facilita a ativação do modo \"extra escuro\"; entenda",
-        "description": "O modo de brilho reduzido do Android agora é ativado no controle deslizante de brilho, e não mais em um botão dedicado no menu de Configurações Rápidas.",
-        "image": "https://tm.ibxk.com.br/2025/03/06/06121445840248.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/406784-apple-vision-air-headset-mais-leve-e-barato-saira-em-2027-diz-analista.htm",
-        "title": "Apple Vision Air: headset mais leve e barato sairá em 2027, diz analista",
-        "description": "Projeto de realidade mista é parte de plano de inovação em hardware da marca com meta de vender mais que o dobro do Vision Pro.",
-        "image": "https://tm.ibxk.com.br/2025/09/03/03105202199167.jpg",
         "date": null
     }
 ]
