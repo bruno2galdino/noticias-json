@@ -35,13 +35,6 @@
         "description": "Primeiro projeto de safari do grupo reúne hospitalidade, cultura Maasai e ações de sustentabilidade"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/2025/09/hm-studio-lanca-colecao-inspirada-na-arquitetura-de-sao-paulo/",
-        "title": "H&M Studio Lança Coleção Inspirada na Arquitetura de São Paulo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.A-HM-Studio-chega-ao-Brasil-homenageando-o-brutalismo-de-Sao-Paulo-300x200.jpg",
-        "date": "03/09/2025",
-        "description": "Em entrevista exclusiva à Forbes, a designer sueca Ann-Sofie Johansson revelou como o brutalismo paulistano inspirou a nova criação da linha Studio"
-    },
-    {
         "url": "https://forbes.com.br/forbessaude/2025/09/3-maneiras-de-driblar-a-regra-do-pico-final-no-amor/",
         "title": "3 Maneiras de Driblar a ‘Regra do Pico-Final’ no Amor",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/960x0-300x200.jpg",
@@ -68,5 +61,12 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-300x200.png",
         "date": "02/09/2025",
         "description": "Temores fiscais nos Estados Unidos derrubaram os principais índices da Bolsa de Nova York"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/ricardo-almeida-abre-loja-conceito-no-shopping-higienopolis/",
+        "title": "Ricardo Almeida Abre Loja Conceito no Shopping Higienópolis",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Divulgacao-Ricardo-Almeida-8-300x200.jpg",
+        "date": "02/09/2025",
+        "description": "Após quatro décadas de história, a marca inaugura espaço que reflete seu olhar inquieto, une tradição e futuro e apresenta uma nova identidade visual"
     }
 ]
