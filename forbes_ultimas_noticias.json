@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/livre-comercio-entre-ue-e-mercosul-sera-apresentado-para-aprovacao/",
+        "title": "Livre Comércio entre UE e Mercosul Será Apresentado Para Aprovação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-300x200.png",
+        "date": "03/09/2025",
+        "description": "Países como a Alemanha veem oportunidade para expansão do mercado, mas França é a principal opositora"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/tesouro-dos-eua-questiona-bancos-brasileiros-sobre-cumprimento-da-lei-magnitsky/",
+        "title": "Tesouro dos EUA Questiona Bancos Brasileiros sobre Cumprimento da Lei Magnitsky",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Alexandre-de-Moraes-STF-Sancao-dos-EUA-Geral-300x200.png",
+        "date": "03/09/2025",
+        "description": "O órgão do Tesouro norte-americano questionou quais ações foram ou estão sendo tomadas  para cumprir as sanções que determinam o congelamento dos ativos de Moraes nos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/saudita-salic-converte-posicao-na-brf-em-derivativos/",
+        "title": "Saudita Salic Converte Posição na BRF em Derivativos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_BRF_7AGO2025_RodolfoBuhrer_Reuters-300x200.jpg",
+        "date": "03/09/2025",
+        "description": "Segundo comunicado, transação envolveu a venda de mais de 185 mil ações da empresa brasileira"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/09/hm-studio-lanca-colecao-inspirada-na-arquitetura-de-sao-paulo/",
         "title": "H&M Studio Lança Coleção Inspirada na Arquitetura de São Paulo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.A-HM-Studio-chega-ao-Brasil-homenageando-o-brutalismo-de-Sao-Paulo-300x200.jpg",
@@ -7,7 +28,7 @@
         "description": "Em entrevista exclusiva à Forbes, a designer sueca Ann-Sofie Johansson revelou como o brutalismo paulistano inspirou a nova criação da linha Studio"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/09/abrir-um-novo-mercado-no-agro-e-uma-das-tarefas-mais-dificeis-que-existe-diz-carlos-cogo/",
+        "url": "https://forbes.com.br/forbes-money/2025/09/abrir-um-novo-mercado-no-agro-e-uma-das-tarefas-mais-dificeis-que-existe-diz-carlos-cogo/",
         "title": "“Abrir um Novo Mercado no Agro É uma das Tarefas Mais Difíceis Que Existe”, Diz Carlos Cogo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Carlos_Cogo_02set25_VOndei-300x200.jpg",
         "date": "03/09/2025",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/960x0-300x200.jpg",
         "date": "03/09/2025",
         "description": "Superar a “regra do pico-final” do amor pode ajudar você a lembrar do seu relacionamento de forma mais justa e a vivê-lo de maneira mais plena"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/schneider-electric-ve-brasil-como-vitrine-promissora/",
-        "title": "Schneider Electric Vê Brasil como Vitrine Promissora",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Manish-Pant-Vice-presidente-executivo-para-operacao-internacional-Schneider-Electric-300x200.png",
-        "date": "03/09/2025",
-        "description": "Empresa quer ampliar mercado no país, fornecendo soluções para data centers e aproveitando a abundância de recursos locais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/09/como-fafa-de-belem-move-a-amazonia-rumo-a-cop30/",
-        "title": "Como Fafá de Belém Move a Amazônia Rumo À COP30",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Fafa-de-Belem_02set25_Bernardo_Medeiros_Forbes-300x200.jpg",
-        "date": "03/09/2025",
-        "description": "Entre a criação do Fórum Varanda da Amazônia e a preparação de Belém para receber a COP30, ela articula vozes plurais da região e cobra reconhecimento histórico para os povos e saberes do norte"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/puxado-por-wall-street-ibovespa-cai-e-dolar-sobe/",
-        "title": "Puxado por Wall Street, Ibovespa Cai e Dólar Sobe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-300x200.png",
-        "date": "02/09/2025",
-        "description": "Temores fiscais nos Estados Unidos derrubaram os principais índices da Bolsa de Nova York"
     }
 ]
