@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/602005-todos-os-demonios-que-aparecerao-no-arco-demon-slayer-castelo-infinito.htm",
+        "title": "Todos os demônios que aparecerão no arco Demon Slayer: Castelo Infinito",
+        "description": "O anime está cheio de antagonistas poderosos, vem conferir quais deles aparecem no filme do Castelo Infinito",
+        "image": "https://tm.ibxk.com.br/2025/09/02/02170833317234.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/406767-brasil-vai-investir-r-23-bilhoes-em-politicas-de-ia-e-criar-banco-nacional-de-dados.htm",
+        "title": "Brasil vai investir R$ 23 bilhões em políticas de IA e criar banco nacional de dados",
+        "description": "Ministra da Gestão e da Inovação em Serviços Públicos detalhou políticas no setor com foco em manter infraestrutura e soberania",
+        "image": "https://tm.ibxk.com.br/2025/08/26/26135059785063.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406772-ameaca-persistente-silver-fox-explora-vulnerabilidade-em-drivers-para-instalar-malware-no-windows-11.htm",
+        "title": "Ameaça Persistente: Silver Fox explora vulnerabilidade em drivers para instalar malware no Windows 11",
+        "description": "Campanha espiona e rouba dados de órgãos públicos e empresas, mesmo após atualizações de segurança",
+        "image": "https://tm.ibxk.com.br/2025/09/02/02191735100040.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/406770-home-office-116-vagas-para-trabalho-remoto-0209.htm",
         "title": "Home office: 116 vagas para trabalho remoto [02/09]",
         "description": "Confira a seleção de vagas remotas da semana e encontre o seu trabalho home office!",
@@ -39,27 +60,6 @@
         "title": "Vídeo falso de Trump acusa STF de golpe de estado e chama Lula de “carniceiro”",
         "description": "Mais de 27 mil pessoas compartilharam o conteúdo falso, que mostra o presidente estadunidense falando em português por meio de uma IA",
         "image": "https://tm.ibxk.com.br/2025/09/02/02170807039224.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/406751-gboard-testa-opcao-para-ajustar-tamanho-da-fonte-de-forma-independente.htm",
-        "title": "Gboard testa opção para ajustar tamanho da fonte de forma independente",
-        "description": "O Gboard vai permitir ajustar o tamanho da fonte exibida na tela sem precisar mudar o tamanho em todo o sistema",
-        "image": "https://tm.ibxk.com.br/2025/03/20/20131349029385.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406765-o-futuro-do-atendimento-humanos-e-ias-vao-trabalhar-lado-a-lado.htm",
-        "title": "O futuro do atendimento: humanos e IAs vão trabalhar lado a lado",
-        "description": "Entenda como a IA está redefinindo a experiência do cliente e o que sua empresa precisa fazer para não ficar para trás.",
-        "image": "https://tm.ibxk.com.br/2025/09/02/02160058864166.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406764-operadora-do-nubank-lanca-servico-de-reserva-de-dados-e-nova-opcao-de-pagamento.htm",
-        "title": "Operadora do Nubank lança serviço de reserva de dados e nova opção de pagamento",
-        "description": "Segundo a NuCel, os gigabytes extras vão garantir a continuidade do acesso à internet até a próxima renovação da franquia contratada.",
-        "image": "https://tm.ibxk.com.br/2025/09/02/02153927510133.jpg",
         "date": null
     }
 ]
