@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/coluna/2025/09/liberdade-financeira-o-fim-da-corrida-dos-ratos-para-uma-vida-com-proposito/",
+        "title": "Liberdade Financeira: o Fim da Corrida dos Ratos para uma Vida com Propósito",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/05/Orcamento-1-300x200.jpg",
+        "date": "04/09/2025",
+        "description": "Essa busca por reconhecimento externo se transforma em um ciclo vicioso de consumo e frustração, comprometendo o futuro financeiro e a felicidade genuína"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/brandvoice-sofisa-visao-de-futuro-reconhecimento-global/",
         "title": "Visão de Futuro, Reconhecimento Global",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/sofisa-bv-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/960x0-1-300x200.jpg",
         "date": "04/09/2025",
         "description": "A psicologia afirma que expressar frustração com consciência pode ajudar a aliviar tensões acumuladas ao longo do dia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-e-dolar-caem-com-possibilidade-de-corte-de-juros-ganhando-forca-nos-eua/",
-        "title": "Com Possibilidade de Corte de Juros Ganhando Força nos EUA, Dólar Cai",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-1-300x200.png",
-        "date": "03/09/2025",
-        "description": "Dados do mercado de trabalho americano mostraram queda acima do esperado e reforçam cenário"
     }
 ]
