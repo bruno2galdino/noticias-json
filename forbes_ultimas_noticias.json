@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/lista-forbes-com-saverin-em-1o-lugar-confira-os-50-mais-ricos-de-singapura/",
+        "title": "Lista Forbes: Saverin Lidera Ranking dos 50 Mais Ricos de Singapura",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/saverin-300x200.webp",
+        "date": "04/09/2025",
+        "description": "Valor mínimo de entrada no ranking saltou de US$ 870 milhões para US$ 1 bilhão"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/ue-reconhece-brasil-como-livre-de-gripe-aviaria-permitindo-retomada-de-embarques-diz-favaro/",
+        "title": "UE Reconhece Brasil Como Livre de Gripe Aviária, Permitindo Retomada de Embarques, Diz Fávaro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/O-ministro-da-Agricultura-do-Brasil-Carlos-Favaro-300x200.jpg",
+        "date": "04/09/2025",
+        "description": "A União Europeia é um dos poucos destinos da carne de frango do Brasil que ainda não retomou as compras do produto brasileiro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/infomercial-goodstorage-self-storage-se-consolida-como-a-principal-solucao-para-a-falta-de-espaco-em-sao-paulo/",
+        "title": "Self Storage se Consolida Como a Principal Solução para a Falta de Espaço em São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/goodstorage_ago25-300x200.jpg",
+        "date": "04/09/2025",
+        "description": "Estudo encomendado pela GoodStorage aponta mudança de percepção do consumidor e revela um setor em plena expansão, impulsionado por novos hábitos de moradia e trabalho"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/09/empresa-de-ciberseguranca-sek-investida-do-patria-compra-netbr/",
         "title": "Empresa de Cibersegurança SEK, Investida do Pátria, Compra NetBR",
         "image": "https://forbes.com.br/wp-content/uploads/2020/12/negocios_computador_21dez2020_seksan-Mongkhonkhamsao_GettyImages.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/05/Orcamento-1-300x200.jpg",
         "date": "04/09/2025",
         "description": "Essa busca por reconhecimento externo se transforma em um ciclo vicioso de consumo e frustração, comprometendo o futuro financeiro e a felicidade genuína"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/brandvoice-sofisa-visao-de-futuro-reconhecimento-global/",
-        "title": "Visão de Futuro, Reconhecimento Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/sofisa-bv-300x200.png",
-        "date": "04/09/2025",
-        "description": "Sofisa é eleito novamente um dos melhores bancos do mundo pela Forbes"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/fim-da-espera-nfl-no-brasil-comeca-nesta-quinta-feira-4/",
-        "title": "Fim da Espera: NFL Começa Nesta Quinta-feira (4)",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/NFL-brasil-300x200.jpg",
-        "date": "04/09/2025",
-        "description": "País é o terceiro mercado consumidor do esporte, ficando atrás apenas de EUA e México"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/apple-iphone-17-pro-ultimo-relatorio-alega-mudanca-controversa-de-design/",
-        "title": "Apple iPhone 17 Pro: Último Relatório Alega Mudança Controversa",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/08/tech-iphone15-apple-22Ago23-Divulgacao-300x200.jpg",
-        "date": "04/09/2025",
-        "description": "O logotipo da Apple não será mais visto através de um painel transparente, mas aparecerá no próprio gabinete"
     }
 ]
