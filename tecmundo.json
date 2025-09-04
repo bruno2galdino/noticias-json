@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/406834-malware-abusa-de-vulnerabilidade-no-windows-pra-manipular-buscas-do-google.htm",
+        "title": "Malware abusa de vulnerabilidade no Windows pra manipular buscas do Google",
+        "description": "Grupo de hackers utiliza módulos maliciosos e exploits para controlar servidores vulneráveis sem ser detectado; entenda como!",
+        "image": "https://tm.ibxk.com.br/2025/09/04/04185258568006.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406832-bomba-de-combustivel-criptografada-sera-obrigatoria-em-postos.htm",
+        "title": "Bomba de combustível criptografada será obrigatória em postos",
+        "description": "A nova tecnologia, que objetiva prevenir o \"golpe da bomba baixa\", deverá ser adotada em todo o Brasil a partir de 2029.",
+        "image": "https://tm.ibxk.com.br/2025/09/04/04173434301015.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406824-grupo-de-hackers-chantageia-google-com-ameaca-de-vazamento-de-dados.htm",
+        "title": "Grupo de hackers chantageia Google com ameaça de vazamento de dados",
+        "description": "Scattered Lapsus$ Hunters pressiona Sundar Pichai a demitir dois analistas e ameaça vazar dados da empresa após ataque ligado ao incidente da Salesforce",
+        "image": "https://tm.ibxk.com.br/2025/09/04/04183928689002.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/406831-claro-vai-oferecer-chatgpt-plus-em-plano-de-assinatura.htm",
         "title": "Claro vai oferecer ChatGPT Plus em plano de assinatura",
         "description": "Assinantes do Claro Multi poderão resgatar um voucher de até 4 meses do ChatGPT Plus e clientes Claro poderão acessar o chatbot sem gastar franquia da internet",
@@ -46,20 +67,6 @@
         "title": "Controles GameSir, Thunderobot e mais para comprar nas lojas oficiais da Temu; confira",
         "description": "Confira agora 10 sugestões de controles e gamepads para comprar com desconto na Temu e garantir a diversão com comandos precisos no console, PC ou celular a preços que cabem no bolso; aproveite",
         "image": "https://tm.ibxk.com.br/2025/09/04/04140553957035.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602021-morro-dos-ventos-uivantes-ganha-trailer-e-data-de-lancamento-tudo-sobre-o-filme.htm",
-        "title": "Morro dos Ventos Uivantes ganha trailer e data de lançamento! Tudo sobre o filme",
-        "description": "O Morro dos Ventos Uivantes tem gerado algumas polêmicas por suas escolhas de elenco",
-        "image": "https://tm.ibxk.com.br/2025/09/04/04134309089017.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406817-google-tera-que-pagar-us-425-milhoes-em-acao-sobre-coleta-de-dados-sem-autorizacao.htm",
-        "title": "Google terá que pagar US$ 425 milhões em ação sobre coleta de dados sem autorização",
-        "description": "A gigante das buscas escapou de uma multa ainda maior, após ser acusada de rastrear usuários mesmo depois que eles optaram por não compartilhar suas informações com o Google.",
-        "image": "https://tm.ibxk.com.br/2025/09/04/04115412725394.jpg",
         "date": null
     }
 ]
