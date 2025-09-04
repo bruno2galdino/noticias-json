@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/swiatek-admite-problemas-no-saque-e-discute-com-jornalista.html",
-        "title": "Swiatek admite problemas no saque e discute com jornalista",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/iga_usopen_saque_qf-1024x576.jpg",
+        "url": "https://tenisbrasil.uol.com.br/sabalenka-e-pegula-vao-abrir-semifinais-femininas-nesta-quinta-as-20h.html",
+        "title": "Sabalenka e Pegula vão abrir semifinais femininas nesta quinta às 20h",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/sabalen-1024x582.jpg",
         "date": "03/09/2025",
-        "description": "Nova York (EUA)– Atual número 2 do mundo, Iga Swiatek foi eliminada nas quartas de final do US Open apósderrota em sets diretos para Amanda Anisimova, por 6/4 e 6/3, em 1h36. Campeã em Nova York em 2022, a polonesa não conseguiu repetir o desempenho da final de Wimbledon, há menos de dois meses, quando havia aplicado um raro duplo 6/0 sobre a rival."
+        "description": "Nova York (EUA) –Finalistas da edição passada do US Open, Aryna Sabalenka e Jessica Pegula voltam a se enfrentar nesta quinta-feira, às 20h (de Brasília), na abertur da programação de semifinais femininas em Nova York."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/veja-o-treino-com-corda-de-fernandez-foi-uma-semana-e-meia-incrivel.html",
+        "title": "Veja o treino com corda de Fernandez. “Foi uma semana e meia incrível.”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/Leylah_Fernandez_USOpen_Jimmie48_WTA.jpg",
+        "date": "03/09/2025",
+        "description": "Nova York (EUA) –Todos nós já vimos as habilidades de Leylah Fernandez na quadra, mas você já viu como ela pula corda? A canadense mostrou muita habilidade no manejo da corda no aquecimento para a partida de quartas de final de duplas no US Open na terça-feira, em que ela e Venus Williams perderam por 6/1 e 6/2 para a parceria cabeça de chave número 1, Taylor Townsend e Katerina Siniakova."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-03-09.html",
@@ -12,6 +19,27 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/05/thaisa_pedretti_rioclaro_web.jpg",
         "date": "03/09/2025",
         "description": "US Open (Nova York, EUA) – Sintético – US$ 90 milhõesJuvenil – Masculino – Oitavas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/osaka-elimina-muchova-e-volta-a-semi-do-us-open-apos-cinco-anos.html",
+        "title": "Osaka elimina Muchova e volta à semi do US Open após cinco anos",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/osaka_uso_back_qf-1024x576.jpg",
+        "date": "03/09/2025",
+        "description": "Nova York (EUA) –Bicampeã do US Open em 2018 e 2020, Naomi Osaka volta a fazer uma grande campanha em Nova York e está de volta à semifinal do torneio depois de cinco anos. A ex-número 1 do mundo venceu a tcheca Karolina Muchova, 13ª do ranking, por 6/4 e 7/6 (7-2) em 1h49 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/e-a-vitoria-mais-significativa-da-minha-vida-celebra-anisimova.html",
+        "title": "“É a vitória mais significativa da minha vida”, celebra Anisimova",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/anisimova-acena-us-open-2025-1024x576.jpg",
+        "date": "03/09/2025",
+        "description": "Nova York (EUA)– Amanda Anisimova viveu nesta quarta-feira um dos momentos mais marcantes da carreira. Pouco menos de dois meses após a dura derrota na decisão de Wimbledon, quando perdeu por duplo 6/0 para Iga Swiatek, a norte-americana de 24 anosconseguiu dar a volta por cima em grande estilo, superando a polonesa por 6/4 e 6/3 para alcançar pela primeira vez a semifinal do US Open."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/swiatek-admite-problema-no-saque-e-discute-com-jornalista.html",
+        "title": "Swiatek admite problemas no saque e discute com jornalista",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/iga_usopen_saque_qf-1024x576.jpg",
+        "date": "03/09/2025",
+        "description": "Nova York (EUA)– Atual número 2 do mundo, Iga Swiatek foi eliminada nas quartas de final do US Open apósderrota em sets diretos para Amanda Anisimova, por 6/4 e 6/3, em 1h36. Campeã em Nova York em 2022, a polonesa não conseguiu repetir o desempenho da final de Wimbledon, há menos de dois meses, quando havia aplicado um raro duplo 6/0 sobre a rival."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/pena-e-rodrigues-caem-em-tres-sets-no-tenis-em-cadeira-de-rodas-do-us-open.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/pigossi_blois_fore-1024x596.jpg",
         "date": "03/09/2025",
         "description": "Guadalajara (México) –Depois de tervencido sua partida de estreiana última segunda-feira, Laura Pigossi parou na segunda rodada WTA 125 de Guadalajara, em quadras duras no México. A número 2 do Brasil e 205ª do mundo foi superada pela britânicaFrancesca Jones, 89ª do ranking, que marcou um duplo 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-e-pegula-vao-abrir-semifinais-femininas-nesta-quinta-as-20h.html",
-        "title": "Sabalenka e Pegula vão abrir semifinais femininas nesta quinta às 20h",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/sabalen-1024x582.jpg",
-        "date": "03/09/2025",
-        "description": "Nova York (EUA) –Finalistas da edição passada do US Open, Aryna Sabalenka e Jessica Pegula voltam a se enfrentar nesta quinta-feira, às 20h (de Brasília), na abertur da programação de semifinais femininas em Nova York."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/anisimova-consegue-revanche-contra-iga-e-faz-sua-terceira-semi-de-slam.html",
-        "title": "Anisimova consegue revanche contra Iga e faz sua terceira semi de Slam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/anisimova_usopen_coracao-1024x576.jpg",
-        "date": "03/09/2025",
-        "description": "Nova York (EUA) –Menos de dois meses depois de protagonizarem a final de Wimbledon, que ficou marcada pelo atípico placar de duplo 6/0, Iga Swiatek e Amanda Anisimova voltaram a se enfrentar nesta quarta-feira, em jogo válido pelas quartas de final do US Open. E depois da conquista da polonesa nas quadras de grama, a norte-americana conseguiu se recuperar jogando em casa e venceu por 6/4 e 6/3 em 1h36 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/porto-alegre-recebe-tres-torneios-profissionais-de-beach-tennis.html",
-        "title": "Porto Alegre recebe três torneios profissionais de beach tennis",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/kudinova.jpg",
-        "date": "03/09/2025",
-        "description": "Porto Alegre (RS) –A capital gaúcha recebe, entre os dias 9 e 14 de setembro, no B Club, o BT 100 de Porto Alegre – Drop Shot 15 Anos, torneio de beach tennis valendo pontos no ranking mundial da Federação Internacional de Tênis."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/confira-a-virada-de-aliassime-diante-do-australiano.html",
-        "title": "Confira a virada de Aliassime diante do australiano nas quartas",
-        "image": null,
-        "date": "03/09/2025",
-        "description": ""
     }
 ]
