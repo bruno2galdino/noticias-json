@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-05-09.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/Monteiro-comoch_slice-1024x682.jpg",
+        "date": "05/09/2025",
+        "description": "Challenger de Gênova (Itália) – Saibro – 181.250 eurosQuartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pegula-lamenta-a-quebra-sofrida-no-comeco-do-terceiro-set.html",
+        "title": "Pegula lamenta a quebra sofrida no começo do terceiro set",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/pegula-usopen-estica-2025-1024x681.jpg",
+        "date": "05/09/2025",
+        "description": "Nova York (EUA)– Na reedição da última final do US Open, desta vez nas semifinais, a norte-americana Jessica Pegula mais uma vez foi superada pela bielorrussa Aryna Sabalenka. Mesmo depois de vencer o primeiro set, a tenista da casa acabou levando a virada, perdendo o terceiro set com uma quebra logo no primeiro game que ela não conseguiu recuperar depois."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sabalenka-comemora-nova-final-e-quer-provar-que-pode-fazer-melhor.html",
+        "title": "Sabalenka comemora nova final e quer provar que pode fazer melhor",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/sabalenka-usopen-olhabola-2025-1024x681.jpg",
+        "date": "05/09/2025",
+        "description": "Nova York (EUA)– Derrotada nas duas últimas finais de Grand Slam que disputou, ficando com o vice-campeonato neste ano do Australian Open e de Roland Garros, a bielorrussa Aryna Sabalenka terá mais uma chance de vencer um título importante. Ao bater a norte-americana Jessica Pegula na noite de quinta-feira, ela se garantiu na decisão do US Open."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/raducanu-vai-manter-o-trabalho-com-roig-pelo-menos-ate-o-fim-do-ano.html",
+        "title": "Raducanu vai manter o trabalho com Roig pelo menos até o fim do ano",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/Emma_Raducanu_-_Cincinnati_Open_2025_-_Day_1-DSC_9890_xgaplus.jpg",
+        "date": "05/09/2025",
+        "description": "Nova York (EUA)– A britânica Emma Raducanu enfrentou momentos de baixa, sofreu com lesões, oscilou bastante e os resultados não vieram desde a conquista do US Open em 2021. Porém, ela parece estar reencontrando o caminho nesta temporada, em que conseguiu ser mais consistente ao lado do treinador Francis Roig."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/djokovic-infelizmente-nick-nao-teve-a-disciplina-necessaria.html",
         "title": "Djokovic: “Infelizmente, Nick não teve a disciplina necessária”",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/12/djokovic-kyrgios-brisbane-2025-e1735559352367-1024x683.jpg",
@@ -7,18 +35,18 @@
         "description": "Nova York (EUA)– Depois de um começo de trocas de farpas, Nick Kyrgios e Novak Djokovic se aproximaram e hoje em dia são mais do que colegas de trabalho, tanto que o sérvio chegou a falar sobre o amigo australiano em conversas com a imprensa de seu país. Segundo relata oSportklub, ele elogiou bastante Nick e também lamentou sua falta de comprometimento."
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/confira-a-vitoria-de-anisimova-de-virada-sobre-osaka-na-semifinal.html",
+        "title": "Confira a vitória de Anisimova de virada sobre Osaka na semifinal",
+        "image": null,
+        "date": "05/09/2025",
+        "description": ""
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/netflix-ira-transmitir-a-exibicao-six-kings-slam.html",
         "title": "Netflix irá transmitir a exibição Six Kings Slam",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/6-Kings-Slam-2025-Group-scaled-1-1024x576.jpeg",
         "date": "05/09/2025",
         "description": "Riad (Arábia Saudita)– Cada vez mais se aproximando dos eventos esportivos e suas transmissões, a Netflix anunciou que será a responsável por transmitir a milionária exibição Six Kings Slam, que acontece na Arábia Saudita entre 15 e 18 de outubro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-05-09.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/Monteiro-comoch_slice-1024x682.jpg",
-        "date": "05/09/2025",
-        "description": "Challenger de Gênova (Itália) – Saibro – 181.250 eurosQuartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/tres-homens-de-olho-na-historia-e-um-estranho-no-ninho.html",
@@ -40,33 +68,5 @@
         "image": null,
         "date": "05/09/2025",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/granollers-e-zeballos-desafiam-britanicos-em-busca-do-2o-slam.html",
-        "title": "Granollers e Zeballos desafiam britânicos em busca do 2º Slam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/granollers_zeballos_usopen_semi-1024x576.jpg",
-        "date": "04/09/2025",
-        "description": "Nova York (EUA) –Depois de conquistarem o primeiro Grand Slam juntos em Roland Garros, o espanhol Marcel Granollers e o argentino Horacio Zeballos estão em mais uma final de Grand Slam e garantiram vaga na final de duplas masculinas do US Open. Eles superaram os norte-americanos Robert Cash e JJ Tracy por 6/3, 3/6 e 6/1."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/borg-se-recupera-de-agressivo-cancer-na-prostata.html",
-        "title": "Borg se recupera de agressivo câncer na próstata",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/borg.jpg",
-        "date": "04/09/2025",
-        "description": "Nova York (EUA) — O multicampeão de Grand Slam e ex-número 1 do mundo Bjorn Borg revela no último capítulo de seu próximo livro de memórias, intitulado“Heartbeats”, que foi diagnosticado com câncer de próstata “extremamente agressivo” e precisou passar por cirurgia em 2024. A informação foi divulgada pela agência norte-americana Associated Press."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-vira-o-jogo-e-disputa-a-terceira-final-seguida-no-us-open.html",
-        "title": "Sabalenka vira o jogo e disputa a terceira final seguida no US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/Sabalenka_uso_vibra_semi_FFT-1024x499.jpg",
-        "date": "04/09/2025",
-        "description": "Nova York (EUA) –Pelo terceiro ano consecutivo, Aryna Sabalenka disputará a final do US Open. Atual campeã do torneio e vice em 2023, a número 1 do mundo superou nesta quinta-feira a norte-americana Jessica Pegula por 4/6, 6/3 e 6/4 em 2h05 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/gimenez-faz-quartas-na-polonia-daniel-e-sakamoto-caem-na-argentina.html",
-        "title": "Gimenez faz quartas na Polônia, Daniel e Sakamoto caem na Argentina",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/gimenez_joinville_slice.jpg",
-        "date": "04/09/2025",
-        "description": "Haren (Holanda) –No encontro entre dois jogadores brasileiros, Igor Gimenez levou a melhor sobre Nicolas Zanellato e avançou às quartas de final do ITF M15 de Szczawno, em quadras de saibro na Polônia."
     }
 ]
