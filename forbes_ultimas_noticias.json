@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/brandvoice-prime-you-a-nova-era-da-propriedade-compartilhada/",
+        "title": "A Nova era da Propriedade Compartilhada",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/prime-you-bv-300x200.png",
+        "date": "05/09/2025",
+        "description": "Empresa líder na América do Sul, Prime You transforma o compartilhamento de ativos de alto valor agregado em experiência de luxo, com gestão completa e otimização do investimento"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/09/o-proximo-emprego-da-ia-recrutar-pessoas-para-treinar-maquinas/",
         "title": "O Próximo Emprego da IA? Recrutar Pessoas Para Treinar Máquinas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-fundador-ceo-mercor-brendan-foody-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
         "date": "04/09/2025",
         "description": "Em agosto, a China tomou 84% do total das exportações brasileiras de soja, versus 75% da média dos últimos quatro anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/conab-alerta-para-impacto-das-tarifas-dos-eua-no-mercado-de-cafe/",
-        "title": "Conab Alerta para Impacto das Tarifas dos Eua no Mercado de Café",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Cafe-300x200.jpg",
-        "date": "04/09/2025",
-        "description": "Os EUA são o maior consumidor de café do mundo, enquanto o Brasil é o primeiro produtor e exportador"
     }
 ]
