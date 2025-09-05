@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/apos-payroll-abaixo-do-esperado-ibovespa-tem-novo-recorde-historico/",
+        "title": "Após Payroll Abaixo do Esperado, Ibovespa Tem Novo Recorde Histórico",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-3-300x200.png",
+        "date": "05/09/2025",
+        "description": "Tendência é que ainda em setembro a margem de juros dos EUA sofra o primeiro corte em nove meses"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/brasil-pode-colher-mais-de-180-mi-t-de-soja-em-25-26-com-recuperacao-do-rs-diz-safras/",
+        "title": "Brasil Pode Colher Mais de 180 Mi t de Soja em 25/26, com Recuperação do RS, Diz Safras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-05T171815Z_1_LYNXMPEL840T2_RTROPTP_4_INDIA-PORTS-300x200.jpg",
+        "date": "05/09/2025",
+        "description": "Área plantada de soja no Brasil deve crescer 1,2% na próxima safra, chegando a 48,21 milhões de hectares"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/portuguesa-mota-engil-vence-leilao-do-tunel-submerso-santos-guaruja/",
+        "title": "Portuguesa Mota Engil vence leilão do túnel submerso Santos-Guarujá",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-2-2-300x200.png",
+        "date": "05/09/2025",
+        "description": "Do 1,5 quilômetro de extensão do empreendimento, 870 metros serão submersos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/cade-aprova-acordo-entre-marfrig-e-brf-sem-restricoes/",
+        "title": "Cade Aprova Acordo entre Marfrig e BRF sem Restrições",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Marfrig_Getty-300x200.jpg",
+        "date": "05/09/2025",
+        "description": "A chamada MBRF, denominação da nova companhia, poderá acirrar a concorrência no Brasil com a JBS maior produtora global de carnes"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/alemanha-inaugura-supercomputador-classe-exascale-com-chips-da-nvidia/",
         "title": "Alemanha Inaugura Supercomputador Classe Exascale com Chips da Nvidia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-8-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-05T130832Z_1_LYNXMPEL840LT_RTROPTP_3_USA-TRADE-CHINA-HOGS-300x200.jpg",
         "date": "05/09/2025",
         "description": "Pequim impõe tarifas antidumping de até 62,4% sobre carne suína da UE, elevando tensões comerciais após tarifas europeias sobre carros elétricos chineses"
-    },
-    {
-        "url": "https://forbes.com.br/sem-categoria/2025/09/tempo-seco-e-quente-pode-atrasar-plantio-de-soja-em-mato-grosso-preve-earthdaily/",
-        "title": "Tempo Seco e Quente Pode Atrasar Plantio de Soja em Mato Grosso, Prevê EarthDaily",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-05T144938Z_1_LYNXMPEL840OX_RTROPTP_4_PARAGUAY-SOYBEANS-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Déficit hídrico histórico e calor acima de 40 °C podem atrasar o plantio de soja e encurtar a janela da segunda safra em Mato Grosso"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/lula-assina-mp-que-garante-renegociacao-de-dividas-rurais-com-credito-de-r12-bi/",
-        "title": "Lula Assina MP Que Garante Renegociação de Dívidas Rurais, com Crédito de R$12 Bi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-05T150451Z_2_LYNXMPEL840NC_RTROPTP_4_CHILE-POLITICS-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Governo libera crédito emergencial para produtores rurais afetados por secas e enchentes, com carência de um ano e juros subsidiados"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/carrefour-brasil-anuncia-nova-cfo/",
-        "title": "Carrefour Brasil Anuncia Nova CFO",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Berengere-Guillemin-carrefour-forbes-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Executiva francesa assumirá a diretoria financeira em outubro de 2025 e passará a integrar o comitê executivo da companhia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/bc-endurece-regras-para-fintechs-e-cria-teto-de-pix-e-ted-para-coibir-crimes/",
-        "title": "BC Endurece Regras para Fintechs e Cria Teto de Pix e TED para Coibir Crimes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/forbes-Logotipo-do-Banco-Central-do-Brasil-na-sede-da-instituicao-em-Brasilia-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Medidas emergenciais são anunciadas após envolvimento de instituições com o crime organizado"
     }
 ]
