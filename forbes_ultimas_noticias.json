@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/alemanha-inaugura-supercomputador-classe-exascale-com-chips-da-nvidia/",
+        "title": "Alemanha Inaugura Supercomputador Classe Exascale com Chips da Nvidia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-8-300x200.jpg",
+        "date": "05/09/2025",
+        "description": "Jupiter é capaz de realizar 1 quintilhão (1 seguido por 18 zeros) de cálculos por segundo"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/lula-autoriza-uso-de-r-12-bilhoes-para-produtor-rural-renegociar-dividas/",
         "title": "Lula Autoriza Uso de R$ 12 Bilhões para Produtor Rural Renegociar Dívidas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Agro_produtor_rural_RS_uva_06set25_-Daniel-IsaiaAgencia-Brasil-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/02/forbes-Logotipo-do-Banco-Central-do-Brasil-na-sede-da-instituicao-em-Brasilia-300x200.jpg",
         "date": "05/09/2025",
         "description": "Medidas emergenciais são anunciadas após envolvimento de instituições com o crime organizado"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/agricultura-regenerativa-pode-produzir-23-a-mais-que-a-convencional-diz-estudo-da-cargill/",
-        "title": "Agricultura Regenerativa Pode Produzir 23% a Mais Que a Convencional, Diz Estudo da Cargill",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Agro_fazenda-Brasilanda_Goias-milho-regenera-Cargill_06set25_Wanderson-Manenti-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Programa Regenera Cerrado acompanha 12 fazendas em Goiás para mostrar as vantagens de práticas sustentáveis, com validação científica de 35 pesquisadores"
     }
 ]
