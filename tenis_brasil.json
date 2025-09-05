@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/monteiro-e-superado-pelo-favorito-darderi-nas-quartas-em-genova.html",
-        "title": "Monteiro é superado pelo favorito Darderi nas quartas em Gênova",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/monteiro-1030x662-1-1024x658.jpg",
-        "date": "05/09/2025",
-        "description": "Gênova (Itália) –Depois deduas vitórias na semana, Thiago Monteiro foi eliminado nas quartas de final do challenger de Gênova, em quadras de saibro na Itália. O cearense de 31 anos e 169º do ranking foi superado nesta sexta-feira pelo italiano Luciano Darderi, principal cabeça de chave e 34º do mundo, por 7/5 e 6/2."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-controla-o-duelo-com-djokovic-e-volta-a-final-do-us-open.html",
         "title": "Alcaraz controla o duelo com Djokovic e volta à final do US Open",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/alcaraz_uso_rebate_semi-1024x576.jpg",
@@ -53,7 +46,7 @@
         "title": "Wimbledon lamenta a morte da Duquesa de Kent e cita sua compaixão",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/duquesa-de-kent_Novotna.jpg",
         "date": "05/09/2025",
-        "description": "Londres (Inglaterra) –A Duquesa de Kent, que por anos, ao lado do marido, prestigiou as finais de Wimbledon, faleceu na noite desta quinta-feira aos 92 anos, anunciou o Palácio de Buckingham. Ela “faleceu pacificamente ontem à noite no Palácio de Kensington, cercada por sua família”, informou um comunicado nesta sexta-feira, quando as bandeiras nas residências reais, incluindo o Palácio de Buckingham, foram arriadas a meio mastro em sinal de luto."
+        "description": "Londres (Inglaterra) –A Duquesa de Kent, que por décadas, ao lado do marido, prestigiou as finais de Wimbledon, faleceu na noite desta quinta-feira aos 92 anos, anunciou o Palácio de Buckingham. Ela “faleceu pacificamente ontem à noite no Palácio de Kensington, cercada por sua família”, informou um comunicado nesta sexta-feira, quando as bandeiras nas residências reais, incluindo o Palácio de Buckingham, foram arriadas a meio mastro em sinal de luto."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/igor-gimenez-vence-em-tres-sets-e-faz-semi-de-itf-na-polonia.html",
@@ -68,5 +61,12 @@
         "image": null,
         "date": "05/09/2025",
         "description": "Embed from Getty Images"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/dabrowski-e-routliffe-superam-lideres-do-ranking-e-conquistam-o-2o-slam.html",
+        "title": "Dabrowski e Routliffe superam líderes do ranking e conquistam o 2º Slam",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/dabrowski_routliffe_uso_trofeu-1024x574.jpg",
+        "date": "05/09/2025",
+        "description": "Nova York (EUA) –A canadense Gabriela Dabrowski e a neozelandesa Erin Routliffe conquistaram o segundo título juntas no US Open e repetiram a conquista de 2023. Elas venceram na final desta sexta-feira a norte-americana Taylor Townsend e a tcheca Katerina Siniakova, líderes do ranking, por duplo 6/4."
     }
 ]
