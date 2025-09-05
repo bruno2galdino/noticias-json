@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/china-impoe-tarifas-iniciais-sobre-importacoes-de-carne-suina-da-ue/",
+        "title": "China Impõe Tarifas Iniciais sobre Importações de Carne Suína da UE",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-05T130832Z_1_LYNXMPEL840LT_RTROPTP_3_USA-TRADE-CHINA-HOGS-300x200.jpg",
+        "date": "05/09/2025",
+        "description": "Pequim impõe tarifas antidumping de até 62,4% sobre carne suína da UE, elevando tensões comerciais após tarifas europeias sobre carros elétricos chineses"
+    },
+    {
+        "url": "https://forbes.com.br/sem-categoria/2025/09/tempo-seco-e-quente-pode-atrasar-plantio-de-soja-em-mato-grosso-preve-earthdaily/",
+        "title": "Tempo Seco e Quente Pode Atrasar Plantio de Soja em Mato Grosso, Prevê EarthDaily",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-05T144938Z_1_LYNXMPEL840OX_RTROPTP_4_PARAGUAY-SOYBEANS-300x200.jpg",
+        "date": "05/09/2025",
+        "description": "Déficit hídrico histórico e calor acima de 40 °C podem atrasar o plantio de soja e encurtar a janela da segunda safra em Mato Grosso"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/lula-assina-mp-que-garante-renegociacao-de-dividas-rurais-com-credito-de-r12-bi/",
+        "title": "Lula Assina MP Que Garante Renegociação de Dívidas Rurais, com Crédito de R$12 Bi",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-05T150451Z_2_LYNXMPEL840NC_RTROPTP_4_CHILE-POLITICS-300x200.jpg",
+        "date": "05/09/2025",
+        "description": "Governo libera crédito emergencial para produtores rurais afetados por secas e enchentes, com carência de um ano e juros subsidiados"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/09/carrefour-brasil-anuncia-nova-cfo/",
         "title": "Carrefour Brasil Anuncia Nova CFO",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Berengere-Guillemin-carrefour-forbes-300x200.jpg",
@@ -22,7 +43,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/09/mercado-de-trabalho-desacelera-mais-do-que-o-esperado-e-economistas-reforcam-aposta-em-corte-de-juros-nos-eua/",
-        "title": "Mercado de Trabalho Desacelera Mais do Que o Esperado e Economistas Reforçam Aposta em Corte de Juros nos EUA",
+        "title": "Mercado de Trabalho Desacelera, e Economistas Reforçam Aposta em Corte de Juros nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-2191571693-1-300x200.jpg",
         "date": "05/09/2025",
         "description": "O payroll, relatório de emprego mais importante dos EUA, mostrou uma alta do desemprego e fraca criação de novas vagas"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/prime-you-bv-300x200.png",
         "date": "05/09/2025",
         "description": "Empresa líder na América do Sul, Prime You transforma o compartilhamento de ativos de alto valor agregado em experiência de luxo, com gestão completa e otimização do investimento"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/o-proximo-emprego-da-ia-recrutar-pessoas-para-treinar-maquinas/",
-        "title": "O Próximo Emprego da IA? Recrutar Pessoas Para Treinar Máquinas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-fundador-ceo-mercor-brendan-foody-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Fundadores da Mercor, estreante na lista Forbes Cloud 100, criaram um recrutador baseado em IA. No caminho, descobriram uma fonte de receita ainda mais imediata"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/pesquisadora-paraense-quer-levar-amazonia-para-as-dispensas-de-todo-brasil/",
-        "title": "Pesquisadora Paraense Quer Levar Amazônia para as Dispensas de Todo Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Joanna Martins desenvolve a bioeconomia e a cultura alimentar amazônica através da expansão da foodtech Manioca e do retorno do Festival gastronômico Ver-o-Peso"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/o-que-voce-nao-pode-perder-na-bienal-de-sao-paulo-2025/",
-        "title": "O Que Você Não Pode Perder na Bienal de São Paulo 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/36a-Bienal-de-Sao-Paulo-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "36ª edição abre as portas ao público no sábado (6), com 125 participantes e seis capítulos temáticos"
     }
 ]
