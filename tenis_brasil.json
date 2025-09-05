@@ -1,17 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/monteiro-e-superado-pelo-favorito-darderi-nas-quartas-em-genova.html",
+        "title": "Monteiro é superado pelo favorito Darderi nas quartas em Gênova",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/monteiro-1030x662-1-1024x658.jpg",
+        "date": "05/09/2025",
+        "description": "Gênova (Itália) –Depois deduas vitórias na semana, Thiago Monteiro foi eliminado nas quartas de final do challenger de Gênova, em quadras de saibro na Itália. O cearense de 31 anos e 169º do ranking foi superado nesta sexta-feira pelo italiano Luciano Darderi, principal cabeça de chave e 34º do mundo, por 7/5 e 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-controla-o-duelo-com-djokovic-e-volta-a-final-do-us-open.html",
+        "title": "Alcaraz controla o duelo com Djokovic e volta à final do US Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/alcaraz_uso_rebate_semi-1024x576.jpg",
+        "date": "05/09/2025",
+        "description": "Nova York (EUA) –No jogo que abriu a rodada de semifinais da chave masculina do US Open, Carlos Alcaraz levou a melhor sobre Novak Djokovic e marcou as parciais de 6/4, 7/6 (7-4) e 6/2 em 2h23 de partida. O espanhol segue sem perder sets no último Grand Slam do ano."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-05-09.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/06/rebeca_pereira_rioclaro_olhabola.jpg",
+        "date": "05/09/2025",
+        "description": "Challenger de Gênova (Itália) – Saibro – 181.250 eurosQuartas de final –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/vandromme-e-nilsson-eliminam-favoritas-britanicas-nas-semis-do-juvenil.html",
         "title": "Vandromme e Nilsson eliminam favoritas britânicas nas semis do juvenil",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/Vandromme_uso_vibra-1024x576.jpg",
         "date": "05/09/2025",
         "description": "Nova York (EUA) –A final feminina do torneio juvenil do US Open será entre a sueca Lea Nilsson e a belga Jeline Vandromme. Elas venceram duas cabeças de chave britânicas nesta sexta-feira e vão decidir o título no sábado."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-05-09.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/Monteiro-comoch_slice-1024x682.jpg",
-        "date": "05/09/2025",
-        "description": "Challenger de Gênova (Itália) – Saibro – 181.250 eurosQuartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/bia-reconhece-pressao-e-quer-aproveitar-ao-maximo-jogar-em-casa.html",
@@ -54,19 +68,5 @@
         "image": null,
         "date": "05/09/2025",
         "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/dabrowski-e-routliffe-superam-lideres-do-ranking-e-conquistam-o-2o-slam.html",
-        "title": "Dabrowski e Routliffe superam líderes do ranking e conquistam o 2º Slam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/dabrowski_routliffe_uso_trofeu-1024x574.jpg",
-        "date": "05/09/2025",
-        "description": "Nova York (EUA) –A canadense Gabriela Dabrowski e a neozelandesa Erin Routliffe conquistaram o segundo título juntas no US Open e repetiram a conquista de 2023. Elas venceram na final desta sexta-feira a norte-americana Taylor Townsend e a tcheca Katerina Siniakova, líderes do ranking, por duplo 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/lendl-sinner-e-alcaraz-estao-acima-e-quando-perdem-e-uma-surpresa.html",
-        "title": "Lendl: “Sinner e Alcaraz estão acima e quando perdem é uma surpresa”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sinner_alcaraz_wimbledon.jpg",
-        "date": "05/09/2025",
-        "description": "Nova York (EUA)– Um dos grandes nomes da história do tênis, dono de oito títulos de Grand Slam, o tcheco naturalizado norte-americano Ivan Lendl é mais um que coloca o italiano Jannik Sinner e o espanhol Carlos Alcaraz acima dos demais concorrentes no circuito neste momento."
     }
 ]

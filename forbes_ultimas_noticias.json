@@ -1,8 +1,15 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/mexico-foi-o-principal-destino-da-carne-de-frango-do-brasil-em-agosto-aponta-abpa/",
+        "title": "México Foi o Principal Destino da Carne de Frango do Brasil em Agosto, Aponta ABPA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_CarneDeFrango_19ago2025_Reuters-300x200.jpg",
+        "date": "05/09/2025",
+        "description": "Exportações de frango sobem 3,9% em agosto com retomada das compras após embargos por gripe aviária"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/apos-payroll-abaixo-do-esperado-ibovespa-tem-novo-recorde-historico/",
         "title": "Após Payroll Abaixo do Esperado, Ibovespa Tem Novo Recorde Histórico",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-3-300x200.png",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/01/bolsa-de-valores-300x200.jpg",
         "date": "05/09/2025",
         "description": "Tendência é que ainda em setembro a margem de juros dos EUA sofra o primeiro corte em nove meses"
     },
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/canola-forbes-agro-300x200.jpg",
         "date": "05/09/2025",
         "description": "Pequim impôs tarifas preliminares de 75,8% sobre as importações canadenses das sementes em agosto"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/china-impoe-tarifas-iniciais-sobre-importacoes-de-carne-suina-da-ue/",
-        "title": "China Impõe Tarifas Iniciais sobre Importações de Carne Suína da UE",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-05T130832Z_1_LYNXMPEL840LT_RTROPTP_3_USA-TRADE-CHINA-HOGS-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Pequim impõe tarifas antidumping de até 62,4% sobre carne suína da UE, elevando tensões comerciais após tarifas europeias sobre carros elétricos chineses"
     }
 ]
