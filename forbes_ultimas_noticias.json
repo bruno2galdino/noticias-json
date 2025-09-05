@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/tesla-propoe-bonus-de-us1-trilhao-a-musk-condicionado-a-desempenho/",
+        "title": "Tesla Propõe Bônus de Us$1 Trilhão a Musk Condicionado a Desempenho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tesla-Robotaxi-Elon-Musk-300x200.png",
+        "date": "05/09/2025",
+        "description": "O plano exige que a avaliação da  Tesla  seja multiplicada por quase oito, ou cerca de US$ 7,5 trilhões, na próxima década"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/09/brandvoice-prime-you-a-nova-era-da-propriedade-compartilhada/",
         "title": "A Nova era da Propriedade Compartilhada",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/prime-you-bv-300x200.png",
@@ -29,7 +36,7 @@
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/09/invetir-em-bolsas-de-luxo-pode-render-mais-que-o-sp-500/",
-        "title": "Invetir em Bolsas de Luxo Pode Render Mais Que o S&P 500",
+        "title": "Investir em Bolsas de Luxo Pode Render Mais Que o S&P 500",
         "image": "https://forbes.com.br/wp-content/uploads/2024/03/life-birkin-hermes-300x200.jpg",
         "date": "05/09/2025",
         "description": "Retorno histórico de peças como a Birkin supera os 14% ao ano e bate o rendimento do Ibovespa, do ouro e do principal índice da bolsa americana"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Colheitadeira-300x200.jpg",
         "date": "04/09/2025",
         "description": "A estimativa para a safra 25/26 é de uma área total de 172,6 mil hectares"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/anec-ve-mais-soja-e-menos-milho-do-brasil-na-exportacao-de-agosto/",
-        "title": "Anec Vê Mais Soja e Menos Milho do Brasil na Exportação de Agosto",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
-        "date": "04/09/2025",
-        "description": "Em agosto, a China tomou 84% do total das exportações brasileiras de soja, versus 75% da média dos últimos quatro anos"
     }
 ]
