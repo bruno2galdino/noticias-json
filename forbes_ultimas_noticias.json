@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/um-brinde-a-arte-na-36a-bienal-de-sao-paulo/",
+        "title": "Um Brinde À Arte na 36ª Bienal de São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/padrao-Forbes-27-300x200.jpg",
+        "date": "06/09/2025",
+        "description": "Na véspera da abertura, a mostra já havia recebido 15 mil visitantes e espera 700 mil até janeiro, em edição marcada por cores, diversidade e curadoria plural, com a Rolex como parceira cultural"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/do-mar-ao-prato-estudo-mostra-os-impactos-de-20-anos-do-comercio-global-de-tubaroes/",
         "title": "Do Mar Ao Prato, Estudo Mostra os Impactos de 20 Anos do Comércio Global de Tubarões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_carne_tubarao_27ago25_-Getty-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_CarneDeFrango_19ago2025_Reuters-300x200.jpg",
         "date": "05/09/2025",
         "description": "Exportações de frango sobem 3,9% em agosto com retomada das compras após embargos por gripe aviária"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/apos-payroll-abaixo-do-esperado-ibovespa-tem-novo-recorde-historico/",
-        "title": "Após Payroll Abaixo do Esperado, Ibovespa Tem Novo Recorde Histórico",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/01/bolsa-de-valores-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Tendência é que ainda em setembro a margem de juros dos EUA sofra o primeiro corte em nove meses"
     }
 ]
