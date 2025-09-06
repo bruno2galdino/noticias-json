@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado.html",
+        "title": "O dia dos brasileiros: veja os resultados deste sábado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/12/pedretti_rcl_back_dia.jpg",
+        "date": "06/09/2025",
+        "description": "ITF W35 de Cuiabá (MT) – Saibro – US$ 30 milSemifinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/temporada-tem-feito-inedito-com-a-definicao-da-final-do-us-open.html",
+        "title": "Temporada tem feito inédito com a definição da final do US Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/Artes-fotos-multiplas-900x600-7.jpg",
+        "date": "06/09/2025",
+        "description": "Nova York (EUA)– Desde que o sistema de cabeças de chave foi introduzido nos Grand Slam, pela primeira vez em uma temporada os quatro principais torneios tiveram finais com os dois principais favoritos na disputa."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/us-open-anuncia-medidas-extra-de-seguranca-para-receber-trump.html",
+        "title": "US Open anuncia medidas extra de segurança para receber Trump",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/trumpsi-e1757162169836.jpeg",
+        "date": "06/09/2025",
+        "description": "Nova York (EUA)– A presença do presidente dos Estados Unidos na final masculina foi confirmada e por isso a USTA anunciou medidas de segurança mais rígidas para receber Donald Trump na final masculina do domingo. A entidade inclusive soltou um comunicado à imprensa explicando as mudanças."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/mcenroe-aposta-que-djokovic-nao-vai-tentar-por-mais-um-ano.html",
         "title": "McEnroe aposta que Djokovic não vai tentar seguir por mais um ano",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/djokovic-usopen-2025-1024x681.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/djokovic_usopen_saida_coracao-1024x576.jpg",
         "date": "05/09/2025",
         "description": "Nova York (EUA) –Depois de perder sua quarta semifinal de Grand Slam na temporada, Novak Djokovic refletiu sobre a dificuldade que encontra para enfrentar os dois melhores jogadores da atualidade, Jannik Sinner e Carlos Alcaraz, especialmente no formato em melhor de cinco sets. Aos 38 anos, o sérvio reconhece que as chances de conquistar o tão sonhado 25º título de Slam estão cada vez mais distantes, mas quer continuar tentando na próxima temporada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/luiz-calixto-e-vice-de-duplas-no-tenis-em-cadeira-de-rodas-no-us-open.html",
-        "title": "Luiz Calixto é vice de duplas no tênis em cadeira de rodas em NY",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/calixto_majetic_usopen_cut-1024x574.jpg",
-        "date": "05/09/2025",
-        "description": "Nova York (EUA) –O mineiro Luiz Calixto ficou com o vice-campeonato de duplas no torneio juvenil do tênis em cadeira de rodas do US Open, ao lado do norte-americano Tomas Majetic. Eles foram superados na final pelo britânico Ruben Harris e o austríaco Maximilian Taucher, principais cabeças de chave, por duplo 6/3."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-tenta-bicampeonato-em-ny-anisimova-busca-o-1o-slam.html",
-        "title": "Sabalenka tenta bicampeonato em NY, Anisimova busca o 1º Slam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/art_saba_anisimova-1024x576.jpg",
-        "date": "05/09/2025",
-        "description": "Nova York (EUA) –A campeã do US Open será conhecida neste sábado. Aryna Sabalenka e Amanda Anisimova se enfrentam a partir das 17h (de Brasília). Será o décimo encontro entre elas e a vantagem é da norte-americana, com seis vitórias contra três da bielorrussa. Anisimova venceu também o último duelo entre elas, na semifinal de Wimbledon. A transmissão é daESPN 2eSportv 3."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/baianos-recebem-convite-e-buscam-primeiro-ponto-no-ranking-profissional.html",
-        "title": "Baianos recebem convite e buscam primeiro ponto no ranking profissional",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/victor_rocha.jpg",
-        "date": "05/09/2025",
-        "description": "Salvador (BA) –Dois atletas de Salvador terão oportunidade de pontuar pela primeira vez no ranking mundial na disputa do inédito evento que será realizado de 28 de setembro a 4 de outubro, no Clube Bahiano de Tênis. A competição é da categoria M25 com premiação total de US$ 30 mil e importantes pontos no ranking da ATP, a Associação dos Tenistas Profissionais."
     }
 ]
