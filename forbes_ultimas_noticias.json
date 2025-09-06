@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/do-mar-ao-prato-estudo-mostra-os-impactos-de-20-anos-do-comercio-global-de-tubaroes/",
+        "title": "Do Mar Ao Prato, Estudo Mostra os Impactos de 20 Anos do Comércio Global de Tubarões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_carne_tubarao_27ago25_-Getty-300x200.jpg",
+        "date": "06/09/2025",
+        "description": "Análise indica que carne e barbatanas seguem padrões diferentes nas relações de troca que precisam de revisão e mudança de rumo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/os-chatbots-de-ia-estao-fornecendo-mais-informacoes-falsas-do-que-nunca/",
+        "title": "Os Chatbots de IA Estão Fornecendo Mais Informações Falsas do Que Nunca",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/ChatGPT-privacidade-300x200.png",
+        "date": "06/09/2025",
+        "description": "Pesquisadores da NewsGuard analisaram como as dez principais ferramentas de IA generativa do mundo lidam com alegações comprovadamente falsas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/como-um-gravador-fez-desta-startup-uma-das-mais-lucrativas-do-setor-de-ia/",
+        "title": "Como um Gravador Fez Desta Startup uma das Mais Lucrativas do Setor de IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-1-2-300x200.png",
+        "date": "06/09/2025",
+        "description": "Empresa criada por Nathan Xu já vendeu mais de 1 milhão de dispositivos que gravam, transcrevem e resumem as agendas cheias"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/andrea-pinheiro-faz-historia-como-1a-mulher-a-presidir-bienal-de-sao-paulo/",
+        "title": "Andrea Pinheiro Faz História Como 1ª Mulher a Presidir Bienal de São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.A-frente-da-36a-Bienal-de-Sao-Paulo-Andrea-Pinheiro-a-primeira-mulher-a-presidir-a-mostra-fala-sobre-arte-diversidade-suas-raizes-cearenses-e-o-mantra-que-guia-sua-vida_-tudo-passa-300x200.jpg",
+        "date": "06/09/2025",
+        "description": "À frente da 36ª edição, a gestora cultural fala sobre liderança, diversidade e o desafio de comandar a maior mostra de arte contemporânea da América Latina"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/09/ramiro-ibanes-o-enologo-que-coloca-o-vinhedo-no-centro-do-xerez/",
+        "title": "Ramiro Ibáñes, o Enólogo que Coloca o Vinhedo no Centro do Xerez",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ramiro-Ibanes-06set25_-BKWine-Photography_l-300x200.jpg",
+        "date": "06/09/2025",
+        "description": "Conheça o produtor de Sanlúcar de Barrameda, na Espanha, que aposta no vino de pasto e no solo para redefinir a identidade de uma uva palomino"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/veja-como-proteger-seus-ativos-digitais-ante-a-alta-de-ataques-a-criptomoedas/",
+        "title": "Veja Como Proteger Seus Ativos Digitais ante a Alta de Ataques a Criptomoedas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-1-1-300x200.png",
+        "date": "06/09/2025",
+        "description": "Roubos milionários e golpes digitais crescem em ritmo acelerado, acompanhando a valorização do bitcoin e de outros criptoativos"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/09/3-maneiras-de-superar-o-medo-de-nunca-encontrar-o-amor/",
+        "title": "3 Maneiras de Superar o Medo de Nunca Encontrar o Amor",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/960x0-2-300x200.jpg",
+        "date": "06/09/2025",
+        "description": "A maioria de nós já sentiu medo de ficar solteiro para sempre, mas de onde isso vem e o que podemos fazer a respeito?"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/09/como-meghan-markle-construiu-sua-marca-de-lifestyle/",
         "title": "Como Meghan Markle Construiu Sua Marca de Lifestyle",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/meghan-netflix-serie-culinaria-1-300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/01/bolsa-de-valores-300x200.jpg",
         "date": "05/09/2025",
         "description": "Tendência é que ainda em setembro a margem de juros dos EUA sofra o primeiro corte em nove meses"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/brasil-pode-colher-mais-de-180-mi-t-de-soja-em-25-26-com-recuperacao-do-rs-diz-safras/",
-        "title": "Brasil Pode Colher Mais de 180 Mi t de Soja em 25/26, com Recuperação do RS, Diz Safras",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-05T171815Z_1_LYNXMPEL840T2_RTROPTP_4_INDIA-PORTS-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Área plantada de soja no Brasil deve crescer 1,2% na próxima safra, chegando a 48,21 milhões de hectares"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/portuguesa-mota-engil-vence-leilao-do-tunel-submerso-santos-guaruja/",
-        "title": "Portuguesa Mota Engil vence leilão do túnel submerso Santos-Guarujá",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-2-2-300x200.png",
-        "date": "05/09/2025",
-        "description": "Do 1,5 quilômetro de extensão do empreendimento, 870 metros serão submersos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/cade-aprova-acordo-entre-marfrig-e-brf-sem-restricoes/",
-        "title": "Cade Aprova Acordo entre Marfrig e BRF sem Restrições",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_Marfrig_Getty-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "A chamada MBRF, denominação da nova companhia, poderá acirrar a concorrência no Brasil com a JBS maior produtora global de carnes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/alemanha-inaugura-supercomputador-classe-exascale-com-chips-da-nvidia/",
-        "title": "Alemanha Inaugura Supercomputador Classe Exascale com Chips da Nvidia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-8-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Jupiter é capaz de realizar 1 quintilhão (1 seguido por 18 zeros) de cálculos por segundo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/lula-autoriza-uso-de-r-12-bilhoes-para-produtor-rural-renegociar-dividas/",
-        "title": "Lula Autoriza Uso de R$ 12 Bilhões para Produtor Rural Renegociar Dívidas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Agro_produtor_rural_RS_uva_06set25_-Daniel-IsaiaAgencia-Brasil-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Medida Provisória deve beneficiar até 100 mil produtores com juros reduzidos e prazos de pagamento estendidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/china-proibe-importacoes-de-aves-da-argentina-por-causa-da-gripe-aviaria/",
-        "title": "China Proíbe Importações de Aves da Argentina por Causa da Gripe Aviária",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/01/agro_abpa_08.01_reuters-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Administração alfandegária chinesa divulgou comunicado datado de 3 de setembro"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/the-town-2025-mostra-que-entretenimento-tambem-e-economia/",
-        "title": "The Town 2025 Mostra Que Entretenimento Também é Economia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/the-town-forbes-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Festival deve injetar R$ 2 bilhões na economia de São Paulo e gerar 25 mil empregos diretos e indiretos"
     }
 ]
