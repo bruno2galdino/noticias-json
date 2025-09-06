@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2025/09/como-meghan-markle-construiu-sua-marca-de-lifestyle/",
+        "title": "Como Meghan Markle Construiu Sua Marca de Lifestyle",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/meghan-netflix-serie-culinaria-1-300x200.jpg",
+        "date": "06/09/2025",
+        "description": "Com nova temporada de série na Netflix, duquesa usa influência e branding para expandir sua estratégia de negócios"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/mexico-foi-o-principal-destino-da-carne-de-frango-do-brasil-em-agosto-aponta-abpa/",
         "title": "México Foi o Principal Destino da Carne de Frango do Brasil em Agosto, Aponta ABPA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Agro_CarneDeFrango_19ago2025_Reuters-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/the-town-forbes-300x200.jpg",
         "date": "05/09/2025",
         "description": "Festival deve injetar R$ 2 bilhões na economia de São Paulo e gerar 25 mil empregos diretos e indiretos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/china-adia-decisao-final-em-disputa-sobre-canola-com-o-canada-principal-fornecedor/",
-        "title": "China Adia Decisão Final em Disputa sobre Canola com o Canadá",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/canola-forbes-agro-300x200.jpg",
-        "date": "05/09/2025",
-        "description": "Pequim impôs tarifas preliminares de 75,8% sobre as importações canadenses das sementes em agosto"
     }
 ]
