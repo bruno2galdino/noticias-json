@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/carlo-acutis-conheca-o-1o-santo-catolico-da-geracao-millennial/",
+        "title": "Carlo Acutis: Conheça o 1º Santo Católico da Geração Millennial",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/07/Carlo-Acutis-300x200.png",
+        "date": "07/09/2025",
+        "description": "O garoto italiano que morreu aos 15 anos aprendeu a programar para criar sites e divulgar sua fé"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/de-rei-do-cachorro-quente-a-dono-de-um-imperio-imobiliario-a-saga-de-dick-portillo/",
         "title": "De 'Rei' do Cachorro-quente a Dono de um Império Imobiliário: a Saga de Dick Portillo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-2-1-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/ChatGPT-privacidade-300x200.png",
         "date": "06/09/2025",
         "description": "Pesquisadores da NewsGuard analisaram como as dez principais ferramentas de IA generativa do mundo lidam com alegações comprovadamente falsas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/como-um-gravador-fez-desta-startup-uma-das-mais-lucrativas-do-setor-de-ia/",
-        "title": "Como um Gravador Fez Desta Startup uma das Mais Lucrativas do Setor de IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-1-2-300x200.png",
-        "date": "06/09/2025",
-        "description": "Empresa criada por Nathan Xu já vendeu mais de 1 milhão de dispositivos que gravam, transcrevem e resumem as agendas cheias"
     }
 ]
