@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/de-rei-do-cachorro-quente-a-dono-de-um-imperio-imobiliario-a-saga-de-dick-portillo/",
+        "title": "De 'Rei' do Cachorro-quente a Dono de um Império Imobiliário: a Saga de Dick Portillo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-2-1-300x200.png",
+        "date": "07/09/2025",
+        "description": "Portillo criou uma rede bilionária de restaurantes e a vendeu em 2014, até comprar algumas delas de volta"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/09/entenda-como-o-gelo-pode-mudar-completamente-um-coquetel/",
+        "title": "Entenda Como o Gelo Pode Mudar Completamente um Coquetel",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Serao-preparados-coqueteis-no-bar-para-a-comemoracao-dos-30-anos-do-Cookies-Club-300x200.jpg",
+        "date": "07/09/2025",
+        "description": "Qualidade, formato e tipo do gelo podem influenciar sabor, diluição e até o preço dos coquetéis"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/09/o-robo-do-vinho-italiano-asas-paineis-solares-e-turnos-de-72-horas/",
+        "title": "O Robô do Vinho Italiano: Asas, Painéis Solares e Turnos de 72 Horas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Agro_robo_vinhedo_Italia_06set25_Piccini_Winer-300x200.jpg",
+        "date": "07/09/2025",
+        "description": "Conheça Ícaro, uma máquina movida a energia solar que combate doenças da videira misturando tradição e inovação em uma vinícola de 140 anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/como-uma-startup-de-seattle-esta-minerando-helio-na-lua/",
+        "title": "Como uma Startup de Seattle Está Minerando Hélio na Lua",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-1-300x200.jpg",
+        "date": "07/09/2025",
+        "description": "A Interlune está desenvolvendo robôs para coletar um gás valioso na superfície lunar que pode ter um grande impacto na Terra"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/09/anthropic-concorda-em-pagar-us-15-bilhao-para-resolver-acao-coletiva-de-escritores/",
         "title": "Anthropic Concorda em Pagar Us$1,5 Bilhão para Resolver Ação Coletiva de Escritores",
         "image": "https://forbes.com.br/wp-content/uploads/2024/11/Amazon-dobra-aposta-em-startup-de-IA-Anthropic-com-investimento-de-US4-bi-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.A-frente-da-36a-Bienal-de-Sao-Paulo-Andrea-Pinheiro-a-primeira-mulher-a-presidir-a-mostra-fala-sobre-arte-diversidade-suas-raizes-cearenses-e-o-mantra-que-guia-sua-vida_-tudo-passa-300x200.jpg",
         "date": "06/09/2025",
         "description": "À frente da 36ª edição, a gestora cultural fala sobre liderança, diversidade e o desafio de comandar a maior mostra de arte contemporânea da América Latina"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/09/ramiro-ibanes-o-enologo-que-coloca-o-vinhedo-no-centro-do-xerez/",
-        "title": "Ramiro Ibáñes, o Enólogo que Coloca o Vinhedo no Centro do Xerez",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ramiro-Ibanes-06set25_-BKWine-Photography_l-300x200.jpg",
-        "date": "06/09/2025",
-        "description": "Conheça o produtor de Sanlúcar de Barrameda, na Espanha, que aposta no vino de pasto e no solo para redefinir a identidade de uma uva palomino"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/veja-como-proteger-seus-ativos-digitais-ante-a-alta-de-ataques-a-criptomoedas/",
-        "title": "Veja Como Proteger Seus Ativos Digitais ante a Alta de Ataques a Criptomoedas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-1-1-300x200.png",
-        "date": "06/09/2025",
-        "description": "Roubos milionários e golpes digitais crescem em ritmo acelerado, acompanhando a valorização do bitcoin e de outros criptoativos"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/09/3-maneiras-de-superar-o-medo-de-nunca-encontrar-o-amor/",
-        "title": "3 Maneiras de Superar o Medo de Nunca Encontrar o Amor",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/960x0-2-300x200.jpg",
-        "date": "06/09/2025",
-        "description": "A maioria de nós já sentiu medo de ficar solteiro para sempre, mas de onde isso vem e o que podemos fazer a respeito?"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/como-meghan-markle-construiu-sua-marca-de-lifestyle/",
-        "title": "Como Meghan Markle Construiu Sua Marca de Lifestyle",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/meghan-netflix-serie-culinaria-1-300x200.jpg",
-        "date": "06/09/2025",
-        "description": "Com nova temporada de série na Netflix, duquesa usa influência e branding para expandir sua estratégia de negócios"
     }
 ]
