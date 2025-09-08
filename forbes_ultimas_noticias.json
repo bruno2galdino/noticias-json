@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/09/77-dos-profissionais-relatam-que-a-ia-aumentou-a-carga-de-trabalho-e-prejudicou-a-produtividade/",
+        "title": "77% dos Profissionais Dizem Que a IA Prejudicou a Produtividade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-candidaturas-inteligencia-artificial-300x200.jpg",
+        "date": "08/09/2025",
+        "description": "Estudo global mostra que, enquanto executivos apostam na inteligência artificial, colaboradores relatam mais trabalho e maior risco de burnout"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/5-destinos-no-brasil-que-estao-na-mira-dos-jet-setters/",
+        "title": "5 Destinos no Brasil Que Estão na Mira dos Jet Setters",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Life_Lencois-Maranhenses-2-300x200.jpg",
+        "date": "08/09/2025",
+        "description": "Dos Lençóis Maranhenses aos cânions gaúchos, a agência de viagens Teresa Perez Tours revela as localidades quentes da vez"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/lancamento-do-apple-iphone-17-como-assistir-ao-evento-especial-de-terca-feira/",
+        "title": "Lançamento do Apple iPhone 17: Como Assistir Ao Evento Especial de Terça-feira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/apple-17-300x200.png",
+        "date": "08/09/2025",
+        "description": "A Apple deve apresentar quatro modelos: iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max e o inédito iPhone 17 Air"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/esqueca-o-seo-as-novas-estrategias-do-trafego-digital-na-era-da-ia/",
+        "title": "Esqueça o SEO: as Novas Estratégias do Tráfego Digital na Era da IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Hubspot-300x200.png",
+        "date": "08/09/2025",
+        "description": "Em 2024, cerca de 60% das pesquisas no Google terminaram sem “cliques” em links"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/as-50-tecnologias-que-podem-mudar-para-sempre-o-mercado-financeiro-e-de-capitais/",
+        "title": "As 50 Tecnologias Que Podem Mudar (para Sempre) o Mercado Financeiro e de Capitais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-4-300x200.png",
+        "date": "08/09/2025",
+        "description": "Com destaque para IA e blockchain, instituições buscam equilibrar segurança com tecnologia de ponta"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/09/carlo-acutis-conheca-o-1o-santo-catolico-da-geracao-millennial/",
         "title": "Carlo Acutis: Conheça o 1º Santo Católico da Geração Millennial",
         "image": "https://forbes.com.br/wp-content/uploads/2024/07/Carlo-Acutis-300x200.png",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-1-300x200.jpg",
         "date": "07/09/2025",
         "description": "A Interlune está desenvolvendo robôs para coletar um gás valioso na superfície lunar que pode ter um grande impacto na Terra"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/oasis-de-ondas-perfeitas-a-experiencia-no-1o-hotel-com-piscina-de-surfe-da-america-latina/",
-        "title": "Como É a Experiência no 1º Hotel com Piscina de Surfe da América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/x-300x200.jpg",
-        "date": "07/09/2025",
-        "description": "Com serviço Fasano e tecnologia de ondas exclusivas, o Boa Vista Surf Lodge leva a experiência do mar para o interior de São Paulo, a menos de duas horas da capital"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/anthropic-concorda-em-pagar-us-15-bilhao-para-resolver-acao-coletiva-de-escritores/",
-        "title": "Anthropic Concorda em Pagar Us$1,5 Bilhão para Resolver Ação Coletiva de Escritores",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Amazon-dobra-aposta-em-startup-de-IA-Anthropic-com-investimento-de-US4-bi-300x200.jpg",
-        "date": "06/09/2025",
-        "description": "Os advogados dos autores consideram que a causa foi a maior recuperação de direitos autorais da história"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/um-brinde-a-arte-na-36a-bienal-de-sao-paulo/",
-        "title": "Um Brinde À Arte na 36ª Bienal de São Paulo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/padrao-Forbes-27-300x200.jpg",
-        "date": "06/09/2025",
-        "description": "Na véspera da abertura, a mostra já havia recebido 15 mil visitantes e espera 700 mil até janeiro, com a Rolex como parceira cultural"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/do-mar-ao-prato-estudo-mostra-os-impactos-de-20-anos-do-comercio-global-de-tubaroes/",
-        "title": "Do Mar Ao Prato, Estudo Mostra os Impactos de 20 Anos do Comércio Global de Tubarões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_carne_tubarao_27ago25_-Getty-300x200.jpg",
-        "date": "06/09/2025",
-        "description": "Análise indica que carne e barbatanas seguem padrões diferentes nas relações de troca que precisam de revisão e mudança de rumo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/os-chatbots-de-ia-estao-fornecendo-mais-informacoes-falsas-do-que-nunca/",
-        "title": "Os Chatbots de IA Estão Fornecendo Mais Informações Falsas do Que Nunca",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/ChatGPT-privacidade-300x200.png",
-        "date": "06/09/2025",
-        "description": "Pesquisadores da NewsGuard analisaram como as dez principais ferramentas de IA generativa do mundo lidam com alegações comprovadamente falsas"
     }
 ]
