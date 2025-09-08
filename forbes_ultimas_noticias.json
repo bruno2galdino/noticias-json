@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/lista-forbes-os-jogadores-mais-bem-pagos-da-nfl-em-2025/",
+        "title": "Lista Forbes: Os Jogadores Mais Bem Pagos da NFL em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-3-1-300x200.png",
+        "date": "08/09/2025",
+        "description": "Patrick Mahomes lidera a lista dos atletas mais bem pagos do futebol americanos; somados, eles faturaram US$ 571 milhões em 2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/importacoes-de-soja-pela-china-atingem-recorde-em-agosto/",
+        "title": "Importações de Soja Pela China Atingem Recorde em Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/08/Forbes_Graos-de-soja-300x200.jpg",
+        "date": "08/09/2025",
+        "description": "Compradores chineses abocanharam grandes volumes da América do Sul em meio às contínuas tensões comerciais entre a China e os EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/confusao-sobre-documentos-interrompe-exportacoes-ucranianas-de-canola-e-soja/",
+        "title": "Confusão Interrompe Exportações Ucranianas de Canola e Soja",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Design-sem-nome-28-300x200.jpg",
+        "date": "08/09/2025",
+        "description": "Embarques foram interrompidos devido à falta de procedimentos claros do governo sobre documentos necessários"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/tegram-registra-recorde-na-exportacao-de-graos-em-agosto-e-eleva-embarques-em-7-no-ano/",
+        "title": "Tegram Registra Recorde na Exportação de Grãos em Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/agro_colheita_Soja_28fev25_REUTERSDiego-Vara-300x200.jpg",
+        "date": "08/09/2025",
+        "description": "Exportações brasileiras somaram 1,75 milhão de toneladas de soja e milho, informou o consórcio da empresa que atua no porto de Itaqui"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/aposta-em-corte-de-juros-por-parte-do-fed-leva-ouro-para-a-sua-maxima-historica/",
         "title": "Aposta em Corte de Juros por Parte do Fed Leva Ouro para a Sua Máxima Histórica",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/ouro-unsplash-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-08T144832Z_1_LYNXNPEL870PO_RTROPTP_3_BELGIUM-AGRICULTURE-TUBERCULOSIS-300x200.jpg",
         "date": "08/09/2025",
         "description": "Iniciativa faz parte de esforço para conter o desmatamento na Amazônia e cumprir nova lei estadual que exige rastreamento individual de bovinos até 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/google-lanca-modo-ia-em-portugues-e-acelera-integracao-as-buscas-no-brasil/",
-        "title": "Google Lança Modo IA em Português e Acelera Integração Às Buscas no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/MODOIAGOOGLE-300x200.jpg",
-        "date": "08/09/2025",
-        "description": "Alimentado por uma versão personalizada do modelo Gemini 2.5, o Modo IA representa uma mudança estrutural na forma como o Google organiza e apresenta informações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/participacao-de-mercado-da-tesla-nos-eua-alcanca-nivel-mais-baixo-desde-2017/",
-        "title": "Participação de mercado da Tesla nos EUA alcança nível mais baixo desde 2017",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-2-3-300x200.png",
-        "date": "08/09/2025",
-        "description": "Por lá, domínio da empresa sempre se manteve em 40%, no mínimo. Além da concorrência, empresa não vem lançando novos produtos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/focus-mercado-reduz-expectativa-de-crescimento-do-pib-para-2025-e-2026/",
-        "title": "Focus: Mercado Reduz Expectativa de Crescimento do PIB para 2025 e 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-01T120223Z_1_LYNXMPEL800Y7_RTROPTP_4_BRAZIL-ECONOMY-300x200.jpg",
-        "date": "08/09/2025",
-        "description": "Após 14 semanas de queda, projeção da inflação deste ano ficou estável; para o próximo previsão teve queda"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/brandvoice-azimut-o-silencio-do-luxo/",
-        "title": "O Silêncio do Luxo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/azimut-bv-set-300x200.png",
-        "date": "08/09/2025",
-        "description": "Cresce a demanda por iates que unem exclusividade e experiências únicas"
     }
 ]
