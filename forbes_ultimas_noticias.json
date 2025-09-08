@@ -1,6 +1,13 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/chinesa-byd-produzira-todos-os-carros-eletricos-para-a-europa-localmente-ate-2028/",
+        "url": "https://forbes.com.br/forbes-money/2025/09/empresa-chinesa-de-robotica-unitree-mira-avaliacao-de-us-7-bi-em-ipo-segundo-fontes/",
+        "title": "Empresa Chinesa de Robótica Unitree Mira Avaliação de US$ 7 Bi em IPO, Segundo Fontes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-08T141524Z_1_LYNXNPEL870OF_RTROPTP_4_CHINA-ROBOTS-GAMES-300x200.jpg",
+        "date": "08/09/2025",
+        "description": "Startup chinesa de robótica planeja uma das maiores ofertas do setor em meio a ofensiva tecnológica de Pequim"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/chinesa-byd-produzira-todos-os-carros-eletricos-para-a-europa-localmente-ate-2028/",
         "title": "Chinesa BYD Produzirá Todos os Carros Elétricos para a Europa Localmente até 2028",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-08T144533Z_1_LYNXNPEL870PI_RTROPTP_4_AUTOSHOW-MUNIQUE-BYD-300x200.jpg",
         "date": "08/09/2025",
@@ -12,6 +19,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-08T144832Z_1_LYNXNPEL870PO_RTROPTP_3_BELGIUM-AGRICULTURE-TUBERCULOSIS-300x200.jpg",
         "date": "08/09/2025",
         "description": "Iniciativa faz parte de esforço para conter o desmatamento na Amazônia e cumprir nova lei estadual que exige rastreamento individual de bovinos até 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/google-lanca-modo-ia-em-portugues-e-acelera-integracao-as-buscas-no-brasil/",
+        "title": "Google Lança Modo IA em Português e Acelera Integração Às Buscas no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/MODOIAGOOGLE-300x200.jpg",
+        "date": "08/09/2025",
+        "description": "Alimentado por uma versão personalizada do modelo Gemini 2.5, o Modo IA representa uma mudança estrutural na forma como o Google organiza e apresenta informações"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/09/participacao-de-mercado-da-tesla-nos-eua-alcanca-nivel-mais-baixo-desde-2017/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Life_Lencois-Maranhenses-2-300x200.jpg",
         "date": "08/09/2025",
         "description": "Dos Lençóis Maranhenses aos cânions gaúchos, a agência de viagens Teresa Perez Tours revela as localidades quentes da vez"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/lancamento-do-apple-iphone-17-como-assistir-ao-evento-especial-de-terca-feira/",
-        "title": "Lançamento do Apple iPhone 17: Como Assistir Ao Evento Especial de Terça-feira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/apple-17-300x200.png",
-        "date": "08/09/2025",
-        "description": "A Apple deve apresentar quatro modelos: iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max e o inédito iPhone 17 Air"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/esqueca-o-seo-as-novas-estrategias-do-trafego-digital-na-era-da-ia/",
-        "title": "Esqueça o SEO: as Novas Estratégias do Tráfego Digital na Era da IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Hubspot-300x200.png",
-        "date": "08/09/2025",
-        "description": "Em 2024, cerca de 60% das pesquisas no Google terminaram sem “cliques” em links"
     }
 ]
