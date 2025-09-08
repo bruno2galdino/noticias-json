@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/chinesa-byd-produzira-todos-os-carros-eletricos-para-a-europa-localmente-ate-2028/",
+        "title": "Chinesa BYD Produzirá Todos os Carros Elétricos para a Europa Localmente até 2028",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-08T144533Z_1_LYNXNPEL870PI_RTROPTP_4_AUTOSHOW-MUNIQUE-BYD-300x200.jpg",
+        "date": "08/09/2025",
+        "description": "Montadora busca driblar tarifas da UE e expandir mercado com híbridos plug-in e produção local em países como Hungria e Turquia"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/jbs-distribui-brincos-para-rastrear-bovinos-no-para/",
+        "title": "JBS Distribui Brincos para Rastrear Bovinos no Pará",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-08T144832Z_1_LYNXNPEL870PO_RTROPTP_3_BELGIUM-AGRICULTURE-TUBERCULOSIS-300x200.jpg",
+        "date": "08/09/2025",
+        "description": "Iniciativa faz parte de esforço para conter o desmatamento na Amazônia e cumprir nova lei estadual que exige rastreamento individual de bovinos até 2026"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/participacao-de-mercado-da-tesla-nos-eua-alcanca-nivel-mais-baixo-desde-2017/",
         "title": "Participação de mercado da Tesla nos EUA alcança nível mais baixo desde 2017",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-2-3-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Hubspot-300x200.png",
         "date": "08/09/2025",
         "description": "Em 2024, cerca de 60% das pesquisas no Google terminaram sem “cliques” em links"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/as-50-tecnologias-que-podem-mudar-para-sempre-o-mercado-financeiro-e-de-capitais/",
-        "title": "As 50 Tecnologias Que Podem Mudar (para Sempre) o Mercado Financeiro e de Capitais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-4-300x200.png",
-        "date": "08/09/2025",
-        "description": "Com destaque para IA e blockchain, instituições buscam equilibrar segurança com tecnologia de ponta"
-    },
-    {
-        "url": "https://forbes.com.br/last/2025/09/carlo-acutis-conheca-o-1o-santo-catolico-da-geracao-millennial/",
-        "title": "Carlo Acutis: Conheça o 1º Santo Católico da Geração Millennial",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/07/Carlo-Acutis-300x200.png",
-        "date": "07/09/2025",
-        "description": "O garoto italiano que morreu aos 15 anos aprendeu a programar para criar sites e divulgar sua fé"
     }
 ]
