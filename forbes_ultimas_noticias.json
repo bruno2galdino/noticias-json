@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/participacao-de-mercado-da-tesla-nos-eua-alcanca-nivel-mais-baixo-desde-2017/",
+        "title": "Participação de mercado da Tesla nos EUA alcança nível mais baixo desde 2017",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-2-3-300x200.png",
+        "date": "08/09/2025",
+        "description": "Por lá, domínio da empresa sempre se manteve em 40%, no mínimo. Além da concorrência, empresa não vem lançando novos produtos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/focus-mercado-reduz-expectativa-de-crescimento-do-pib-para-2025-e-2026/",
+        "title": "Focus: Mercado Reduz Expectativa de Crescimento do PIB para 2025 e 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-01T120223Z_1_LYNXMPEL800Y7_RTROPTP_4_BRAZIL-ECONOMY-300x200.jpg",
+        "date": "08/09/2025",
+        "description": "Após 14 semanas de queda, projeção da inflação deste ano ficou estável; para o próximo previsão teve queda"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/09/brandvoice-azimut-o-silencio-do-luxo/",
         "title": "O Silêncio do Luxo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/azimut-bv-set-300x200.png",
@@ -49,24 +63,10 @@
         "description": "Com destaque para IA e blockchain, instituições buscam equilibrar segurança com tecnologia de ponta"
     },
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/carlo-acutis-conheca-o-1o-santo-catolico-da-geracao-millennial/",
+        "url": "https://forbes.com.br/last/2025/09/carlo-acutis-conheca-o-1o-santo-catolico-da-geracao-millennial/",
         "title": "Carlo Acutis: Conheça o 1º Santo Católico da Geração Millennial",
         "image": "https://forbes.com.br/wp-content/uploads/2024/07/Carlo-Acutis-300x200.png",
         "date": "07/09/2025",
         "description": "O garoto italiano que morreu aos 15 anos aprendeu a programar para criar sites e divulgar sua fé"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/de-rei-do-cachorro-quente-a-dono-de-um-imperio-imobiliario-a-saga-de-dick-portillo/",
-        "title": "De 'Rei' do Cachorro-quente a Dono de um Império Imobiliário: a Saga de Dick Portillo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-2-1-300x200.png",
-        "date": "07/09/2025",
-        "description": "Portillo criou uma rede bilionária de restaurantes e a vendeu em 2014, até comprar algumas delas de volta"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/09/entenda-como-o-gelo-pode-mudar-completamente-um-coquetel/",
-        "title": "Entenda Como o Gelo Pode Mudar Completamente um Coquetel",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Serao-preparados-coqueteis-no-bar-para-a-comemoracao-dos-30-anos-do-Cookies-Club-300x200.jpg",
-        "date": "07/09/2025",
-        "description": "Qualidade, formato e tipo do gelo podem influenciar sabor, diluição e até o preço dos coquetéis"
     }
 ]
