@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/exportacao-de-cafe-verde-do-brasil-despenca-em-agosto-e-eua-perdem-lideranca-diz-cecafe/",
+        "title": "Exportação de Café Verde do Brasil Despenca em Agosto, e EUA Perdem Liderança, Diz Cecafé",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Agro_Export.GlobalCafeVerde_10MAR25_Getty-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "Os EUA, tradicionalmente o principal destino dos embarques de café do Brasil, perderam a posição para a Alemanha em agosto"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/clima-quente-e-seco-reduz-producao-de-vinho-frances-para-abaixo-da-media-de-5-anos/",
+        "title": "Clima Quente e Seco Reduz Produção de Vinho Francês para Abaixo da Média de 5 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WSB_Vinhobranco_1JUl2025_Getty-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "A França, que compete com a Itália e a Espanha pelo posto de maior produtora de vinho do mundo, deve produzir 37,4 milhões de hectolitros (mln hl) este ano"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/entre-expectativas-sobre-o-ipca-ibovespa-fecha-em-queda-e-dolar-tem-leve-alta/",
         "title": "Entre Expectativas sobre o IPCA, Ibovespa Fecha em Queda e Dólar Tem Leve Alta",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-5-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-09T141727Z_1_LYNXNPEL880NH_RTROPTP_4_YEMEN-COFFEE-FERMENTATION-300x200.jpg",
         "date": "09/09/2025",
         "description": "Setor cafeeiro descarta reexportação via terceiros para driblar tarifas dos EUA, que já afetam exportações e pressionam a inflação no Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/colheita-de-cafe-dos-cooperados-da-cooxupe-atinge-97-da-safra/",
-        "title": "Colheita de Café dos Cooperados da Cooxupé Atinge 97% da Safra",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-300x200.jpg",
-        "date": "09/09/2025",
-        "description": "Levantamento mostra que a colheita já foi concluída na região das Matas de Minas e está na fase final nas demais áreas produtoras"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/sucesso-em-paraty-gelateria-miracolo-inaugura-endereco-nos-jardins/",
-        "title": "Sucesso em Paraty, Gelateria Miracolo Inaugura Endereço Cheio de Arte nos Jardins",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/250909-@agenciasairas-1IMG_8135-300x200.jpg",
-        "date": "09/09/2025",
-        "description": "Agora é possível provar as receitas exclusivas do italiano Roberto Belia em São Paulo, novo empreendimento em sociedade com Sandi Adamiu"
     }
 ]
