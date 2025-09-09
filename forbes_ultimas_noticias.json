@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/infomercial-elaine-palma-brilho-que-atravessa-fronteiras/",
+        "title": "Brilho Que Atravessa Fronteiras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/elaine-palma-if-300x200.png",
+        "date": "09/09/2025",
+        "description": "Como Elaine Palma transformou sua história em marca de joias de sucesso"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/mcbillionarios-os-empreendedores-bilionarios-que-comecaram-em-redes-de-fast-food/",
+        "title": "McBillionários: Os Empreendedores Bilionários que Começaram em Redes de Fast-Food",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/10/money-mcdonalds-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "De McDonald’s a Wendy’s, os primeiros empregos em fast-food ofereceram muito mais do que um salário a eles"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/09/ana-lovaglio-balbo-nova-geracao-leva-a-vinicola-familiar-ao-luxo-hoteleiro-da-relais-chateaux/",
+        "title": "Ana Lovaglio Balbo: a Nova Geração Que Levou a Vinícola Familiar Ao Luxo Hoteleiro da Relais & Châteaux",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ana-Lovaglio_Balbo_08set25_Forbes_Argentina-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "Do restaurante Osadía de Crear ao hotel em Mendoza, a estratégia inclui expansão para o Vale do Uco e captação de turistas do Brasil, Estados Unidos e Europa"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/quem-e-mitch-evans-aposta-da-jaguar-para-a-formula-e/",
+        "title": "Quem É Mitch Evans, Aposta da Jaguar para a Fórmula E",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Mitch-Evans_-_se-eu-ganhar-um-vou-querer-ganhar-dois-mas-o-foco-agora-e-o-primeiro-titulo-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "Piloto e protagonista da série Fórmula E: DRIVER, Evans fala sobre sua conexão com o Brasil e os bastidores de uma categoria que redefine o automobilismo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/ele-quer-fazer-os-americanos-entrarem-em-forma-com-junk-food-rico-em-proteina/",
+        "title": "Ele Quer Fazer os Americanos Entrarem em Forma com Junk Food Rico em Proteína",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ron-Penna_08set25_-Ethan-Pines_-Forbes-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "Ron Penna, CEO da Legendary Foods, acredita nesse caminho, tanto que vendeu sua primeira empresa de barras proteicas por US$ 1 bilhão"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2025/09/dados-escala-e-impacto-a-estrategia-da-lg-ad-solutions-para-o-brasil/",
+        "title": "Dados, Escala e Impacto: a Estratégia da LG Ad Solutions para o Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/LG-Ads-Renato-Citelli-2-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "Renato Citelli, líder da operação no país, destaca o crescimento da TV conectada e as oportunidades estratégicas para marcas e agências"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/09/pesquisa-revela-diferencas-entre-homens-e-mulheres-no-uso-de-apps-de-namoro/",
+        "title": "Pesquisa Revela Diferenças entre Homens e Mulheres no Uso de Apps de Namoro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/960x0-1-1-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "O jogo do namoro é injusto para os homens? Veja o que novas pesquisas revelam sobre o que eles podem fazer para conseguir melhores matches nos aplicativos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/contagem-regressiva-tudo-o-que-ja-sabemos-sobre-o-evento-da-apple-nesta-terca-feira/",
+        "title": "Contagem Regressiva: Tudo o Que Já Sabemos sobre o Evento da Apple Nesta Terça-feira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/2-20-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "O destaque absoluto deve ser o lançamento da linha iPhone 17, com quatro modelos esperados e uma nova proposta de design e desempenho"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/apos-recorde-historico-na-sexta-feira-ibovespa-cai-em-dia-de-realizacao-de-lucros/",
         "title": "Após Recorde Histórico na Sexta-feira, Ibovespa Cai em Dia de Realização de Lucros",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-4-300x200.png",
@@ -7,66 +63,10 @@
         "description": "Dólar mantém estabilidade, enquanto investidores mantêm expectativa de corte nos juros dos EUA"
     },
     {
-        "url": "https://forbes.com.br/forbes-money/2025/09/lista-forbes-os-jogadores-mais-bem-pagos-da-nfl-em-2025/",
+        "url": "https://forbes.com.br/escolhas-do-editor/2025/09/lista-forbes-os-jogadores-mais-bem-pagos-da-nfl-em-2025/",
         "title": "Lista Forbes: Os Jogadores Mais Bem Pagos da NFL em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-3-1-300x200.png",
         "date": "08/09/2025",
         "description": "Patrick Mahomes lidera a lista dos atletas mais bem pagos do futebol americanos; somados, eles faturaram US$ 571 milhões em 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/importacoes-de-soja-pela-china-atingem-recorde-em-agosto/",
-        "title": "Importações de Soja Pela China Atingem Recorde em Agosto",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/08/Forbes_Graos-de-soja-300x200.jpg",
-        "date": "08/09/2025",
-        "description": "Compradores chineses abocanharam grandes volumes da América do Sul em meio às contínuas tensões comerciais entre a China e os EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/confusao-sobre-documentos-interrompe-exportacoes-ucranianas-de-canola-e-soja/",
-        "title": "Confusão Interrompe Exportações Ucranianas de Canola e Soja",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Design-sem-nome-28-300x200.jpg",
-        "date": "08/09/2025",
-        "description": "Embarques foram interrompidos devido à falta de procedimentos claros do governo sobre documentos necessários"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/tegram-registra-recorde-na-exportacao-de-graos-em-agosto-e-eleva-embarques-em-7-no-ano/",
-        "title": "Tegram Registra Recorde na Exportação de Grãos em Agosto",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/agro_colheita_Soja_28fev25_REUTERSDiego-Vara-300x200.jpg",
-        "date": "08/09/2025",
-        "description": "Exportações brasileiras somaram 1,75 milhão de toneladas de soja e milho, informou o consórcio da empresa que atua no porto de Itaqui"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/aposta-em-corte-de-juros-por-parte-do-fed-leva-ouro-para-a-sua-maxima-historica/",
-        "title": "Aposta em Corte de Juros por Parte do Fed Leva Ouro para a Sua Máxima Histórica",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/ouro-unsplash-300x200.jpg",
-        "date": "08/09/2025",
-        "description": "Metal precioso no mercado spot ultrapassou o nível de US$ 3,6 mil por onça pela primeira vez nesta segunda-feira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/nutrien-vendera-participacao-na-argentina-profertil-por-us-600-milhoes/",
-        "title": "Nutrien Venderá Participação na Argentina Profertil por US$ 600 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/agro_Nutrien_13fev25_-Divulgacao-300x200.jpg",
-        "date": "08/09/2025",
-        "description": "Venda marca saída gradual da Nutrien da América do Sul e reforça foco estratégico em mercados prioritários"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/angelina-jolie-estreia-novo-filme-e-reflete-sobre-historico-de-cancer-na-familia/",
-        "title": "Angelina Jolie Estreia Novo Filme e Reflete Sobre Histórico de Câncer",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/angelina-jolie-couture-filme-300x200.jpg",
-        "date": "08/09/2025",
-        "description": "Vencedora do Oscar transmitiu mensagem sobre viver o melhor de sua vida antes da estreia mundial de \"Couture\""
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/empresa-chinesa-de-robotica-unitree-mira-avaliacao-de-us-7-bi-em-ipo-segundo-fontes/",
-        "title": "Empresa Chinesa de Robótica Unitree Mira Avaliação de US$ 7 Bi em IPO, Segundo Fontes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-08T141524Z_1_LYNXNPEL870OF_RTROPTP_4_CHINA-ROBOTS-GAMES-300x200.jpg",
-        "date": "08/09/2025",
-        "description": "Startup chinesa de robótica planeja uma das maiores ofertas do setor em meio a ofensiva tecnológica de Pequim"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/chinesa-byd-produzira-todos-os-carros-eletricos-para-a-europa-localmente-ate-2028/",
-        "title": "Chinesa BYD Produzirá Todos os Carros Elétricos para a Europa Localmente até 2028",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-08T144533Z_1_LYNXNPEL870PI_RTROPTP_4_AUTOSHOW-MUNIQUE-BYD-300x200.jpg",
-        "date": "08/09/2025",
-        "description": "Montadora busca driblar tarifas da UE e expandir mercado com híbridos plug-in e produção local em países como Hungria e Turquia"
     }
 ]
