@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/406918-estudo-revela-que-ia-aumentou-a-carga-de-trabalho-e-afetou-desempenho.htm",
+        "title": "Estudo revela que IA aumentou a carga de trabalho e afetou desempenho",
+        "description": "A adoção de ferramentas inteligentes no trabalho tem causado sobrecarga, de acordo com a maioria dos funcionários, muitos deles passando a ter problemas como a Síndrome de Burnout.",
+        "image": "https://tm.ibxk.com.br/2025/09/09/09111614543086.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406904-github-e-invadido-e-vaza-milhares-de-chaves-tokens-e-senhas.htm",
+        "title": "GitHub é invadido e vaza milhares de chaves, tokens e senhas",
+        "description": "Ataque permitia que criminosos acessassem códigos de outras empresas e vulnerabilizassem outros usuários por meio de pacotes Phyton maliciosos",
+        "image": "https://tm.ibxk.com.br/2025/09/09/09124749486207.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502288-gta-6-tera-sites-com-parodias-de-servicos-reais-como-uber-e-whatsapp-segundo-vazamento.htm",
         "title": "GTA 6 terá sites com paródias de serviços reais como Uber e WhatsApp, segundo vazamento",
         "description": "De acordo com o insider Tez2, uma fonte de boa credibilidade, GTA 6 terá sites que parodiam serviços da vida real, como Uber e WhatsApp! Confira os detalhes",
@@ -46,20 +60,6 @@
         "title": "Itaú demitiu cerca de mil funcionários por 'inatividade' durante o expediente no home office",
         "description": "Cerca de 1 mil funcionários do Itaú foram cortados sem aviso prévio por apresentarem inconsistências entre a jornada de trabalho e a atividade no computador do banco",
         "image": "https://tm.ibxk.com.br/2025/09/09/09113346156128.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502287-xbox-game-pass-podera-ser-usado-ate-mesmo-em-carros-em-breve.htm",
-        "title": "Xbox Game Pass poderá ser usado até mesmo em carros em breve",
-        "description": "Segundo a Microsoft, muito em breve os jogos do Xbox Cloud Gaming poderão ser jogados em carros com acesso ao webOS da LG! Confira os detalhes",
-        "image": "https://tm.ibxk.com.br/2025/09/09/09094229916071.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/406916-powerbeats-fit-vaza-horas-antes-do-evento-da-apple.htm",
-        "title": "Powerbeats Fit vaza horas antes do evento da Apple",
-        "description": "Fone de ouvido focado em esportes terá bateria de 30 horas, design contido e chip H1 da Maçã com cancelamento de ruído integrado",
-        "image": "https://tm.ibxk.com.br/2025/09/09/09104340317057.jpg",
         "date": null
     }
 ]

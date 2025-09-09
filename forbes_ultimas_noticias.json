@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2025/09/lista-forbes-2025-quem-sao-as-mulheres-mais-ricas-dos-eua/",
+        "title": "Lista Forbes 2025: Quem São as Mulheres Mais Ricas dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/mulheres-mais-ricas-dos-eua-lista-forbes-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "Pela primeira vez em seis anos, o número de mulheres na lista Forbes 400 diminuiu; neste ano, elas representam apenas 15,5% do ranking americano"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/favela-gala-2025-arrecada-mais-de-r-5-milhoes-em-noite-de-solidariedade/",
+        "title": "Favela Gala 2025 Arrecada Mais de R$ 5 Milhões em Noite de Solidariedade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Edu-Lyra-fundador-e-CEO-do-Gerando-Falcoes-discursou-durante-o-Favela-Gala-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "Leilão milionário, presença de artistas e show de Thiaguinho marcaram o jantar beneficente da Gerando Falcões"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/frutas-descartadas-da-ceasa-viram-energia-limpa-em-projeto-da-embrapa-e-ufc/",
+        "title": "Frutas descartadas da Ceasa viram energia limpa em projeto da Embrapa e UFC",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_frutas-estragadas_08set25_Luis-Diaz-Devesa_Getty-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "Conheça projeto desenvolvido no Ceará que mostra como a inovação pode dar destino sustentável a toneladas de alimentos inutilizados"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/09/um-ano-salvando-vidas-alianca-contra-o-cancer-do-colo-do-utero/",
         "title": "Um Ano Salvando Vidas: Aliança contra o Câncer do Colo do Útero",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1700287238-300x200.jpg",
@@ -15,7 +36,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/09/lista-forbes-400-quem-sao-os-mais-ricos-dos-eua-e-os-maiores-doadores/",
-        "title": "Lista Forbes 400: Quem São os Mais Ricos dos EUA e os Maiores Doadores?",
+        "title": "Lista Forbes: Quem São os Mais Ricos dos EUA?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-300x200.png",
         "date": "09/09/2025",
         "description": "A fortuna acumulada dos integrantes da lista avançou 22,2%; já a quantidade de doações que fizeram aumentou 11,15% no mesmo período"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/10/money-mcdonalds-300x200.jpg",
         "date": "09/09/2025",
         "description": "De McDonald’s a Wendy’s, os primeiros empregos em fast-food ofereceram muito mais do que um salário a eles"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/09/ana-lovaglio-balbo-nova-geracao-leva-a-vinicola-familiar-ao-luxo-hoteleiro-da-relais-chateaux/",
-        "title": "Ana Lovaglio Balbo: a Nova Geração Que Levou a Vinícola Familiar Ao Luxo Hoteleiro da Relais & Châteaux",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ana-Lovaglio_Balbo_08set25_Forbes_Argentina-300x200.jpg",
-        "date": "09/09/2025",
-        "description": "Do restaurante Osadía de Crear ao hotel em Mendoza, a estratégia inclui expansão para o Vale do Uco e captação de turistas do Brasil, Estados Unidos e Europa"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/quem-e-mitch-evans-aposta-da-jaguar-para-a-formula-e/",
-        "title": "Quem É Mitch Evans, Aposta da Jaguar para a Fórmula E",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Mitch-Evans_-_se-eu-ganhar-um-vou-querer-ganhar-dois-mas-o-foco-agora-e-o-primeiro-titulo-300x200.jpg",
-        "date": "09/09/2025",
-        "description": "Piloto e protagonista da série Fórmula E: DRIVER, Evans fala sobre sua conexão com o Brasil e os bastidores de uma categoria que redefine o automobilismo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/ele-quer-fazer-os-americanos-entrarem-em-forma-com-junk-food-rico-em-proteina/",
-        "title": "Ele Quer Fazer os Americanos Entrarem em Forma com Junk Food Rico em Proteína",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ron-Penna_08set25_-Ethan-Pines_-Forbes-300x200.jpg",
-        "date": "09/09/2025",
-        "description": "Ron Penna, CEO da Legendary Foods, acredita nesse caminho, tanto que vendeu sua primeira empresa de barras proteicas por US$ 1 bilhão"
     }
 ]
