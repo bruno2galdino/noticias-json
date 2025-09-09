@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/09/um-ano-salvando-vidas-alianca-contra-o-cancer-do-colo-do-utero/",
+        "title": "Um Ano Salvando Vidas: Aliança contra o Câncer do Colo do Útero",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1700287238-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "No mês de setembro, campanha chama atenção para os tumores ginecológicos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-collab/2025/09/a-via-crucis-da-reforma-tributaria/",
+        "title": "A Via-Crúcis da Reforma Tributária",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Gustavo-Fernandes-Foto-Talles-Kunzler-Divulgacao-300x200.jpg",
+        "date": "09/09/2025",
+        "description": "Transição na próxima década exigirá das empresas planejamento financeiro rigoroso, especialmente diante do fim de regimes vantajosos e da adoção do split pay"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/lista-forbes-400-quem-sao-os-mais-ricos-dos-eua-e-os-maiores-doadores/",
+        "title": "Lista Forbes 400: Quem São os Mais Ricos dos EUA e os Maiores Doadores?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-300x200.png",
+        "date": "09/09/2025",
+        "description": "A fortuna acumulada dos integrantes da lista avançou 22,2%; já a quantidade de doações que fizeram aumentou 11,15% no mesmo período"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/09/sempre-tive-perfil-de-lideranca-diz-nova-ceo-da-holding-clube/",
         "title": "\"O Líder Precisa Ser Um Pouco Terapeuta\", Diz Nova CEO da Holding Clube",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-co-holding-clube-priscila-pellegrini-1-300x200.jpg",
@@ -21,7 +42,7 @@
         "description": "Como Elaine Palma transformou sua história em marca de joias de sucesso"
     },
     {
-        "url": "https://forbes.com.br/forbes-money/2025/09/mcbillionarios-os-empreendedores-bilionarios-que-comecaram-em-redes-de-fast-food/",
+        "url": "https://forbes.com.br/escolhas-do-editor/2025/09/mcbillionarios-os-empreendedores-bilionarios-que-comecaram-em-redes-de-fast-food/",
         "title": "McBillionários: Os Empreendedores Bilionários que Começaram em Redes de Fast-Food",
         "image": "https://forbes.com.br/wp-content/uploads/2024/10/money-mcdonalds-300x200.jpg",
         "date": "09/09/2025",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ron-Penna_08set25_-Ethan-Pines_-Forbes-300x200.jpg",
         "date": "09/09/2025",
         "description": "Ron Penna, CEO da Legendary Foods, acredita nesse caminho, tanto que vendeu sua primeira empresa de barras proteicas por US$ 1 bilhão"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/09/dados-escala-e-impacto-a-estrategia-da-lg-ad-solutions-para-o-brasil/",
-        "title": "Dados, Escala e Impacto: a Estratégia da LG Ad Solutions para o Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/LG-Ads-Renato-Citelli-2-300x200.jpg",
-        "date": "09/09/2025",
-        "description": "Renato Citelli, líder da operação no país, destaca o crescimento da TV conectada e as oportunidades estratégicas para marcas e agências"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/09/pesquisa-revela-diferencas-entre-homens-e-mulheres-no-uso-de-apps-de-namoro/",
-        "title": "Pesquisa Revela Diferenças entre Homens e Mulheres no Uso de Apps de Namoro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/960x0-1-1-300x200.jpg",
-        "date": "09/09/2025",
-        "description": "O jogo do namoro é injusto para os homens? Veja o que novas pesquisas revelam sobre o que eles podem fazer para conseguir melhores matches nos aplicativos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/contagem-regressiva-tudo-o-que-ja-sabemos-sobre-o-evento-da-apple-nesta-terca-feira/",
-        "title": "Contagem Regressiva: Tudo o Que Já Sabemos sobre o Evento da Apple Nesta Terça-feira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/2-20-300x200.jpg",
-        "date": "09/09/2025",
-        "description": "O destaque absoluto deve ser o lançamento da linha iPhone 17, com quatro modelos esperados e uma nova proposta de design e desempenho"
     }
 ]
