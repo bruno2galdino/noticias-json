@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/406960-arm-lanca-lumex-nova-estrutura-base-para-chipsets-mobile-otimizada-para-ia.htm",
+        "title": "Arm lança Lumex, nova estrutura base para chipsets mobile otimizada para IA",
+        "description": "A nova plataforma Arm Lumex busca oferecer composições estruturais de chipsets praticamente prontos para fabricação e otimizadas para rodar IA.",
+        "image": "https://tm.ibxk.com.br/2025/09/10/10145329007003.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406957-iphone-17-inaugura-protecao-de-hardware-contra-spywares-no-processador-a19.htm",
+        "title": "iPhone 17 inaugura proteção de hardware contra spywares no processador A19",
+        "description": "O processador A19 é embarcado com uma proteção nativa contra spywares, evitando leituras não autorizadas fora dos limites da memória.",
+        "image": "https://tm.ibxk.com.br/2025/09/09/09150215592312.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602057-diferencas-entre-filme-e-livro-de-o-clube-do-crime-das-quintas-feiras-veja-o-que-muda.htm",
         "title": "Diferenças entre filme e livro de O Clube do Crime das Quintas Feiras! Veja o que muda",
         "description": "O Clube do Crime das Quintas-Feiras é um filme adaptado de um livro escrito por Richard Osman. Entenda as diferenças da história original para a versão da Netflix!",
@@ -39,20 +53,6 @@
         "title": "Pesquisadores descobrem novo malware de acesso remoto sendo proliferado por e-mail",
         "description": "Um novo malware conhecido como MonstereRAT é disseminado por e-mails e usa técnicas de evasão avançadas para evitar detecção",
         "image": "https://tm.ibxk.com.br/2025/08/04/04143516176131.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602058-task-nova-serie-da-hbo-max-possui-conexao-com-mare-of-easttown.htm",
-        "title": "Task, nova série da HBO Max, possui conexão com Mare of Easttown?",
-        "description": "MCU da HBO?! Diretor e atores de Task falam sobre referências e possíveis conexões entre as duas minisséries da HBO.",
-        "image": "https://tm.ibxk.com.br/2025/09/10/10093304378042.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406948-big-techs-usam-lobistas-em-orgaos-do-governo-aponta-reportagem.htm",
-        "title": "Big Techs usam lobistas em órgãos do governo, aponta reportagem",
-        "description": "Pesquisa aponta diversos profissionais transitaram entre cargos públicos e privados para satisfazer interesses de empresas de tecnologias no governo",
-        "image": "https://tm.ibxk.com.br/2025/09/10/10110942057144.jpg",
         "date": null
     }
 ]
