@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-10-09.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/03/sakamoto_feira_fore-1024x683.jpg",
+        "date": "10/09/2025",
+        "description": "SP Open – São Paulo (SP) – Sintético – US$ 275.094Segunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/confronto-entre-bia-haddad-e-laura-pigossi-fecha-a-rodada-desta-5a.html",
+        "title": "Confronto entre Bia Haddad e Laura Pigossi fecha a rodada desta 5ª",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/bia_spopen_slice_doro-1024x683.jpg",
+        "date": "10/09/2025",
+        "description": "São Paulo (SP) –As duas brasileiras mais bem colocadas no ranking da WTA vão se enfrentar nesta quinta-feira pelas oitavas de final do SP Open. Beatriz Haddad Maia e Laura Pigossi duelam no encerramento da rodada, por volta das 19h (de Brasília)."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/sierra-confirma-favoritismo-e-supera-nana-pelas-oitavas-do-sp-open.html",
         "title": "Sierra confirma favoritismo e supera Naná pelas oitavas do SP Open",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/solana_sierra_spopen_vibra.jpg",
@@ -12,13 +26,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/stefani_babos_spoopen_sorrindo.jpg",
         "date": "10/09/2025",
         "description": "São Paulo (SP) –A estreia de Luísa Stefani na chave de duplas do SP Open foi com resultado positivo. Principais cabeças de chave do torneio, Stefani e a húngara Timea Babos venceram a britânica Alicia Barnett e a francesa Elixane Lechemia por 6/4 e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-10-09.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/03/sakamoto_feira_fore-1024x683.jpg",
-        "date": "10/09/2025",
-        "description": "SP Open – São Paulo (SP) – Sintético – US$ 275.094Segunda rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/julia-konishi-e-sofia-mendonca-sao-as-primeiras-nas-quartas-em-sao-luis.html",
@@ -35,8 +42,8 @@
         "description": "São Paulo (SP) –Brasileira mais bem colocada no ranking entre as especialistas em duplas, Luísa Stefani estreia nesta quarta-feira no SP Open, ao lado da húngara Timea Babos. Principais cabeças de chave, elas enfrentam a britânica Alicia Barnett e a francesa Elixane Lechemia na Quadra 1 do Parque Villa Lobos. Acompanhe ao vivo e gratuitamente no site oficial do torneio, disponívelneste link."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/jones-vence-mais-uma-e-faz-quartas-tjen-tambem-avanca-e-aguarda-eala.html",
-        "title": "Jones vence mais uma e faz quartas, Tjen também avança e aguarda Eala",
+        "url": "https://tenisbrasil.uol.com.br/jones-e-tjen-sao-as-primeiras-nas-quartas-do-sp-open.html",
+        "title": "Jones e Tjen são as primeiras nas quartas do SP Open",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/fran_jones_spopen_r16.jpg",
         "date": "10/09/2025",
         "description": "São Paulo (SP) –No jogo que abriu a programação da Quadra Maria Esther Bueno nesta quarta-feira, a britânica Francesca Jones garantiu vaga nas quartas de final do SP Open. A jogadora de 24 anos e 85ª do ranking superou a norte-americana Whitney Osuigwe, 136ª colocada, por 6/4 e 7/6 (8-6) em 1h46 de partida."
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/djokovic-usopen-voleia-2025-1-1024x681.jpg",
         "date": "10/09/2025",
         "description": "Atenas (Grécia)– Está cada vez mais consolidada a mudança do sérvio Novak Djokovic para a Grécia. Segundo relata oDaily Mail, ele matriculou seus filhos em uma escola particular grega enquanto sua família se muda para uma nova vida no país em meio a relatos de que tem sido alvo do governo sérvio por apoiar protestos estudantis."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sp-open-transforma-o-parque-villa-lobos-com-quadras-e-diversao-aos-fas.html",
-        "title": "SP Open transforma o Parque Villa-Lobos com quadras e diversão aos fãs",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/quadra-central-maria-esther-bueno.jpg",
-        "date": "10/09/2025",
-        "description": "São Paulo (SP) –O SP Open, torneio WTA 250 que marca o retorno da elite do tênis feminino a São Paulo após 25 anos, está sendo mais do que uma competição em quadra. O público que for no Parque Villa-Lobos até o próximo domingo terá acesso a uma série de ativações interativas, com os patrocinadores, transformando o evento em um festival de experiências para todos."
     }
 ]
