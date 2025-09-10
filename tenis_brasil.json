@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-10-09.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/447944_1140451_54300648201_e02c40d215_k-1024x683.jpg",
+        "date": "10/09/2025",
+        "description": "SP Open – São Paulo (SP) – Sintético – US$ 275.094Segunda rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/alves-boscardin-marcondes-e-daniel-avancam-no-itf-de-cuiaba.html",
         "title": "Alves, Boscardin, Marcondes e Daniel avançam no ITF de Cuiabá",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/boscardin_santos_term.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/nana_victoria_spopen.jpg",
         "date": "09/09/2025",
         "description": "Mário Sérgio CruzEspecial para TenisBrasil"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bicampea-sabalenka-visita-tambem-o-tonight-show-na-segunda-feira.html",
-        "title": "Bicampeã Sabalenka visitou também o Tonight Show na segunda-feira",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/sabalenka_tonight-show.jpg",
-        "date": "09/09/2025",
-        "description": "Nova York (EUA) –A segunda-feira foi o dia de Aryna Sabalenka em Nova York, com agenda cheia, menos de 48 horas após seu segundo título consecutivo do US Open."
     }
 ]
