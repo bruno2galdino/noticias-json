@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/as-empresas-nao-estao-preocupadas-diz-presidente-do-google-cloud-para-america-latina-sobre-possivel-interferencia-dos-eua/",
+        "title": "\"As Empresas Não Estão Preocupadas\", Diz Presidente do Google Cloud para América Latina sobre Possível Interferência dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Eduardo-presidente-google-cloud-latam-300x200.png",
+        "date": "10/09/2025",
+        "description": "Durante o Google Cloud Summit Brasil, Eduardo López afirmou que a possibilidade de tensões geopolíticas aplicadas ao desenvolvimento tecnológico não é uma preocupação entre os clientes da região"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/vivo-ventures-investe-r-35-milhoes-em-plataforma-financeira-para-pmes/",
+        "title": "Vivo Ventures Investe R$ 35 Milhões em Plataforma Financeira para PMEs",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-7-300x200.png",
+        "date": "10/09/2025",
+        "description": "Valor investido é o maior da história da empresa, criada em 2022, para uma única rodada"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/como-a-fortuna-de-larry-ellison-saltou-us-100-bilhoes-em-um-dia/",
+        "title": "Como a Fortuna de Larry Ellison Saltou US$ 100 Bilhões em um Dia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-7-1-300x200.png",
+        "date": "10/09/2025",
+        "description": "O cofundador e diretor de tecnologia da Oracle teve o maior ganho diário já registrado por um bilionário e se aproxima do homem mais rico do mundo, Elon Musk"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/lavoro-obtem-apoio-para-plano-de-reestruturacao-extrajudicial-no-brasil/",
+        "title": "Lavoro Obtém Apoio para Plano de Reestruturação Extrajudicial no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-09T204644Z_1_LYNXNPEL8811D_RTROPTP_3_BRASIL-GRANOS-OTC-300x200.jpg",
+        "date": "10/09/2025",
+        "description": "Plano apresentado em junho recebe adesão de grandes credores do setor agrícola"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/minerva-tem-tres-fabricas-habilitadas-para-exportacao-a-indonesia/",
         "title": "Minerva Tem Três Fábricas Habilitadas para Exportação À Indonésia",
         "image": "https://forbes.com.br/wp-content/uploads/2024/12/Agro_Minerva_CarneInNatura_5dez24_Getty_FGTrade-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_pao_forma_08set25_Getty-300x200.jpg",
         "date": "10/09/2025",
         "description": "A japonesa bitBiome, em parceria com a Ajinomoto, usa pesquisa com células únicas e inteligência artificial para criar caminhos capazes de transformar indústrias como a de alimentos, energia e reciclagem"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/bill-gates-nao-esta-entre-os-10-mais-ricos-dos-eua-pela-1a-vez-em-34-anos/",
-        "title": "Bill Gates Não Está entre os 10 Mais Ricos dos EUA Pela 1ª Vez em 34 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Bill-Gates-Fundacao-Bill-Gates-Money-Mulheres-300x200.png",
-        "date": "10/09/2025",
-        "description": "O seu divórcio e o compromisso com causas filantrópicas estão por trás da queda no ranking"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/beatriz-haddad-estreia-com-vitoria-no-sp-open/",
-        "title": "Beatriz Haddad Estreia com Vitória no SP Open",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/bia-haddad-tenis-sp-open-2-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "Atual número 27 do mundo medirá forças nas oitavas de final com outra atleta do Brasil, Laura Pigossi"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/brandvoice-blip-id-2025-reune-gigantes-da-tecnologia-para-discutir-o-futuro-da-ia-conversacional/",
-        "title": "Blip Id 2025 Discute o Futuro da IA Conversacional",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/tech-bv-blip-id-1-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "Realizado em São Paulo, evento com patrocínio de Meta, Google e Microsoft reuniu mais de 4 mil pessoas e reforçou a liderança do Brasil nesse mercado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/indice-do-varejo-stone-aponta-recuo-de-mais-de-1-em-agosto/",
-        "title": "Índice do Varejo Stone Aponta Recuo de Mais de 1% em Agosto",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/varejo-25-de-marco-money-300x200.png",
-        "date": "10/09/2025",
-        "description": "No mês, apenas setor de Hipermercados, Supermercados, Produtos Alimentícios, Bebidas e Fumo teve alta"
     }
 ]
