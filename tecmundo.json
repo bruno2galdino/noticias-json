@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/406937-novo-malware-raton-pode-roubar-contas-bancarias-e-invadir-conta-whatsapp.htm",
+        "title": "Novo malware RatOn pode roubar contas bancárias e invadir conta WhatsApp",
+        "description": "Mais sofisticado que os malwares comuns, o RatOn combina transferências bancárias automáticas, ransomware e ataques a aplicativos de comunicação",
+        "image": "https://tm.ibxk.com.br/2025/09/09/09170628113020.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/406938-o-samsung-galaxy-fold-7-e-o-fim-da-evolucao-da-linha.htm",
+        "title": "O Samsung Galaxy Fold 7 é o fim da evolução da linha?",
+        "description": "O novo celular dobrável da Samsung é uma enorme evolução do seu anterior, mas pode decretar o fim das inovações na linha.",
+        "image": "https://tm.ibxk.com.br/2025/09/10/10115034016229.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602062-filme-live-action-de-my-hero-academia-da-netflix-ganha-novidades.htm",
         "title": "Filme live-action de My Hero Academia da Netflix ganha novidades",
         "description": "Após um longo tempo sem novidades, a adaptação de My Hero Academia encontrou um roteirista",
@@ -46,20 +60,6 @@
         "title": "iPhone 17 inaugura proteção de hardware contra spywares no processador A19",
         "description": "O processador A19 é embarcado com uma proteção nativa contra spywares, evitando leituras não autorizadas fora dos limites da memória.",
         "image": "https://tm.ibxk.com.br/2025/09/09/09150215592312.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602057-diferencas-entre-filme-e-livro-de-o-clube-do-crime-das-quintas-feiras-veja-o-que-muda.htm",
-        "title": "Diferenças entre filme e livro de O Clube do Crime das Quintas Feiras! Veja o que muda",
-        "description": "O Clube do Crime das Quintas-Feiras é um filme adaptado de um livro escrito por Richard Osman. Entenda as diferenças da história original para a versão da Netflix!",
-        "image": "https://tm.ibxk.com.br/2025/09/09/09195034443016.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/406953-nvidia-anuncia-chip-rubin-cpx-para-inferencia-de-super-ias.htm",
-        "title": "Nvidia anuncia chip Rubin CPX para inferência de Super IAs",
-        "description": "Nova tecnologia está cerca de um ano distante, e quando combinada em um rack Vera Rubin consegue entregar quase 8 exaFLOPS de poder",
-        "image": "https://tm.ibxk.com.br/2025/09/10/10130602962029.jpg",
         "date": null
     }
 ]
