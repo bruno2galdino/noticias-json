@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/minerva-tem-tres-fabricas-habilitadas-para-exportacao-a-indonesia/",
+        "title": "Minerva Tem Três Fábricas Habilitadas para Exportação À Indonésia",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/Agro_Minerva_CarneInNatura_5dez24_Getty_FGTrade-300x200.jpg",
+        "date": "10/09/2025",
+        "description": "Empresa amplia para nove o número de fábricas habilitadas para exportação à Indonésia, com capacidade diária superior a 11 mil cabeças"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/desmatamento-cai-48-na-amazonia-em-agosto/",
+        "title": "Desmatamento Cai 48% na Amazônia em Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Life_Amazonia-300x200.jpg",
+        "date": "10/09/2025",
+        "description": "Ministra apresenta dados de desmatamento durante lançamento de programa voltado à proteção ambiental em Manaus"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/apesar-da-queda-de-popularidade-elon-musk-continua-sendo-a-pessoa-mais-rica-dos-estados-unidos/",
+        "title": "Apesar da Queda de Popularidade, Elon Musk Continua Sendo a Pessoa Mais Rica dos Estados Unidos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0x0-24-1-300x200.jpg",
+        "date": "10/09/2025",
+        "description": "Dono da Tesla lidera a lista pelo quarto ano consecutivo e aumenta a distância para o segundo lugar"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/09/cabeca-cheia-o-que-fazer-para-se-livrar-da-sobrecarga-mental/",
         "title": "Cabeça Cheia: o Que Fazer para se Livrar da Sobrecarga Mental?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1375235883-300x200.jpg",
@@ -30,7 +51,7 @@
     {
         "url": "https://forbes.com.br/forbes-mulher/2025/09/beatriz-haddad-estreia-com-vitoria-no-sp-open/",
         "title": "Beatriz Haddad Estreia com Vitória no SP Open",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/bia-haddad-tenis-sp-open-1-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/bia-haddad-tenis-sp-open-2-300x200.jpg",
         "date": "10/09/2025",
         "description": "Atual número 27 do mundo medirá forças nas oitavas de final com outra atleta do Brasil, Laura Pigossi"
     },
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/varejo-25-de-marco-money-300x200.png",
         "date": "10/09/2025",
         "description": "No mês, apenas setor de Hipermercados, Supermercados, Produtos Alimentícios, Bebidas e Fumo teve alta"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/o-novo-plano-de-felipe-bronze-uma-incubadora-para-acelerar-jovens-chefs/",
-        "title": "O Novo Plano de Felipe Bronze: uma “Incubadora” para Acelerar Jovens Chefs",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Life_Felipe-Bronze-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "Projeto Bronze+ já nasce com cinco restaurantes em parceria com cozinheiros da nova geração e aposta em modelo de negócio escalável, com opções de sociedade e royalties"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/inflacao-recua-011-em-agosto-com-alivio-no-preco-dos-alimentos-e-da-energia-eletrica/",
-        "title": "Inflação Recua 0,11% em Agosto com Alívio no Preço dos Alimentos e da Energia Elétrica",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/10/2024-10-14T125420Z_1_LYNXMPEK9D0D4_RTROPTP_4_SPAIN-ENERGY-1-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "Número não deve alterar projeção do mercado para a condução da política monetária"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/infomercial-pz-empreendimentos-a-marca-que-conecta-a-forca-do-agro-ao-desenvolvimento-urbano/",
-        "title": "A Marca Que Conecta a Força do Agro Ao Desenvolvimento Urbano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-8-300x200.png",
-        "date": "10/09/2025",
-        "description": "PZ Empreendimentos consolida sua entrada no mercado imobiliário de Sinop (MT), atuando em quatro verticais de negócios: Bioliving, Ecomall, Offices e Logístico"
     }
 ]
