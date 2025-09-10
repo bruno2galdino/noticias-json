@@ -14,6 +14,13 @@
         "description": "Número não deve alterar projeção do mercado para a condução da política monetária"
     },
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/infomercial-pz-empreendimentos-a-marca-que-conecta-a-forca-do-agro-ao-desenvolvimento-urbano/",
+        "title": "A Marca Que Conecta a Força do Agro Ao Desenvolvimento Urbano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-8-300x200.png",
+        "date": "10/09/2025",
+        "description": "PZ Empreendimentos consolida sua entrada no mercado imobiliário de Sinop (MT), atuando em quatro verticais de negócios: Bioliving, Ecomall, Offices e Logístico"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/o-brasil-entre-o-risco-de-tiro-no-pe-e-a-chance-de-liderar-o-debate-climatico-global-na-cop30/",
         "title": "O Brasil entre o Risco de “Tiro no Pé” e a Chance de Liderar o Debate Climático Global na COP30",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_aquecimento_global-08set25_Elmar-Gubisch_Getty-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-geracao-z-300x200.jpg",
         "date": "10/09/2025",
         "description": "Executivos das empresas dão dicas para se sair bem nos processos seletivos de algumas das maiores empresas no país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/apos-carreira-consolidada-no-brasil-vp-da-cit-recomecou-do-zero-nos-eua-e-hoje-lidera-a-expansao-global-da-empresa/",
-        "title": "Após Carreira Consolidada no Brasil, VP da CI&T se Reinventa nos EUA e Fortalece Expansão Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/BobW-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "Bob Wollheim fala sobre negócios, carreira, a percepção internacional do mercado brasileiro como hub de inovação e os desafios de posicionar uma empresa global"
     }
 ]
