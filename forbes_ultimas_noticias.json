@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/o-novo-plano-de-felipe-bronze-uma-incubadora-para-acelerar-jovens-chefs/",
+        "title": "O Novo Plano de Felipe Bronze: uma “Incubadora” para Acelerar Jovens Chefs",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Life_Felipe-Bronze-300x200.jpg",
+        "date": "10/09/2025",
+        "description": "Projeto Bronze+ já nasce com cinco restaurantes em parceria com cozinheiros da nova geração e aposta em modelo de negócio escalável, com opções de sociedade e royalties"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/inflacao-recua-011-em-agosto-com-alivio-no-preco-dos-alimentos-e-da-energia-eletrica/",
+        "title": "Inflação Recua 0,11% em Agosto com Alívio no Preço dos Alimentos e da Energia Elétrica",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/10/2024-10-14T125420Z_1_LYNXMPEK9D0D4_RTROPTP_4_SPAIN-ENERGY-1-300x200.jpg",
+        "date": "10/09/2025",
+        "description": "Número não deve alterar projeção do mercado para a condução da política monetária"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/o-brasil-entre-o-risco-de-tiro-no-pe-e-a-chance-de-liderar-o-debate-climatico-global-na-cop30/",
         "title": "O Brasil entre o Risco de “Tiro no Pé” e a Chance de Liderar o Debate Climático Global na COP30",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_aquecimento_global-08set25_Elmar-Gubisch_Getty-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/BobW-300x200.jpg",
         "date": "10/09/2025",
         "description": "Bob Wollheim fala sobre negócios, carreira, a percepção internacional do mercado brasileiro como hub de inovação e os desafios de posicionar uma empresa global"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/iphone-fininho-e-precos-elevados-as-reacoes-a-nova-geracao-da-apple/",
-        "title": "iPhone Fininho e Preços Elevados: as Reações À Nova Geração da Apple",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/iphone_air-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "O público brasileiro reagiu com preocupação aos custos: o modelo básico parte de R$ 7.999, enquanto o Pro Max pode chegar a R$ 18.499"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/exportacao-de-cafe-verde-do-brasil-despenca-em-agosto-e-eua-perdem-lideranca-diz-cecafe/",
-        "title": "Exportação de Café Verde do Brasil Despenca em Agosto, e EUA Perdem Liderança, Diz Cecafé",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Agro_Export.GlobalCafeVerde_10MAR25_Getty-300x200.jpg",
-        "date": "09/09/2025",
-        "description": "Os EUA, tradicionalmente o principal destino dos embarques de café do Brasil, perderam a posição para a Alemanha em agosto"
     }
 ]
