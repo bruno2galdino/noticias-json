@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/coluna/2025/09/reforma-tributaria-e-imoveis-o-que-muda-na-pratica-para-quem-tem-ou-quer-ter-um-patrimonio/",
+        "title": "Reforma Tributária e Imóveis: o Que Muda na Prática para Quem Tem (ou Quer Ter) um Patrimônio",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Money_Imoveis_Sao-Paulo_GettyImages-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "A grande novidade é o Cadastro Imobiliário Brasileiro (CIB), que muita gente já apelidou de “CPF dos imóveis”"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/09/acordo-de-us-17-bi-da-spacex-com-a-echostar-depende-do-sucesso-do-foguete-starship/",
         "title": "Acordo de US$ 17 Bi da SpaceX com a Echostar Depende do Sucesso do Foguete Starship",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/SpaceX-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/AI-first-300x200.png",
         "date": "11/09/2025",
         "description": "Alexandre Maioral escreve sobre a importância da liderança estratégica para o avanço da tecnologia nas empresas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/em-sincronia-com-recorde-do-sp-ibovespa-avanca-e-se-aproxima-dos-143-mil-pontos/",
-        "title": "Em Sincronia com Recorde do S&P, Ibovespa Avança e se Aproxima dos 143 Mil Pontos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-6-300x200.png",
-        "date": "10/09/2025",
-        "description": "Dados de inflação sobre economias americana e brasileira endossaram dia positivo para os índices"
     }
 ]
