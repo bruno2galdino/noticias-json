@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/vendas-no-varejo-do-brasil-recuam-03-em-julho-em-linha-com-o-esperado/",
+        "title": "Vendas no Varejo do Brasil Recuam 0,3% em Julho, em Linha com o Esperado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-3-2-300x200.png",
+        "date": "11/09/2025",
+        "description": "Com nova queda, o setor chega ao quarto mês consecutivo de queda, com metade das atividades em baixa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/precos-ao-consumidor-dos-eua-aumentam-mais-do-que-o-esperado-em-agosto/",
+        "title": "Preços Ao Consumidor dos EUA Aumentam Mais do Que o Esperado em Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_alimentos_supermercado_11abr_2025_Getty-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Avanço foi de 0,4% no mês passado, depois de alta de 0,2% em julho"
+    },
+    {
         "url": "https://forbes.com.br/coluna/2025/09/reforma-tributaria-e-imoveis-o-que-muda-na-pratica-para-quem-tem-ou-quer-ter-um-patrimonio/",
         "title": "Reforma Tributária e Imóveis: o Que Muda na Prática para Quem Tem (ou Quer Ter) um Patrimônio",
         "image": "https://forbes.com.br/wp-content/uploads/2024/02/Money_Imoveis_Sao-Paulo_GettyImages-300x200.jpg",
@@ -49,24 +63,10 @@
         "description": "De barras maturadas por anos em barris de conhaque a trufas envoltas em ouro, o universo do chocolate ultraluxuoso une narrativa, escassez e status — e já mira o Brasil"
     },
     {
-        "url": "https://forbes.com.br/forbessaude/2025/09/o-que-e-reverse-catfishing-e-por-que-a-geracao-z-esta-aderindo/",
+        "url": "https://forbes.com.br/escolhas-do-editor/2025/09/o-que-e-reverse-catfishing-e-por-que-a-geracao-z-esta-aderindo/",
         "title": "O Que É “Reverse Catfishing” e por Que a Geração Z Está Aderindo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/960x0-2-1-300x200.jpg",
         "date": "11/09/2025",
         "description": "Jovens da Geração Z estão valorizando autenticidade e rompendo padrões de aparência nos relacionamentos online"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/fernanda-abilel-como-se-preparar-para-os-riscos-e-vieses-da-gestao-financeira/",
-        "title": "Como se Preparar para os Riscos e Vieses da Gestão Financeira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fernanda-abilel-remuneacaoo-gestao-financeira-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Profissionais precisam compreender o funcionamento de programas de incentivo, conhecer os riscos e se preparar para lidar com as incertezas do mercado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/toda-empresa-deve-se-tornar-uma-ai-first-company-e-voce-precisa-se-preparar-para-isso/",
-        "title": "Toda Empresa Deve se Tornar uma “AI-first Company” – e Você Precisa se Preparar para Isso",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/AI-first-300x200.png",
-        "date": "11/09/2025",
-        "description": "Alexandre Maioral escreve sobre a importância da liderança estratégica para o avanço da tecnologia nas empresas"
     }
 ]
