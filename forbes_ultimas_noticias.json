@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/petrodolares-no-prato-como-o-principe-da-arabia-saudita-avanca-sobre-o-agro-do-brasil/",
+        "title": "Petrodólares no Prato: Como o Príncipe da Arábia Saudita Avança sobre o Agro do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Mohammed-bin-Salman-MBS-_10set25_Chesnot_Getty-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Saiba o que Mohammed bin Salman busca no país que ele considera hoje um aliado estratégico de seus negócios no Oriente Médio"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/embraer-mira-alcancar-em-2028-entregas-de-100-jatos-comerciais-por-ano-diz-presidente/",
+        "title": "Embraer Mira Alcançar em 2028 Entregas de 100 Jatos Comerciais por Ano, Diz Presidente",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Jatos-E-195-da-Embraer-no-Mexico-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "A Embraer enfrentou atrasos no fornecimento de motores de seus jatos E2, a geração mais nova de aviões comerciais da companhia"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/09/stf-forma-maioria-para-condenar-bolsonaro-por-5-crimes-em-tentativa-de-golpe-de-estado/",
+        "title": "STF Forma Maioria para Condenar Bolsonaro por 5 Crimes em Tentativa de Golpe de Estado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-6-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "O ex-presidente, que está em prisão domiciliar, nega todas as acusações"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-collab/2025/09/saude-mental-e-um-pivotal-moment-da-jornada-empreendedora/",
+        "title": "Saúde Mental É um Pivotal Moment da Jornada Empreendedora",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1317360251-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Cuidar da saúde mental é um fator estratégico para a resiliência e o crescimento sustentável de quem empreende"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/09/albania-nomeia-bot-de-ia-como-ministro-para-combater-corrupcao/",
         "title": "Albânia Nomeia Bot de IA Como Ministro para Combater Corrupção",
         "image": "https://forbes.com.br/wp-content/uploads/2024/11/ROBO-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/07/agro_etanol_19-jul-23_Reuters-300x200.jpg",
         "date": "11/09/2025",
         "description": "O milho está impulsionando o aumento da produção de etanol"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/fundecitrus-reduz-previsao-de-safra-de-laranja-na-principal-area-citricola-do-brasil/",
-        "title": "Fundecitrus Reduz Previsão de Safra de Laranja na Principal Área Citrícola do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-10T184139Z_1_LYNXNPEL890XS_RTROPTP_4_BRAZIL-ORANGE-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Queda na safra é atribuída ao avanço do greening e à lentidão na colheita"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/industria-de-racao-animal-do-brasil-reduz-previsao-de-producao-em-2025-apos-gripe-aviaria/",
-        "title": "Indústria de Ração Animal do Brasil Reduz Previsão de Produção em 2025 após Gripe Aviária",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-10T200137Z_1_LYNXNPEL890ZM_RTROPTP_4_USA-TRADE-CHINA-HOGS-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Exportações de frango devem recuar em 2025 após impacto da gripe aviária na principal consumidora de ração"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/trump-exclui-tarifa-de-10-de-celulose-medida-que-beneficia-o-brasil/",
-        "title": "Trump Exclui Tarifa de 10% sobre a Celulose em Medida Que Beneficia o Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/12/Agro_preco-celulose-Suzano-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Em agosto deste ano, primeiro mês do tarifaço, o volume de vendas de celulose brasileira para os EUA foi de US$ 94,6 milhões, queda de 22,7% ante aos US$ 122,4 milhões de dólares de agosto de 2024"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/parlamento-da-espanha-derruba-projeto-de-reducao-da-jornada-de-trabalho/",
-        "title": "Parlamento da Espanha Derruba Projeto de Redução da Jornada de Trabalho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Espanha-300x200.png",
-        "date": "11/09/2025",
-        "description": "A ministra do Trabalho prometeu reapresentar a medida que reduz o teto da jornada semanal de 40 para 37 horas e meia – o que equivale a meia hora a menos por dia"
     }
 ]
