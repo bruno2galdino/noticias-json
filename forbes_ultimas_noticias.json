@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/albania-nomeia-bot-de-ia-como-ministro-para-combater-corrupcao/",
+        "title": "Albânia Nomeia Bot de IA Como Ministro para Combater Corrupção",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/ROBO-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "A inteligência artificial administrará todas as licitações públicas nas quais o governo contrata empresas privadas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/oracle-ruma-para-clube-do-trilhao-de-dolares/",
+        "title": "Oracle Ruma para Clube do Trilhão de Dólares",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Money_LaryEllison_Oracle_GettyImages-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "A valorização da Oracle também colocou o cofundador da empresa, Larry Ellison, no caminho para superar Elon Musk como o homem mais rico do mundo"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/recorde-de-soja-e-volume-de-milho-jamais-visto-assim-brasil-vai-fechar-a-safra-2024-25/",
+        "title": "Recorde de Soja e Volume de Milho Jamais Visto, Assim Brasil Vai Fechar a Safra 2024/25",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Agro_BalcaoAgricolaDoBrasil_Milho_Soja_01nov24_Getty_Studio2013-300x200.png",
+        "date": "11/09/2025",
+        "description": "Os números finais representam um aumento de 1,82 milhão de toneladas na produção de soja e um aumento de 2,67 milhões de toneladas nas expectativas de produção total de milho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/bc-determina-que-bancos-rejeitem-pagamentos-para-contas-suspeitas-de-fraudes/",
+        "title": "BC Determina Que Bancos Rejeitem Pagamentos para Contas Suspeitas de Fraudes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/vista-banco-central-brasilia-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "De acordo com a autarquia, a medida vale para transações realizadas com qualquer instrumento de pagamento e entra em vigor imediatamente"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/ibge-reduz-previsao-de-safra-de-cafe-do-brasil-e-passa-a-ver-queda-anual/",
+        "title": "IBGE Reduz Previsão de Safra de Café do Brasil e Passa a Ver Queda Anual",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/agro-cafe-robusta-08Ago23-PauloWhitaker-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Mais cedo neste mês, a Conab também reduziu sua projeção de safra, mas manteve um crescimento na comparação com 2024"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/inpasa-quer-descentralizar-oferta-de-etanol-no-brasil-diz-vice-presidente/",
+        "title": "Inpasa Quer Descentralizar Oferta de Etanol no Brasil, Diz Vice-presidente",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/07/agro_etanol_19-jul-23_Reuters-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "O milho está impulsionando o aumento da produção de etanol"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/fundecitrus-reduz-previsao-de-safra-de-laranja-na-principal-area-citricola-do-brasil/",
         "title": "Fundecitrus Reduz Previsão de Safra de Laranja na Principal Área Citrícola do Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-10T184139Z_1_LYNXNPEL890XS_RTROPTP_4_BRAZIL-ORANGE-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Espanha-300x200.png",
         "date": "11/09/2025",
         "description": "A ministra do Trabalho prometeu reapresentar a medida que reduz o teto da jornada semanal de 40 para 37 horas e meia – o que equivale a meia hora a menos por dia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/safra-de-milho-argentina-pode-atingir-recorde-de-61-milhoes-de-toneladas/",
-        "title": "Safra de Milho Argentina Pode Atingir Recorde de 61 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-10T204328Z_1_LYNXNPEL8910H_RTROPTP_4_PARAGUAY-SOYBEANS-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Produção recorde depende de clima favorável e substituição da soja por milho na área plantada"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/sp-open-luisa-stefani-e-timea-babos-vencem-em-estreia-das-duplas/",
-        "title": "SP Open: Luisa Stefani e Timea Babos Vencem em Estreia das Duplas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/luisa-stefani-timea-babos-sp-open-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Nauhany Silva foi desclassificada após derrota para argentina Solana Sierra"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/importacao-de-sorgo-do-brasil-pela-china-pode-ocorrer-ainda-em-2025/",
-        "title": "Importação de Sorgo do Brasil Pela China Pode Ocorrer Ainda em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Sorgo-Reuters-300x200.png",
-        "date": "11/09/2025",
-        "description": "Envio seria alternativa para país asiático, que tem como principal fornecedor os EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/vendas-no-varejo-do-brasil-recuam-03-em-julho-em-linha-com-o-esperado/",
-        "title": "Vendas no Varejo do Brasil Recuam 0,3% em Julho, em Linha com o Esperado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-3-2-300x200.png",
-        "date": "11/09/2025",
-        "description": "Com nova queda, o setor chega ao quarto mês consecutivo de queda, com metade das atividades em baixa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/precos-ao-consumidor-dos-eua-aumentam-mais-do-que-o-esperado-em-agosto/",
-        "title": "Preços Ao Consumidor dos EUA Aumentam Mais do Que o Esperado em Agosto",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_alimentos_supermercado_11abr_2025_Getty-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Avanço foi de 0,4% no mês passado, depois de alta de 0,2% em julho"
-    },
-    {
-        "url": "https://forbes.com.br/coluna/2025/09/reforma-tributaria-e-imoveis-o-que-muda-na-pratica-para-quem-tem-ou-quer-ter-um-patrimonio/",
-        "title": "Reforma Tributária e Imóveis: o Que Muda na Prática para Quem Tem (ou Quer Ter) um Patrimônio",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Money_Imoveis_Sao-Paulo_GettyImages-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "A grande novidade é o Cadastro Imobiliário Brasileiro (CIB), que muita gente já apelidou de “CPF dos imóveis”"
     }
 ]
