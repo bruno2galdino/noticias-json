@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/fundecitrus-reduz-previsao-de-safra-de-laranja-na-principal-area-citricola-do-brasil/",
+        "title": "Fundecitrus Reduz Previsão de Safra de Laranja na Principal Área Citrícola do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-10T184139Z_1_LYNXNPEL890XS_RTROPTP_4_BRAZIL-ORANGE-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Queda na safra é atribuída ao avanço do greening e à lentidão na colheita"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/industria-de-racao-animal-do-brasil-reduz-previsao-de-producao-em-2025-apos-gripe-aviaria/",
+        "title": "Indústria de Ração Animal do Brasil Reduz Previsão de Produção em 2025 após Gripe Aviária",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-10T200137Z_1_LYNXNPEL890ZM_RTROPTP_4_USA-TRADE-CHINA-HOGS-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Exportações de frango devem recuar em 2025 após impacto da gripe aviária na principal consumidora de ração"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/trump-exclui-tarifa-de-10-de-celulose-medida-que-beneficia-o-brasil/",
+        "title": "Trump Exclui Tarifa de 10% sobre a Celulose em Medida Que Beneficia o Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/Agro_preco-celulose-Suzano-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Em agosto deste ano, primeiro mês do tarifaço, o volume de vendas de celulose brasileira para os EUA foi de US$ 94,6 milhões, queda de 22,7% ante aos US$ 122,4 milhões de dólares de agosto de 2024"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/parlamento-da-espanha-derruba-projeto-de-reducao-da-jornada-de-trabalho/",
+        "title": "Parlamento da Espanha Derruba Projeto de Redução da Jornada de Trabalho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Espanha-300x200.png",
+        "date": "11/09/2025",
+        "description": "A ministra do Trabalho prometeu reapresentar a medida que reduz o teto da jornada semanal de 40 para 37 horas e meia – o que equivale a meia hora a menos por dia"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/safra-de-milho-argentina-pode-atingir-recorde-de-61-milhoes-de-toneladas/",
+        "title": "Safra de Milho Argentina Pode Atingir Recorde de 61 Milhões de Toneladas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-10T204328Z_1_LYNXNPEL8910H_RTROPTP_4_PARAGUAY-SOYBEANS-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Produção recorde depende de clima favorável e substituição da soja por milho na área plantada"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/09/sp-open-luisa-stefani-e-timea-babos-vencem-em-estreia-das-duplas/",
         "title": "SP Open: Luisa Stefani e Timea Babos Vencem em Estreia das Duplas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/luisa-stefani-timea-babos-sp-open-300x200.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/02/Money_Imoveis_Sao-Paulo_GettyImages-300x200.jpg",
         "date": "11/09/2025",
         "description": "A grande novidade é o Cadastro Imobiliário Brasileiro (CIB), que muita gente já apelidou de “CPF dos imóveis”"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/acordo-de-us-17-bi-da-spacex-com-a-echostar-depende-do-sucesso-do-foguete-starship/",
-        "title": "Acordo de US$ 17 Bi da SpaceX com a Echostar Depende do Sucesso do Foguete Starship",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/SpaceX-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Segundo analistas, os novos satélites projetados para esse serviço são grandes demais para serem lançados pelo Falcon 9"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/09/infomercial-drogamax-hiperfarmacia-do-interior-paulista-ao-protagonismo-nacional/",
-        "title": "Do Interior Paulista Ao Protagonismo Nacional",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-10-300x200.png",
-        "date": "11/09/2025",
-        "description": "Empresário do interior causa disrupção no segmento farmacêutico e quadruplica faturamento em seis anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/nova-corrida-do-delivery-99food-retorna-keeta-estreia-e-ifood-e-rappi-ganham-novos-desafios/",
-        "title": "Nova Corrida do Delivery: 99Food Retorna, Keeta Estreia e iFood e Rappi Ganham Novos Desafios",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/apps-delivery-1500x1000-1-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Juntas, empresas projetam investimentos que passam de R$ 7 bilhões só neste ano de 2025"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/como-as-empresas-medem-a-produtividade-dos-funcionarios/",
-        "title": "Empresas Podem Acessar E-mail e até WhatsApp para Monitorar Produtividade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-home-office-trabalho-remoto-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Demissão em massa no Itaú evidencia como companhias estão avaliando e monitorando a performance no home office; ferramentas permitem acessar email e até WhatsApp Web"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/todas-as-emocoes-de-uma-viagem-de-expedicao/",
-        "title": "Marina Klink: Todas as Emoções de uma Viagem de Expedição",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1990327561-300x200.jpg",
-        "date": "11/09/2025",
-        "description": "Explorar destinos remotos é trocar certezas por emoções, e isso é o que torna cada expedição inesquecível"
     }
 ]
