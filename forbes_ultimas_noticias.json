@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/09/infomercial-drogamax-hiperfarmacia-do-interior-paulista-ao-protagonismo-nacional/",
+        "title": "Do Interior Paulista Ao Protagonismo Nacional",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-10-300x200.png",
+        "date": "11/09/2025",
+        "description": "Empresário do interior causa disrupção no segmento farmacêutico e quadruplica faturamento em seis anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/nova-corrida-do-delivery-99food-retorna-keeta-estreia-e-ifood-e-rappi-ganham-novos-desafios/",
+        "title": "Nova Corrida do Delivery: 99Food Retorna, Keeta Estreia e iFood e Rappi Ganham Novos Desafios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/apps-delivery-1500x1000-1-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Juntas, empresas projetam investimentos que passam de R$ 7 bilhões só neste ano de 2025"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/como-as-empresas-medem-a-produtividade-dos-funcionarios/",
+        "title": "Empresas Podem Acessar E-mail e até WhatsApp para Monitorar Produtividade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-home-office-trabalho-remoto-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Demissão em massa no Itaú evidencia como companhias estão avaliando e monitorando a performance no home office; ferramentas permitem acessar email e até WhatsApp Web"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/todas-as-emocoes-de-uma-viagem-de-expedicao/",
+        "title": "Marina Klink: Todas as Emoções de uma Viagem de Expedição",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1990327561-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Explorar destinos remotos é trocar certezas por emoções, e isso é o que torna cada expedição inesquecível"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/cacau-como-artigo-de-luxo-conheca-os-chocolates-que-ultrapassam-r-1-mil/",
+        "title": "Cacau Como Artigo de Luxo: Conheça os Chocolates Que Ultrapassam R$ 1 Mil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.As-justificativas-para-precos-tao-altos-de-chocolates-incluem-raridade-processos-manuais-delicados-e-envelhecimento-cuidadoso-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "De barras maturadas por anos em barris de conhaque a trufas envoltas em ouro, o universo do chocolate ultraluxuoso une narrativa, escassez e status — e já mira o Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/09/o-que-e-reverse-catfishing-e-por-que-a-geracao-z-esta-aderindo/",
+        "title": "O Que É “Reverse Catfishing” e por Que a Geração Z Está Aderindo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/960x0-2-1-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Jovens da Geração Z estão valorizando autenticidade e rompendo padrões de aparência nos relacionamentos online"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/fernanda-abilel-como-se-preparar-para-os-riscos-e-vieses-da-gestao-financeira/",
+        "title": "Como se Preparar para os Riscos e Vieses da Gestão Financeira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fernanda-abilel-remuneacaoo-gestao-financeira-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Profissionais precisam compreender o funcionamento de programas de incentivo, conhecer os riscos e se preparar para lidar com as incertezas do mercado"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/toda-empresa-deve-se-tornar-uma-ai-first-company-e-voce-precisa-se-preparar-para-isso/",
+        "title": "Toda Empresa Deve se Tornar uma “AI-first Company” – e Você Precisa se Preparar para Isso",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/AI-first-300x200.png",
+        "date": "11/09/2025",
+        "description": "Alexandre Maioral escreve sobre a importância da liderança estratégica para o avanço da tecnologia nas empresas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/em-sincronia-com-recorde-do-sp-ibovespa-avanca-e-se-aproxima-dos-143-mil-pontos/",
         "title": "Em Sincronia com Recorde do S&P, Ibovespa Avança e se Aproxima dos 143 Mil Pontos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-6-300x200.png",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Colheita-de-cafe-no-Espirito-Santo-300x200.jpg",
         "date": "10/09/2025",
         "description": "Mas o alívio para os consumidores poderá ser curto, já que empresas torrefadoras anunciaram aos clientes varejistas um novo aumento de preços"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/missao-chinesa-visitara-o-rs-apos-surto-de-gripe-aviaria-diz-ceo-da-jbs/",
-        "title": "Missão Chinesa Visitará o RS após Surto de Gripe Aviária, Diz CEO da JBS",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Agro_H5N1_MEXICO_04ABR25_Getty-300x200.png",
-        "date": "10/09/2025",
-        "description": "Em agosto, o México passou à posição de destino número 1 dos embarques de carne de frango do Brasil, já que a China não tem importado o produto"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/ricardo-almeida-apresenta-nova-colecao-em-desfile-no-studio-cidade-matarazzo/",
-        "title": "Ricardo Almeida Apresenta Nova Coleção no Studio Cidade Matarazzo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Desfile-Pilares-por-Ricardo-Almeida-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "Evento em São Paulo reuniu convidados e imprensa para marcar a introdução do logotipo “Pilares” e a exibição de 40 looks das linhas masculina, feminina e RA2"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/serie-ruptura-aborda-alienacao-a-caminho-dos-emmys/",
-        "title": "Série \"Ruptura\" Aborda Alienação a Caminho dos Emmys",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/ruptura-severance-serie-forbescarreira-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "Produção da Apple TV+ recebeu 27 indicações; premiação acontece neste domingo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/oracle-dispara-com-aumento-da-demanda-por-servicos-de-nuvem-no-setor-de-ia/",
-        "title": "Oracle Dispara com Aumento da Demanda por Serviços de Nuvem no Setor de IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/01/Money_LaryEllison_Oracle_GettyImages-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "Ações subiam quase 40% nesta quarta-feira; aumento nos negócios de nuvem da empresa reflete uma mudança mais ampla no setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/trump-pede-que-ue-imponha-tarifas-de-100-sobre-china-e-india-para-pressionar-putin/",
-        "title": "Trump Pede Que UE Imponha Tarifas de 100% sobre China e Índia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-tarifas-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "Países são os principais compradores do petróleo russo e, como tal, desempenham um papel vital para manter a economia da Rússia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/as-empresas-nao-estao-preocupadas-diz-presidente-do-google-cloud-para-america-latina-sobre-possivel-interferencia-dos-eua/",
-        "title": "\"As Empresas Não Estão Preocupadas\", Diz Presidente do Google Cloud para América Latina sobre Possível Interferência dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Eduardo-presidente-google-cloud-latam-300x200.png",
-        "date": "10/09/2025",
-        "description": "Durante o Google Cloud Summit Brasil, Eduardo López afirmou que a possibilidade de tensões geopolíticas aplicadas ao desenvolvimento tecnológico não é uma preocupação entre os clientes da região"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/vivo-ventures-investe-r-35-milhoes-em-plataforma-financeira-para-pmes/",
-        "title": "Vivo Ventures Investe R$ 35 Milhões em Plataforma Financeira para PMEs",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-7-300x200.png",
-        "date": "10/09/2025",
-        "description": "Valor investido é o maior da história da empresa, criada em 2022, para uma única rodada"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/como-a-fortuna-de-larry-ellison-saltou-us-100-bilhoes-em-um-dia/",
-        "title": "Como a Fortuna de Larry Ellison Saltou US$ 100 Bilhões em um Dia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-7-1-300x200.png",
-        "date": "10/09/2025",
-        "description": "O cofundador e diretor de tecnologia da Oracle teve o maior ganho diário já registrado por um bilionário e se aproxima do homem mais rico do mundo, Elon Musk"
     }
 ]
