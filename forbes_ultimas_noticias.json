@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/acordo-de-us-17-bi-da-spacex-com-a-echostar-depende-do-sucesso-do-foguete-starship/",
+        "title": "Acordo de US$ 17 Bi da SpaceX com a Echostar Depende do Sucesso do Foguete Starship",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/SpaceX-300x200.jpg",
+        "date": "11/09/2025",
+        "description": "Segundo analistas, os novos satélites projetados para esse serviço são grandes demais para serem lançados pelo Falcon 9"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/09/infomercial-drogamax-hiperfarmacia-do-interior-paulista-ao-protagonismo-nacional/",
         "title": "Do Interior Paulista Ao Protagonismo Nacional",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-10-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-6-300x200.png",
         "date": "10/09/2025",
         "description": "Dados de inflação sobre economias americana e brasileira endossaram dia positivo para os índices"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/preco-do-cafe-para-consumidores-cai-em-agosto-pelo-2o-mes-aponta-ibge/",
-        "title": "Preço do Café para Consumidores Cai em Agosto Pelo 2º Mês, Aponta IBGE",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Colheita-de-cafe-no-Espirito-Santo-300x200.jpg",
-        "date": "10/09/2025",
-        "description": "Mas o alívio para os consumidores poderá ser curto, já que empresas torrefadoras anunciaram aos clientes varejistas um novo aumento de preços"
     }
 ]
