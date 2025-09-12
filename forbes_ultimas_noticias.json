@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/infomercial-allp-fit-franqueadora-ltda-ecossistema-fitness-conquista-familias/",
+        "title": "Ecossistema Fitness Conquista Famílias",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/allp-fit-300x200.png",
+        "date": "12/09/2025",
+        "description": "Com 59 unidades ativas e 180 comercializadas, Allp Fit aposta em inovação, benefícios exclusivos e expansão nacional até 2027"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/09/galaxy-s25-edge-ou-iphone-air-qual-vale-mais-a-pena/",
         "title": "Galaxy S25 Edge ou iPhone Air; Qual Vale Mais a Pena?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/iphoneair-300x200.jpg",
@@ -28,7 +35,7 @@
         "description": "França é apontada como o local mais provável para servir de cenário da quarta temporada da série da HBO"
     },
     {
-        "url": "https://forbes.com.br/forbeswsb/2025/09/conheca-o-homem-com-a-colecao-de-uisque-mais-valiosa-do-mundo/",
+        "url": "https://forbes.com.br/forbeslife/2025/09/conheca-o-homem-com-a-colecao-de-uisque-mais-valiosa-do-mundo/",
         "title": "Conheça o Homem com a Coleção de Uísque Mais Valiosa do Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.Nguyen-Dinh-Tuan-Viet-do-Vietna-detem-20-recordes-mundiais-do-Guinness-por-sua-colecao-de-bebidas-espirituosas-raras-de-US-175-milhoes-300x200.jpg",
         "date": "12/09/2025",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Lucas-Porto-e-Ricardo-Sechis-1-300x200.jpg",
         "date": "11/09/2025",
         "description": "Amigos, destaques na categoria Gastronomia na Lista Forbes Under 30 2024, falaram sobre suas trajetórias no programa apresentado por Johnnie Walker"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-tem-nova-maxima-mas-perde-folego-ao-longo-do-dia/",
-        "title": "Ibovespa Tem Nova Máxima, Mas Perde Fôlego Ao Longo do Dia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-7-300x200.png",
-        "date": "11/09/2025",
-        "description": "Movimento foi impulsionado por dados da inflação americana, que subiu acima do esperado"
     }
 ]
