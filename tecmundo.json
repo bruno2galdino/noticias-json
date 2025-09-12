@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/celular/407013-iphone-16-foi-o-celular-mais-vendido-do-2-trimestre-confira-a-lista.htm",
+        "title": "iPhone 16 foi o celular mais vendido do 2º trimestre; confira a lista",
+        "description": "Modelos da Apple continua encabeçando o gráfico, incluindo versões topo de linha, e Samsung marca presença com outro tier",
+        "image": "https://tm.ibxk.com.br/2025/08/18/18154038083005.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406968-proton-suspende-contas-de-informante-apos-denuncia-contra-grupo-hacker-da-coreia-do-norte.htm",
+        "title": "Proton suspende contas de informante após denúncia contra grupo hacker da Coreia do Norte",
+        "description": "Episódio “APT Down” revela ferramentas e credenciais do Kimsuky, mas também levanta dúvidas sobre até onde vai a promessa de privacidade de serviços como o Proton",
+        "image": "https://tm.ibxk.com.br/2025/09/10/10181948944024.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602063-charlie-sheen-fala-sobre-possivel-retorno-de-two-and-a-half-men-em-documentario-da-netflix.htm",
         "title": "Charlie Sheen fala sobre possível retorno de Two and a Half Men em documentário da Netflix",
         "description": "O ator afirma que adoraria dar aos faz de Two and a Half Men o final que eles merecem",
@@ -46,20 +60,6 @@
         "title": "Grupo hacker Scattered Lapsus$ Hunters anuncia fim repentino das atividades",
         "description": "Cibercriminosos estavam em alta com ataques contra Salesforce, Google e Jaguar Land Rover; novas equipes podem ser formadas com remanescentes",
         "image": "https://tm.ibxk.com.br/2025/09/12/12101619968143.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/internet/407012-tecmundo-discute-ao-vivo-sobre-demissoes-no-itau-e-grande-firewall-da-china.htm",
-        "title": "TecMundo discute ao vivo sobre demissões no Itaú e Grande Firewall da China",
-        "description": "O programa semanal de debate do TecMundo vai abordar as principais notícias do mundo da tecnologia.",
-        "image": "https://tm.ibxk.com.br/2025/09/12/12102351105198.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407001-barato-demais-afirma-ceo-sobre-assinatura-do-hbo-max.htm",
-        "title": "“Barato demais”, afirma CEO sobre assinatura do HBO Max",
-        "description": "David Zaslav também afirmou que irão combater de forma agressiva o compartilhamento de senhas.",
-        "image": "https://tm.ibxk.com.br/2025/08/08/08123448116056.jpg",
         "date": null
     }
 ]
