@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/usda-eleva-previsao-para-safra-de-milho-dos-eua-apos-aumento-na-area-colhida/",
+        "title": "Usda Eleva Previsão para Safra de Milho dos EUA após Aumento na Área Colhida",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Milho_15JUl2025_dusanpetkovic_Getty-300x200.jpg",
+        "date": "12/09/2025",
+        "description": "Para a soja, o USDA projetou um rendimento inferior ao do mês anterior"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/09/brasil-apresenta-fundo-de-florestas-em-nova-york-a-lideres-mundiais-para-angariar-apoio-e-recursos/",
+        "title": "Brasil Apresenta Fundo de Florestas em Nova York a Líderes Mundiais para Angariar Apoio e Recursos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Agro_FlorestasSegAlimentar_01ABR25_Getty-300x200.jpg",
+        "date": "12/09/2025",
+        "description": "A meta é alcançar um investimento de US$ 125 bilhões (R$ 668,7 milhões), sendo US$ 25 bilhões (R$ 133,7 milhões) de fundos soberanos de países e US$ 100 bilhões (R$ 535 milhões) de investidores"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/milho-e-soja-sobem-em-chicago-antes-do-relatorio-do-usda/",
         "title": "Milho e Soja Sobem em Chicago Antes do Relatório do USDA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
@@ -21,7 +35,7 @@
         "description": "Agora, nas quartas de final, tenista medirá forças com a mexicana Renata Zarazua"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/09/vale-recebe-licenca-para-expandir-producao-de-minerio-de-ferro-em-carajas/",
+        "url": "https://forbes.com.br/forbes-money/2025/09/vale-recebe-licenca-para-expandir-producao-de-minerio-de-ferro-em-carajas/",
         "title": "Vale Recebe Licença para Expandir Produção de Minério de Ferro em Carajás",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-4-2-300x200.png",
         "date": "12/09/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-8-300x200.png",
         "date": "12/09/2025",
         "description": "No ranking Forbes 400, que lista as pessoas mais ricas dos EUA, Alice Walton não é a única representante da família por trás do Walmart"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/onde-sera-o-proximo-white-lotus-3-hoteis-na-franca-sao-os-principais-candidatos/",
-        "title": "Onde Será o Próximo ‘White Lotus’? 3 Hotéis na França São os Principais Suspeitos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.O-Grand-Hotel-du-Cap-Ferrat-um-hotel-Four-Seasons-e-o-cenario-provavel-para-a-obscenidade-da-proxima-temporada-300x200.jpg",
-        "date": "12/09/2025",
-        "description": "França é apontada como o local mais provável para servir de cenário da quarta temporada da série da HBO"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/conheca-o-homem-com-a-colecao-de-uisque-mais-valiosa-do-mundo/",
-        "title": "Conheça o Homem com a Coleção de Uísque Mais Valiosa do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.Nguyen-Dinh-Tuan-Viet-do-Vietna-detem-20-recordes-mundiais-do-Guinness-por-sua-colecao-de-bebidas-espirituosas-raras-de-US-175-milhoes-300x200.jpg",
-        "date": "12/09/2025",
-        "description": "Com 20 recordes no Guinness, o colecionador vietnamita Nguyễn Đình Tuấn Việt revela os segredos de um acervo que inclui cinco garrafas do lendário Macallan 1926"
     }
 ]
