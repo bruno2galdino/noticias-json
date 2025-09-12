@@ -21,13 +21,6 @@
         "description": "No ranking Forbes 400, que lista as pessoas mais ricas dos EUA, Alice Walton não é a única representante da família por trás do Walmart"
     },
     {
-        "url": "https://forbes.com.br/forbes-money/2025/09/cofundadora-da-conta-black-ser-bem-sucedida-e-poder-dizer-nao-com-liberdade/",
-        "title": "Cofundadora da Conta Black: \"Ser Bem-sucedida É Poder Dizer Não com Liberdade\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/web-fernanda-ribeiro3-300x200.jpg",
-        "date": "12/09/2025",
-        "description": "Empreendedora \"por acaso\", Fernanda Ribeiro quer que o seu legado seja abrir portas e construir pontes"
-    },
-    {
         "url": "https://forbes.com.br/forbeslife/2025/09/onde-sera-o-proximo-white-lotus-3-hoteis-na-franca-sao-os-principais-candidatos/",
         "title": "Onde Será o Próximo ‘White Lotus’? 3 Hotéis na França São os Principais Suspeitos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.O-Grand-Hotel-du-Cap-Ferrat-um-hotel-Four-Seasons-e-o-cenario-provavel-para-a-obscenidade-da-proxima-temporada-300x200.jpg",
@@ -68,5 +61,12 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Lucas-Porto-e-Ricardo-Sechis-1-300x200.jpg",
         "date": "11/09/2025",
         "description": "Amigos, destaques na categoria Gastronomia na Lista Forbes Under 30 2024, falaram sobre suas trajetórias no programa apresentado por Johnnie Walker"
+    },
+    {
+        "url": "https://forbes.com.br/sem-categoria/2025/09/ibovespa-tem-nova-maxima-mas-perde-folego-ao-longo-do-dia/",
+        "title": "Ibovespa Tem Nova Máxima, Mas Perde Fôlego Ao Longo do Dia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-7-300x200.png",
+        "date": "11/09/2025",
+        "description": "Movimento foi impulsionado por dados da inflação americana, que subiu acima do esperado"
     }
 ]
