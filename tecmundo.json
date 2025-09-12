@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407030-verificacao-de-idade-e-o-proximo-desafio-regulatorio-das-redes-sociais.htm",
+        "title": "Verificação de idade é o próximo desafio regulatório das redes sociais",
+        "description": "Descubra como a verificação de idade pode proteger crianças e adolescentes nas redes sociais e os desafios regulatórios que plataformas enfrentam no Brasil e no mundo.",
+        "image": "https://tm.ibxk.com.br/2025/09/12/12173455012069.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407031-nova-campanha-de-phishing-mira-contas-corporativas-do-google-e-da-microsoft.htm",
+        "title": "Nova campanha de phishing mira contas corporativas do Google e da Microsoft",
+        "description": "Empresas de diferentes tamanhos e países tiveram contas comprometidas pelo VoidProxy, um serviço de phishing disponível em fóruns do cibercrime.",
+        "image": "https://tm.ibxk.com.br/2025/09/12/12175942244120.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502321-steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-de-1209-e-resgate.htm",
+        "title": "Steam recebe 4 jogos grátis nesta semana! Veja lista de 12/09 e resgate!",
+        "description": "A semana traz MOBA de Dragon Ball, DEMO de um aguardado RPG de Digimon e mais jogos grátis no Steam; veja lista",
+        "image": "https://tm.ibxk.com.br/2025/09/12/12143833466004.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407029-cibercriminosos-expoem-mais-de-94-mil-arquivos-medicos-de-brasileiros.htm",
+        "title": "Cibercriminosos expõem mais de 94 mil arquivos médicos de brasileiros",
+        "description": "Grupo KillSec assumiu a autoria do vazamento envolvendo o sistema de saúde MedicSolution; dados incluem exames, fotos sensíveis e registros de menores",
+        "image": "https://tm.ibxk.com.br/2025/09/12/12171128932002.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/internet/407019-nepal-usa-discord-para-escolher-nova-lideranca-apos-protestos.htm",
         "title": "Nepal usa Discord para escolher nova liderança após protestos",
         "description": "Mais de 100 mil pessoas estão em canais para escolher um novo representante interino; primeiro-ministro deixou o cargo recentemente",
@@ -32,34 +60,6 @@
         "title": "Promoção de livros na Amazon: confira grandes títulos a partir de R$4,70",
         "description": "Confira livros em promoção na Amazon com preços a partir de R$3,50, incluindo clássicos, best-sellers de autores renomados e infantis",
         "image": "https://tm.ibxk.com.br/2025/09/12/12122754959096.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/407017-iphones-14-e-15-terao-mais-um-ano-de-conectividade-via-satelite-gratuita.htm",
-        "title": "iPhones 14 e 15 terão mais um ano de conectividade via satélite gratuita",
-        "description": "O serviço, lançado em 2022, permite enviar mensagens e compartilhar a localização, entre outras coisas, mesmo sem sinal de internet disponível.",
-        "image": "https://tm.ibxk.com.br/2025/09/12/12120511782065.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406905-onboarding-malicioso-cibercriminosos-se-tornam-funcionarios-para-atacar-empresas-por-dentro.htm",
-        "title": "Onboarding malicioso: Cibercriminosos se tornam funcionários para atacar empresas por dentro",
-        "description": "Criminosos estão usando currículos falsos e deepfakes criados com Inteligência Artificial Generativa para se infiltrar em empresas",
-        "image": "https://tm.ibxk.com.br/2025/09/12/12145503393005.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602078-tatiana-keplmair-revela-bastidores-da-dublagem-de-shinobu-kocho-em-demon-slayer-castelo-infinito.htm",
-        "title": "Tatiana Keplmair revela bastidores da dublagem de Shinobu Kocho em Demon Slayer Castelo Infinito",
-        "description": "Dubladora da Hashira do Inseto relembra sua trajetória dando voz à Shinobu e outras personagens icônicas dos animes",
-        "image": "https://tm.ibxk.com.br/2025/09/11/11180436095009.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407016-whatsapp-ganhara-respostas-de-mensagens-em-threads.htm",
-        "title": "WhatsApp ganhará respostas de mensagens em threads",
-        "description": "Novidade do mensageiro apareceu na atualização 2.25.25.8 e visa organizar o fluxo de mensagens em conversas frenéticas, como em grupos",
-        "image": "https://tm.ibxk.com.br/2025/08/12/12180547328033.jpg",
         "date": null
     }
 ]
