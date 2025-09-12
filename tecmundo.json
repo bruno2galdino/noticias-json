@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/guia-de-compras/407018-promocao-de-livros-na-amazon-confira-grandes-titulos-a-partir-de-r470.htm",
+        "title": "Promoção de livros na Amazon: confira grandes títulos a partir de R$4,70",
+        "description": "Confira livros em promoção na Amazon com preços a partir de R$3,50, incluindo clássicos, best-sellers de autores renomados e infantis",
+        "image": "https://tm.ibxk.com.br/2025/09/12/12122754959096.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/celular/407017-iphones-14-e-15-terao-mais-um-ano-de-conectividade-via-satelite-gratuita.htm",
+        "title": "iPhones 14 e 15 terão mais um ano de conectividade via satélite gratuita",
+        "description": "O serviço, lançado em 2022, permite enviar mensagens e compartilhar a localização, entre outras coisas, mesmo sem sinal de internet disponível.",
+        "image": "https://tm.ibxk.com.br/2025/09/12/12120511782065.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/406905-onboarding-malicioso-cibercriminosos-se-tornam-funcionarios-para-atacar-empresas-por-dentro.htm",
+        "title": "Onboarding malicioso: Cibercriminosos se tornam funcionários para atacar empresas por dentro",
+        "description": "Criminosos estão usando currículos falsos e deepfakes criados com Inteligência Artificial Generativa para se infiltrar em empresas",
+        "image": "https://tm.ibxk.com.br/2025/09/12/12145503393005.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602078-tatiana-keplmair-revela-bastidores-da-dublagem-de-shinobu-kocho-em-demon-slayer-castelo-infinito.htm",
         "title": "Tatiana Keplmair revela bastidores da dublagem de Shinobu Kocho em Demon Slayer Castelo Infinito",
         "description": "Dubladora da Hashira do Inseto relembra sua trajetória dando voz à Shinobu e outras personagens icônicas dos animes",
@@ -32,34 +53,6 @@
         "title": "iPhone 16 foi o celular mais vendido do 2º trimestre; confira a lista",
         "description": "Modelos da Apple continua encabeçando o gráfico, incluindo versões topo de linha, e Samsung marca presença com outro tier",
         "image": "https://tm.ibxk.com.br/2025/08/18/18154038083005.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/406968-proton-suspende-contas-de-informante-apos-denuncia-contra-grupo-hacker-da-coreia-do-norte.htm",
-        "title": "Proton suspende contas de informante após denúncia contra grupo hacker da Coreia do Norte",
-        "description": "Episódio “APT Down” revela ferramentas e credenciais do Kimsuky, mas também levanta dúvidas sobre até onde vai a promessa de privacidade de serviços como o Proton",
-        "image": "https://tm.ibxk.com.br/2025/09/10/10181948944024.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602063-charlie-sheen-fala-sobre-possivel-retorno-de-two-and-a-half-men-em-documentario-da-netflix.htm",
-        "title": "Charlie Sheen fala sobre possível retorno de Two and a Half Men em documentário da Netflix",
-        "description": "O ator afirma que adoraria dar aos faz de Two and a Half Men o final que eles merecem",
-        "image": "https://tm.ibxk.com.br/2025/09/10/10132815324046.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407009-criminosos-combinam-phishing-e-malware-em-novos-roubos-de-dados.htm",
-        "title": "Criminosos combinam phishing e malware em novos roubos de dados",
-        "description": "Junção das metodologias de ataques possibilita roubar ainda mais informações de vítimas sem que os agentes sejam detectados",
-        "image": "https://tm.ibxk.com.br/2025/09/03/03145619743134.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502316-desenvolvedora-de-ghost-of-yotei-e-demitida-apos-piadas-sobre-charlie-kirk-entenda-a-polemica.htm",
-        "title": "Desenvolvedora de Ghost of Yotei é demitida após piadas sobre Charlie Kirk! Entenda a polêmica",
-        "description": "Drew Harrison, artista sênior de personagens, foi demitida da Sucker Punch após celebrar a morte de ativista conservador nas redes sociais! Entenda o caso",
-        "image": "https://tm.ibxk.com.br/2025/09/12/12085048931015.jpg",
         "date": null
     }
 ]
