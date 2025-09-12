@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/milho-e-soja-sobem-em-chicago-antes-do-relatorio-do-usda/",
+        "title": "Milho e Soja Sobem em Chicago Antes do Relatório do USDA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
+        "date": "12/09/2025",
+        "description": "Trigo subiu com a cobertura de posições vendidas, embora o aumento da oferta global tenha pairado sobre o mercado"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/cafe-arabica-cai-das-maximas-de-4-meses/",
+        "title": "Café Arábica Cai das Máximas de 4 Meses",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-2-2-300x200.jpg",
+        "date": "12/09/2025",
+        "description": "Produto caiu 0,8 centavo, ou 0,2%, a US$ 3,861 por libra-peso, depois de atingir seu maior valor desde o início de maio"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/09/bia-haddad-vence-confronto-brasileiro-nas-oitavas-do-sp-open/",
         "title": "Bia Haddad Vence Confronto Brasileiro nas Oitavas do SP Open",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/bia-haddad-tenis-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/0.Nguyen-Dinh-Tuan-Viet-do-Vietna-detem-20-recordes-mundiais-do-Guinness-por-sua-colecao-de-bebidas-espirituosas-raras-de-US-175-milhoes-300x200.jpg",
         "date": "12/09/2025",
         "description": "Com 20 recordes no Guinness, o colecionador vietnamita Nguyễn Đình Tuấn Việt revela os segredos de um acervo que inclui cinco garrafas do lendário Macallan 1926"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/as-mulheres-que-colocam-de-pe-o-the-town/",
-        "title": "The Town: As Mulheres Que Colocam o Festival de Pé",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/mulher-roberta-medina-the-town-rock-world-300x200.jpg",
-        "date": "12/09/2025",
-        "description": "Liderança da Rock World, empresa responsável pelo festival paulistano e pelo Rock in Rio, é majoritariamente feminina; conheça as executivas por trás dos palcos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/o-que-levou-a-criadora-do-final-fantasy-a/",
-        "title": "O Que Levou a Criadora do Final Fantasy a Investir na Brasileira Nuuvem?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Nuuvem-300x200.jpg",
-        "date": "12/09/2025",
-        "description": "Pioneirismo de Thiago Diniz e Fernando Campos atrai gigante japonesa Square Enix com tecnologia que revoluciona a descoberta de games"
     }
 ]
