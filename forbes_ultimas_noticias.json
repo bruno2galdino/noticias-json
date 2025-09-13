@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/testamento-de-giorgio-armani-os-herdeiros-e-o-destino-de-sua-fortuna/",
+        "title": "Testamento de Giorgio Armani: os Herdeiros e o Destino da Fortuna Bilionária",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-12-300x200.jpg",
+        "date": "13/09/2025",
+        "description": "Estilista dividiu grande parte de sua fortuna entre cinco herdeiros, agora bilionários, e indicou potenciais compradores para sua maison"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/09/pontos-de-recarga-para-veiculos-eletrificados-cresce-59-no-brasil/",
+        "title": "Pontos de Recarga para Veículos Eletrificados Cresce 59% no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-11-300x200.jpg",
+        "date": "13/09/2025",
+        "description": "Levantamento é da Associação Brasileira do Veículo Elétrico; dados indicam uma frota de 302.225 veículos eletrificados plug-in (a bateria e híbridos) no país"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/09/do-rio-ao-sp-open-ela-colocou-o-brasil-no-mapa-do-tenis-mundial/",
         "title": "Do Rio Ao SP Open, Ela Colocou o Brasil no Mapa do Tênis Mundial",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/mulher-marcia-Casz-sp-open-300x200.jpg",
@@ -29,14 +43,14 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/09/cofundadora-da-conta-black-ser-bem-sucedida-e-poder-dizer-nao-com-liberdade/",
-        "title": "Cofundadora da Conta Black: \"Ser Bem-sucedida É Poder Dizer Não com Liberdade\"",
+        "title": "Cofundadora da Conta Black: \"Sucesso É Poder Dizer Não\"",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/1500x1000-09-300x200.png",
         "date": "13/09/2025",
         "description": "Empreendedora \"por acaso\", Fernanda Ribeiro quer que o seu legado seja abrir portas e construir pontes"
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/09/quem-e-o-bilionario-que-desembolsou-quase-r-1-milhao-por-um-carro-voador/",
-        "title": "Quem É o Bilionário Que Desembolsou Mais de R$ 700 Mil por um Carro Voador",
+        "title": "O Bilionário Que Desembolsou Mais de R$ 700 Mil por um Carro Voador",
         "image": "https://forbes.com.br/wp-content/uploads/2022/06/money-palmer-luckey-300x200.jpg",
         "date": "13/09/2025",
         "description": "Palmer Luckey, um prodígio da tecnologia de apenas 32 anos, é conhecido por ser o fundador da Oculus VR, a empresa pioneira de realidade virtual que foi vendida ao Facebook por US$ 2 bilhões"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.As-cores-as-lagunas-e-os-relevos-do-deserto-no-norte-do-Chile-a-partir-do-Tierra-Atacama-–-um-classico-da-hotelaria-andina-que-acaba-de-reabrir-as-portas-apos-sua-maior-reforma-300x200.jpg",
         "date": "13/09/2025",
         "description": "Uma viagem pelas cores, lagunas e relevos do deserto no norte do Chile, a partir do clássico da hotelaria andina, que acaba de reabrir as portas após sua maior reforma"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/usda-eleva-previsao-para-safra-de-milho-dos-eua-apos-aumento-na-area-colhida/",
-        "title": "Usda Eleva Previsão para Safra de Milho dos EUA após Aumento na Área Colhida",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Milho_15JUl2025_dusanpetkovic_Getty-300x200.jpg",
-        "date": "12/09/2025",
-        "description": "Para a soja, o USDA projetou um rendimento inferior ao do mês anterior"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/09/brasil-apresenta-fundo-de-florestas-em-nova-york-a-lideres-mundiais-para-angariar-apoio-e-recursos/",
-        "title": "Brasil Apresenta Fundo de Florestas em Nova York a Líderes Mundiais para Angariar Apoio e Recursos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Agro_FlorestasSegAlimentar_01ABR25_Getty-300x200.jpg",
-        "date": "12/09/2025",
-        "description": "A meta é alcançar um investimento de US$ 125 bilhões (R$ 668,7 milhões), sendo US$ 25 bilhões (R$ 133,7 milhões) de fundos soberanos de países e US$ 100 bilhões (R$ 535 milhões) de investidores"
     }
 ]
