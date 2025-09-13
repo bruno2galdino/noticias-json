@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/james-petrie-e-ben-leita-criam-gordura-vegana-aprovada-nos-eua/",
+        "title": "Com Fermentação de Precisão, James Petrie Cria Gordura Vegana Aprovada nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fundador-da-James-Petrie-e-Ernesto-Vecilla_10set25_Nourish_Divulg-300x200.jpg",
+        "date": "13/09/2025",
+        "description": "Desenvolvida pela Nourish Ingredients, dupla já levantou US$ 50 milhões e planeja expansão internacional no mercado de proteínas alternativas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/5-erros-financeiros-que-destroem-suas-economias/",
+        "title": "5 Erros Financeiros Que Destroem Suas Economias",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/10/Poupanca-Getty-Images-300x200.jpg",
+        "date": "13/09/2025",
+        "description": "Apesar de fatores externos como falta de renda, inflação e tarifas, nosso próprio comportamento pode contribuir para gerar problemas com o dinheiro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/09/melinda-french-gates-fecha-parceria-de-us-100-milhoes-em-inovacoes-para-a-saude-da-mulher/",
+        "title": "Melinda Gates Fecha Parceria de US$ 100 Milhões para Saúde da Mulher",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/melinda-french-gates-300x200.jpg",
+        "date": "13/09/2025",
+        "description": "Filantropa bilionária quer mudar o cenário em que apenas 1% das pesquisas globais em saúde são focadas em condições exclusivas das mulheres"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/cofundadora-da-conta-black-ser-bem-sucedida-e-poder-dizer-nao-com-liberdade/",
+        "title": "Cofundadora da Conta Black: \"Ser Bem-sucedida É Poder Dizer Não com Liberdade\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/1500x1000-09-300x200.png",
+        "date": "13/09/2025",
+        "description": "Empreendedora \"por acaso\", Fernanda Ribeiro quer que o seu legado seja abrir portas e construir pontes"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/quem-e-o-bilionario-que-desembolsou-quase-r-1-milhao-por-um-carro-voador/",
+        "title": "Quem é o Bilionário Que Desembolsou Quase R$ 1 Milhão por um Carro Voador",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/06/money-palmer-luckey-300x200.jpg",
+        "date": "13/09/2025",
+        "description": "Palmer Luckey, um prodígio da tecnologia de apenas 32 anos, é conhecido por ser o fundador da Oculus VR, a empresa pioneira de realidade virtual que foi vendida ao Facebook por US$ 2 bilhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/09/manual-da-cachaca-moderna-um-guia-para-escolher-beber-e-apreciar-o-destilado/",
+        "title": "Manual da Cachaça Moderna: um Guia para Escolher, Beber e Apreciar o Destilado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/WSB_Cachaca-300x200.jpg",
+        "date": "13/09/2025",
+        "description": "No Dia da Cachaça, a especialista Isadora Fornari revela os segredos para melhor aproveitar a bebida brasileiríssima e indica rótulos imperdíveis"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/tierra-atacama-reabre-ainda-mais-luxuoso-apos-reforma-de-us-20-milhoes/",
+        "title": "Tierra Atacama Reabre Ainda Mais Luxuoso após Reforma de US$ 20 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.As-cores-as-lagunas-e-os-relevos-do-deserto-no-norte-do-Chile-a-partir-do-Tierra-Atacama-–-um-classico-da-hotelaria-andina-que-acaba-de-reabrir-as-portas-apos-sua-maior-reforma-300x200.jpg",
+        "date": "13/09/2025",
+        "description": "Uma viagem pelas cores, lagunas e relevos do deserto no norte do Chile, a partir do clássico da hotelaria andina, que acaba de reabrir as portas após sua maior reforma"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/usda-eleva-previsao-para-safra-de-milho-dos-eua-apos-aumento-na-area-colhida/",
         "title": "Usda Eleva Previsão para Safra de Milho dos EUA após Aumento na Área Colhida",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Milho_15JUl2025_dusanpetkovic_Getty-300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
         "date": "12/09/2025",
         "description": "Trigo subiu com a cobertura de posições vendidas, embora o aumento da oferta global tenha pairado sobre o mercado"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/cafe-arabica-cai-das-maximas-de-4-meses/",
-        "title": "Café Arábica Cai das Máximas de 4 Meses",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-2-2-300x200.jpg",
-        "date": "12/09/2025",
-        "description": "Produto caiu 0,8 centavo, ou 0,2%, a US$ 3,861 por libra-peso, depois de atingir seu maior valor desde o início de maio"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/bia-haddad-vence-confronto-brasileiro-nas-oitavas-do-sp-open/",
-        "title": "Bia Haddad Vence Confronto Brasileiro nas Oitavas do SP Open",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/bia-haddad-tenis-300x200.jpg",
-        "date": "12/09/2025",
-        "description": "Agora, nas quartas de final, tenista medirá forças com a mexicana Renata Zarazua"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/vale-recebe-licenca-para-expandir-producao-de-minerio-de-ferro-em-carajas/",
-        "title": "Vale Recebe Licença para Expandir Produção de Minério de Ferro em Carajás",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-4-2-300x200.png",
-        "date": "12/09/2025",
-        "description": "Empresa poderá operar na mina do Projeto Serra Sul +20 Mtpa, o maior da Vale"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/09/brandvoice-care-plus-coragem-para-cuidar-e-o-diferencial-das-empresas-visionarias/",
-        "title": "Coragem para Cuidar É o Diferencial das Empresas Visionárias",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/CarePlus-300x200.png",
-        "date": "12/09/2025",
-        "description": "Care Plus transforma cuidado em estratégia, unindo tecnologia, saúde e propósito para gerar resultados sólidos e relações duradouras"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/infomercial-allp-fit-franqueadora-ltda-ecossistema-fitness-conquista-familias/",
-        "title": "Ecossistema Fitness Conquista Famílias",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/allp-fit-300x200.png",
-        "date": "12/09/2025",
-        "description": "Com 59 unidades ativas e 180 comercializadas, Allp Fit aposta em inovação, benefícios exclusivos e expansão nacional até 2027"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/galaxy-s25-edge-ou-iphone-air-qual-vale-mais-a-pena/",
-        "title": "Galaxy S25 Edge ou iPhone Air; Qual Vale Mais a Pena?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/iphoneair-300x200.jpg",
-        "date": "12/09/2025",
-        "description": "O modelo da Samsung é o fantasma do futuro da bateria e o iPhone Air é um novo e empolgante dispositivo na linha da Apple que pode usar a tecnologia de bateria de silício de última geração"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/quem-e-a-primeira-mulher-americana-a-alcancar-uma-fortuna-de-us-100-bilhoes/",
-        "title": "Quem É a Primeira Mulher Americana a Alcançar uma Fortuna de US$ 100 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-8-300x200.png",
-        "date": "12/09/2025",
-        "description": "No ranking Forbes 400, que lista as pessoas mais ricas dos EUA, Alice Walton não é a única representante da família por trás do Walmart"
     }
 ]
