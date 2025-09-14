@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/eua-lancam-programa-piloto-para-acelerar-implantacao-de-taxis-aereos/",
+        "title": "EUA Lançam Programa Piloto para Acelerar Implantação de Táxis Aéreos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-14-300x200.jpg",
+        "date": "14/09/2025",
+        "description": "O programa incluirá pelo menos cinco projetos de parcerias público-privadas com governos estaduais e locais e empresas do setor privado"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/09/trump-pressiona-nacoes-da-otan-a-suspenderem-compras-de-petroleo-russo/",
+        "title": "Trump Pressiona Nações da Otan a Suspenderem Compras de Petróleo Russo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-8-300x200.png",
+        "date": "14/09/2025",
+        "description": "Presidente americano classificou de \"chocante\" a postura de alguns países em manterem as importações do produto russo"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/09/6-6-6-o-desafio-de-caminhada-que-melhora-corpo-e-mente/",
+        "title": "6-6-6: O Desafio de Caminhada Que Melhora Corpo e Mente",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/saude-corrida-caminhada-parque-300x200.jpg",
+        "date": "14/09/2025",
+        "description": "Exercício está entre os melhores para perder gordura, controlar o estresse e manter uma vida ativa"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/agroturismo-os-costumes-guerreiros-dos-cavalos-do-rajastao/",
         "title": "Agroturismo: os Costumes Guerreiros dos Cavalos do Rajastão",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/cavalos_guerra-12set25-_-Forbes_Australia-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/x-1-300x200.jpg",
         "date": "14/09/2025",
         "description": "Entre exclusividade e memória afetiva, uniformes raros chegam a cifras que poucos torcedores podem pagar"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/09/morre-hermeto-pascoal-genio-da-musica-brasileira-aos-89-anos/",
-        "title": "Morre Hermeto Pascoal, Gênio da Música Brasileira, aos 89 anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-13-300x200.jpg",
-        "date": "13/09/2025",
-        "description": "\"Bruxo dos sons\" era compositor, arranjador e multi-instrumentista, considerado um dos músicos mais inventivos do século XX"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/luisa-stefani-e-timea-babos-conquistam-titulo-de-duplas-no-sp-open/",
-        "title": "Luisa Stefani e Timea Babos Conquistam Título de Duplas no SP Open",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/mulher-luisa-stefani-sp-open-300x200.jpg",
-        "date": "13/09/2025",
-        "description": "É a primeira vez desde 1986 que uma brasileira conquista um título de duplas de um torneio WTA no Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/exportacoes-do-agronegocio-caem-176-para-eua-e-sobem-329-para-a-china/",
-        "title": "Exportações do Agronegócio Caem 17,6% para EUA; Sobem 32,9% Para China",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/09/agro_carne_exportacao_brasil_agropecuaria-300x200.jpg",
-        "date": "13/09/2025",
-        "description": "No geral, os envios de produtos agrícolas brasileiros alcançaram US$ 14,29 bilhões, alta de 1,5%"
     }
 ]
