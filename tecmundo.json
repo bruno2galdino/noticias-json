@@ -1,16 +1,30 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/ciencia/407075-novo-conselho-nacional-de-politica-mineral-tera-foco-em-terras-raras.htm",
+        "title": "Novo Conselho Nacional de Política Mineral terá foco em terras raras",
+        "description": "A versão reestruturada do CNPM contará com representantes de universidades, da sociedade civil, de especialistas e do governo, tendo o presidente Lula na coordenação.",
+        "image": "https://tm.ibxk.com.br/2025/09/15/15162711546040.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407056-nova-variante-do-spectre-consegue-roubar-dados-ate-mesmo-de-cpus-modernos.htm",
+        "title": "Nova variante do Spectre consegue roubar dados até mesmo de CPUs modernos",
+        "description": "Pesquisadores da ETH Zurich desenvolveram um novo ataque conhecido como VMScape que contorna mecanismos de defesa projetados para o Spectre",
+        "image": "https://tm.ibxk.com.br/2025/04/04/04123922854004.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602098-netflix-recebe-8-filmes-e-series-de-peso-nesta-semana-veja-lista-de-lancamentos-1509.htm",
+        "title": "Netflix recebe 8 filmes e séries de peso nesta semana! Veja lista de lançamentos (15/09)",
+        "description": "O que assistir na Netflix nesta semana? Veja 8 lançamentos de filmes e séries para aproveitar ao máximo o catálogo do streaming nos próximos dias!",
+        "image": "https://tm.ibxk.com.br/2025/09/15/15135952013002.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/407082-novo-golpe-se-passa-por-atualizacao-de-google-chrome-para-obter-controle-de-pcs.htm",
         "title": "Novo golpe se passa por atualização de Google Chrome para obter controle de PCs",
         "description": "Hackers usam convites falsos do Teams, Zoom e atualizações de navegador para instalar acesso remoto e aplicar golpes",
         "image": "https://tm.ibxk.com.br/2025/09/15/15174343607150.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502331-5-jogos-gratis-em-alta-da-play-store-para-jogar-no-android-esta-semana-1509.htm",
-        "title": "5 jogos grátis em alta da Play Store para jogar no Android esta semana (15/09)",
-        "description": "A Play Store está recheada de boas novidades em alta esta semana. Confira a lista de jogos gratuitos para jogar em celulares Android!",
-        "image": "https://tm.ibxk.com.br/2025/09/15/15074921340055.jpg",
         "date": null
     }
 ]
