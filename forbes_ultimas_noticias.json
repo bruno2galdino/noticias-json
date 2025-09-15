@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/hollywood-celebra-the-pitt-o-estudio-e-adolescencia-no-emmy-awards/",
+        "title": "Hollywood Celebra \"The Pitt\", \"O Estúdio\" e \"Adolescência\" no Emmy Awards",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Produtor-R.-Scott-Gemmill-com-trofeu-para-_The-Pitt_-no-Emmy-Awards-300x200.jpg",
+        "date": "15/09/2025",
+        "description": "HBO e Netflix lideraram com 30 prêmios Emmy cada uma este ano; A Apple TV+ recebeu 22"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/tendencias-de-moda-vistas-no-the-town/",
+        "title": "Tendências de Moda Vistas no The Town",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.O-palco-principal-do-The-Town-300x200.jpg",
+        "date": "15/09/2025",
+        "description": "Evento reuniu 420 mil pessoas em São Paulo e mostrou que os festivais são espaços onde moda e música se encontram"
+    },
+    {
+        "url": "https://forbes.com.br/sem-categoria/2025/09/alphabet-dona-do-google-atinge-us-3-tri-em-valor-de-mercado-pela-1a-vez/",
+        "title": "Alphabet, Dona do Google,  Atinge US$ 3 Tri em Valor de Mercado Pela 1ª Vez",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-google-alphabet-300x200.jpg",
+        "date": "15/09/2025",
+        "description": "As ações da empresa acumulam valorização de mais de 32% neste ano"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/09/brasil-sediara-academia-mundial-nobel-de-ciencias-para-sustentabilidade/",
         "title": "Brasil Sediará Academia Mundial Nobel de Ciências para Sustentabilidade",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Vista-do-Rio-de-Janeiro-a-partir-da-Floresta-da-Tijuca-300x200.jpg",
@@ -8,7 +29,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-mkt/2025/09/marketing-com-proposito-como-a-nestle-brasil-constroi-relevancia-em-meio-a-transformacao-do-consumo/",
-        "title": "Marketing com Propósito: Como a Nestlé Brasil Constrói Relevância em Meio à Transformação do Consumo",
+        "title": "Marketing e Propósito: Como a Nestlé Constrói Relevância em Meio à Transformação do Consumo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/forbes_marketing_cmo_nestl___ionah_kochen_youtube-300x200.png",
         "date": "15/09/2025",
         "description": "Em participação no podcast Forbes MKT, Ionah Kochen, CMO da Nestlé Brasil, revela como a companhia alia tradição e inovação para se manter conectada às novas gerações e às demandas sociais emergentes"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Empilhadeira-de-carvao--300x200.jpg",
         "date": "15/09/2025",
         "description": "Petrobras pediu que o carvão seja separado da disputa com as usinas a gás natural conectadas à rede de gasodutos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/com-aumento-de-area-no-milho-verao-producao-total-do-brasil-pode-crescer-175-diz-safras/",
-        "title": "Com Aumento de Área no Milho Verão, Produção Total do Brasil Pode Crescer 1,75%, Diz Safras",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_milho_28ago25_Richard-Hamilton-Smith_Getty-300x200.jpg",
-        "date": "15/09/2025",
-        "description": "Expansão da área cultivada e leve alta na produtividade impulsionam projeção de safra recorde de milho no Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/eua-e-china-chegam-a-acordo-sobre-tiktok-trump-e-xi-conversam-na-sexta-feira/",
-        "title": "EUA e China Chegam a Acordo sobre TikTok; Trump e Xi Conversam na Sexta-feira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-SITE--300x200.png",
-        "date": "15/09/2025",
-        "description": "Entendimento prevê controle norte-americano sobre o TikTok e ocorre em meio a tensões comerciais e tecnológicas entre os dois países"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/rebeca-lima-e-campea-mundial-de-boxe-em-liverpool/",
-        "title": "Rebeca Lima é Campeã Mundial de Boxe em Liverpool",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/rebeca-lima-boxe-300x200.jpg",
-        "date": "15/09/2025",
-        "description": "Brasil também garante três medalhas de prata na competição"
     }
 ]
