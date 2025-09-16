@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/406949-macos-todas-as-versoes-do-sistema-da-apple-ao-longo-da-historia.htm",
+        "title": "macOS: todas as versões do sistema da Apple ao longo da história",
+        "description": "Explore a história do macOS e conheça todas as versões do sistema operacional da Apple, da origem às edições mais recentes.",
+        "image": "https://tm.ibxk.com.br/2025/09/10/10111806886172.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502330-quanto-tempo-demora-para-zerar-borderlands-4-veja-a-duracao-do-jogo.htm",
+        "title": "Quanto tempo demora para zerar Borderlands 4? Veja a duração do jogo",
+        "description": "Borderlands 4 finalmente está disponível para PC e consoles, então muitos jogadores querem saber quanto tempo leva para zerar o game! Confira os detalhes",
+        "image": "https://tm.ibxk.com.br/2025/09/15/15072755948004.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/apostas/407062-sugar-rush.htm",
+        "title": "Sugar Rush",
+        "description": "Descubra a diversão que o slot Sugar Rush oferece! Veja como jogar, explore suas mecânicas e encontre os melhores sites para aproveitar esse jogo emocionante",
+        "image": "https://tm.ibxk.com.br/2025/09/15/15142042022052.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602113-temporada-4-de-the-witcher-veja-trailer-data-e-o-que-esperar-da-serie-com-novo-geralt.htm",
         "title": "Temporada 4 de The Witcher: Veja trailer, data e o que esperar da série com novo Geralt",
         "description": "A Temporada 4 de The Witcher vai ser o começo da reta final da adaptação da Netflix, trazendo Liam Hemsworth no lugar de Henry Cavill",
@@ -32,27 +53,6 @@
         "title": "Spotify melhora plano grátis e agora você escolhe exatamente qual música ouvir",
         "description": "Plataforma de streaming adicionou funções bastante pedidas pela comunidade e antes restritas aos modelos por assinatura",
         "image": "https://tm.ibxk.com.br/2025/09/15/15184310823004.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502335-seu-pc-roda-arena-breakout-infinite-veja-requisitos-do-jogo-gratis-e-onde-baixar.htm",
-        "title": "Seu PC roda Arena Breakout Infinite? Veja requisitos do jogo grátis e onde baixar",
-        "description": "Arena Breakout Infinite foi lançado gratuitamente para Steam e Epic Games Store e é um shooter com ótimas opções para jogar! Conheça",
-        "image": "https://tm.ibxk.com.br/2025/09/15/15132802825004.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/ciencia/407075-novo-conselho-nacional-de-politica-mineral-tera-foco-em-terras-raras.htm",
-        "title": "Novo Conselho Nacional de Política Mineral terá foco em terras raras",
-        "description": "A versão reestruturada do CNPM contará com representantes de universidades, da sociedade civil, de especialistas e do governo, tendo o presidente Lula na coordenação.",
-        "image": "https://tm.ibxk.com.br/2025/09/15/15162711546040.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407056-nova-variante-do-spectre-consegue-roubar-dados-ate-mesmo-de-cpus-modernos.htm",
-        "title": "Nova variante do Spectre consegue roubar dados até mesmo de CPUs modernos",
-        "description": "Pesquisadores da ETH Zurich desenvolveram um novo ataque conhecido como VMScape que contorna mecanismos de defesa projetados para o Spectre",
-        "image": "https://tm.ibxk.com.br/2025/04/04/04123922854004.jpg",
         "date": null
     }
 ]
