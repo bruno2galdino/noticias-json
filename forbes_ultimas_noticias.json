@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/como-o-genro-de-donald-trump-ficou-bilionario/",
+        "title": "Como o Genro de Donald Trump Ficou Bilionário",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-12-300x200.png",
+        "date": "16/09/2025",
+        "description": "Jared Kushner viu sua fortuna multiplicar a partir de bons investimentos, financiamentos de seus parceiros Oriente Médio e a valorização de seus imóveis na Califórnia"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/09/qualidade-de-vida-a-prioridade-no-tratamento-do-cancer-de-bexiga/",
+        "title": "Qualidade de Vida: a Prioridade no Tratamento do Câncer de Bexiga",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-2223300789-300x200.jpg",
+        "date": "16/09/2025",
+        "description": "Levantamento inédito traz a visão dos pacientes sobre o cuidado oncológico"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/sai-o-acordo-de-livre-comercio-entre-o-mercosul-e-a-efta/",
+        "title": "Sai o Acordo de Livre Comércio entre o MERCOSUL e a EFTA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_exportacao_conteineres_-17set25-_-Vithun-Khamsong_Getty-300x200.jpg",
+        "date": "16/09/2025",
+        "description": "Assinatura amplia a rede de comércio do Brasil e abre novas oportunidades para o agronegócio e a indústria de alimentos na Islândia, Noruega, Suíça e Liechtenstein"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/bancos-suicos-anunciam-1o-pagamento-com-blockchain-publico/",
         "title": "Bancos Suíços Anunciam 1º Pagamento com Blockchain Público",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/ubs-banco-suico-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/celular-smartphone-forbes-300x200.jpg",
         "date": "16/09/2025",
         "description": "Empresário sueco de tecnologia Carl Pei fundou a companhia em 2020, após deixar a fabricante de celulares OnePlus"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/serie-the-morning-show-tem-a-missao-de-criticar-ia-em-nova-temporada/",
-        "title": "Série \"The Morning Show\" Tem a Missão de Criticar IA em Nova Temporada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/the-morning-show-jennifer-aniston-e-Reese-Witherspoon-300x200.jpg",
-        "date": "16/09/2025",
-        "description": "Personagem de Jennifer Aniston vai ter imagens usadas em vídeos deepfake na trama, que estreia nesta quarta-feira (17)"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/09/como-manter-a-concentracao-em-um-mundo-que-nos-distrai-o-tempo-todo/",
-        "title": "Como Manter a Concentração em um Mundo Que nos Distrai o Tempo Todo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1469235935-300x200.jpg",
-        "date": "16/09/2025",
-        "description": "Retomar o controle da atenção é um ato de resistência silenciosa em meio ao caos das distrações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/china-divulga-medidas-para-impulsionar-consumo-de-servicos-e-estimular-crescimento/",
-        "title": "China Divulga Medidas para Impulsionar Consumo de Serviços e Estimular Crescimento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-7-2-300x200.png",
-        "date": "16/09/2025",
-        "description": "Incentivos serão voltados à internet, cultura e eventos esportivos internacionais"
     }
 ]
