@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-16-09.html",
+        "title": "O dia dos brasileiros: veja os resultados desta terça",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/picinelli-campinas-2025-1024x683.jpg",
+        "date": "16/09/2025",
+        "description": "WTA 500 de Seul (Coreia do Sul) – Sintético – US$ 1.064.510Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/chuva-adia-estreia-de-bia-e-atrapalha-toda-a-rodada-de-terca-feira.html",
+        "title": "Chuva adia estreia de Bia e atrapalha toda a rodada de terça-feira",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/bia-spopen-treina-2025-e1757182874549-1024x683.jpg",
+        "date": "16/09/2025",
+        "description": "Seul (Coreia do Sul)– Por causa da chuva, a estreia da paulista Beatriz Haddad Maia no WTA 500 de Seul, onde defende o título conquistado no ano passado, foi adiada. Cabeça de chave 6, ela abriria sua campanha nesta terça-feira, mas o tempo ruim atrapalhou toda a rodada e acabou levando sua estreia para quarta-feira."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/sp-open-apresenta-novos-nomes-e-esta-de-olho-no-futuro.html",
         "title": "SP Open apresenta novos nomes e está de olho no futuro",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/arte_ps_sarah.jpg",
         "date": "15/09/2025",
-        "description": "A edição inaugural do SP Open chegou ao fim no último domingo apresentado novos nomes e de olho no futuro. A semana na capital paulista foi uma celebração do momento do tênis feminino no Brasil, que cresceu bastante nos últimos anos, especialmente depois da medalha de Laura Pigossi e Luísa Stefani nos Jogos Olímpicos de Tóquio, passando pela consolidação de Bia Haddad Maia com três temporadas seguidas entre as 20 melhores do mundo e boas campanhas em Grand Slam. O evento marcou a volta do circuito da WTA ao Brasil depois de nove anos e à capital paulista, cidade natal da maioria das brasileiras no torneio, depois de duas décadas e meia."
+        "description": "A edição inaugural do SP Open chegou ao fim no último domingo, apresentando novos nomes e de olho no futuro. A semana na capital paulista foi uma celebração do momento do tênis feminino no Brasil, que cresceu bastante nos últimos anos, especialmente depois da medalha de Laura Pigossi e Luísa Stefani nos Jogos Olímpicos de Tóquio, passando pela consolidação de Bia Haddad Maia com três temporadas seguidas entre as 20 melhores do mundo e boas campanhas em Grand Slam. O evento marcou a volta do circuito da WTA ao Brasil depois de nove anos e à capital paulista, cidade natal da maioria das brasileiras no torneio, depois de duas décadas e meia."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/stefani-esta-semana-mostrou-o-quanto-a-gente-impacta-as-novas-geracoes.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/nana_brb_engie-1024x682.jpg",
         "date": "15/09/2025",
         "description": "Florianópolis (SC) –A paulista Nauhany Silva, a Naná, jovem sensação do tênis brasileiro de 15 anos, é mais um grande nome confirmado para a disputa do Engie Open, o WTA 125 de Florianópolis."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-melhor-do-sp-open.html",
-        "title": "O melhor do SP Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/tenis_elas_spopen.jpg",
-        "date": "15/09/2025",
-        "description": "Sem dúvida eu votaria no movimento e entusiasmo com o tênis feminino, a aproximação do público com o presente e futuro do tênis nacional."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/os-italianos-musetti-e-darderi-sao-os-principais-favoritos-em-chengdu.html",
-        "title": "Os italianos Musetti e Darderi são os principais favoritos em Chengdu",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/musetti-reaction-roland-garros-2025-sf-e1749234099984-1024x682.jpg",
-        "date": "15/09/2025",
-        "description": "Chengdu (China)– A chave do ATP 250 de Chengdu será comandada pelos italianos, com Lorenzo Musetti liderando a parte de cima da chave, como principal favorito ao título, e do outro lado Luciano Darderi aparecendo como o cabeça de chave número 2 do torneio."
     }
 ]
