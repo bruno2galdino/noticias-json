@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/forbes-mulher-agro-imposto-do-pecado-voce-tambem-vai-pagar/",
+        "title": "“Imposto do Pecado”: Você Também Vai Pagar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_bandeiras_-12set25-_-Andreswd_Getty-1-300x200.jpg",
+        "date": "16/09/2025",
+        "description": "Saiba sobre o tributo regulatório que promete encarecer insumos e equipamentos, exige atenção do agro e pode mudar radicalmente a conta do produtor a partir de 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/queda-do-dolar-nao-e-apenas-reflexo-do-provavel-corte-de-juros-nos-eua/",
+        "title": "Queda do Dólar a R$ 5,29 Não É Apenas Reflexo do Provável Corte de Juros nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Nota-de-dolar-e-grafico-em-imagem-ilustrativa-300x200.jpg",
+        "date": "16/09/2025",
+        "description": "Cenários econômicos no país e no Brasil, além de incertezas econômicas também justificam enfraquecimento da moeda"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/como-o-genro-de-donald-trump-ficou-bilionario/",
         "title": "Como o Genro de Donald Trump Ficou Bilionário",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-12-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-16T145651Z_1_LYNXNPEL8F0PL_RTROPTP_4_TECH-FIGURE-ROBOTICA-AVALIACAO-300x200.jpg",
         "date": "16/09/2025",
         "description": "Investidores apostam alto na robótica com IA, e Figure alcança avaliação bilionária para expandir robôs humanoides"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/plantio-de-soja-atinge-3-da-area-no-parana-mas-parte-de-produtores-aguarda-chuvas-diz-deral/",
-        "title": "Plantio de Soja Atinge 3% da Área no Paraná, Mas Parte de Produtores Aguarda Chuvas, Diz Deral",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-16T150143Z_1_LYNXNPEL8F0PO_RTROPTP_3_AGRICULTURE-PRIZE-300x200.jpg",
-        "date": "16/09/2025",
-        "description": "Safra 2025/26 começa no Paraná com avanço tímido e produtores à espera de chuvas regulares"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/fabricante-de-smartphones-nothing-levanta-us-200-milhoes-e-e-avaliada-em-us13-bilhao/",
-        "title": "Fabricante de Smartphones Nothing é Avaliada em US$1,3 Bilhão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/celular-smartphone-forbes-300x200.jpg",
-        "date": "16/09/2025",
-        "description": "Empresário sueco de tecnologia Carl Pei fundou a companhia em 2020, após deixar a fabricante de celulares OnePlus"
     }
 ]
