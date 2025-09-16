@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/china-divulga-medidas-para-impulsionar-consumo-de-servicos-e-estimular-crescimento/",
+        "title": "China Divulga Medidas para Impulsionar Consumo de Serviços e Estimular Crescimento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-7-2-300x200.png",
+        "date": "16/09/2025",
+        "description": "Incentivos serão voltados à internet, cultura e eventos esportivos internacionais"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/desemprego-fica-abaixo-do-esperado-com-queda-de-56-entre-maio-e-julho/",
+        "title": "Desemprego Fica Abaixo do Esperado, com Queda de 5,6% entre Maio e Julho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-6-2-300x200.png",
+        "date": "16/09/2025",
+        "description": "Número é o menor da série histórica do IBGE, que começou em 2012. Período registrou 102,4 milhões de trabalhadores empregados"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/ator-robert-redford-morre-aos-89-anos/",
+        "title": "Ator Robert Redford Morre Aos 89 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-16T122608Z_1_LYNXNPEL8F0JT_RTROPTP_4_AWARDS-CESAR-300x200.jpg",
+        "date": "16/09/2025",
+        "description": "Vencedor do Oscar e fundador do Sundance Institute, ator marcou gerações tanto nas telas quanto no ativismo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-dolar-mostra-otimismo-com-reuniao-do-fed/",
         "title": "Pré-mercado: Dólar Mostra Otimismo com Reunião do FED",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/iPhone-17-Pro-e-Pro-Max-300x200.png",
         "date": "16/09/2025",
         "description": "De acordo com a Statista, o valor alto se deve à alta carga tributária e à cotação do dólar"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/da-nba-ao-campo-por-que-chapu-nocioni-escolheu-uma-fazenda-na-argentina-para-investir/",
-        "title": "Da NBA Ao Campo: por Que Chapu Nocioni Investe em uma Fazenda na Argentina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Andres-Chapu-Nocioni-12set25-_-Forbes_Argentina-300x200.jpg",
-        "date": "16/09/2025",
-        "description": "O campeão olímpico de Atenas 2004 compartilha como aplicar a mentalidade de alto rendimento aos negócios e por que o setor agrícola o atraiu"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/futuro-glamouroso-e-presente-superestimado-o-que-fundador-da-anthropic-pensa-sobre-a-ia/",
-        "title": "Futuro Glamouroso e Presente Superestimado: o que Fundador da Anthropic Pensa sobre a IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Dario-Amodei-Hubspot-300x200.png",
-        "date": "16/09/2025",
-        "description": "Avaliada em US$ 183 bilhões, a startup liderada por Dario Amodei é responsável pelo modelo de linguagem Claude, utilizado por empresas como Perplexity, Microsoft e Databricks"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/geracao-z-prefere-buscar-renda-extra-a-subir-na-escada-corporativa/",
-        "title": "Geração Z Prefere Buscar Renda Extra a Cargo de Chefia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/geracao-z-bicos-forbes-300x200.jpg",
-        "date": "16/09/2025",
-        "description": "Especialistas destacam que não se trata de falta de ambição, mas de estratégia pessoal e financeira"
     }
 ]
