@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/wesley-batista-diz-que-jbs-esta-aberta-a-aquisicoes-na-europa/",
+        "title": "Wesley Batista Diz Que JBS Está Aberta a Aquisições na Europa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_JBS__16set2025_Getty-300x200.jpg",
+        "date": "16/09/2025",
+        "description": "Listagem em Nova York dá à empresa acesso a um conjunto maior de investidores, ajudando-a a reduzir o custo de capital e a competir com concorrentes"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/vespera-da-super-quarta-e-marcada-por-menor-cotacao-dolar-em-15-meses-e-recorde-do-ibovespa/",
+        "title": "Véspera da Super Quarta É Marcada por Menor Cotação Dólar em 15 Meses e Recorde do Ibovespa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-10-300x200.png",
+        "date": "16/09/2025",
+        "description": "Otimista, mercado aposta as fichas em corte de juros nos EUA e manutenção da Selic"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/forbes-mulher-agro-imposto-do-pecado-voce-tambem-vai-pagar/",
         "title": "“Imposto do Pecado”: Você Também Vai Pagar",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_bandeiras_-12set25-_-Andreswd_Getty-1-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Plantacao-de-trigo-em-fazenda-de-Kremlin-no-Estado-de-Oklahoma-12062025-REUTERSNick-Oxford-300x200.jpg",
         "date": "16/09/2025",
         "description": "Agricultores dos EUA têm perdido bilhões em vendas para a China, conforme negociações comerciais emperradas têm interrompido as exportações"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/exportacao-de-cafes-especiais-e-soluvel-do-brasil-aos-eua-despenca-em-agosto/",
-        "title": "Exportação de Cafés Especiais e Solúvel do Brasil Aos EUA Despenca em Agosto",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_Cafe_15JUl2025_Mikolette_Getty-300x200.jpg",
-        "date": "16/09/2025",
-        "description": "Exportações parecem ter sofrido até mais do que os embarques gerais, que incluem os grãos verdes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/startup-de-robotica-figure-e-avaliada-em-us-39-bilhoes-em-rodada-de-financiamento/",
-        "title": "Startup de Robótica Figure É Avaliada em US$ 39 Bilhões em Rodada de Financiamento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-16T145651Z_1_LYNXNPEL8F0PL_RTROPTP_4_TECH-FIGURE-ROBOTICA-AVALIACAO-300x200.jpg",
-        "date": "16/09/2025",
-        "description": "Investidores apostam alto na robótica com IA, e Figure alcança avaliação bilionária para expandir robôs humanoides"
     }
 ]
