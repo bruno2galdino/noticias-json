@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://forbes.com.br/forbesagro/2025/09/sai-o-acordo-de-livre-comercio-entre-o-mercosul-e-a-efta/",
-        "title": "Sai o Acordo de Livre Comércio entre o MERCOSUL e a EFTA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_exportacao_conteineres_-17set25-_-Vithun-Khamsong_Getty-300x200.jpg",
-        "date": "16/09/2025",
-        "description": "Assinatura amplia a rede de comércio do Brasil e abre novas oportunidades para o agronegócio e a indústria de alimentos na Islândia, Noruega, Suíça e Liechtenstein"
-    },
-    {
         "url": "https://forbes.com.br/forbes-money/2025/09/bancos-suicos-anunciam-1o-pagamento-com-blockchain-publico/",
         "title": "Bancos Suíços Anunciam 1º Pagamento com Blockchain Público",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/ubs-banco-suico-300x200.jpg",
@@ -68,5 +61,12 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1469235935-300x200.jpg",
         "date": "16/09/2025",
         "description": "Retomar o controle da atenção é um ato de resistência silenciosa em meio ao caos das distrações"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/china-divulga-medidas-para-impulsionar-consumo-de-servicos-e-estimular-crescimento/",
+        "title": "China Divulga Medidas para Impulsionar Consumo de Serviços e Estimular Crescimento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-7-2-300x200.png",
+        "date": "16/09/2025",
+        "description": "Incentivos serão voltados à internet, cultura e eventos esportivos internacionais"
     }
 ]
