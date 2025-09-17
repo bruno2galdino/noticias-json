@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/407131-macbook-pro-pode-ganhar-tela-oled-touchscreen.htm",
+        "title": "MacBook Pro pode ganhar tela OLED touchscreen",
+        "description": "A nova linha de notebook da Apple deve chegar em 2026.",
+        "image": "https://tm.ibxk.com.br/2025/09/11/11132621492032.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407145-google-identifica-e-exclui-conta-falsa-em-plataforma-exclusiva-para-autoridades-policiais.htm",
+        "title": "Google identifica e exclui conta falsa em plataforma exclusiva para autoridades policiais",
+        "description": "O Google encontrou e excluiu uma conta falsa no LERS, seu sistema para compartilhamento de informações de autoridades policiais",
+        "image": "https://tm.ibxk.com.br/2025/09/15/15141903029046.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407133-china-proibe-empresas-de-comprarem-chips-de-ia-da-nvidia.htm",
+        "title": "China proíbe empresas de comprarem chips de IA da Nvidia",
+        "description": "Decisão foi realizada por um órgão regulador do país, que entende haver tecnologia suficiente na China para bater de frente com os produtos da empresa.",
+        "image": "https://tm.ibxk.com.br/2025/05/29/29142508563006.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602129-funkos-legos-e-jogos-de-cartas-com-ate-50-off-no-mundo-geek-do-mercado-livre.htm",
         "title": "Funkos, LEGOs e jogos de cartas com até 50% OFF no Mundo Geek do Mercado Livre",
         "description": "Confira agora uma seleção de ofertas voltadas para o público geek no Mercado Livre e garanta Funkos POP, jogos de tabuleiro e mais com grandes descontos por tempo limitado",
@@ -39,27 +60,6 @@
         "title": "Kindle Week: e-books a partir de R$1,99 para aumentar sua biblioteca",
         "description": "A Kindle Week reuniu e-books a partir de R$1,99 e descontos em e-readers, com autores de destaque e clássicos da literatura; confira os principais títulos em oferta na ação!",
         "image": "https://tm.ibxk.com.br/2025/04/17/17122936463256.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407121-agentes-de-ia-sao-os-co-pilotos-dos-talentos-que-vao-dar-vida-a-proxima-grande-ideia.htm",
-        "title": "Agentes de IA são os 'co-pilotos' dos talentos que vão dar vida à próxima grande ideia",
-        "description": "Os agentes de IA chegaram para amplificar suas habilidades; leia a coluna!",
-        "image": "https://tm.ibxk.com.br/2025/09/17/17093700957037.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502347-com-ator-de-breaking-bad-dispatch-revive-formula-da-telltale-com-episodios-semanais.htm",
-        "title": "Com ator de Breaking Bad, Dispatch revive fórmula da Telltale com episódios semanais",
-        "description": "Trazendo elenco de peso, o jogo narrativo Dispatch será lançado em outubro e já possui demo grátis!",
-        "image": "https://tm.ibxk.com.br/2025/09/16/16152238879027.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407134-operacao-elimina-servico-de-grupo-cibercriminoso-que-roubava-contas-do-microsoft-365.htm",
-        "title": "Operação elimina serviço de grupo cibercriminoso que roubava contas do Microsoft 365",
-        "description": "Trabalho conjunto tirou do ar mais de 300 sites que comercializavam pacotes de ferramentas para extrair dados de vítimas",
-        "image": "https://tm.ibxk.com.br/2025/09/17/17125823028006.jpg",
         "date": null
     }
 ]
