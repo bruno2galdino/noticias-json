@@ -1,7 +1,21 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/francesca-bellettini-assume-como-ceo-da-gucci/",
+        "title": "Francesca Bellettini Assume como CEO da Gucci",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/11/Gucci-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "Italiana é uma das duas vice-presidentes do grupo Kering desde 2003"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/fed-confirma-expectativas-corta-juros-em-025-p-p-e-sinaliza-dois-novos-cortes-em-2025/",
+        "title": "Fed Confirma Expectativas, Corta Juros em 0,25 p.p e Sinaliza Dois Novos Cortes em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Jerome-Powell-Fed-Juros-Americanos-Money-300x200.png",
+        "date": "17/09/2025",
+        "description": "Decisão não foi unânime, com diretor indicado por Trump advogando em favor de um recuo maior nos Fed Funds"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/acoes-da-jhsf-disparam-10-apos-anuncio-de-nova-estrutura-de-gestao-de-empreendimentos/",
-        "title": "Ações da JHSF Disparam 10%, após Anúncio de Nova Estrutura de Gestão de Empreendimentos",
+        "title": "Ações da JHSF Disparam 10% após Anúncio de Nova Estrutura de Gestão",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-15-300x200.png",
         "date": "17/09/2025",
         "description": "O foco da nova empreitada serão os complexos imobiliários Cidade Jardim, Boa Vista, Boa Vista Estates, Boa Vista Village, entre outros"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_Suzano_Aracruz_Unidade_3jun25_Suzano_Divulg-300x200.jpg",
         "date": "17/09/2025",
         "description": "Empresa anuncia resgate antecipado de US$ 284,9 milhões em títulos com vencimento em 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/abiove-eleva-processamento-de-soja-do-brasil-em-2025-com-firme-demanda-por-biodiesel/",
-        "title": "Abiove Eleva Processamento de Soja do Brasil em 2025 com Firme Demanda por Biodiesel",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-16T130146Z_1_LYNXNPEL8F0L3_RTROPTP_4_ARGENTINA-GRAINS-SOYBEANS-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "Produção de farelo de soja sobe para 45,1 milhões de toneladas, com alta nas exportações e no consumo interno"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/ia-pode-elevar-valor-do-comercio-global-em-quase-40-ate-2040-diz-omc/",
-        "title": "IA Pode Elevar Valor do Comércio Global em Quase 40% até 2040, Diz OMC",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-17T134942Z_1_LYNXNPEL8G0LP_RTROPTP_4_COMERCIO-IA-OMC-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "Melhorias na infraestrutura digital podem impulsionar as exportações de países de baixa renda em até 11%, segundo projeções"
     }
 ]
