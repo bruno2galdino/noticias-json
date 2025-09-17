@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/pina-ball-marca-os-120-anos-da-pinacoteca-de-sao-paulo/",
+        "title": "Pina Ball Marca os 120 Anos da Pinacoteca de São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Visao-da-Pinacoteca-iluminada-durante-o-Pina-Ball-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "Com apoio da Chanel, baile beneficente reuniu mais de mil convidados em prol da programação e preservação do museu"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/cade-aprova-compra-da-wickbold-pela-mexicana-bimbo-mas-impoe-venda-de-marcas/",
+        "title": "Cade Aprova Compra da Wickbold Pela Mexicana Bimbo Mas Impõe Venda de Marcas",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/07/wickbold-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "Entre as obrigações, a Bimbo terá que vender as marcas Tá Pronto, de tortilhas e wraps, da Wickbold, e Nutrella, de pães especiais,"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/09/francesca-bellettini-assume-como-ceo-da-gucci/",
         "title": "Francesca Bellettini Assume como CEO da Gucci",
         "image": "https://forbes.com.br/wp-content/uploads/2023/11/Gucci-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_-carne_bovina_frigorifico-_-18set25-_Pramote-Polyamate_Getty-300x200.jpg",
         "date": "17/09/2025",
         "description": "No ano passado, o Brasil vendeu 2,89 milhões de toneladas de carne bovina para cerca de 150 países"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/consorcio-de-oracle-e-silver-lake-controlara-80-do-tiktok-nos-eua-diz-wsj/",
-        "title": "Consórcio de Oracle e Silver Lake Controlará 80% do TikTok nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/oracle-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "Empresa também terá uma diretoria dominada por norte-americanos, com um membro designado pelo governo dos EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/suzano-vai-resgatar-titulos-de-divida-com-vencimentos-em-2026-e-2027/",
-        "title": "Suzano Vai Resgatar Títulos de Dívida com Vencimentos em 2026 e 2027",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_Suzano_Aracruz_Unidade_3jun25_Suzano_Divulg-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "Empresa anuncia resgate antecipado de US$ 284,9 milhões em títulos com vencimento em 2026"
     }
 ]

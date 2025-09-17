@@ -1,10 +1,24 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/iga-e-alexandrova-estreiam-na-quinta-bia-joga-simples-e-duplas.html",
-        "title": "Iga e Alexandrova estreiam na quinta, Bia joga simples e duplas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/bia_siegemund_usopen.jpg",
+        "url": "https://tenisbrasil.uol.com.br/tsitsipas-vai-substituir-draper-na-segunda-edicao-do-six-kings-slam.html",
+        "title": "Tsitsipas vai substituir Draper na segunda edição do Six Kings Slam",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/six_kings_comtsi_art.jpg",
         "date": "17/09/2025",
-        "description": "Seul (Coreia do Sul) –Após dois dias muito prejudicados por chuva, as principais cabeças de chave do WTA 500 de Seul estreiam nesta quinta-feira. A rodada terá nomes como a polonesa Iga Swiatek e a russa Ekaterina Alexandrova. O dia também será de rodada dupla para Beatriz Haddad Maia, atual campeã do torneio. A brasileira disputa oitavas de simples e a estreia nas duplas."
+        "description": "Riad (Arábia Saudita) –O grego Stefanos Tsitsipas irá substituir o britânico Jack Draper na segunda edição do Six Kings Slam, a milionária série de exibições que acontece na Arábia Saudita entre 15 e 18 de outubro. Draper já encerrou a temporada, por lesão no braço."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/agassi-se-mostra-disposto-a-ajudar-jogadores-mas-sem-tantas-viagens.html",
+        "title": "Agassi se mostra disposto a ajudar jogadores, mas sem tantas viagens",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/agassi_fonseca_laver-1024x683.jpg",
+        "date": "17/09/2025",
+        "description": "San Francisco (EUA) –Estreante na posição de capitão do Time Mundo da Laver Cup, Andre Agassi se mostra disposto a ajudar no desenvolvimento de jogadores, mas descarta no momento a hipótese de voltar a ser um treinador em tempo integral de um tenista e viajar com ele durante o ano inteiro."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/duplas-de-daniel-silva-e-bruno-oliveira-se-enfrentam-nas-quartas-na-argentina.html",
+        "title": "Duplas de Daniel Silva e Bruno Oliveira se enfrentam nas quartas na Argentina",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/bruno_oliveira.jpg",
+        "date": "17/09/2025",
+        "description": "Villa Maria (Argentina) –Em jogo com três brasileiros em quadra, Daniel Dutra da Silva e o argentino Gonzalo Villanueva venceram a parceria nacional de Marcelo Zormann e Luis Britto por 4/6, 6/3 e 10-5."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-17-09.html",
@@ -12,6 +26,34 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/demoliner_oeiras_saibro-1024x582.jpg",
         "date": "17/09/2025",
         "description": "WTA 500 de Seul (Coreia do Sul) – Sintético – US$ 1.064.510Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/etapa-de-barueri-no-circuito-beach-tennis-tera-400-atletas.html",
+        "title": "Etapa de Barueri do Circuito Beach Tennis terá 400 atletas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/prainha-tambore_barueri.jpg",
+        "date": "17/09/2025",
+        "description": "Barueri (SP) –Pelo segundo ano consecutivo o Prainha Tamboré, em Alphaville, Barueri (SP), recebe o Circuito Beach Tennis com a 14ª etapa. Ao todo 400 atletas disputam, entre esta sexta-feira, dia 19, e o domingo, as categorias profissionais em busca da premiação total de R$ 20 mil distribuída entre os melhores. A luta se acirra pela liderança do ranking que dará, ao final do ano, a viagem para o torneio de Aruba, em 2026, o mais tradicional do esporte."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/astros-disputam-o-titulo-de-rei-e-rainha-da-quadra-na-barra-da-tijuca.html",
+        "title": "Astros disputam o título de Rei e Rainha da Quadra na Barra da Tijuca",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/antomi_ramos_1709_web.jpg",
+        "date": "17/09/2025",
+        "description": "Rio de Janeiro (RJ) –O público do Rio de Janeiro terá a chance de acompanhar de perto alguns dos maiores nomes do beach tennis mundial. Entre os dias 18 e 21 de setembro, a NR Arena, na Barra da Tijuca, recebe a etapa inaugural do Brasil Open Beach Tennis Series – presented by TotalEnergies, que estreia com o inovador formato Rei e Rainha da Quadra e terá transmissão ao vivo pelo Sportv 3 no sábado (14h30 às 19h30) e no domingo (13h às 16h)."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/gabriela-ce-vence-a-principal-cabeca-de-chave-em-itf-na-servia.html",
+        "title": "Gabriela Cé vence a principal cabeça de chave em ITF na Sérvia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/gabriela_ce_koksijde_slice_qf.jpg",
+        "date": "17/09/2025",
+        "description": "Kursumlijska Banja (Sérvia) –Única brasileira no ITF W75 de Kursumlijska Banja, em quadras de saibro na Sérvia, Gabriela Cé conseguiu um grande resultado nesta quarta-feira. A gaúcha de 32 anos e 417ª do ranking eliminiou a liechtensteinense Kathinka von Deichmann, principal cabeça de chave 202ª do mundo, com parciais de 6/3 e 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/iga-e-alexandrova-estreiam-na-quinta-bia-joga-simples-e-duplas.html",
+        "title": "Iga e Alexandrova estreiam na quinta, Bia joga simples e duplas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/bia_siegemund_usopen.jpg",
+        "date": "17/09/2025",
+        "description": "Seul (Coreia do Sul) –Após dois dias muito prejudicados por chuva, as principais cabeças de chave do WTA 500 de Seul estreiam nesta quinta-feira. A rodada terá nomes como a polonesa Iga Swiatek e a russa Ekaterina Alexandrova. O dia também será de rodada dupla para Beatriz Haddad Maia, atual campeã do torneio. A brasileira disputa oitavas de simples e a estreia nas duplas."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-visita-o-antigo-presidio-de-alcatraz-antes-da-laver-cup.html",
@@ -26,47 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/osaka-usopen-espera-2025-1024x681.jpg",
         "date": "17/09/2025",
         "description": "Nova York (EUA)– Uma das mamães do circuito atual, a japonesa Naomi Osaka manifestou seu descontentamento com as políticas da WTA em relação às tenistas que retornam ao circuito depois de dar à luz. Em declarações recentes noFinancial Times, ela falou sobre as dificuldades que enfrentou em sua volta."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/venus-nao-descarta-competir-nos-jogos-de-los-angeles-nada-e-impossivel.html",
-        "title": "Venus não descarta competir nos Jogos de Los Angeles: “Nada é impossível”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/venus-usopen-comemora-2025.jpg",
-        "date": "17/09/2025",
-        "description": "Los Angeles (EUA)– Aos 45 anos, a norte-americana Venus Williams segue ainda com vontade de competir, tanto que no último US Open ela esteve em quadra nas três chaves que poderia: simples, duplas e duplas mistas"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/townsend-pede-desculpas-por-comentarios-sobre-a-comida-chinesa.html",
-        "title": "Townsend pede desculpas por comentários sobre a comida chinesa",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/townsend_vibra_usopen_25-1024x697.jpg",
-        "date": "17/09/2025",
-        "description": "Shenzhen (China) –A americana Taylor Townsend desculpou-se por postar uma série de vídeos no Instagram nos quais zombava de um bufê na China e dizia que “essas pessoas estão literalmente matando sapos”."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bia-tive-um-momento-ruim-mas-consegui-me-acalmar-e-seguir-adiante.html",
-        "title": "Bia: “Tive um momento ruim, mas consegui me acalmar e seguir adiante”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/Haddad-Maia-R1-OH-1024x683.jpg",
-        "date": "17/09/2025",
-        "description": "Seul (Coreia do Sul) –Horas depois devencer sua partida de estreiano WTA 500 de Seul, Beatriz Haddad Maia falou sobre a vitória diante da sul-coreana Dayeon Back e especialmente sobre o que aconteceu nos últimos games. Depois de ter liderado o segundo set por 5/0, a brasileira sofreu duas quebras e chegou a receber atendimento em quadra para aferição da pressão arterial. Ela perdeu potência no saque e teve mais dificuldades, mas conseguiu uma nova quebras a favor para definir a partida em sets diretos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/de-virada-o-jovem-tien-supera-sua-estreia-como-cabeca-de-chave-na-atp.html",
-        "title": "De virada, o jovem Tien supera sua estreia como cabeça de chave na ATP",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/tien-hangzhou-2025-wednesday-e1758127672110-1024x682.jpg",
-        "date": "17/09/2025",
-        "description": "Hangzhou (China)– Competindo como cabeça de chave pela primeira vez em um ATP, o jovem norte-americano Learner Tien mostrou calma para superar a estreia no ATP 20 de Hangzhou de virada, derrotando o argentino Mariano Navone com parciais de 5/7, 6/3 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/shang-vence-a-primeira-desde-a-cirurgia-e-inicia-defesa-do-titulo-em-chengdu.html",
-        "title": "Shang vence a primeira desde a cirurgia e inicia defesa do título em Chengdu",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/shang-chengdu-2025-wednesday-e1758126153171-1024x682.jpg",
-        "date": "17/09/2025",
-        "description": "Chengdu (China)– Vivendo uma temporada complicada, o jovem chinês Juncheng Shang iniciou bem a defesa do título do ATP 250 de Chengdu, onde anotou sua primeira vitória desde janeiro. Nesta quarta-feira, o tenista da casa não decepcionou a torcida local e derrotou o belga Zizou Bergs por 6/1, 5/7 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ucrania-vence-espanha-e-avanca-para-a-semi-da-bjk-cup-pela-primeira-vez.html",
-        "title": "Ucrânia vence Espanha e avança para a semi da BJK Cup pela primeira vez",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/svitolina-bjkcup-vibra-2025-e1758122400383-1024x682.jpg",
-        "date": "17/09/2025",
-        "description": "Shenzhen (China)– Pela primeira vez na história, a Ucrânia conseguiu se classificar para as semifinais da Billie Jean King Cup. A vaga inédita veio nesta quarta-feira com uma vitória por 2 a 0 sobre a Espanha, definida com os triunfos de Marta Kostyuk e Elina Svitolina nas partidas de simples."
     }
 ]
