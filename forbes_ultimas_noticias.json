@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/producao-de-acucar-do-centro-sul-sobe-182-na-2a-metade-de-agosto-diz-unica/",
+        "title": "Produção de Açúcar do Centro-Sul Sobe 18,2% na 2ª Metade de Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/07/agro-brasil-acucar-17Jul23-NachoDoce-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "No mesmo período, a moagem de cana avançou 10,68%, para 50,06 milhões de toneladas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/datagro-diz-que-abates-de-bovinos-caem-em-2026-mas-vao-crescer-em-2025/",
+        "title": "Datagro Diz Que Abates de Bovinos Caem em 2026, Mas Vão Crescer em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/11/agro-pecuaria-bovino-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "Crescimento está sendo impulsionado pela forte demanda nas exportações, previstas em recordes neste ano"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/nestle-inaugura-nova-era-com-saida-antecipada-de-presidente-do-conselho/",
+        "title": "Nestlé Inaugura Nova era com Saída Antecipada de Presidente do Conselho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/nestle-forbes-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "Paul Bulcke deixará o cargo antes do planejado e passará o comando para o ex-chefe da Inditex Pablo Isla em 1º de outubro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/setor-de-carne-bovina-do-brasil-realoca-embarques-e-crescera-ate-14-apesar-de-tarifas/",
+        "title": "Com Embarques Realocados Exportação de Carne Bovina Crescerá até 14% em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_-carne_bovina_frigorifico-_-18set25-_Pramote-Polyamate_Getty-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "No ano passado, o Brasil vendeu 2,89 milhões de toneladas de carne bovina para cerca de 150 países"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/consorcio-de-oracle-e-silver-lake-controlara-80-do-tiktok-nos-eua-diz-wsj/",
+        "title": "Consórcio de Oracle e Silver Lake Controlará 80% do TikTok nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/oracle-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "Empresa também terá uma diretoria dominada por norte-americanos, com um membro designado pelo governo dos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/suzano-vai-resgatar-titulos-de-divida-com-vencimentos-em-2026-e-2027/",
+        "title": "Suzano Vai Resgatar Títulos de Dívida com Vencimentos em 2026 e 2027",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_Suzano_Aracruz_Unidade_3jun25_Suzano_Divulg-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "Empresa anuncia resgate antecipado de US$ 284,9 milhões em títulos com vencimento em 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/abiove-eleva-processamento-de-soja-do-brasil-em-2025-com-firme-demanda-por-biodiesel/",
+        "title": "Abiove Eleva Processamento de Soja do Brasil em 2025 com Firme Demanda por Biodiesel",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-16T130146Z_1_LYNXNPEL8F0L3_RTROPTP_4_ARGENTINA-GRAINS-SOYBEANS-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "Produção de farelo de soja sobe para 45,1 milhões de toneladas, com alta nas exportações e no consumo interno"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/ia-pode-elevar-valor-do-comercio-global-em-quase-40-ate-2040-diz-omc/",
+        "title": "IA Pode Elevar Valor do Comércio Global em Quase 40% até 2040, Diz OMC",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-17T134942Z_1_LYNXNPEL8G0LP_RTROPTP_4_COMERCIO-IA-OMC-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "Melhorias na infraestrutura digital podem impulsionar as exportações de países de baixa renda em até 11%, segundo projeções"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/09/emirates-nomeia-novo-diretor-regional-para-america-latina/",
         "title": "Emirates Nomeia Novo Diretor Regional para América Latina",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/emirates-Stephane-Perard-300x200.jpg",
@@ -8,65 +64,9 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/09/cogna-lanca-opa-da-vasta-a-us-500-por-papel/",
-        "title": "Cogna Lança Oferta por Ações da Vasta a US$ 5,00 por Papel",
+        "title": "Cogna Lança OPA da Vasta a US$ 5,00 por Papel",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-14-300x200.png",
         "date": "17/09/2025",
         "description": "Objetivo do grupo é diminuir custos, já que empresa tem baixa liquidez em sua listagem no Nasdaq"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/amanda-maria-exalta-brasilidade-em-show-no-the-town/",
-        "title": "Amanda Maria Exalta Brasilidade em Show no The Town",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Amanda-Maria-e-The-Square-Big-Band-fizeram-set-de-samba-jazz-no-palco-The-Square-do-The-Town-2025-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "Acompanhada de big band, cantora que participou do The Voice Brasil em 2023 fez performance de samba jazz"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/amazon-investe-mais-de-us-1-bilhao-para-aumentar-salarios-e-reduzir-custos-de-saude-dos-funcionarios/",
-        "title": "Amazon Investe Mais de US$ 1 Bilhão para Aumentar Salários dos Funcionários",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/money_amazon_logo-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "Gigante de tecnologia afirmou que o salário médio passará a ser superior a US$ 23 por hora"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/co-fundador-da-ben-jerrys-anuncia-saida-da-empresa/",
-        "title": "Co-fundador da Ben & Jerry's Anuncia Saída da Empresa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-13-300x200.png",
-        "date": "17/09/2025",
-        "description": "Jerry Greenfield acusou a Unilever, controladora da marca, de tirar a autonomia da empresa"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/colheita-de-cafe-da-maior-coopertiva-exportadora-do-brasil-esta-praticamente-encerrada/",
-        "title": "Colheita de Café da Maior Coopertiva Exportadora do Brasil Está Praticamente Encerrada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Agro_Cafe_17set25_Getty-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "Cooxupé avança para o fim do ciclo com quase toda a safra concluída em suas principais regiões produtoras"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/jhsf-cria-veiculo-de-investimento-de-r-46-bi-e-altera-modelo-de-incorporacao/",
-        "title": "JHSF Cria Veículo de Investimento de R$ 4,6 Bi e Altera Modelo de Incorporação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-23-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "A companhia seguirá à frente do desenvolvimento de todos os projetos envolvidos na transação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-fed-encerra-hoje-reuniao-decisiva-para-trajetoria-do-dolar/",
-        "title": "Pré-mercado: FED Encerra Hoje Reunião Decisiva para Trajetória do Dólar",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "17/09/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 17 de setembro"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/infomercial-knn-idiomas-quando-o-sucesso-e-a-unica-opcao/",
-        "title": "Quando o Sucesso É a Única Opção",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-13-300x200.png",
-        "date": "17/09/2025",
-        "description": "Fundador da KNN Idiomas enaltece a resiliência e afirma que seu propósito vai além do ensino de inglês"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/eua-impoe-aos-produtores-industrias-alimenticias-e-varejistas-um-armagedon-tarifario-insuportavel/",
-        "title": "EUA Impõe Aos Seus Produtores, À Agroindústria e Varejistas um \"Armagedon\" Tarifário Insuportável",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_EUA_tarifas-__-17set25-_-Gettinthere-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "Do campo às multinacionais de bens de consumo, empresas como Hylio, Tony Roma’s, PepsiCo e Nestlé estão na linha de frente das turbulências do comércio internacional"
     }
 ]
