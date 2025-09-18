@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/brandvoice-breton-moveis-brasileiros-ganham-destaque-global/",
+        "title": "Móveis Brasileiros Ganham Destaque Global",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/breton-bv--300x200.png",
+        "date": "18/09/2025",
+        "description": "Breton acelera expansão nacional e conquistas ESG com foco em regiões impulsionadas pelo mercado imobiliário de alto padrão"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/09/jennifer-aniston-e-reese-witherspoon-falam-sobre-nova-temporada-de-the-morning-show/",
         "title": "Jennifer Aniston e Reese Witherspoon Refletem sobre \"The Morning Show\"",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/the-morning-show-300x200.jpg",
@@ -43,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/09/em-terceiro-aporte-natura-ventures-aposta-em-logistica-regenerativa-com-a-chilena-wareclouds/",
-        "title": "Em Terceiro Aporte, Natura Ventures Aposta em Logística Regenerativa com a Chilena WareClouds",
+        "title": "Natura Ventures Aposta em Logística Regenerativa com a Chilena WareClouds",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Jose-Manuel-vice-presidente-de-Novos-Negocios-da-Natura-300x200.jpg",
         "date": "18/09/2025",
         "description": "José Manuel Silva, VP de Novos Negócios, detalha a estratégia por trás do investimento e a visão futura para o fundo que começou com R$ 50 milhões"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-11-300x200.png",
         "date": "17/09/2025",
         "description": "No Copom, autoridades mantiveram taxa básica de juros em 15% de forma unânime"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/grupo-sada-investe-r-11-bilhao-em-usinas-de-etanol-de-milho/",
-        "title": "Grupo Sada Investe R$ 1,1 Bilhão em Usinas de Etanol de Milho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_-etanol_milho_-18set25-_Greenleaf123_Getty-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "Com usinas flex em Jaíba e Montes Claros de Goiás, grupo aposta na integração de cereal e cana, geração de energia própria e produção de coprodutos para ração e óleo vegetal"
     }
 ]
