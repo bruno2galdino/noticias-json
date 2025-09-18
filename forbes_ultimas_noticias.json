@@ -1,6 +1,6 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-money/2025/09/banco-central-mantem-selic-a-15-e-reforca-cautela/",
+        "url": "https://forbes.com.br/manchete-1/2025/09/banco-central-mantem-selic-a-15-e-reforca-cautela/",
         "title": "Banco Central Mantém Selic a 15% e Reforça Cautela",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-17-300x200.jpg",
         "date": "17/09/2025",
@@ -12,6 +12,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-11-300x200.png",
         "date": "17/09/2025",
         "description": "No Copom, autoridades mantiveram taxa básica de juros em 15% de forma unânime"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/grupo-sada-investe-r-11-bilhao-em-usinas-de-etanol-de-milho/",
+        "title": "Grupo Sada Investe R$ 1,1 Bilhão em Usinas de Etanol de Milho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_-etanol_milho_-18set25-_Greenleaf123_Getty-300x200.jpg",
+        "date": "17/09/2025",
+        "description": "Com usinas flex em Jaíba e Montes Claros de Goiás, grupo aposta na integração de cereal e cana, geração de energia própria e produção de coprodutos para ração e óleo vegetal"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/09/pina-ball-marca-os-120-anos-da-pinacoteca-de-sao-paulo/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/07/agro-brasil-acucar-17Jul23-NachoDoce-300x200.jpg",
         "date": "17/09/2025",
         "description": "No mesmo período, a moagem de cana avançou 10,68%, para 50,06 milhões de toneladas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/datagro-diz-que-abates-de-bovinos-caem-em-2026-mas-vao-crescer-em-2025/",
-        "title": "Datagro Diz Que Abates de Bovinos Caem em 2026, Mas Vão Crescer em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/11/agro-pecuaria-bovino-300x200.jpg",
-        "date": "17/09/2025",
-        "description": "Crescimento está sendo impulsionado pela forte demanda nas exportações, previstas em recordes neste ano"
     }
 ]
