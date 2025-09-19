@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/como-o-sonho-britanico-da-whole-foods-virou-um-pesadelo-financeiro-de-20-anos/",
+        "title": "Como o Sonho Britânico da Whole Foods Virou um Pesadelo Financeiro de 20 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_-Kings-Road_Whole-Foods-_-18set25-_Whole-Foods_Divulg-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Controlada pela Amazon, maior rede de alimentos orgânicos do mundo acumula prejuízos e não consegue se conectar com o público do Reino Unido"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/por-dentro-da-fabrica-de-agentes-de-ia-do-ifood/",
+        "title": "Por Dentro da \"Fábrica” de Agentes de IA do iFood",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Raphael-Bozza-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Empresa atingiu a marca de 880 agentes ativos por semana criados por funcionários, a meta é terminar 2026 com 7 mil"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/09/marina-silva-e-a-unica-brasileira-na-lista-forbes-de-lideres-de-sustentabilidade-de-2025/",
+        "title": "Marina Silva é a Única Brasileira na Lista Forbes de Líderes de Sustentabilidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/marina-silva-forbes-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Ministra do Meio Ambiente é destaque por iniciativas de combate à crise climática"
+    },
+    {
+        "url": "https://forbes.com.br/coluna/2025/09/adultizacao-infantil-entre-telas-pressoes-e-a-nova-lei-sancionada-por-lula/",
+        "title": "Adultização Infantil: entre Telas, Pressões e a Nova Lei Sancionada por Lula",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Felca-300x200.png",
+        "date": "19/09/2025",
+        "description": "Pressões digitais, consumo precoce e sexualização estão encurtando a infância enquanto a nova lei busca enfrentar um problema tão invisível quanto cotidiano"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/09/fugindo-da-realidade-o-que-e-o-efeito-avestruz-e-como-ele-te-afeta/",
+        "title": "Fugindo da Realidade: O Que É o ‘Efeito Avestruz’ e Como Ele te Afeta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0x0-300x200.webp",
+        "date": "19/09/2025",
+        "description": "Estudo revela por que evitamos informações desconfortáveis e como esse hábito afeta nossas decisões e nosso bem-estar"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2025/09/whatsapp-ainda-e-subaproveitado-por-empresas-brasileiras/",
+        "title": "WhatsApp Ainda É Subaproveitado por Empresas Brasileiras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Rodrigo_AcC-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Segundo o estudo “Panorama do Uso do WhatsApp e Estratégias de Marketing no Brasil”, apenas 41,2% das companhias usam campanhas automatizadas no canal"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/athleisure-wear-tendencia-de-moda-deve-movimentar-r-5-trilhoes-ate-2033/",
+        "title": "Athleisure Wear: Tendência de Moda Deve Movimentar R$ 5 Trilhões até 2033",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Imagem-de-divulgacao-da-linha-activewear-da-Lacoste-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Combinação de desempenho e estética transforma roupas de corrida e peças esportivas em um dos segmentos de moda que mais cresce no Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/agro-argentino-corre-em-busca-de-dolares-para-a-safra-2025-26/",
+        "title": "Agro Argentino Corre em Busca de Dólares para a Safra 2025/26",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/AGRO_COLHEITA_aRGENTINA_-17set25-_Forbes_Argentina-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Às vésperas do plantio não há uma resposta uniforme aos principais cultivos e produtores avaliam os preços internacionais, a carga tributária e até o fator climático"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/michel-temer-sobre-polarizacao-politica-pior-do-que-esta-nao-pode-ficar/",
         "title": "Michel Temer sobre Polarização Política: \"Pior do Que Está Não Pode Ficar\"",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-Michel-Temer-GettyImages-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-11-300x200.png",
         "date": "18/09/2025",
         "description": "No Brasil, após sucessivos recordes, Ibovespa foi pressionada para baixo devido ao desempenho da Petrobrás"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/nova-geracao-da-musica-brasileira-celebra-indicacoes-ao-grammy-latino/",
-        "title": "Nova Geração da Música Brasileira Celebra Indicações Ao Grammy Latino",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Indicacoes-ao-Grammy-Latino-2025-foram-divulgadas-na-quarta-feira-17-1-300x200.jpg",
-        "date": "18/09/2025",
-        "description": "João Gomes, Jota.pê e Tierry falaram à Forbes sobre suas indicações e expectativas para a premiação que acontece em novembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/brasil-paga-r-185-mi-em-defesa-contra-tarifas-de-trump/",
-        "title": "Brasil Paga R$ 18,5 Mi em Defesa Contra Tarifas de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_EUA_tarifas-__-17set25-_-Gettinthere-300x200.jpg",
-        "date": "18/09/2025",
-        "description": "A equipe para o Brasil inclui o sócio de finanças internacionais Eli Whitney Debevoise II, que é ex-diretor executivo do Banco Mundial nos Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/femsa-anuncia-novo-ceo/",
-        "title": "FEMSA Anuncia Novo CEO",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/FEMSA-Jose-Antonio-Fernandez-Carbajal-300x200.jpg",
-        "date": "18/09/2025",
-        "description": "Jose Antonio Fernández Garza-Lagüera assume a liderança da empresa dona da maior engarrafadora de Coca-Cola do mundo e da rede Oxxo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/09/weg-define-meta-de-reducao-de-emissoes-de-gases-do-efeito-estufa/",
-        "title": "Weg Define Meta de Redução de Emissões de Gases do Efeito Estufa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Weg-1-2-300x200.jpg",
-        "date": "18/09/2025",
-        "description": "Medida se refere às emissões de gases-estufa indiretas, que ocorrem fora do controle direto de uma empresa em sua cadeia de valor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/mariah-carey-se-junta-a-artistas-locais-em-show-dedicado-a-amazonia/",
-        "title": "Mariah Carey se Junta a Artistas Locais em Show Dedicado À Amazônia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/mariah-carey-300x200.jpg",
-        "date": "18/09/2025",
-        "description": "Cantora apresentou seus sucessos em um palco flutuante em forma de uma enorme vitória-régia no Rio Guamá"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/conheca-as-duas-brasileiras-indicadas-a-artista-revelacao-no-grammy-latino/",
-        "title": "Grammy Latino: Conheça as 2 Brasileiras Indicadas a Artista Revelação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/sued-nunes-300x200.jpg",
-        "date": "18/09/2025",
-        "description": "Sued Nunes e Juliane Gamboa representam o Brasil na categoria; cerimônia acontece em novembro, em Las Vegas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/nvidia-vai-investir-us-5-bilhoes-em-participacao-na-intel/",
-        "title": "Nvidia Vai Investir US$ 5 Bilhões em Participação na Intel",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-13-2-300x200.png",
-        "date": "18/09/2025",
-        "description": "Intel dispara no pré-mercado com possível parceria com Nvidia, enquanto AMD e TSMC recuam"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/trump-diz-que-espera-que-chefes-da-ia-saibam-o-que-estao-fazendo/",
-        "title": "Trump Diz Que Espera Que Chefes da Ia Saibam o Que Estão Fazendo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-money-1-300x200.jpg",
-        "date": "18/09/2025",
-        "description": "Em visita ao Reino Unido, Trump e o premiê Keir Starmer se reúnem com líderes empresariais e de tecnologia, incluindo o CEO da Nvidia, Jensen Huang"
     }
 ]
