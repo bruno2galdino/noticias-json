@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/louis-dreyfus-registra-volumes-maiores-e-lucros-menores-no-1o-semestre/",
+        "title": "Louis Dreyfus registra volumes maiores e lucros menores no 1º semestre",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "LDC informou que os volumes do primeiro semestre aumentaram 4,4% em relação ao ano anterior, contribuindo para um aumento de 2,3% nas vendas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/suzano-vai-aumentar-preco-da-celulose-em-todos-os-mercados-a-partir-de-outubro/",
+        "title": "Suzano Vai Aumentar Preço da Celulose em Todos os Mercados a Partir de Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/celulose-suzano-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Companhia vai elevar os preços da commodity em US$ 20 a tonelada para clientes na Ásia e em US$ 50 na Europa e Américas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/09/ararinha-azul-brasileira-esta-no-centro-de-disputa-sobre-zoologico-da-familia-ambani-na-india/",
+        "title": "Ararinha-Azul Está no Centro de Disputa sobre Zoológico na Índia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ararinha-azull-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Há mais de dois anos, autoridades de três continentes vêm se manifestando sobre o motivo pelo qual 26 das criaturas foram parar em um zoológico particular no país"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/trump-diz-que-china-deu-aprovacao-ao-acordo-com-o-tiktok/",
+        "title": "Trump Diz Que China Deu 'Aprovação' Ao Acordo com o TikTok",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/2025-01-19T185520Z_1_LYNXNPEL0I0A1_RTROPTP_4_TECH-TIKTOK-SUPREMACORTE-EUA-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Espera-se que o deal inclua uma participação majoritária para a empresa de capital de risco do bilionário Larry Ellison e Marc Andreessen"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/china-aprova-96-variedades-transgenicas-de-milho-e-duas-de-soja/",
         "title": "China Aprova 96 Variedades Transgênicas de Milho e Duas de Soja",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-19T133328Z_1_LYNXNPEL8I0KD_RTROPTP_3_BRAZIL-ETHANOL-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "19/09/2025",
         "description": "Notícias e indicadores que podem afetar os preços dos ativos nesta sexta-feira, 19 de setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/sessoes-24-7-risco-ou-solucao-entenda-por-que-bolsas-estao-cogitando-ampliar-horario-do-pregao/",
-        "title": "Sessões 24/7: Risco ou Solução? Entenda por Que Bolsas Estão Cogitando Ampliar Horário do Pregão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/bolsa_271221_Money_GettyImages-e1703875746812-300x200.jpeg",
-        "date": "19/09/2025",
-        "description": "Funcionamento estendido teve mercado cripto como pioneiro, enquanto caminha a passos lentos nos setores mais tradicionais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/brandvoice-nelson-wilians-advogados-quando-a-sucessao-vira-deal/",
-        "title": "Quando a Sucessão Vira Deal",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-14-300x200.png",
-        "date": "19/09/2025",
-        "description": "Por que herdeiros estão impulsionando o mercado de M&A no Brasil?"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/como-o-sonho-britanico-da-whole-foods-virou-um-pesadelo-financeiro-de-20-anos/",
-        "title": "Como o Sonho Britânico da Whole Foods Virou um Pesadelo Financeiro de 20 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_-Kings-Road_Whole-Foods-_-18set25-_Whole-Foods_Divulg-300x200.jpg",
-        "date": "19/09/2025",
-        "description": "Controlada pela Amazon, maior rede de alimentos orgânicos do mundo acumula prejuízos e não consegue se conectar com o público do Reino Unido"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/por-dentro-da-fabrica-de-agentes-de-ia-do-ifood/",
-        "title": "Por Dentro da \"Fábrica” de Agentes de IA do iFood",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Raphael-Bozza-300x200.jpg",
-        "date": "19/09/2025",
-        "description": "Empresa atingiu a marca de 880 agentes ativos por semana criados por funcionários, a meta é terminar 2026 com 7 mil"
     }
 ]

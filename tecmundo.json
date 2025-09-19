@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/voxel/502375-steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-de-1909-e-resgate.htm",
+        "title": "Steam recebe 5 jogos grátis nesta semana! Veja lista de 19/09 e resgate!",
+        "description": "De hack and slash a aventura: veja os novos jogos grátis que chegaram ao PC nesta semana!",
+        "image": "https://tm.ibxk.com.br/2025/09/19/19125845971042.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407207-huawei-watch-ultimate-2-chega-com-comunicacao-embaixo-dagua-e-mais-bateria.htm",
+        "title": "Huawei Watch Ultimate 2 chega com comunicação embaixo d'água e mais bateria",
+        "description": "Smartwatch voltado para mergulho usa vidro de safiro na carcaça e permite mergulhos em profundidades de até 150 metros.",
+        "image": "https://tm.ibxk.com.br/2025/09/19/19150155829138.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407197-apple-watch-ganha-novidade-que-alerta-usuario-sobre-hipertensao.htm",
+        "title": "Apple Watch ganha novidade que alerta usuário sobre hipertensão",
+        "description": "A Apple desenvolveu um algoritmo de IA para identificar sinais de hipertensão e recomendar que o usuário procure ajuda médica.",
+        "image": "https://tm.ibxk.com.br/2025/09/09/09142131886121.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407205-huawei-watch-gt-6-pro-chega-com-bateria-ultralonga-e-inovacoes-para-ciclistas.htm",
+        "title": "HUAWEI WATCH GT 6 Pro chega com bateria ultralonga e inovações para ciclistas",
+        "description": "GT 6 Pro traz bateria ultralonga, compatibilidade universal e recurso inédito de potência virtual no ciclismo.",
+        "image": "https://tm.ibxk.com.br/2025/09/19/19144017697129.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/guia-de-compras/407181-troque-seu-roteador-selecao-a-partir-de-r80-no-magazine-luiza.htm",
+        "title": "Troque seu roteador: seleção a partir de R$80 no Magazine Luiza",
+        "description": "Aproveite preços mais baixos em diversos roteadores no Magalu e garanta modelos Tp-Link, Xiaomi, D-Link, Intelbras e mais com desconto por tempo limitado",
+        "image": "https://tm.ibxk.com.br/2025/09/18/18154135467041.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602151-netflix-esta-interessada-em-comprar-a-warner-dona-da-hbo-e-dc.htm",
+        "title": "Netflix está interessada em comprar a Warner, dona da HBO e DC",
+        "description": "Em nova movimentação nos bastidores do streaming, Netflix pode se tornar a dona da empresa por trás do HBO Max",
+        "image": "https://tm.ibxk.com.br/2025/09/19/19140129340085.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/407199-operadoras-deverao-comprovar-que-equipamentos-usados-sao-seguros.htm",
         "title": "Operadoras deverão comprovar que equipamentos usados são seguros",
         "description": "Os dispositivos que descumprirem os requisitos mínimos de segurança não poderão ser utilizados pelas operadoras.",
@@ -18,48 +60,6 @@
         "title": "Com Hades, Xbox Game Pass recebe 8 ótimos jogos esta semana! Veja os lançamentos",
         "description": "Oito novos jogos de peso chegaram recentemente ao Xbox Game Pass, incluindo Hades, e são ótimas indicações para jogar no fim de semana; Confira!",
         "image": "https://tm.ibxk.com.br/2025/09/19/19082731133010.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/407194-iphone-air-supera-bateria-do-galaxy-s25-edge-em-testes.htm",
-        "title": "iPhone Air supera bateria do Galaxy S25 Edge em testes",
-        "description": "Novo produto da Apple é ainda mais fino que o concorrente da Samsung, mas tem uma otimização energética acentuada.",
-        "image": "https://tm.ibxk.com.br/2025/09/09/09145509308288.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/407192-fones-bluetooth-baseus-com-ate-78-off-na-loja-oficial-da-marca-na-shopee.htm",
-        "title": "Fones Bluetooth Baseus com até 78% OFF na loja oficial da marca na Shopee",
-        "description": "Aproveite grandes descontos em diversos modelos de fones Baseus na Shopee e garanta som de qualidade a preços mais baixos por tempo limitado na loja oficial da marca na plataforma; confira as oportunidades",
-        "image": "https://tm.ibxk.com.br/2025/09/19/19091704030048.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602145-atriz-de-she-hulk-e-outras-estrelas-pedem-boicote-ao-disney-apos-suspensao-de-jimmy-kimmel.htm",
-        "title": "Atriz de She-Hulk e outras estrelas pedem boicote ao Disney+ após suspensão de Jimmy Kimmel",
-        "description": "Suspensão do programa de Jimmy Kimmel nos Estados Unidos levantou debates sobre censura. Saiba mias detalhes",
-        "image": "https://tm.ibxk.com.br/2025/09/19/19103605230096.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407193-chrome-passa-por-maior-atualizacao-de-todas-e-ganha-integracao-com-gemini.htm",
-        "title": "Chrome passa por 'maior atualização de todas' e ganha integração com Gemini",
-        "description": "O Gemini no Chrome vai servir para responder perguntas sobre o conteúdo navegado e até fazer tarefas por você.",
-        "image": "https://tm.ibxk.com.br/2025/04/08/08100615547038.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407191-hyperscape-tecnologia-da-meta-transforma-qualquer-ambiente-em-realidade-virutal.htm",
-        "title": "Hyperscape: tecnologia da Meta transforma qualquer ambiente em Realidade Virutal",
-        "description": "Ferramenta usa o próprio headset para mapear cômodos inteiros e gerar um \"gêmeo\" interativo do local",
-        "image": "https://tm.ibxk.com.br/2025/09/19/19091329065035.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502357-hollow-knight-silksong-e-lindo-mas-decepciona-em-quesito-importante-analise-de-acessibilidade.htm",
-        "title": "Hollow Knight Silksong é lindo, mas decepciona em quesito importante: Análise de Acessibilidade",
-        "description": "Temos que falar sobre a acessibilidade no mercado dos jogos indie. Confira a análise de acessibilidade de Silksong",
-        "image": "https://tm.ibxk.com.br/2025/09/19/19110815981155.jpg",
         "date": null
     }
 ]
