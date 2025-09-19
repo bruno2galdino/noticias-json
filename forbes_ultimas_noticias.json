@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/china-aprova-96-variedades-transgenicas-de-milho-e-duas-de-soja/",
+        "title": "China Aprova 96 Variedades Transgênicas de Milho e Duas de Soja",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-19T133328Z_1_LYNXNPEL8I0KD_RTROPTP_3_BRAZIL-ETHANOL-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Cultivo comercial de transgênicos na China exige rigorosos processos de aprovação e certificação de biossegurança"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/processadora-de-soja-cj-selecta-pretende-comprar-mais-soja-certificada-do-brasil/",
+        "title": "CJ Selecta diz que pode comprar mais soja certificada do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-18T181324Z_1_LYNXNPEL8H0XW_RTROPTP_4_UE-OLEAGINOSAS-IMPORTACIONES-300x200.jpg",
+        "date": "19/09/2025",
+        "description": "Durante evento sobre soja sustentável em São Paulo, executivo da CJ Selecta revelou volume anual de originação da empresa no Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/09/superfabrica-de-mosquitos-quer-proteger-140-milhoes-de-pessoas-da-dengue-no-brasil-nos-proximos-anos/",
         "title": "Superfábrica de Mosquitos Quer Proteger 140 Milhões de Pessoas da Dengue no Brasil nos Próximos Anos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-19T131218Z_1_LYNXNPEL8I0J3_RTROPTP_4_SAUDE-DENGUE-MOSQUITOS-FABRICA-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Raphael-Bozza-300x200.jpg",
         "date": "19/09/2025",
         "description": "Empresa atingiu a marca de 880 agentes ativos por semana criados por funcionários, a meta é terminar 2026 com 7 mil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/marina-silva-e-a-unica-brasileira-na-lista-forbes-de-lideres-de-sustentabilidade-de-2025/",
-        "title": "Marina Silva é a Única Brasileira na Lista Forbes de Líderes de Sustentabilidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/marina-silva-forbes-300x200.jpg",
-        "date": "19/09/2025",
-        "description": "Ministra do Meio Ambiente é destaque por iniciativas de combate à crise climática"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/09/adultizacao-infantil-entre-telas-pressoes-e-a-nova-lei-sancionada-por-lula/",
-        "title": "Adultização Infantil: entre Telas, Pressões e a Nova Lei Sancionada por Lula",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Felca-300x200.png",
-        "date": "19/09/2025",
-        "description": "Pressões digitais, consumo precoce e sexualização estão encurtando a infância enquanto a nova lei busca enfrentar um problema tão invisível quanto cotidiano"
     }
 ]
