@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/oracle-negocia-acordo-de-us-20-bi-com-a-meta-sobre-computacao-em-nuvem-para-ia/",
+        "title": "Oracle Negocia Acordo de US$ 20 Bi com a Meta sobre Computação em Nuvem para IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/oracle-300x200.jpg",
+        "date": "20/09/2025",
+        "description": "O acordo seria para aumento de capacidade de computação para treinamento e implantação de modelos de inteligência artificial"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/bndes-aprova-r-12-bi-em-credito-para-empresas-afetadas-por-tarifa-dos-eua/",
+        "title": "BNDES Aprova R$ 1,2 Bi em Crédito para Empresas Afetadas por Tarifa dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Logo-do-BNDES-300x200.jpg",
+        "date": "20/09/2025",
+        "description": "Do valor total aprovado, 30% foram solicitados por pequenas e médias empresas, informou o BNDES"
+    },
+    {
+        "url": "https://forbes.com.br/sem-categoria/2025/09/trump-vai-impor-taxa-de-us-100-mil-por-ano-para-vistos-h-1b-em-um-provavel-golpe-para-a-tecnologia/",
+        "title": "Trump Vai Impor Taxa de US$ 100 Mil por Ano para Vistos H-1B, em um Provável Golpe para a Tecnologia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-tarifas-300x200.jpg",
+        "date": "20/09/2025",
+        "description": "A medida pode acrescentar milhões de dólares em custos para as empresas, especialmente techs e startups"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/como-um-ex-google-construiu-fortuna-bilionaria-em-ia-e-entrou-para-a-forbes-400/",
         "title": "Como um Ex-Google Construiu Fortuna Bilionária em IA e se Tornou um dos Jovens Mais Ricos dos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-16-300x200.png",
@@ -12,6 +33,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Whitney-Wolfe-Herd-bumble-300x200.jpg",
         "date": "20/09/2025",
         "description": "Trajetória de Whitney Wolfe Herd inspirou o filme “Deu Match: A Rainha de Apps de Namoro”, que estreou na sexta-feira (19) no Disney+"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/rolhas-vao-dos-vinhos-a-nasa-e-spacex-o-que-a-amorim-cork-america-tem-a-ver-com-isso/",
+        "title": "Rolhas Vão dos Vinhos à NASA e SpaceX: o Que a Amorim Cork America Tem a Ver com Isso",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_vinhos_rolhas_cortica_-12set25-_-Getty-Image-300x200.jpg",
+        "date": "20/09/2025",
+        "description": "Confira a entrevista com o CEO, Pedro Fernandes, e PJ Awe, que explicam a versatilidade e o mercado deste produto natural"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/09/por-dentro-do-iate-de-60-milhoes-de-euros-de-giorgio-armani/",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-15-1-300x200.png",
         "date": "20/09/2025",
         "description": "Setor pode valer trilhões de dólares e empresas como a Kalshi vem recebendo apostas dos mais afortunados"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/brazilfoundation-celebra-25-anos-em-gala-e-arrecada-r-5-milhoes/",
-        "title": "BrazilFoundation Celebra 25 Anos em Gala e Arrecada R$ 5 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/IMG_9566-300x200.jpeg",
-        "date": "19/09/2025",
-        "description": "Com presenças de Lenny Kravitz, Seu Jorge e homenagens a líderes sociais, evento no The Plaza Hotel reuniu 400 convidados em torno da filantropia brasileira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/respaldado-por-wall-street-ibovespa-fecha-alta-e-flerta-com-os-146-mil-pontos/",
-        "title": "Respaldado por Wall Street, Ibovespa Fecha Alta e Flerta com os 146 Mil Pontos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-12-300x200.png",
-        "date": "19/09/2025",
-        "description": "Com agenda esvaziada, mercado guiou seus passos baseado nos ocorridos da super quarta"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/louis-dreyfus-registra-volumes-maiores-e-lucros-menores-no-1o-semestre/",
-        "title": "Louis Dreyfus registra volumes maiores e lucros menores no 1º semestre",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
-        "date": "19/09/2025",
-        "description": "LDC informou que os volumes do primeiro semestre aumentaram 4,4% em relação ao ano anterior, contribuindo para um aumento de 2,3% nas vendas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/suzano-vai-aumentar-preco-da-celulose-em-todos-os-mercados-a-partir-de-outubro/",
-        "title": "Suzano Vai Aumentar Preço da Celulose em Todos os Mercados a Partir de Outubro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/celulose-suzano-300x200.jpg",
-        "date": "19/09/2025",
-        "description": "Companhia vai elevar os preços da commodity em US$ 20 a tonelada para clientes na Ásia e em US$ 50 na Europa e Américas"
     }
 ]
