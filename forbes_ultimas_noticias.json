@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/bc-da-argentina-faz-maior-venda-diaria-de-dolares-em-seis-anos/",
+        "title": "BC da Argentina Faz Maior Venda Diária de Dólares em Seis Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-9-1-300x200.png",
+        "date": "20/09/2025",
+        "description": "Objetivo da autarquia é controlar a desvalorização do peso argentino em meio à crise política"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/musk-nega-que-xai-esteja-levantando-capital-apos-reportagem-sobre-us-10-bilhoes/",
+        "title": "Musk Nega Que xAI Esteja Levantando Capital após Reportagem sobre US$ 10 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/05/Money_Musk_XAI_GettyImages-300x200.jpg",
+        "date": "20/09/2025",
+        "description": "Startup vem aumentando a capacidade de seus data centers para competir com gigantes do setor"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/09/oracle-negocia-acordo-de-us-20-bi-com-a-meta-sobre-computacao-em-nuvem-para-ia/",
         "title": "Oracle Negocia Acordo de US$ 20 Bi com a Meta sobre Computação em Nuvem para IA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/oracle-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Planeta-300x200.jpg",
         "date": "20/09/2025",
         "description": "O marco ocorre 30 anos após a descoberta do primeiro exoplaneta em torno de uma estrela semelhante ao Sol, 51 Pegasi, em 1995"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/09/uma-viagem-epica-de-carro-pelo-norte-da-nova-inglaterra-para-observar-cervejas-e-plantas/",
-        "title": "Uma Viagem Épica de Carro Pelo Norte da Nova Inglaterra para Observar Cervejas e Plantas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Wildbloom-Beer_-18set25-_WB_Divulg-1-300x200.jpg",
-        "date": "20/09/2025",
-        "description": "Entre IPAs consagradas e lagers de inspiração europeia, uma viagem que celebra sabor e natureza em harmonia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/por-que-bilionarios-estao-correndo-para-os-mercados-de-previsao/",
-        "title": "Por Que Bilionários Estão Correndo para os Mercados Preditivos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-15-1-300x200.png",
-        "date": "20/09/2025",
-        "description": "Setor pode valer trilhões de dólares e empresas como a Kalshi vem recebendo apostas dos mais afortunados"
     }
 ]
