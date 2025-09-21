@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbeswsb/2025/09/5-tendencias-do-enoturismo-em-2025/",
+        "title": "5 Tendências do Enoturismo em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Cinco-tendencias-quentes-no-enoturismo-300x200.jpg",
+        "date": "21/09/2025",
+        "description": "Conheça tendências do setor que estão trazendo resultados em visitação e receitas de vendas diretas de vinho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/problemas-com-o-iphone-17-pro-e-a-dura-verdade-do-iphone-air/",
+        "title": "Problemas com o iPhone 17 Pro e a Dura Verdade do iPhone Air",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/iphone17-300x200.jpg",
+        "date": "21/09/2025",
+        "description": "A Apple confirmou que há falhas com o software da câmera dos novos modelos de iPhone apresentados há alguns dias"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/afinal-quanto-vale-a-fortuna-de-donald-trump-confira-o-guia-definitivo/",
+        "title": "Afinal, Quanto Vale a Fortuna de Donald Trump? Confira o Guia Definitivo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-10-1-300x200.png",
+        "date": "21/09/2025",
+        "description": "Portfólio do presidente americano vai de criptomoedas á pensão do cargo mais poderoso dos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/alta-performance-sem-burnout-como-lideres-podem-unir-saude-longevidade-e-resultados/",
+        "title": "Alta Performance sem Burnout: Como Líderes Podem Unir Saúde, Longevidade e Resultados",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Dr.-Avinish-Reddy-CEO-Elevated-Medical-300x200.jpg",
+        "date": "21/09/2025",
+        "description": "Avinish Reddy, CEO da Elevated Medical, mostra como hábitos, tecnologia e cultura organizacional podem transformar a performance individual e coletiva de forma sustentável"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/as-50-vilas-mais-lindas-do-mundo-em-2025/",
+        "title": "As 50 Vilas Mais Lindas do Mundo em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Cinque-Terre-Italia-300x200.jpg",
+        "date": "21/09/2025",
+        "description": "De povoados à beira de fiordes a vielas cobertas por flores, estes destinos são o puro charme e retrato da história"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/os-humanos-super-carnivoros-e-por-que-eles-precisam-ser-assim/",
+        "title": "Os Humanos Supercarnívoros e por Que Eles Precisam Ser Assim",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_-carne_bovina-_-18set25-_Dubravina_Getty-300x200.jpg",
+        "date": "21/09/2025",
+        "description": "Da tundra gelada ao coração da África, povos ao longo da história dependeram quase exclusivamente da carne para sobreviver em ambientes extremos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/por-que-a-bilionaria-wendy-schmidt-esta-dobrando-a-aposta-na-ciencia-climatica-na-era-trump/",
+        "title": "Por Que a Bilionária Wendy Schmidt Está \"Dobrando a Aposta\" na Ciência Climática",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-10-2-300x200.jpg",
+        "date": "21/09/2025",
+        "description": "Com o financiamento climático ameaçado, Wendy Schmidt está se tornando uma filantropa cada vez mais importante, apoiando a descoberta em águas profundas, a mídia pública e a colaboração científica em todo o mundo"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/09/caio-bonfim-faz-historia-e-conquista-ouro-no-mundial-de-marcha-atletica/",
         "title": "Caio Bonfim Faz História e Conquista Ouro no Mundial de Marcha Atlética",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-11-1-300x200.png",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/05/Money_Musk_XAI_GettyImages-300x200.jpg",
         "date": "20/09/2025",
         "description": "Startup vem aumentando a capacidade de seus data centers para competir com gigantes do setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/oracle-negocia-acordo-de-us-20-bi-com-a-meta-sobre-computacao-em-nuvem-para-ia/",
-        "title": "Oracle Negocia Acordo de US$ 20 Bi com a Meta sobre Computação em Nuvem para IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/oracle-300x200.jpg",
-        "date": "20/09/2025",
-        "description": "O acordo seria para aumento de capacidade de computação para treinamento e implantação de modelos de inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/bndes-aprova-r-12-bi-em-credito-para-empresas-afetadas-por-tarifa-dos-eua/",
-        "title": "BNDES Aprova R$ 1,2 Bi em Crédito para Empresas Afetadas por Tarifa dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Logo-do-BNDES-300x200.jpg",
-        "date": "20/09/2025",
-        "description": "Do valor total aprovado, 30% foram solicitados por pequenas e médias empresas, informou o BNDES"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/trump-vai-impor-taxa-de-us-100-mil-por-ano-para-vistos-h-1b-em-um-provavel-golpe-para-a-tecnologia/",
-        "title": "Trump Vai Impor Taxa de US$ 100 Mil por Ano para Vistos H-1B, em um Provável Golpe para a Tecnologia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-tarifas-300x200.jpg",
-        "date": "20/09/2025",
-        "description": "A medida pode acrescentar milhões de dólares em custos para as empresas, especialmente techs e startups"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/como-um-ex-google-construiu-fortuna-bilionaria-em-ia-e-entrou-para-a-forbes-400/",
-        "title": "Como um Ex-Google se Tornou um dos Jovens Mais Ricos dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-16-300x200.png",
-        "date": "20/09/2025",
-        "description": "Edwin Chen fundou sua empresa de rotulagem de dados, a Surge, em meio à revolução da IA; agora, está pronto para sair das sombras e fazer sua voz ser ouvida"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/bilionaria-aos-31-fundadora-do-bumble-revolucionou-apps-de-namoro-para-mulheres/",
-        "title": "Bilionária aos 31, Fundadora do Bumble Transformou Apps de Namoro para Mulheres",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Whitney-Wolfe-Herd-bumble-300x200.jpg",
-        "date": "20/09/2025",
-        "description": "Trajetória de Whitney Wolfe Herd inspirou o filme “Deu Match: A Rainha de Apps de Namoro”, que estreou na sexta-feira (19) no Disney+"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/rolhas-vao-dos-vinhos-a-nasa-e-spacex-o-que-a-amorim-cork-america-tem-a-ver-com-isso/",
-        "title": "Rolhas Vão dos Vinhos à NASA e SpaceX: o Que a Amorim Cork America Tem a Ver com Isso",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_vinhos_rolhas_cortica_-12set25-_-Getty-Image-300x200.jpg",
-        "date": "20/09/2025",
-        "description": "Confira a entrevista com o CEO, Pedro Fernandes, e PJ Awe, que explicam a versatilidade e o mercado deste produto natural"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/por-dentro-do-iate-de-60-milhoes-de-euros-de-giorgio-armani/",
-        "title": "Por Dentro do Iate de 60 Milhões de Euros de Giorgio Armani",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Main-o-iate-que-pertenceu-a-Giorgio-Armani-300x200.jpg",
-        "date": "20/09/2025",
-        "description": "Embarcação foi desenhada inteiramente pelo estilista e navegou com ele por mais de uma década no Mediterrâneo"
     }
 ]
