@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/apos-sancoes-americanas-e-correcoes-tecnicas-ibovespa-fecha-em-queda/",
+        "title": "Após Sanções Americanas e Correções Técnicas, Ibovespa Fecha em Queda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-13-300x200.png",
+        "date": "22/09/2025",
+        "description": "Dólar ganha força, chegando à quarta sessão consecutiva em alta ante o real"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/por-que-os-papeis-da-cosan-cairam-185-apos-anuncio-de-oferta-de-acoes/",
+        "title": "Por Que os Papéis da Cosan Caíram 20% Após Anúncio de Oferta de Ações?",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/07/cosan-300x200.jpg",
+        "date": "22/09/2025",
+        "description": "Embora números apontem descontentamento, mercado recebeu a notícia de forma positiva"
+    },
+    {
+        "url": "https://forbes.com.br/sem-home/2025/09/as-top-5-materias-mais-clicadas-no-site-da-forbes-em-setembro/",
+        "title": "As Top 5 Matérias Mais Clicadas no Site da Forbes em Setembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/avatar-forbes-1-2.webp",
+        "date": "22/09/2025",
+        "description": "Quais foram as matérias mais acessadas no último mês"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/09/empresa-de-sorvetes-magnum-usara-ia-da-notco-em-novos-produtos/",
         "title": "Empresa de Sorvetes Magnum Usará IA da NotCo em Novos Produtos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Picoles-da-Magnum-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Agro_Soja_22setembro25_Getty-300x200.jpg",
         "date": "22/09/2025",
         "description": "Setor vem recebendo impulso da demanda por biodiesel, diz a Associação Brasileira das Indústrias de Óleos Vegetais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/argentina-elimina-temporariamente-impostos-de-exportacao-sobre-graos-e-derivados/",
-        "title": "Argentina Elimina Temporariamente Impostos de Exportação sobre Grãos e Derivados",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
-        "date": "22/09/2025",
-        "description": "Medida é uma tentativa de aumentar a oferta doméstica de moeda estrangeira, enquanto o país luta para conter o peso"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/uniao-europeia-reabre-mercado-de-carne-de-frango-e-peru-ao-brasil/",
-        "title": "União Europeia Reabre Mercado de Carne de Frango e Peru Ao Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-galinhas-carne-de-frango-300x200.jpg",
-        "date": "22/09/2025",
-        "description": "Embarques ficaram suspensos por conta de um caso de gripe aviária em granja comercial em meados de maio"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-collab/2025/09/a-era-do-globalismo-acabou-o-que-vem-agora/",
-        "title": "A Era do Globalismo Acabou: O Que Vem Agora?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Matheus-Gonzalez-300x200.jpg",
-        "date": "22/09/2025",
-        "description": "Instituições globais perdem força diante do avanço do nacionalismo e da fragmentação de poder em um mundo multipolar"
     }
 ]
