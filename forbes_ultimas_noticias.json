@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbeswsb/2025/09/escola-cervejeira-centenaria-da-alemanha-chega-ao-brasil-com-curso-inedito/",
+        "title": "Escola Cervejeira Centenária da Alemanha Chega Ao Brasil com Curso Inédito",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/WSB_Cerveja_cervejeiro-300x200.jpg",
+        "date": "22/09/2025",
+        "description": "Pela primeira vez em 140 anos, a VLB Berlin oferece seu curso de Tecnologia Cervejeira fora de casa, em parceria com a Ambev"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/latam-faz-pedido-de-24-avioes-para-a-embraer-e-deixa-mais-50-jatos-como-opcoes-de-compra/",
+        "title": "Latam Faz Pedido de 24 Aviões para a Embraer e Deixa Mais 50 Jatos Como Opções de Compra",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-14-1-300x200.png",
+        "date": "22/09/2025",
+        "description": "Companhia aérea deseja usá-los para ofertar novos voos na América do Sul"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/mercado-ve-selic-a-1225-em-2026/",
+        "title": "Mercado Vê Selic a 12,25% em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-1-300x200.png",
+        "date": "22/09/2025",
+        "description": "Esta é a segunda redução consecutiva, após 32 semanas de manutenção no patamar de 12,50%"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/cosan-fecha-acordo-com-investidores-ancora-e-fara-oferta-de-acoes-de-r-10-bilhoes/",
         "title": "Cosan Fecha Acordo com Investidores-âncora e Fará Oferta de Ações de R$ 10 Bilhões",
         "image": "https://forbes.com.br/wp-content/uploads/2023/09/Cosan-reproducao-300x200.jpg",
@@ -28,7 +49,7 @@
         "description": "Com o avanço da IA e a popularização das reuniões virtuais, golpes de falsificação de identidade crescem e já afetam empresas e profissionais"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/09/farmaceutico-bilionario-quer-substituir-opioides-por-analgesico-a-base-de-cannabis/",
+        "url": "https://forbes.com.br/escolhas-do-editor/2025/09/farmaceutico-bilionario-quer-substituir-opioides-por-analgesico-a-base-de-cannabis/",
         "title": "Bilionário Quer Substituir Opioides por Analgésico À Base de Cannabis",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-17-300x200.png",
         "date": "22/09/2025",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/iPhone-17-Pro-e-Pro-Max-300x200.png",
         "date": "22/09/2025",
         "description": "Entre os modelos de smartphones mais procurados estão o iPhone 17 Pro, a partir de R$ 11.499 e o iPhone 17 Pro Max, a partir de R$ 12.499"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/uma-casa-na-europa-pelo-preco-de-um-cafe-sim-e-possivel-mas-ha-um-porem/",
-        "title": "Uma Casa na Europa Pelo Preço de um Café? Sim, É Possível (mas Há um Porém)",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Uma-casa-na-Italia-pode-ser-a-casa-dos-seus-sonhos-300x200.jpg",
-        "date": "22/09/2025",
-        "description": "É possível encontrar imóveis por menos de 1 euro (R$ 6,30) da Itália à Irlanda e Suécia; entenda como funciona e se vale o investimento"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/afinal-quais-os-diferenciais-dos-oculos-da-meta-que-deixaram-mark-zuckerberg-na-mao/",
-        "title": "Afinal, Quais os Diferenciais dos Óculos da Meta Que Deixaram Mark Zuckerberg na Mão?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ray-Ban-Meta-Wayfarer-Gen-2-Shiny-Black-Transitions®-Graphite-Green-Lenses-Transition-Stack-300x200.jpg",
-        "date": "22/09/2025",
-        "description": "O problema, causado por uma falha de conexão à internet, gerou desconforto em um dos momentos mais aguardados do evento, mas a empresa mantém sua aposta no futuro da tecnologia vestível"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-1/2025/09/mais-do-que-fonte-de-receita-a-vertical-de-publicidade-tornou-se-uma-startup-diz-presidente-da-netflix-ads/",
-        "title": "\"A Publicidade nos Ajudou a Chegar a um Novo Público\", Diz Presidente da Netflix Ads",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Amy-Reinhard-Presidente-Global-de-Ads-da-Netflix-300x200.jpg",
-        "date": "22/09/2025",
-        "description": "Em entrevista exclusiva à Forbes Brasil, Amy Reinhard, líder da divisão de advertising da plataforma de streaming, falou sobre os três anos do projeto e a importância do país nesse cenário"
     }
 ]
