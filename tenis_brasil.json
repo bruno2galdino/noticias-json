@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/wild-nao-resiste-ao-favoritismo-de-carballes-e-cai-na-estreia-em-lisboa.html",
+        "title": "Wild não resiste ao favoritismo de Carballes e cai na estreia em Lisboa",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/swild-kitz-2025-tuesday-e1753209271141-1024x682.jpg",
+        "date": "23/09/2025",
+        "description": "Lisboa (Portugal)– O sorteio da chave do challenger de Lisboa não foi bom para o paranaense Thiago Wild, que logo de cara teve que enfrentar o cabeça de chave 3 Roberto Carballes. No duelo de estreia, nesta terça-feira, o espanhol fez valer o favoritismo e bateu o brasileiro em sets diretos, com parciais de 6/3 e 6/2, em 90 minutos de jogo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/matos-e-romboli-vencem-no-quali-de-toquio-e-duelam-por-chave-principal.html",
+        "title": "Matos e Romboli vencem no quali de Tóquio e duelam por chave principal",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/matos-stuttgart-espera-2025-819x1024.jpg",
+        "date": "23/09/2025",
+        "description": "Tóquio (Japão)– Os dois duplistas brasileiros que estão no quali do ATP 500 de Tóquio, Fernando Romboli e o gaúcho Rafael Matos, venceram suas respectivas estreias e agora se enfrentam na fase final por uma vaga na chave principal do torneio japonês."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-tem-estreia-dura-no-atp-500-de-pequim-contra-cilic.html",
+        "title": "Sinner tem estreia dura no ATP 500 de Pequim contra Cilic",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/sinner-beijing-2025-draw-e1758630261481-1024x682.jpg",
+        "date": "23/09/2025",
+        "description": "Pequim (China)– Em sua primeira aparição desde a derrota para Carlos Alcaraz na final do US Open, Jannik Sinner enfrentará Marin Cilic na estreia no ATP 500 de Pequim. O italiano será o cabeça de chave número 1 no torneio, onde foi campeão dois anos atrás."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-23-09.html",
         "title": "O dia dos brasileiros: veja os resultados desta terça",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/monteiro_oeiras5_olhabola-1024x683.jpg",
         "date": "23/09/2025",
-        "description": "Challenger de Lisboa (Portugal) – Saibro – 145.250 eurosPrimeira rodada –Veja a chave"
+        "description": "ATP 500 de Tóquio (Japão) – US$ 2.226.470Duplas – Qualficatório – Primeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/nadal-alerta-sobre-golpes-usando-imagem-sua-gerada-por-inteligencia-artificial.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/daniel_dutra_silva.jpg",
         "date": "22/09/2025",
         "description": "Challenger de Buenos Aires (Argentina) – Saibro – US$ 100 milPrimeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/carolina-bohrer-retorna-ao-circuito-com-vitoria-nos-eua.html",
-        "title": "Carolina Bohrer retorna ao circuito com vitória nos EUA",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/bohrer_floripa_perfil-1024x488.jpg",
-        "date": "22/09/2025",
-        "description": "Templeton (EUA) –De volta ao circuito depois de ficar três meses afastada das competições, Carolina Bohrer estreou com vitória no quali para o ITF W75 de Templeton, em quadras duras nos Estados Unidos. A catarinense de 18 anos venceu a norte-americana Klara Kosan por 7/5, 3/6 e 6/1."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/mau-tempo-prejudica-e-torneio-internacional-de-alphaville-vive-terca-feira-cheia.html",
-        "title": "Mau tempo prejudica e Torneio Internacional de Alphaville vive terça-feira cheia",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/chuva_alphaville-1024x682.jpeg",
-        "date": "22/09/2025",
-        "description": "São Paulo (SP)– A entrada da frente fria no Centro-Sul do país provocou uma segunda-feira de chuva intensa na Grande São Paulo e com isso todas as 16 partidas previstas para dar largada ao qualificatório do Torneio Internacional Masculino de Tênis – Ano VIII foram adiadas. O evento de nível M25 do ranking mundial masculino é disputado sobre as quadras sintéticas do Alphaville Tênis Clube, com entrada gratuita, e terá uma terça-feira cheia."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pigossi-e-ce-salvam-semana-de-quedas-brasileiras-no-ranking-da-wta.html",
-        "title": "Pigossi e Cé salvam semana de quedas brasileiras no ranking da WTA",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/pigossi-spopen-fore-2025-1024x770.jpg",
-        "date": "22/09/2025",
-        "description": "São Petersburgo (EUA)– A segunda-feira não começou boa para as brasileiras na WTA, com queda dos principais nomes do país no ranking. Porém, a paulista Laura Pigossi e a gaúcha Gabriela Cé se salvaram e conseguiram subir um pouco na lista desta semana."
     }
 ]
