@@ -1,6 +1,20 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/programa-oferece-letramento-em-inteligencia-artificial-para-10-mil-mulheres/",
+        "url": "https://forbes.com.br/forbes-tech/2025/09/o-futuro-do-tiktok-oracle-assume-o-algoritmo-da-plataforma-chinesa-nos-estados-unidos/",
+        "title": "O futuro do TikTok: Oracle assume o algoritmo da plataforma chinesa nos Estados Unidos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Acordo-venda-tiktok-300x200.png",
+        "date": "23/09/2025",
+        "description": "O acordo requer a aprovação dos órgãos reguladores dos EUA e da China, e embora o presidente americano Trump tenha indicado que o presidente chinês Xi Jinping concordou com a estrutura, Pequim ainda não confirmou oficialmente sua aprovação"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/entenda-por-que-satya-nadella-ceo-da-microsoft-tem-medo-da-inteligencia-artificial/",
+        "title": "Entenda por Que Satya Nadella, CEO da Microsoft, Tem \"Medo\" da Inteligência Artificial",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-Satya-Nadella-microsoft-300x200.jpg",
+        "date": "23/09/2025",
+        "description": "De acordo com o The Verge, executivo expressou preocupações em relação a sobrevivência da companhia no longo prazo em um mundo IA first"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/programa-oferece-letramento-em-inteligencia-artificial-para-10-mil-mulheres/",
         "title": "Programa Oferece Letramento em IA para 10 Mil Mulheres",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/mulheres-ia-300x200.jpg",
         "date": "23/09/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Braga-300x200.jpg",
         "date": "23/09/2025",
         "description": "Marcelo Braga, Presidente da IBM Brasil, destacou que o futuro da tecnologia será construído com diversidade e colaboração: \"A evolução digital não será feita por uma única solução, mas por um ecossistema de tecnologias e parcerias que se complementam”"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/investidor-internacional-patrocina-os-recordes-da-bolsa-brasileira-mas-a-foto-e-melhor-que-o-filme/",
-        "title": "Investidor Internacional Patrocina os Recordes da Bolsa Brasileira, Mas a Foto É Melhor Que o Filme",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-1536x1024-1-e1654788080105-300x200.jpg",
-        "date": "23/09/2025",
-        "description": "Sem IPOs ou grandes ofertas de ações, bolsa brasileira segue refém do fluxo estrangeiro"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/maioria-dos-profissionais-no-brasil-usa-remedios-para-lidar-com-problemas-de-saude-mental/",
-        "title": "Maioria dos Profissionais Usa Remédios para Problemas de Saúde Mental",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-remedio-saude-mental-300x200.jpg",
-        "date": "23/09/2025",
-        "description": "Em 2025, 52% dos líderes e 59% dos liderados recorrem a psicofármacos para lidar com estresse, ansiedade e burnout"
     }
 ]
