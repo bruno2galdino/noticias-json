@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/ciencia/407270-elf-e-xuan-robos-chineses-impressionam-com-expressoes-realistas.htm",
+        "title": "Elf e Xuan: robôs chineses impressionam com expressões realistas",
+        "description": "O humanoide, que aparece em vídeo observando o ambiente e piscando como se fosse uma pessoa, usa algoritmos de IA avançados e tecnologia biônica.",
+        "image": "https://tm.ibxk.com.br/2025/09/23/23135011860006.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407276-chatgpt-ganhara-novidades-interessantes-mas-so-para-quem-pagar.htm",
+        "title": "ChatGPT ganhará novidades interessantes, mas só para quem pagar",
+        "description": "Sam Altman vai apresentar recursos que demandam \"uso intensivo de computação\", o que exige mais pagamentos por parte do usuário",
+        "image": "https://tm.ibxk.com.br/2025/08/19/19123838336116.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407277-whatsapp-libera-traducao-de-mensagens-para-android-e-ios.htm",
+        "title": "WhatsApp libera tradução de mensagens para Android e iOS",
+        "description": "Funcionalidade está disponível em seis idiomas para Android e 19 para iOS.",
+        "image": "https://tm.ibxk.com.br/2025/09/23/23153931760044.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502400-criadores-de-palworld-anunciam-seu-proprio-stardew-valley-conheca-palfarm.htm",
         "title": "Criadores de Palworld anunciam seu próprio Stardew Valley! Conheça Palfarm",
         "description": "A Pocketpair anunciou Palfarm, um simulador de fazendinha que promete ser um concorrente direto ao Stardew Valley! Confira os detalhes",
@@ -39,27 +60,6 @@
         "title": "Achou o iPhone 17 caro? Aproveite que o iPhone 16 está com um super desconto",
         "description": "Versão anterior do iPhone está com um ótimo desconto na loja oficial da Apple no Mercado Livre",
         "image": "https://tm.ibxk.com.br/2025/09/23/23151704830024.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502395-por-que-black-2-nunca-foi-lancado-entenda-o-que-aconteceu-com-o-game.htm",
-        "title": "Por que Black 2 nunca foi lançado? Entenda o que aconteceu com o game",
-        "description": "Considerado como um dos verdadeiros clássicos da era PS2, Black nunca teve uma sequência por conta de conflito de interesses entre EA e Criterion! Veja os detalhes",
-        "image": "https://tm.ibxk.com.br/2025/09/22/22144924982052.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/407262-com-bateria-de-7000-mah-realme-15-e-confirmado-no-brasil.htm",
-        "title": "Com bateria de 7.000 mAh, Realme 15 é confirmado no Brasil",
-        "description": "Os novos celulares da Realme têm câmera principal e frontal de 50 MP, recursos de IA para aprimorar fotos e bateria gigante como atrativos.",
-        "image": "https://tm.ibxk.com.br/2025/09/23/23113357817173.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407271-samsung-pode-abandonar-onedrive-em-seus-dispositivos.htm",
-        "title": "Samsung pode abandonar OneDrive em seus dispositivos",
-        "description": "Frases em linhas de códigos obtidas na nova One UI indicam que a plataforma da Microsoft não vai durar muito tempo nesses aparelhos",
-        "image": "https://tm.ibxk.com.br/2025/08/25/25115312843137.jpg",
         "date": null
     }
 ]
