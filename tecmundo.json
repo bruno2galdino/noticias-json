@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/407036-hd-e-ssd-o-que-e-diferencas-e-melhores-opcoes-no-mercado.htm",
+        "title": "HD e SSD: o que é, diferenças e melhores opções no mercado",
+        "description": "Entenda o que são HD e SSD, as principais diferenças entre eles e veja quais são as melhores opções de armazenamento no mercado.",
+        "image": "https://tm.ibxk.com.br/2025/09/16/16012732976018.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/software/407216-os-12-vncs-mais-usados-para-acesso-remoto.htm",
+        "title": "Os 12 VNCs mais usados para acesso remoto",
+        "description": "Veja os VNCs mais populares, saiba se são gratuitos ou pagos, onde funcionam, como usar e os diferenciais de cada um para acesso remoto seguro.",
+        "image": "https://tm.ibxk.com.br/2025/09/22/22095329572004.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/produto/407245-caixa-de-som-philco-pcx6701-vale-a-pena.htm",
         "title": "Caixa de som Philco PCX6701 vale a pena?",
         "description": "Descubra se a PCX6701 é uma boa opção para quem busca por som potente e conexões estáveis de áudio.",
@@ -32,20 +46,6 @@
         "title": "Jogo na Steam foi atualizado com malware que roubava criptomoedas",
         "description": "Um jogo falso distribuído pela Steam, BlockBlasters, recebeu um patch com arquivos maliciosos para roubar criptomoedas de jogadores",
         "image": "https://tm.ibxk.com.br/2025/09/22/22153015835122.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502391-hollow-knight-silksong-ganha-multiplayer-com-pvp-em-novo-mod-veja-o-gameplay.htm",
-        "title": "Hollow Knight Silksong ganha multiplayer com PvP em novo mod! Veja o gameplay",
-        "description": "Não demorou muito para a comunidade de modders se mobilizar e trazer a possibilidade de jogar Silksong no multiplayer! Veja como instalar no PC",
-        "image": "https://tm.ibxk.com.br/2025/09/22/22110415421106.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/407241-oppo-revela-data-de-lancamento-global-de-celulares-da-linha-find-x9.htm",
-        "title": "Oppo revela data de lançamento global de celulares da linha Find X9",
-        "description": "A empresa apresentará a linha Find X9 e o ColorOS 16 na metade do mês que vem.",
-        "image": "https://tm.ibxk.com.br/2025/09/22/22151636066093.jpg",
         "date": null
     }
 ]
