@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/brandvoice-revo-novo-capitulo-da-mobilidade-aerea/",
+        "title": "Novo Capítulo da Mobilidade Aérea",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/if-vetter_1-300x200.png",
+        "date": "23/09/2025",
+        "description": "Revo será a primeira a operar aeronaves elétricas da Eve em São Paulo, com foco em sustentabilidade e serviço de alto padrão"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/do-novilho-precoce-a-mbrf-a-saga-da-marfrig-nas-maos-de-marcos-molina/",
+        "title": "Do Novilho Precoce À MBRF: a Saga da Marfrig nas Mãos de Marcos Molina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Marcos_Molina_22set25-_Gustavo-Rampini_-Divulg-300x200.jpg",
+        "date": "23/09/2025",
+        "description": "Ele formou rede com pecuaristas, pagou prêmios por qualidade e saiu do interior paulista às exportações aos EUA, à BRF e agora à MBRF listada na B3"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/infomercial-vetter-seguranca-sossego-e-sofisticacao/",
+        "title": "Segurança, Sossego e Sofisticação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/if-vetter_2-300x200.jpg",
+        "date": "23/09/2025",
+        "description": "Mercado imobiliário de luxo avança no litoral norte de Santa Catarina com força da Vetter"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/nova-taxa-para-visto-h-1b-dos-eua-cria-debate-sobre-contratacoes-no-vale-do-silicio/",
+        "title": "Taxa para Visto H-1B dos EUA Cria Debate sobre Contratações no Vale do Silício",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-tarifas-300x200.jpg",
+        "date": "23/09/2025",
+        "description": "Presidente dos Estados Unidos anunciou mudança no programa de vistos que há muito tempo é caminho de recrutamento para empresas de tecnologia"
+    },
+    {
         "url": "https://forbes.com.br/colunas/2025/09/o-luto-invisivel-como-lidar-com-o-fim-de-uma-amizade/",
         "title": "O Luto Invisível: Como Lidar com o Fim de uma Amizade",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1475337027-300x200.jpg",
@@ -36,37 +64,9 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/09/bill-gates-promete-us-912-mis-para-luta-global-contra-doencas-e-pede-que-os-governos-aumentem-ajuda/",
-        "title": "Bill Gates Promete US$ 912 Mis para Luta Global contra Doenças e Pede Que os Governos Aumentem Ajuda",
+        "title": "Bill Gates Promete US$ 912 Milhões para Luta Global contra Doenças",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-23T001911Z_1_LYNXNPEL8M003_RTROPTP_4_REUTERS-NEXT-NEWSMAKER-BILLGATES-300x200.jpg",
         "date": "23/09/2025",
         "description": "Fundação Gates iguala doação de 2022 ao Fundo Global, em meio a cortes internacionais na ajuda humanitária"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/reino-unido-vai-facilitar-caminho-para-atrair-talentos-apos-medida-de-trump-sobre-vistos/",
-        "title": "Reino Unido Vai Facilitar Caminho para 'Atrair Talentos' após Medida de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/rachel-reeves-300x200.jpg",
-        "date": "23/09/2025",
-        "description": "Na sexta-feira, Trump anunciou um forte aumento no custo do programa de vistos H1-B para profissionais\r\nqualificados"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/weg-investira-us-77-milhoes-para-expandir-em-50-fabricacao-de-transformadores-nos-eua/",
-        "title": "WEG Investirá US$ 77 Milhões para Expandir em 50% Fabricação de Transformadores nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Weg-1-2-300x200.jpg",
-        "date": "23/09/2025",
-        "description": "Equipamentos têm mercado aquecido no país diante do crescimento de data centers"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/ata-do-copom-bc-diz-que-politica-monetaria-entrou-em-novo-estagio-com-selic-inalterada/",
-        "title": "Ata do Copom: BC Diz Que Política Monetária Entrou em \"Novo Estágio\" com Selic Inalterada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-16-1-300x200.png",
-        "date": "23/09/2025",
-        "description": "Comitê entende que manutenção da taxa será suficiente para converter a inflação à meta"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/de-origem-pecuaria-brf-e-marfrig-criam-a-gigante-de-alimentos-mbrf-na-b3/",
-        "title": "De Origem Pecuária, BRF e Marfrig Criam a Gigante de Alimentos MBRF na B3",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/ChatGPT-Image-23-de-set.-de-2025-09_52_39-300x200.png",
-        "date": "23/09/2025",
-        "description": "Incorporação marca a união de duas trajetórias emblemáticas da pecuária e do processamento de alimentos no Brasil, agora reunidas sob o ticker MBRF3"
     }
 ]
