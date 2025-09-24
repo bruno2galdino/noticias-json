@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/09/numero-de-empresas-industriais-que-usam-ia-cresce-163-em-dois-anos/",
+        "title": "Número de Empresas Industriais Que Usam IA Cresce 163% em Dois Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/forbes-ia-300x200.jpg",
+        "date": "24/09/2025",
+        "description": "Utilização chega a 41,9% das companhias pesquisadas pelo IBGE em 2024"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/o-que-explica-os-recordes-nas-bolsas-americanas-e-do-ouro/",
+        "title": "O Que Explica os Recordes nas Bolsas Americanas e do Ouro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-19-300x200.png",
+        "date": "24/09/2025",
+        "description": "Esses dois tipos de ativos estão subindo ao mesmo tempo, algo que só havia ocorrido uma vez antes, no início da década de 1970 e o desfecho não foi positivo"
+    },
+    {
+        "url": "https://forbes.com.br/sem-categoria/2025/09/anec-eleva-previsao-de-exportacao-de-milho-do-brasil-em-setembro-e-reduz-a-soja/",
+        "title": "Anec Eleva Previsão de Exportação de Milho do Brasil em Setembro e Reduz a Soja",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-24T132324Z_1_LYNXNPEL8N0N5_RTROPTP_4_ALGERIA-CORN-DH5-300x200.jpg",
+        "date": "24/09/2025",
+        "description": "Projeção de embarques de soja cai para 7,15 milhões de toneladas em setembro"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/09/chuva-no-interior-de-sp-paralisa-fabricas-da-toyota-e-adia-lancamento-de-carro/",
         "title": "Chuva no Interior de SP Paralisa Fábricas da Toyota e Adia Lançamento de Carro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/03/2025-03-31T150316Z_1_LYNXNPEL2U0R9_RTROPTP_3_TOYOTA-RESULTS-PREVIEW-300x200.jpg",
@@ -18,7 +39,7 @@
         "title": "Secretário do Tesouro Diz Que Está Procurando Alguém com Mente Aberta para Comando do Fed",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-24T145554Z_1_LYNXNPEL8N0QG_RTROPTP_4_UN-ASSEMBLY-300x200.jpg",
         "date": "24/09/2025",
-        "description": "Banco central corta juros, mas Powell sinaliza cautela sobre próximos pass"
+        "description": "Banco central corta juros, mas Powell sinaliza cautela sobre próximos passos"
     },
     {
         "url": "https://forbes.com.br/geral/2025/09/icone-da-arquitetura-mundial-cineastas-e-piloto-morrem-em-acidente-aereo-no-pantanal/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Rayban-300x200.jpg",
         "date": "24/09/2025",
         "description": "O preço inicial sugerido para a nova geração dos óculos no Brasil é de R$ 3.299; eles podem ser encontrados em lojas Ray-Ban selecionadas e no site da marca"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/82-dos-consumidores-ja-foram-alvo-de-fraude-digital-e-o-maior-perigo-esta-nas-redes-sociais/",
-        "title": "82% dos Consumidores Já Foram Alvo de Fraude Digital, E o Maior Perigo Está nas Redes Sociais",
-        "image": "https://forbes.com.br/wp-content/uploads/2019/03/listas-ecommerce-getty.jpg",
-        "date": "24/09/2025",
-        "description": "O estudo da Branddi revela que, entre os golpes mais comuns, além dos anúncios e perfis falsos, os sites falsos (13%) e os perfis clonados (6,3%) também se destacam, mas são superados pela frequência das fraudes em mídias sociais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-ate-onde-vai-a-distensao-entre-brasil-e-estados-unidos/",
-        "title": "Pré-mercado: até Onde Vai a Distensão entre Brasil e Estados Unidos",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "24/09/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 24 de setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/emergent-cold-latam-compra-a-comfrio-e-coloca-o-brasil-no-centro-da-sua-expansao-bilionaria/",
-        "title": "Emergent Cold Latam Compra a Comfrio e Coloca o Brasil no Centro da Sua Expansão Bilionária",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_Emergent_Paranagua_logistica_22set25-_EC_Divulg-300x200.jpg",
-        "date": "24/09/2025",
-        "description": "Confira a entrevista exclusiva com Neal Rider, CEO global e fundador da companhia, sobre o futuro dos negócios"
     }
 ]

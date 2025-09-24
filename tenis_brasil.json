@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/borg-para-mim-djokovic-e-o-maior-tenista-de-todos-os-tempos.html",
+        "title": "Borg: “Para mim, Djokovic é o maior tenista de todos os tempos”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/djokovic-us-open-2025-arms-up-e1758736689619-1024x682.jpg",
+        "date": "24/09/2025",
+        "description": "Roma (Itália)– Um dos grandes nomes da história do tênis, o sueco Bjorn Borg foi mais uma a colocar o sérvio Novak Djokovic como o maior tenistas de todos os tempos. Ele afirmou isso em uma longa entrevista aoLa Repubblica."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-24-09.html",
         "title": "O dia dos brasileiros: veja os resultados desta quarta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/demoliner_oeiras_saibro-1024x582.jpg",
         "date": "24/09/2025",
         "description": "ATP 500 de Tóquio (Japão) – US$ 2.226.470Duplas – Qualificatório – Rodada final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-fritz-e-ruud-estreiam-nesta-quinta-feira-em-toquio.html",
+        "title": "Alcaraz, Fritz e Ruud estreiam nesta quinta-feira em Tóquio",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/fritz-usopen-voleia-2025-e1756572229751-1024x681.jpg",
+        "date": "24/09/2025",
+        "description": "Tóquio (Japão) –A rodada desta quinta-feira no ATP 500 de Tóquio terá a estreia do número 1 do mundo Carlos Alcaraz, que joga por volta de 5h30 (de Brasília) contra o argentino Sebastian Baez. O espanhol venceu os dois duelos anteriores, disputados entre 2021 e 2022."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/pucinelli-vence-duelo-nacional-contra-reis-e-faz-quartas-na-argentina.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/681b3e23gy1hu9kdfobs4j20u011in2v-e1727968366955.jpg",
         "date": "24/09/2025",
         "description": "Xangai (China)– Nesta quarta feira foram anunciados os cinco convites para a chave principal do Masters 1000 de Xangai, que acontece entre os dias 1 e 12 de outubro. O único tenista não chinês na lista é o veterano suíço Stan Wawrinka, de 40 anos e atualmente ocupando apenas a 129ª colocação no ranking."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/demoliner-e-orlandinho-confirmam-favoritismo-na-estreia-em-lisboa.html",
-        "title": "Demoliner e Orlandinho confirmam favoritismo na estreia em Lisboa",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/03/luz_demo_assuncao-e1711580461986-1024x723.jpg",
-        "date": "24/09/2025",
-        "description": "Lisboa (Portugal)– Cabeças de chave número 1 na chave de duplas do challenger de Lisboa, os gaúchos Marcelo Demoliner e Orlando Luz fizeram valer o favoritismo e superaram a estreia em sets diretos, batendo o austríaco David Pichler e o croata Nino Serdarusic com parciais de 6/3 e 7/6 (8-6)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/romboli-leva-a-melhor-sobre-matos-e-fura-o-quali-no-atp-500-de-toquio.html",
-        "title": "Romboli leva a melhor sobre Matos e fura o quali no ATP 500 de Tóquio",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/romboli-rio-vibra-2025.jpg",
-        "date": "24/09/2025",
-        "description": "Tóquio (Japão)– No duelo entre brasileiros que definiu quem entraria na chave principal de duplas no ATP 500 de Tóquio, Fernando Romboli levou a melhor sobre Rafael Matos. Ele e o polonês Jan Zielinski bateram o gaúcho e o português Nuno Borges com parciais de 6/3, 6/7 (7-9) e 10-2, depois de 1h37 de jogo."
     }
 ]
