@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/depois-de-atingir-recorde-na-vespera-ibovespa-oscila-e-fecha-em-leve-alta-de-005/",
+        "title": "Depois de Atingir Recorde na Véspera, Ibovespa Oscila e Fecha em Leve Alta de 0,05%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-13-300x200.png",
+        "date": "24/09/2025",
+        "description": "Já o dólar avançou quase 1% com investidores recompondo posições na moeda norte-americana"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/powell-diz-que-precos-das-acoes-estao-bastante-valorizados/",
+        "title": "Powell Diz que Preços das Ações Estão Bastante Valorizados",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Jerome-Powell-Fed-Juros-Americanos-Money-300x200.png",
+        "date": "24/09/2025",
+        "description": "Apesar da significativa diminuição da inflação em relação aos picos de 2022, Powell alertou que ela permanece acima da meta de 2% do Fed"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/inadimplencia-no-agro-bb-mantem-visao-resiliente-mas-projeta-estabilidade-no-4o-trimestre/",
         "title": "Inadimplência no Agro: BB Mantém Visão ‘Resiliente’, mas Projeta Estabilidade no 4º Trimestre",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_credito_rural_Ueslei_Marcelino_Reuters_24.09.2025-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/coluna-lu-rodrigues-300x200.jpg",
         "date": "24/09/2025",
         "description": "Pequenas decisões conscientes podem transformar a vida pessoal e profissional"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/secretario-do-tesouro-diz-que-esta-procurando-alguem-com-mente-aberta-para-comando-do-fed/",
-        "title": "Secretário do Tesouro Diz Que Está Procurando Alguém com Mente Aberta para Comando do Fed",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-24T145554Z_1_LYNXNPEL8N0QG_RTROPTP_4_UN-ASSEMBLY-300x200.jpg",
-        "date": "24/09/2025",
-        "description": "Banco central corta juros, mas Powell sinaliza cautela sobre próximos passos"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/09/icone-da-arquitetura-mundial-cineastas-e-piloto-morrem-em-acidente-aereo-no-pantanal/",
-        "title": "Ícone da Arquitetura Mundial, Cineastas e Piloto Morrem em Acidente Aéreo no Pantanal",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2-2-300x200.jpg",
-        "date": "24/09/2025",
-        "description": "Kongjian Yu, criador do conceito de \"cidades-esponja\", estava no Brasil para filmar sobre seu trabalho com os cineastas Luiz Ferraz e Rubens Crispim Jr., também vítimas do acidente"
     }
 ]
