@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/407316-microsoft-adiciona-modelos-de-ia-da-anthropic-ao-copilot.htm",
+        "title": "Microsoft adiciona modelos de IA da Anthropic ao Copilot",
+        "description": "Os modelos Claude Sonnet 4 e Claude Opus 4.1 agora podem ser selecionados por usuários corporativos do Microsoft 365 Copilot.",
+        "image": "https://tm.ibxk.com.br/2025/09/24/24175033778017.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502413-xbox-ofertas-de-jogos-de-xbox-one-e-series-sx-com-ate-90-off.htm",
+        "title": "Xbox: ofertas de jogos de Xbox One e Series S|X com até 90% OFF",
+        "description": "Aproveite descontos em diversos jogos para Xbox na Microsoft Store, que nesta semana tem títulos como Death Stranding Director's Cut, Ghostwire: Tokyo e Momodora: Reverie Under the Moonlight a preços mais em conta",
+        "image": "https://tm.ibxk.com.br/2025/07/23/23173348367074.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502411-campanha-single-player-de-battlefield-6-e-cinema-absoluto-confira-preview.htm",
         "title": "Campanha single-player de Battlefield 6 é cinema absoluto! Confira preview",
         "description": "Após hiato em Battlefield 2042, o novo jogo da EA Games traz história single-player que retorna ao auge da franquia",
@@ -39,27 +53,6 @@
         "title": "Resumo do State of Play! Veja trailers e anúncios da PlayStation na TGS 2025",
         "description": "Wolverine, Saros e mais jogos de PS5 são destaque na State of Play de setembro! Confira um resumo com os principais anúncios do evento",
         "image": "https://tm.ibxk.com.br/2025/09/24/24185437430144.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407287-o-que-voce-faria-se-tivesse-colaboradores-infinitos.htm",
-        "title": "O que você faria se tivesse colaboradores infinitos?",
-        "description": "Você já parou para pensar que cada aba do seu navegador pode ser um colaborador com nível de PhD, trabalhando para você 24 horas por dia, por menos de R$ 500 por mês?",
-        "image": "https://tm.ibxk.com.br/2025/09/23/23185547375044.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602172-athena-grant-vai-para-o-espaco-em-nova-temporada-de-9-1-1.htm",
-        "title": "Athena Grant vai para o espaço em nova temporada de 9-1-1",
-        "description": "Em seu nono ano, 9-1-1 promete lidar com uma ameaça espacial sem precedentes",
-        "image": "https://tm.ibxk.com.br/2025/09/24/24115227760241.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407308-galaxy-watch-6-finalmente-recebe-versao-beta-da-one-ui-8-watch.htm",
-        "title": "Galaxy Watch 6 finalmente recebe versão Beta da One UI 8 Watch",
-        "description": "O Galaxy Watch 6 agora é elegível para testes da One UI 8 Watch.",
-        "image": "https://tm.ibxk.com.br/2025/07/08/08182535761040.jpg",
         "date": null
     }
 ]
