@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/09/claudia-cardinale-estrela-do-cinema-italiano-morre-aos-87-anos/",
+        "title": "Claudia Cardinale, Estrela do Cinema Italiano, Morre Aos 87 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/mulher-claudia-cardinale-300x200.jpg",
+        "date": "23/09/2025",
+        "description": "Atriz nascida na Tunísia estrelou clássicos como “8½” e “O Leopardo” e marcou gerações como ícone do cinema europeu do pós-guerra"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/p-oint-o-f-v-iew-o-melhor-do-lifestyle-por-sofia-patsch-15/",
+        "title": "P (oint) o (f) V (iew): o Melhor do Life&style por Sofia Patsch #15",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/padrao-Forbes-28-300x200.jpg",
+        "date": "23/09/2025",
+        "description": "Aqui, você encontra uma curadoria elegante e moderna sobre diversos assuntos, de forma leve, mas com aquele toque de sofisticação!"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/com-fermentacao-de-fungo-foodtech-consegue-aporte-de-350-mil-euros-e-mira-rodada-de-serie-a/",
         "title": "Com Fermentação de Fungo, Foodtech Consegue Aporte de 350 Mil Euros e Mira Rodada de Série A",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-18-300x200.png",
@@ -42,7 +56,7 @@
         "description": "8ª edição do evento acontece nos dias 4 e 5 na Casa Fasano, com práticas de yoga, filosofia e nutrição"
     },
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/nasa-treina-primeira-turma-de-astronautas-com-maioria-feminina/",
+        "url": "https://forbes.com.br/forbes-mulher/2025/09/nasa-treina-primeira-turma-de-astronautas-com-maioria-feminina/",
         "title": "Nasa Treina Primeira Turma de Astronautas com Maioria Feminina",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/nova-turma-nasa-300x200.jpg",
         "date": "23/09/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ingrid-Silva-ao-lado-de-Bill-Gates-no-Goalkeepers-2025-300x200.jpg",
         "date": "23/09/2025",
         "description": "Bailarina brasileira se apresentou ao lado de Jon Batiste no evento anual da Fundação Gates, que reúne líderes globais em torno de metas sociais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/a-trajetoria-de-aitana-bonmati-vencedora-da-bola-de-ouro-pelo-3o-ano-consecutivo/",
-        "title": "Bola de Ouro: Quem é Aitana Bonmatí, Vencedora pelo 3º Ano Consecutivo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Aitana-Bonmati-300x200.jpg",
-        "date": "23/09/2025",
-        "description": "Espanhola de 27 anos e meio-campista do Barcelona é eleita a melhor jogadora do mundo"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/brandvoice-revo-novo-capitulo-da-mobilidade-aerea/",
-        "title": "Novo Capítulo da Mobilidade Aérea",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/if-vetter_1-300x200.png",
-        "date": "23/09/2025",
-        "description": "Revo será a primeira a operar aeronaves elétricas da Eve em São Paulo, com foco em sustentabilidade e serviço de alto padrão"
     }
 ]
