@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/82-dos-consumidores-ja-foram-alvo-de-fraude-digital-e-o-maior-perigo-esta-nas-redes-sociais/",
+        "title": "82% dos Consumidores Já Foram Alvo de Fraude Digital, E o Maior Perigo Está nas Redes Sociais",
+        "image": "https://forbes.com.br/wp-content/uploads/2019/03/listas-ecommerce-getty.jpg",
+        "date": "24/09/2025",
+        "description": "O estudo da Branddi revela que, entre os golpes mais comuns, além dos anúncios e perfis falsos, os sites falsos (13%) e os perfis clonados (6,3%) também se destacam, mas são superados pela frequência das fraudes em mídias sociais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-ate-onde-vai-a-distensao-entre-brasil-e-estados-unidos/",
+        "title": "Pré-mercado: até Onde Vai a Distensão entre Brasil e Estados Unidos",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "24/09/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 24 de setembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/emergent-cold-latam-compra-a-comfrio-e-coloca-o-brasil-no-centro-da-sua-expansao-bilionaria/",
+        "title": "Emergent Cold Latam Compra a Comfrio e Coloca o Brasil no Centro da Sua Expansão Bilionária",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Emergent-Cold_Planta-Paranagua-300x200.jpg",
+        "date": "24/09/2025",
+        "description": "Confira a entrevista exclusiva com Neal Rider, CEO global e fundador da companhia, sobre o futuro dos negócios"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/09/startup-de-moda-com-ia-de-phoebe-gates-e-sophia-kianni-levanta-us-8-milhoes/",
         "title": "Startup de IA da Filha de Bill Gates Levanta US$ 8 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Phoebe-Gates-And-Sophia-Kianni--300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/TennisRoute-1-300x200.png",
         "date": "24/09/2025",
         "description": "Com R$ 45 bilhões sob gestão, a EQI Investimentos irá destinar 100% da taxa de administração do fundo Match Point Brasil para a formação de novos atletas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/claudia-cardinale-estrela-do-cinema-italiano-morre-aos-87-anos/",
-        "title": "Claudia Cardinale, Estrela do Cinema Italiano, Morre Aos 87 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/mulher-claudia-cardinale-300x200.jpg",
-        "date": "23/09/2025",
-        "description": "Atriz nascida na Tunísia estrelou clássicos como “8½” e “O Leopardo” e marcou gerações como ícone do cinema europeu do pós-guerra"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/p-oint-o-f-v-iew-o-melhor-do-lifestyle-por-sofia-patsch-15/",
-        "title": "P (oint) o (f) V (iew): o Melhor do Life&style por Sofia Patsch #15",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/padrao-Forbes-28-300x200.jpg",
-        "date": "23/09/2025",
-        "description": "Aqui, você encontra uma curadoria elegante e moderna sobre diversos assuntos, de forma leve, mas com aquele toque de sofisticação!"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/com-fermentacao-de-fungo-foodtech-consegue-aporte-de-350-mil-euros-e-mira-rodada-de-serie-a/",
-        "title": "Com Fermentação de Fungo, Foodtech Consegue Aporte de 350 Mil Euros e Mira Rodada de Série A",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-18-300x200.png",
-        "date": "23/09/2025",
-        "description": "Typcal quer ampliar suas pesquisas e desenvolver novos produtos à base de micélio, um forte e novo concorrente no mercado de proteína vegetal"
     }
 ]
