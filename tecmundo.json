@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407304-github-anuncia-exigencia-por-2fa-para-publicacao-de-pacotes-no-npm.htm",
+        "title": "GitHub anuncia exigência por 2FA para publicação de pacotes no npm",
+        "description": "Em um conjunto de medidas de segurança anunciado recentemente, o GitHub agora exige 2FA para publicar localmente no npm",
+        "image": "https://tm.ibxk.com.br/2025/09/08/08190347787002.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602174-netflix-recebe-filmes-e-series-de-peso-em-outubro-veja-lista-de-lancamentos-do-mes.htm",
         "title": "Netflix recebe filmes e séries de peso em outubro! Veja lista de lançamentos do mês",
         "description": "Nova temporada de The Witcher, A Diplomata e Ninguém Quer são apenas alguns dos destaques de outubro na Netflix. Confira as estreias chegando no catálogo",
@@ -46,13 +53,6 @@
         "title": "Polícia Federal deflagra três operações contra predadores sexuais nesta quarta-feira (24)",
         "description": "Ações distintas em vários estados resultam em apreensão de equipamentos e buscas em residências que ao menos acessaram conteúdo ilícito e criminoso",
         "image": "https://tm.ibxk.com.br/2025/09/24/24113627073213.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407295-governo-do-ceara-garante-agua-de-reuso-para-abastecer-datacenter-do-tiktok.htm",
-        "title": "Governo do Ceará garante água de reúso para abastecer datacenter do TikTok",
-        "description": "A megaestrutura do app de vídeos, que deve ser instalada na região metropolitana de Fortaleza, tem sido alvo de protestos dos moradores.",
-        "image": "https://tm.ibxk.com.br/2025/09/24/24112951740209.jpg",
         "date": null
     }
 ]
