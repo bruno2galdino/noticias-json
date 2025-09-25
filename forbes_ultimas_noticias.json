@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-termina-o-dia-em-baixa-com-realizacao-de-lucros/",
+        "title": "Ibovespa Fecha em Baixa, em Dia de Realização de Lucros após Recordes Recentes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "25/09/2025",
+        "description": "Já o dólar tem alta e se distancia dos R$ 5,30 após dados da economia dos EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/soja-clima-lento-freia-plantio-no-brasil-e-produtores-aguardam-chuvas-no-centro-oeste-e-matopiba/",
         "title": "Soja: Clima Lento Freia Plantio no Brasil e Produtores Aguardam Chuvas no Centro-Oeste e Matopiba",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_lavoura_soja_plantio_foto_wenderson-araujo-Trilux-CNA_25.09.2025-300x200.jpg",
@@ -50,7 +57,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/09/ambipar-evita-pagamento-antecipado-de-divida-de-r-293-bilhoes-com-deutsche-bank/",
-        "title": "Ações da Ambipar Desabam 48% Após Decisão Judicial que Barrou Pagamento Antecipado ao Deutsche Bank",
+        "title": "Ações da Ambipar Desabam 53% Após Decisão Judicial que Barrou Pagamento Antecipado ao Deutsche Bank",
         "image": "https://forbes.com.br/wp-content/uploads/2023/03/Ambipar-1-300x200.jpg",
         "date": "25/09/2025",
         "description": "A ação foi motivada por prejuízos causados por operações recentes com derivativos, que afetaram os títulos de dívida da empresa, os green bonds; papéis desabam em 48%"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-19-1-300x200.png",
         "date": "25/09/2025",
         "description": "Consórcio de nove bancos lançará moeda digital no segundo semestre de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/china-sinaliza-que-compras-de-soja-dos-eua-dependem-da-remocao-de-tarifas/",
-        "title": "China Sinaliza Que Compras de Soja dos EUA Dependem da Remoção de Tarifas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "País ainda não reservou nenhuma carga da oleaginosa dos Estados Unidos de sua safra de outono"
     }
 ]
