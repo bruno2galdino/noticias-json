@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/listas/2025/09/lista-forbes-melhores-ceos-do-brasil-2025-e-destaque-da-nova-edicao-da-revista/",
+        "title": "Lista Forbes Melhores CEOs do Brasil 2025 É Destaque da Nova Edição da Revista",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/IMG_1371-300x200.jpg",
+        "date": "25/09/2025",
+        "description": "Edição 134 da Forbes Brasil já está disponível; veja outros destaques"
+    },
+    {
+        "url": "https://forbes.com.br/coluna/2025/09/mp-1303-2025-o-que-investidores-precisam-saber-sobre-a-nova-tributacao-de-aplicacoes-financeiras-e-fundos/",
+        "title": "MP 1303/2025: o Que Investidores Precisam Saber sobre a Nova Tributação de Aplicações Financeiras e Fundos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-20-1-300x200.png",
+        "date": "25/09/2025",
+        "description": "Publicada em junho, medida atinge diretamente tributação de aplicações financeiras, fundos e ativos virtuais"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/agronegocio-passa-usar-mais-arbitragens-para-resolver-litigios-diz-camara/",
+        "title": "Agronegócio Passa Usar Mais Arbitragens para Resolver Litígios, Diz Câmara",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Colheita-de-soja-no-Rio-Grande-do-Sul-300x200.jpg",
+        "date": "25/09/2025",
+        "description": "Segundo a câmara, os processos na arbitragem costumam ser mais céleres do que aqueles que transitam pela Justiça Comum"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/ella-windsor-um-olhar-apaixonado-sobre-o-brasil/",
+        "title": "Ella Windsor: um Olhar Apaixonado sobre o Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Ella-Windsor_-_tenho-enorme-admiracao-pelo-trabalho-notavel-que-a-BrazilFoundation-vem-realizando-em-todo-o-Brasil-300x200.jpg",
+        "date": "25/09/2025",
+        "description": "A britânica que adotou o Brasil de coração agora soma forças à BrazilFoundation em um marco histórico"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-termina-o-dia-em-baixa-com-realizacao-de-lucros/",
         "title": "Ibovespa Fecha em Baixa, em Dia de Realização de Lucros após Recordes Recentes",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_soja_10jul25_Lucas-Ninno_Getty-300x200.jpg",
         "date": "25/09/2025",
         "description": "As compras agressivas ajudarão a Argentina a reduzir seus estoques do insumo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/uruguai-nega-venda-de-3-fabricas-da-mbrf-para-minerva/",
-        "title": "Uruguai Nega Venda de 3 Fábricas da MBRF para Minerva",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_-carne_bovina_frigorifico-_-18set25-_Pramote-Polyamate_Getty-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "Instalações estão localizadas em San José, Salto e Colonia e tinham sido avaliadas em R$ 675 milhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/exportacoes-de-soja-da-argentina-atingem-maxima-em-pelo-menos-7-anos/",
-        "title": "Exportações de Soja da Argentina Atingem Máxima em Pelo Menos 7 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "O movimento aconteceu após suspensão de impostos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/ambipar-evita-pagamento-antecipado-de-divida-de-r-293-bilhoes-com-deutsche-bank/",
-        "title": "Ações da Ambipar Desabam 53% Após Decisão Judicial que Barrou Pagamento Antecipado ao Deutsche Bank",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/03/Ambipar-1-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "A ação foi motivada por prejuízos causados por operações recentes com derivativos, que afetaram os títulos de dívida da empresa, os green bonds; papéis desabam em 48%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/bancos-europeus-vao-lancar-stablecoin-do-euro-em-tentativa-de-combater-dominio-dos-eua/",
-        "title": "Bancos Europeus Vão Lançar Stablecoin do Euro em Tentativa de Combater Domínio dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-19-1-300x200.png",
-        "date": "25/09/2025",
-        "description": "Consórcio de nove bancos lançará moeda digital no segundo semestre de 2026"
     }
 ]
