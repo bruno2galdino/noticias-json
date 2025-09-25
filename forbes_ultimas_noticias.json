@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://forbes.com.br/sem-categoria/2025/09/banco-cental-ve-alta-de-20-no-pib-para-2025-e-inflacao-proxima-a-meta-em-2028/",
-        "title": "Banco Cental Vê Alta de 2,0% no PIB para 2025 e Inflação Próxima À Meta em 2028",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Money_Brasil-Economia-PIB-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "O Ministério da Fazenda está mais otimista que o BC, com uma projeção de alta de 2,3% para a economia brasileira"
-    },
-    {
         "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-o-que-a-alta-do-ipca-15-pode-alterar-na-expectativa-para-os-juros/",
         "title": "Pré-mercado: o Que a Alta do IPCA-15 Pode Alterar na Expectativa para os Juros",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -68,5 +61,12 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/mulher-ia-tecnologia-300x200.jpg",
         "date": "25/09/2025",
         "description": "Programa totalmente online aborda desde conteúdos teóricos até planejamento de carreira e soft skills"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/informecialone-moving-revolucao-silenciosa/",
+        "title": "Revolução Silenciosa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-8-1-300x200.png",
+        "date": "25/09/2025",
+        "description": "Como as mulheres estão redefinindo a logística internacional"
     }
 ]
