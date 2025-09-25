@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/pesquisa-aponta-que-tarifas-enfraquecem-reserva-de-dolar-mas-nao-a-elimina/",
+        "title": "Pesquisa Aponta Que Tarifas Enfraquecem Reserva de Dólar, Mas Não a Elimina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-18-1-300x200.png",
+        "date": "25/09/2025",
+        "description": "Para autores do estudo, o protecionismo enfraqueceria a conexão entre a economia americana e o resto do mundo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/ipca-15-avanca-048-apos-recuo-em-agosto/",
+        "title": "IPCA-15 Avança 0,48% Após Recuo em Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/07/agro-energia-eletrica-22jul22-PauloWhitaker-300x200.png",
+        "date": "25/09/2025",
+        "description": "Assim como a energia elétrica foi a responsável pelo queda do índice da prévia em agosto, desta vez, o serviço volta a ser o protagonista, porém, pelo motivo contrário"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/banco-cental-ve-alta-de-20-no-pib-para-2025-e-inflacao-proxima-a-meta-em-2028/",
+        "title": "Banco Central Vê Alta de 2,0% no PIB para 2025 e Inflação Próxima À Meta em 2028",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Money_Brasil-Economia-PIB-300x200.jpg",
+        "date": "25/09/2025",
+        "description": "O Ministério da Fazenda está mais otimista que o BC, com uma projeção de alta de 2,3% para a economia brasileira"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-o-que-a-alta-do-ipca-15-pode-alterar-na-expectativa-para-os-juros/",
         "title": "Pré-mercado: o Que a Alta do IPCA-15 Pode Alterar na Expectativa para os Juros",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-2169098679-300x200.jpg",
         "date": "25/09/2025",
         "description": "Capital deixa de ser tabu e passa a impulsionar novas jornadas e o efeito multiplicador no universo dos negócios"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/agricultura-regenerativa-primeira-fazenda-no-brasil-recebe-certificacao-e-sinaliza-futuro-do-agro/",
-        "title": "Agricultura Regenerativa: Primeira Fazenda no Brasil Recebe Certificação e Sinaliza Futuro do Agro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_agricultura_regenerativa_imaflora_24.09.2025-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "O Imaflora conduziu o processo que certificou a Fazenda Nova Cintra, em SP, sob a nova norma da Rainforest Alliance, que aprofunda práticas para resiliência climática e saúde do solo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/microsoft-lanca-curso-gratuito-de-lideranca-feminina-na-era-da-ia/",
-        "title": "Microsoft Lança Curso Gratuito de Liderança Feminina em IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/mulher-ia-tecnologia-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "Programa totalmente online aborda desde conteúdos teóricos até planejamento de carreira e soft skills"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/informecialone-moving-revolucao-silenciosa/",
-        "title": "Revolução Silenciosa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-8-1-300x200.png",
-        "date": "25/09/2025",
-        "description": "Como as mulheres estão redefinindo a logística internacional"
     }
 ]
