@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/soja-clima-lento-freia-plantio-no-brasil-e-produtores-aguardam-chuvas-no-centro-oeste-e-matopiba/",
+        "title": "Soja: Clima Lento Freia Plantio no Brasil e Produtores Aguardam Chuvas no Centro-Oeste e Matopiba",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_lavoura_soja_plantio_foto_wenderson-araujo-Trilux-CNA_25.09.2025-300x200.jpg",
+        "date": "25/09/2025",
+        "description": "Modelos climáticos GFS e ECMWF indicam chuvas abaixo da média na maior parte do país, com risco de retorno da seca em Goiás e Mato Grosso do Sul"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/acucar-centro-sul-supera-expectativas-e-produz-36-milhoes-de-toneladas-na-1a-quinzena/",
+        "title": "Açúcar: Centro-Sul Supera Expectativas e Produz 3,6 Milhões de Toneladas na 1ª quinzena",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_lavoura_cana_de_acucar_wenderson-araujo-Trilux-CNA_25.09.2025-300x200.jpg",
+        "date": "25/09/2025",
+        "description": "O dado saiu de uma pesquisa com 11 analistas publicada pela S&P Global Commodity Insights nesta quinta-feira (25)"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/parana-pode-produzir-menos-soja-na-safra-2025-26-primeira-queda-apos-9-anos-em-alta/",
         "title": "Paraná Pode Produzir Menos Soja na Safra 2025/26, Primeira Queda após 9 Anos em Alta",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-colheita-soja-bradesco-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
         "date": "25/09/2025",
         "description": "País ainda não reservou nenhuma carga da oleaginosa dos Estados Unidos de sua safra de outono"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/cop-30-por-que-a-agricultura-tropical-brasileira-exige-metricas-e-us-13-tri-em-financiamento/",
-        "title": "COP 30: Por Que a Agricultura Tropical Brasileira Exige Métricas e US$ 1,3 Tri em Financiamento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/CNA_Cop_30_produtor_lavoura_milho_25.09.2025-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "O documento reforça o papel do agro como solução climática, com foco em ILPF, conversão de pastagens e mecanismos de recompensa para produtores que adotam práticas sustentáveis"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/09/embraer-vai-intensificar-testes-de-compatibilidade-de-combustivel-de-aviacao-sustentavel/",
-        "title": "Embraer Vai Intensificar Testes de Compatibilidade de Combustível de Aviação Sustentável",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-25T145746Z_1_LYNXNPEL8O0SV_RTROPTP_4_AEREAS-EMBRAER-SAF-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "Empresa avança em testes com biocombustível 100% SAF"
     }
 ]
