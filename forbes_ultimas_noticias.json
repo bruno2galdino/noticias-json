@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/bancos-europeus-vao-lancar-stablecoin-do-euro-em-tentativa-de-combater-dominio-dos-eua/",
+        "title": "Bancos Europeus Vão Lançar Stablecoin do Euro em Tentativa de Combater Domínio dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-19-1-300x200.png",
+        "date": "25/09/2025",
+        "description": "Consórcio de nove bancos lançará moeda digital no segundo semestre de 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/china-sinaliza-que-compras-de-soja-dos-eua-dependem-da-remocao-de-tarifas/",
+        "title": "China Sinaliza Que Compras de Soja dos EUA Dependem da Remoção de Tarifas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-1-300x200.jpg",
+        "date": "25/09/2025",
+        "description": "País ainda não reservou nenhuma carga da oleaginosa dos Estados Unidos de sua safra de outono"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/cop-30-por-que-a-agricultura-tropical-brasileira-exige-metricas-e-us-13-tri-em-financiamento/",
+        "title": "COP 30: Por Que a Agricultura Tropical Brasileira Exige Métricas e US$ 1,3 Tri em Financiamento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/CNA_Cop_30_produtor_lavoura_milho_25.09.2025-300x200.jpg",
+        "date": "25/09/2025",
+        "description": "O documento reforça o papel do agro como solução climática, com foco em ILPF, conversão de pastagens e mecanismos de recompensa para produtores que adotam práticas sustentáveis"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/09/embraer-vai-intensificar-testes-de-compatibilidade-de-combustivel-de-aviacao-sustentavel/",
         "title": "Embraer Vai Intensificar Testes de Compatibilidade de Combustível de Aviação Sustentável",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-25T145746Z_1_LYNXNPEL8O0SV_RTROPTP_4_AEREAS-EMBRAER-SAF-300x200.jpg",
@@ -7,7 +28,7 @@
         "description": "Empresa avança em testes com biocombustível 100% SAF"
     },
     {
-        "url": "https://forbes.com.br/sem-categoria/2025/09/startup-de-musk-xai-acusa-rival-openai-de-roubar-segredos-comerciais/",
+        "url": "https://forbes.com.br/forbes-money/2025/09/startup-de-musk-xai-acusa-rival-openai-de-roubar-segredos-comerciais/",
         "title": "Startup de Musk xAI Acusa Rival OpenAI de Roubar Segredos Comerciais",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-25T144948Z_1_LYNXNPEL8O0SF_RTROPTP_4_TECHNOLOGY-AI-300x200.jpg",
         "date": "25/09/2025",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "25/09/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 25 de setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/michel-alcoforado-ter-paz-talvez-seja-a-grande-tendencia-de-luxo-da-proxima-decada/",
-        "title": "Michel Alcoforado: “Ter Paz Talvez Seja a Grande Tendência de Luxo da Próxima Década”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Life_Michel-Alcoforado-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "Antropólogo e autor de ‘Coisa de Rico’ decifra as elites brasileiras e aponta que o futuro da diferenciação de classes está em “bens intangíveis”"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/arte-de-alberto-pitta-em-triplice-homenagem/",
-        "title": "Arte de Alberto Pitta em Tríplice Homenagem",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.O-artista-multimidia-Alberto-Pitta-em-sua-individual-na-Galeria-Nara-Roesler-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "O artista baiano está com instalação na 36ª Bienal de São Paulo, ganha livro monográfico e estreia sua primeira individual em São Paulo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/live-aposta-em-franquias-para-superar-o-r-1-bilhao/",
-        "title": "Live! Aposta em Franquias para Superar o R$ 1 Bilhão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-20-300x200.png",
-        "date": "25/09/2025",
-        "description": "Com fábrica em Santa Catarina, empresa produz 90% de suas peças no Brasil, unindo lifestyle e responsabilidade ambiental"
     }
 ]
