@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-inflacao-americana-de-agosto-define-expectativa-para-juros/",
+        "title": "Pré-mercado: Inflação Americana de Agosto Define Expectativa para Juros",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "26/09/2025",
+        "description": "Notícias e indicadores que podem afetar os preços dos ativos nesta sexta-feira, 26 de setembro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/09/meta-lanca-o-vibes-e-foca-em-democratizar-a-criacao-de-videos-com-inteligencia-artificial/",
         "title": "Meta Lança o Vibes e Foca em Democratizar a Criação de Vídeos com Inteligência Artificial",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Vibes_header-300x200.jpg",
@@ -12,6 +19,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Life_Rodrigo-Oliveira-Mocoto-300x200.jpg",
         "date": "26/09/2025",
         "description": "Petisco criado “por acidente” por Rodrigo Oliveira comemora sucesso com releituras de nomes como Albert Adrià e Helena Rizzo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/com-aumento-da-concorrencia-no-retrovisor-b3-turbina-lancamento-de-indices-e-produtos-em-2025/",
+        "title": "B3 turbina oferta de produtos às vésperas de ganhar concorrência",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-21-300x200.jpg",
+        "date": "26/09/2025",
+        "description": "Oficialmente, o discurso da bolsa oficial do Brasil é o de que a agenda já estava no cronograma"
     },
     {
         "url": "https://forbes.com.br/forbessaude/2025/09/3-ideias-prejudiciais-que-as-redes-sociais-normalizam/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-melhores-ceos-edgard-corona-smart-fit-300x200.jpg",
         "date": "25/09/2025",
         "description": "Com Edgard Corona, CEO da Smart Fit, na capa, edição destaca executivos que conduziram suas carreiras e empresas de forma diferenciada"
-    },
-    {
-        "url": "https://forbes.com.br/listas/2025/09/lista-forbes-melhores-ceos-do-brasil-2025-e-destaque-da-nova-edicao-da-revista/",
-        "title": "Lista Forbes Melhores CEOs do Brasil 2025 É Destaque da Nova Edição da Revista",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/IMG_1371-300x200.jpg",
-        "date": "25/09/2025",
-        "description": "Edição 134 da Forbes Brasil já está disponível; veja outros destaques"
-    },
-    {
-        "url": "https://forbes.com.br/coluna/2025/09/mp-1303-2025-o-que-investidores-precisam-saber-sobre-a-nova-tributacao-de-aplicacoes-financeiras-e-fundos/",
-        "title": "MP 1303/2025: o Que Investidores Precisam Saber sobre a Nova Tributação de Aplicações Financeiras e Fundos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-20-1-300x200.png",
-        "date": "25/09/2025",
-        "description": "Publicada em junho, medida atinge diretamente tributação de aplicações financeiras, fundos e ativos virtuais"
     }
 ]
