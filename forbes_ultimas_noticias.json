@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/gastos-do-consumidor-nos-eua-sobem-03-em-agosto/",
+        "title": "Gastos do Consumidor nos EUA Sobem 0,3% Em Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/10/EUA_ForbesMoney-300x200.jpg",
+        "date": "26/09/2025",
+        "description": "Nos 12 meses até agosto, o núcleo do índice aumentou 2,9%, o mesmo que em julho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/gol-e-azul-encerram-negociacoes-para-fusao-que-criaria-maior-companhia-aerea-do-pais/",
+        "title": "Gol e Azul Encerram Negociações para Fusão Que Criaria Maior Companhia Aérea do País",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-08-02T152156Z_1_LYNXMPEL7105Y_RTROPTP_4_AZUL-M-A-GOL-LINHAS-AE-scaled-1-300x200.jpg",
+        "date": "26/09/2025",
+        "description": "As ações da Azul sobem cerca de 10% nesta manhã, enquanto as da Gol permanecem estáveis"
+    },
+    {
         "url": "https://forbes.com.br/sem-categoria/2025/09/tarifaco-de-trump-agora-mira-medicamentos-caminhoes-e-moveis/",
         "title": "Tarifaço de Trump Agora Mira Medicamentos, Caminhões e Móveis",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_TrumpTarifasAgro_15JUl2025_ChipSomodevilla_Getty-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-inteligencia-artificial-trabalho-300x200.jpg",
         "date": "26/09/2025",
         "description": "Recrutadores veem a fluência em inteligência artificial como um requisito básico e buscam certificações e experiência ao analisar currículos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/cafe-como-ferramenta-de-conexao/",
-        "title": "Café Como Ferramenta de Conexão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-9-2-300x200.png",
-        "date": "26/09/2025",
-        "description": "Gran Coffee transforma a pausa no trabalho em ativo estratégico para a saúde social das empresas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/piscina-no-76o-andar-e-mil-quartos-conheca-o-novo-hotel-mais-alto-do-mundo/",
-        "title": "Piscina no 76º Andar e Mil Quartos: Conheça o Novo Hotel Mais Alto do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Banhe-se-acima-das-nuvens-na-piscina-de-borda-infinita-mais-alta-do-mundo-no-buraco-da-agulha-300x200.jpg",
-        "date": "26/09/2025",
-        "description": "Em Dubai, o Ciel Marina abre em novembro para superar os 356 metros do Gevora Hotel, antigo detentor do recorde"
     }
 ]

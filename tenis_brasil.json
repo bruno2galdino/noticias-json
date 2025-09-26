@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/ruud-derruba-berrettini-fritz-tem-duelo-100-norte-americano-nas-quartas.html",
+        "title": "Ruud derruba Berrettini, Fritz tem duelo 100% norte-americano nas quartas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/ruud-toquio-feliz-2025-1024x683.jpg",
+        "date": "26/09/2025",
+        "description": "Tóquio (Japão) – Em um dos duelos mais aguardados desta sexta-feira no ATP 500 de Tóquio, o norueguês Casper Ruud fez valer a condição de cabeça de chave número 4 e derrotou o italiano Matteo Berrettini em sets diretos, gastando 1h38 para triunfar com o placar final de 7/6 (7-4) e 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/krejcikova-derruba-mais-uma-russa-e-entra-no-caminho-de-rybakina.html",
+        "title": "Krejcikova derruba mais uma russa e entra no caminho de Rybakina",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/krejcikova-pequim-olhabola-2025-1024x683.jpg",
+        "date": "26/09/2025",
+        "description": "Pequim (China)– Depois de bater Anna Blinkova com autoridade na estreia, a tcheca Barbora Krejcikova fez mais uma vítima russa nesta sexta-feira, quando eliminou a nona favorita Ekaterina Alexandrova, com parciais de 7/5 e 6/2, para se garantir na terceira rodada do WTA 1000 de Pequim."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-ainda-sente-dores-e-decide-nao-treinar-nesta-sexta-feira.html",
         "title": "Alcaraz ainda sente dores e decide não treinar nesta sexta-feira",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/alcaraz-toquio-2025.jpg",
@@ -9,9 +23,9 @@
     {
         "url": "https://tenisbrasil.uol.com.br/medvedev-passa-pela-estreia-em-pequim-rublev-e-bublik-sao-eliminados.html",
         "title": "Medvedev passa pela estreia em Pequim, Rublev e Bublik são eliminados",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/medvedev-usopen-prepara-2025-e1756742563233-1024x681.jpg",
+        "image": null,
         "date": "26/09/2025",
-        "description": "Pequim (China)– Em seu segundo torneio após o rompimento com o treinador de longa data Gilles Cervara, o russo Daniil Medvedev mostrou força na estreia no ATP 500 de Pequim e conquistou uma boa vitória, superando um bom desafio contra o britânico Cameron Norrie em sets diretos, com parciais de 6/3 e 6/4."
+        "description": "Embed from Getty Images"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-26-09.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/fred_silva_back_fpt-1024x645.jpg",
         "date": "25/09/2025",
         "description": "Londres (Inglaterra) –A Agência Internacional de Integridade do Tênis (ITIA) anunciou que Frederico Ferreira Silva, tenista português de 30 anos, aceitou uma suspensão de um mês sob o Programa Antidoping do Tênis, após testar positivo para a substância proibida trimetazidina (TMZ) durante um teste em competição em fevereiro de 2025."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/konishi-e-giannini-caem-na-segunda-rodada-de-torneios-da-itf.html",
-        "title": "Konishi e Giannini caem na segunda rodada de torneios da ITF",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/11/54166606058_373be00cb6_k-1024x683.jpg",
-        "date": "25/09/2025",
-        "description": "Luján (Argentina) –A paulista Júlia Konishi foi eliminada na segunda rodada do ITF W15 de Luján, em quadras de saibro na Argentina. Atual 804ª do ranking, ela perdeu da boliviana Noelia Zeballos, cabeça 8 do torneio e 612ª colocada, por 6/0 e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/luz-e-demoliner-fazem-semi-em-lisboa-reis-e-boscardin-seguem-na-argentina.html",
-        "title": "Luz e Demoliner fazem semi em Lisboa, Reis e Boscardin seguem na Argentina",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/luz_demoliner_lisboa-1024x681.jpg",
-        "date": "25/09/2025",
-        "description": "Lisboa (Portugal) –Os gaúchos Orlando Luz e Marcelo Demoliner estão na semifinal do challenger de Lisboa, em quadras de saibro. Principais cabeças de chave, eles venceram os convidados portugueses Henrique e Francisco Rocha por 7/6 (7-2) e 6/4."
     }
 ]
