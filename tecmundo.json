@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/voxel/502434-steam-recebe-4-jogos-gratis-nesta-semana-veja-lista-de-2609-e-resgate.htm",
+        "title": "Steam recebe 4 jogos grátis nesta semana! Veja lista de 26/09 e resgate!",
+        "description": "De exploração com quebra-cabeças a dungeon-crawler: conheça novos jogos grátis que chegaram ao PC!",
+        "image": "https://tm.ibxk.com.br/2025/09/26/jogos_gratis_steam_26_setembro_eff228deae.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/407376-steam-ganha-duas-camadas-importantes-de-seguranca-em-versao-beta.htm",
         "title": "Steam ganha duas camadas importantes de segurança em versão beta",
         "description": "Em preparação para requisitos mínimos de jogos famosos, a Steam vai conseguir exibir se o TPM 2.0 e a Inicialização Segura estão ativos no computador.",
@@ -28,24 +35,17 @@
         "date": null
     },
     {
+        "url": "https://www.tecmundo.com.br/software/407389-e-o-fim-windows-10-recebe-a-ultima-atualizacao-antes-do-fim-do-suporte.htm",
+        "title": "É o fim! Windows 10 recebe a última atualização antes do fim do suporte",
+        "description": "Opcional, o update traz algumas correções de bugs relatados recentemente pelos usuários do Windows 10.",
+        "image": "https://tm.ibxk.com.br/2025/09/26/ultima_atualizacao_windows_10_2_0c2ff0d51a.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/guia-de-compras/407350-livros-e-quadrinhos-em-promocao-garanta-titulos-famosos-a-partir-de-r5.htm",
         "title": "Livros e quadrinhos em promoção: garanta títulos famosos a partir de R$5",
         "description": "Aproveite descontos de até 79% na Amazon em livros para todos os gostos, de clássicos a HQs e mangás!",
         "image": "https://tm.ibxk.com.br/2025/09/25/25172555633098.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407361-passkeys-sao-realmente-mais-seguras-entenda-mais-sobre-como-esse-metodo-funciona.htm",
-        "title": "Passkeys são realmente mais seguras? Entenda mais sobre como esse método funciona",
-        "description": "Consideradas possíveis substitutas para senhas, as passkeys prometem mais segurança e proteção contra alguns ataques online, mas elas são realmente seguras?",
-        "image": "https://tm.ibxk.com.br/2025/04/01/01095817778076.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502419-review-ea-sports-fc-26-cumpre-as-prometidas-melhorias-mas-ainda-nao-sao-o-suficiente.htm",
-        "title": "Review: EA Sports FC 26 cumpre as prometidas melhorias, mas ainda não são o suficiente",
-        "description": "Novo game da franquia de futebol da EA apresentas melhorias em diversos elementos, mas não justifica preço",
-        "image": "https://tm.ibxk.com.br/2025/09/26/ea_fc_2026_review_1357ceb1f1.jpg",
         "date": null
     }
 ]

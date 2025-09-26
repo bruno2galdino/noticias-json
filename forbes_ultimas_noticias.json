@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-fecha-no-positivo-com-vale-ofuscando-boa-performance-do-setor-financeiro-braskem-desaba/",
+        "title": "Ibovespa Fecha no Azul, mas Braskem Desaba",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-12-300x200.png",
+        "date": "26/09/2025",
+        "description": "Após dois dias de alta firme, o dólar encerrou em baixa de 0,46%"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/b3-e-acx-lancam-plataforma-pioneira-para-creditos-de-carbono-com-alcance-global/",
         "title": "B3 e ACX Lançam Plataforma Pioneira para Créditos de Carbono com Alcance Global",
         "image": "https://forbes.com.br/wp-content/uploads/2022/06/creditos_carbono_forbesmoney-300x200.jpg",
@@ -14,7 +21,7 @@
         "description": "A expansão reforça o compromisso Farmer First da AGCO, permitindo que a capacidade de remanufatura de motores quase triplique (de 1.000 para 2.500 anuais) e reutilize até 80% da massa do motor"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/09/pecuaria-tropical-assume-o-protagonismo-sustentavel-e-cobra-reconhecimento-na-agenda-global/",
+        "url": "https://forbes.com.br/forbesesg/2025/09/pecuaria-tropical-assume-o-protagonismo-sustentavel-e-cobra-reconhecimento-na-agenda-global/",
         "title": "Pecuaristas Assinam ‘Chamado à Ação’ por Baixo Carbono, Rastreabilidade e Incentivos Econômicos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_vozes-da-pecuaria_carmen_bruder_foto_Divulgacao_26.09.2025-300x200.jpg",
         "date": "26/09/2025",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Prada-Womens-SS26-300x200.jpg",
         "date": "26/09/2025",
         "description": "Apresentada na semana de moda de Milão, a coleção de Miuccia Prada e Raf Simons revela roupas para um mundo em constante mutação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/trump-assina-decreto-declarando-que-venda-do-tiktok-esta-pronta-e-a-avalia-em-us14-bilhoes/",
-        "title": "Trump Declara Que Venda do TikTok Está Pronta e a Avalia em US$14 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/trump-tiktok-300x200.jpg",
-        "date": "26/09/2025",
-        "description": "Presidente dos EUA adiou a aplicação da lei que proíbe o aplicativo a menos que seus proprietários chineses o vendam até 16 de dezembro"
     }
 ]
