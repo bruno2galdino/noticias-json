@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-26-09.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/gimenez_joinville_slice.jpg",
+        "date": "26/09/2025",
+        "description": "Challenger de Buenos Aires (Argentina) – Saibro – US$ 100 miQuartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/anisimova-badosa-e-muchova-seguem-em-frente-no-wta-1000-de-pequim.html",
+        "title": "Anisimova, Badosa e Muchova seguem em frente no WTA 1000 de Pequim",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/Amanda_Anisimova_-_China_Open_2025_-_Day_3-DSC_9288_xgaplus.jpg",
+        "date": "26/09/2025",
+        "description": "Pequim (China)– Terceira mais bem cotada ao título no WTA 1000 de Pequim, a norte-americana Amanda Anisimova se impôs em sua estreia na competição, cedendo apenas quatro games à britânica Katie Boulter, que acabou derrotada com o placar final de 6/4 e 6/2."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/ruud-derruba-berrettini-fritz-tem-duelo-100-norte-americano-nas-quartas.html",
         "title": "Ruud derruba Berrettini, Fritz tem duelo 100% norte-americano nas quartas",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/ruud-toquio-feliz-2025-1024x683.jpg",
         "date": "26/09/2025",
-        "description": "Tóquio (Japão) – Em um dos duelos mais aguardados desta sexta-feira no ATP 500 de Tóquio, o norueguês Casper Ruud fez valer a condição de cabeça de chave número 4 e derrotou o italiano Matteo Berrettini em sets diretos, gastando 1h38 para triunfar com o placar final de 7/6 (7-4) e 6/2."
+        "description": "Tóquio (Japão)– Em um dos duelos mais aguardados desta sexta-feira no ATP 500 de Tóquio, o norueguês Casper Ruud fez valer a condição de cabeça de chave número 4 e derrotou o italiano Matteo Berrettini em sets diretos, gastando 1h38 para triunfar com o placar final de 7/6 (7-4) e 6/2."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/krejcikova-derruba-mais-uma-russa-e-entra-no-caminho-de-rybakina.html",
@@ -26,13 +40,6 @@
         "image": null,
         "date": "26/09/2025",
         "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-26-09.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/gimenez_joinville_slice.jpg",
-        "date": "26/09/2025",
-        "description": "Challenger de Buenos Aires (Argentina) – Saibro – US$ 100 miQuartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/gauff-embala-no-segundo-set-e-inicia-bem-a-defesa-do-titulo.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/bonini_banana_fore-1024x683.jpg",
         "date": "25/09/2025",
         "description": "ATP 500 de Pequim (China) – Sintético – US$ 4.016.050Duplas – Primeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/portugues-retorna-de-suspensao-apos-comprovar-contaminacao.html",
-        "title": "Português retorna de suspensão após comprovar contaminação",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/fred_silva_back_fpt-1024x645.jpg",
-        "date": "25/09/2025",
-        "description": "Londres (Inglaterra) –A Agência Internacional de Integridade do Tênis (ITIA) anunciou que Frederico Ferreira Silva, tenista português de 30 anos, aceitou uma suspensão de um mês sob o Programa Antidoping do Tênis, após testar positivo para a substância proibida trimetazidina (TMZ) durante um teste em competição em fevereiro de 2025."
     }
 ]
