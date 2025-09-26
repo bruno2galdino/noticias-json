@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/trump-assina-decreto-declarando-que-venda-do-tiktok-esta-pronta-e-a-avalia-em-us14-bilhoes/",
+        "title": "Trump Declara Que Venda do TikTok Está Pronta e a Avalia em US$14 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/trump-tiktok-300x200.jpg",
+        "date": "26/09/2025",
+        "description": "Presidente dos EUA adiou a aplicação da lei que proíbe o aplicativo a menos que seus proprietários chineses o vendam até 16 de dezembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/da-suecia-para-o-mundo-hm-mostra-que-america-latina-e-sua-prioridade/",
+        "title": "Da Suécia para o Mundo, H&m Mostra Que América Latina É Sua Prioridade e Anuncia Mais 4 Lojas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-21-300x200.png",
+        "date": "26/09/2025",
+        "description": "Otimista com sucesso no Brasil, marca vem passando por processo de reestruturação para aumentar suas vendas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/producao-florestal-brasileira-foi-de-r-443-bilhoes-em-2024-crescendo-167/",
+        "title": "Produção Florestal Brasileira Foi de R$ 44,3 Bilhões em 2024, Crescendo 16,7%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_floresta_plantada_eucalipto_26set25_-Joa_Souza_Getty-300x200.jpg",
+        "date": "26/09/2025",
+        "description": "Área de floresta plantada chega a 9,9 milhões de hectares, com volume de toras de madeira para celulose batendo recorde histórico"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/acidente-em-araraquara-sp-ferrovia-da-rumo-e-liberada-apos-descarrilamento-de-milho/",
         "title": "Ferrovia da Rumo Volta a Operar Após Caminhão Causar Descarrilamento de Vagões com Milho",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_milho_espiga_lavoura_foto_Richard_Hamilton_Smith_Getty_26.09.2025-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-08-02T152156Z_1_LYNXMPEL7105Y_RTROPTP_4_AZUL-M-A-GOL-LINHAS-AE-scaled-1-300x200.jpg",
         "date": "26/09/2025",
         "description": "As ações da Azul sobem cerca de 14% nesta manhã, enquanto as da Gol avançam 8%"
-    },
-    {
-        "url": "https://forbes.com.br/sem-categoria/2025/09/tarifaco-de-trump-agora-mira-medicamentos-caminhoes-e-moveis/",
-        "title": "Tarifaço de Trump Agora Mira Medicamentos, Caminhões e Móveis",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_TrumpTarifasAgro_15JUl2025_ChipSomodevilla_Getty-300x200.jpg",
-        "date": "26/09/2025",
-        "description": "Os EUA são o principal destino das exportações brasileiras de móveis e colchões, tendo respondido por 28% dos embarques no primeiro semestre de 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-inflacao-americana-de-agosto-define-expectativa-para-juros/",
-        "title": "Pré-mercado: Inflação Americana de Agosto Define Expectativa para Juros",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "26/09/2025",
-        "description": "Notícias e indicadores que podem afetar os preços dos ativos nesta sexta-feira, 26 de setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/meta-lanca-o-vibes-e-foca-em-democratizar-a-criacao-de-videos-com-inteligencia-artificial/",
-        "title": "Meta Lança o Vibes e Foca em Democratizar a Criação de Vídeos com Inteligência Artificial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Vibes_header-300x200.jpg",
-        "date": "26/09/2025",
-        "description": "Além de ganhar a nova plataforma, o app Meta AI continua sendo o centro de gerenciamento para os óculos inteligentes Ray-Ban Meta"
     }
 ]
