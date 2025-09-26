@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/apos-marcar-1o-ponto-na-atp-bonini-recebe-convite-para-itf-em-salvador.html",
-        "title": "Após marcar 1º ponto na ATP, Bonini recebe convite para ITF em Salvador",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/bonini_barueri_back-1024x682.jpg",
+        "url": "https://tenisbrasil.uol.com.br/ribeirao-preto-vai-sediar-a-proxima-copa-do-mundo-de-beach-tennis.html",
+        "title": "Ribeirão Preto vai sediar a próxima Copa do Mundo de beach tennis",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/sand-series-Ribeirao-1.png",
         "date": "26/09/2025",
-        "description": "Salvador (BA) –O torneio ITF M25 de Salvador (BA), evento internacional profissional da capital baiana, acontece entre os dias 28 de setembro e 4 de outubro no Clube Bahiano de Tênis, terá a presença de grandes nomes do tênis juvenil brasileiro que vêm dando os primeiros passos no profissional. A competição conta com premiação total de US$ 30 mil, com importantes pontos no ranking mundial da ATP, a Associação dos Tenistas Profissionais. O evento tem entrada gratuita."
+        "description": "Ribeirão Preto (SP) –Após ser confirmada, pelo terceiro ano consecutivo, como palco de um Sand Series, maior circuito de beach tennis do mundo, Ribeirão Preto dará um passo ainda maior: sediará a próxima edição da Copa do Mundo da modalidade. O anúncio oficial foi feito nesta sexta-feira, durante coletiva de imprensa na Arena Beach Ribeirão, com a presença de representantes da Federação Paulista de Tênis, do comitê organizador e de autoridades locais."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/costa-do-sauipe-open-confirma-convite-para-luis-guto-miguel-na-chave-principal.html",
+        "title": "Costa do Sauípe Open confirma convite para Guto Miguel na chave principal",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/guto_miguel_direita.jpg",
+        "date": "26/09/2025",
+        "description": "Costa do Sauípe (Bahia) –A organização do Costa do Sauípe Open, inédito ATP Challenger 125, anunciou nesta sexta-feira a participação do jovem goiano Luís Guto Miguel, de 16 anos, como um dos convidados da chave principal. O torneio acontece de 19 a 26 de outubro, no resort Costa do Sauípe, na Bahia, com premiação total de US$ 200 mil e valendo 125 pontos no ranking da ATP ao campeão."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-26-09.html",
@@ -12,6 +19,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/gimenez_joinville_slice.jpg",
         "date": "26/09/2025",
         "description": "Challenger de Buenos Aires (Argentina) – Saibro – US$ 100 miQuartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/apos-marcar-1o-ponto-na-atp-bonini-recebe-convite-para-itf-em-salvador.html",
+        "title": "Após marcar 1º ponto na ATP, Bonini recebe convite para ITF em Salvador",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/bonini_barueri_back-1024x682.jpg",
+        "date": "26/09/2025",
+        "description": "Salvador (BA) –O torneio ITF M25 de Salvador (BA), evento internacional profissional da capital baiana, acontece entre os dias 28 de setembro e 4 de outubro no Clube Bahiano de Tênis, terá a presença de grandes nomes do tênis juvenil brasileiro que vêm dando os primeiros passos no profissional. A competição conta com premiação total de US$ 30 mil, com importantes pontos no ranking mundial da ATP, a Associação dos Tenistas Profissionais. O evento tem entrada gratuita."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/pucinelli-cai-nas-quartas-na-argentina-boscardin-e-reis-decidem-nas-duplas.html",
@@ -54,19 +68,5 @@
         "image": null,
         "date": "26/09/2025",
         "description": "Pequim (China)– Últimos a entrar em quadra nesta sexta-feira no ATP 500 de Pequim, fechando o dia em suas respectivas quadras, Alexander Zverev e Lorenzo Musetti tiveram vitórias distintas. Enquanto o alemão superou a estreia com autoridade, sem perder set, o italiano teve trabalho e encarou três sets e dois tiebreaks para seguir vivo na competição."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/brasil-estreia-no-pan-de-beach-tennis-vencendo-suas-31-partidas.html",
-        "title": "Brasil estreia no Pan de beach tennis vencendo suas 31 partidas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/pan_caraguatatuba.jpg",
-        "date": "26/09/2025",
-        "description": "Caraguatatuba (SP) –O Brasil iniciou nesta quinta-feira sua trajetória no Pan-americano de beach tennis 2025 com um dia repleto de partidas. Ao todo, foram disputados 31 jogos em diferentes categorias, marcando o pontapé inicial da campanha brasileira na competição, com 31 partidas vencidas, finalizando o dia com 100% de aproveitamento."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/anisimova-badosa-e-muchova-seguem-em-frente-no-wta-1000-de-pequim.html",
-        "title": "Anisimova, Badosa e Muchova seguem em frente no WTA 1000 de Pequim",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/Amanda_Anisimova_-_China_Open_2025_-_Day_3-DSC_9288_xgaplus.jpg",
-        "date": "26/09/2025",
-        "description": "Pequim (China)– Terceira mais bem cotada ao título no WTA 1000 de Pequim, a norte-americana Amanda Anisimova se impôs em sua estreia na competição, cedendo apenas quatro games à britânica Katie Boulter, que acabou derrotada com o placar final de 6/4 e 6/2."
     }
 ]
