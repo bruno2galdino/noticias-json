@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407361-passkeys-sao-realmente-mais-seguras-entenda-mais-sobre-como-esse-metodo-funciona.htm",
+        "title": "Passkeys são realmente mais seguras? Entenda mais sobre como esse método funciona",
+        "description": "Consideradas possíveis substitutas para senhas, as passkeys prometem mais segurança e proteção contra alguns ataques online, mas elas são realmente seguras?",
+        "image": "https://tm.ibxk.com.br/2025/04/01/01095817778076.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502419-review-ea-sports-fc-26-cumpre-as-prometidas-melhorias-mas-ainda-nao-sao-o-suficiente.htm",
+        "title": "Review: EA Sports FC 26 cumpre as prometidas melhorias, mas ainda não são o suficiente",
+        "description": "Novo game da franquia de futebol da EA apresentas melhorias em diversos elementos, mas não justifica preço",
+        "image": "https://tm.ibxk.com.br/2025/09/26/ea_fc_2026_review_1357ceb1f1.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407377-conselhos-querem-monitorar-juizes-e-promotores-com-geolocalizacao-e-biometria-facial.htm",
+        "title": "Conselhos querem monitorar juízes e promotores com geolocalização e biometria facial",
+        "description": "O monitoramento dos profissionais do judiciário objetiva reforçar o controle sobre a obrigatoriedade de atividades presenciais.",
+        "image": "https://tm.ibxk.com.br/2025/09/26/geolocalizacao_juizes_e_promotores_5c25180a8a.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602189-episodio-6-de-pacificador-traz-grande-conexao-com-superman-em-participacao-especial-entenda.htm",
         "title": "Episódio 6 de Pacificador traz grande conexão com Superman em participação especial! Entenda",
         "description": "Segunda temporada de Pacificador traz uma cena que vai estabelecer as bases de todo o futuro do novo DCU. Confira mais detalhes sobre a participação envolvendo Superman",
@@ -46,27 +67,6 @@
         "title": "Meta lança Vibes, um TikTok inteiramente composto por vídeos gerados por IA",
         "description": "No novo feed Vibes, a Meta reúne criações geradas por IA de todos os usuários; a comunidade acusa a ferramenta de ser um centro de AI Slop",
         "image": "https://tm.ibxk.com.br/2025/06/18/18133026386202.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407341-6-melhores-recursos-do-gemini-para-google-workspace.htm",
-        "title": "6 melhores recursos do Gemini para Google Workspace",
-        "description": "Confira as ferramentas da IA do Google que mais ajudam a agilizar processos nas empresas",
-        "image": "https://tm.ibxk.com.br/2025/09/25/25145651989010.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407367-numero-de-brasileiros-trabalhando-em-apps-aumenta-170-e-alcanca-21-milhoes.htm",
-        "title": "Número de brasileiros trabalhando em apps aumenta 170% e alcança 2,1 milhões",
-        "description": "Última década fez com que as plataformas digitais se tornassem relevante para a economia, mas resultou em precarização do trabalho.",
-        "image": "https://tm.ibxk.com.br/2025/09/26/99_ifood_entregador_ea8be756fc.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602186-one-piece-vira-simbolo-de-resistencia-em-protestos-ao-redor-do-mundo.htm",
-        "title": "One Piece vira símbolo de resistência em protestos ao redor do mundo",
-        "description": "As bandeiras e roupas vistas em One Piece são usados por jovens que protestam contra a opressão e ideias que consideram injustas",
-        "image": "https://tm.ibxk.com.br/2025/09/25/25163227704030.jpg",
         "date": null
     }
 ]
