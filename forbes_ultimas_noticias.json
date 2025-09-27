@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/sem-categoria/2025/09/incendio-em-data-center-da-coreia-do-sul-paralisa-servicos-nacionais/",
+        "title": "Fogo em Bateria de Lítio Derruba Servidores Críticos na Coreia do Sul e Leva a Pedido de Desculpas Oficial",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/tech_coreia_do_sul_pessoas_na_rua_foto_REUTERS_Heo-Ran_27.09.2025-300x200.jpg",
+        "date": "27/09/2025",
+        "description": "Um incêndio em uma bateria de íons de lítio no Serviço Nacional de Recursos de Informação em Daejeon paralisou redes internas e websites de ministérios do governo sul-coreano"
+    },
+    {
+        "url": "https://forbes.com.br/sem-categoria/2025/09/cop30-no-brasil-por-que-240-organizacoes-cobram-reparacoes-historicas-na-agenda/",
+        "title": "COP30: Carta Aberta Pede Que Brasil Lidere Vínculo entre Justiça Climática e Reparações",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/esg_cop30_vista_aerea_foto_Marx_Vasconcelos-REUTERS_27.09.2025-300x200.jpg",
+        "date": "27/09/2025",
+        "description": "As organizações pedem que o Brasil crie um espaço oficial na cúpula dedicado ao tema, liderado por comunidades africanas, afrodescendentes e indígenas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/holograma-de-stan-lee-com-ia-estreia-na-l-a-comic-con-e-gera-debate-etico/",
+        "title": "Tecnologia Ressuscita Stan Lee: Criador da Marvel Volta em Avatar de IA, Mas Críticas Marcam a Novidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/tech_stan_lee_holograma_foto_Mario-Anzuoni-REUTERS_27.09.2025-300x200.jpg",
+        "date": "27/09/2025",
+        "description": "O criador do Homem-Aranha retornou à L.A. Comic Con em formato holográfico de IA, resultado da parceria entre Proto Hologram e Hyperreal"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/conheca-a-fintech-que-esta-investindo-bilhoes-para-se-tornar-o-primeiro-verdadeiro-banco-global/",
         "title": "A Fintech que Investe US$ 13 Bilhões Rumo a Ser Banco Global",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/2-4-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/ReignTitans-300x200.jpg",
         "date": "27/09/2025",
         "description": "Criado em 2022 no ápice dos NFTs como CryptoTitans, o agora Reign of Titans desembarca no país com ações da marca Guaraná Antarctica e ativações na BGS desenvolvidas pela Druid Creative Gaming"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-fecha-no-positivo-com-vale-ofuscando-boa-performance-do-setor-financeiro-braskem-desaba/",
-        "title": "Ibovespa Fecha no Azul, mas Braskem Desaba",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-12-300x200.png",
-        "date": "26/09/2025",
-        "description": "Após dois dias de alta firme, o dólar encerrou em baixa de 0,46%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/b3-e-acx-lancam-plataforma-pioneira-para-creditos-de-carbono-com-alcance-global/",
-        "title": "B3 e ACX Lançam Plataforma Pioneira para Créditos de Carbono com Alcance Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/06/creditos_carbono_forbesmoney-300x200.jpg",
-        "date": "26/09/2025",
-        "description": "Iniciativa pioneira conecta projetos ambientais brasileiros a mercados internacionais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/agco-investe-e54-milhoes-na-finlandia-para-turbinar-motores-core-e-economia-circular/",
-        "title": "Por Que a AGCO Investe Milhões em Remanufatura de Motores e Fortalece Fábrica Finlandesa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro__agco_investimento_fabrica_finlandia_foto_Divulgacao_26.09.2025-300x200.jpg",
-        "date": "26/09/2025",
-        "description": "A expansão reforça o compromisso Farmer First da AGCO, permitindo que a capacidade de remanufatura de motores quase triplique (de 1.000 para 2.500 anuais) e reutilize até 80% da massa do motor"
     }
 ]
