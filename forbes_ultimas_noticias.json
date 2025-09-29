@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-nao-sustenta-recorde-mas-fecha-no-positivo/",
+        "title": "Ibovespa Não Sustenta Recorde, Mas Fecha no Positivo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "29/09/2025",
+        "description": "O índice perdeu força com movimentos de realização de lucros e a queda das ações da Petrobras"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/vinhaca-do-etanol-vira-produto-de-alto-valor-e-oferece-solucao-inedita-para-monitoramento-hidrico/",
         "title": "Pesquisadores Brasileiros Transformam Vinhaça do Etanol em Detector de Metais Tóxicos na Água",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_estudo_vinhaca_cana-de-acucar_Divulgacao_29.09.2025-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1148799751-1-300x200.jpg",
         "date": "29/09/2025",
         "description": "O financiamento inclui cerca de US$ 36 bilhões (R$ 190,8 bilhões) em capital próprio e US$ 20 bilhões (R$ 106 bilhões) em dívida garantida pelo JP Morgan"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/anthropic-vai-triplicar-forca-de-trabalho-internacional/",
-        "title": "Anthropic Vai Triplicar Força de Trabalho Internacional",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Anthropic-forbesss-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "Medida visa atender ao aumento da demanda por modelos de IA fora dos Estados Unidos"
     }
 ]
