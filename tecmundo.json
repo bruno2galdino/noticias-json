@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/602196-netflix-recebe-8-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-2909.htm",
+        "title": "Netflix recebe 8 filmes e séries de peso na semana! Veja lista de lançamentos (29/09)",
+        "description": "Lançamentos de séries e filmes bastante aguardados prometem movimentar o catálogo da Netflix nesta semana. Saiba o que assistir no streaming!",
+        "image": "https://tm.ibxk.com.br/2025/09/29/netflix_filmes_da_semana_1469f08980.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/software/407419-ios-26-ganha-1-atualizacao-com-correcoes-para-os-novos-iphones.htm",
         "title": "iOS 26 ganha 1ª atualização com correções para os novos iPhones",
         "description": "Apple corrigiu problemas e bugs de conexão e até mesmo de fotos com manchas no iPhone Air e 17 Pro Max",
@@ -23,7 +30,7 @@
     {
         "url": "https://www.tecmundo.com.br/minha-serie/602201-donald-trump-anuncia-tarifas-de-100-para-filmes-feitos-fora-dos-estados-unidos.htm",
         "title": "Donald Trump anuncia tarifas de 100% para filmes feitos fora dos Estados Unidos",
-        "description": "Segundo Tump, a medida tem como objetivo combater os incentivos oferecidos a Hollywood por países estrangeiros, mas pode afetar até animes",
+        "description": "Segundo Trump, a medida tem como objetivo combater os incentivos oferecidos a Hollywood por países estrangeiros, mas pode afetar até animes",
         "image": "https://tm.ibxk.com.br/2025/09/29/wagner_moura_trump_522c659ae8.jpg",
         "date": null
     },
@@ -46,20 +53,6 @@
         "title": "ChatGPT ganha controle parental para proteger crianças",
         "description": "O ChatGPT incluiu um conjunto de ferramentas de controle parental para ativar ou desativar recursos do chatbot em contas de adolescentes",
         "image": "https://tm.ibxk.com.br/2025/08/19/19123838336116.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602198-demon-slayer-supera-missao-impossivel-e-quarteto-fantastico-em-bilheteria-com-us-600-milhoes.htm",
-        "title": "Demon Slayer supera Missão Impossível e Quarteto Fantástico em bilheteria com US$ 600 milhões",
-        "description": "O novo filme de Demon Slayer já soma mais de US$ 605 milhões, quebra recordes históricos de animes e ameaça a posição de Superman nas bilheteiras mundiais.",
-        "image": "https://tm.ibxk.com.br/2025/09/29/demonslayer_31fe69728e.png",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407411-nubank-lanca-cartao-de-credito-para-menores-de-idade-com-limite-pelas-caixinhas.htm",
-        "title": "Nubank lança cartão de crédito para menores de idade com limite pelas 'Caixinhas'",
-        "description": "Destinado a adolescentes entre 16 e 17 anos, o novo cartão de crédito do Nubank permite que pais e responsáveis acompanhem as transações.",
-        "image": "https://tm.ibxk.com.br/2025/09/29/cartao_de_credito_para_menores_nubank_51ac8ad31d.jpg",
         "date": null
     }
 ]

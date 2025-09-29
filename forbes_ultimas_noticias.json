@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/soja-acelera-mas-clima-freia-plantio-no-brasil-bate-32-e-produtores-se-preparam-para-a-seca-no-centro-oeste/",
+        "title": "Plantio no Brasil Bate 3,2% e Produtores se Preparam Para a Seca no Centro-Oeste",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_soja_colheita_29.09.2025-300x200.jpg",
+        "date": "29/09/2025",
+        "description": "O plantio de soja 2025/26 no Brasil alcançou 3,2% da área, um avanço significativo em relação aos 2% registrados no ano passado, puxado por Paraná e Mato Grosso"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/australia-rouba-fatia-dos-eua-no-mercado-bilionario-de-carne-da-china-pos-trump/",
+        "title": "Austrália Rouba Fatia dos EUA no Mercado Bilionário de Carne da China Pós-Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_bovinos_australia_29.09.2025-300x200.jpg",
+        "date": "29/09/2025",
+        "description": "A China substituiu a carne bovina dos EUA pela australiana após o retorno de Donald Trump, devido à expiração de licenças e ao tarifaço, desviando centenas de milhões de dólares do setor pecuário americano"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/brasileiro-esta-bebendo-menos-cafe-aponta-pesquisa/",
         "title": "Brasileiro Está Bebendo Menos Café, Aponta Pesquisa da Abic",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cafe_29set25__Martial-Colomb_Getty-300x200.jpg",
@@ -49,24 +63,10 @@
         "description": "A Cocal investiu R$ 216 milhões em parceria com o BNDES para a nova planta em Paraguaçu Paulista, que produzirá até 60 mil m³/dia de biometano a partir de resíduos da cana e esterco animal"
     },
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/openai-trara-controles-parentais-ao-chatgpt-apos-suicidio-de-adolescente/",
+        "url": "https://forbes.com.br/last/2025/09/openai-trara-controles-parentais-ao-chatgpt-apos-suicidio-de-adolescente/",
         "title": "OpenAI Trará Controles Parentais Ao ChatGPT após Suicídio de Adolescente",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/openai-chatgpt-agentes-300x200.png",
         "date": "29/09/2025",
         "description": "Empresa disse que os controles permitirão que pais e adolescentes vinculem contas para garantir maior proteção"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/queda-nas-vendas-de-vacinas-covid-derruba-fortunas/",
-        "title": "Queda nas Vendas de Vacinas Covid-19 Derruba Fortunas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2-7-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "As ações da Moderna e da BioNTech despencaram desde seus picos em 2021, reduzindo bilhões de dólares dos montantes de seus fundadores"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/as-5-cidades-do-mundo-onde-os-turistas-sao-mais-felizes/",
-        "title": "As 5 Cidades do Mundo Onde os Turistas São Mais Felizes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.O-Indice-Felicidade-em-Ferias-e-elaborado-pelo-portal-BookRetreats.com-em-parceria-com-a-psicologa-Natalie-Dattilo-Ryan-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "Estudo com psicóloga de Harvard aponta destinos que favorecem bem-estar por meio de luz solar, natureza, sono, alimentação e caminhabilidade"
     }
 ]
