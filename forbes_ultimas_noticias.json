@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/brasileiro-esta-bebendo-menos-cafe-aponta-pesquisa/",
+        "title": "Brasileiro Está Bebendo Menos Café, Aponta Pesquisa da Abic",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cafe_29set25__Martial-Colomb_Getty-300x200.jpg",
+        "date": "29/09/2025",
+        "description": "Inflação e safras frustradas mudam o comportamento de compra, com consumidores migrando para opções mais baratas e reduzindo a frequência em cafeterias"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-nao-sustenta-recorde-mas-fecha-no-positivo/",
         "title": "Ibovespa Não Sustenta Recorde, Mas Fecha no Positivo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
@@ -14,8 +21,8 @@
         "description": "A inovação oferece uma destinação sustentável para o resíduo da produção de etanol no Brasil, que gera até 15 litros de vinhaça por litro de combustível, mitigando seu impacto ambiental"
     },
     {
-        "url": "https://forbes.com.br/forbes-mkt/2025/09/resiliencia-e-equilibrio-como-a-cmo-da-totvs-lida-com-os-desafios-de-transformacao-da-carreira/",
-        "title": "Resiliência e Equilíbrio: Como a CMO da Totvs Lida com os Desafios de Transformação da Carreira",
+        "url": "https://forbes.com.br/manchete-2/2025/09/resiliencia-e-equilibrio-como-a-cmo-da-totvs-lida-com-os-desafios-de-transformacao-da-carreira/",
+        "title": "Como a CMO da Totvs Lida com os Desafios de Transformação da Carreira",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Forbes_Marketing_CMO_Diana-Rodrigues_Totvs-300x200.png",
         "date": "29/09/2025",
         "description": "Em participação no podcast Forbes MKT, Diana Rodrigues, CMO da Totvs, fala sobre o desafio de construção de marca B2B e os impactos da tecnologia no marketing e nos negócios"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.O-Indice-Felicidade-em-Ferias-e-elaborado-pelo-portal-BookRetreats.com-em-parceria-com-a-psicologa-Natalie-Dattilo-Ryan-300x200.jpg",
         "date": "29/09/2025",
         "description": "Estudo com psicóloga de Harvard aponta destinos que favorecem bem-estar por meio de luz solar, natureza, sono, alimentação e caminhabilidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/gigante-dos-videogames-electronic-arts-e-adquirida-por-us-55-bilhoes-e-deve-deixar-a-bolsa/",
-        "title": "Electronic Arts É Adquirida por US$ 55 Bilhões e Deve Deixar a Bolsa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1148799751-1-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "O financiamento inclui cerca de US$ 36 bilhões (R$ 190,8 bilhões) em capital próprio e US$ 20 bilhões (R$ 106 bilhões) em dívida garantida pelo JP Morgan"
     }
 ]
