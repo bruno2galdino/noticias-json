@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/desemprego-no-brasil-fica-estavel-no-trimestre-ate-agosto/",
+        "title": "Desemprego no Brasil Fica Estável no Trimestre até Agosto",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/servicos-ibge-transportes-economia-Money-300x200.png",
+        "date": "30/09/2025",
+        "description": "Menor nível da série histórica se repete no período, encerrando a série de quatro quedas seguidas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/sucessao-no-agro-o-imperio-de-jonas-barcellos-e-a-heranca-da-brasif/",
+        "title": "Sucessão no Agro: o Império de Jonas Barcellos e a Herança da Brasif",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Renato_Barcelos_29set25__GB_Divulg-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Renato Barcellos conta como o pai projetou o nelore, uma usina de cana, construiu a Brasif e deixou um legado que hoje passa pela expansão do negócio"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/weg-anuncia-investimento-bilionario-para-nova-fabrica-em-santa-catarina/",
+        "title": "WEG expande operações com investimento bilionário em SC",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/WEG-300x200.png",
+        "date": "30/09/2025",
+        "description": "A expectativa é que o projeto crie aproximadamente 1.000 novos empregos diretos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-setembro-se-encerra-com-dados-de-emprego-no-brasil-e-nos-eua/",
         "title": "Pré-mercado: Setembro se Encerra com Dados de Emprego no Brasil e nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -8,7 +29,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-mulher/2025/09/olivia-dean-a-nova-voz-britanica-que-conquistou-o-mundo/",
-        "title": "Olivia Dean: a Nova Voz Britânica Que Conquistou o Mundo",
+        "title": "Quem é Olivia Dean, uma das cantoras mais ouvidas atualmente",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/olivia-dean-300x200.jpg",
         "date": "30/09/2025",
         "description": "Aos 26 anos, artista vive um marco da carreira com o hit “Man I Need”, que chegou ao Top 4 global do Spotify"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.O-Grande-Vividus-300x200.jpg",
         "date": "30/09/2025",
         "description": "Marca sueca Hästens, hoje presente em 50 países, transforma filosofia de vida em estratégia de negócios no setor de camas e colchões de luxo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/entenda-por-que-a-meta-vai-adotar-assinaturas-pagas-do-instagram-e-facebook-no-reino-unido/",
-        "title": "Entenda por Que a Meta Vai Adotar Assinaturas Pagas do Instagram e Facebook no Reino Unido",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/01/tech-instagram-ferramenta-19jan23-GettyImages-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "A empresa encara a decisão como uma forma de dar aos usuários escolha clara sobre o uso de seus dados para publicidade personalizada em acordo com o Information Commissioner's Office (ICO)"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/concorrencia-a-vista-novas-bolsas-desafiam-hegemonia-da-b3/",
-        "title": "Concorrência À Vista: Novas Bolsas Desafiam Hegemonia da B3",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-22-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "Saiba como estão se estruturando cada uma das plataformas que pretendem fazer frente à bolsa oficial"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/informecial-anjo-tintas-crescimento-acelerado-com-ambicao-bilionaria/",
-        "title": "Anjo Tintas impulsiona expansão com nova fábrica e foco em aquisições",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/3-11-300x200.png",
-        "date": "30/09/2025",
-        "description": "Anjo Tintas impulsiona expansão com nova fábrica e foco em aquisições"
     }
 ]

@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/407429-linha-rtx-50-super-ganha-possivel-data-de-lancamento.htm",
+        "title": "Linha RTX 50 Super ganha possível data de lançamento",
+        "description": "Novas placas de vídeo revisadas da Nvidia devem contar com incremento de memória para tirar o aspecto ruim da atual geração.",
+        "image": "https://tm.ibxk.com.br/2025/07/31/31204344961012.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407432-fundador-do-spotify-deixa-cargo-de-ceo-apos-20-anos-saiba-o-motivo.htm",
+        "title": "Fundador do Spotify deixa cargo de CEO após 20 anos; saiba o motivo",
+        "description": "Daniel Ek será substituído por duas pessoas e vai ocupar posição de chefe do conselho administrativo da plataforma.",
+        "image": "https://tm.ibxk.com.br/2025/03/06/06134529178338.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/software/407426-whatsapp-prepara-modo-anonimo-para-conversas-temporarias-com-o-meta-ai.htm",
+        "title": "WhatsApp prepara \"Modo Anônimo\" para conversas temporárias com o Meta AI",
+        "description": "No WhatsApp, o usuário poderá escolher se quer ter uma conversa secreta com o Meta AI que não é mantida no histórico pessoal",
+        "image": "https://tm.ibxk.com.br/2025/06/18/18133026386202.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/software/407428-google-drive-ganha-integracao-com-gemini-no-android-e-ios.htm",
         "title": "Google Drive ganha integração com Gemini no Android e iOS",
         "description": "O Gemini agora pode resumir documentos e debater sobre arquivos contidos no Drive no app para celular.",
@@ -32,27 +53,6 @@
         "title": "Adobe Premiere é lançado para iPhone — de graça e sem marca d'água",
         "description": "O app do Adobe Premiere finalmente está disponível para iPhone sem qualquer custo e com recursos de edição avançada",
         "image": "https://tm.ibxk.com.br/2025/03/10/10150738169078.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502454-review-super-mario-galaxy-1-2-e-coletanea-de-jogos-imunes-ao-tempo.htm",
-        "title": "Review: Super Mario Galaxy 1 + 2 é coletânea de jogos imunes ao tempo",
-        "description": "Apesar do preço alto, relançamento de Super Mario Galaxy mostra o poder e diversão dos jogos do encanador no Nintendo Switch. Confira a análise completa.",
-        "image": "https://tm.ibxk.com.br/2025/09/29/super_mario_galaxy_1_2_review_59bce69db3.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/407424-galaxy-a06-ou-moto-g05-confira-os-smartphones-basicos-por-menos-de-r600.htm",
-        "title": "Galaxy A06 ou Moto G05: confira os smartphones básicos por menos de R$600",
-        "description": "Conheça agora duas opções de smartphones de entrada baratinhos no Mercado Livre e garanta o celular novo com funcionalidades e recursos essenciais a preços mais em conta por tempo limitado",
-        "image": "https://tm.ibxk.com.br/2025/09/30/samsung_galaxy_a06_getty_images_960x640_d27c9df9e9.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/internet/407425-chatgpt-agora-pode-ajudar-voce-a-fazer-compras-online-sem-sair-do-chat.htm",
-        "title": "ChatGPT agora pode ajudar você a fazer compras online sem sair do chat",
-        "description": "O ChatGPT busca produtos e oferece links de compra direto na tela de chat, encurtando todo o processo de busca",
-        "image": "https://tm.ibxk.com.br/2025/08/13/13085215335004.jpg",
         "date": null
     }
 ]
