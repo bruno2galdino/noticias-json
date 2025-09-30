@@ -1,6 +1,13 @@
 [
     {
-        "url": "https://forbes.com.br/coluna/2025/09/nova-esperanca-no-tratamento-do-cancer-de-ovario/",
+        "url": "https://forbes.com.br/colunas/2025/09/como-lidar-com-a-dor-do-ghosting/",
+        "title": "Como Lidar com a Dor do Ghosting",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-1769199730-1-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "A prática pode causar impactos profundos na saúde mental, afetando sono, autoestima e bem-estar emocional"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/09/nova-esperanca-no-tratamento-do-cancer-de-ovario/",
         "title": "Nova Esperança no Tratamento do Câncer de Ovário",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-2225994091-300x200.jpg",
         "date": "30/09/2025",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/ceo-spotify-daniel-ek-300x200.jpg",
         "date": "30/09/2025",
         "description": "Daniel Ek passará a atuar como presidente executivo em janeiro de 2026; empresa anunciou Gustav Soderstrom e Alex Norstrom como novos co-CEOs"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/metanol-saiba-o-que-e-a-substancia-presente-em-bebida-adulterada/",
-        "title": "Metanol: Saiba o Que É a Substância Presente em Bebida Adulterada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/metanol-300x200.webp",
-        "date": "30/09/2025",
-        "description": "Casos de intoxicação e morte foram identificados em São Paulo"
     }
 ]
