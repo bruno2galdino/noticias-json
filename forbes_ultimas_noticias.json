@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/amazon-echo-nova-familia-prioriza-experiencia-e-design/",
+        "title": "Amazon Apresenta as Alexas \"Mais Inteligentes\" Desde que a Tecnologia Foi Criada",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Alexa-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "A empresa lançou quatro novos modelos da família: o Echo Dot Max, Echo Studio (2ª geração), Echo Show 8 (4ª geração) e Echo Show 11"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/minerva-aposta-em-embarques-de-carne-bovina-a-partir-da-america-do-sul/",
+        "title": "Minerva Aposta em Embarques de Carne Bovina a Partir da América do Sul",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-30T143516Z_1_LYNXNPEL8T0QA_RTROPTP_4_MACRO-IPP-NOVEMBRO-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "A companhia reforça a estratégia de apostar na América do Sul como polo competitivo da carne bovina"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/brasileiro-assume-lideranca-do-banco-mercedes-benz-na-america-latina/",
+        "title": "Brasileiro Assume Liderança do Banco Mercedes-Benz na América Latina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Leonardo-Piccinini-Primeiro-brasileiro-a-liderar-o-Banco-Mercedes-Benz-assume-agora-operacao-na-America-Latina--300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Após um ano como presidente no Brasil, Leonardo Piccinini passa a gerir também a operação da Argentina e integrar a liderança global da Daimler Truck Financial Services"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/feriados-de-2026-como-aproveitar-as-emendas-e-prolongar-folgas/",
+        "title": "Feriados de 2026: Como Aproveitar as Emendas e Prolongar Folgas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Combinando-os-feriados-nacionais-e-pontos-facultativos-o-ano-pode-oferecer-ate-nove-oportunidades-oficiais-de-feriadoes-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Ano terá nove feriados nacionais em dias úteis, com sete deles em segundas ou sextas-feiras, ampliando as possibilidades de feriadões"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/desemprego-no-brasil-fica-estavel-no-trimestre-ate-agosto/",
         "title": "Desemprego no Brasil Fica Estável no Trimestre até Agosto",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/servicos-ibge-transportes-economia-Money-300x200.png",
@@ -29,7 +57,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-mulher/2025/09/olivia-dean-a-nova-voz-britanica-que-conquistou-o-mundo/",
-        "title": "Quem é Olivia Dean, uma das cantoras mais ouvidas atualmente",
+        "title": "Quem é Olivia Dean, uma das Cantoras Mais Ouvidas Atualmente",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/olivia-dean-300x200.jpg",
         "date": "30/09/2025",
         "description": "Aos 26 anos, artista vive um marco da carreira com o hit “Man I Need”, que chegou ao Top 4 global do Spotify"
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cafe_29set25__Martial-Colomb_Getty-1-300x200.jpg",
         "date": "30/09/2025",
         "description": "Dois deputados, um Republicano e outro Democrata, apresentaram o projeto bipartidário “No Coffee Tax Act” para derrubar imediatamente as tarifas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/09/cmo-do-inter-detalha-nova-fase-de-campanha-que-se-propoe-a-facilitar-a-comunicacao-financeira/",
-        "title": "CMO do Inter Explica Nova Fase de Posicionamento Focada em Leveza na Comunicação Financeira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Andrea_Inter-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "Andrea Nocciolini destaca a importância de uma abordagem leve para um tema que ainda é desafiador para os brasileiros"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/como-usar-a-nova-funcao-de-assistente-pessoal-do-chatgpt/",
-        "title": "Como a Nova Função do ChatGPT Pode Otimizar Sua Rotina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-inteligencia-artificial-chatgpt-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "Capaz de antecipar necessidades, Pulse opera enquanto você dorme e é o recurso favorito do fundador da OpenAI"
-    },
-    {
-        "url": "https://forbes.com.br/eventos/2025/09/forbes-brasil-reune-c-levels-de-agencias-de-publicidade-para-discutir-negocios-e-carreira/",
-        "title": "Forbes Brasil Reúne C-Levels de Agências de Publicidade para Discutir Negócios e Carreira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/BEYCREAT-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "O Beyond Creativity inaugura uma nova plataforma dentro de Forbes MKT para acompanhar as lideranças publicitárias brasileiras"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/os-segredos-da-empresa-que-criou-o-colchao-de-us-750-mil/",
-        "title": "Os Segredos da Empresa Que Criou um Colchão de US$ 750 Mil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.O-Grande-Vividus-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "Marca sueca Hästens, hoje presente em 50 países, transforma filosofia de vida em estratégia de negócios no setor de camas e colchões de luxo"
     }
 ]
