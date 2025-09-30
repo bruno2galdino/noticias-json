@@ -7,13 +7,6 @@
         "description": "WTA 1000 de Pequim (China) – Sintético – US$ 8.963.700Duplas – Oitavas de final –Veja a chave"
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/nys-e-vasselin-vencem-toquio-e-dao-passo-importante-na-briga-pelo-finals.html",
-        "title": "Nys e Vasselin vencem Tóquio e dão passo importante na briga pelo Finals",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/nys-vasselin-toquio-trofeu-2025-1024x683.jpg",
-        "date": "30/09/2025",
-        "description": "Tóquio (Japão)– O monegasco Hugo Nys e o francês Edouard Roger-Vasselin, cabeças de chave número 2 no ATP 500 de Tóquio, derrotaram o indiano Rohan Bopanna e o japonês Takeru Yuzuki por duplo 7/5 na final desta terça-feira, e conquistaram seu primeiro título da temporada."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-e-campeao-do-atp-500-de-toquio-veja-no-resumo.html",
         "title": "Alcaraz é campeão do ATP 500 de Tóquio. Veja no resumo.",
         "image": null,
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/duda_carbone_rgjunior_fore-1024x513.jpg",
         "date": "29/09/2025",
         "description": "Santiago (Chile) –A primeira rodada do ITF J200 de Santiago teve seis vitórias de juvenis brasileiros. O destaque fica para a chave feminina com quatro vitórias nacionais."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-e-de-minaur-abrem-as-semifinais-do-atp-de-pequim-as-3h.html",
+        "title": "Sinner e De Minaur abrem as semifinais do ATP de Pequim às 3h",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/sinner_pequim_treina_toss25-1024x682.jpg",
+        "date": "29/09/2025",
+        "description": "Pequim (China) –Os finalistas do ATP 500 de Pequim serão conhecidos nesta terça-feira, com jogos marcados para às 3h e 6h (de Brasília). O destaque fica para a partida entre Jannik Sinner, número 2 do mundo e principal cabeça de chave, que enfrenta o australiano Alex de Minaur. O italiano venceu todos os dez duelos entre eles."
     }
 ]
