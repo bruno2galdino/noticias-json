@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/407449-home-office-42-vagas-para-trabalho-remoto-internacional-3009.htm",
+        "title": "Home office: 42 vagas para trabalho remoto internacional [30/09]",
+        "description": "São oportunidades em diversas áreas para quem está em busca de uma vaga no mercado de trabalho internacional; confira a lista!",
+        "image": "https://tm.ibxk.com.br/2024/09/03/03121352394243.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407461-pmes-e-a-disputa-pela-principalidade-quem-vai-liderar-o-jogo.htm",
+        "title": "PMEs e a disputa pela principalidade: quem vai liderar o jogo?",
+        "description": "As PMEs deixaram de ser coadjuvantes no sistema financeiro e estão no centro da disputa pela chamada principalidade.",
+        "image": "https://tm.ibxk.com.br/2025/09/30/Getty_Images_1485535445_fe8a0679b8.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/software/407457-openai-anuncia-sora-2-com-app-para-gerar-videos-e-audios-no-ios.htm",
+        "title": "OpenAI anuncia Sora 2 com app para gerar vídeos e áudios no iOS",
+        "description": "A versão atualizada do modelo de geração de vídeos do ChatGPT pode criar clipes ainda mais realistas e adiciona algumas restrições para melhorar a segurança.",
+        "image": "https://tm.ibxk.com.br/2025/09/30/openai_sora_1_a87801026f.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407459-7-prompts-para-ajudar-empreendedores-a-usar-inteligencia-artificial-nos-negocios.htm",
+        "title": "7  prompts para ajudar empreendedores a usar Inteligência Artificial nos negócios",
+        "description": "A IA se tornou uma ferramenta essencial, e o segredo para dominar essa tecnologia está na forma como você se comunica com ela.",
+        "image": "https://tm.ibxk.com.br/2025/09/30/Getty_Images_1498577422_f4ea788be7.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/407458-a-sinergia-entre-ia-e-apis-para-a-inovacao-nas-empresas-brasileiras.htm",
         "title": "A sinergia entre IA e APIs para a inovação nas empresas brasileiras",
         "description": "Não basta oferecer bons produtos ou serviços: é essencial contar com processos inteligentes, operações integradas e capacidade de adaptação em tempo real.",
@@ -32,27 +60,6 @@
         "title": "AliExpress traz smartwatches Amazfit com desconto e envio direto do Brasil",
         "description": "Confira agora uma seleção de ofertas em relógios inteligentes Amazfit com desconto no AliExpress e garanta opções como o Bip 5, GTS 4 e mais com estoque nacional e a preços mais baixos por tempo limitado",
         "image": "https://tm.ibxk.com.br/2025/09/18/18092734671010.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407446-google-drive-ganha-ia-que-encontra-e-bloqueia-ransomware.htm",
-        "title": "Google Drive ganha IA que encontra e bloqueia ransomware",
-        "description": "O Google Drive para desktop usa IA para detectar uma infecção por ransomware e oferece alternativas para restaurar arquivos de um ponto anterior",
-        "image": "https://tm.ibxk.com.br/2025/03/26/26094744116044.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602206-novo-filme-de-os-simpsons-e-anunciado-veja-data-e-tudo-que-sabemos.htm",
-        "title": "Novo filme de Os Simpsons é anunciado! Veja data e tudo que sabemos",
-        "description": "Os Simpsons 2 está chegando! Confira mais detalhes sobre o novo longa-metragem da Disney, que vai bater de frente com uma animação musical da Warner Bros.",
-        "image": "https://tm.ibxk.com.br/2025/09/30/Novo_Filme_Os_Simpsons_Data_Tudo_Sabemos_7fd9df1476.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407439-nova-arma-frita-ate-50-drones-de-uma-so-vez-confira-em-video.htm",
-        "title": "Nova arma 'frita' até 50 drones de uma só vez; confira em vídeo",
-        "description": "Leonidas, da fabricante Epirus, usa pulso de micro-ondas de alta potência para derrubar exército de unidades inimigas",
-        "image": "https://tm.ibxk.com.br/2025/09/30/drones_voo_interferencia_guerra_71b537157a.jpg",
         "date": null
     }
 ]
