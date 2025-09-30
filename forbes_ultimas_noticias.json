@@ -1,6 +1,20 @@
 [
     {
-        "url": "https://forbes.com.br/forbesagro/2025/09/moratoria-da-soja-cade-mantem-a-suspensao-a-partir-de-2026/",
+        "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-fecha-em-leve-queda-no-ultimo-dia-do-mes/",
+        "title": "Ibovespa Fecha em Leve Queda no Último Dia do Mês",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "30/09/2025",
+        "description": "O índice renovou a máxima histórica, mas perdeu fôlego durante a sessão"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-cast/2025/09/o-profissional-qualificado-pode-escolher-para-quem-e-de-onde-vai-trabalhar-diz-ceo-da-leao-group/",
+        "title": "Mobilidade Global: Como Brasileiros Podem Internacionalizar Carreira e Negócios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-leonardo-leao-leao-group-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Leonardo Leão fala sobre mobilidade global e as oportunidades para internacionalizar carreira, negócios e investimentos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/moratoria-da-soja-cade-mantem-a-suspensao-a-partir-de-2026-produtores-comemoram/",
         "title": "Fim da Moratória da Soja: Cade Mantém Decisão por Suspensão a partir de 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_soja_colheita_alffoto_gettyimages_30.09.2025-300x200.jpg",
         "date": "30/09/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Mari-Andreoli-300x200.jpeg",
         "date": "30/09/2025",
         "description": "Desenvolver habilidades dentro e fora das quadras é essencial para que o jovem tenista transforme disciplina e resiliência em crescimento pessoal e esportivo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/09/chinesa-zhipu-ai-diz-que-e-improvavel-que-haja-superinteligencia-artificial-completa-ate-2030/",
-        "title": "Zhipu AI Acha Improvável Superinteligência Artificial Completa até 2030",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/ai-ilustracao-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "Presidente-executivo da empresa disse que o conceito era muito vago para ser definido em um cronograma específico"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/ceo-do-itau-unibanco-espera-dividendo-adicional-relevante-no-inicio-do-ano-que-vem/",
-        "title": "CEO do Itaú Unibanco Espera \"Dividendo Adicional Relevante\" no Ano Que Vem",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Itau-jotapegui-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "Durante um evento da Itaúsa para investidores e analistas, o executivo disse que o dividendo é esperado, embora o banco não tenha uma meta específica"
     }
 ]

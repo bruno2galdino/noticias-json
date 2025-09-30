@@ -1,8 +1,15 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/407458-a-sinergia-entre-ia-e-apis-para-a-inovacao-nas-empresas-brasileiras.htm",
+        "title": "A sinergia entre IA e APIs para a inovação nas empresas brasileiras",
+        "description": "Não basta oferecer bons produtos ou serviços: é essencial contar com processos inteligentes, operações integradas e capacidade de adaptação em tempo real.",
+        "image": "https://tm.ibxk.com.br/2025/09/30/Getty_Images_1364316653_364457a282.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602209-superman-alcanca-13-milhoes-de-visualizacoes-na-hbo-max-e-ja-tem-sequencia-confirmada.htm",
-        "title": "Superman alcança 13 milhões de visualizações na HBO Max e já tem sequência confirmada",
-        "description": "O filme de James Gunn se tornou a maior estreia da plataforma desde Barbie, em 2023",
+        "title": "Superman alcança 13 milhões de visualizações na HBO Max após 10 dias",
+        "description": "O filme de James Gunn se tornou a maior estreia da plataforma desde Barbie, em 2023, com sequência já confirmada",
         "image": "https://tm.ibxk.com.br/2025/09/30/Superman_grupo_d6d5caac72.png",
         "date": null
     },
@@ -46,20 +53,6 @@
         "title": "Nova arma 'frita' até 50 drones de uma só vez; confira em vídeo",
         "description": "Leonidas, da fabricante Epirus, usa pulso de micro-ondas de alta potência para derrubar exército de unidades inimigas",
         "image": "https://tm.ibxk.com.br/2025/09/30/drones_voo_interferencia_guerra_71b537157a.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/407452-echo-amazon-lanca-mais-4-dispositivos-com-alexa-a-partir-de-r-850.htm",
-        "title": "Echo: Amazon lança mais 4 dispositivos com Alexa a partir de R$ 850",
-        "description": "Nova linha de dispositivos conta com 4 produtos que prometem significativa melhor no sistema sonoro.",
-        "image": "https://tm.ibxk.com.br/2025/09/30/echo_echo_show_capa_4a7981a379.png",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407442-china-condena-a-morte-chefes-de-grupo-cibercriminoso-em-mianmar.htm",
-        "title": "China condena à morte chefes de grupo cibercriminoso em Mianmar",
-        "description": "O grupo que havia sido detido por acusações de fraude, tráfico humano e assassinato, chegou a ter 10 mil pessoas trabalhando na aplicação dos golpes.",
-        "image": "https://tm.ibxk.com.br/2025/09/30/china_condena_quadrilha_de_golpes_online_c4d27b87a2.jpg",
         "date": null
     }
 ]
