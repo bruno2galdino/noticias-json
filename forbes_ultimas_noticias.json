@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-setembro-se-encerra-com-dados-de-emprego-no-brasil-e-nos-eua/",
+        "title": "Pré-mercado: Setembro se Encerra com Dados de Emprego no Brasil e nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "30/09/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 30 de setembro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/09/olivia-dean-a-nova-voz-britanica-que-conquistou-o-mundo/",
         "title": "Olivia Dean: a Nova Voz Britânica Que Conquistou o Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/olivia-dean-300x200.jpg",
@@ -12,6 +19,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cafe_29set25__Martial-Colomb_Getty-1-300x200.jpg",
         "date": "30/09/2025",
         "description": "Dois deputados, um Republicano e outro Democrata, apresentaram o projeto bipartidário “No Coffee Tax Act” para derrubar imediatamente as tarifas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2025/09/cmo-do-inter-detalha-nova-fase-de-campanha-que-se-propoe-a-facilitar-a-comunicacao-financeira/",
+        "title": "CMO do Inter Explica Nova Fase de Posicionamento Focada em Leveza na Comunicação Financeira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Andrea_Inter-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Andrea Nocciolini destaca a importância de uma abordagem leve para um tema que ainda é desafiador para os brasileiros"
     },
     {
         "url": "https://forbes.com.br/carreira/2025/09/como-usar-a-nova-funcao-de-assistente-pessoal-do-chatgpt/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/3-11-300x200.png",
         "date": "30/09/2025",
         "description": "Anjo Tintas impulsiona expansão com nova fábrica e foco em aquisições"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/soja-acelera-mas-clima-freia-plantio-no-brasil-bate-32-e-produtores-se-preparam-para-a-seca-no-centro-oeste/",
-        "title": "Plantio no Brasil Bate 3,2% e Produtores se Preparam Para a Seca no Centro-Oeste",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_soja_colheita_29.09.2025-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "O plantio de soja 2025/26 no Brasil alcançou 3,2% da área, um avanço significativo em relação aos 2% registrados no ano passado, puxado por Paraná e Mato Grosso"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/australia-rouba-fatia-dos-eua-no-mercado-bilionario-de-carne-da-china-pos-trump/",
-        "title": "Austrália Rouba Fatia dos EUA no Mercado Bilionário de Carne da China Pós-Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_bovinos_australia_29.09.2025-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "A China substituiu a carne bovina dos EUA pela australiana após o retorno de Donald Trump, devido à expiração de licenças e ao tarifaço, desviando centenas de milhões de dólares do setor pecuário americano"
     }
 ]
