@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2025/09/olivia-dean-a-nova-voz-britanica-que-conquistou-o-mundo/",
+        "title": "Olivia Dean: a Nova Voz Britânica Que Conquistou o Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/olivia-dean-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Aos 26 anos, artista vive um marco da carreira com o hit “Man I Need”, que chegou ao Top 4 global do Spotify"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/preco-do-cafe-dispara-nos-eua-e-congressistas-querem-passar-por-cima-de-trump/",
+        "title": "Preço do Café Dispara nos EUA e Congressistas Querem Passar por Cima de Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cafe_29set25__Martial-Colomb_Getty-1-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Dois deputados, um Republicano e outro Democrata, apresentaram o projeto bipartidário “No Coffee Tax Act” para derrubar imediatamente as tarifas"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/como-usar-a-nova-funcao-de-assistente-pessoal-do-chatgpt/",
+        "title": "Como a Nova Função do ChatGPT Pode Otimizar Sua Rotina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-inteligencia-artificial-chatgpt-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Capaz de antecipar necessidades, Pulse opera enquanto você dorme e é o recurso favorito do fundador da OpenAI"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2025/09/forbes-brasil-reune-c-levels-de-agencias-de-publicidade-para-discutir-negocios-e-carreira/",
+        "title": "Forbes Brasil Reúne C-Levels de Agências de Publicidade para Discutir Negócios e Carreira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/BEYCREAT-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "O Beyond Creativity inaugura uma nova plataforma dentro de Forbes MKT para acompanhar as lideranças publicitárias brasileiras"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/os-segredos-da-empresa-que-criou-o-colchao-de-us-750-mil/",
+        "title": "Os Segredos da Empresa Que Criou o Colchão de US$ 750 Mil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.O-Grande-Vividus-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Marca sueca Hästens, hoje presente em 50 países, transforma filosofia de vida em estratégia de negócios no setor de camas e colchões de luxo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/09/entenda-por-que-a-meta-vai-adotar-assinaturas-pagas-do-instagram-e-facebook-no-reino-unido/",
+        "title": "Entenda por Que a Meta Vai Adotar Assinaturas Pagas do Instagram e Facebook no Reino Unido",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/01/tech-instagram-ferramenta-19jan23-GettyImages-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "A empresa encara a decisão como uma forma de dar aos usuários escolha clara sobre o uso de seus dados para publicidade personalizada em acordo com o Information Commissioner's Office (ICO)"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/09/concorrencia-a-vista-novas-bolsas-desafiam-hegemonia-da-b3/",
+        "title": "Concorrência À Vista: Novas Bolsas Desafiam Hegemonia da B3",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-22-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Saiba como estão se estruturando cada uma das plataformas que pretendem fazer frente à bolsa oficial"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/09/informecial-anjo-tintas-crescimento-acelerado-com-ambicao-bilionaria/",
+        "title": "Anjo Tintas impulsiona expansão com nova fábrica e foco em aquisições",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/3-11-300x200.png",
+        "date": "30/09/2025",
+        "description": "Anjo Tintas impulsiona expansão com nova fábrica e foco em aquisições"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/09/soja-acelera-mas-clima-freia-plantio-no-brasil-bate-32-e-produtores-se-preparam-para-a-seca-no-centro-oeste/",
         "title": "Plantio no Brasil Bate 3,2% e Produtores se Preparam Para a Seca no Centro-Oeste",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_soja_colheita_29.09.2025-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_bovinos_australia_29.09.2025-300x200.jpg",
         "date": "29/09/2025",
         "description": "A China substituiu a carne bovina dos EUA pela australiana após o retorno de Donald Trump, devido à expiração de licenças e ao tarifaço, desviando centenas de milhões de dólares do setor pecuário americano"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/brasileiro-esta-bebendo-menos-cafe-aponta-pesquisa/",
-        "title": "Brasileiro Está Bebendo Menos Café, Aponta Pesquisa da Abic",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cafe_29set25__Martial-Colomb_Getty-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "Inflação e safras frustradas mudam o comportamento de compra, com consumidores migrando para opções mais baratas e reduzindo a frequência em cafeterias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-nao-sustenta-recorde-mas-fecha-no-positivo/",
-        "title": "Ibovespa Não Sustenta Recorde, Mas Fecha no Positivo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "29/09/2025",
-        "description": "O índice perdeu força com movimentos de realização de lucros e a queda das ações da Petrobras"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/vinhaca-do-etanol-vira-produto-de-alto-valor-e-oferece-solucao-inedita-para-monitoramento-hidrico/",
-        "title": "Pesquisadores Brasileiros Transformam Vinhaça do Etanol em Detector de Metais Tóxicos na Água",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_estudo_vinhaca_cana-de-acucar_Divulgacao_29.09.2025-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "A inovação oferece uma destinação sustentável para o resíduo da produção de etanol no Brasil, que gera até 15 litros de vinhaça por litro de combustível, mitigando seu impacto ambiental"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2025/09/resiliencia-e-equilibrio-como-a-cmo-da-totvs-lida-com-os-desafios-de-transformacao-da-carreira/",
-        "title": "Como a CMO da Totvs Lida com os Desafios de Transformação da Carreira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Forbes_Marketing_CMO_Diana-Rodrigues_Totvs-300x200.png",
-        "date": "29/09/2025",
-        "description": "Em participação no podcast Forbes MKT, Diana Rodrigues, CMO da Totvs, fala sobre o desafio de construção de marca B2B e os impactos da tecnologia no marketing e nos negócios"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/trump-promete-taxar-em-100-filmes-produzidos-fora-dos-eua/",
-        "title": "Trump Promete Taxar em 100% Filmes Produzidos Fora dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/08/tech-hollywood-ia-16Ago23-GettyImages-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "\"É como roubar doce de um bebê\", diz o presidente ao justificar nova taxa; ações da Netflix caíram 1,5% no início do pregão"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/09/stellantis-nomeia-brasileiro-joao-laranjo-para-vice-presidencia-financeira/",
-        "title": "Stellantis Nomeia Brasileiro João Laranjo para Vice-Presidência Financeira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Stellantis-nomeia-brasileiro-Joao-Laranjo-para-vice-presidencia-financeira-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "Executivo vai suceder Doug Ostermann, que se demitiu por motivos pessoais, informou a empresa"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/nova-planta-de-biometano-da-cocal-impulsiona-sua-ambicao-de-ser-a-1a-usina-net-zero-do-setor/",
-        "title": "Cocal Inaugura 2ª usina de Biometano e Mira o Status Inédito de 1ª 'Net Zero' do Setor",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cocal_usina_biometano_paraguacu_paulista_foto_Rodrigo-Paiva-Cocal_29.09.2025-4-300x200.jpg",
-        "date": "29/09/2025",
-        "description": "A Cocal investiu R$ 216 milhões em parceria com o BNDES para a nova planta em Paraguaçu Paulista, que produzirá até 60 mil m³/dia de biometano a partir de resíduos da cana e esterco animal"
-    },
-    {
-        "url": "https://forbes.com.br/last/2025/09/openai-trara-controles-parentais-ao-chatgpt-apos-suicidio-de-adolescente/",
-        "title": "OpenAI Trará Controles Parentais Ao ChatGPT após Suicídio de Adolescente",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/openai-chatgpt-agentes-300x200.png",
-        "date": "29/09/2025",
-        "description": "Empresa disse que os controles permitirão que pais e adolescentes vinculem contas para garantir maior proteção"
     }
 ]
