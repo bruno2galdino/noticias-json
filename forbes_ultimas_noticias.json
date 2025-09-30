@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/09/excesso-de-energia-limpa-atrai-mineradoras-de-criptomoedas-ao-brasil/",
+        "title": "Excesso de Energia Limpa Atrai Mineradoras de Criptomoedas Ao Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/2025-09-30T103500Z_1_LYNXNPEL8T0F5_RTROPTP_4_ELETROBRAS-PRIVATISATION-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "No Brasil, a mineração de criptomoedas pode transformar o excesso de energia limpa em oportunidade econômica"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/09/por-que-o-ceo-do-spotify-vai-deixar-o-cargo-apos-quase-duas-decadas/",
+        "title": "Por Que o CEO do Spotify Vai Deixar o Cargo após Quase Duas Décadas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/ceo-spotify-daniel-ek-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Daniel Ek passará a atuar como presidente executivo em janeiro de 2026; empresa anunciou Gustav Soderstrom e Alex Norstrom como novos co-CEOs"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/metanol-saiba-o-que-e-a-substancia-presente-em-bebida-adulterada/",
+        "title": "Metanol: Saiba o Que É a Substância Presente em Bebida Adulterada",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/metanol-300x200.webp",
+        "date": "30/09/2025",
+        "description": "Casos de intoxicação e morte foram identificados em São Paulo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/09/amazon-echo-nova-familia-prioriza-experiencia-e-design/",
         "title": "Amazon Apresenta as Alexas \"Mais Inteligentes\" Desde que a Tecnologia Foi Criada",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Alexa-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/WEG-300x200.png",
         "date": "30/09/2025",
         "description": "A expectativa é que o projeto crie aproximadamente 1.000 novos empregos diretos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/09/pre-mercado-setembro-se-encerra-com-dados-de-emprego-no-brasil-e-nos-eua/",
-        "title": "Pré-mercado: Setembro se Encerra com Dados de Emprego no Brasil e nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "30/09/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 30 de setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/09/olivia-dean-a-nova-voz-britanica-que-conquistou-o-mundo/",
-        "title": "Quem é Olivia Dean, uma das Cantoras Mais Ouvidas Atualmente",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/olivia-dean-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "Aos 26 anos, artista vive um marco da carreira com o hit “Man I Need”, que chegou ao Top 4 global do Spotify"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/09/preco-do-cafe-dispara-nos-eua-e-congressistas-querem-passar-por-cima-de-trump/",
-        "title": "Preço do Café Dispara nos EUA e Congressistas Querem Passar por Cima de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cafe_29set25__Martial-Colomb_Getty-1-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "Dois deputados, um Republicano e outro Democrata, apresentaram o projeto bipartidário “No Coffee Tax Act” para derrubar imediatamente as tarifas"
     }
 ]
