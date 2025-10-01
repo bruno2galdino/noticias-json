@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/listas/bilionarios-brasileiros-2025/",
+        "title": "Lista Forbes de Bilionários Brasileiros – Edição 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Capa-Bilionarios-ago25-1500x1000-1-300x200.jpeg",
+        "date": "30/09/2025",
+        "description": "Confira as personalidades relacionadas na nova edição da Lista Forbes Bilionários Brasileiros."
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/09/forbes-mulher-agro-pontos-que-nao-podem-ser-negligenciados-na-complexa-sucessao-em-empresas-familiares/",
+        "title": "Pontos Que Não Podem Ser Negligenciados na Complexa Sucessão em Empresas Familiares",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_familias_sucessao_produtores_agricultura_29set25__StockSeller_ukr_Getty-300x200.jpg",
+        "date": "30/09/2025",
+        "description": "Como os desafios nessa fase de transição de poder pode determinar a perenidade dos negócios"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/09/ibovespa-fecha-em-leve-queda-no-ultimo-dia-do-mes/",
         "title": "Ibovespa Fecha em Leve Queda no Último Dia do Mês",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Colecao-de-moletons-da-marca-de-Kai-Trump-300x200.jpg",
         "date": "30/09/2025",
         "description": "Vendidos a US$ 130, Kai Trump, que também é influenciadora, promove os produtos em fotos tiradas na Casa Branca"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/09/nalimo-participa-da-runway-vision-em-paris/",
-        "title": "Ativista Indígena Estreia na Passarela de Paris",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Day-Molina-no-encerramento-do-desfile-da-Nalimo-na-Runway-Vision-300x200.jpg",
-        "date": "30/09/2025",
-        "description": "Day Molina apresentou sua marca Nalimo na segunda edição da Runway Vision, evento paralelo à agenda oficial da Paris Fashion Week"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-collab/2025/09/saude-mental-desde-a-base-caminhos-para-um-tenis-juvenil-sustentavel/",
-        "title": "Saúde Mental desde a Base: Caminhos para um Tênis Juvenil Sustentável",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Mari-Andreoli-300x200.jpeg",
-        "date": "30/09/2025",
-        "description": "Desenvolver habilidades dentro e fora das quadras é essencial para que o jovem tenista transforme disciplina e resiliência em crescimento pessoal e esportivo"
     }
 ]
