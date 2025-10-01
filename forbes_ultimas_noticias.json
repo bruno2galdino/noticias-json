@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-fecha-em-queda-no-primeiro-pregao-de-outubro/",
+        "title": "Ibovespa Fecha em Queda no Primeiro Pregão de Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "01/10/2025",
+        "description": "Após oscilar abaixo dos R$ 5,30 pela manhã, o dólar se recuperou ante o real e terminou o dia em leve alta"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/ucrania-aumenta-area-de-trigo-de-inverno-em-9-e-projeta-mais-receita/",
         "title": "Ucrânia Aumenta Área de Trigo de Inverno em 9% e Projeta Mais Receita",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_trigo_foto_Reuters_01.10.2025-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-300x200.jpg",
         "date": "01/10/2025",
         "description": "As autoridades disseram que agiram de acordo com as suspeitas levantadas pela Fundação Gala-Salvador Dalí, o órgão encarregado de proteger o legado do artista"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/entregas-de-acucar-bruto-na-bolsa-ice-somam-152-milhoes-de-toneladas/",
-        "title": "Entregas de Açúcar Bruto na Bolsa ICE Somam 1,52 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_lavoura_cana_de_acucar_wenderson-araujo-Trilux-CNA_25.09.2025-300x200.jpg",
-        "date": "01/10/2025",
-        "description": "A maior parte do insumo a ser entregue será embarcado nos portos brasileiros de Santos e Paranaguá"
     }
 ]
