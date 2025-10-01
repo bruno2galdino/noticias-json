@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/10/policia-italiana-invade-exposicao-de-dali-e-diz-que-obras-expostas-sao-falsas/",
+        "title": "Polícia Italiana Invade Exposição de Dalí e Diz Que Obras Expostas São Falsas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-300x200.jpg",
+        "date": "01/10/2025",
+        "description": "As autoridades disseram que agiram de acordo com as suspeitas levantadas pela Fundação Gala-Salvador Dalí, o órgão encarregado de proteger o legado do artista"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/entregas-de-acucar-bruto-na-bolsa-ice-somam-152-milhoes-de-toneladas/",
+        "title": "Entregas de Açúcar Bruto na Bolsa ICE Somam 1,52 Milhões de Toneladas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_lavoura_cana_de_acucar_wenderson-araujo-Trilux-CNA_25.09.2025-300x200.jpg",
+        "date": "01/10/2025",
+        "description": "A maior parte do insumo a ser entregue será embarcado nos portos brasileiros de Santos e Paranaguá"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/soja-vive-crise-historica-nos-eua-sem-a-china-saiba-fica-o-mapa-do-grao-no-mundo/",
         "title": "Soja: Sem China, Produtor Americano Amarga Crise Histórica de Margem",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_colheita_americana_foto_Thomas_Barwick-gettyimages_01.10.2025-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-usp-melhores-universidades-1-300x200.jpg",
         "date": "01/10/2025",
         "description": "Após dois anos no topo, a instituição paulista foi ultrapassada pela Pontifícia Universidade Católica do Chile; veja o top 10"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/dom-perignon-lanca-edicao-artsy-com-takashi-murakami/",
-        "title": "Dom Pérignon Lança Edição Artsy com Takashi Murakami",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Life_Don-Perignon-e-Murakami-300x200.jpg",
-        "date": "01/10/2025",
-        "description": "Design do icônico artista japonês estampa dois rótulos Vintage da maison, em edição limitada a 100 unidades no Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/americanas-aceita-proposta-para-venda-da-uni-co-por-r-1529-milhoes/",
-        "title": "Americanas Aceita Proposta para Venda da Uni.Co por R$ 152,9 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Loja-da-Americanas-Foto-Americanas-Divulgacao-300x200.png",
-        "date": "01/10/2025",
-        "description": "Processo dependerá de processo competitivo, em que a BandUP! precisará sair como vencedora"
     }
 ]
