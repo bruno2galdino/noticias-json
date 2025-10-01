@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407493-hackers-utilizam-falso-teams-para-ter-acesso-remoto-a-computadores.htm",
+        "title": "Hackers utilizam falso Teams para ter acesso remoto a computadores",
+        "description": "Falso instalador do Microsoft Teams infecta PCs com backdoor, permitindo que criminosos executem comandos e roubem arquivos.",
+        "image": "https://tm.ibxk.com.br/2025/10/01/teams_fake_malware_ff897474f4.png",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407494-allianz-life-confirma-vazamento-de-quase-15-milhao-de-pessoas.htm",
+        "title": "Allianz Life confirma vazamento de quase 1,5 milhão de pessoas",
+        "description": "A Allianz Life confirmou que os dados de 1,5 milhão de pessoas foram comprometidos no vazamento de julho.",
+        "image": "https://tm.ibxk.com.br/2025/07/28/28145240222050.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502471-microsoft-store-tem-jogos-de-xbox-com-ate-90-off.htm",
+        "title": "Microsoft Store tem jogos de Xbox com até 90% OFF",
+        "description": "Confira agora as principais ofertas em jogos para Xbox na Microsoft Store nesta semana e aproveite preços mais baixos em títulos como Dragon Ball: Sparking! Zero, Death Stranding Director's Cut e Sea of Stars, entre outros",
+        "image": "https://tm.ibxk.com.br/2025/10/01/dragon_ball_sparking_zero_promocoes_xbox_1000x400_7ce8cb8566.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/produto/407488-lg-dual-inverter-voice-portatil-o-ar-condicionado-portatil-ideal-review.htm",
         "title": "LG Dual Inverter Voice portátil: o ar condicionado portátil ideal? [Review]",
         "description": "Após dois anos, o LG Dual Inverter Voice portátil apresenta pontos positivos e negativos bem específicos.",
@@ -18,20 +39,6 @@
         "title": "Página de cancelamento do Xbox Game Pass cai após novos preços de até R$ 120",
         "description": "Mudanças no Game Pass, novo estúdio da Ubisoft e mais! Confira as principais notícias de games do Voxel",
         "image": "https://tm.ibxk.com.br/2025/10/01/game_pass_xbox_22a4b12ea1.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/407489-celular-de-tres-telas-da-samsung-deve-aparecer-em-evento-na-asia.htm",
-        "title": "Celular de três telas da Samsung deve aparecer em evento na Ásia",
-        "description": "Anúncio oficial pode acontecer no fim do mês, mas é possível que o lançamento fique restrito para a Ásia, por enquanto.",
-        "image": "https://tm.ibxk.com.br/2025/09/10/10111740890159.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407490-lei-magnitsky-swift-e-cripto-moedas.htm",
-        "title": "Lei Magnitsky, SWIFT e criptomoedas",
-        "description": "As sanções financeiras do sistema tradicional perdem força frente ao poder da descentralização das criptomoedas.",
-        "image": "https://tm.ibxk.com.br/2025/10/01/Getty_Images_919509810_562e88e18c.jpg",
         "date": null
     }
 ]
