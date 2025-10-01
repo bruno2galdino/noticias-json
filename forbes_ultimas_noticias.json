@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/elon-musk-chega-a-us-500-bilhoes-e-renova-o-proprio-recorde/",
+        "title": "Elon Musk Chega a US$ 500 Bilhões e Renova o Próprio Recorde",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Elon-Musk-os-dez-mais-ricos-bilionarios-Money-300x200.png",
+        "date": "01/10/2025",
+        "description": "Dono da Tesla e Space-X está agora na metade do caminho para se tornar o primeiro trilionário"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-fecha-em-queda-no-primeiro-pregao-de-outubro/",
         "title": "Ibovespa Fecha em Queda no Primeiro Pregão de Outubro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
@@ -15,7 +22,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/10/shutdown-nos-eua-e-os-possiveis-impactos-para-o-brasil-com-a-paralisacao/",
-        "title": "Shutdown nos EUA e os Possíveis Impactos para o Brasil com a Paralisação",
+        "title": "Shutdown nos EUA e os Possíveis Impactos para o Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-1536x1024-1-e1654788080105-300x200.jpg",
         "date": "01/10/2025",
         "description": "Embora seja uma hipótese remota, continuidade do impasse pode levar investidores estrangeiros a retirar capital de mercados emergentes"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Kopenhagem-grupo-crm-Renata-Vichi-300x200.jpg",
         "date": "01/10/2025",
         "description": "Fernando Vichi, atual diretor de operações do Grupo CRM, sucede a executiva a partir de janeiro"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/10/policia-italiana-invade-exposicao-de-dali-e-diz-que-obras-expostas-sao-falsas/",
-        "title": "Polícia Italiana Invade Exposição de Dalí e Diz Que Obras Expostas São Falsas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-300x200.jpg",
-        "date": "01/10/2025",
-        "description": "As autoridades disseram que agiram de acordo com as suspeitas levantadas pela Fundação Gala-Salvador Dalí, o órgão encarregado de proteger o legado do artista"
     }
 ]
