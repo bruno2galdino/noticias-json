@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/entenda-as-estrategias-da-openai-para-competir-com-o-tiktok-em-videos-curtos/",
+        "title": "Entenda as Estratégias da OpenAI para Competir com o TikTok em Vídeos Curtos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/openai-chatgpt-agentes-300x200.png",
+        "date": "01/10/2025",
+        "description": "Apesar da semelhança com uma rede social, todo o conteúdo será produzido por inteligência artificial e também com a plataforma Sora"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/shutdown-nos-eua-entenda-como-paralisacao-ocorreu-e-quem-e-afetado/",
+        "title": "Shutdown nos EUA: Entenda Como Paralisação Ocorreu e Quem É Afetado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/trump-300x200.png",
+        "date": "01/10/2025",
+        "description": "Interrupções nas viagens aéreas e ferroviárias, juntamente com o fechamento de pontos turísticos, podem custar à economia cerca de US$ 1 bilhão"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-o-governo-americano-suspende-as-atividades-e-agora/",
+        "title": "Pré-mercado: o Governo Americano Suspende as Atividades, e Agora?",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "01/10/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 01 de outubro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/infomercial-portonave-santa-catarina-impulsiona-exportacoes-brasileiras/",
         "title": "Santa Catarina Impulsiona Exportações Brasileiras",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-16-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/RPH09125-1-300x200.jpg",
         "date": "01/10/2025",
         "description": "A ideia é ter uma vertical exclusiva capaz de atender as demandas de wealth managers e family offices e ampliar o alcance dentro do segmento de alta renda"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/saiba-se-e-hora-de-atualizar-o-iphone-para-o-apple-ios-26-0-1/",
-        "title": "Saiba se é Hora de Atualizar o iPhone para o Apple iOS 26.0.1",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/iPhone-17-Slim-300x200.png",
-        "date": "01/10/2025",
-        "description": "O novo ciclo de software funciona para todos os iPhones a partir de 2019, isso inclui os modelos iPhone 11, iPhone 11 Pro e iPhone 1 Pro Max"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/bluestone-lane-corre-por-fora-no-jogo-das-redes-globais-de-cafeterias-e-grao-do-brasil-esta-no-jogo/",
-        "title": "Bluestone Lane Corre por Fora no Jogo das Redes Globais de Cafeterias e Grão do Brasil Está no Jogo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Nicholas-Stone_29set25__BL_Divulg-300x200.jpg",
-        "date": "01/10/2025",
-        "description": "Saiba o que planeja Nicholas Stone, fundador e atual presidente da rede, que diz não prestar muita atenção em nomes como Starbucks, por exemplo"
-    },
-    {
-        "url": "https://forbes.com.br/listas/bilionarios-brasileiros-2025/",
-        "title": "Lista Forbes de Bilionários Brasileiros – Edição 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Capa-Bilionarios-ago25-1500x1000-1-300x200.jpeg",
-        "date": "30/09/2025",
-        "description": "Confira as personalidades relacionadas na nova edição da Lista Forbes Bilionários Brasileiros."
     }
 ]
