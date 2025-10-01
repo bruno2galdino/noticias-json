@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-01-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/fullana_back_25_rcl.jpg",
+        "date": "01/10/2025",
+        "description": "Challenger de Braga (Portugal) – Saibro – 91.250 eurosDuplas – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-conquista-o-bi-em-pequim-e-iguala-marca-de-djokovic-e-nadal.html",
+        "title": "Sinner conquista o bi em Pequim e iguala marca de Djokovic e Nadal",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sinner-pequim-trofeu-2025-1024x683.jpg",
+        "date": "01/10/2025",
+        "description": "Pequim (China)– Amplo favorito na final desta quarta-feira no ATP 500 de Pequim, o italiano Jannik Sinner não decepcionou e derrotou o jovem norte-americano Learner Tien, que disputava a primeira decisão da carreira em nível ATP, com parciais de 6/2 e 6/2, precisando de 73 minutos para garantir o bicampeonato."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/pietra-vence-mais-uma-em-santiago-e-avanca-as-quartas.html",
         "title": "Pietra vence mais uma em Santiago e avança às quartas",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/pietra_pinheiros_back.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/gauff_pequim25_r3_back-1024x683.jpg",
         "date": "30/09/2025",
         "description": "Pequim (China) –Classificada para as quartas de final do WTA 1000 de Pequim e atual campeã do torneio, Coco Gauff avalia que o calendário do circuito poderia ser menos desgastante para as jogadoras, especialmente por conta do aumento nos torneios de duas semanas. A número 3 do mundo também argumenta que a estrutura do circuito limita as opções que as atletas têm de construir o próprio calendário."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/carol-bohrer-vence-em-el-salvador-victoria-barros-joga-na-croacia.html",
-        "title": "Carol Bohrer vence em El Salvador, Victória Barros joga na Croácia",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/bohrer_leme_back.jpg",
-        "date": "30/09/2025",
-        "description": "Santa Tecla (El Salvador) –A catarinense de 18 anos Carolina Bohrer estreou com vitória no ITF W15 de Santa Tecla, em quadras duras de El Salvador. Ela superou a convidada local Susana Souhrada por 6/2 e 6/0."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/reis-e-o-unico-brasileiro-a-avancar-em-challenger-no-chile.html",
-        "title": "Reis é o único brasileiro a avançar em challenger no Chile",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/joao_lreis_bonn_saque-1024x665.jpg",
-        "date": "30/09/2025",
-        "description": "Antofagasta (Chile) –Em rodada com três brasileiros em quadra, o pernambucano João Lucas Reis foi o único a avançar no challenger de Antofagasta, em quadras de saibro no Chile. Já Matheus Pucinelli e Pedro Boscardin foram eliminados na estreia do torneio, que distribui US$ 100 mil, com 75 pontos ao campeão."
     }
 ]
