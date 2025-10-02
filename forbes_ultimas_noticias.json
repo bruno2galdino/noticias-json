@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/acoes-da-samsung-disparam-apos-acordo-com-a-openai/",
+        "title": "Ações da Samsung Disparam após Acordo com a OpenAI",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Chips-samsung-openai-300x200.png",
+        "date": "02/10/2025",
+        "description": "O anúncio da parceria, feito na noite de quarta-feira, levou as ações da sul-coreana ao nível mais alto em mais de quatro anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/nova-edicao-da-forbeslife-fashion-explora-inovacao-e-tradicao-com-brasileiras-notaveis-na-capa/",
+        "title": "Nova Edição da ForbesLife Fashion Explora Inovação e Tradição com Brasileiras Notáveis na Capa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.ForbesLife-Fashion-300x200.jpg",
+        "date": "02/10/2025",
+        "description": "Com três capas diferentes, edição 9 da revista está disponível no aplicativo da Forbes Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/coluna/2025/10/isencao-do-ir-a-r-5-mil-a-balanca-entre-a-justica-social-e-risco-fiscal/",
+        "title": "Isenção do IR a R$ 5 Mil: a Balança entre a Justiça Social e Risco Fiscal",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-25-300x200.jpg",
+        "date": "02/10/2025",
+        "description": "Analisar esta decisão exige que se coloque os prós e os contras lado a lado"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/jbs-volta-ao-paraguai-com-investimento-de-us-70-mi-em-frangos-incluindo-aquisicao/",
         "title": "JBS Volta Ao Paraguai com Investimento de US$ 70 Mi em Frangos, Incluindo Aquisição",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Agro_JBS_EUA_6JUN2025_DivulgacaoJBS-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_colheita_no_Brasil_foto_Flavio_Benedito_Conceicao-gettyimages_01.10.2025-300x200.jpg",
         "date": "02/10/2025",
         "description": "O crescimento de mais de 5% na produção se deve às expectativas de aumento da área plantada"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/unica-aponta-perda-da-competitividade-do-acucar-ante-etanol-no-interior-do-brasil/",
-        "title": "Unica Aponta Perda da Competitividade do Açúcar ante Etanol no Interior do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-02T142743Z_1_LYNXNPEL910MJ_RTROPTP_4_GLOBAL-SUGAR-300x200.jpg",
-        "date": "02/10/2025",
-        "description": "Centro-sul do Brasil produziu 3,87 milhões de toneladas de açúcar na segunda metade de agosto"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/eua-apoiarao-produtores-de-soja-e-anuncio-sera-feito-na-terca-diz-secretario-do-tesouro/",
-        "title": "EUA Apoiarão Produtores de Soja e Anúncio Será Feito na Terça, Diz Secretário do Tesouro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-02T124328Z_1_LYNXNPEL910IL_RTROPTP_4_COMMODS-EUA-BESSENT-SOJA-300x200.jpg",
-        "date": "02/10/2025",
-        "description": "Agronegócio dos EUA manteve apoio a Trump nas eleições de 2024, afirma Bessent"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/10/india-e-china-retomarao-voos-diretos-apos-congelamento-de-cinco-anos/",
-        "title": "Índia e China Retomarão Voos Diretos após Congelamento de 5 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/china-india-300x200.jpg",
-        "date": "02/10/2025",
-        "description": "Maior operadora da Índia disse que iniciaria voos diários sem escalas entre Calcutá e Guangzhou em 26 de outubro"
     }
 ]

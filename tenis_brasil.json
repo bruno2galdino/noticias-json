@@ -1,10 +1,38 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-02-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pedretti_paineiras25_rebate-1024x683.jpg",
+        "date": "02/10/2025",
+        "description": "WTA 1000 de Pequim (China) – Sintético – US$ 8.963.700Duplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/duelo-entre-pegula-e-navarro-vai-fechar-as-quartas-de-pequim-as-7h.html",
+        "title": "Duelo entre Pegula e Navarro vai fechar as quartas de Pequim às 7h",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/navarrro_pequim_fore-1024x683.jpg",
+        "date": "02/10/2025",
+        "description": "Pequim (China) –As duas últimas semifinalistas do WTA 1000 de Pequim serão conhecidas nesta sexta-feira. Após as classificações de Coco Gauff e Amanda Anisimova nesta quinta, é certo que outra norte-americana estará na próxima fase. Isso porque Jessica Pegula e Emma Navarro se enfrentam às 7h (de Brasília)."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/carol-vence-de-virada-e-consegue-revanche-contra-nana-em-sp.html",
+        "title": "Carol vence de virada e consegue revanche contra Naná em SP",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/carol_meligeni_paineiras_back-1024x683.jpg",
+        "date": "02/10/2025",
+        "description": "São Paulo (SP) –No encontro entre duas jogadoras brasileiras, Carol Meligeni levou a melhor Nauhany Silva e avançou às quartas de final do Torneio Internacional Feminino de Tênis – Ano IX, evento de nível W35 com entrada gratuita no clube Paineiras do Morumby. Apesar de ter começado atrás no placar, a atual número 3 do Brasil e 250ª do mundo marcou as parciais de 6/7 (5-7), 6/4 e 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sexta-feira-em-xangai-tem-estreia-de-djokovic-e-de-brasileiros-nas-duplas.html",
+        "title": "Sexta-feira em Xangai tem estreia de Djokovic e de brasileiros nas duplas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli_uso_sozinho.jpg",
+        "date": "02/10/2025",
+        "description": "Xangai (China)– O terceiro dia de disputa na chave principal do Masters 1000 de Xangai terá a estreia de alguns dos cabeças de chave, que entram direto na segunda rodada, com destaque para o duelo do sérvo Novak Djokovic, quarto pré-classificado, com o croata Marin Cilic, marcado para acontecer às 7h30 (horário de Brasília)."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/reis-conta-com-desistencia-e-avanca-as-quartas-em-antofagasta.html",
         "title": "Reis conta com desistência e avança às quartas em Antofagasta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/reis-santafe-rebate-2025-e1749938100709-1024x683.jpg",
         "date": "02/10/2025",
-        "description": "Antofagasta (Chile) –O pernambucano João Lucas Reis sequer precisou entrar em quadra nesta quinta-feira para avançar às quartas de final do challenger de Antofagasta, em quadras de saibro no Chile. Ele foi beneficiado pela desistência do experiente argentino de 35 anos Facundo Bagnis. O torneio ainda não informou o motivo da desistência, mas o argentino teve um longo afastamento recente por lesão no joelho."
+        "description": "Antofagasta (Chile) –O pernambucano João Lucas Reis sequer precisou entrar em quadra nesta quinta-feira para avançar às quartas de final do challenger de Antofagasta, em quadras de saibro no Chile. Ele foi beneficiado pela desistência do experiente argentino de 35 anos Facundo Bagnis, por lesão no adutor."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/sinner-sabe-que-nao-e-o-unico-que-esta-buscando-evoluir-no-circuito.html",
@@ -12,13 +40,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sinner-autografos-xangai-2025-e1759426704162-1024x683.jpg",
         "date": "02/10/2025",
         "description": "Xangai (China)– Destronado da liderança do ranking após a derrota para Carlos Alcaraz na final do US Open, o italiano Jannik Sinner analisou com sua equipe o que precisava melhorar para tentar voltar ao topo da ATP e vem trabalhando para isso. Contudo, ele sabe também que não é o único que tem tais aspirações."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-02-10.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quinta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pedretti_paineiras25_rebate-1024x683.jpg",
-        "date": "02/10/2025",
-        "description": "WTA 1000 de Pequim (China) – Sintético – US$ 8.963.700Duplas – Quartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/victoria-vence-mais-uma-na-croacia-e-ja-esta-nas-quartas-de-final.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/shang-xangai-vibra-2025.png",
         "date": "02/10/2025",
         "description": "Xangai (China)– Principais nomes do primeiro quadrante da chave do Masters 1000 de Xangai após a desistência do espanhol Carlos Alcaraz, o australiano Alex de Minaur e os russos Daniil Medvedev e Karen Khachanov conheceram nesta quinta-feira seus adversários de estreia na competição."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/raquete-do-1o-titulo-de-alcaraz-em-wimbledon-deve-bater-recorde-em-leilao.html",
-        "title": "Raquete do 1º título de Alcaraz em Wimbledon deve bater recorde em leilão",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/alcaraz_wimby_semi2023_raquete.jpg",
-        "date": "02/10/2025",
-        "description": "Long Island (EUA)– Carlos Alcaraz, dono de seis títulos de Grand Slam desde 2022, vem se destacando nos leilões, com itens sendo comprados a preços recordes. A bola do match-point de sua vitória no US Open de 2025 sobre Jannik Sinner foi vendida por US$ 88.900 em setembro, quase 10 vezes o recorde anterior para uma bola de tênis."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/proxima-grande-corrida-dos-slam-alcaraz-sinner-e-a-nova-ordem-do-tenis-masculino.html",
-        "title": "Próxima grande corrida dos Slam: Alcaraz, Sinner e a nova ordem do tênis masculino",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/sinner_alcaraz_uso25_antes-1024x576.jpg",
-        "date": "02/10/2025",
-        "description": "Por Gabe Jaramillo *Especial para TenisBrasil"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/anisimova-busca-virada-sobre-paolini-e-garante-semifinal-100-americana.html",
-        "title": "Anisimova busca virada sobre Paolini e garante semifinal 100% americana",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/anisimova-pequim-fore-2025-scaled-e1759414480650-1024x684.jpg",
-        "date": "02/10/2025",
-        "description": "Pequim (China)– Na segunda partida das quartas de final no WTA 1000 de Pequim, entre duas tenistas do top 10, Amanda Anisimova e Jasmine Paolini protagonizaram uma batalha maravilhosa de três sets. No final, a norte-americana cabeça de chave número 3 levou a melhor sobre a italiana, sexta favorita, de virada, com parciais de 6/7 (4-7), 6/3 e 6/4."
     }
 ]
