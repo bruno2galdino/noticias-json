@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407505-malware-se-esconde-em-arquivos-zip-para-roubar-dados.htm",
+        "title": "Malware se esconde em arquivos zip para roubar dados",
+        "description": "Arquivos se passam por documentos interessantes para as vítimas, mas são agentes maliciosos que controlam PCs remotamente",
+        "image": "https://tm.ibxk.com.br/2025/09/03/03185648971094.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/407511-starlink-tem-caminho-aberto-para-chegar-aos-celulares-no-brasil.htm",
+        "title": "Starlink tem caminho aberto para chegar aos celulares no Brasil",
+        "description": "A Anatel simplificou as regras para oferta de serviços por satélite e facilitou a busca por autorização para atuar no país",
+        "image": "https://tm.ibxk.com.br/2025/04/09/09120056933229.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/407507-beneficiarios-de-programas-sociais-nao-podem-mais-apostar-em-bets-no-brasil.htm",
+        "title": "Beneficiários de programas sociais não podem mais apostar em bets no Brasil",
+        "description": "Nova medida do Ministério da Fazenda envolve contas ainda não criadas e usuários já cadastrados; saiba o que é permitido.",
+        "image": "https://tm.ibxk.com.br/2025/07/24/24201412164006.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602220-elon-musk-boicota-netflix-por-causa-de-serie-animada-antiga-e-cancelada-entenda.htm",
         "title": "Elon Musk boicota Netflix por causa de série animada antiga e cancelada! Entenda",
         "description": "Na rede social X, Elon Musk iniciou uma cruzada contra uma animação da Netflix, cancelada há anos, e pediu boicotes contra o streaming. Entenda a situação",
@@ -18,27 +39,6 @@
         "title": "Death Stranding 2, Mario Kart e mais jogos em oferta na Amazon; aproveite",
         "description": "Aproveite preços mais baixos em diversos jogos em mídia física para consoles Nintendo e PlayStation na Amazon e economize na diversão com games para Switch, Switch 2, PS4 e PS5 com desconto por tempo limitado",
         "image": "https://tm.ibxk.com.br/2025/10/01/Death_Stranding_2_1000x400_619ba121d3.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502473-amazon-anuncia-fim-do-prime-gaming-entenda-o-que-muda.htm",
-        "title": "Amazon anuncia fim do Prime Gaming! Entenda o que muda",
-        "description": "A Amazon anunciou que deixará o modelo atual do Prime Gaming de lado para focar no Amazon Luna. Entenda como isso afeta os jogos grátis mensais no Brasil.",
-        "image": "https://tm.ibxk.com.br/2025/10/02/JOGOS_PRIME_GAMING_548d39522e.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/407510-oportunidade-galaxy-fit-3-por-apenas-r226-no-mercado-livre.htm",
-        "title": "Oportunidade: Galaxy Fit 3 por apenas R$226 no Mercado Livre",
-        "description": "Galaxy Fit 3 com tela AMOLED, até 13 dias de bateria e mais de 100 exercícios monitorados por apenas R$226 no Mercado Livre!",
-        "image": "https://tm.ibxk.com.br/2025/07/02/02155753097146.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407502-kit-spamgpt-permite-que-qualquer-pessoa-dispare-spam-feitos-por-ia.htm",
-        "title": "Kit 'SpamGPT' permite que qualquer pessoa dispare spam feitos por IA",
-        "description": "Descoberta em distribuição no mundo do cibercrime, o app SpamGPT permite que hackers iniciantes disparem e-mails elaborados por IA com facilidade",
-        "image": "https://tm.ibxk.com.br/2025/03/06/06143506652436.jpg",
         "date": null
     }
 ]
