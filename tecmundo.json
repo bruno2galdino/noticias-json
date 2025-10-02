@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/voxel/502472-xbox-game-pass-muda-conversao-de-assinatura-cartoes-presente-e-rewards-apos-aumentos.htm",
+        "title": "Xbox Game Pass muda conversão de assinatura, cartões-presente e Rewards após aumentos",
+        "description": "Custando até R$ 120, o Xbox Game Pass agora conta também com limitações no programa de recompensas Microsoft Rewards, bem como novas taxas de conversão de gift-cards",
+        "image": "https://tm.ibxk.com.br/2025/10/02/game_pass_conversao_pc_649399e679.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/407497-mercado-livre-aumenta-combate-contra-produtos-falsificados-e-nao-autorizados.htm",
+        "title": "Mercado Livre aumenta combate contra produtos falsificados e não autorizados",
+        "description": "Relatório aponta que 99% das infrações da plataforma na primeira metade de 2025 foram detectadas pelo próprio sistema",
+        "image": "https://tm.ibxk.com.br/2025/10/02/caixa_mercado_livre_portugues_entrega_74482f8ffc.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/internet/407498-sora-2-ia-para-videos-da-dona-do-chagpt-vira-terror-dos-direitos-autorais.htm",
         "title": "Sora 2: IA para vídeos da dona do ChaGPT vira terror dos direitos autorais",
         "description": "Plataforma da mesma dona do ChatGPT permite criações envolvendo grandes franquias e até com o rosto do CEO",
@@ -39,20 +53,6 @@
         "title": "Spotify agora permite excluir do seu perfil músicas que você não gosta",
         "description": "O Spotify ganhou um botão para indicar quando uma música não condiz com seu gosto musical.",
         "image": "https://tm.ibxk.com.br/2025/04/16/16162706625004.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407495-ifood-volta-a-fazer-entrega-por-drones-no-brasil.htm",
-        "title": "iFood volta a fazer entrega por drones no Brasil",
-        "description": "Operação tem capacidade de realizar até 280 pedidos por dia.",
-        "image": "https://tm.ibxk.com.br/2025/10/01/ifood_drone_f1d27e6686.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407493-hackers-utilizam-falso-teams-para-ter-acesso-remoto-a-computadores.htm",
-        "title": "Hackers utilizam falso Teams para ter acesso remoto a computadores",
-        "description": "Falso instalador do Microsoft Teams infecta PCs com backdoor, permitindo que criminosos executem comandos e roubem arquivos.",
-        "image": "https://tm.ibxk.com.br/2025/10/01/teams_fake_malware_ff897474f4.png",
         "date": null
     }
 ]
