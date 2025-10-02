@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-fecha-em-baixa-de-mais-de-1-com-receio-fiscal/",
+        "title": "Ibovespa Fecha em Baixa de Mais de 1% com Receio Fiscal",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "02/10/2025",
+        "description": "Dólar termina o dia em alta, acompanhando o avanço da moeda norte-americana no exterior após a paralisação parcial do governo dos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/filha-da-vaca-mais-cara-do-mundo-sera-leiloada-em-acao-beneficente/",
+        "title": "Bezerra Nelore Que Levantou R$ 3 Milhões para o RS Vai a Leilão em SP",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_Nelore_Esfinge_FIV_Napemo_02.10.2025-300x200.jpg",
+        "date": "02/10/2025",
+        "description": "A bezerra carrega a genética da supercampeã Viatina-19 FIV Mara Móveis e do reprodutor Asttuto IFV BRUM"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/10/acoes-da-samsung-disparam-apos-acordo-com-a-openai/",
         "title": "Ações da Samsung Disparam após Acordo com a OpenAI",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Chips-samsung-openai-300x200.png",
@@ -28,7 +42,7 @@
         "description": "O anúncio foi feito durante visita do presidente paraguaio, Santiago Peña, à unidade da Seara, subsidiária da JBS, situada em Dourados (MS)"
     },
     {
-        "url": "https://forbes.com.br/forbessaude/2025/10/demencia-por-corpos-de-lewy-conheca-a-condicao-que-afeta-milton-nascimento/",
+        "url": "https://forbes.com.br/geral/2025/10/demencia-por-corpos-de-lewy-conheca-a-condicao-que-afeta-milton-nascimento/",
         "title": "Demência por Corpos de Lewy: Conheça a Condição Que Afeta Milton Nascimento",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Milton-Nascimento-300x200.png",
         "date": "02/10/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Colecao-de-estreia-de-Jonathan-Anderson-para-a-Dior-verao-2026-na-Paris-Fashion-Week-300x200.jpg",
         "date": "02/10/2025",
         "description": "Estreia (aguardada) do novo diretor criativo tem aceno aos clássicos da maison com novo shape"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/google-diz-que-hackers-estao-enviando-emails-de-extorsao-para-executivos/",
-        "title": "Google Diz Que Hackers Estão Enviando Emails de Extorsão para Executivos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/forbes-carreira-google-300x200.jpg",
-        "date": "02/10/2025",
-        "description": "Hackers estariam alegando ter roubado dados confidenciais de aplicativos de negócios fornecidos pela Oracle"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/soja-a-caminho-de-novo-recorde-historico-consultoria-preve-1786-milhoes-de-toneladas/",
-        "title": "Soja Brasileira: StoneX Eleva Previsão para 178,6 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_colheita_no_Brasil_foto_Flavio_Benedito_Conceicao-gettyimages_01.10.2025-300x200.jpg",
-        "date": "02/10/2025",
-        "description": "O crescimento de mais de 5% na produção se deve às expectativas de aumento da área plantada"
     }
 ]

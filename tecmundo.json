@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/internet/407513-operadoras-brasileiras-ganham-premio-de-5g-mais-rapido-do-mundo.htm",
+        "title": "Operadoras brasileiras ganham prêmio de 5G mais rápido do mundo",
+        "description": "Uma operadora brasileira alcançou a maior velocidade do 5G entre os países de grande porte, com média de 362,1 Mbps.",
+        "image": "https://tm.ibxk.com.br/2025/10/02/operadoras_brasileiras_velocidade_5g_2_3b0175e42d.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602218-disney-tem-grandes-lancamentos-em-outubro-veja-a-lista-de-estreias-do-streaming.htm",
+        "title": "Disney+ tem grandes lançamentos em outubro! Veja a lista de estreias do streaming",
+        "description": "A Disney+ traz a nova versão de The Voice e várias séries de destaque em seu catálogo de outubro",
+        "image": "https://tm.ibxk.com.br/2025/10/01/Disney_Estreias_Outubro_2025_Streaming_b8a7b86f5f.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602223-que-horas-estreia-a-oitava-temporada-de-my-hero-academia-veja-o-que-esperar.htm",
         "title": "Que horas estreia a oitava temporada de My Hero Academia? Veja o que esperar",
         "description": "Os fãs brasileiros de My Hero Academia vão acompanhar seu final de forma simultânea ao Japão",
@@ -39,13 +53,6 @@
         "title": "US$ 500 bilhões: OpenAI se torna a startup mais valiosa do mundo",
         "description": "A dona do ChatGPT alcançou um novo valor de mercado após a venda de US$ 6,6 bilhões em ações para diferentes investidores.",
         "image": "https://tm.ibxk.com.br/2025/10/02/openai_valor_de_mercado_5defbd2385.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602222-netflix-anuncia-sequencia-de-peaky-blinders-saiba-tudo-sobre-a-serie.htm",
-        "title": "Netflix anuncia sequência de Peaky Blinders! Saiba tudo sobre a série",
-        "description": "Segundo o streaming, a continuação de Peaky Blinders já tem pelo menos duas temporadas garantidas! Confira o que esperar da produção",
-        "image": "https://tm.ibxk.com.br/2025/10/02/Netflix_Sequencia_Peaky_Blinders_Duas_Temporadas_8872e59c40.jpg",
         "date": null
     }
 ]
