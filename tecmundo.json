@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/celular/407523-xiaomi-15t-e-xiaomi-15t-pro-sao-lancados-no-brasil-a-partir-de-r-75-mil.htm",
+        "title": "Xiaomi 15T e Xiaomi 15T Pro são lançados no Brasil a partir de R$ 7,5 mil",
+        "description": "Os novos celulares da Xiaomi também trazem um recurso que permite fazer ligações mesmo sem sinal de celular disponível.",
+        "image": "https://tm.ibxk.com.br/2025/10/02/xiaomi_15t_15t_pro_brasil_5c57dca339.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502478-playstation-family-e-o-app-de-controle-parental-do-ps4-e-ps5-veja-como-usar.htm",
+        "title": "PlayStation Family é o app de controle parental do PS4 e PS5! Veja como usar",
+        "description": "Confira como funciona a novidade, que já está disponível para baixar e promete trazer mais segurança para crianças em games.",
+        "image": "https://tm.ibxk.com.br/2025/10/02/LOGO_PS_FAMILY_APP_717cc69da1.png",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/internet/407513-operadoras-brasileiras-ganham-premio-de-5g-mais-rapido-do-mundo.htm",
         "title": "Operadoras brasileiras ganham prêmio de 5G mais rápido do mundo",
         "description": "Uma operadora brasileira alcançou a maior velocidade do 5G entre os países de grande porte, com média de 362,1 Mbps.",
@@ -39,20 +53,6 @@
         "title": "Smart TVs Samsung, TCL, LG e mais com desconto no Magazine Luiza",
         "description": "Aproveite preços mais baixos em smart TVs entre 32\" e 85\" no Magalu e garanta imagens de qualidade pagando bem menos por tempo limitado",
         "image": "https://tm.ibxk.com.br/2025/10/02/Smart_TV_55_TCL_4_K_UHD_QLED_55_P7_K_960x640_a338784a12.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/407508-apple-pode-ter-atrasado-vision-air-para-focar-nos-oculos-inteligentes.htm",
-        "title": "Apple pode ter atrasado Vision Air para focar nos óculos inteligentes",
-        "description": "A Apple teria realocado funcionários responsáveis pelo projeto do Vision Air para focar no desenvolvimento do seu óculos inteligente.",
-        "image": "https://tm.ibxk.com.br/2025/09/23/23100231205043.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407517-us-500-bilhoes-openai-se-torna-a-startup-mais-valiosa-do-mundo.htm",
-        "title": "US$ 500 bilhões: OpenAI se torna a startup mais valiosa do mundo",
-        "description": "A dona do ChatGPT alcançou um novo valor de mercado após a venda de US$ 6,6 bilhões em ações para diferentes investidores.",
-        "image": "https://tm.ibxk.com.br/2025/10/02/openai_valor_de_mercado_5defbd2385.jpg",
         "date": null
     }
 ]
