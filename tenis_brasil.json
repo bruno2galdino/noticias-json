@@ -1,10 +1,24 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/bublik-perde-em-outra-estreia-ruud-desiste-em-xangai.html",
-        "title": "Bublik perde em outra estreia, Ruud desiste em Xangai",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/bergs-xangai-rebate-2025-1024x683.jpg",
+        "url": "https://tenisbrasil.uol.com.br/ex-top-20-derrota-victoria-nas-quartas-de-final-na-croacia.html",
+        "title": "Ex-top 20 derrota Victória nas quartas de final na Croácia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/victoria-spopen-devolve-2025-1024x683.jpg",
         "date": "03/10/2025",
-        "description": "Xangai (China)– Campeão no ATP 250 de Hangzhou no começo da temporada asiática, o cazaque Alexander Bublik sofreu nesta sexta-feira sua segunda derrota consecutiva de estreia em torneios de maior porte."
+        "description": "Sibenik (Croácia) – Terminou nesta sexta-feira a campanha da potiguar Victória Barros no saibro do W15 de Sibenik, superada nas quartas de final pela cabeça de chave 4 e ex-top 20 Ana Konjuh. A tenista da casa fez valer sua maior experiência e derrotou a brasileira de apenas 15 anos em três sets, com parciais de 7/5, 4/6 e 6/1, em 2h17 de batalha."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/nadal-e-homenageado-com-o-titulo-de-doutor-honoris-causa-em-salamanca.html",
+        "title": "Nadal recebe o título de doutor honoris causa da Universidade de Salamanca",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Nadal_honoris-causa2.jpg",
+        "date": "03/10/2025",
+        "description": "Salamanca (Espanha) –Nadal se tornou, nesta sexta-feira, o primeiro atleta a receber um título de doutor honorário da Universidade de Salamanca por seus valores no esporte, como resiliência, disciplina e compromisso social."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fritz-evita-mais-uma-surpresa-e-vence-de-virada-na-estreia.html",
+        "title": "Fritz evita mais uma surpresa e vence de virada na estreia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/fritz-toquio-acena-2025-e1759003095633-1024x684.jpg",
+        "date": "03/10/2025",
+        "description": "Xangai (China)– Em uma jornada nada boa para os favoritos norte-americanos no Masters 1000 de Xangai, com as quedas de Ben Shelton e Frances Tiafoe, por pouco Taylor Fritz não seguiu o mesmo caminho. Nesta sexta-feira, ele saiu perdendo do húngaro Fabian  Marozsan, mas buscou a virada e fechou o jogo com parciais de 2/6, 7/6 (7-4) e 7/6 (7-1)."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-03-10.html",
@@ -12,6 +26,27 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sakamoto_salvador_estica-1024x682.jpg",
         "date": "03/10/2025",
         "description": "Masters 1000 de Xangai (China) – Sintético – US$ 9.193.538Duplas – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/volta-do-sauipe-ao-calendario-tem-wild-monteiro-e-quatro-top-100.html",
+        "title": "Volta do Sauípe ao calendário tem Wild, Monteiro e quatro top 100",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/monteiro-wild-olimpiadas-2024-1024x683.jpg",
+        "date": "03/10/2025",
+        "description": "Costa do Sauípe (BA)– O retorno da Costa do Sauípe ao circuito profissional acontecerá entre os dias 20 e 26 de outubro e já conta com a lista de jogadores inscritos. Serão quatro top 100 na disputa do challenger local, além da presença dos brasileiros Thiago Wild e Thiago Monteiro."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-descerra-sua-versao-de-guerreiro-de-terracota-mais-forte-que-eu.html",
+        "title": "Sinner descerra sua versão de guerreiro terracota: “Mais forte que eu”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sinner_guerreiro_selfie-1.jpg",
+        "date": "03/10/2025",
+        "description": "Xangai (China) –O QiZhong Tennis Centre, onde se realiza o Masters 1000 de Xangai, apresentou nesta quinta-feira ao italiano Jannik Sinner, campeão da edição passada, a estátua que o representará em sua galeria de campeões retratados como os Guerreiros de Xian ou Guerreiros de Terracota. O torneio de Xangai é o único Masters 1000 disputado fora da América do Norte e Europa."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bublik-perde-em-outra-estreia-ruud-desiste-em-xangai.html",
+        "title": "Bublik perde em outra estreia, Ruud desiste em Xangai",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/bergs-xangai-rebate-2025-1024x683.jpg",
+        "date": "03/10/2025",
+        "description": "Xangai (China)– Campeão no ATP 250 de Hangzhou no começo da temporada asiática, o cazaque Alexander Bublik sofreu nesta sexta-feira sua segunda derrota consecutiva de estreia em torneios de maior porte."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/fonseca-consegue-entrar-direto-na-chave-do-masters-1000-de-paris.html",
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/alcaraz-toquio-sorri-2025-e1759240073191-1024x683.jpg",
         "date": "03/10/2025",
         "description": "Londres (Inglaterra)– O título conquistado em Tóquio valerá mais um bônus milionário para o espanhol Carlos Alcaraz. Segundo a ATP, o espanhol garantiu a condição de tenista com melhor desempenho nos torneios de nível ATP 500 e assim receberá pelo menos US$ 1 milhão de premiação extra."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-derrota-cilic-pela-20a-vez-e-alcanca-recorde-em-masters-1000.html",
-        "title": "Djokovic derrota Cilic pela 20ª vez e alcança recorde em Masters 1000",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/djokovic-shanghai-2025-friday-1-e1759498526401-1024x682.jpg",
-        "date": "03/10/2025",
-        "description": "Xangai (China)– Na partida com a maior idade combinada entre os dois rivais da história dos Masters 1000, criados em 1990, o sérvio Novak Djokovic fez valer a freguesia para cima de Marin Cilic e pela 20ª vez derrotou o croata, superando sua estreia em Xangai com parciais de 7/6 (7-2) e 6/4, depois de 1h55 de confronto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/shelton-nao-passa-por-goffin-tien-estreia-bem-em-xangai.html",
-        "title": "Shelton não passa por Goffin, Tien estreia bem em Xangai",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/goffin-e1759495704452-1024x682.jpg",
-        "date": "03/10/2025",
-        "description": "Xangai (China)– O retorno do norte-americano Ben Shelton ao circuito não foi satisfatório. O número 7 do mundo não conseguiu passar de sua estreia no Masters 1000 de Xangai, ao ser eliminado pelo experiente belga David Goffin, com parciais de 6/2 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/romboli-melo-e-matos-nao-passam-da-estreia-nas-duplas-em-xangai.html",
-        "title": "Romboli, Melo e Matos não passam da estreia nas duplas em Xangai",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/romboli-pavlasek-xangai-2025-e1759501510464-1024x683.jpg",
-        "date": "03/10/2025",
-        "description": "Xangai (China)– Três brasileiros entraram em quadra nesta madrugada pela primeira rodada de duplas do Masters 1000 de Xangai e todos acabaram eliminados. Destaque para o gaúcho Rafael Matos, que conseguiu uma vaga de última hora ao lado do uruguaio Ariel Behar, mas acabou superado pelos cabeças de chave 1 Marcelo Arevalo e Mate Pavic por 6/4 e 7/5."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/itf-define-os-16-classificados-para-o-junior-finals-em-chengdu.html",
-        "title": "ITF define os 16 classificados para o Junior Finals em Chengdu",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/klugman_rg_saque.jpg",
-        "date": "02/10/2025",
-        "description": "Chengdu (China) –A Federação Internacional de Tênis definiu os 16 juvenis classificados para o ITF World Tennis Tour Junior Finals, que será disputado entre os dias 22 e 26 de outubro na cidade chinesa de Chengdu."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pietra-rivoli-e-leonardo-storck-vao-as-semis-no-juvenil-em-santiago.html",
-        "title": "Pietra Rivoli e Leonardo Storck vão às semis no juvenil em Santiago",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/pietra_spopen_term-1024x683.jpg",
-        "date": "02/10/2025",
-        "description": "Santiago (Chile) –O Brasil terá dois representantes nas semifinais do ITF J200 de Santiago, em quadras de saibro. O mato-grossense Leonardo Storck avançou no torneio masculino, enquanto a gaúcha Pietra Rivoli segue na disputa feminina."
     }
 ]
