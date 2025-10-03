@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2025/10/igreja-da-inglaterra-nomeia-1a-mulher-arcebispa-de-canterbury/",
+        "title": "Igreja da Inglaterra Nomeia 1ª Mulher Arcebispa de Canterbury",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T150310Z_1_LYNXNPEL920OA_RTROPTP_4_RELIGION-BRITAIN-CANTERBURY-300x200.jpg",
+        "date": "03/10/2025",
+        "description": "Defensora de bênçãos a casais do mesmo sexo, Mullally enfrenta resistência em partes conservadoras da Comunhão Anglicana"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/data-centers-no-espaco-jeff-bezos-acredita-que-e-possivel/",
+        "title": "Data Centers no Espaço? Jeff Bezos Acredita Que É Possível",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T150357Z_1_LYNXNPEL920OB_RTROPTP_4_TECH-DATACENTERS-ESPACO-BEZOS-300x200.jpg",
+        "date": "03/10/2025",
+        "description": "A expansão dos data centers intensifica o consumo de energia e água para sustentar a era da IA e da computação em nuvem"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/venda-da-empresa-do-call-of-dutty-e-de-outras-que-superam-o-pib-do-paraguai/",
+        "title": "Venda da Empresa do Call of Duty e de Outras Gigantes que Superam o PIB do Paraguai",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-4-300x200.png",
+        "date": "03/10/2025",
+        "description": "País passa vive momento de projeções mais otimistas, com o banco central esperando crescimento de 4,4%"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/precos-mundiais-dos-alimentos-caem-com-acucar-e-laticinios-compensando-alta-da-carne/",
         "title": "Preços Mundiais dos Alimentos Caem com Açúcar e Laticínios Compensando Alta da Carne",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Agro_DesperdicioDeAlimentos_15MAI2025_Getty-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-lojas-quero-quero-300x200.jpg",
         "date": "03/10/2025",
         "description": "A troca na liderança segue a prática interna de rotação após cinco anos de exercício da função"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/producao-industrial-sobe-08-em-agosto-mas-recua-frente-a-2024/",
-        "title": "Produção Industrial Sobe 0,8% em Agosto, Mas Recua Frente a 2024",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/10/producao-industrial_ForbesMoney-300x200.jpg",
-        "date": "03/10/2025",
-        "description": "Avanço superou as expectativas do mercado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/inadimplencia-nos-cartoes-cresce-e-indica-dificuldades-na-recuperacao-do-credito/",
-        "title": "Inadimplência nos Cartões Cresce e Indica Dificuldades na Recuperação do Crédito",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/04/Mastercard-300x200.png",
-        "date": "03/10/2025",
-        "description": "Pesquisa da Serasa Experian mostra aumento nos atrasos; isso, e os juros elevados, vêm tornando os bancos mais cautelosos na concessão de empréstimos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/chuvas-elevam-produtividade-do-trigo-argentino-a-niveis-proximos-de-recorde/",
-        "title": "Trigo: Bolsa Argentina Eleva Previsão de Safra Próxima a Recorde Histórico",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_colheita_trigo_foto_REUTERS-Sergey_Pivovarov_03.10.2025-300x200.jpg",
-        "date": "03/10/2025",
-        "description": "As reservas hídricas são benéficas para 80% do cereal que está em estágios avançados de desenvolvimento"
     }
 ]
