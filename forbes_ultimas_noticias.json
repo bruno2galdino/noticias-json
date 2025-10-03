@@ -21,13 +21,6 @@
         "description": "Dólar termina o dia em alta, acompanhando o avanço da moeda norte-americana no exterior após a paralisação parcial do governo dos EUA"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/10/filha-da-vaca-mais-cara-do-mundo-sera-leiloada-em-acao-beneficente/",
-        "title": "Bezerra Nelore Que Levantou R$ 3 Milhões para o RS Vai a Leilão em SP",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_Nelore_Esfinge_FIV_Napemo_02.10.2025-300x200.jpg",
-        "date": "02/10/2025",
-        "description": "A bezerra carrega a genética da supercampeã Viatina-19 FIV Mara Móveis e do reprodutor Asttuto IFV BRUM"
-    },
-    {
         "url": "https://forbes.com.br/forbes-tech/2025/10/acoes-da-samsung-disparam-apos-acordo-com-a-openai/",
         "title": "Ações da Samsung Disparam após Acordo com a OpenAI",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Chips-samsung-openai-300x200.png",
@@ -68,5 +61,12 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Balmain-verao-2026-Paris-Fashion-Week-300x200.jpg",
         "date": "02/10/2025",
         "description": "Com conchas, movimento e liberdade, coleção assinada por Olivier Rousteing é inspirada na praia"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/10/camara-aprova-urgencia-para-tornar-falsificacao-de-bebidas-crime-hediondo/",
+        "title": "Câmara Aprova Urgência para Tornar Falsificação de Bebidas Crime Hediondo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/3-300x200.jpg",
+        "date": "02/10/2025",
+        "description": "A mais nova vítima do metanol em bebidas é o rapper Hungria, 34, que está internado em um hospital em Brasília"
     }
 ]
