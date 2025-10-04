@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/toyota-retomara-producao-em-fabricas-de-sorocaba-e-indaiatuba-a-partir-de-3-de-novembro/",
+        "title": "Toyota Retomará Produção em Fábricas de Sorocaba e Indaiatuba a Partir de 3 de Novembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T201805Z_1_LYNXNPEL920V8_RTROPTP_4_TOYOTA-BRAZIL-300x200.jpg",
+        "date": "04/10/2025",
+        "description": "Produção será retomada com componentes importados de outras unidades da montadora no exterior"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/airbus-registra-recorde-com-entregas-em-setembro/",
+        "title": "Airbus Registra Recorde com Entregas em Setembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T231100Z_1_LYNXNPEL920YS_RTROPTP_4_AIRBUS-ENTREGAS-SETEMBRO-300x200.jpg",
+        "date": "04/10/2025",
+        "description": "Companhia deve atualizar o mercado com novos números de encomendas e entregas na próxima semana"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/10/ministerio-da-saude-registra-113-notificacoes-de-intoxicacao-por-metanol-em-5-estados-e-df/",
+        "title": "Ministério da Saúde Registra 113 Notificações de Intoxicação por Metanol em 5 Estados e DF",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/metanol-300x200.webp",
+        "date": "04/10/2025",
+        "description": "São Paulo concentra a maioria dos casos, enquanto outras ocorrências estão sob análise em diferentes estados do país"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/victoria-beckham-leva-vestidos-curtos-e-joviais-a-semana-de-moda-de-paris/",
+        "title": "Victoria Beckham Leva Vestidos Curtos e Joviais À Semana de Moda de Paris",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-04T000441Z_1_LYNXNPEL93001_RTROPTP_4_FASHION-PARIS-VICTORIA-BECKHAM-300x200.jpg",
+        "date": "04/10/2025",
+        "description": "Desfile apresentou silhuetas descontruídas, tecidos pintados e uma estética de imperfeição deliberada"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/a-cerveja-no-1-dos-eua-agora-esta-sobre-rodas-conheca-o-caminhao-tanque-juice-force/",
         "title": "A Cerveja Nº 1 dos EUA Está Animando a Torcida: Conheça o “Juice Force”",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_trad_cerveja_n1_eua_foto_New_Belgium_03.10.2025-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Ted-300x200.jpg",
         "date": "04/10/2025",
         "description": "Ted Ketterer, eleito um dos Melhores CMOs da Forbes em 2025, chegou ao país em maio de 2022 e, em Atlanta, assume a divisão do foodservice"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/5-maneiras-de-seguir-o-planejamento-financeiro-quando-a-remuneracao-e-em-acoes/",
-        "title": "Como Organizar as Finanças Quando a Remuneração É em Ações",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-300x200.png",
-        "date": "04/10/2025",
-        "description": "Manter apego emocional aos papéis da empresa em que trabalha pode ser algo arriscado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/como-a-ia-e-o-big-data-estao-impulsionando-a-proxima-onda-de-inovacao-sustentavel/",
-        "title": "Como a IA e o Big Data Estão Impulsionando a Próxima Onda de Inovação Sustentável",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_IA_Agro_29set25__Getty-1-300x200.jpg",
-        "date": "04/10/2025",
-        "description": "Tecnologias estão remodelando cadeias agrícolas e energéticas, criando previsões mais precisas, transparência ambiental e novas oportunidades de investimentos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/ticiana-villas-boas-batista-entre-design-brasileiro-e-cacau-baiano/",
-        "title": "Ticiana Villas Boas Batista: entre Design Brasileiro e Cacau Baiano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Ticiana-Villas-Boas-conversou-com-a-Forbes-sobre-sua-carreira-e-experiencias-300x200.jpg",
-        "date": "04/10/2025",
-        "description": "Ex-apresentadora de TV, hoje à frente da +55 Design e Fazenda Lealdade, ela une comunicação, empreendedorismo e raízes familiares em projetos que celebram a brasilidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/por-dentro-da-iniciativa-agressiva-da-amazon-para-fazer-com-que-policiais-usem-vigilancia-por-ia/",
-        "title": "Por Dentro da Iniciativa Agressiva da Amazon para Fazer com Que Policiais Usem Vigilância por IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/12/tech-amazon-predio-300x200.jpg",
-        "date": "04/10/2025",
-        "description": "Com uma lista crescente de parceiros, a empresa vende tecnologia de vigilância por drones com inteligência artificial, detecção de armas e centro de crimes em tempo real"
     }
 ]
