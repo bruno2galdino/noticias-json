@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/petroleo-tem-perda-semanal-de-8-com-possiveis-altas-de-oferta-da-opep/",
+        "title": "Petróleo Tem Perda Semanal de 8% com Possíveis Altas de Oferta da Opep+",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T215108Z_1_LYNXNPEL920XA_RTROPTP_4_GLOBAL-OIL-RUSSIA-300x200.jpg",
+        "date": "04/10/2025",
+        "description": "Analistas apontam que maior oferta da Opep+ e menor atividade das refinarias podem pressionar o mercado de petróleo"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/cacau-cai-para-nivel-mais-baixo-do-ano-com-inicio-da-colheita-na-africa-ocidental/",
+        "title": "Cacau Cai para Nível Mais Baixo do Ano com Início da Colheita na África Ocidental",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T220613Z_1_LYNXNPEL920XQ_RTROPTP_3_COCOA-IVORYCOAST-300x200.jpg",
+        "date": "04/10/2025",
+        "description": "Governos locais intensificam esforços para elevar a renda dos produtores e conter o contrabando de cacau"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/plantio-de-soja-no-brasil-atinge-915-da-area-diz-patria-agronegocios/",
+        "title": "Plantio de Soja no Brasil Atinge 9,15% da Área, Diz Pátria AgroNegócios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T220755Z_1_LYNXNPEL920XS_RTROPTP_4_COMMODS-SOJA-PATRIA-300x200.jpg",
+        "date": "04/10/2025",
+        "description": "Avanço do plantio supera o ritmo do ano passado e a média histórica dos últimos cinco anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/bc-publicara-regulacao-do-pix-parcelado-na-ultima-semana-de-outubro/",
+        "title": "BC Publicará Regulação do Pix Parcelado na Última Semana de Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T213411Z_1_LYNXNPEL920X1_RTROPTP_4_BRAZIL-ECONOMY-300x200.jpg",
+        "date": "04/10/2025",
+        "description": "Medida visa reforçar a segurança do sistema, permitindo o bloqueio de chaves Pix associadas a fraudes e golpes"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/toyota-retomara-producao-em-fabricas-de-sorocaba-e-indaiatuba-a-partir-de-3-de-novembro/",
         "title": "Toyota Retomará Produção em Fábricas de Sorocaba e Indaiatuba a Partir de 3 de Novembro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T201805Z_1_LYNXNPEL920V8_RTROPTP_4_TOYOTA-BRAZIL-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/960x0-1-300x200.jpg",
         "date": "04/10/2025",
         "description": "Se você sabe como seu parceiro experimenta o amor, pode parar de desperdiçar energia com os sinais errados e começar a investir naqueles que realmente importam"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/rolls-royce-entrega-carro-de-luxo-em-tributo-a-animal-de-estimacao/",
-        "title": "Rolls-Royce Entrega Carro de Luxo em Tributo a Animal de Estimação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Cruzamento-de-Golden-Retriever_Labrador-Bailey-relaxa-no-Rolls-Royce-Spectre-Bailey-construido-para-homenagea-lo-300x200.jpg",
-        "date": "04/10/2025",
-        "description": "Edição única do Spectre traz elementos criados sob medida em memória do companheiro da família"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/tramontina-chega-a-argentina-e-acelera-expansao-na-america-latina/",
-        "title": "Tramontina Chega à Argentina e Acelera Expansão na América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-6-300x200.png",
-        "date": "04/10/2025",
-        "description": "Companhia aposta em novos canais e proximidade com consumidores da região e ir além das facas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/10/bicampea-olimpica-martine-grael-lidera-equipe-na-formula-1-do-mar/",
-        "title": "Bicampeã Olímpica, Martine Grael Lidera Equipe na Fórmula 1 do Mar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Martine-Grael-1-300x200.jpg",
-        "date": "04/10/2025",
-        "description": "Primeira mulher à frente de um time no SailGP, um dos principais campeonatos mundiais de vela, atleta fala sobre liderança e legado familiar"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2025/10/de-volta-aos-eua-ex-cmo-da-coca-cola-faz-um-balanco-do-marketing-da-empresa-no-brasil/",
-        "title": "De Volta Aos EUA, Ex-CMO da Coca-Cola Faz um Balanço do Marketing da Empresa no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Ted-300x200.jpg",
-        "date": "04/10/2025",
-        "description": "Ted Ketterer, eleito um dos Melhores CMOs da Forbes em 2025, chegou ao país em maio de 2022 e, em Atlanta, assume a divisão do foodservice"
     }
 ]
