@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407542-app-de-mensagens-signal-adiciona-criptografia-contra-ataques-quanticos.htm",
+        "title": "App de mensagens Signal adiciona criptografia contra 'ataques quânticos'",
+        "description": "O novo protocolo atualizado do Signal promete mitigar os riscos de tentativas de invasão ao mensageiro usando computação quântica.",
+        "image": "https://tm.ibxk.com.br/2025/10/03/signal_criptografia_computacao_quantica_44b32c3738.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/software/407535-gemini-finalmente-chega-ao-google-home-para-gerenciar-sua-casa-inteligente.htm",
         "title": "Gemini finalmente chega ao Google Home para gerenciar sua casa inteligente",
         "description": "Os dispositivos inteligentes do Google agora interagem com os usuários usando a inteligência artificial Gemini, e não mais o Google Assistente",
@@ -53,13 +60,6 @@
         "title": "Bebida Segura: site para marcar 'bares contaminados' é criado",
         "description": "Plataforma permite reportar estabelecimentos que vendem bebidas adulteradas com metanol rapidamente; mas moderação é necessária",
         "image": "https://tm.ibxk.com.br/2025/10/03/Getty_Images_1147163066_c3eba88bc6.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/internet/407540-cerca-de-30-das-pessoas-nos-eua-ja-namoraram-uma-ia-nao-e-bem-assim.htm",
-        "title": "Cerca de 30% das pessoas nos EUA já namoraram uma IA? Não é bem assim",
-        "description": "Pesquisa que circulou em sites fala de tema sério e que já traz consequências, mas tem dados limitados e uma metodologia imprecisa",
-        "image": "https://tm.ibxk.com.br/2025/10/03/ela_filme_her_joaquin_phoenix_inteligencia_artificial_e54608d27a.jpg",
         "date": null
     }
 ]
