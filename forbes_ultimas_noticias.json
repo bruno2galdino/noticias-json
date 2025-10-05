@@ -21,6 +21,13 @@
         "description": "O “lifestyle creep” ou inflação de estilo de vida acontece quando suas despesas aumentam na mesma proporção que sua renda"
     },
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/invista-como-um-bilionario-e-com-desconto/",
+        "title": "Invista Como um Bilionário, e com Desconto",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-7-300x200.png",
+        "date": "05/10/2025",
+        "description": "Conheça este fundo de investimento britânico, de Joe Bauernfreund, que compra ações de outros fundos e holdings com desconto em relação aos seus valores de liquidação"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/o-plano-da-axsome-para-transformar-o-tratamento-de-depressao-e-alzheimer/",
         "title": "O Plano da Axsome Para Transformar o Tratamento de Depressão e Alzheimer",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-300x200.png",
@@ -36,10 +43,10 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/10/a-historia-do-valorant-game-que-colocou-a-riot-entre-gigantes-inclusive-no-brasil/",
-        "title": "A História do Valorant, Game Que Colocou a Riot entre Gigantes, Inclusive no Brasil",
+        "title": "A História de Valorant, Game Que Colocou a Riot entre Gigantes, Inclusive no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-03-as-18.23.38-300x200.png",
         "date": "05/10/2025",
-        "description": "Neste domingo, a Riot Games, empresa que também criou o League of Legends, celebra a final do seu principal torneio do jogo de tiro que já superou os 25 milhões de jogadores ativos mensais"
+        "description": "Neste domingo, a empresa que também criou o League of Legends celebra a final do seu principal torneio do jogo em primeira pessoa que já superou os 25 milhões de jogadores ativos mensais"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/10/300-joias-da-cartier-desembarcam-na-australia/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T155616Z_1_LYNXNPEL920PV_RTROPTP_4_BRAZIL-COFFEE-FLOWERING-1-300x200.jpg",
         "date": "04/10/2025",
         "description": "No Cerrado Mineiro, clima quente e ausência de irrigação aumentam preocupação com a disponibilidade de chuvas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/petroleo-tem-perda-semanal-de-8-com-possiveis-altas-de-oferta-da-opep/",
-        "title": "Petróleo Tem Perda Semanal de 8% com Possíveis Altas de Oferta da Opep+",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T215108Z_1_LYNXNPEL920XA_RTROPTP_4_GLOBAL-OIL-RUSSIA-300x200.jpg",
-        "date": "04/10/2025",
-        "description": "Analistas apontam que maior oferta da Opep+ e menor atividade das refinarias podem pressionar o mercado de petróleo"
     }
 ]
