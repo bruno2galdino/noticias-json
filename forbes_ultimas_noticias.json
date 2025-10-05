@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/conheca-o-brasileiro-que-lidera-um-dos-maiores-games-do-mundo/",
+        "title": "Conheça O Brasileiro Que Lidera um Dos Maiores Games do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Leo_Riot-300x200.png",
+        "date": "05/10/2025",
+        "description": "O mineiro Leo Faria, Head Global de Esports de Valorant, na Riot Games, migrou da consultoria para o mundo dos jogos eletrônicos; neste domingo (05), celebrou a final do Valorant Champions, em Paris"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/braskem-retira-us-1-bilhao-da-linha-de-credito-standby-para-reforcar-a-liquidez/",
+        "title": "Braskem Retira US$ 1 Bilhão da Linha de Crédito Standby para Reforçar a Liquidez",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Petroquimica-Braskem-Foto-Getty-Images-300x200.png",
+        "date": "05/10/2025",
+        "description": "Decisão reflete cautela financeira da companhia diante do enfraquecimento do setor químico mundial"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/primeiro-ministro-frances-planeja-novo-imposto-sobre-riqueza/",
+        "title": "Primeiro-Ministro Francês Planeja Novo Imposto sobre Riqueza",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/GettyImages-2158357182-300x200.jpg",
+        "date": "05/10/2025",
+        "description": "Proposta busca ampliar a contribuição das famílias mais ricas por meio da renovação de um imposto mínimo sobre a renda"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/hermes-apresenta-sutias-de-couro-e-seda-acolchoada-na-passarela-de-paris/",
+        "title": "Hermes Apresenta Sutiãs de Couro e Seda Acolchoada na Passarela de Paris",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/GettyImages-2158861704-300x200.jpg",
+        "date": "05/10/2025",
+        "description": "Grifes de luxo apostam em mudanças criativas para retomar o crescimento no mercado global"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/10/mulheres-ampliam-protagonismo-em-competicoes-equestres-e-no-mercado-western/",
         "title": "Mulheres Ampliam Protagonismo em Competições Equestres e no Mercado Western",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Maria-Paula-Maia-Carol-Rugolo-Mariana-Jubran-e-Fatiana-Ferreira-no-Haras-Raphaela-em-Tiete-SP-300x200.jpg",
@@ -22,10 +50,10 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/10/invista-como-um-bilionario-e-com-desconto/",
-        "title": "Invista Como um Bilionário, e com Desconto",
+        "title": "O Gestor Que Ganha Seguindo Bilionários",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-7-300x200.png",
         "date": "05/10/2025",
-        "description": "Conheça este fundo de investimento britânico, de Joe Bauernfreund, que compra ações de outros fundos e holdings com desconto em relação aos seus valores de liquidação"
+        "description": "Joe Bauernfreund lidera a AVI Global Trust e caça ações baratas em holdings de famílias e no Japão"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/10/o-plano-da-axsome-para-transformar-o-tratamento-de-depressao-e-alzheimer/",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_drones_29set25__Getty-1-300x200.jpg",
         "date": "05/10/2025",
         "description": "Como a convergência entre inteligência de dados, sensores e capacidade operacional redefine práticas de plantio, pulverização e colheita no campo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/a-historia-do-valorant-game-que-colocou-a-riot-entre-gigantes-inclusive-no-brasil/",
-        "title": "A História de Valorant, Game Que Colocou a Riot entre Gigantes, Inclusive no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Valorant-300x200.jpg",
-        "date": "05/10/2025",
-        "description": "Neste domingo, a empresa que também criou o League of Legends celebra a final do seu principal torneio do jogo em primeira pessoa que já superou os 25 milhões de jogadores ativos mensais"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/300-joias-da-cartier-desembarcam-na-australia/",
-        "title": "300 Joias da Cartier Chegam Ao NGV de Melbourne, nos Estados Unidos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.A-exposicao-da-Colecao-Cartier-esta-no-Museu-VA-de-Londres-desde-abril-de-2025-e-agora-sera-emprestada-ao-NGV-de-Melbourne-300x200.jpg",
-        "date": "05/10/2025",
-        "description": "Peças icônicas da grife francesa, declara pelo rei Eduardo VII como “a joalheria dos reis e o rei das joalherias” em 1904, estarão em exibição como parte do Melbourne Winter Masterpieces de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2025/10/morre-sergio-amado-icone-da-publicidade-brasileira/",
-        "title": "Morre Sérgio Amado, Ícone da Publicidade Brasileira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/SergioAmado-jan208-divulgacao-300x200.webp",
-        "date": "04/10/2025",
-        "description": "Jornalista de formação, ele presidiu o Grupo Ogilvy por mais de 20 anos e foi um dos conselheiros de Martin Sorrell"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/cafe-de-mg-ve-floradas-para-safra-2026-e-produtores-aguardam-mais-chuvas-para-pegamento/",
-        "title": "Café de MG Vê Floradas para Safra 2026 e Produtores Aguardam Mais Chuvas para Pegamento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-03T155616Z_1_LYNXNPEL920PV_RTROPTP_4_BRAZIL-COFFEE-FLOWERING-1-300x200.jpg",
-        "date": "04/10/2025",
-        "description": "No Cerrado Mineiro, clima quente e ausência de irrigação aumentam preocupação com a disponibilidade de chuvas"
     }
 ]
