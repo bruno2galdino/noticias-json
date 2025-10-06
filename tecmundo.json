@@ -1,23 +1,30 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/407575-tela-oled-ficou-mais-barata-de-produzir-mas-tvs-vao-continuar-caras.htm",
+        "title": "Tela OLED ficou mais barata de produzir, mas TVs vão continuar caras",
+        "description": "Preços envolvidos na produção de displays OLED caíram exponencialmente nos últimos cinco anos, mas o preço das TVs não deve cair assim",
+        "image": "https://tm.ibxk.com.br/2025/10/06/TV_SAMSUNG_f825fbf5d0.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407587-apple-lanca-ios-261-beta-com-novos-idiomas-para-o-apple-intelligence.htm",
+        "title": "Apple lança iOS 26.1 Beta com novos idiomas para o Apple Intelligence",
+        "description": "Versão beta do sistema operacional adiciona também um slider para desligar seus alarmes.",
+        "image": "https://tm.ibxk.com.br/2025/09/26/ios_26_apple_iphone_atualizacoes_funcoes_3_e2352f40c6.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602245-com-hulu-e-the-voice-disney-quer-bater-netflix-e-virar-maior-streaming-do-brasil.htm",
+        "title": "Com Hulu e The Voice, Disney+ quer bater Netflix e virar maior streaming do Brasil",
+        "description": "Apostando em programação ao vivo e diversidade, o Disney+ possui um desejo ambicioso: ser o destino diário dos brasileiros no streaming. Confira a entrevista.",
+        "image": "https://tm.ibxk.com.br/2025/10/06/disney_plus_entrevista_4ea49f620a.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/407571-apple-e-investigada-na-franca-por-gravacoes-feitas-pela-siri.htm",
         "title": "Apple é investigada na França por gravações feitas pela Siri",
         "description": "A Apple teria escutado interações entre usuários e a assistente de voz sem autorização, prática que ajuda a refinar as respostas da tecnologia.",
         "image": "https://tm.ibxk.com.br/2025/10/06/apple_processo_franca_siri_803b5641b0.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502506-review-pac-man-world-2-re-pac-e-um-remake-que-entrega-mais-do-que-se-espera.htm",
-        "title": "Review: Pac-Man World 2 Re-Pac é um remake que entrega mais do que se espera",
-        "description": "Confira a análise completa do novo jogo do icônico personagem dos videogames",
-        "image": "https://tm.ibxk.com.br/2025/10/06/pac_man_2_super_review_f510833f14.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407572-danca-das-cadeiras-na-apple-chefe-de-hardware-ganha-forca-como-proximo-ceo.htm",
-        "title": "'Dança das cadeiras' na Apple: chefe de hardware ganha força como próximo CEO",
-        "description": "Chefe de hardware, John Ternus desponta como favorito para suceder Tim Cook caso saídas e aposentadorias se concretizem",
-        "image": "https://tm.ibxk.com.br/2025/10/06/tim_cook_apple_apresentacao_95eb64f3eb.jpg",
         "date": null
     }
 ]
