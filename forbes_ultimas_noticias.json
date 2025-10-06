@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/colunas/2025/10/congresso-precisa-conhecer-melhor-as-reais-demandas-da-saude/",
+        "title": "Congresso Precisa Conhecer Melhor as Reais Demandas da Saúde",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/GettyImages-2081556563-300x200.jpg",
+        "date": "06/10/2025",
+        "description": "Propostas sem efeito prático ou que ferem a lei acabam sendo puro desperdício de energia"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/sp-500-e-nasdaq-sobem-com-foco-em-acordo-entre-amd-e-openai/",
         "title": "S&P 500 e Nasdaq Sobem com Foco em Acordo entre AMD e OpenAI",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-1536x1024-1-e1654788080105-300x200.jpg",
@@ -8,10 +15,10 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/10/lula-conversa-com-trump-e-pede-fim-de-tarifaco/",
-        "title": "Lula Conversa com Trump e Pede Fim de Tarifaço",
+        "title": "Trump diz que Conversa com Lula foi Ótima e Que Países se Darão Muito Bem",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-10-1-300x200.png",
         "date": "06/10/2025",
-        "description": "\"Gostei da conversa — nossos países se darão muito bem juntos\", disse Trump após falar com brasileiro"
+        "description": "Brasileiro sugeriu que encontro entre os mandatários fosse realizado Cúpula da Asean, na Malásia, prevista para o dia 26 de outubro"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/10/os-itens-indispensaveis-para-o-verao-2026-segundo-a-chloe/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Bruno-Astuto-e-Bryanboy-300x200.jpg",
         "date": "06/10/2025",
         "description": "Evento ocorreu no restaurante L’Avenue e reuniu convidados nacionais e internacionais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/ministerio-da-justica-chama-industria-de-bebidas-para-discutir-crise-do-metanol/",
-        "title": "Ministério da Justiça Chama Indústria de Bebidas para Discutir Crise do Metanol",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/metanol-bebida-alcoolica-300x200.jpg",
-        "date": "06/10/2025",
-        "description": "Crise fez o ProconSP colocar um aviso especial em seu site para denúncias de quem suspeita ter ingerido bebida adulterada"
     }
 ]
