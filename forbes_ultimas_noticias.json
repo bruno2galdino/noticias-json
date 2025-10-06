@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-a-espera-dos-resultados-trimestrais-das-empresas/",
+        "title": "Pré-mercado: À Espera dos Resultados Trimestrais das Empresas",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "06/10/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 6 de outubro"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/10/nobel-de-medicina-premia-cientistas-com-estudo-sobre-tolerancia-imunologica/",
         "title": "Nobel de Medicina de 2025 Premia 3 Cientistas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/saude-premio-nobel-medicina-2025-300x200.jpg",
@@ -43,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/carreira/2025/10/ai-workslop-trabalhos-malfeitos-com-ia-custam-milhoes-em-produtividade/",
-        "title": "AI Workslop: Trabalhos Malfeitos com IA Custam Milhões em Produtividade",
+        "title": "Workslop: Trabalhos Malfeitos com IA Podem Custar US$ 9 Milhões Por Ano",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-mulher-nervosa-trabalho-IA-300x200.jpg",
         "date": "06/10/2025",
         "description": "Inteligência artificial produz conteúdos incompletos ou de baixa qualidade, gerando retrabalho e ameaçando a reputação dos profissionais"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-5-300x200.png",
         "date": "06/10/2025",
         "description": "Atmosphere Home Spa é lançado com festa ao som de atrações e show do DJ Alok"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/reveillon-de-luxo-as-casas-mais-exclusivas-para-alugar-no-ano-novo-no-brasil/",
-        "title": "Réveillon de Luxo: as Casas Mais Exclusivas para Alugar no Ano Novo no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Casa-em-Serra-Grande-na-Bahia-300x200.jpg",
-        "date": "06/10/2025",
-        "description": "De uma ilha particular em Paraty com diárias de R$ 150 mil a um refúgio histórico no Vale do Café, conheça imóveis com privacidade, serviço e sofisticação para a virada do ano"
     }
 ]
