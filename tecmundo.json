@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/voxel/502509-ghost-of-yotei-permite-acender-fogueira-soprando-controle-do-ps5-veja-como-usar.htm",
+        "title": "Ghost of Yotei permite acender fogueira soprando controle do PS5! Veja como usar",
+        "description": "Ghost of Yotei já está disponível no PS5 e possui alguns recursos bem divertidos de explorar no DualSense! Veja como ativar (ou desativar) as funções especiais.",
+        "image": "https://tm.ibxk.com.br/2025/10/07/GHOST_OF_YOTEI_DUALSENSE_0beaad5950.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/software/407596-conta-microsoft-sera-obrigatoria-para-usar-o-windows.htm",
+        "title": "Conta Microsoft será obrigatória para usar o Windows",
+        "description": "Novos usuários do Windows terão que conectar contas Microsoft para usar o sistema operacional.",
+        "image": "https://tm.ibxk.com.br/2025/03/19/19120018544195.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/guia-de-compras/407583-air-fryer-barata-confira-opcoes-a-partir-de-r177-no-magazine-luiza.htm",
+        "title": "Air fryer barata: confira opções a partir de R$177 no Magazine Luiza",
+        "description": "Promoção do Magalu tem diversos modelos de fritadeiras elétricas Mondial, Philco e mais para você ter mais praticidade na cozinha gastando menos; confira as oportunidades",
+        "image": "https://tm.ibxk.com.br/2025/10/06/Fritadeira_Air_Fryer_Philco_PAF_65_A_960x640_31d75a69bd.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602244-filme-chainsaw-man-arco-da-reze-recebe-classificacao-18-nos-cinemas-do-brasil.htm",
         "title": "Filme Chainsaw Man Arco Da Reze recebe classificação +18 nos cinemas do Brasil",
         "description": "Assim como o filme Demon Slayer: Castelo Infinito, o anime Chainsaw Man: Arco da Reze chegará aos cinemas com classificação adulta",
@@ -25,34 +46,6 @@
         "title": "PlayStation Plus pode receber grande jogo de surpresa em breve",
         "description": "Silent Hill 2 possivelmente chegando na PS Plus, jogo de IA de Elon Musk, vídeo misterioso da Nintendo e mais! Veja principais notícias de games do dia!",
         "image": "https://tm.ibxk.com.br/2025/10/07/ps_plus_jogo_novo_cf9447ecad.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/apostas/407595-apostas-em-dota-2.htm",
-        "title": "Apostas em Dota 2: Guia Completo para Apostar no MOBA da Valve",
-        "description": "Veja como funcionam as apostas em Dota 2, onde apostar, tipos de mercados e torneios ideais para acompanhar nos eSports",
-        "image": "https://tm.ibxk.com.br/2025/10/07/dota2_bced58ffe0.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407593-chatgpt-agora-pode-mexer-em-outros-apps-e-ate-escolher-musicas-no-spotify.htm",
-        "title": "ChatGPT agora pode mexer em outros apps — e até escolher músicas no Spotify",
-        "description": "O ChatGPT agora pode interagir diretamente com apps externos, como Spotify, Canva e Figma",
-        "image": "https://tm.ibxk.com.br/2025/03/27/27104707507080.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407591-waze-finalmente-liberando-ia-e-relatos-de-obstaculos-por-voz.htm",
-        "title": "Waze finalmente liberando IA e relatos de obstáculos por voz",
-        "description": "Anunciada em outubro de 2024, o novo recurso do Waze permite descrever o obstáculo do trajeto usando a voz e linguagem natural",
-        "image": "https://tm.ibxk.com.br/2025/08/27/27094038406004.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/407568-galaxy-s25-iphone-16e-moto-g35-e-mais-celulares-ate-49-off-no-mercado-livre-confira.htm",
-        "title": "Galaxy A36, iPhone 16e, Moto G35 e mais celulares até 49% OFF no Mercado Livre; confira",
-        "description": "Confira agora uma seleção de smartphones em promoção no Mercado Livre e garanta modelos como Galaxy S25+, Moto G05, iPhone 16e e mais com desconto",
-        "image": "https://tm.ibxk.com.br/2025/09/30/samsung_galaxy_a06_getty_images_960x640_d27c9df9e9.jpg",
         "date": null
     }
 ]

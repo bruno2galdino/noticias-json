@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/10/banco-mundial-eleva-estimativa-de-crescimento-economico-da-america-latina-para-2026/",
+        "title": "Banco Mundial Eleva Estimativa de Crescimento Econômico da América Latina para 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-07T094230Z_1_LYNXNPEL960BI_RTROPTP_4_ARGENTINA-GRAINS-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "Previsões indicam estabilidade no Brasil e recuperação gradual no México, com perspectivas de crescimento mais forte em 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/premio-nobel-de-fisica-vai-para-pioneiros-da-mecanica-quantica/",
+        "title": "Prêmio Nobel de Física Vai para Pioneiros da Mecânica Quântica",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-07T110216Z_1_LYNXNPEL960ED_RTROPTP_4_CIENCIA-NOBEL-FISICA-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "A premiação destaca avanços que abrem caminho para novas tecnologias quânticas, como criptografia, computação e sensores de alta precisão"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/bmw-mantem-motores-a-combustao-e-diz-que-nao-ha-prazo-para-o-fim/",
         "title": "BMW Mantém Motores a Combustão e Diz Que Não Há Prazo para o Fim",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/P90605020_highRes_ready-for-series-pro-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "07/10/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 7 de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2025/10/como-a-globo-transformou-vale-tudo-em-um-super-bowl-brasileiro/",
-        "title": "Como a Globo Transformou Vale Tudo em um Super Bowl Brasileiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/ValeTudo-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "O capítulo da morte de Odete Roitman, nesta segunda-feira, (6), contou com a presença de quase 40 marcas; no geral, a obra já rendeu mais de R$ 200 milhões em faturamento para a emissora"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/10/2-pequenas-mudancas-de-habito-para-uma-vida-visivelmente-mais-feliz/",
-        "title": "2 Pequenas 'Mudanças de Hábito' para uma Vida Visivelmente Mais Feliz",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/960x0-2-1-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Cortar excessos da rotina pode ser mais transformador do que adicionar novas tarefas"
     }
 ]
