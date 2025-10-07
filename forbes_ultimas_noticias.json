@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/airbus-a320-ultrapassa-boeing-737-como-o-aviao-mais-vendido-da-historia/",
+        "title": "Airbus A320 Ultrapassa Boeing 737 Como o Avião Mais Vendido da História",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Uma-aeronave-Airbus-320-200-da-companhia-aerea-colombiana-Avianca-decola-do-Aeroporto-El-Dorado-em-Bogota-Colombia-em-6-de-junho-de-2016-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "Recorde de décadas da Boeing caiu quando um avião foi entregue durante a madrugada à companhia aérea saudita Flynas"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/maison-valentino-propoe-moda-para-dias-mais-belos/",
+        "title": "Maison Valentino Propõe Moda para Dias Mais Belos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Valentino-Verao-2026-na-Semana-de-Moda-de-Paris-1-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "Alessandro Michele recorre a Pasolini para criar coleção poética para o verão 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/openai-bloqueia-contas-suspeitas-de-ligacoes-com-a-china-por-solicitarem-propostas-de-vigilancia/",
+        "title": "OpenAI Bloqueia Contas Suspeitas de Ligações com a China",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/china-eua-tarifas-money-reuters-300x200.png",
+        "date": "07/10/2025",
+        "description": "Em seu último relatório público sobre ameaças, a empresa afirmou que baniu várias contas em chinês que usavam o ChatGPT para auxiliar em campanhas de phishing e malware"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/5-apostas-da-lacoste-para-o-verao-2026/",
+        "title": "5 Apostas da Lacoste para o Verão 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Lacoste-Verao-2026-na-Semana-de-Moda-de-Paris-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "Na Semana de Moda de Paris, marca apresentou coleção desenhada por Pelagia Kolotouros"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/surto-de-bicheira-do-novo-mundo-assusta-pecuaristas-nos-eua-e-pais-paralisa-importacao-de-gado-do-mexico/",
+        "title": "Surto de Bicheira-do-novo-mundo Assusta Pecuaristas nos EUA e País Paralisa Importação de Gado do México",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-06T233828Z_1_LYNXNPEL9510Z_RTROPTP_4_USA-FARM-SCREWWORM-MEXICO-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "Autoridades mexicanas identificam caso isolado de infestação em bezerro interceptado no norte do país"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/10/banco-mundial-eleva-estimativa-de-crescimento-economico-da-america-latina-para-2026/",
         "title": "Banco Mundial Eleva Estimativa de Crescimento Econômico da América Latina para 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-07T094230Z_1_LYNXNPEL960BI_RTROPTP_4_ARGENTINA-GRAINS-300x200.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-1-300x200.png",
         "date": "07/10/2025",
         "description": "Nova marca foi impulsionada pela valorização do bitcoin, que atraiu US$ 3,55 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/seu-iphone-em-risco-5-medidas-de-seguranca-que-voce-precisa-ativar-agora/",
-        "title": "Seu iPhone em Risco? 5 Medidas de Segurança que Você Precisa Ativar Agora",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/iPhone-17-Pro-e-Pro-Max-300x200.png",
-        "date": "07/10/2025",
-        "description": "Há algumas recomendações extremas sobre como bloquear dispositivos, mas também há orientações simples, que são para todos e que podemos destacar para cada risco"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/vinci-compass-compra-501-da-verde-asset/",
-        "title": "Vinci Compass Compra 50,1% da Verde Asset e Fortalece Liderança em Gestão de Investimentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-27-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Transação ainda depende de aprovação dos órgãos reguladores e deve ser concluída no quarto trimestre de 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/os-bastidores-do-acordo-multibilionario-entre-openai-e-amd/",
-        "title": "Os Bastidores do Acordo Multibilionário entre OpenAI e AMD",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/SamAMD-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "O acordo é a vitória mais significativa da AMD em sua tentativa de desafiar o domínio da Nvidia no mercado de chips de IA e também ajuda a OpenAI a reduzir sua dependência das GPUs da Nvidia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/sancor-apresenta-plano-para-evitar-falencia-e-recuperar-sua-producao/",
-        "title": "Sancor Apresenta Plano para Evitar Falência e Recuperar Sua Produção",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_Sancor._7out25_Forbes_Arg_Divulg-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "A mais tradicional cooperativa de lácteos da Argentina, que já foi a maior, enfrenta dívidas da ordem de R$ 2 bilhões e um fluxo de caixa quase inexistente"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-igp-di-de-setembro-sobe-para-036-e-investidor-espera-ipca/",
-        "title": "Pré-mercado: IGP-Di de Setembro Sobe para 0,36% e Investidor Espera IPCA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "07/10/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 7 de outubro"
     }
 ]
