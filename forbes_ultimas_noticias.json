@@ -1,8 +1,15 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/seu-iphone-em-risco-5-medidas-de-seguranca-que-voce-precisa-ativar-agora/",
+        "title": "Seu iPhone em Risco? 5 Medidas de Segurança que Você Precisa Ativar Agora",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/iPhone-17-Pro-e-Pro-Max-300x200.png",
+        "date": "07/10/2025",
+        "description": "Há algumas recomendações extremas sobre como bloquear dispositivos, mas também há orientações simples, que são para todos e que podemos destacar para cada risco"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/vinci-compass-compra-501-da-verde-asset/",
         "title": "Vinci Compass Compra 50,1% da Verde Asset e Fortalece Liderança em Gestão de Investimentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-4-300x200.png",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-27-300x200.jpg",
         "date": "07/10/2025",
         "description": "Transação ainda depende de aprovação dos órgãos reguladores e deve ser concluída no quarto trimestre de 2025"
     },
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Depois-de-redefinir-as-viagens-de-bem-estar-no-Six-Senses-Neil-Jacobs-esta-em-uma-nova-missao-para-construir-o-proximo-capitulo-da-hospitalidade-com-a-Wild-Origins-baseada-em-proposito-pessoas-e-lugar-300x200.jpg",
         "date": "07/10/2025",
         "description": "Neil Jacobs apresenta projeto que une consultoria e estúdio criativo, ampliando sua visão de hospitalidade com propósito, bem-estar e sustentabilidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/como-a-biogenesis-bago-transformou-a-vacina-da-aftosa-em-um-imperio-global-de-saude-animal/",
-        "title": "Como a Biogénesis Bagó Transformou a Vacina da Aftosa em um Império Global de Saúde Animal",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Esteban-Turic._6out25_-BB_Divulg-1-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Esteban Turic, CEO da maior empresa argentina do setor, conta como vem mudando o foco da companhia centrada em animais de produção para o bilionário mercado pet"
     }
 ]
