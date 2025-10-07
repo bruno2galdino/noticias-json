@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/bmw-mantem-motores-a-combustao-e-diz-que-nao-ha-prazo-para-o-fim/",
+        "title": "BMW Mantém Motores a Combustão e Diz Que Não Há Prazo para o Fim",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/P90605020_highRes_ready-for-series-pro-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "O CEO da montadora, Oliver Zipse, afirma que em 2028 o X5 será oferecido em cinco motorizações: gasolina, diesel, híbrido plug-in, elétrico e hidrogênio"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/banco-mundial-eleva-projecao-e-preve-crescimento-de-48-na-china/",
+        "title": "Banco Mundial Eleva Projeção e Prevê Crescimento de 4,8% na China",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/GettyImages-523738180-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "Nova estimativa indica alta de 0,8 ponto percentual e prevê expansão regional de 4,4% em 2025, apesar dos riscos de desaceleração e endividamento"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/etfs-de-criptomoedas-atraem-recorde-de-us-595-bilhoes-com-bitcoin/",
+        "title": "ETFs Globais de Criptomoedas Atraem Recorde de US$ 5,95 Bilhões com Bitcoin",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-1-300x200.png",
+        "date": "07/10/2025",
+        "description": "Nova marca foi impulsionada pela valorização do bitcoin, que atraiu US$ 3,55 bilhões"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/10/seu-iphone-em-risco-5-medidas-de-seguranca-que-voce-precisa-ativar-agora/",
         "title": "Seu iPhone em Risco? 5 Medidas de Segurança que Você Precisa Ativar Agora",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/iPhone-17-Pro-e-Pro-Max-300x200.png",
@@ -35,7 +56,7 @@
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 7 de outubro"
     },
     {
-        "url": "https://forbes.com.br/forbes-mkt/2025/10/como-a-globo-transformou-vale-tudo-em-um-super-bowl-brasileiro/",
+        "url": "https://forbes.com.br/manchete-2/2025/10/como-a-globo-transformou-vale-tudo-em-um-super-bowl-brasileiro/",
         "title": "Como a Globo Transformou Vale Tudo em um Super Bowl Brasileiro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/ValeTudo-300x200.jpg",
         "date": "07/10/2025",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/960x0-2-1-300x200.jpg",
         "date": "07/10/2025",
         "description": "Cortar excessos da rotina pode ser mais transformador do que adicionar novas tarefas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/10/carolina-neugebauer-assume-como-ceo-do-grupo-noir-e-danke-chocolates/",
-        "title": "Carolina Neugebauer Assume como CEO do Grupo Noir e Danke Chocolates",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Carolina-Neugebauer-DANKE-noir-chocolate-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Quinta geração da família fundadora da primeira fábrica de chocolate do Brasil, executiva mira expansão para todo o país"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/ong-abre-inscricoes-para-cursos-de-computacao-em-nuvem-e-ia/",
-        "title": "ONG Abre Inscrições para Cursos de Computação em Nuvem e IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/forbes-curso-bolsa-tecnologia-mulheres-1-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Programa baseado na iniciativa AWS re/Start oferece certificação, mentorias e conexão com empresas parceiras"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/ex-ceo-da-six-senses-lanca-nova-plataforma-de-turismo-de-luxo-sustentavel/",
-        "title": "Ex-CEO da Six Senses Lança Nova Plataforma de Turismo de Luxo Sustentável",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Depois-de-redefinir-as-viagens-de-bem-estar-no-Six-Senses-Neil-Jacobs-esta-em-uma-nova-missao-para-construir-o-proximo-capitulo-da-hospitalidade-com-a-Wild-Origins-baseada-em-proposito-pessoas-e-lugar-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Neil Jacobs apresenta projeto que une consultoria e estúdio criativo, ampliando sua visão de hospitalidade com propósito, bem-estar e sustentabilidade"
     }
 ]
