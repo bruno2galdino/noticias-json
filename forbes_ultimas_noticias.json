@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/10/o-verao-2026-de-mathieu-blazy-em-estreia-na-chanel/",
+        "title": "O Verão 2026 de Mathieu Blazy em Estreia na Chanel",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Chanel-encerra-a-Semana-de-Moda-de-Paris-com-colecao-de-estreia-de-Mathieu-Blazy-para-o-Verao-2026-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "Em 6 tópicos, descubra o que vai marcar a entrada do novo diretor criativo"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/celine-verao-2026-3-formas-de-vestir-se-de-otimismo/",
+        "title": "Celine Verão 2026: 3 Formas de Vestir-se de Otimismo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Celine-Verao-2026-na-Semana-de-Moda-de-Paris-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "Para fazer companhia a paletós e p&b, a coleção de Michael Rider tem cores, leveza e alegria"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/contratos-futuros-do-ouro-americano-batem-recorde-a-us-4-mil/",
         "title": "Contratos Futuros do Ouro Americano Batem Recorde a US$ 4 Mil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-19-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Uma-aeronave-Airbus-320-200-da-companhia-aerea-colombiana-Avianca-decola-do-Aeroporto-El-Dorado-em-Bogota-Colombia-em-6-de-junho-de-2016-300x200.jpg",
         "date": "07/10/2025",
         "description": "Recorde de décadas da Boeing caiu quando um avião foi entregue durante a madrugada à companhia aérea saudita Flynas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/maison-valentino-propoe-moda-para-dias-mais-belos/",
-        "title": "Maison Valentino Propõe Moda para Dias Mais Belos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Valentino-Verao-2026-na-Semana-de-Moda-de-Paris-1-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Alessandro Michele recorre a Pasolini para criar coleção poética para o verão 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/openai-bloqueia-contas-suspeitas-de-ligacoes-com-a-china-por-solicitarem-propostas-de-vigilancia/",
-        "title": "OpenAI Bloqueia Contas Suspeitas de Ligações com a China",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/china-eua-tarifas-money-reuters-300x200.png",
-        "date": "07/10/2025",
-        "description": "Em seu último relatório público sobre ameaças, a empresa afirmou que baniu várias contas em chinês que usavam o ChatGPT para auxiliar em campanhas de phishing e malware"
     }
 ]
