@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/montadora-vittori-estreia-com-o-turbio-hipercarro-assinado-pela-lendaria-pininfarina/",
+        "title": "Montadora Vittori Estreia com o Turbio, Hipercarro Assinado Pela Lendária Pininfarina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/960x0-300x200.webp",
+        "date": "07/10/2025",
+        "description": "Por enquanto, o Turbio é um carro-conceito, mas a Vittori quer levá-lo à produção em breve. O motor será desenvolvido pela Italtecnica"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/mars-deve-obter-aprovacao-incondicional-da-ue-para-acordo-de-us-36-bi-com-kellanova/",
+        "title": "Mars Deve Obter Aprovação Incondicional da UE para Acordo de US$ 36 Bi com Kellanova",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Balas-de-chocolate-MMs-sao-exibidas-na-loja-MMs-World-em-Manhattan-na-cidade-de-Nova-York-EUA-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "A combinação da Mars e da Kellanova representaria cerca de 12% do setor de lanches e doces dos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/indonesia-da-mais-um-passo-rumo-ao-biodiesel-b50/",
+        "title": "Indonésia Dá Mais um Passo Rumo Ao Biodiesel B50",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Pistola-de-gasolina-em-posto-de-combustiveis-em-Brasilia-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "A Indonésia pretende tornar o B50 obrigatório em 2026, mas é improvável que isso aconteça em janeiro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/tyson-e-cargill-pagarao-us-88-milhoes-nos-eua-em-processo-sobre-precos-da-carne/",
+        "title": "Tyson e Cargill Pagarão Us$ 88 Milhões nos EUA em Processo sobre Preços da Carne",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Pedacos-de-carne-em-acougue-no-Rio-de-Janeiro-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "A Tyson e a Cargill não responderam imediatamente aos pedidos de comentários, assim como a JBS e a National Beef"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/colombia-deve-colher-menos-cafe-na-safra-2025-26/",
+        "title": "Colômbia Deve Colher Menos Café na Safra 2025/26",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Cafe-300x200.jpg",
+        "date": "07/10/2025",
+        "description": "A Colômbia tem cerca de 840.000 hectares de cultivo de café, com aproximadamente 540.000 famílias que dependem dessa cultura para sua subsistência"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-termina-o-dia-em-baixa-de-mais-de-1/",
+        "title": "Ibovespa Termina o Dia em Baixa de Mais de 1%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "07/10/2025",
+        "description": "O indicador brasileiro foi afetado por receio fiscal e pela piora no cenário exterior; MRV&Co desaba"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/10/o-verao-2026-de-mathieu-blazy-em-estreia-na-chanel/",
         "title": "O Verão 2026 de Mathieu Blazy em Estreia na Chanel",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Chanel-encerra-a-Semana-de-Moda-de-Paris-com-colecao-de-estreia-de-Mathieu-Blazy-para-o-Verao-2026-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/GettyImages-1249704163-300x200.jpg",
         "date": "07/10/2025",
         "description": "Falar bem amplia perspectivas, facilita decisões e inspira soluções, sendo essencial em áreas como coaching, terapia e mentoria"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/exportacao-de-carne-suina-do-brasil-e-recorde-em-setembro-embarque-de-frango-retoma-forca/",
-        "title": "Exportação de Carne Suína do Brasil É Recorde em Setembro; Embarque de Frango Retoma Força",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-08T142258Z_1_LYNXMPEL670K9_RTROPTP_4_EUROPA-CHINA-COMERCIO-SUINA-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Os embarques de produtos in natura e processados do Brasil, quarto exportador mundial, foram impulsionados pela demanda das Filipinas, Japão, Vietnã e México"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/aneel-muda-regra-para-reduzir-desconto-bilionario-a-geradores-de-energia-renovavel/",
-        "title": "Aneel Muda Regra para Reduzir Desconto Bilionário a Geradores de Energia Renovável",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/03/money-crise-hidrica-15mar22-UesleiMarcelino-300x200.png",
-        "date": "07/10/2025",
-        "description": "A alteração aprovada vem para cumprir determinação do Tribunal de Contas da União (TCU)"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/tesla-lancara-versao-mais-acessivel-do-model-y-na-tentativa-de-reaquecer-as-vendas/",
-        "title": "Tesla Lançará Versão Mais Acessível do Model Y na Tentativa de Reaquecer as Vendas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tesla-carros-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Fabricante de veículos elétricos busca reverter a queda nas vendas e a diminuição da participação no mercado em meio à crescente concorrência global"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/musk-nomeia-ex-banqueiro-do-morgan-stanley-como-diretor-financeiro-da-xai/",
-        "title": "Musk Nomeia Ex-Banqueiro do Morgan Stanley Como Diretor Financeiro da xAI",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/tech-elon-musk-23Ago23-GettyImages-min-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Anthony Armstrong vai liderar as operações financeiras da xAI e da plataforma de mídia social X"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/10/outubro-rosa-cancer-de-mama-e-maternidade/",
-        "title": "Outubro Rosa, Câncer de Mama e Maternidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/GettyImages-1351025848-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Para mulheres jovens, a preservação da fertilidade ganha cada vez mais espaço nas pesquisas e nas diretrizes médicas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/airbus-a320-ultrapassa-boeing-737-como-o-aviao-mais-vendido-da-historia/",
-        "title": "Airbus A320 Ultrapassa Boeing 737 Como o Avião Mais Vendido da História",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Uma-aeronave-Airbus-320-200-da-companhia-aerea-colombiana-Avianca-decola-do-Aeroporto-El-Dorado-em-Bogota-Colombia-em-6-de-junho-de-2016-300x200.jpg",
-        "date": "07/10/2025",
-        "description": "Recorde de décadas da Boeing caiu quando um avião foi entregue durante a madrugada à companhia aérea saudita Flynas"
     }
 ]

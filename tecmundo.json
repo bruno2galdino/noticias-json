@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/internet/407609-apple-zoa-tela-azul-da-morte-do-windows-em-novo-video-promocional.htm",
+        "title": "Apple zoa Tela Azul da Morte do Windows em novo vídeo promocional",
+        "description": "Comercial em forma de curta-metragem mostra equipe de vendas sobrevivendo a uma falha geral por usar Macs em vez de PCs",
+        "image": "https://tm.ibxk.com.br/2025/10/07/apple_the_underdogs_comercial_tela_azul_da_morte_8fef2e11f6.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407617-nvidia-pagara-pelos-vistos-de-trabalho-nos-eua-afirma-ceo-jensen-huang.htm",
+        "title": "Nvidia pagará pelos vistos de trabalho nos EUA, afirma CEO Jensen Huang",
+        "description": "O CEO afirmou que a empresa continuará contratando estrangeiros mesmo após a nova taxa.",
+        "image": "https://tm.ibxk.com.br/2025/07/24/24130619580036.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407620-openai-domina-a-semana-valuation-recorde-sora-2-e-novos-produtos.htm",
+        "title": "OpenAI domina a semana: valuation recorde, Sora 2 e novos produtos",
+        "description": "A OpenAI concentrou praticamente todos os holofotes do setor de tecnologia na última semana.",
+        "image": "https://tm.ibxk.com.br/2025/10/07/Getty_Images_2218344211_1_ab20391442.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602249-my-hero-academia-revela-aparencia-da-garota-invisivel-na-temporada-8-veja.htm",
+        "title": "My Hero Academia revela aparência da garota invisível na temporada 8! Veja",
+        "description": "A Garota Invisível revela seu verdadeiro visual em uma das grandes batalhas de My Hero Academia. Confira a aparência de Toru Hagakure.",
+        "image": "https://tm.ibxk.com.br/2025/10/07/garota_invisivel_aparencia_temporada_8_63a9d4e7d0.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/internet/407606-vendedores-da-olx-agora-podem-vender-itens-com-frete-gratis.htm",
         "title": "Vendedores da OLX agora podem vender itens com frete grátis",
         "description": "Vantagem do envio sem custos para o cliente precisa obedecer alguns critérios, como segmento do produto e preço mínimo",
@@ -39,20 +67,6 @@
         "title": "HUB USB baratinhos no AliExpress: confira opções a partir de R$7",
         "description": "Garanta HUBs USB de marcas como UGREEN, Baseus e Vention com múltiplas portas e ótimo custo-benefício no AliExpress por tempo limitado!",
         "image": "https://tm.ibxk.com.br/2025/10/07/hubs_em_oferta_no_aliexpress_4820bb0ed3.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407604-finalmente-recurso-muito-esperado-da-barra-de-tarefas-no-windows-11-esta-chegando.htm",
-        "title": "Finalmente! Recurso muito esperado da Barra de Tarefas no Windows 11 está chegando",
-        "description": "Uma atualização opcional do Windows 11 adicionou a capacidade de exibir a Central de Notificações em monitores secundários",
-        "image": "https://tm.ibxk.com.br/2025/05/30/30192529449014.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502515-microsoft-adia-aumento-de-preco-do-xbox-game-pass-mas-nao-no-brasil.htm",
-        "title": "Microsoft adia aumento de preço do Xbox Game Pass, mas não no Brasil",
-        "description": "A Microsoft enviou e-mails para usuários do Xbox Game Pass de certos países avisando que o aumento foi adiado, mas não foi o caso do Brasil.",
-        "image": "https://tm.ibxk.com.br/2025/10/07/game_pass_ultimate_reajuste_adiado_08da3bf8a7.jpg",
         "date": null
     }
 ]
