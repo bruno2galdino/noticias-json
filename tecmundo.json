@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/internet/407606-vendedores-da-olx-agora-podem-vender-itens-com-frete-gratis.htm",
+        "title": "Vendedores da OLX agora podem vender itens com frete grátis",
+        "description": "Vantagem do envio sem custos para o cliente precisa obedecer alguns critérios, como segmento do produto e preço mínimo",
+        "image": "https://tm.ibxk.com.br/2025/10/07/entrega_OLX_FRETE_GRATIS_5df2c5cbb9.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502512-que-horas-battlefield-6-sera-lancado-veja-o-que-esperar.htm",
+        "title": "Que horas Battlefield 6 será lançado? Veja o que esperar",
+        "description": "Falta pouco para a grande estreia de Battlefield 6, que chega na próxima sexta (10) ao PS5, Xbox Series X|S e ao PC! Saiba que horas o game ficará disponível no Brasil",
+        "image": "https://tm.ibxk.com.br/2025/10/07/LANCAMENTO_DE_BATTLEFIELD_6_212ec355e3.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407621-virus-vampiro-ataca-pessoas-desempregadas-via-email.htm",
+        "title": "Vírus vampiro ataca pessoas desempregadas via email e redes sociais",
+        "description": "O relato é importante para brasileiros: já existem indícios de diferentes golpes similares por aqui.",
+        "image": "https://tm.ibxk.com.br/2025/10/07/vampirebot_0918e7aeab.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602250-demon-slayer-supera-superman-e-f1-no-ranking-mundial-de-bilheteria.htm",
         "title": "Demon Slayer supera Superman e F1 no ranking mundial de bilheteria",
         "description": "A animação japonesa alcança o 6º lugar global e se firma como o filme de anime mais lucrativo de todos os tempos.",
@@ -32,27 +53,6 @@
         "title": "Microsoft adia aumento de preço do Xbox Game Pass, mas não no Brasil",
         "description": "A Microsoft enviou e-mails para usuários do Xbox Game Pass de certos países avisando que o aumento foi adiado, mas não foi o caso do Brasil.",
         "image": "https://tm.ibxk.com.br/2025/10/07/game_pass_ultimate_reajuste_adiado_08da3bf8a7.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407611-mercado-livre-lanca-plano-com-netflix-hbo-max-disney-e-apple-tv-por-r-3990.htm",
-        "title": "Mercado Livre lança plano com Netflix, HBO Max, Disney+ e Apple TV+ por R$ 39,90",
-        "description": "A nova assinatura Meli+ Mega também dá direito a frete grátis, cupons exclusivos, envios rápidos e outros benefícios no Mercado Livre.",
-        "image": "https://tm.ibxk.com.br/2025/10/07/nova_assinatura_mercado_livre_b0f80935b3.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502514-elon-musk-promete-lancar-jogo-feito-por-ia-ate-o-fim-de-2026-entenda.htm",
-        "title": "Elon Musk promete lançar jogo feito por IA até o fim de 2026! Entenda",
-        "description": "Em declaração nas redes sociais, o bilionário Elon Musk prometeu que o xAI, seu estúdio de games, lançará um jogo gerado por IA até o fim de 2026! Confira os detalhes",
-        "image": "https://tm.ibxk.com.br/2025/10/07/ELON_MUSK_JOGO_IA_61c04c3fee.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407613-qualcomm-compra-arduino-e-anuncia-nova-placa-uno-q.htm",
-        "title": "Qualcomm compra Arduino e anuncia nova placa Uno Q",
-        "description": "Agora, a Qualcomm detém a marca Arduino, um dos maiores nomes no mercado de placas e softwares para prototipagem",
-        "image": "https://tm.ibxk.com.br/2024/09/23/23095545238047.png",
         "date": null
     }
 ]
