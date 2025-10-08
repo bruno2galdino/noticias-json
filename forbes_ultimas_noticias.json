@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/exportacao-de-carne-bovina-do-brasil-a-china-cresceu-38-em-setembro-aponta-abrafrigo/",
+        "title": "Exportação de Carne Bovina do Brasil À China Cresceu 38% em Setembro, Aponta Abrafrigo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Pedacos-de-carne-em-acougue-no-Rio-de-Janeiro-300x200.jpg",
+        "date": "08/10/2025",
+        "description": "130 países elevaram as suas compras de carne bovina brasileira, enquanto 48 reduziram"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/cisco-lanca-chip-projetado-para-conectar-data-centers-de-ia-em-grandes-distancias/",
+        "title": "Cisco Lança Chip Projetado para Conectar Data Centers de IA em Grandes Distâncias",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Logo-da-Cisco-300x200.jpg",
+        "date": "08/10/2025",
+        "description": "O objetivo do novo chip e roteador da Cisco é conectar vários data centers"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/moodys-analytics-eleva-projecao-do-pib-do-brasil-para-25-em-2025/",
+        "title": "Moody’s Analytics Eleva Projeção do PIB do Brasil Para 2,5% em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-16-1-300x200.png",
+        "date": "08/10/2025",
+        "description": "Agência destaca robustez do mercado de trabalho e valorização do real, mas prevê desaceleração para 1,8% em 2026 com Selic a 15%"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/aeroporto-catarina-ganha-reconhecimento-internacional-por-iniciativa-sustentavel/",
+        "title": "Aeroporto Catarina É Reconhecido Internacionalmente por Sustentabilidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/O-Sao-Paulo-Catarina-a-35-minutos-da-capital-paulista-planeja-expandir-o-monitoramento-da-fauna-para-alem-de-seus-limites-300x200.jpg",
+        "date": "08/10/2025",
+        "description": "Projeto com onças-parda foi destaque de prêmio que enaltece iniciativas de preservação ambiental em aeroportos da América Latina e Caribe"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/chefe-do-fmi-diz-que-dados-dos-eua-indicam-abrandamento-na-economia/",
         "title": "Chefe do FMI Diz Que Dados dos EUA Indicam Abrandamento na Economia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Uma-vista-do-logotipo-do-Fundo-Monetario-Internacional-FMI-em-sua-sede-em-Washington-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/nestle-vacas-300x200.jpg",
         "date": "08/10/2025",
         "description": "Empresa não disse por que estava se retirando, mas afirmou que continuaria trabalhando para reduzir as emissões de gases de efeito estufa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/de-mumbai-ao-vale-do-silicio-o-jovem-de-19-anos-que-atraiu-google-openai-e-meta-para-sua-ia/",
-        "title": "De Mumbai Ao Vale do Silício: o Jovem de 19 Anos Que Atraiu a OpenAI com a Promessa de Expandir as Memórias da IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Dhravya-300x200.jpg",
-        "date": "08/10/2025",
-        "description": "Dhravya Shah recebeu financiamento seed de US$ 2,6 milhões, liderado por Susa Ventures, Browder Capital e SF1.vc, para sua startup Supermemory"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/da-ciencia-a-lideranca-como-brasileira-chegou-ao-topo-da-inovacao-da-loreal-na-america-latina/",
-        "title": "Como Brasileira Chegou Ao Topo da Inovação da L’Oréal na América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Juliana-Farias-Loreal-300x200.jpg",
-        "date": "08/10/2025",
-        "description": "Primeira brasileira à frente da área de pesquisa e inovação do grupo na região, Juliana Farias conta como construiu carreira executiva na área científica"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/o-custo-bilionario-do-abandono-como-as-estradas-vicinais-travam-o-agronegocio-brasileiro/",
-        "title": "O Custo Bilionário do Abandono: Como as Estradas Vicinais Travam o Agronegócio Brasileiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_estrada_vicinal_7out25_Elizangela-Lopes_CNA-300x200.jpg",
-        "date": "08/10/2025",
-        "description": "Estudo inédito da CNA mostra que Brasil perde R$ 16,2 bilhões por ano com infraestrutura precária de vias rurais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/o-plano-secreto-de-elon-musk-para-dominar-a-ia-com-us-20-bilhoes-e-chips-da-nvidia/",
-        "title": "O Plano de Musk para Dominar a IA, com US$ 20 Bi e Chips da Nvidia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/elon-musk-x-300x200.webp",
-        "date": "08/10/2025",
-        "description": "De acordo com a Bloomberg, a startup de inteligência artificial de Musk está elevando sua rodada de financiamento em andamento consolidando o projeto como um dos mais ambiciosos no mercado de IA"
     }
 ]
