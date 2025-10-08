@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-08-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/fullana_rcl_fore25.jpg",
+        "date": "08/10/2025",
+        "description": "WTA 1000 de Wuhan – Sintético – US$ 3.654.963Duplas – Segunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/de-minaur-vence-a-50a-na-temporada-e-vai-as-quartas-em-xangai.html",
+        "title": "De Minaur vence a 50ª na temporada e vai às quartas em Xangai",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/de-minaur-shanghai-2025-monday-e1759750727939-1024x682.jpg",
+        "date": "08/10/2025",
+        "description": "Xangai (China)– O australiano Alex de Minaur registrou sua 50ª vitória da temporada nesta quarta-feira ao superar o português Nuno Borges por 7/5 e 6/2 para chegar às quartas de final do Masters 1000 de Xangai. Esta é a sétima vez que ele vai tão longe em um torneio desse nível, em que seu melhor resultado foi o vice-campeonato no Canadá dois anos atrás."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/stefani-e-babos-sao-eliminadas-de-wuhan-nas-oitavas-de-final.html",
+        "title": "Stefani e Babos são eliminadas de Wuhan nas oitavas de final",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/stefani-narede-babos-spopen-2025-1024x683.jpg",
+        "date": "08/10/2025",
+        "description": "Wuhan (China)–  A paulista Luisa Stefani e a húngara Timea Babos não conseguiram ir muito longe no WTA 1000 de Wuhan. Nesta quarta-feira, elas foram eliminadas nas oitavas de final com derrota por 6/4, 2/6 e 10-7 diante da norte-americana Iva Jovic e da mexicana Giuliana Olmos."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-07-10.html",
         "title": "O dia dos brasileiros: veja os resultados desta terça",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/ribeiro_poa_back.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/carol_bohrer_santatecla_back-1024x717.jpg",
         "date": "07/10/2025",
         "description": "Santa Tecla (El Salvador) –A catarinense Carolina Bohrer, de 18 anos, estreou com vitória em sua segunda semana jogando torneios ITF W15 nas quadras duras de Santa Tecla, em El Salvador."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-rune-bergs-no-resumo-da-terca-em-xangai-confira.html",
-        "title": "Djokovic, Rune, Bergs no resumo da terça em Xangai. Confira.",
-        "image": null,
-        "date": "07/10/2025",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/nana-estreia-nesta-quarta-feira-em-sao-joao-candiotto-se-retira.html",
-        "title": "Naná estreia nesta quarta-feira em São João, Candiotto se retira",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Leticia_VIdal-1024x683.jpg",
-        "date": "07/10/2025",
-        "description": "São João da Boa Vista (SP)– A juvenil Nauhany Silva, de 15 anos, será a principal atração desta quarta-feira no Torneio Internacional Feminino de Tênis – Ano VIII, evento de nível W15 que deu largada nesta segunda-feira nas quadras de saibro da Sociedade Esportiva Sanjoanense. Naná enfrenta às 18h30 a argentina Maria Florencia Urrutia, quarta principal inscrita."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/em-dia-de-calor-e-desistencias-em-wuhan-iga-destaca-vitoria-rapida.html",
-        "title": "Em dia de calor e desistências em Wuhan, Iga destaca vitória rápida",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/iga_wuhan_vibra-1024x683.jpg",
-        "date": "07/10/2025",
-        "description": "Wuhan (China) –A vitória na estreia do WTA 1000 de Wuhan foi ainda mais importante para Iga Swiatek sob o ponto de vista físico e de administração de energia para a sequência. Em um dia de muito calor, chegando a 32ºC e umidade na casa dos 80%, a rodada teve as desistências de Emma Raducanu e Jelena Ostapenko, mas a polonesa ficou em quadra por apenas 1h19 nesta terça-feira."
     }
 ]
