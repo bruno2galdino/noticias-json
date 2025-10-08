@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-fecha-no-positivo-em-dia-de-ajustes/",
+        "title": "Dólar termina o dia perto da estabilidade com mercado à espera de votação no Congresso",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "08/10/2025",
+        "description": "Dólar termina perto da estabilidade com mercado à espera de votação no Congresso"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/exportacao-de-carne-bovina-do-brasil-a-china-cresceu-38-em-setembro-aponta-abrafrigo/",
         "title": "Exportação de Carne Bovina do Brasil À China Cresceu 38% em Setembro, Aponta Abrafrigo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Pedacos-de-carne-em-acougue-no-Rio-de-Janeiro-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_biodiesel_biocombustivel_caminhao_reboque_tanque_foto_Scharfsinn86-Gettyimages_08.10.2025-300x200.jpg",
         "date": "08/10/2025",
         "description": "Projeção está em linha com mistura obrigatória de 15% de biodiesel no diesel (B15), vigente no próximo ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/nestle-abandona-alianca-global-para-reduzir-emissoes-de-metano-provenientes-da-producao-leiteira/",
-        "title": "Nestlé Abandona Aliança Global para Reduzir Emissões de Metano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/nestle-vacas-300x200.jpg",
-        "date": "08/10/2025",
-        "description": "Empresa não disse por que estava se retirando, mas afirmou que continuaria trabalhando para reduzir as emissões de gases de efeito estufa"
     }
 ]
