@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/primeiro-smartphone-de-game-of-thrones-do-mundo-e-lancado-porem-o-realme-15-pro-gt-sera-para-poucos/",
+        "title": "Primeiro Smartphone de Game of Thrones do Mundo é Lançado; porém, o Realme 15 Pro GT Será para Poucos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/GOT-300x200.jpg",
+        "date": "09/10/2025",
+        "description": "A edição limitada terá apenas 5 mil unidades no mundo, chegando ao Brasil com 12 GB de RAM e 512 GB de armazenamento, pelo preço sugerido de R$ 5.999"
+    },
+    {
+        "url": "https://forbes.com.br/eventos/2025/10/forbes-recebe-wang-chuanfu-fundador-da-byd-para-o-lancamento-da-denza-no-brasil/",
+        "title": "Forbes Recebe Wang Chuanfu, Fundador da BYD, para o Lançamento da Denza no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/fundador-iFood-300x200.png",
+        "date": "09/10/2025",
+        "description": "Evento na Casa Fasano reuniu lideranças do mercado de luxo para celebrar a chegada da marca premium de veículos híbridos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/governo-busca-saida-apos-derrota-da-mp-da-taxacao-e-mira-iof/",
         "title": "Governo Busca Saída Após Derrota da MP da Taxação e Mira IOF",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Fernando-Haddad_19jul2025-Reuters_Mateus-Bonomi-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/O-bowl-de-acai-registrou-impressionantes-31-milhoes-de-buscas-anuais-300x200.jpg",
         "date": "09/10/2025",
         "description": "Com 31 milhões de pesquisas no Google, superalimento da Amazônia brasileiro desbanca clássicos europeus e é amado ao redor do mundo"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/10/transformar-sistemas-alimentares-pode-ajudar-a-enfrentar-o-aquecimento-global-aponta-estudo/",
-        "title": "Transformar Sistemas Alimentares Pode Ajudar a Enfrentar o Aquecimento Global, Aponta Estudo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_alimentos_7out25_Universal-Images_Getty-300x200.jpg",
-        "date": "09/10/2025",
-        "description": "Comissão EAT-Lancet afirma que sua reconfiguração poderia gerar retornos de US$ 5 trilhões por ano, valor que representa mais de duas vezes o PIB do Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/motos-mais-desejadas-do-mundo-estao-escondidas-no-noroeste-da-inglaterra/",
-        "title": "Motos Mais Desejadas do Mundo Estão Escondidas no Noroeste da Inglaterra",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Steve-Malone-a-esquerda-e-Robert-Bentham-com-um-Brough-Superior-de-varios-US-100-mil-300x200.jpg",
-        "date": "09/10/2025",
-        "description": "Empresário britânico preserva raridades do motociclismo, de modelos pré-guerra a ícones esportivos modernos"
     }
 ]

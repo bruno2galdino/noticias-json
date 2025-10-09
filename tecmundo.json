@@ -1,9 +1,23 @@
 [
     {
-        "url": "https://www.tecmundo.com.br/seguranca/407654-novo-malware-ataca-navegadores-no-windows-para-roubar-contas-do-discord.htm",
-        "title": "Novo malware ataca navegadores no Windows para roubar contas do Discord",
-        "description": "Os ataques com o Shuyal Stealer também podem resultar no comprometimento de perfis em redes sociais, emails e serviços financeiros.",
-        "image": "https://tm.ibxk.com.br/2025/10/08/malware_ataca_navedores_discord_2185aa4b12.jpg",
+        "url": "https://www.tecmundo.com.br/minha-serie/602258-gen-v-recebe-nova-conexao-com-the-boys-em-episodio-6-entenda.htm",
+        "title": "Gen V recebe nova conexão com The Boys em episódio 6! Entenda",
+        "description": "Os eventos de Gen V e The Boys se ligam de maneira intensa no episódio mais recente do spin-off",
+        "image": "https://tm.ibxk.com.br/2025/10/08/Gen_V_Novas_Conexoes_The_Boys_Episodio_6_229f3aeb9d.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407655-intel-revela-chips-core-ultra-3-panther-lake-de-ate-16-nucleos.htm",
+        "title": "Intel revela chips Core Ultra 3 ‘Panther Lake’ de até 16 núcleos",
+        "description": "Processadores estreiam novos núcleos Cougar Couve e Darkmont, além da microarquitetura Xe3 inédita para gráficos integrados.",
+        "image": "https://tm.ibxk.com.br/2025/10/08/chip_processador_cpu_intel_panther_lake_core_ultra_3_3ac5709e92.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502527-em-busca-da-batida-perfeita-absolum-traz-o-refinamento-dos-games-de-briga-de-rua.htm",
+        "title": "Em busca da “batida” perfeita: Absolum traz o refinamento dos games de briga de rua",
+        "description": "Novo jogo beat' em up da Dotemu está disponível para PC, Switch, PlayStation 4 e PlayStation 5",
+        "image": "https://tm.ibxk.com.br/2025/10/08/Absolum_traz_o_refinamento_dos_games_de_briga_de_rua_0c109ff39b.png",
         "date": null
     },
     {
@@ -11,6 +25,13 @@
         "title": "Garrafas e copos Stanley com até 38% OFF na Mega Oferta Prime da Amazon",
         "description": "Confira já uma seleção de produtos térmicos da Stanley com desconto na Amazon e aproveite os preços promocionais da Mega Oferta Prime para garantir copos, garrafas, cuias e mais a preços mais baixos",
         "image": "https://tm.ibxk.com.br/2025/10/08/Garrafa_termica_Quick_Flip_Stanley_960x640_98d9ce7a90.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407654-novo-malware-ataca-navegadores-no-windows-para-roubar-contas-do-discord.htm",
+        "title": "Novo malware ataca navegadores no Windows para roubar contas do Discord",
+        "description": "Os ataques com o Shuyal Stealer também podem resultar no comprometimento de perfis em redes sociais, emails e serviços financeiros.",
+        "image": "https://tm.ibxk.com.br/2025/10/08/malware_ataca_navedores_discord_2185aa4b12.jpg",
         "date": null
     },
     {
@@ -39,27 +60,6 @@
         "title": "Prime Gaming recebe novos jogos grátis nesta quinta (09)! Confira lista e como resgatar",
         "description": "O Prime Gaming liberou mais dois jogos gratuitos para os membros do Amazon Prime nesta quinta-feira (09); Confira os detalhes e saiba onde resgatar!",
         "image": "https://tm.ibxk.com.br/2025/10/08/JOGOS_GRATUITOS_DE_OUTUBRO_NO_PRIME_GAMING_c9ff88376d.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/apostas/407643-veja-as-chances-de-titulo-e-libertadores-apos-a-27-rodada-do-brasileirao-2025.htm",
-        "title": "Veja as chances de Título e Libertadores após a 27ª rodada do Brasileirão 2025",
-        "description": "Confira como a 27ª rodada do Brasileirão 2025 impacta as chances de título e classificação para a Libertadores, com Palmeiras em vantagem e Flamengo ainda na disputa",
-        "image": "https://tm.ibxk.com.br/2025/10/08/palmeiras_16a6418a9c.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407646-cibercrime-invade-salas-de-aula-e-impacta-o-aprendizado.htm",
-        "title": "Cibercrime invade salas de aula e impacta o aprendizado",
-        "description": "Apesar da recuperação rápida, instituições de ensino caem na armadilha da falsa segurança e enfrentam IA e falta de especialistas.",
-        "image": "https://tm.ibxk.com.br/2025/10/08/cyber_crime_gettyimages_896b9d5713.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502460-silent-hill-f-decepciona-em-acessibilidade-confira-analise.htm",
-        "title": "Silent Hill f decepciona em acessibilidade! Confira análise",
-        "description": "O terror de Silent Hill F também assusta quando o assunto é inclusão! Confira a review focada em acessibilidade.",
-        "image": "https://tm.ibxk.com.br/2025/09/30/1401549_7cd1efdc78.jpg",
         "date": null
     }
 ]
