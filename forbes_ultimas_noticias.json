@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/10/safra-de-trigo-da-argentina-pode-atingir-recorde-de-23-milhoes-de-toneladas/",
+        "title": "Safra de Trigo da Argentina Pode Atingir Recorde de 23 Milhões de Toneladas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_trigo_foto_Reuters_01.10.2025-300x200.jpg",
+        "date": "09/10/2025",
+        "description": "A alta do trigo ocorre graças aos altos rendimentos resultantes da abundante umidade no solo"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/kit-com-cafe-indigena-da-amazonia-premiado-com-nota-maxima-vai-a-venda-por-r599/",
+        "title": "Kit com Café Indígena da Amazônia Premiado com Nota Máxima Vai À Venda por R$599",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Cafe-300x200.jpg",
+        "date": "09/10/2025",
+        "description": "A edição limitada será comercializada em um kit que inclui o café em grãos e um moedor de alta precisão"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-collab/2025/10/a-jornada-que-transformou-a-vammo-na-protagonista-da-mobilidade-eletrica/",
+        "title": "A Jornada Que Transformou a Vammo na Protagonista da Mobilidade Elétrica",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/IMG_8165-300x200.jpg",
+        "date": "09/10/2025",
+        "description": "Com motos por assinatura e troca rápida de baterias, empresa está superando as barreiras do mercado e se tornando a chave para a eletrificação das duas rodas no Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/10/censo-2022-nivel-de-ocupacao-e-menor-que-o-registrado-em-2010/",
+        "title": "Censo 2022: Nível de Ocupação É Menor Que o Registrado em 2010",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/ocupacao-censo-2022-populacao-300x200.jpg",
+        "date": "09/10/2025",
+        "description": "Dados mostram que 11,1% dos adolescentes entre 14 e 17 anos já exerciam algum tipo de trabalho no momento da pesquisa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/rubio-faz-contato-com-chanceler-brasileiro-para-tratar-de-tarifaco/",
+        "title": "Rubio Faz Contato com Chanceler Brasileiro para Tratar de Tarifaço",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/lei-da-reciprocidade-exportacao-do-brasil-importacao-economia-300x200.png",
+        "date": "09/10/2025",
+        "description": "Informação foi dada nesta quinta-feira (9) pelo presidente Lula"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/10/mulheres-sao-mais-escolarizadas-mas-ganham-quase-20-a-menos-que-os-homens/",
         "title": "Mulheres São Mais Escolarizadas, Mas Ganham Quase 20% Menos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/mulher-trabalho-cientista-laboratorio-300x200.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-09T155352Z_1_LYNXNPEL980U4_RTROPTP_4_BRAZIL-ECONOMY-BANKNOTE-300x200.jpg",
         "date": "09/10/2025",
         "description": "Randolfe Rodrigues afirmou que a medida provisória surgiu como alternativa após o Congresso reverter parte do aumento do IOF proposto pelo governo no início do ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/a-bolha-da-ia-esta-prestes-a-estourar-e-quem-disse-isso-foi-o-fmi/",
-        "title": "A Bolha da IA Está Prestes a Estourar, e Quem Disse Isso Foi o FMI",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Kristalina-Georgieva-300x200.jpg",
-        "date": "09/10/2025",
-        "description": "Kristalina Georgieva, Diretora do Fundo Monetário Internacional (FMI), alertou para um momento posterior ao atual, de valorização global das empresas de tecnologia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/cafe-robusta-indigena-bate-nota-maxima-e-venda-de-kit-exclusivo-chega-a-r-599/",
-        "title": "Café Robusta Indígena da Amazônia Chega ao Mercado de Luxo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_conilon_cafe_e-graos_foto_jayk7-Gettyimages_09.10.2025-300x200.jpg",
-        "date": "09/10/2025",
-        "description": "O cacique Rafael Mupimoku Suruí produziu o café que alcançou a pontuação inédita de 100 pontos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/byd-inaugura-primeira-fabrica-do-brasil-que-produz-carros-eletricos-e-hibridos/",
-        "title": "BYD Inaugura Primeira Fábrica do Brasil Que Produz Carros Elétricos e Híbridos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/BYD-fabrica-no-brasil-1-300x200.jpg",
-        "date": "09/10/2025",
-        "description": "A planta brasileira, na Bahia, produz três dos modelos mais vendidos da marca no país: o 100% elétrico Dolphin Mini e os híbridos plug-in Song Pro e King"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/ibge-mostra-queda-no-numero-de-brasileiros-que-trabalham-de-casa/",
-        "title": "IBGE Mostra Queda no Número de Brasileiros Que Trabalham de Casa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-home-office-trabalho-remoto-getty-images-300x200.jpg",
-        "date": "09/10/2025",
-        "description": "Segundo o Censo, apenas 16,9% dos profissionais faziam home office em 2022; em 2010, o percentual era de 22%"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/indonesia-confirma-biodiesel-b50-para-2026-apos-reduzir-importacoes-de-diesel-em-quase-40/",
-        "title": "Indonésia Acelera para o Biodiesel B50 com Fim das Importações de Diesel em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_plantacao_palma_indonesia_foto_REUTERS_09.10.2025-300x200.jpg",
-        "date": "09/10/2025",
-        "description": "A transição para o B50 é a próxima etapa na estratégia da Indonésia para eliminar a dependência de importações de diesel"
     }
 ]

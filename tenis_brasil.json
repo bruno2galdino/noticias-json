@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/rio-open-promove-festival-de-dia-das-criancas-com-torneio-winners-e-kids-day.html",
+        "title": "Rio Open promove Festival de Dia das Crianças com Torneio Winners e Kids Day",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/rioopen_kids-day.jpg",
+        "date": "09/10/2025",
+        "description": "Rio de Janeiro (RJ)– O Rio Open, maior torneio de tênis da América do Sul, realiza nos dias 11 e 12 de outubro, no Clube Marapendi, na Barra da Tijuca, o Festival de Dia das Crianças, iniciativa do pilar social Rio Open Ace, que tem o esporte como ferramenta de transformação social."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/wta-define-calendario-de-2026-e-mantem-sp-open-em-setembro.html",
+        "title": "WTA define calendário de 2026 e mantém SP Open em setembro",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sp_open_quadra_noite.jpg",
+        "date": "09/10/2025",
+        "description": "São Paulo (SP) –A WTA divulgou nesta quinta-feira o calendário de competições para 2026. E pelo segundo ano consecutivo, a cidade de São Paulo receberá um torneio da série 250. A nova edição do SP Open acontecerá entre os dias 14 e 20 de setembro."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-09-10.html",
         "title": "O dia dos brasileiros: veja os resultados desta quinta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sofia_mendonca_rioclaro25-1024x683.jpg",
@@ -7,66 +21,52 @@
         "description": "Challenger de Cali (Colômbia) – Saibro – US$ 100 milSegunda rodada –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/sabalenka-e-rybakina-duelam-as-2h-iga-enfrenta-paolini-as-8h.html",
+        "title": "Sabalenka e Rybakina duelam às 2h, Iga enfrenta Paolini às 8h",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/rybakina_wuhan_back-1024x576.jpg",
+        "date": "09/10/2025",
+        "description": "Wuhan (China) –As semifinalistas do WTA 1000 de Wuhan serão conhecidas nesta sexta-feira, em dia de rodada de rodada cheia das quartas de final e presença das três primeiras colocadas no ranking, Aryna Sabalenka, Iga Swiatek e Coco Gauff."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sexta-em-xangai-tem-ultimos-jogos-das-quartas-e-exibicao-de-federer.html",
+        "title": "Sexta em Xangai tem últimos jogos das quartas e exibição de Federer",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/aliassime-xangai-back-2025-e1759932964342-1024x682.jpg",
+        "date": "09/10/2025",
+        "description": "Xangai (China) –O dois últimos semifinalistas do Masters 1000 de Xangai serão conhecidos nesta sexta-feira, após as classificações do tetracampeão Novak Djokovic e do surpreendente Valentin Vacherot na rodada desta quinta."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/semifinal-de-duplas-em-valencia-tera-matos-demoliner-e-luz.html",
+        "title": "Semifinal de duplas em Valência terá Matos, Demoliner e Luz",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/demoliner_luz_lisboa_semi-1024x682.jpg",
+        "date": "09/10/2025",
+        "description": "Valência (Espanha) –Três brasileiros estarão em quadra em uma das semifinais de duplas do challenger de Valência, em quadras de saibro na Espanha. O gaúchos Marcelo Demoliner e Orlando Luz desafiam Rafael Matos, também do Rio Grande do Sul, e seu parceiro uruguaio Ariel Behar nesta sexta-feira às 7h (de Brasília)."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/medvedev-e-contundente-ao-elogiar-tien-e-diz-que-ele-pode-ser-no-1.html",
+        "title": "Medvedev é contundente ao elogiar Tien e diz que ele pode ser nº 1",
+        "image": null,
+        "date": "09/10/2025",
+        "description": "Xangai (China)– Derrotado nos dois primeiros duelos que travou com o jovem norte-americano Learner Tien, o russo Daniil Medvedev finalmente conseguiu vencer o rival na última quarta-feira no Masters 1000 de Xangai, se garantindo nas quartas de final do torneio. Após o trunfo, ele não poupou palavras ao elogiar o tenista de apenas 19 anos"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/xangai-define-os-primeiros-semifinalistas-veja-como-foi.html",
+        "title": "Xangai define os primeiros semifinalistas. Veja como foi.",
+        "image": null,
+        "date": "09/10/2025",
+        "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/confira-o-resumo-desta-quinta-no-wta-1000-de-wuhan.html",
+        "title": "Confira o resumo desta quinta no WTA 1000 de Wuhan",
+        "image": null,
+        "date": "09/10/2025",
+        "description": ""
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/mateus-alves-faz-quartas-na-colombia-daniel-silva-cai-nas-oitavas.html",
         "title": "Mateus Alves faz quartas na Colômbia, Daniel Silva cai nas oitavas",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/mateus_alves_saque_cali.jpg",
         "date": "09/10/2025",
         "description": "Cali (Colômbia) –Os dois brasileiros que atuaram nesta quinta-feira pelo challenger de Cali tiveram rumos opostos no torneio colombiano em quadras de saibro. Mateus Alves avançou às quartas de final, enquanto o canhoto Daniel Dutra da Silva parou na segunda rodada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-as-condicoes-estao-muito-desafiadoras-para-todos.html",
-        "title": "Djokovic: “As condições estão muito desafiadoras para todos”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/djokovic-xangai-back-2025.jpg",
-        "date": "09/10/2025",
-        "description": "Xangai (China)– Aos 38 anos, o sérvio Novak Djokovic se tornou o semifinalista mais velho da história do Masters 1000 ao garantir vaga na penúltima rodada em Xangai nesta quinta-feira, batendo o belga Zizou Bergs em sets diretos. Ele agora tem um cartel de 27-0 na temporada, após vencer o primeiro set."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/swiatek-visita-museu-em-wuhan-e-experimenta-montar-uma-estrutura.html",
-        "title": "Swiatek visita museu em Wuhan e experimenta montar uma estrutura",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/swiatek_wuhan_blocos.jpg",
-        "date": "09/10/2025",
-        "description": "Wuhan (China) –Fã de Lego, a polonesa Iga Swiatek se divertiu em uma atividade extra quadra nesta semana durante a disputa do WTA 1000 de Wuhan."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sensacao-em-xangai-vacherot-faz-historia-com-vaga-nas-semifinais.html",
-        "title": "Sensação em Xangai, Vacherot faz história com vaga nas semifinais",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Vacherot-Vibra-Xangai-2025-scaled-e1760025490523-1024x683.jpg",
-        "date": "09/10/2025",
-        "description": "Xangai (China)– As emoções tomaram conta de Valentin Vacherot momentos depois de ele completar sua vitória sobre o dinamarquês Holger Rune e garantir uma histórica vaga nas semifinais do Masters 1000 de Xangai. Ele é apenas o segundo monegasco em uma semi de ATP, se juntando a Jean-Rene Lisnard, que foi até a penúltima rodada de Chennai em 2003."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/gauff-passa-facil-por-tenista-da-casa-e-fecha-as-quartas-em-wuhan.html",
-        "title": "Gauff passa fácil por tenista da casa e fecha as quartas em Wuhan",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Coco_Gauff_-_Dongfeng_Voyah_Wuhan_Open_-_Day_5-DSC_4430_xgaplus.jpg",
-        "date": "09/10/2025",
-        "description": "Wuhan (China)– Na última partida desta quinta-feira no WTA 1000 de Wuhan, a norte-americana Coco Gauff acabou com a festa da convidada da casa Shuai Zhang e anotou uma vitória tranquila em apenas 61 minutos, marcando parciais de 6/3 e 6/2 para fechar a lista das quadrifinalistas no torneio."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/apos-varias-criticas-atp-estuda-mudanca-na-regra-sobre-calor-extremo.html",
-        "title": "Após várias críticas, ATP estuda mudança na regra sobre calor extremo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/djokovic_xangai_calor.jpg",
-        "date": "09/10/2025",
-        "description": "Xangai (China) –As altas temperaturas e a grande umidade durante o Masters 1000 de Xangai causaram muitas críticas dos tenistas, que sentiram na pele os efeitos do desgaste causado. Em Wuhan, onde acontece o WTA 1000, uma das vítimas foi a britânica Emma Raducanu, forçada a abandonar um jogo que vencia."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/swiatek-supera-bencic-e-conquista-sua-125a-vitoria-em-wta-1000.html",
-        "title": "Swiatek supera Bencic e conquista sua 125ª vitória em WTA 1000",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Iga_Swiatek_-_Dongfeng_Voyah_Wuhan_Open_-_Day_6-DSC_2112_xgaplus.jpg",
-        "date": "09/10/2025",
-        "description": "Wuhan (China)– Jogando o WTA 1000 de Wuhan pela primeira vez, a polonesa Iga Swiatek segue fazendo valer a condição de cabeça de chave número 2 e já está nas quartas de final. Nesta quinta-feira, ela derrotou a suíça Belinda Bencic em sets diretos, com parciais de 7/6 (7-2) e 6/4 em 2h08 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/favoritos-superam-alagoanos-na-estreia-do-macena-open-em-alagoas.html",
-        "title": "Favoritos superam alagoanos na estreia do Macena Open em Alagoas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/baran_loch_macena.jpg",
-        "date": "09/10/2025",
-        "description": "Marechal Deodoro (AL) –Os favoritos largaram com vitória, nesta quarta-feira, no primeiro dia da chave principal do Macena Open Prime realizado na Praia do Francês, em Marechal Deodoro, Alagoas. O torneio é da categoria BT 400, distribuindo 470 pontos e premiação total de US$ 35 mil."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-faz-80a-semi-de-masters-1000-e-encara-surpresa-monegasca.html",
-        "title": "Djokovic faz 80ª semi de Masters 1000 e encara surpresa monegasca",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/djokovic-xangai-2025-scaled-e1760015573354-1024x684.jpg",
-        "date": "09/10/2025",
-        "description": "Xangai (China)– Quatro vezes campeão do Masters 1000 de Xangai, o sérvio Novak Djokovic confirmou o favoritismo sobre o belga Zizou Bergs e se garantiu mais uma vez na semifinal do torneio. Nesta quinta-feira, apesar de mais uma vez sofrer com o físico, o ex-número 1 do mundo avançou com uma vitória em sets diretos, marcando parciais de 6/3 e 7/5 em 1h51 de jogo."
     }
 ]
