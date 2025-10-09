@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/youtube-e-a-plataforma-de-streaming-mais-assistida-em-tvs-conectadas-no-brasil-em-2025/",
+        "title": "YouTube É a Plataforma de Streaming Mais Assistida em TVs Conectadas no Brasil em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/YouTube-300x200.png",
+        "date": "08/10/2025",
+        "description": "Mais de 80 milhões de brasileiros já consomem conteúdo da plataforma pela TV, de acordo com o estudo Cross Platform View, realizado pela Kantar IBOPE Media"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-fecha-no-positivo-em-dia-de-ajustes/",
         "title": "Dólar termina o dia perto da estabilidade com mercado à espera de votação no Congresso",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_colheita_no_Brasil_foto_Drs_Producoes-gettyimages_01.10.2025-300x200.jpg",
         "date": "08/10/2025",
         "description": "O desempenho é fruto da colheita de uma safra recorde e da guerra tarifária EUA-China"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/10/biodiesel-demanda-crescera-63-em-2026-com-105-bilhoes-de-litros-na-mistura-b15/",
-        "title": "Consumo de Óleo de Soja Dispara 6,3% Impulsionado Por Biodiesel",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_biodiesel_biocombustivel_caminhao_reboque_tanque_foto_Scharfsinn86-Gettyimages_08.10.2025-300x200.jpg",
-        "date": "08/10/2025",
-        "description": "Projeção está em linha com mistura obrigatória de 15% de biodiesel no diesel (B15), vigente no próximo ano"
     }
 ]

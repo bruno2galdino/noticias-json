@@ -1,8 +1,36 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407646-cibercrime-invade-salas-de-aula-e-impacta-o-aprendizado.htm",
+        "title": "Cibercrime invade salas de aula e impacta o aprendizado",
+        "description": "Apesar da recuperação rápida, instituições de ensino caem na armadilha da falsa segurança e enfrentam IA e falta de especialistas.",
+        "image": "https://tm.ibxk.com.br/2025/10/08/cyber_crime_gettyimages_896b9d5713.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502460-silent-hill-f-decepciona-em-acessibilidade-confira-analise.htm",
+        "title": "Silent Hill f decepciona em acessibilidade! Confira análise",
+        "description": "O terror de Silent Hill F também assusta quando o assunto é inclusão! Confira a review focada em acessibilidade.",
+        "image": "https://tm.ibxk.com.br/2025/09/30/1401549_7cd1efdc78.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407652-tim-anuncia-parceria-para-construir-3-mil-novas-torres-de-telecomunicacao.htm",
+        "title": "TIM anuncia parceria para construir 3 mil novas torres de telecomunicação",
+        "description": "A partir do acordo com a IHS Brasil, a TIM quer ampliar a cobertura do 5G em todo o território nacional, bem como aprimorar a qualidade do serviço.",
+        "image": "https://tm.ibxk.com.br/2025/10/08/tim_construcao_novas_torres_ceb71f3bef.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407651-realme-15-series-chega-ao-brasil-a-partir-de-r-37-mil-veja-detalhes.htm",
+        "title": "Realme 15 Series chega ao Brasil a partir de R$ 3,7 mil; veja detalhes",
+        "description": "A Realme lançou oficialmente os aparelhos da linha 15 Series no Brasil, saindo por preços a partir de 3,7 mil.",
+        "image": "https://tm.ibxk.com.br/2025/10/08/Captura_de_tela_2025_10_08_155756_211407688c.png",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602263-dexter-ressurreicao-voltara-para-2-temporada-anunciou-michael-c-hall-veja-o-video.htm",
-        "title": "Dexter Ressurreição voltará para 2ª temporada, anunciou Michael C. Hall. Veja o vídeo!",
-        "description": "O ator confirmou que a história de Dexter Morgan vai continuar no Paramount+, com novos episódios já em desenvolvimento.",
+        "title": "Dexter Ressurreição voltará para 2ª temporada, anunciou Michael C. Hall, veja o vídeo",
+        "description": "O ator confirmou que a história de Dexter Morgan vai continuar no Paramount+, com novos episódios já em desenvolvimento",
         "image": "https://tm.ibxk.com.br/2025/10/08/jgfmzwfm_Mh4_D_Tq_ITV_Sdtx_B_Kf_FE_5_382ae0c936.png",
         "date": null
     },
@@ -39,27 +67,6 @@
         "title": "Governo Federal cobra devolução do Auxílio Emergencial por WhatsApp",
         "description": "As pessoas obrigadas ao ressarcimento do Auxílio Emergencial devem ficar atentas para não cair em golpes ao fazer as transferências.",
         "image": "https://tm.ibxk.com.br/2025/10/08/cobranca_auxilio_emergencial_2_c474470fa1.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502508-play-store-libera-tres-jogos-gratis-por-tempo-limitado-resgate-agora-8.htm",
-        "title": "Play Store libera três jogos grátis por tempo limitado! Resgate agora (8)",
-        "description": "A Play Store liberou mais uma leva de jogos gratuitos para jogar no Android, mas você deve correr para garanti-los na sua biblioteca! Saiba mais",
-        "image": "https://tm.ibxk.com.br/2025/10/07/JOGOS_GRATUITOS_NA_PLAY_STORE_632153ddde.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407641-google-se-recusa-a-corrigir-falha-que-faz-gemini-executar-comandos-ocultos.htm",
-        "title": "Google se recusa a corrigir falha que faz Gemini executar comandos ocultos",
-        "description": "A brecha ASCII Smuggling abusa de caracteres especiais para adicionar comandos ocultos executáveis por IA; o Google se recusou a corrigir o problema",
-        "image": "https://tm.ibxk.com.br/2025/05/20/20084737746010.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602259-hulu-chega-oficialmente-ao-brasil-no-disney-veja-o-que-muda.htm",
-        "title": "Hulu chega oficialmente ao Brasil no Disney+! Veja o que muda",
-        "description": "Aplicativo do Disney+ foi atualizado com nova aba do Hulu, que veio para \"matar\" a marca Star de vez.",
-        "image": "https://tm.ibxk.com.br/2025/10/08/hulu_brasil_18da96d49d.jpg",
         "date": null
     }
 ]
