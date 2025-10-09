@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-09-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sofia_mendonca_rioclaro25-1024x683.jpg",
+        "date": "09/10/2025",
+        "description": "Challenger de Cali (Colômbia) – Saibro – US$ 100 milSegunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alemaes-fazem-semi-de-duplas-em-xangai-campeoes-do-ao-caem.html",
+        "title": "Alemães fazem semi de duplas em Xangai, campeões do AO caem",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/krawietz-puetz-usopen-1024x576.jpg",
+        "date": "09/10/2025",
+        "description": "Xangai (China) –As duas últimas vagas nas semifinais de duplas do Masters 1000 de Xangai foram definidas nesta quinta-feira. Destaque para a classificação dos alemães Kevin Krawietz e Tim Puetz, que tiveram trabalho para vencer o mexicano Santiago Gonzalez e o holandês David Pel por 6/7(4-7), 7/5 e 10-4."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/rio-open-promove-festival-de-dia-das-criancas-com-torneio-winners-e-kids-day.html",
         "title": "Rio Open promove Festival de Dia das Crianças com Torneio Winners e Kids Day",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/rioopen_kids-day.jpg",
@@ -12,13 +26,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sp_open_quadra_noite.jpg",
         "date": "09/10/2025",
         "description": "São Paulo (SP) –A WTA divulgou nesta quinta-feira o calendário de competições para 2026. E pelo segundo ano consecutivo, a cidade de São Paulo receberá um torneio da série 250. A nova edição do SP Open acontecerá entre os dias 14 e 20 de setembro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-09-10.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quinta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sofia_mendonca_rioclaro25-1024x683.jpg",
-        "date": "09/10/2025",
-        "description": "Challenger de Cali (Colômbia) – Saibro – US$ 100 milSegunda rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/sabalenka-e-rybakina-duelam-as-2h-iga-enfrenta-paolini-as-8h.html",
@@ -61,12 +68,5 @@
         "image": null,
         "date": "09/10/2025",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/mateus-alves-faz-quartas-na-colombia-daniel-silva-cai-nas-oitavas.html",
-        "title": "Mateus Alves faz quartas na Colômbia, Daniel Silva cai nas oitavas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/mateus_alves_saque_cali.jpg",
-        "date": "09/10/2025",
-        "description": "Cali (Colômbia) –Os dois brasileiros que atuaram nesta quinta-feira pelo challenger de Cali tiveram rumos opostos no torneio colombiano em quadras de saibro. Mateus Alves avançou às quartas de final, enquanto o canhoto Daniel Dutra da Silva parou na segunda rodada."
     }
 ]
