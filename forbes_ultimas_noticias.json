@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2025/10/mulheres-sao-mais-escolarizadas-mas-ganham-quase-20-a-menos-que-os-homens/",
+        "title": "Mulheres São Mais Escolarizadas, Mas Ganham Quase 20% Menos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/mulher-trabalho-cientista-laboratorio-300x200.jpg",
+        "date": "09/10/2025",
+        "description": "Dados preliminares do Censo 2022, divulgados pelo IBGE, mostram que os homens possuem um maior nível de ocupação no país"
+    },
+    {
+        "url": "https://forbes.com.br/coluna/2025/10/a-derrota-da-mp-1303-e-o-novo-teste-de-fogo-para-a-economia-brasileira/",
+        "title": "A Derrota da MP 1303 e o Novo Teste de Fogo para a Economia Brasileira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-10-300x200.jpg",
+        "date": "09/10/2025",
+        "description": "A MP era uma tentativa de equilibrar as contas públicas sem recorrer ao aumento do IOF"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/queda-de-preco-do-cafe-ao-consumidor-brasileiro-desacelera-em-setembro-aponta-ibge/",
+        "title": "Queda de Preço do Café Ao Consumidor Brasileiro Desacelera em Setembro, Aponta IBGE",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-09T151554Z_1_LYNXNPEL980SS_RTROPTP_4_BRAZIL-COFFEE-STOCKPILES-300x200.jpg",
+        "date": "09/10/2025",
+        "description": "O preço do café no varejo manteve tendência de recuo em setembro, embora em ritmo mais moderado que nos meses anteriores"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/trading-de-energia-no-brasil-despenca-com-mercado-digerindo-mudancas-e-restricao-de-credito/",
         "title": "Trading de Energia no Brasil Despenca com Mercado Digerindo Mudanças e Restrição de Crédito",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-09T155940Z_1_LYNXNPEL980UD_RTROPTP_4_ITAIPU-HYDRO-RIVER-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_plantacao_palma_indonesia_foto_REUTERS_09.10.2025-300x200.jpg",
         "date": "09/10/2025",
         "description": "A transição para o B50 é a próxima etapa na estratégia da Indonésia para eliminar a dependência de importações de diesel"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/milho-china-reduz-projecao-de-importacao-na-safra-2025-26-em-1-milhao-de-toneladas/",
-        "title": "Milho Chinês: Perspectiva de Importação Cai e Saldo de Safra Encolhe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_milho_graos_porto_foto_REUTERS-Adriano_Machado_09.10.2025-300x200.jpg",
-        "date": "09/10/2025",
-        "description": "A previsão do saldo de safra de milho foi reduzida para 2,46 milhões de toneladas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/safra-de-cafe-robusta-do-vietna-deve-crescer-15-em-volume/",
-        "title": "Vietnã Projeta Salto de 15% na Safra de Café Robusta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_robusta_foto_REUTERS-Juan_Carlos_Ulate_09.10.2025-300x200.jpg",
-        "date": "09/10/2025",
-        "description": "As receitas de exportação do país já dispararam 62,2% no acumulado do ano, somando US$ 7 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/china-fixa-cotas-de-importacao-de-trigo-milho-e-algodao-para-2026/",
-        "title": "China Fixa Cotas de Importação de Trigo, Milho e Algodão para 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_armazem_graos_area_rural_foto_REUTERS-Tom-Polansek_09.10.2025-300x200.jpg",
-        "date": "09/10/2025",
-        "description": "A decisão sinaliza estabilidade na política de acesso ao mercado chinês para arroz e algodão"
     }
 ]
