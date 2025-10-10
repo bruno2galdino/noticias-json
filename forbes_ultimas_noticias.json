@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/10/brasil-recebe-lote-com-26-mil-doses-do-antidoto-fomepizol/",
+        "title": "Chega Ao Brasil Lote com 2,6 Mil Doses do Antídoto Fomepizol",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/pint0679-300x200.jpg",
+        "date": "10/10/2025",
+        "description": "Medicamentos foram recebidos pela equipe da Anvisa no aeroporto de Guarulhos-SP"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-termina-em-queda-com-exterior-e-fiscal-dolar-dispara-a-r-550/",
+        "title": "Ibovespa Termina em Queda com Exterior e Fiscal; Dólar Dispara a R$ 5,50",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "10/10/2025",
+        "description": "O índice brasileiro ampliou a correção negativa em outubro, em meio a fortes perdas em Wall Street e declínio acentuado dos preços do petróleo no exterior"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/10/vivo-chega-a-cop30-com-um-projeto-de-30-anos-na-amazonia-diz-marina-daineze/",
         "title": "Vivo Chega À COP30 com um Projeto de 30 Anos na Amazônia, diz Marina Daineze",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Marina-Daineze_27mar25_Westend61_Vivo_Divulg-300x200.jpg",
@@ -8,10 +22,10 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/10/ameaca-de-trump-de-impor-tarifas-massivas-a-china-derruba-mercados/",
-        "title": "Ameaça de Trump de Impor Tarifas \"Massivas\" À China Derruba Mercados",
+        "title": "Trump diz que vai Impor Tarifas de 100% a Importações Chinesas em Novembro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-5-300x200.jpg",
         "date": "10/10/2025",
-        "description": "O presidente dos EUA acusou a China de ordem para restringir exportações de terras raras"
+        "description": "Declaração de tarifas massivas derrubou mercados; ele acusa China de ordem para restringir exportações de terras raras"
     },
     {
         "url": "https://forbes.com.br/forbesesg/2025/10/brasil-admite-frustracao-com-ambicao-climatica-dos-paises-a-menos-de-um-mes-da-cop30/",
@@ -49,24 +63,10 @@
         "description": "O Plano Brasil Soberano, criado pelo BNDES para enfrentar tarifaço norte-americano, conta com R$40 bilhões"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/fotos-revelam-o-segredo-da-nova-picape-de-luxo-dakota-que-a-ram-guarda-a-sete-chaves/",
+        "url": "https://forbes.com.br/forbeslife/2025/10/fotos-revelam-o-segredo-da-nova-picape-de-luxo-dakota-que-a-ram-guarda-a-sete-chaves/",
         "title": "Fotos Revelam o Segredo da Nova Picape de Luxo Dakota Que a Ram Guarda a Sete Chaves",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/ram_dakota_1-300x200.jpg",
         "date": "10/10/2025",
         "description": "A marca revelou elementos de design que prometem ser um dos grandes diferenciais do modelo, previsto para chegar ao mercado em 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/10/porto-transforma-numeros-em-reputacao-e-chega-ao-top-3-do-brasil/",
-        "title": "Porto Transforma Números em Reputação e Chega Ao Top 3 do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Arruda-300x200.jpg",
-        "date": "10/10/2025",
-        "description": "Luiz Arruda, VP Comercial e de Marketing do Grupo Porto, lidera o processo de integração entre marketing e comercial e celebra cinco anos de trajetória que levaram a marca à elite dos rankings Brand Finance e Interbrand"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/temor-fiscal-faz-dolar-disparar-e-passar-dos-r-550/",
-        "title": "Temor Fiscal Faz Dólar Disparar e Passar dos R$ 5,50",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Nota-de-dolar-e-grafico-em-imagem-ilustrativa-300x200.jpg",
-        "date": "10/10/2025",
-        "description": "Por volta das 15h (horário de Brasília), desta sexta-feira (10), moeda à vista registrava alta de mais de 2% ante o real"
     }
 ]
