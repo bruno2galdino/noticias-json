@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mkt/2025/10/porto-transforma-numeros-em-reputacao-e-chega-ao-top-3-do-brasil/",
+        "title": "Porto Transforma Números em Reputação e Chega Ao Top 3 do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Arruda-300x200.jpg",
+        "date": "10/10/2025",
+        "description": "Luiz Arruda, VP Comercial e de Marketing do Grupo Porto, lidera o processo de integração entre marketing e comercial e celebra cinco anos de trajetória que levaram a marca à elite dos rankings Brand Finance e Interbrand"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/temor-fiscal-faz-dolar-disparar-e-passar-dos-r-550/",
+        "title": "Temor Fiscal Faz Dólar Disparar e Passar dos R$ 5,50",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Nota-de-dolar-e-grafico-em-imagem-ilustrativa-300x200.jpg",
+        "date": "10/10/2025",
+        "description": "Por volta das 15h (horário de Brasília), desta sexta-feira (10), moeda à vista registrava alta de mais de 2% ante o real"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/floresta-viva-edital-do-bndes-tera-r-10-milhoes-para-restauracao-florestal-em-terras-indigenas/",
+        "title": "Edital do BNDES Usa R$ 10 Mi Para Fortalecer Brigadas Indígenas e Sistemas Agroflorestais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_fundacao_bunge_bndes_10.10.2025-300x200.jpg",
+        "date": "10/10/2025",
+        "description": "A iniciativa conta com recursos do BNDES (50%), Fundação Bunge (40%) e Agrícola Alvorada (10%)"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/10/comissao-europeia-analisa-seguranca-infantil-no-snapchat-youtube-e-lojas-de-aplicativos/",
         "title": "Comissão Europeia Analisa Segurança Infantil no Snapchat, Youtube e Lojas de Aplicativos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-10T142727Z_1_LYNXNPEL990R9_RTROPTP_4_TECH-UE-SEGURANCA-CRIANCAS-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Volkswagen-300x200.jpg",
         "date": "10/10/2025",
         "description": "Entregas de veículos elétricos a bateria aumentaram 33,1% de julho a setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/btg-pactual-passa-a-deter-4971-da-veste-sa-estilo/",
-        "title": "BTG Pactual Passa a Deter 49,71% da Veste SA Estilo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/BTG-getty-images-SOPA-Images-300x200.jpg",
-        "date": "10/10/2025",
-        "description": "BTG também reteve a possibilidade de adquirir 4,4 milhões de ações da Veste, que representam 3,81% do capital da companhia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/smartfit-vai-emitir-pelo-menos-r-1-bi-em-debentures/",
-        "title": "Smartfit Vai Emitir Pelo Menos R$ 1 Bi em Debêntures",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/07/Smartfit-300x200.jpg",
-        "date": "10/10/2025",
-        "description": "Emissão terá três séries, com a primeira tendo prazo de cinco anos, a segunda sete anos e a terceira 10 anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-cessar-fogo-em-gaza-reduz-precos-do-petroleo/",
-        "title": "Pré-mercado: Cessar-fogo em Gaza Reduz Preços do Petróleo",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "10/10/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 10 de outubro"
     }
 ]
