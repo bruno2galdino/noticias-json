@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/407715-openai-nao-e-mais-obrigada-a-guardar-conversas-excluidas-do-chatgpt.htm",
+        "title": "OpenAI não é mais obrigada a guardar conversas excluídas do ChatGPT",
+        "description": "Por causa de um processo movido pelo The New York Times, a desenvolvedora precisava armazenar, indefinidamente, logs de interações de usuários com a IA.",
+        "image": "https://tm.ibxk.com.br/2025/10/10/conversas_excluidas_chatgpt_910b43edc3.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502530-xbox-game-pass-recebe-3-novos-titulos-para-as-jogatinas-do-fim-de-semana-veja-os-lancamentos.htm",
+        "title": "Xbox Game Pass recebe 3 novos títulos para as jogatinas do fim de semana! Veja os lançamentos",
+        "description": "Três novos jogos chegaram recentemente ao Xbox Game Pass e são ótimas indicações para jogar no fim de semana; Confira!",
+        "image": "https://tm.ibxk.com.br/2025/10/08/GAME_PASS_31e74d9293.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/guia-de-compras/407677-redmi-buds-6-em-oferta-confira-4-fones-da-linha-com-desconto-no-site-da-xiaomi.htm",
         "title": "Redmi Buds 6 em oferta: confira 4 fones da linha com desconto no site da Xiaomi",
         "description": "Conheça quatro modelos da linha Redmi Buds 6 e aproveite os preços mais baixos no site oficial da Xiaomi para garantir som de qualidade gastando menos por tempo limitado",
@@ -32,20 +46,6 @@
         "title": "Hideo Kojima vem ao Brasil, toma caipirinha e come churrasco",
         "description": "Presente no país para a Brasil Game Show, o desenvolvedor Hideo Kojima está aproveitando os destaques do país, desde o café até bebidas — o que levantou preocupações sobre Metanol nos fãs.",
         "image": "https://tm.ibxk.com.br/2025/10/11/hideo_kojima_brasil_b8120b6a16.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602261-vale-a-pena-assinar-o-meli-mega-e-cancelar-netflix-e-outros-streamings-veja-comparativo.htm",
-        "title": "Vale a pena assinar o Meli+ Mega e cancelar Netflix e outros streamings? Veja comparativo",
-        "description": "O Meli+ Mega pretende ser uma maneira mais economia de assinar as principais plataformas de streaming do mercado, unindo Netflix, Apple TV, HBO Max e Disney+ em um só lugar. Mas, afinal, vale a pena?",
-        "image": "https://tm.ibxk.com.br/2025/10/08/Vale_Pena_Assinar_Meli_Valor_Servicos_6cb64c9685.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/407704-dell-pro-max-16-notebook-poderoso-chega-ao-brasil-a-partir-de-r-12-mil.htm",
-        "title": "Dell Pro Max 16: notebook poderoso chega ao Brasil a partir de R$ 12 mil",
-        "description": "Modelo fabricado no país tem chip Intel Core Ultra Series 2, placa de vídeo moderna da NVIDIA e até 64 GB de RAM.",
-        "image": "https://tm.ibxk.com.br/2025/10/10/Dell_Pro_Max_16_notebook_workstation_bfbfee9b43.jpg",
         "date": null
     }
 ]
