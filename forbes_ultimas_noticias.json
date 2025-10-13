@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/10/boletim-focus-analistas-reduzem-expectativa-para-a-inflacao-para-472/",
+        "title": "Boletim Focus: Analistas Reduzem Expectativa para a Inflação para 4,72%",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/06/banco-central-bc-boletim-focus-300x200.jpg",
+        "date": "13/10/2025",
+        "description": "Projeção para o IPCA cai pela terceira semana seguida, enquanto estimativas para PIB e Selic permanecem estáveis, segundo o Banco Central"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/nobel-de-economia-destaca-valor-da-inovacao-para-o-progresso-global/",
         "title": "Nobel de Economia Destaca Valor da Inovação para o Progresso Global",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-30-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.A-Filterbaby-construiu-um-imperio-de-bem-estar-a-partir-da-tecnologia-de-filtragem-projetada-para-ser-eficaz-e-esteticamente-agradavel-300x200.jpg",
         "date": "13/10/2025",
         "description": "Startup criada em 2022 e já com 40 patentes, a Filterbaby revolucionou o mercado de filtragem e quer ser \"a Apple da água\""
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/agc-inicia-operacao-no-brasil-e-amplia-a-conexao-do-agro-com-a-asia/",
-        "title": "AGC Inicia Operação no Brasil e Amplia a Conexão do Agro com a Ásia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_digital_10out25_phakphum-patjangkata_GettyImages-300x200.jpg",
-        "date": "13/10/2025",
-        "description": "Criada por Nxin e Oboya Horticulture Solutions, empresa de Singapura promete conectar produtores, cooperativas e exportadores a fornecedores internacionais"
     }
 ]
