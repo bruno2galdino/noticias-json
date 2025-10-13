@@ -2,9 +2,30 @@
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-13-10.html",
         "title": "O dia dos brasileiros: veja os resultados desta segunda",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/gabriela_ce_paineiras_25-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/candiotto_ecp_back25.jpg",
         "date": "13/10/2025",
         "description": "WTA 500 de Ningbo (China) – Sintético – US$ 115 milDuplas – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/korda-fearnley-e-kecmanovic-eliminam-favoritos-em-estocolmo.html",
+        "title": "Korda, Fearnley e Kecmanovic eliminam favoritos em Estocolmo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/fearnley-stockholm-2025-monday-1024x576.jpg",
+        "date": "13/10/2025",
+        "description": "Estocolmo (Suécia) –O primeiro dia de jogos do ATP 250 de Estocolmo não foi bom para os cabeças de chave. O holandês Tallon Griekspoor, o francês Alexandre Muller e o australiano Alexei Popyrin não confirmaram o favoritismo e perderam na primeira rodada do torneio em quadras duras e cobertas."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/romboli-cai-na-estreia-ao-lado-de-alemao-no-atp-de-estocolmo.html",
+        "title": "Romboli cai na estreia ao lado de alemão no ATP de Estocolmo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli_uso_sozinho.jpg",
+        "date": "13/10/2025",
+        "description": "Estocolmo (Suécia) –Único brasileiro no ATP 250 de Estocolmo, Fernando Romboli foi eliminado na estreia do torneio em quadras duras e cobertas na capital sueca. Romboli e o alemão Hendrik Jebens caíram diante dos austríacos Neil Oberleitner e David Pichler por 6/3 e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bonzi-controla-o-saque-de-opelka-pela-segunda-vez-em-menos-de-15-dias.html",
+        "title": "Bonzi controla o saque de Opelka pela segunda vez em menos de 15 dias",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/bonzi-bruxelas-fore-2025-e1760382888479-1024x684.jpg",
+        "date": "13/10/2025",
+        "description": "Bruxelas (Bélgica)– Apenas 11 dias depois de derrotar o norte-americano Reilly Opelka em sets diretos em Xangai, o francês Benjamin Bonzi anulou com sucesso o potente saque do rival pela segunda vez seguida, marcando duplo 6/4 na primeira rodada do ATP 250 de Bruxelas, em u triunfo de 70 minutos"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/diallo-e-moutet-avancam-em-almaty-com-vitorias-em-sets-diretos.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Xangai_10-top-shots.jpg",
         "date": "13/10/2025",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bia-sofre-queda-e-deixa-o-top-50-apos-tres-anos-e-meio.html",
-        "title": "Bia sofre queda e deixa o top 50 após três anos e meio",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/bia-spopen-lamenta-2025-1024x683.jpeg",
-        "date": "13/10/2025",
-        "description": "São Petersburgo (EUA)– Pela primeira vez em quase três anos e meio, a paulista Beatriz Haddad Maia não está no top 50 da WTA. Ela amargou uma queda de oito colocações nesta segunda-feira e agora é a 52ª do mundo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/veja-as-10-melhores-jogadas-de-vacherot-a-caminho-do-titulo-em-xangai.html",
-        "title": "Veja as 10 melhores jogadas de Vacherot a caminho do título em Xangai",
-        "image": null,
-        "date": "13/10/2025",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/caxias-do-sul-sedia-brasileiro-de-masters-em-novembro.html",
-        "title": "Caxias do Sul sedia Brasileiro de Masters em novembro",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/RolandoFondati.jpg",
-        "date": "13/10/2025",
-        "description": "Caxias do Sul (RS) –Faltando cerca de 20 dias para o final das inscrições, o Campeonato Brasileiro de Masters 2025 ITF 400 já chama a atenção por conta do alto nível técnico dos participantes. A competição, que será realizada de 10 a 15 de novembro, no Recreio da Juventude, em Caxias do Sul (RS), terá cerca de 50 jogadores ranqueados entre os 100 melhores do mundo em suas respectivas categorias."
     }
 ]

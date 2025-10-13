@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-termina-o-dia-em-alta-apos-trump-amenizar-tom-sobre-china/",
+        "title": "Ibovespa Termina o Dia em Alta após Trump Amenizar Tom sobre China",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "13/10/2025",
+        "description": "Depois de disparar mais de 2% na sessão anterior, o dólar encerrou abaixo dos R$ 5,50"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/10/gisele-bundchen-e-a-primeira-brasileira-no-conselho-de-premio-global-de-sustentabilidade/",
+        "title": "Gisele Bündchen É a 1ª Brasileira no Conselho de Prêmio Global de Sustentabilidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Gisele_Bundchen_24fev24_Michael-Loccisano_Guetty-300x200.jpg",
+        "date": "13/10/2025",
+        "description": "Supermodelo e filantropa se une a líderes como príncipe William e Cate Blanchett no Prêmio Earthshot em busca de soluções ambientais"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/acoes-europeias-se-recuperam-de-minima-em-quase-2-semanas/",
         "title": "Ações Europeias se Recuperam de Mínima em Quase 2 Semanas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-1536x1024-1-e1654788080105-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-stock-options-acoes-remuneracao-getty-300x200.jpg",
         "date": "13/10/2025",
         "description": "Em tempos de busca por produtividade e retenção de talentos, nada alinha mais do que transformar executivos em sócios do próprio resultado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/10/taylor-swift-vai-estrear-final-da-eras-tour-e-serie-documental-no-disney/",
-        "title": "Taylor Swift Vai Estrear Final da Eras Tour e Série Documental no Disney+",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Taylor-Swift-1-300x200.jpg",
-        "date": "13/10/2025",
-        "description": "Superestrela do pop anunciou que produções chegam ao streaming em 12 de dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/capricorn-01-zagato-o-supercarro-analogico-cambio-manual-e-limitado-a-19-unidades/",
-        "title": "Capricorn 01 Zagato: o Supercarro Analógico, Câmbio Manual e Limitado a 19 Unidades",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Vittori_1_1500x1000-300x200.jpg",
-        "date": "13/10/2025",
-        "description": "O Capricorn Group contribuiu para construir carros como o McLaren P1, o Porsche 918 Spyder, o Bugatti Veyron e o Chiron"
     }
 ]
