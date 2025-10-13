@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mkt/2025/10/o-futuro-da-economia-criativa/",
+        "title": "O Futuro da Economia Criativa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-4-2-300x200.png",
+        "date": "13/10/2025",
+        "description": "Tecnologia e experiências culturais impulsionam internacionalização da Cuco Agency"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/esses-oculos-da-oakley-e-meta-sabem-mais-sobre-o-vento-do-que-o-seu-app-de-surf/",
+        "title": "Esses Óculos da Oakley e Meta Sabem Mais sobre o Vento do Que o Seu App de Surf",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Oakley-Meta-HSTN-Gabriel-Medina-1-300x200.jpg",
+        "date": "13/10/2025",
+        "description": "Disponível a partir de R$ 3.459, o Oakley Meta HSTN chega às lojas Oakley e ao Itaú Shop, com opções de parcelamento de até 18 vezes e tem Gabriel Medina como um dos principais embaixadores"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/a-ia-da-meta-agora-pode-dublar-os-reels-em-hindi-e-portugues/",
+        "title": "A IA da Meta Agora Pode Dublar os Reels em Hindi e Português",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/08/insta_reels-300x200.jpg",
+        "date": "13/10/2025",
+        "description": "Ao adicionar dois dos idiomas falados por milhões de pessoas em todo o mundo, a dona do Instagram está mirando diretamente em alguns dos seus maiores e mais engajados mercados"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/tudo-o-que-voce-precisa-saber-sobre-a-fashion-week-dos-vinhos/",
+        "title": "Tudo o Que Você Precisa Saber Sobre a “Fashion Week” dos Vinhos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Life_vinhos-300x200.jpg",
+        "date": "13/10/2025",
+        "description": "Criado em Bordeaux, o evento En Primeurs antecipa bilhões em negócios e permite que compradores conheçam os vinhos direto dos barris, antes de chegarem ao mercado"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/moda-emocao-e-estrategia/",
+        "title": "Moda, Emoção e Estratégia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-5-300x200.png",
+        "date": "13/10/2025",
+        "description": "Como Bruna Olivo redefine a liderança da moda brasileira"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/airbus-aposta-no-brasil-como-motor-da-aviacao-na-america-latina/",
+        "title": "Airbus Aposta no Brasil Como Motor da Aviação na América Latina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-4-300x200.jpg",
+        "date": "13/10/2025",
+        "description": "A fabricante está com expectativas otimistas quanto ao crescimento do tráfego aéreo na região"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/a-empreendedora-que-criou-filtros-de-agua-ideais-para-skincare-e-faturou-milhoes/",
+        "title": "Essa Empreendedora Criou Filtros de Água Ideais para Skincare - e Faturou Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.A-Filterbaby-construiu-um-imperio-de-bem-estar-a-partir-da-tecnologia-de-filtragem-projetada-para-ser-eficaz-e-esteticamente-agradavel-300x200.jpg",
+        "date": "13/10/2025",
+        "description": "Startup criada em 2022 e já com 40 patentes, a Filterbaby revolucionou o mercado de filtragem e quer ser \"a Apple da água\""
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/agc-inicia-operacao-no-brasil-e-amplia-a-conexao-do-agro-com-a-asia/",
         "title": "AGC Inicia Operação no Brasil e Amplia a Conexão do Agro com a Ásia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_digital_10out25_phakphum-patjangkata_GettyImages-300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/telas-carreira-300x200.jpg",
         "date": "12/10/2025",
         "description": "Confira cinco maneiras cientificamente comprovadas de como o tempo excessivo diante de telas afeta sua saúde e como protegê-la"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/motorola-edge-70-fino-como-papel-mas-com-bateria-superpotente/",
-        "title": "Motorola Edge 70: Fino Como Papel, Mas com Bateria Superpotente",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Edge70-300x200.jpg",
-        "date": "12/10/2025",
-        "description": "O novo Edge 70, de acordo com analistas da Europa, marca o retorno à era dos smartphones ultrafinos com lançamento previsto para 5 de novembro de 2025, com preço estimado em R$ 4,4 mil"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/novo-porsche-911-turbo-s-e-o-mais-rapido-da-historia/",
-        "title": "Novo Porsche 911 Turbo S É o Mais Rápido da História",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/porsche_2-300x200.jpg",
-        "date": "12/10/2025",
-        "description": "Toda essa força vem da mais recente tecnologia de motorização da marca: os turbocompressores elétricos assistidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/o-boom-da-ia-deixou-esses-bilionarios-us-450-bilhoes-mais-ricos-so-neste-ano/",
-        "title": "O Boom da IA Deixou Esses Bilionários US$ 450 Bilhões Mais Ricos Só Neste Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-9-1-300x200.png",
-        "date": "12/10/2025",
-        "description": "Eles estão embolsando cada vez mais dinheiro através de acordos de infraestrutura de IA para suas próprias empresas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/48-horas-em-bogota-arte-gastronomia-premiada-e-vida-noturna/",
-        "title": "48 Horas em Bogotá: Arte, Gastronomia Premiada e Vida Noturna",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/padrao-Forbes-30-300x200.jpg",
-        "date": "12/10/2025",
-        "description": "Em dois dias, descubra o melhor da capital colombiana: museus icônicos, restaurantes estrelados, hospedagem de luxo e até a energia do Theatron, uma das maiores boates da América Latina"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/tom-holland-e-robert-downey-jr-lancam-cerveja-sem-alcool-com-cafe/",
-        "title": "Tom Holland e Robert Downey Jr. Lançam Cerveja sem Álcool com Café",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Tom-Holland-e-Robert-Downey-Jr.-anunciam-o-lancamento-da-parceria-entre-as-marcas-BERO-e-Happy-Products-300x200.jpg",
-        "date": "12/10/2025",
-        "description": "A parceria entre as marcas BERO e Happy Products traz dois lançamentos: um chope não alcoólico e um café 100% arábica"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/empresas-desafiam-queda-do-mercado-de-cannabis-nos-eua/",
-        "title": "Empresas Desafiam Queda de US$ 26 Bilhões do Mercado de Cannabis nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-3-300x200.jpg",
-        "date": "12/10/2025",
-        "description": "Após valer US$ 37 bi, o mercado dos EUA caiu para US$ 11 bi, mas Sun Theory e Green Thumb seguem crescendo com disciplina financeira e diversificação."
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/como-250-produtores-italianos-transformaram-valpolicella-em-marca-global-de-vinhos/",
-        "title": "Como 250 Produtores Italianos Transformaram Valpolicella em Marca Global de Vinhos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_Cantina_Valpolicella_Negrar_10.10.2025-300x200.jpg",
-        "date": "12/10/2025",
-        "description": "A Cantina Valpolicella Negrar utiliza microvinificações e alta tecnologia para extrair a máxima qualidade de 700 hectares de vinhedos"
     }
 ]
