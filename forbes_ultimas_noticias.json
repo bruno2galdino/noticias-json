@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/renault-revela-o-plano-de-precos-do-boreal-no-brasil-o-novo-suv-da-marca/",
+        "title": "Renault Revela o Plano de Preços do Boreal no Brasil, o Novo SUV da Marca",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/image-89013519-1-300x200.jpg",
+        "date": "14/10/2025",
+        "description": "O SUV médio foi desenvolvido a partir do Brasil para ser um produto internacional, com presença prevista em mais de 70 mercados"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/truenoord-encomenda-20-jatos-embraer-em-negocio-de-us-18-bilhao/",
+        "title": "TrueNoord Encomenda 20 Jatos Embraer em negócio de US$ 1,8 bilhão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-3-4-300x200.png",
+        "date": "14/10/2025",
+        "description": "Trato inclui ainda direitos de compra para até 30 aeronaves adicionais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/petrobras-quer-mandato-para-diesel-coprocessado-diz-presidente/",
+        "title": "Petrobras Quer Mandato para Diesel Coprocessado, Diz Presidente",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-14T145115Z_1_LYNXNPEL9D0TT_RTROPTP_4_PETROBRAS-INVESTMENTS-300x200.jpg",
+        "date": "14/10/2025",
+        "description": "Diesel coprocessado fica de fora da lei que incentiva a descarbonização e o \"diesel verde\""
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/10/dr-fernando-maluf-conscientizacao-sobre-gliomas-como-informacao-e-atencao-podem-salvar-vidas/",
+        "title": "A Importância da Conscientização sobre os Gliomas: Informação Pode Salvar Vidas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/GettyImages-1074166486-300x200.jpg",
+        "date": "14/10/2025",
+        "description": "Iniciativas sobre gliomas ajudam a diagnosticar cedo e mostram como informação e empatia fazem a diferença"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/acoes-do-banco-pan-disparam-28-apos-btg-pactual-propor-incorporacao/",
+        "title": "Ações do Banco Pan Disparam 28% Após BTG Pactual Propor Incorporação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/banco-pan-300x200.webp",
+        "date": "14/10/2025",
+        "description": "BTG Pactual entrou no Pan em 2011, quando comprou 51% das ações ordinárias do banco detidas então pelo Grupo Sílvio Santos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/ibama-pede-mais-informacoes-a-petrobras-sobre-licenciamento-da-foz-do-amazonas/",
+        "title": "Licenciamento da Foz do Amazonas: Ibama Pede Mais Informações à Petrobras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_esg_money_logo_petrobras_foto_REUTERS-Sergio_Moraes_14.10.2025-1-300x200.jpg",
+        "date": "14/10/2025",
+        "description": "A exploração da Bacia enfrenta forte resistência devido aos enormes desafios socioambientais"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/10/fmi-preve-pib-do-brasil-em-24-neste-ano/",
         "title": "FMI Prevê PIB do Brasil em 2,4% Neste Ano",
         "image": "https://forbes.com.br/wp-content/uploads/2021/12/money-inflacao-fmi-fed-16dez21-Yuri-Gripas-reuters.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/12/money-dolar-cotacao-300x200.jpg",
         "date": "14/10/2025",
         "description": "Por trás do movimento estão novamente os receios de um acirramento do embate comercial entre Estados Unidos e China"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/safra-de-soja-do-brasil-atinge-1776-milhoes-de-toneladas-diz-conab/",
-        "title": "Safra de Soja do Brasil Atinge 177,6 Milhões de Toneladas, diz Conab",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_colheita_foto_REUTERS_Diego_Vara_14.10.2025-300x200.jpg",
-        "date": "14/10/2025",
-        "description": "A expectativa é que as exportações brasileiras superem 112 milhões de toneladas no novo ano comercial"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/anec-eleva-previsoes-de-exportacao-de-soja-milho-e-farelo-para-outubro/",
-        "title": "Anec Eleva Previsões de Exportação de Soja, Milho e Farelo para Outubro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_milho_colheita_foto_Reuters_14.10.2025-300x200.jpg",
-        "date": "14/10/2025",
-        "description": "O aumento nas estimativas reflete a demanda aquecida e a eficiência logística no escoamento"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/gol-fora-da-b3-como-a-reestruturacao-pode-levar-ao-fechamento-de-capital/",
-        "title": "GOL Fora da B3: Como a Reestruturação Pode Levar ao Fechamento de Capital",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/02/Gol_Linhas-aereas_Paulo-Whitaker-Reuters.jpg",
-        "date": "14/10/2025",
-        "description": "Plano consiste na extinção da GOL Linhas Aéreas Inteligentes S.A. e sua absorção por uma de suas subsidiárias, a Gol Linhas Aéreas S.A., esta, não listada na B3"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-safra-de-balancos-no-eua-comeca-com-bons-resultados-de-bancos/",
-        "title": "Pré-mercado: Safra de Balanços no EUA Começa com Bons Resultados de Bancos",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "14/10/2025",
-        "description": "Notícias e indicadores que devem influenciar os preços dos ativos nesta terça-feira, 14 de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/10/care-plus-mira-novas-aquisicoes-e-aposta-em-tecnologia-para-crescer-no-brasil-2/",
-        "title": "Care Plus Mira Novas Aquisições e Aposta em Tecnologia para Crescer no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/careplus-foto-galeria-1-300x200.jpg",
-        "date": "14/10/2025",
-        "description": "Com foco no cliente e reinvestimento total do lucro, operadora ligada à gigante Bupa fatura mais de R$ 3 bilhões e lidera inovações no setor de saúde corporativa no país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/10/sim-o-duolingo-fez-um-anime-e-e-tao-intenso-quanto-suas-notificacoes/",
-        "title": "Sim, o Duolingo Fez um Anime, e É Tão Intenso Quanto Suas Notificações",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/The-Final-Test-Merch-300x200.jpg",
-        "date": "14/10/2025",
-        "description": "A série foi dublada inteiramente em japonês e contará com legendas em nove idiomas, incluindo português"
     }
 ]
