@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/407780-openai-quer-chatgpt-sem-vies-politico-em-nenhuma-direcao.htm",
+        "title": "OpenAI quer ChatGPT sem viés político 'em nenhuma direção'",
+        "description": "A startup afirma que o modelo GPT-5 reduziu o viés político em 30%, na comparação com as gerações anteriores.",
+        "image": "https://tm.ibxk.com.br/2025/10/14/chatgpt_vies_politico_07b392adc5.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502577-review-pokemon-legends-z-a-e-o-palco-perfeito-para-rinhas-de-pokemon.htm",
+        "title": "Review: Pokémon Legends Z-A é o palco perfeito para rinhas de Pokémon",
+        "description": "Game Freak aposta em ação e estratégia para reinventar as batalhas Pokémon em Kalos. Saiba mais detalhes na análise completa!",
+        "image": "https://tm.ibxk.com.br/2025/10/14/pokemon_review_7d5423bc82.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/407775-home-office-53-vagas-para-trabalho-remoto-internacional-1410.htm",
         "title": "Home office: 53 vagas para trabalho remoto internacional [14/10]",
         "description": "São mais de 50 vagas de trabalho remoto no mercado internacional; confira!",
@@ -46,20 +60,6 @@
         "title": "Fones Bluetooth Baseus com até 78% OFF na loja oficial da Shopee; aproveite",
         "description": "Por tempo limitado, a loja oficial da Baseus na Shopee tem diversas opções de fones de ouvido em promoção com grandes descontos; confira as oportunidades",
         "image": "https://tm.ibxk.com.br/2025/10/14/Baseus_WM_01_TWS_960x640_aa82cc2135.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502569-pokemon-winds-e-waves-aparecem-em-novo-vazamento-da-franquia-veja-detalhes-sobre-os-jogos.htm",
-        "title": "Pokémon Winds e Waves aparecem em novo vazamento da franquia! Veja detalhes sobre os jogos",
-        "description": "Segundo um novo vazamento, a Game Freak pode estar trabalhando em Pokémon Winds e Waves, que seriam supostamente da 10ª geração de monstrinhos! Confira",
-        "image": "https://tm.ibxk.com.br/2025/10/14/POKEMON_VAZAMENTOS_65e61ea649.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407783-pixnapping-novo-ataque-usa-falha-para-espionar-celulares-android.htm",
-        "title": "Pixnapping: novo ataque usa falha para espionar celulares Android",
-        "description": "Falha foi chamada de Pixnapping e tem uma maneira única de roubar códigos de autenticação de dois fatores silenciosamente.",
-        "image": "https://tm.ibxk.com.br/2025/10/14/pixnapping_malware_spyware_celular_de06a0add8.jpg",
         "date": null
     }
 ]
