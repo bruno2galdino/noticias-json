@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407790-oracle-corrige-falha-critica-de-seguranca-explorada-pelo-grupo-shinyhunters.htm",
+        "title": "Oracle corrige falha crítica de segurança explorada pelo grupo ShinyHunters",
+        "description": "A vulnerabilidade facilitava o acesso a dados confidenciais de clientes da Oracle sem a necessidade de autenticação.",
+        "image": "https://tm.ibxk.com.br/2025/10/14/oracle_falha_de_seguranca_critica_3bff45501b.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/apostas/407742-palpites-para-atletico-mg-x-cruzeiro-mercados-e-onde-assistir-15102025.htm",
+        "title": "Palpites para Atlético-MG x Cruzeiro: Mercados e Onde Assistir (15/10/2025)",
+        "description": "Veja tudo sobre Atlético-MG x Cruzeiro: análise detalhada, palpites e informações sobre onde assistir ao clássico. Jogue com responsabilidade!",
+        "image": "https://tm.ibxk.com.br/2025/10/13/Palpites_para_Atletico_MG_x_Cruzeiro_Mercados_e_Onde_Assistir_15102025_ead86197cb.png",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602292-james-gunn-fala-sobre-final-de-pacificador-e-possivel-terceira-temporada.htm",
+        "title": "James Gunn fala sobre final de Pacificador e possível terceira temporada",
+        "description": "O chefão do DCU atual reconhece que o fim de Pacificador não deixou todos os fãs satisfeitos",
+        "image": "https://tm.ibxk.com.br/2025/10/14/James_Gunn_Final_Pacificador_Possivel_Temporada_3_910510c3cd.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502570-gaucho-and-the-grassland-ganhara-versao-para-mobile-e-tambem-chegara-para-consoles.htm",
         "title": "Gaúcho and The Grassland ganhará versão para mobile e também chegará para consoles",
         "description": "Graças a um incentivo do Google para jogos indies, Gaúcho and The Grassland, o \"Stardew Valley do sul\", será lançado para celular. Confira mais detalhes e entrevista com criador.",
@@ -29,7 +50,7 @@
     },
     {
         "url": "https://www.tecmundo.com.br/produto/407792-samsung-revela-data-do-galaxy-event-que-vai-revelar-headset-de-xr.htm",
-        "title": "Samsung revela data do Galaxy Event que vai revelar headset de XR",
+        "title": "Samsung revela data do Galaxy Event que vai mostrar headset de XR",
         "description": "O próximo evento da Samsung vai acontecer ainda em outubro",
         "image": "https://tm.ibxk.com.br/2025/09/04/04124919150050.jpg",
         "date": null
@@ -46,27 +67,6 @@
         "title": "Nuuvem: jogos da Steam para PC com até 90% OFF",
         "description": "Aproveite preços mais baixos em vários jogos para comprar na Nuuvem e resgatar na Steam, incluindo Neva, Digimon Story Time Stranger e Shadow Warrior 2, entre outros, com grandes descontos",
         "image": "https://tm.ibxk.com.br/2025/10/14/neva_promocoes_nuuvem_960x640_ca9814ef04.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602291-entenda-o-final-de-boots-nova-serie-que-esta-bombando-na-netflix.htm",
-        "title": "Entenda o final de Boots, nova série que está bombando na Netflix",
-        "description": "Entenda o desfecho da nova série Boots, produção original da Netflix que acompanha um jovem gay entre os Fuzileiros Navais.",
-        "image": "https://tm.ibxk.com.br/2025/10/14/boots_netflix_0143485fd2.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407780-openai-quer-chatgpt-sem-vies-politico-em-nenhuma-direcao.htm",
-        "title": "OpenAI quer ChatGPT sem viés político 'em nenhuma direção'",
-        "description": "A startup afirma que o modelo GPT-5 reduziu o viés político em 30%, na comparação com as gerações anteriores.",
-        "image": "https://tm.ibxk.com.br/2025/10/14/chatgpt_vies_politico_07b392adc5.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502577-review-pokemon-legends-z-a-e-o-palco-perfeito-para-rinhas-de-pokemon.htm",
-        "title": "Review: Pokémon Legends Z-A é o palco perfeito para rinhas de Pokémon",
-        "description": "Game Freak aposta em ação e estratégia para reinventar as batalhas Pokémon em Kalos. Saiba mais detalhes na análise completa!",
-        "image": "https://tm.ibxk.com.br/2025/10/14/pokemon_review_7d5423bc82.jpg",
         "date": null
     }
 ]
