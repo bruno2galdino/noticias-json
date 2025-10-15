@@ -1,8 +1,43 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ouro-bate-novo-recorde-e-passa-dos-r-42-mil-a-onca/",
+        "title": "Ouro Bate Novo Recorde e Passa dos R$ 4,2 Mil a Onça",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-4-3-300x200.png",
+        "date": "15/10/2025",
+        "description": "Metal já subiu 59% em 2025. Nova alta é impulsionada por expectativa de novos cortes de juros do Fed e forte demanda de bancos centrais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/vendas-globais-de-veiculos-eletricos-batem-recorde-em-setembro-a-21-milhoes/",
+        "title": "Vendas Globais de Veículos Elétricos Batem Recorde em Setembro a 2,1 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/veiculos-eletricos-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Aumento foi impulsionado pela forte demanda na China e por uma corrida tardia por incentivos fiscais nos Estados Unidos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/como-a-ausencia-de-dados-dos-eua-devido-a-paralisacao-afeta-o-mundo/",
+        "title": "Como a Ausência de Dados dos EUA Devido À Paralisação Afeta o Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/eua-capitolio-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Autoridades globais dizem que ficar sem dados pode complicar a política monetária ao longo do tempo"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/carro-eletrico-como-a-ferrari-planeja-seus-motores-nos-proximos-cinco-anos/",
+        "title": "Carro Elétrico? Como A Ferrari Planeja Seus Motores Nos Próximos Cinco Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/05/Life_Ferrari-Roma-Spider-3-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Em 2030, a linha de produtos será equilibrada, com 40% de veículos de combustão interna, 40% híbridos e 20% elétricos a bateria"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/varejo-avanca-02-em-agosto-apos-quatro-meses-de-queda/",
+        "title": "Varejo Avança 0,2% em Agosto Após Quatro Meses de Queda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/vendas-no-varejo-1-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "No comparativo com agosto de 2024, o crescimento foi de 0,4%, o quinto resultado positivo seguido"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/10/o-carro-que-conversa-com-voce-ja-chegou-e-e-brasileiro-com-sotaque-alemao/",
         "title": "O Carro Que Conversa com Você Já Chegou, e É Brasileiro com Sotaque Alemão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Cristina-e1760531704208-300x200.jpeg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-15-as-16.40.46-300x200.png",
         "date": "15/10/2025",
         "description": "Volkswagen ativa oficialmente sua IA automotiva no Brasil, o Otto, que ajudará os modelos da marca a entender, falar e até ensinar os motoristas"
     },
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/05/ChatGPT.iPhone-1-300x200.png",
         "date": "15/10/2025",
         "description": "Ferramentas como ChatGPT, Perplexity e Gemini estão mudando a forma como as pessoas buscam informações e o seu conteúdo pode estar desaparecendo nesse processo, entenda o que é GEO e veja como se adaptar"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/10/3-sinais-de-amor-incondicional-em-um-parceiro/",
-        "title": "3 Sinais de Amor Incondicional em um Parceiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/960x0-1-1-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "Você sabe que seu parceiro te ama, mas é pelos motivos certos? Aqui estão três maneiras de descobrir se esse amor é instável ou verdadeiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/brandvoice-azimut-excelencia-nautica-com-assinatura-brasileira/",
-        "title": "Excelência Náutica com Assinatura Brasileira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-5-1-300x200.png",
-        "date": "15/10/2025",
-        "description": "Com fábrica em Itajaí, Azimut Yachts transforma o Brasil em polo náutico global, unindo inovação tecnológica, luxo artesanal e crescimento sustentável"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/hp-transforma-o-espirito-da-garagem-em-inovacao-e-novos-centros-imersivos/",
-        "title": "HP Transforma o Espírito da Garagem em Inovação e Novos Centros Imersivos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/HPCW-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "Os espaços, no México e Brasil, fazem parte de uma rede de 17 centros de experiência mantidos pela HP em todo o mundo, consolidando a região como peça-chave em sua estratégia de expansão e relacionamento"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/as-10-cidades-europeias-mais-ricas-em-cultura-para-visitar-em-2026/",
-        "title": "As 10 Cidades Europeias Mais Ricas em Cultura para Visitar em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Por-do-sol-sobre-a-cidade-de-Ptuj-na-Eslovenia-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "Lista da European Best Destinations indica os destinos históricos mais bonitos e ricos em cultura do Velho Continente, que todo mundo devia conhecer"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/aspen-investe-us-80-milhoes-para-ter-temporada-de-esqui-cheia-de-novidades/",
-        "title": "Aspen Investe US$ 80 Milhões para Ter Temporada de Esqui Cheia de Novidades",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Life_Aspen-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "De um novo après-ski no topo da montanha a teleféricos de ponta, conheça as novidades para a temporada 2025/26 do destino de neve queridinho dos brasileiros"
     }
 ]
