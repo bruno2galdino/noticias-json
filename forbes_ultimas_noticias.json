@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-fecha-no-positivo-com-bom-humor-externo/",
+        "title": "Ibovespa Fecha no Positivo com Bom Humor Externo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-13-300x200.png",
+        "date": "15/10/2025",
+        "description": "Dólar termina o dia em leve baixa ante o real"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/bessent-diz-que-eua-compram-pesos-argentinos-e-trabalham-em-linha-de-credito-de-us20-bilhoes/",
+        "title": "Bessent Diz Que EUA Compram Pesos Argentinos e Trabalham em Linha de Crédito de US$20 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Notas-de-peso-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Bessent também esclareceu que os EUA continuarão a apoiar financeiramente a Argentina enquanto o governo do presidente Javier Milei adotar \"boas políticas\""
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/lucro-do-bank-of-america-supera-expectativas-no-3o-tri/",
+        "title": "Lucro do Bank Of America Supera Expectativas no 3º Tri",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/O-logotipo-do-Bank-of-America-exibido-em-uma-placa-em-frente-a-um-escritorio-do-Bank-of-America-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "O Bank of America teve lucro líquido de US$8,5 bilhões, ou US$1,06 por ação, nos três meses encerrados em 30 de setembro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/controladora-da-gol-anuncia-intencao-de-fazer-ipo-nos-eua/",
         "title": "Controladora da Gol Anuncia Intenção de Fazer IPO nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/pilotos-gol-1-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Kassiane_Tahyna_Z_14out-25_Arq.Pessoal-1-1-300x200.jpg",
         "date": "15/10/2025",
         "description": "No Dia Internacional da Mulher Rural, conheça histórias femininas que inspiram por suas trajetórias e desafios, como a da cafeicultura Kassiane Thayná"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/apple-aumentara-investimentos-na-china-segundo-ministerio/",
-        "title": "Apple Aumentará Investimentos na China, Segundo Ministério",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-carreira-tim-cook-ceos--300x200.jpg",
-        "date": "15/10/2025",
-        "description": "As declarações foram feitas no momento em que a fabricante do iPhone procura evitar as tarifas dos EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/hapvida-aprova-programa-de-recompra-de-acoes/",
-        "title": "Hapvida Aprova Programa de Recompra de Ações",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/09/hapvida-divulgacao-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "As ações da Hapvida fecharam o pregão de terça-feira com queda de 2,4% a R$32,96"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/blackrock-e-grupo-apoiado-por-nvidia-fecham-acordo-de-us-40-bilhoes-para-data-center-de-ia/",
-        "title": "BlackRock e Grupo Apoiado por Nvidia Fecham Acordo de US$ 40 Bilhões para Data Center de IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/money-blackrock-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "Larry Fink destaca que o investimento na Aligned Data Centers reforça o compromisso da BlackRock em sustentar o avanço da inteligência artificial"
     }
 ]
