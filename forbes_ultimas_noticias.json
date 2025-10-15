@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/esqueca-o-vale-do-silicio-dubai-tem-sua-propria-cidade-da-inovacao-e-com-muitos-brasileiros/",
+        "title": "Esqueça o Vale do Silício, Dubai Tem Sua Própria Cidade da Inovação e Com Muitos Brasileiros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Ammar-Al-Malik-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Entre as empresas que expandiram sua presença nos hubs de tecnologia da cidade estão gigantes como Oracle, AWS e Google; startups brasileiras também marcam presença relevante na região"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-equilibrio-instavel-entre-resultados-e-declaracoes-de-trump/",
+        "title": "Pré-mercado: Equilíbrio Instável entre Resultados e Declarações de Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "15/10/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 15 de outubro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/investidor-brasileiro-troca-risco-por-seguranca-e-faz-renda-fixa-disparar/",
         "title": "Investidor Brasileiro Troca Risco por Segurança e Faz Renda Fixa Disparar",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-33-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/forbes-melhores-ceos-2025-300x200.jpg",
         "date": "14/10/2025",
         "description": "Evento em homenagem à lista anual celebrou executivos no Palácio Tangará, em São Paulo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-termina-quase-estavel-com-eua-e-china-no-radar-embraer-sobe/",
-        "title": "Ibovespa Termina Quase Estável com EUA e China no Radar; Embraer Sobe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-13-300x200.png",
-        "date": "14/10/2025",
-        "description": "Dólar perde força após fala de Powell, mas ainda fecha em alta"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-cast/2025/10/designer-lucas-lima-participa-do-podcast-under-30-a-jornada/",
-        "title": "Designer Lucas Lima participa do podcast Under 30 – A Jornada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/lucas-lima_u30-300x200.jpg",
-        "date": "14/10/2025",
-        "description": "Designer falou sobre sua trajetória em programa apresentado por Johnnie Walker"
     }
 ]
