@@ -1,24 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-15-10.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/ingrid_contrexeville_back_sozinha-1024x620.jpg",
-        "date": "15/10/2025",
-        "description": "ATP 250 de Bruxelas (Bélgica) – Sintético (coberto) – 706.850 eurosDuplas – Primeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bertolucci-diz-que-fisico-de-sinner-nao-se-compara-ao-de-alcaraz-e-djokovic.html",
-        "title": "Bertolucci diz que físico de Sinner não se compara ao de Alcaraz e Djokovic",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/sinner-beijing-2025-draw-e1758630261481-1024x682.jpg",
-        "date": "15/10/2025",
-        "description": "Turim (Itália)– O italiano Jannik Sinner, que nesta quarta-feira abrirá sua campanha no milionário torneio de exibição Six King Slam, abandonou seu segundo jogo no Masters 1000 de Xangai sentindo cãibras no terceiro set, o que voltou a abrir uma discussão sobre sua capacidade física."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/osaka-derruba-a-atual-campea-e-vai-as-quartas-mas-sofre-lesao-na-reta-final.html",
         "title": "Osaka derruba a atual campeã e vai às quartas, mas sofre lesão na reta final",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/osaka-close-2025-e1760444640977-1024x683.jpg",
         "date": "15/10/2025",
         "description": "Osaka (Japão)– Principal favorita ao título do WTA 250 de Osaka, a tenista da casa Naomi Osaka saiu vitoriosa de uma batalha de 2h20, marcando parciais de 7/6 (8-6), 3/6 e 6/2 para derrubar a atual campeã, a holandesa Suzan Lamens, e chegar às quartas de final. Porém, na reta final do jogo, ela sofreu um susto com uma lesão que a deixou mancando."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-15-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/ingrid_contrexeville_back_sozinha-1024x620.jpg",
+        "date": "15/10/2025",
+        "description": "ATP 250 de Bruxelas (Bélgica) – Sintético (coberto) – 706.850 eurosDuplas – Primeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/nove-brasileiros-vencem-na-abertura-do-australian-open-junior-series.html",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/daniel_silva_ctba_vibra.jpg",
         "date": "14/10/2025",
         "description": "Curitiba (PR) –O início da rodada desta terça-feira da Copa Internacional de Tênis garantiu a classificação de dois brasileiros para as oitavas. O catarinense Pedro Boscardin e o paulista Daniel Dutra da Silva venceram seus jogos de estreia no challenger disputado nas quadras de saibro do Graciosa Country Club, em Curitiba."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/vacherot-e-recebido-por-albert-ii-de-monaco-na-volta-para-casa.html",
+        "title": "Vacherot é recebido por Albert II de Mônaco na volta para casa",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Vacherot_recepcao.jpg",
+        "date": "14/10/2025",
+        "description": "Monte Carlo (Mônaco) –No espaço de apenas quatro meses, o tênis monegasco comemora duas façanhas em dois dos principais torneios do circuito profissional."
     }
 ]
