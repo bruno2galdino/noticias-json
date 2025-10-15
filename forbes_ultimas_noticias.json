@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/10/marina-bitu-anuncia-lancamento-de-sua-primeira-loja-fisica-em-sao-paulo/",
+        "title": "Marina Bitu Anuncia Lançamento de Sua Primeira Loja Física em São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Marina-Bitu-e-Cecilia-Baima-fundadoras-da-marca-Marina-Bitu-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Marca cearense inaugura espaço em Pinheiros e reforça o diálogo entre identidade regional, design autoral e o luxo artesanal brasileiro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/carmen-perez-bem-estar-animal-a-hora-de-o-brasil-ditar-as-proprias-regras/",
+        "title": "Bem-Estar Animal: Hora de o Brasil Ditar as Próprias Regras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_bezerro_14out-25_-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Criação da Associação Brasileira de Bem-Estar Animal inaugura uma nova fase para o país, unindo ciência, produtores e especialistas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/brasil-e-eua-se-reunirao-nesta-quinta-16-para-negociar-tarifas/",
         "title": "Brasil e EUA se Reunirão Nesta Quinta (16) para Negociar Tarifas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/2025-01-24T234355Z_1_LYNXNPEL0N10L_RTROPTP_4_EUA-CHINA-RELACAO-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_logo_Bunge_foto_REUTERS_15.10.2025-300x200.jpg",
         "date": "15/10/2025",
         "description": "A fusão de US$ 34 bilhões cria uma gigante global de comércio e processamento de safras"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/cacau-pressionado-por-oferta-abundante-enquanto-arabica-ganha-impulso-com-risco-climatico/",
-        "title": "Café Arábica Segue à Máxima de Um Mês, Já Cacau Luta Contra Crise de Demanda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cacau_foto_REUTERS-Francis-Kokoroko_15.10.2025-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "O cacau em Londres e Nova York se recuperou das mínimas de um ano e meio, mas a fraca demanda persiste"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/de-bailarina-a-ceo-da-sap-na-america-latina-conheca-a-trajetoria-de-adriana-aroulho/",
-        "title": "Como Adriana Aroulho Foi de Bailarina a CEO da SAP na América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Adriana-Aroulho-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "Executiva brasileira assumiu a liderança da gigante de tecnologia em 10 países no início de 2025"
     }
 ]
