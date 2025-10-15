@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/cacau-pressionado-por-oferta-abundante-enquanto-arabica-ganha-impulso-com-risco-climatico/",
+        "title": "Café Arábica Segue à Máxima de Um Mês, Já Cacau Luta Contra Crise de Demanda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cacau_foto_REUTERS-Francis-Kokoroko_15.10.2025-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "O cacau em Londres e Nova York se recuperou das mínimas de um ano e meio, mas a fraca demanda persiste"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/10/de-bailarina-a-ceo-da-sap-na-america-latina-conheca-a-trajetoria-de-adriana-aroulho/",
+        "title": "Como Adriana Aroulho Foi de Bailarina a CEO da SAP na América Latina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Adriana-Aroulho-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Executiva brasileira assumiu a liderança da gigante de tecnologia em 10 países no início de 2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/passaportes-mais-poderosos-do-mundo-eua-tem-queda-historica-no-ranking/",
+        "title": "Passaportes Mais Poderosos do Mundo: EUA Têm Queda Histórica no Ranking",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Life_passaportes-mais-poderosos-do-mundo-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Enquanto o passaporte americano tem sua pior posição em 20 anos, Ásia domina o topo da lista, com acesso livre a maior quantidade de países do globo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/ouro-bate-novo-recorde-e-passa-dos-r-42-mil-a-onca/",
         "title": "Ouro Bate Novo Recorde e Passa dos R$ 4,2 Mil a Onça",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-4-3-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Ammar-Al-Malik-300x200.jpg",
         "date": "15/10/2025",
         "description": "Entre as empresas que expandiram sua presença nos hubs de tecnologia da cidade estão gigantes como Oracle, AWS e Google; startups brasileiras também marcam presença relevante na região"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-equilibrio-instavel-entre-resultados-e-declaracoes-de-trump/",
-        "title": "Pré-mercado: Equilíbrio Instável entre Resultados e Declarações de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "15/10/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 15 de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/investidor-brasileiro-troca-risco-por-seguranca-e-faz-renda-fixa-disparar/",
-        "title": "Investidor Brasileiro Troca Risco por Segurança e Faz Renda Fixa Disparar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-33-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "Com Selic a 15% e inflação sob controle, fundos e títulos isentos lideram captação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/o-passo-a-passo-para-ser-encontrado-pelo-chatgpt-e-outras-plataformas-de-ia/",
-        "title": "O Passo a Passo para Ser Encontrado Pelo ChatGPT e Outras Plataformas de IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/05/ChatGPT.iPhone-1-300x200.png",
-        "date": "15/10/2025",
-        "description": "Ferramentas como ChatGPT, Perplexity e Gemini estão mudando a forma como as pessoas buscam informações e o seu conteúdo pode estar desaparecendo nesse processo, entenda o que é GEO e veja como se adaptar"
     }
 ]
