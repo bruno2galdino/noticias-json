@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/apple-aumentara-investimentos-na-china-segundo-ministerio/",
+        "title": "Apple Aumentará Investimentos na China, Segundo Ministério",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-carreira-tim-cook-ceos--300x200.jpg",
+        "date": "15/10/2025",
+        "description": "As declarações foram feitas no momento em que a fabricante do iPhone procura evitar as tarifas dos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/hapvida-aprova-programa-de-recompra-de-acoes/",
+        "title": "Hapvida Aprova Programa de Recompra de Ações",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/09/hapvida-divulgacao-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "As ações da Hapvida fecharam o pregão de terça-feira com queda de 2,4% a R$32,96"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/blackrock-e-grupo-apoiado-por-nvidia-fecham-acordo-de-us-40-bilhoes-para-data-center-de-ia/",
+        "title": "BlackRock e Grupo Apoiado por Nvidia Fecham Acordo de US$ 40 Bilhões para Data Center de IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/money-blackrock-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Larry Fink destaca que o investimento na Aligned Data Centers reforça o compromisso da BlackRock em sustentar o avanço da inteligência artificial"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/india-reduz-compra-de-oleo-de-palma-e-troca-por-oleo-de-soja/",
+        "title": "Índia Reduz Compra de Óleo de Palma e Troca Por Óleo de Soja",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_oleo_de_palma_plantacao_foto_REUTERS_15.10.2025-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "A mudança deve pesar sobre os futuros do óleo de palma da Malásia e do óleo de soja nos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/jf-vira-socia-do-governo-na-geracao-nuclear-mirando-demanda-por-energia-firme-e-ia/",
+        "title": "J&F Vira Sócia do Governo na Geração Nuclear, Mirando Demanda por Energia Firme e IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/05/BrandVoice-Gerdau-1-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "Grupo dos irmãos Batista assume obrigações da Eletrobras na Eletronuclear, incluindo garantias e debêntures de R$ 2,4 bilhões firmadas com a União"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/bunge-revisa-projecao-de-lucro-apos-concluir-compra-da-viterra/",
+        "title": "Bunge Revisa Projeção de Lucro Após Concluir Compra da Viterra",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_logo_Bunge_foto_REUTERS_15.10.2025-300x200.jpg",
+        "date": "15/10/2025",
+        "description": "A fusão de US$ 34 bilhões cria uma gigante global de comércio e processamento de safras"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/cacau-pressionado-por-oferta-abundante-enquanto-arabica-ganha-impulso-com-risco-climatico/",
         "title": "Café Arábica Segue à Máxima de Um Mês, Já Cacau Luta Contra Crise de Demanda",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cacau_foto_REUTERS-Francis-Kokoroko_15.10.2025-300x200.jpg",
@@ -22,51 +64,9 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/10/ouro-bate-novo-recorde-e-passa-dos-r-42-mil-a-onca/",
-        "title": "Ouro Bate Novo Recorde e Passa dos R$ 4,2 Mil a Onça",
+        "title": "Ouro Bate Novo Recorde e Passa dos US$ 4,2 Mil a Onça",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-4-3-300x200.png",
         "date": "15/10/2025",
         "description": "Metal já subiu 59% em 2025. Nova alta é impulsionada por expectativa de novos cortes de juros do Fed e forte demanda de bancos centrais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/vendas-globais-de-veiculos-eletricos-batem-recorde-em-setembro-a-21-milhoes/",
-        "title": "Vendas Globais de Veículos Elétricos Batem Recorde em Setembro a 2,1 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/veiculos-eletricos-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "Aumento foi impulsionado pela forte demanda na China e por uma corrida tardia por incentivos fiscais nos Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/como-a-ausencia-de-dados-dos-eua-devido-a-paralisacao-afeta-o-mundo/",
-        "title": "Como a Ausência de Dados dos EUA Devido À Paralisação Afeta o Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/eua-capitolio-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "Autoridades globais dizem que ficar sem dados pode complicar a política monetária ao longo do tempo"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/carro-eletrico-como-a-ferrari-planeja-seus-motores-nos-proximos-cinco-anos/",
-        "title": "Carro Elétrico? Como A Ferrari Planeja Seus Motores Nos Próximos Cinco Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/05/Life_Ferrari-Roma-Spider-3-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "Em 2030, a linha de produtos será equilibrada, com 40% de veículos de combustão interna, 40% híbridos e 20% elétricos a bateria"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/varejo-avanca-02-em-agosto-apos-quatro-meses-de-queda/",
-        "title": "Varejo Avança 0,2% em Agosto Após Quatro Meses de Queda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/vendas-no-varejo-1-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "No comparativo com agosto de 2024, o crescimento foi de 0,4%, o quinto resultado positivo seguido"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/o-carro-que-conversa-com-voce-ja-chegou-e-e-brasileiro-com-sotaque-alemao/",
-        "title": "O Carro Que Conversa com Você Já Chegou, e É Brasileiro com Sotaque Alemão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Captura-de-Tela-2025-10-15-as-16.40.46-300x200.png",
-        "date": "15/10/2025",
-        "description": "Volkswagen ativa oficialmente sua IA automotiva no Brasil, o Otto, que ajudará os modelos da marca a entender, falar e até ensinar os motoristas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/esqueca-o-vale-do-silicio-dubai-tem-sua-propria-cidade-da-inovacao-e-com-muitos-brasileiros/",
-        "title": "Esqueça o Vale do Silício, Dubai Tem Sua Própria Cidade da Inovação e Com Muitos Brasileiros",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Ammar-Al-Malik-300x200.jpg",
-        "date": "15/10/2025",
-        "description": "Entre as empresas que expandiram sua presença nos hubs de tecnologia da cidade estão gigantes como Oracle, AWS e Google; startups brasileiras também marcam presença relevante na região"
     }
 ]
