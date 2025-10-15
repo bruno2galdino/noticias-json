@@ -1,7 +1,28 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/407819-roku-voice-e-aprimorado-com-ia-e-pode-responder-perguntas-mais-complexas.htm",
+        "title": "Roku Voice é aprimorado com IA e pode responder perguntas mais complexas",
+        "description": "O assistente virtual do Roku, Roku Voice, foi aprimorado e agora é capaz de responder perguntas sobre filmes, atores e séries; confira todas as novidades",
+        "image": "https://tm.ibxk.com.br/2025/04/23/23085222263011.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602299-novo-documentario-do-disney-mostra-por-tras-das-cameras-de-avatar.htm",
+        "title": "Novo documentário do Disney+ mostra por trás das câmeras de Avatar",
+        "description": "Fire and Water: Making the Avatar Films vai levar os fãs aos bastidores da série marcada pela excelência tecnológica",
+        "image": "https://tm.ibxk.com.br/2025/10/15/Documentario_Disney_Bastidores_Avatar_James_Cameron_54b4b8f01f.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502584-microsoft-store-tem-jogos-de-xbox-com-ate-90-off.htm",
+        "title": "Microsoft Store tem jogos de Xbox com até 90% OFF",
+        "description": "Confira agora as principais ofertas em jogos para Xbox na Microsoft Store nesta semana e aproveite preços mais baixos em títulos como Star Wars Jedi: Survivor, Dead Space, Wolfenstein II: The New Colossus, entre outros",
+        "image": "https://tm.ibxk.com.br/2025/08/27/27180901683073.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/407812-microsoft-corrige-183-brechas-de-seguranca-incluindo-3-que-foram-exploradas.htm",
-        "title": "Microsoft corrige 183 brechas de segurança, incluindo 3 que foram exploradas",
+        "title": "Microsoft corrige 183 brechas de segurança, incluindo três que foram exploradas",
         "description": "A Microsoft lançou um pacote de atualizações para corrigir 183 brechas de segurança distribuídas em seus produtos.",
         "image": "https://tm.ibxk.com.br/2025/04/02/02083625722016.jpg",
         "date": null
@@ -39,13 +60,6 @@
         "title": "Battlefield 6 vendeu mais de 6,5 milhões de unidades em apenas cinco dias, segundo analista",
         "description": "Battlefield 6 atingindo marco histórico para a franquia, jogos do PS Plus de outubro, Summer Game Fest 2026 e mais! Confira principais notícias de games do dia",
         "image": "https://tm.ibxk.com.br/2025/10/15/NOTICIAS_DE_GAMES_DO_DIA_68c8779967.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407806-novo-golpe-usa-falsa-oferta-de-emprego-no-google-para-roubar-email.htm",
-        "title": "Novo golpe usa falsa oferta de emprego no Google para roubar email",
-        "description": "Mensagem de suposto recrutador da empresa leva você a uma página falsa de agendamento de videochamada que pede dados pessoais e de acesso.",
-        "image": "https://tm.ibxk.com.br/2025/10/15/email_phishing_roubo_conta_92fadd6450.jpg",
         "date": null
     }
 ]
