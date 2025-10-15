@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-15-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/ingrid_contrexeville_back_sozinha-1024x620.jpg",
+        "date": "15/10/2025",
+        "description": "ATP 250 de Bruxelas (Bélgica) – Sintético (coberto) – 706.850 eurosDuplas – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/nicole-giannini-avanca-no-egito-e-garante-entrada-no-ranking-da-wta.html",
+        "title": "Nicole Giannini avança no Egito e garante entrada no ranking da WTA",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/Nicole_Giannini_dez24_mogi_back.jpg",
+        "date": "15/10/2025",
+        "description": "Sharm El Sheikh (Egito) –A escolha por uma série de torneios ITF W15 nas quadras duras de Sharm El Sheikh, no Egito, vai render a entrada no ranking da WTA para Nicole Giannini. Vinda do quali nesta semana, a paulista de 22 anos liderava a estreia na chave principal contra a italiana Gloria Contrino por 6/4 e 2/0 quando a rival se retirou."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/lehecka-e-fokina-estreiam-bem-em-bruxelas-collignon-chega-as-quartas.html",
+        "title": "Lehecka e Fokina estreiam bem em Bruxelas, Collignon chega às quartas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/collignon_bruxelas_comemora-1024x683.jpg",
+        "date": "15/10/2025",
+        "description": "Bruxelas (Bélgica) –Convidado para a chave principal do ATP 250 de Bruxelas, Raphael Collignon será o único belga nas quartas de final. Depois de ter vencido um duelo caseiro contra Zizou Bergs na última terça, o jovem de 23 anos e 90º do ranking superou o argentino Francisco Comesana, 68º colocado, por 7/5, 3/6 e 7/6 (12-10) em 2h36 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ruud-supera-cilic-e-faz-quartas-na-suecia-rune-estreia-nesta-quinta.html",
+        "title": "Ruud supera Cilic e faz quartas na Suécia, Rune estreia nesta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/ruud-stockholm-2025-wednesday-1-1024x576.jpg",
+        "date": "15/10/2025",
+        "description": "Estocolmo (Suécia) –A estreia de Casper Ruud no ATP 250 de Estocolmo foi com vitória em sets diretos. Segundo cabeça de chave do torneio em quadras duras e cobertas e número 12 do mundo, o norueguês superou o experiente croata Marin Cilic por 7/6 (7-2) e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/rybakina-passeia-por-ningbo-antes-da-estreia.html",
+        "title": "Rybakina passeia por Ningbo antes da estreia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/rybakina_ningbo-traje-de-noiva.jpg",
+        "date": "15/10/2025",
+        "description": "Ningbo (China) –Número 9 do mundo, a cazaque Elena Rybakina aproveitou o tempo livre antes da estreia para passear um pouco pela cidade chinesa e conhecer alguns de seus pontos turísticos."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-domina-o-jogo-com-tsitsipas-e-enfrenta-djokovic-no-six-kings-slam.html",
+        "title": "Sinner domina o jogo com Tsitsipas e enfrenta Djokovic no Six Kings Slam",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/sinner-pequim-vibra-2025.jpg",
+        "date": "15/10/2025",
+        "description": "Riad (Arábia Saudita) –No jogo que encerrou a programação do primeiro dia do Six Kings Slam, Jannik Sinner estreou com vitória na série de exibições em Riad. O atual campeão do torneio confirmou o favoritismo contra o grego Stefanos Tsitsipas por 6/2 e 6/3."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/jeferson-pinto-assume-a-diretoria-tecnica-de-beach-tennis-da-federacao-paulista.html",
         "title": "Jeferson Pinto assume a Diretoria Técnica de beach tennis da Federação Paulista",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/beach_jefersonpinto-1024x584.jpg",
@@ -21,52 +63,10 @@
         "description": "Riad (Arábia Saudita)– Na partida que abriu o Six Kings Slam nesta quarta-feira, o norte-americano Taylor Fritz aproveitou o melhor momento no circuito e levou a melhor sobre o alemão Alexander Zverev anotando uma firme vitória em sets diretos, com parciais de 6/3 e 6/4, em exata uma hora de disputa."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-15-10.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/ingrid_contrexeville_back_sozinha-1024x620.jpg",
-        "date": "15/10/2025",
-        "description": "ATP 250 de Bruxelas (Bélgica) – Sintético (coberto) – 706.850 eurosDuplas – Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/cobolli-lidera-vitorias-dos-favoritos-em-almaty-e-ja-esta-nas-quartas.html",
         "title": "Cobolli lidera vitórias dos favoritos em Almaty e já está nas quartas",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/cobolli-almaty-2025-wed1-e1760553183687-1024x682.jpg",
         "date": "15/10/2025",
         "description": "Almaty (Cazaquistão)– A terça-feira no ATP 250 de Almaty teve alguns dos principais favoritos em quadra, com destaque para a estreia do italiano Flavio Cobolli, terceiro pré-classificado, que entrou direto na segunda rodada e passou pelo australiano Rinky Hijikata em sets diretos, com parciais de 6/4 e 7/5."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sand-series-de-ribeirao-preto-larga-nesta-quarta-com-o-qualificatorio.html",
-        "title": "Sand Series de Ribeirão Preto larga nesta quarta com o qualificatório",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sand-de-Ribeirao_generica.png",
-        "date": "15/10/2025",
-        "description": "Ribeirão Preto (SP) –O Sand Series de Ribeirão Preto, categoria que reúne os maiores torneios de beach tennis do mundo, começa nesta quarta-feira na cidade de Ribeirão Preto, no interior paulista, com a disputa da fase classificatória. A competição ocorre pela terceira vez consecutiva no município e é realizado no Arena Beach Ribeirão, com 64 atletas (18 duplas masculinas e 18 femininas) e distribuindo premiação de 75 mil dólares."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/melo-e-matos-superam-demoliner-e-luz-na-estreia-do-atp-de-bruxelas.html",
-        "title": "Melo e Matos superam Demoliner e Luz na estreia do ATP de Bruxelas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/melo_matos_bruxelas_cump.jpg",
-        "date": "15/10/2025",
-        "description": "Bruxelas (Bélgica) –Em jogo com quatro brasileiros em quadra, o mineiro Marcelo Melo e o gaúcho Rafael Matos venceram os também gaúchos Marcelo Demoliner e Orlando Luz na estreia do ATP 250 de Bruxelas, em quadras duras e cobertas, por 7/6 (7-4) e 6/3."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pegula-confessa-seu-profundo-medo-do-antidoping-fico-paranoica.html",
-        "title": "Pegula confessa seu profundo medo do antidoping: “Fico paranoica”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/aD2-Qbh8WN-LVfO__20250602_RG_LW_3922JessicaPegulaHuitiemesdefinaleRoland-Garros2025-1024x683.jpeg",
-        "date": "15/10/2025",
-        "description": "Nova York (EUA)– A norte-americana Jessica Pegula falou sobre seu profundo medo de cometer um erro e testar positivo para doping no podcastThe Player’s Box, onde analisou as suspensões do italiano Jannik Sinner e da polonesa Iga Swiatek, usando-as como exemplos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/boscardin-consegue-vitoria-inedita-contra-top-100-e-faz-quartas-em-curitiba.html",
-        "title": "Boscardin consegue vitória inédita contra top 100 e faz quartas em Curitiba",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/boscardin_ctba_comemora-1024x683.jpg",
-        "date": "15/10/2025",
-        "description": "Curitiba (PR) –O catarinense Pedro Boscardin é o primeiro brasileiro a garantir vaga nas quartas de final da Copa Internacional de Tênis, em Curitiba. A classificação veio com uma vitória expressiva diante do argentino Thiago Tirante, número 100 do mundo e cabeça 2 do challenger disputado nas quadras de saibro do Graciosa Country Club."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/lin-zhu-agora-derruba-andreeva-e-vai-as-quartas-em-ningbo.html",
-        "title": "Lin Zhu agora derruba Andreeva e vai às quartas em Ningbo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/lin-zhu-ningbo-prepara-2025-e1760453086864-1024x683.jpg",
-        "date": "15/10/2025",
-        "description": "Ningbo (China)– Depois de eliminar a britânica Emma Raducanu na estreia, a convidada da casa Lin Zhu segue firme no WTA 500 de Ningbo. Nesta quarta-feira, ela teve pela frente a russa Mirra Andreeva e surpreendeu a cabeça de chave número 1 com uma vitória de virada, marcando parciais de 4/6, 6/3 e 6/2, em 2h19 de confronto."
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407812-microsoft-corrige-183-brechas-de-seguranca-incluindo-3-que-foram-exploradas.htm",
+        "title": "Microsoft corrige 183 brechas de segurança, incluindo 3 que foram exploradas",
+        "description": "A Microsoft lançou um pacote de atualizações para corrigir 183 brechas de segurança distribuídas em seus produtos.",
+        "image": "https://tm.ibxk.com.br/2025/04/02/02083625722016.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/407822-o-papel-dos-dados-silenciosos-na-nova-era-dos-negocios.htm",
         "title": "O papel dos dados 'silenciosos' na nova era dos negócios",
         "description": "Dados invisíveis são a nova era da monetização de informações através da IA e do OpenFinance.",
@@ -39,13 +46,6 @@
         "title": "Novo golpe usa falsa oferta de emprego no Google para roubar email",
         "description": "Mensagem de suposto recrutador da empresa leva você a uma página falsa de agendamento de videochamada que pede dados pessoais e de acesso.",
         "image": "https://tm.ibxk.com.br/2025/10/15/email_phishing_roubo_conta_92fadd6450.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407814-mercado-livre-e-multado-em-r-6-milhoes-por-venda-de-produtos-ilegais.htm",
-        "title": "Mercado Livre é multado em R$ 6 milhões por venda de produtos ilegais",
-        "description": "Após recursos da plataforma de comércio eletrônico, a agência reguladora acabou aumentando o valor da multa, que ainda pode ser contestado na justiça.",
-        "image": "https://tm.ibxk.com.br/2025/10/15/anatel_multa_mercado_livre_aaedeeab5b.jpg",
         "date": null
     }
 ]
