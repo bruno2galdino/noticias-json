@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/10/forbes-reune-liderancas-e-premia-melhores-ceos-do-brasil/",
+        "title": "Forbes Reúne Lideranças e Premia Melhores CEOs do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/forbes-melhores-ceos-2025-300x200.jpg",
+        "date": "14/10/2025",
+        "description": "Evento em homenagem à lista anual celebrou executivos no Palácio Tangará, em São Paulo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-termina-quase-estavel-com-eua-e-china-no-radar-embraer-sobe/",
         "title": "Ibovespa Termina Quase Estável com EUA e China no Radar; Embraer Sobe",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-13-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/GettyImages-1074166486-300x200.jpg",
         "date": "14/10/2025",
         "description": "Iniciativas sobre gliomas ajudam a diagnosticar cedo e mostram como informação e empatia fazem a diferença"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/acoes-do-banco-pan-disparam-28-apos-btg-pactual-propor-incorporacao/",
-        "title": "Ações do Banco Pan Disparam 28% Após BTG Pactual Propor Incorporação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/banco-pan-300x200.webp",
-        "date": "14/10/2025",
-        "description": "BTG Pactual entrou no Pan em 2011, quando comprou 51% das ações ordinárias do banco detidas então pelo Grupo Sílvio Santos"
     }
 ]

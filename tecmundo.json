@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/407785-governo-da-holanda-toma-controle-de-fabricante-chinesa-de-chips-no-pais.htm",
+        "title": "Governo da Holanda toma controle de fabricante chinesa de chips no país",
+        "description": "Autoridades locais citam preocupações em manter produtos na Europa; empresa responde com bloqueio de exportação e diz que decisão tem viés político.",
+        "image": "https://tm.ibxk.com.br/2025/10/14/nexperia_predio_chips_227b0bfa65.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407786-samsung-galaxy-buds-4-tera-design-parecido-com-os-apple-airpods-segundo-vazamento.htm",
+        "title": "Samsung Galaxy Buds 4 terá design parecido com os Apple AirPods, segundo vazamento",
+        "description": "Vazamento indica que testes de software da nova linha de dispositivos já estaria em andamento.",
+        "image": "https://tm.ibxk.com.br/2025/09/03/03104944700133.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407792-samsung-revela-data-do-galaxy-event-que-vai-revelar-headset-de-xr.htm",
+        "title": "Samsung revela data do Galaxy Event que vai revelar headset de XR",
+        "description": "O próximo evento da Samsung vai acontecer ainda em outubro",
+        "image": "https://tm.ibxk.com.br/2025/09/04/04124919150050.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407788-huawei-lanca-relogios-e-celular-com-melhor-camera-do-mundo-por-r-13-mil-no-brasil.htm",
+        "title": "Huawei lança celular com 'melhor câmera do mundo' por R$ 13 mil no Brasil",
+        "description": "Modelos têm preço alto, mas apostam em recursos de ponta para ciclistas e mergulhadores, além de detecção cardiovascular",
+        "image": "https://tm.ibxk.com.br/2025/10/15/kv_color_1_2x_b0d5f83aa1.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502576-nuuvem-jogos-da-steam-para-pc-com-ate-90-off.htm",
+        "title": "Nuuvem: jogos da Steam para PC com até 90% OFF",
+        "description": "Aproveite preços mais baixos em vários jogos para comprar na Nuuvem e resgatar na Steam, incluindo Neva, Digimon Story Time Stranger e Shadow Warrior 2, entre outros, com grandes descontos",
+        "image": "https://tm.ibxk.com.br/2025/10/14/neva_promocoes_nuuvem_960x640_ca9814ef04.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602291-entenda-o-final-de-boots-nova-serie-que-esta-bombando-na-netflix.htm",
+        "title": "Entenda o final de Boots, nova série que está bombando na Netflix",
+        "description": "Entenda o desfecho da nova série Boots, produção original da Netflix que acompanha um jovem gay entre os Fuzileiros Navais.",
+        "image": "https://tm.ibxk.com.br/2025/10/14/boots_netflix_0143485fd2.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/software/407780-openai-quer-chatgpt-sem-vies-politico-em-nenhuma-direcao.htm",
         "title": "OpenAI quer ChatGPT sem viés político 'em nenhuma direção'",
         "description": "A startup afirma que o modelo GPT-5 reduziu o viés político em 30%, na comparação com as gerações anteriores.",
@@ -25,41 +67,6 @@
         "title": "Tudo que sabemos sobre a 2ª temporada de Outlander Blood Of My Blood",
         "description": "Outlander Blood of My Blood iniciou as gravações de sua Temporada 2 antes mesmo do final da primeira parte",
         "image": "https://tm.ibxk.com.br/2025/10/14/Tudo_Sabemos_Temporada_2_Outlander_Blood_Blood_27d3b917ee.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407779-vivo-oferece-assinatura-perplexity-pro-para-mais-clientes-confira-como-resgatar.htm",
-        "title": "Vivo oferece assinatura Perplexity Pro para mais clientes; confira como resgatar",
-        "description": "A assinatura Perplexity Pro está disponível para mais clientes Vivo, incluindo planos pré-pagos",
-        "image": "https://tm.ibxk.com.br/2025/06/23/23163250022004.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502575-xbox-rog-ally-ultrapassa-r-12-mil-em-pre-venda-de-loja-brasileira-veja-precos-divulgados-ao-voxel.htm",
-        "title": "Xbox ROG Ally ultrapassa R$ 12 mil em pré-venda de loja brasileira! Veja preços divulgados ao Voxel",
-        "description": "Xbox ROG Ally e ROG Ally X entrarão em pré-venda na Octoshop com alto valor, segundo estimativa revelada ao TecMundo. Saiba mais detalhes.",
-        "image": "https://tm.ibxk.com.br/2025/10/14/rog_ally_x_xbox_brasil_203f94ca62.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/407774-monteblanc-lanca-caderno-digital-de-luxo-por-quase-us-1000.htm",
-        "title": "Montblanc lança caderno digital de luxo por quase US$ 1.000",
-        "description": "O tablet de escrita da Monteblanc vem acompanhando de uma caneta que remete à estética da linha Meisterstück.",
-        "image": "https://tm.ibxk.com.br/2025/10/14/Montblanc_Digital_Paper_bb64d8c252.png",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/407777-superfino-moto-x70-air-ganha-data-de-lancamento-e-detalhes-tecnicos.htm",
-        "title": "Superfino Moto X70 Air ganha data de lançamento e detalhes técnicos",
-        "description": "O Moto X70 Air, novo celular superfino da Motorola, vai ser lançado em breve na China e logo depois no mercado internacional.",
-        "image": "https://tm.ibxk.com.br/2025/10/14/moto_x70_air_jpg_6419e18bc0.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/407776-fones-bluetooth-baseus-com-ate-78-off-na-loja-oficial-da-shopee-aproveite.htm",
-        "title": "Fones Bluetooth Baseus com até 78% OFF na loja oficial da Shopee; aproveite",
-        "description": "Por tempo limitado, a loja oficial da Baseus na Shopee tem diversas opções de fones de ouvido em promoção com grandes descontos; confira as oportunidades",
-        "image": "https://tm.ibxk.com.br/2025/10/14/Baseus_WM_01_TWS_960x640_aa82cc2135.jpg",
         "date": null
     }
 ]
