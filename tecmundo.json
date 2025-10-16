@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/407823-razer-revela-webcam-kiyo-v2-com-resolucao-4k-ia-e-preco-alto.htm",
+        "title": "Razer revela webcam Kiyo V2 com resolução 4K, IA e preço alto",
+        "description": "Novo modelo usa sensor desenvolvido pela Sony e recursos do Camo Studio para autoenquadramento e customização",
+        "image": "https://tm.ibxk.com.br/2025/10/15/Razer_Kiyo_V2_5028b74845.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407818-contrariando-trump-ceo-da-apple-promete-novos-investimentos-na-china.htm",
+        "title": "Contrariando Trump, CEO da Apple promete novos investimentos na China",
+        "description": "Tim Cook teria feito a promessa durante encontro com o ministro da Indústria chinês em Pequim, destacando a parceria da Apple com fornecedores locais.",
+        "image": "https://tm.ibxk.com.br/2025/10/15/investimentos_apple_na_china_73279fb7cd.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407827-ia-e-o-novo-cx-antecipar-entender-e-lembrar-para-atender-melhor.htm",
+        "title": "IA e o novo CX: antecipar, entender e lembrar para atender melhor",
+        "description": "No CX, a IA não substitui, mas potencializa o toque humano, unindo agilidade e empatia para criar experiências memoráveis e resolutivas.",
+        "image": "https://tm.ibxk.com.br/2025/10/15/Getty_Images_2236346447_84d677dce8.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407826-a-economia-do-quadrilhao.htm",
+        "title": "A economia do quadrilhão",
+        "description": "Com a replicação via agentes de IA, a população digital se multiplica e impulsiona a economia global em direção à marca do quadrilhão.",
+        "image": "https://tm.ibxk.com.br/2025/10/15/Getty_Images_2168720864_ea4b90bbfa.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/software/407819-roku-voice-e-aprimorado-com-ia-e-pode-responder-perguntas-mais-complexas.htm",
         "title": "Roku Voice é aprimorado com IA e pode responder perguntas mais complexas",
         "description": "O assistente virtual do Roku, Roku Voice, foi aprimorado e agora é capaz de responder perguntas sobre filmes, atores e séries; confira todas as novidades",
@@ -25,41 +53,6 @@
         "title": "Microsoft corrige 183 brechas de segurança, incluindo três que foram exploradas",
         "description": "A Microsoft lançou um pacote de atualizações para corrigir 183 brechas de segurança distribuídas em seus produtos.",
         "image": "https://tm.ibxk.com.br/2025/04/02/02083625722016.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407822-o-papel-dos-dados-silenciosos-na-nova-era-dos-negocios.htm",
-        "title": "O papel dos dados 'silenciosos' na nova era dos negócios",
-        "description": "Dados invisíveis são a nova era da monetização de informações através da IA e do OpenFinance.",
-        "image": "https://tm.ibxk.com.br/2025/10/15/Getty_Images_1179580577_dfb2f6df8b.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/internet/407809-gmail-novo-metodo-permite-que-seus-amigos-te-ajudem-a-recuperar-conta.htm",
-        "title": "Gmail: novo método permite que seus amigos te ajudem a recuperar conta",
-        "description": "Nova ferramenta da Google permite usuários a escolherem amigos e familiares de confiança.",
-        "image": "https://tm.ibxk.com.br/2025/10/15/google_cadeado_885fd28cea.png",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602296-spy-x-family-esta-de-volta-com-sua-terceira-temporada-confira-o-calendario-de-lancamento.htm",
-        "title": "Spy x Family está de volta com sua terceira temporada; confira o calendário de lançamento",
-        "description": "Após uma longa espera, Spy x Family voltou a receber novas aventuras no catálogo da Crunchyroll",
-        "image": "https://tm.ibxk.com.br/2025/10/15/Confira_Calendario_Spy_Family_Temporada_3_337c207e51.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/internet/407821-amazon-baixa-para-r-19-valor-minimo-de-compras-para-entregas-no-mesmo-dia.htm",
-        "title": "Amazon baixa para R$ 19 valor mínimo de compras para entregas no mesmo dia",
-        "description": "A novidade da Amazon já está disponível em 7 capitais brasileiras e regiões adjacentes.",
-        "image": "https://tm.ibxk.com.br/2025/10/15/Amazon_Entregas_Getty_Images_Charles_Mc_Clintock_Wilson_707d328538.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502582-battlefield-6-vendeu-mais-de-65-milhoes-de-unidades-em-apenas-cinco-dias-segundo-analista.htm",
-        "title": "Battlefield 6 vendeu mais de 6,5 milhões de unidades em apenas cinco dias, segundo analista",
-        "description": "Battlefield 6 atingindo marco histórico para a franquia, jogos do PS Plus de outubro, Summer Game Fest 2026 e mais! Confira principais notícias de games do dia",
-        "image": "https://tm.ibxk.com.br/2025/10/15/NOTICIAS_DE_GAMES_DO_DIA_68c8779967.jpg",
         "date": null
     }
 ]
