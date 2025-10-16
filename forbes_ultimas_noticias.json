@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/tcu-suspende-decisao-que-obrigava-governo-a-buscar-centro-da-meta-fiscal/",
+        "title": "TCU Suspende Decisão Que Obrigava Governo a Buscar Centro da Meta Fiscal",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/moedas-forbesmoney-300x200.jpg",
+        "date": "16/10/2025",
+        "description": "Alvo para 2025 é de déficit primário zero, com margem de tolerância de 0,25 ponto percentual do PIB"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/economia-brasileira-avanca-04-em-agosto-apos-tres-meses-de-queda/",
+        "title": "Economia Brasileira Avança 0,4% em Agosto Após Três Meses de Queda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/1-17-300x200.png",
+        "date": "16/10/2025",
+        "description": "O resultado reflete uma recuperação moderada em meio a um cenário de juros ainda elevados e incertezas externas, especialmente após a adoção da tarifa de 50% pelos EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-balancos-e-terras-raras-definem-movimento-dos-precos/",
         "title": "Pré-mercado: Balanços e Terras Raras Definem Movimento dos Preços",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "16/10/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos financeiros nesta quinta-feira, 16 de outubro"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/diario-de-lifestyle-os-favoritos-de-anttonia/",
+        "title": "Diário de Lifestyle: Os Favoritos de Anttónia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Anttonia-na-campanha-da-ELLUS-300x200.jpg",
+        "date": "16/10/2025",
+        "description": "Em conversa exclusiva com a Forbes, artista abre sua rotina criativa e mostra como transforma o cotidiano em expressão de estilo"
     },
     {
         "url": "https://forbes.com.br/forbes-mulher/2025/10/lista-forbes-natura-nubank-e-bradesco-estao-entre-as-melhores-empresas-do-mundo-para-mulheres/",
@@ -42,31 +63,10 @@
         "description": "Priscyla Laham fala sobre trajetória profissional e futuro da inteligência artificial em entrevista à Forbes Brasil"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/2025/10/diario-de-lifestyle-os-favoritos-de-anttonia/",
-        "title": "Diário de Lifestyle: Os Favoritos de Anttónia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Anttonia-na-campanha-da-ELLUS-300x200.jpg",
-        "date": "16/10/2025",
-        "description": "Em conversa exclusiva com a Forbes, artista abre sua rotina criativa e mostra como transforma o cotidiano em expressão de estilo"
-    },
-    {
         "url": "https://forbes.com.br/forbes-money/2025/10/b3-cria-regime-facil-para-empresas-de-ate-r-500-milhoes/",
         "title": "B3 Adota Regime Fácil Para Listar Empresas de Até R$ 500 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/03/GettyImages-2201575010-1-300x200.jpg",
         "date": "16/10/2025",
         "description": "Novo modelo simplifica IPOs e emissão de dívida, ampliando o acesso de pequenas empresas ao mercado de capitais e a investidores de varejo"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/10/2-maneiras-comprovadas-pela-ciencia-de-construir-um-amor-que-dura/",
-        "title": "2 Maneiras Comprovadas Pela Ciência de Construir um Amor Que Dura",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/960x0-2-2-300x200.jpg",
-        "date": "16/10/2025",
-        "description": "Décadas de pesquisa mostram como fortalecer um amor sólido, mesmo nos momentos difíceis"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/dubai-quer-trocar-os-barris-por-bytes-e-transforma-a-ia-em-seu-novo-petroleo/",
-        "title": "Dubai quer Trocar os Barris por Bytes e Transforma a IA em Seu Novo Petróleo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Dr.-Marwan-Al-Zarouni-CEO-of-AI-Dubai-Department-of-Economy-and-Tourism-DET-300x200.jpg",
-        "date": "16/10/2025",
-        "description": "Com projeção de US$ 64 bilhões em impacto econômico até 2030, o emirado consolida sua posição como um dos principais polos globais de inteligência artificial."
     }
 ]
