@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-termina-no-vermelho-com-btg-entre-pressoes-weg-sobe/",
+        "title": "Ibovespa Termina no Vermelho com BTG entre Pressões; WEG Sobe",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-12-300x200.png",
+        "date": "16/10/2025",
+        "description": "Dólar cai com embate EUA - China e perspectiva de corte de juros pelo Fed"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/the-donovan-bar-mais-classico-de-londres-ganha-toque-cool-com-nova-parceria/",
+        "title": "The Donovan, Bar Mais Clássico de Londres, Ganha Toque Cool com Nova Parceria",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Life_donovan-bar-2-300x200.jpg",
+        "date": "16/10/2025",
+        "description": "Bar dentro do Brown's Hotel recebe o chef e criador Jesse Jenkins para uma residência de três meses, que irá misturar coquetelaria clássica e frescor californiano"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/milho-sobe-por-preocupacoes-com-produtividade-dos-eua-forte-demanda-por-esmagamento-eleva-a-soja/",
+        "title": "Milho Sobe por Preocupações com Produtividade dos EUA; Forte Demanda por Esmagamento Eleva a Soja",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Trabalhador-descarrega-graos-de-milho-de-um-caminhao-para-um-silo-em-uma-fazenda-perto-de-Brasilia-300x200.jpg",
+        "date": "16/10/2025",
+        "description": "O contrato dezembro do milho na bolsa de Chicago subiu 5 centavos, a US$4,2175 o bushel"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/franca-enfrenta-nova-onda-de-surtos-de-doencas-bovinas/",
+        "title": "França Enfrenta Nova Onda de Surtos de Doenças Bovinas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Vacas-pastam-em-campo-em-Mouzeuil-perto-de-Nantes-300x200.jpg",
+        "date": "16/10/2025",
+        "description": "A França relatou uma queda acentuada nos surtos no final de agosto após uma campanha de vacinação em massa, mas os casos voltaram a subir neste mês"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/boleto-bancario-movimenta-r-247-trilhoes-e-lidera-pagamentos-b2b/",
         "title": "Boleto Bancário Movimenta R$ 2,47 Trilhões e Lidera Pagamentos B2B",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-11-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Livro-_Backstage-SPFW_-Editora-Senac-reune-imagens-feitas-entre-1999-e-2013-por-Renato-de-Cara-e-Filipe-Jardim-300x200.jpg",
         "date": "16/10/2025",
         "description": "Com fotos de Renato de Cara e ilustrações de Filipe Jardim, nova publicação se desdobra em exposição durante a fashion week"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/10/entre-o-ouro-e-o-algoritmo-o-dilema-do-investidor-em-2025/",
-        "title": "Entre o Ouro e o Algoritmo: o Dilema do Investidor em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/ouro-unsplash-300x200.jpg",
-        "date": "16/10/2025",
-        "description": "Os mercados dançam entre juros, inflação e tecnologia, revelando o novo equilíbrio do investidor global"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/o-top-5-esportivos-de-luxo-mais-vendidos-do-brasil/",
-        "title": "O Top 5 Esportivos de Luxo Mais Vendidos do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/PBR25_0299_fine-300x200.jpg",
-        "date": "16/10/2025",
-        "description": "Entre janeiro e setembro deste ano, 2.509 unidades foram emplacadas no país na categoria de esportivos, segundo dados da Fenabrave"
-    },
-    {
-        "url": "https://forbes.com.br/listas/2025/10/os-jogadores-de-futebol-mais-bem-pagos-do-mundo-em-2025/",
-        "title": "Os Jogadores de Futebol Mais Bem Pagos do Mundo em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-10-1-300x200.png",
-        "date": "16/10/2025",
-        "description": "Cristiano Ronaldo lidera um grupo de dez atletas que, juntos, somam ganhos de US$ 945 milhões nesta temporada"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/forbes-mulher-agro-por-que-o-algodao-precisa-voltar-ao-centro-da-conversa-sobre-sustentabilidade/",
-        "title": "Por Que o Algodão Precisa Voltar Ao Centro da Conversa sobre Sustentabilidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_algodao_lavoura_16.10.2025-300x200.jpg",
-        "date": "16/10/2025",
-        "description": "Enquanto debatemos soluções para a crise ambiental, seguimos vestindo plástico e fingindo que não sabemos"
     }
 ]
