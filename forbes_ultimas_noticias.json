@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/colunas/2025/10/entre-o-ouro-e-o-algoritmo-o-dilema-do-investidor-em-2025/",
+        "title": "Entre o Ouro e o Algoritmo: o Dilema do Investidor em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/ouro-unsplash-300x200.jpg",
+        "date": "16/10/2025",
+        "description": "Os movimentos recentes dos mercados refletem uma dança complexa entre juros, inflação e política monetária"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/o-top-5-esportivos-de-luxo-mais-vendidos-do-brasil/",
+        "title": "O Top 5 Esportivos de Luxo Mais Vendidos do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/PBR25_0299_fine-300x200.jpg",
+        "date": "16/10/2025",
+        "description": "Entre janeiro e setembro deste ano, 2.509 unidades foram emplacadas no país na categoria de esportivos, segundo dados da Fenabrave"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/os-jogadores-de-futebol-mais-bem-pagos-do-mundo-em-2025/",
+        "title": "Os Jogadores de Futebol Mais Bem Pagos do Mundo em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-10-1-300x200.png",
+        "date": "16/10/2025",
+        "description": "Cristiano Ronaldo lidera um grupo de dez atletas que, juntos, somam ganhos de US$ 945 milhões nesta temporada"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/por-que-o-algodao-precisa-voltar-ao-centro-da-conversa-sobre-sustentabilidade/",
+        "title": "Por Que o Algodão Precisa Voltar Ao Centro da Conversa sobre Sustentabilidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_algodao_lavoura_16.10.2025-300x200.jpg",
+        "date": "16/10/2025",
+        "description": "Enquanto debatemos soluções para a crise ambiental, seguimos vestindo plástico e fingindo que não sabemos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/nestle-vai-cortar-16-000-empregos-diz-ceo/",
         "title": "Nestlé Vai Cortar 16.000 Empregos, Diz CEO",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/money-nestle-puravida-23mai22-DenisBalibouse-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/melhores-empresas-para-mulheres-1-300x200.jpg",
         "date": "16/10/2025",
         "description": "Ranking liderado pela Microsoft reúne 400 companhias de mais de 36 países em todo o mundo"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/arte-de-jonathas-de-andrade-em-sao-paulo-londres-e-roma/",
-        "title": "Arte de Jonathas de Andrade em São Paulo, Londres e Roma",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.A-esquerda-o-artista-Jonathas-de-Andrade-com-Allan-Schvarsberg-diretor-de-fotografia-do-filme-Jangadeiros-e-Canoeiros-300x200.jpg",
-        "date": "16/10/2025",
-        "description": "O artista alagoano está com individual em São Paulo, depois participa de coletiva no museu Victoria & Albert em Londres e fecha o ano com dois eventos em Roma"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/goiana-e-a-1a-brasileira-a-ganhar-na-europa-o-premio-summit-global-women-in-agritech/",
-        "title": "Goiana É a 1ª Brasileira a Ganhar na Europa o Prêmio Summit Global Women In Agritech",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_nathalia_secco_orchestra_16.10.2025-1-300x200.jpg",
-        "date": "16/10/2025",
-        "description": "Saiba quem é Nathália Secco, a cantora lírica que escolheu investir no agro ao criar uma aceleradora e um venture capital"
-    },
-    {
-        "url": "https://forbes.com.br/infomercial/2025/10/infomercial-modale-quando-construir-historias-se-torna-estrategia/",
-        "title": "Quando Construir Histórias se Torna Estratégia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/1-10-300x200.png",
-        "date": "16/10/2025",
-        "description": "Modale Cenografia aposta em narrativas vivas para conectar marcas ao público de forma memorável"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/cada-pessoa-vai-ter-uma-ia-para-chamar-de-sua-diz-presidente-da-microsoft-brasil/",
-        "title": "\"Cada Pessoa Vai Ter uma IA para Chamar de Sua\", Diz Presidente da Microsoft Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Priscyla-Laham-300x200.png",
-        "date": "16/10/2025",
-        "description": "Priscyla Laham fala sobre trajetória profissional e futuro da inteligência artificial em entrevista à Forbes Brasil"
     }
 ]
