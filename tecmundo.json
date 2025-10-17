@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/internet/407868-o-chatgpt-e-isento-ou-tem-lado-politico-assista-live-do-sem-manual-desta-sexta-17.htm",
+        "title": "O ChatGPT é isento ou tem lado político? Assista live do Sem Manual desta sexta (17)",
+        "description": "Essa e outras notícias serão debatidas no programa de hoje.",
+        "image": "https://tm.ibxk.com.br/2025/10/17/THUMB_SEM_MANUAL_011_9692c0ed7f.png",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407863-golpes-do-clickfix-ultrapassam-phishing-em-ataques-diz-microsoft.htm",
+        "title": "Golpes do ClickFix ultrapassam phishing em ataques, diz Microsoft",
+        "description": "A Microsoft recomenda cautela por parte dos usuários e reitera que copiar e colar qualquer comando para inserir no Windows é algo totalmente errado.",
+        "image": "https://tm.ibxk.com.br/2025/06/30/30130652043228.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602304-a-diplomata-vai-ter-4-temporada-confira-o-que-diz-a-netflix.htm",
+        "title": "A Diplomata vai ter 4ª temporada? Confira o que diz a Netflix",
+        "description": "Logo na estreia da Temporada 3 de A Diplomata, a Netflix abre o jogo sobre o futuro da série!",
+        "image": "https://tm.ibxk.com.br/2025/10/16/A_Diplomata_Temporada_4_Confira_Netflix_7c5fd82ed7.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/407860-grupo-com-nvidia-e-microsoft-compra-empresa-aligned-data-centers-por-us-40-bi.htm",
         "title": "Grupo com Nvidia e Microsoft compra empresa Aligned Data Centers por US$ 40 bi",
         "description": "Investidores agora terão maior infraestrutura para servidores, em especial no setor de IA; companhia era dona da Odata no Brasil.",
@@ -32,27 +53,6 @@
         "title": "Soundbars, lâmpadas inteligentes e mais produtos Coibeu com até 67% OFF na Shopee",
         "description": "Aproveite preços mais baixos em produtos smart da Coibeu na Shopee e garanta itens como câmeras, interruptores inteligentes, eletromésticos e eletroportáteis da marca nacional com desconto por tempo limitado",
         "image": "https://tm.ibxk.com.br/2025/10/17/Mini_Soundbar_COIBEU_RGB_960x640_80d735f442.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502603-naoki-hamaguchi-fala-sobre-levar-final-fantasy-vii-ao-switch-2-e-futuro-da-franquia.htm",
-        "title": "Naoki Hamaguchi fala sobre levar Final Fantasy VII ao Switch 2 e futuro da franquia",
-        "description": "Falando com o Voxel na BGS, Hamaguchi comentou sobre o futuro de Final Fantasy, versão do Switch 2 e mais!",
-        "image": "https://tm.ibxk.com.br/2025/10/17/tifa_final_fantasy_c055caf630.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602301-8-melhores-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-1710.htm",
-        "title": "8 melhores filmes e séries em alta para ver na Netflix no fim de semana (17/10)",
-        "description": "O final de semana na Netflix será marcado por vários filmes e séries de peso; veja os 8 melhores lançamentos para assistir no streaming e aproveitar ao máximo!",
-        "image": "https://tm.ibxk.com.br/2025/10/16/nero_d0d40def74.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407859-casa-de-leiloes-sothebys-confirma-vazamento-de-dados-apos-ataque-cibernetico.htm",
-        "title": "Casa de leilões Sotheby's confirma vazamento de dados após ataque cibernético",
-        "description": "Números de previdência social e informações sobre contas bancárias estão entre os dados expostos no ataque à Sotheby's.",
-        "image": "https://tm.ibxk.com.br/2025/10/16/vazamento_dados_sothebys_9824d69421.jpg",
         "date": null
     }
 ]
