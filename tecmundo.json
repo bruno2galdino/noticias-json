@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/602297-tudo-que-sabemos-sobre-wicked-parte-2-e-a-vinda-do-elenco-para-o-brasil.htm",
+        "title": "Tudo que sabemos sobre Wicked Parte 2 e a vinda do elenco para o Brasil",
+        "description": "A Parte 2 de Wicked vai ser um grande evento, com direito a uma visita de seu elenco principal ao Brasil",
+        "image": "https://tm.ibxk.com.br/2025/10/15/Tudo_Sabemos_Wicked_Parte_2_Elenco_Brasil_77bbd45601.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407864-microsoft-suspende-200-certificados-digitais-usados-para-distribuir-teams-infectado-com-ransomware.htm",
+        "title": "Microsoft suspende 200 certificados digitais usados para distribuir Teams infectado com ransomware",
+        "description": "A Microsoft tomou ação contra um agente malicioso que usava certificados digitais para distribuir uma versão falsa do instalador do Microsoft Teams",
+        "image": "https://tm.ibxk.com.br/2025/10/17/microsoft_teams_40afa7c4f9.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/guia-de-compras/407851-monitores-mais-vendidos-do-mercado-livre-confira-o-odyssey-g30-ultragear-24-e-mais.htm",
+        "title": "Monitores mais vendidos do Mercado Livre: confira o Odyssey G30, UltraGear 24 e mais",
+        "description": "Confira agora uma seleção de ofertas entre os monitores mais populares do Mercado Livre e garanta o display novo para estudar, trabalhar ou jogar com opções de marcas como Samsung, AOC, LG e muitas outras",
+        "image": "https://tm.ibxk.com.br/2025/10/16/Monitor_Gamer_Samsung_S3_24_FHD_960x640_09bb45224c.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502602-estudio-confirma-que-007-first-light-tera-legendas-em-pt-br-apos-reclamacoes-de-brasileiros.htm",
+        "title": "Estúdio confirma que 007 First Light terá legendas em PT-BR após reclamações de brasileiros",
+        "description": "Após uma enxurrada de pedidos da comunidade brasileira, a IO Interactive anunciou que 007 First Light terá legendas em PT-BR! Confira os detalhes",
+        "image": "https://tm.ibxk.com.br/2025/10/17/LEGENDAS_PT_BR_007_FIRST_LIGHT_b5fc5e9241.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/internet/407868-o-chatgpt-e-isento-ou-tem-lado-politico-assista-live-do-sem-manual-desta-sexta-17.htm",
         "title": "O ChatGPT é isento ou tem lado político? Assista live do Sem Manual desta sexta (17)",
         "description": "Essa e outras notícias serão debatidas no programa de hoje.",
@@ -32,27 +60,6 @@
         "title": "Linha Galaxy S da Samsung com desconto e cupom no Magalu; aproveite",
         "description": "Aproveite os preços reduzidos da Samsung Week no Magazine Luiza e garanta smartphones Samsung Galaxy S25 Ultra, S24, S4 FE e mais modelos da marca com desconto e cupons por tempo limitado; confira as oportunidades",
         "image": "https://tm.ibxk.com.br/2025/10/01/Smartphone_Samsung_Galaxy_S25_Ultra_960x640_a0d7dc0dac.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/407831-galaxy-s25-vs-iphone-17-diferencas-especificacoes-e-preco.htm",
-        "title": "Galaxy S25 vs iPhone 17: diferenças, especificações e preço",
-        "description": "Compare o Galaxy S25 e o iPhone 17 e descubra qual tem melhor desempenho, câmeras, bateria e recursos em 2025.",
-        "image": "https://tm.ibxk.com.br/2025/09/09/09143248844190.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407861-meta-vai-descontinuar-aplicativo-do-messenger-para-windows-e-macs.htm",
-        "title": "Meta vai descontinuar aplicativo do Messenger para Windows e Macs",
-        "description": "Serviço de bate-papo separado do Facebook deixa de funcionar em 15 de dezembro; saiba quais são as alternativas restantes de acesso.",
-        "image": "https://tm.ibxk.com.br/2025/10/17/facebook_messenger_logo_d9bdf3547d.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/407862-soundbars-lampadas-inteligentes-e-mais-produtos-coibeu-com-ate-67-off-na-shopee.htm",
-        "title": "Soundbars, lâmpadas inteligentes e mais produtos Coibeu com até 67% OFF na Shopee",
-        "description": "Aproveite preços mais baixos em produtos smart da Coibeu na Shopee e garanta itens como câmeras, interruptores inteligentes, eletromésticos e eletroportáteis da marca nacional com desconto por tempo limitado",
-        "image": "https://tm.ibxk.com.br/2025/10/17/Mini_Soundbar_COIBEU_RGB_960x640_80d735f442.jpg",
         "date": null
     }
 ]
