@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/bndes-financia-r17-bilhao-em-exportacoes-da-embraer-para-a-skywest/",
+        "title": "BNDES Financia R$1,7 Bilhão em Exportações da Embraer para a SkyWest",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-logo-da-embraer-300x200.jpg",
+        "date": "17/10/2025",
+        "description": "Fomento será para a venda de 13 aeronaves E-175. Pedido firme envolve 60 aeronaves, com direito de compra de 50 jatos adicionais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ouro-ultrapassa-us-43-mil-e-caminha-para-maior-aumento-semanal-desde-2008/",
+        "title": "Ouro Ultrapassa US$ 4,3 Mil e Caminha para Maior Aumento Semanal desde 2008",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-6-3-300x200.png",
+        "date": "17/10/2025",
+        "description": "Durante a manhã desta sexta-feira (17), metal subia a 0,2%, enquanto os contratos futuros dos EUA subiam 1%"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/igp-10-desacelera-008-em-outubro-diz-fgv/",
+        "title": "IGP-10 desacelera 0,08% em outubro, diz FGV",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_aeroporto_Bom-Futuro_06jun25_BF_DIvulg-300x200.jpg",
+        "date": "17/10/2025",
+        "description": "Com o resultado, o índice acumula queda de 0,98% no ano e alta de 1,60% nos últimos 12 meses"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/ace-frehley-guitarrista-fundador-do-kiss-morre-aos-74-anos/",
+        "title": "Ace Frehley, Guitarrista Fundador do Kiss, Morre Aos 74 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/ace-frehley-life-kiss-300x200.jpg",
+        "date": "17/10/2025",
+        "description": "Com uma estrela pintada em seu rosto, Frehley também era conhecido como \"Spaceman\""
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/sem-china-sojicultores-dos-estados-unidos-em-crise-precisam-de-us-50-bilhoes/",
+        "title": "Sem China, Sojicultores dos Estados Unidos em Crise Precisam de US$ 50 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_produtor_EUA_-17out25_Cstar55_Getty-300x200.jpg",
+        "date": "17/10/2025",
+        "description": "Trump afirmou que destinaria dezenas de bilhões de dólares para apoiar os produtores, mas essa ajuda tem sido adiada indefinidamente"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-temor-com-inadimplencia-derruba-acoes-de-bancos-no-exterior/",
+        "title": "Pré-mercado: Temor com Inadimplência Derruba Ações de Bancos no Exterior",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "17/10/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 17 de outubro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/century-a-nova-marca-de-luxo-da-toyota-que-ficara-acima-da-lexus/",
         "title": "Century: a Nova Marca de Luxo da Toyota Que Ficará Acima da Lexus",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/20251013_01_06_s-300x200.jpg",
@@ -7,11 +49,18 @@
         "description": "Depois de lançar seu SUV Century, rival do Rolls Royce Cullinan, há mais de dois anos, a Toyota está reforçando sua linha com um cupê muito mais atraente esteticamente, que ainda não tem nome"
     },
     {
+        "url": "https://forbes.com.br/forbes-mkt/2025/10/com-nova-estrategia-de-produto-e-marketing-danone-quer-dominar-um-mercado-de-r-100-bi-no-brasil/",
+        "title": "Com Nova Estrategia de Produto e Marketing, Danone Quer Dominar um Mercado de R$ 100 Bi no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Marcelo-Bronze-e-o-novo-VP-de-Marketing-da-Danone-Brasil-300x200.jpg",
+        "date": "17/10/2025",
+        "description": "Em entrevista à Forbes Brasil, Marcelo Bronze, CMO da companhia, destaca os investimentos em um novo território e o desafio de trazer a \"saudabilidade acessível\" ao país"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/10/dubai-parou-para-olhar-o-brasil-e-o-motivo-e-a-qualidade-das-nossas-startups/",
         "title": "Dubai Parou para Olhar o Brasil e o Motivo É a Qualidade das Nossas Startups",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Gitex_Dubai_Brasil-300x200.webp",
         "date": "17/10/2025",
-        "description": "O país foi o parceiro oficial do Gitex Expand North Star 2025 e marcou presença com uma das maiores delegações já organizadas pela ApexBrasil; para o Departamento de Economia e Turismo, mercado brasileiro é referência"
+        "description": "O país foi o parceiro oficial do Gitex Expand North Star 2025 e marcou presença com uma das maiores delegações; para o Departamento de Economia e Turismo, mercado brasileiro é referência"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/10/sibauma-e-o-vizinho-de-pipa-para-quem-quer-sossego-e-refugio-na-natureza/",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Life_Kilombo-Villas_Sibauma-300x200.jpg",
         "date": "17/10/2025",
         "description": "No topo das falésias do Rio Grande do Norte, hotel-boutique convida à desconexão com vilas privativas e quilômetros de costa praticamente deserta à sua frente"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/ela-comecou-como-estagiaria-e-vai-liderar-os-chocolates-da-nestle-brasil/",
-        "title": "Executiva Foi de Estagiária a Líder dos Chocolates da Nestlé",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Nestle-Brasil-anuncia-Paula-Munhoz-como-nova-Diretora-de-Marketing-de-Chocolates-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "Em 16 anos de empresa, Paula Munhoz passou por diferentes categorias e liderou algumas das maiores marcas do grupo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/google-leva-nano-banana-a-bilhoes-de-usuarios/",
-        "title": "Google Leva Nano Banana a Bilhões de Usuários",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/nano-banana-300x200.png",
-        "date": "17/10/2025",
-        "description": "Editor de imagens por IA será integrado diretamente a plataforma de buscas"
-    },
-    {
-        "url": "https://forbes.com.br/infomercial/2025/10/infomercial-leao-group-global-mobilidade-global-transforma-vida-e-negocios/",
-        "title": "Mobilidade Global Transforma Vida e Negócios",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/1-11-300x200.png",
-        "date": "17/10/2025",
-        "description": "CEO da Leao Group Global defende mobilidade global como estratégia de proteção patrimonial, expansão de carreira e liberdade para famílias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/startups-de-ia-captam-mais-de-us-300-milhoes-para-construir-robos-humanoides/",
-        "title": "Startups de IA Captam Mais de US$ 300 Milhões para Construir Robôs Humanoides",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/robos-humanoides-300x200.png",
-        "date": "17/10/2025",
-        "description": "Apesar do crescimento, investidores ainda questionam a maturidade do setor"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/como-conquistar-a-geracao-z-3-estrategias-para-atrair-e-reter-talentos/",
-        "title": "Geração Z: 3 Passos para Atrair e Reter os Melhores Talentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-geracao-Z-tecnologia-1-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "Com novas expectativas e um olhar crítico sobre o trabalho, jovens profissionais não hesitam em mudar de empresa se suas expectativas não forem atendidas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/por-que-o-bitcoin-esta-ganhando-mais-espaco-nos-balancos-corporativos/",
-        "title": "Por Que o Bitcoin Está Ganhando Mais Espaço nos Balanços Corporativos?",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/12/money_binance_criptomoedas-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "Em apenas um ano, o número de empresas que adotaram o bitcoin como reserva corporativa mais do que dobrou, de 64 para 175 e fundos já chegam a US$ 60 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/10/pesquisa-revela-feijoes-amazonicos-com-27-de-proteina-e-potencial-de-mercado-premium/",
-        "title": "Pesquisa Descobre Variedades Amazônicas com 27% de Proteína",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_feijoes_embrapa_16.10.2025-300x200.jpg",
-        "date": "16/10/2025",
-        "description": "A pesquisa visa valorizar os grãos e incentivar o Selo Povos e Comunidades Tradicionais do Brasil"
     }
 ]
