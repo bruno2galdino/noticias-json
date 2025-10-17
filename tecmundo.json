@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/407875-chip-m5-da-apple-bate-cpus-intel-core-9-e-ryzen-9-em-teste-single-core.htm",
+        "title": "Chip M5 da Apple bate CPUs Intel Core 9 e Ryzen 9 em teste single-core",
+        "description": "Modelo alavanca 20% de vantagem contra rivais de desktop, mas fica bem atrás da concorrência no teste com múltiplos núcleos",
+        "image": "https://tm.ibxk.com.br/2025/10/17/chip_apple_m5_33e1e654d8.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502589-aquisicao-da-ea-por-fundo-da-arabia-saudita-gera-preocupacao-nos-eua-entenda.htm",
+        "title": "Aquisição da EA por fundo da Arábia Saudita gera preocupação nos EUA! Entenda",
+        "description": "Dois parlamentares norte-americanos expressaram preocupações com a aquisição da EA pelo PIF, fundo soberano de investimentos da Arábia Saudita. Confira os detalhes",
+        "image": "https://tm.ibxk.com.br/2025/10/16/AQUISICAO_DA_EA_f8ed9078a0.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/407872-data-centers-se-expandem-rapidamente-e-mudam-paisagens-nos-eua.htm",
         "title": "Data centers se expandem rapidamente e mudam paisagens nos EUA",
         "description": "Mais de 1,2 mil data centers estão funcionando ou têm construção aprovada nos EUA, no momento, e a quantidade vai aumentar nos próximos anos.",
@@ -46,20 +60,6 @@
         "title": "5 demos grátis para jogar no Steam Next Fest este fim de semana",
         "description": "O Steam Nex Fest já está valendo e ficará disponível até o dia 20 de outubro. Veja uma lista com cinco ótimas demos para jogar no evento!",
         "image": "https://tm.ibxk.com.br/2025/10/17/steam_pc_jogos_gratis_642850d076.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407866-google-gemini-ganha-novos-recursos-de-voz-e-ias-agenticas-para-planilhas.htm",
-        "title": "Google Gemini ganha novos recursos de voz e IAs agênticas para planilhas",
-        "description": "Plataforma agora é capaz de ter sotaque e tons de fala diferentes, além de ser configurado para lidar sozinho com tabelas e dados.",
-        "image": "https://tm.ibxk.com.br/2025/04/08/08100615547038.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602311-temporada-5-de-stranger-things-tera-retorno-de-personagem-amada-do-inicio-da-serie.htm",
-        "title": "Temporada 5 de Stranger Things terá retorno de personagem amada do início da série",
-        "description": "Stranger Things vai trazer de volta uma personagem amada, mas não da maneira como os fãs esperavam",
-        "image": "https://tm.ibxk.com.br/2025/10/17/Temporada_5_Stranger_Things_Retorno_Personagem_Serie_8b268772b8.jpg",
         "date": null
     }
 ]
