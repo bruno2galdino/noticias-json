@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-avanca-em-pregao-com-prio-em-destaque/",
+        "title": "Ibovespa Avança em Pregão com Prio em Destaque",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "17/10/2025",
+        "description": "Dólar tem 3ª sessão consecutiva de baixa e se reaproxima dos R$ 5,40"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/infomercial-benx-autoralidade-como-legado-as-mentes-que-estao-redefinindo-o-mercado-de-alto-luxo-em-sao-paulo/",
+        "title": "Autoralidade como legado: as mentes que estão redefinindo o mercado de alto luxo em São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/if-benx-1-300x200.jpg",
+        "date": "17/10/2025",
+        "description": "Benx reúne ‘dream team’ para criar Autór Jardins, projeto que une moradia, design e curadoria de arte"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/tilapia-conabio-quer-proibir-cultivo-e-ameaca-68-da-piscicultura-nacional/",
+        "title": "Proibição de Cultivo de Tilápia Ameaça 68% da Produção Nacional",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_tilapia_17.10.2025-300x200.jpg",
+        "date": "17/10/2025",
+        "description": "O órgão propôs incluir o peixe na Lista Nacional de Espécies Exóticas Invasoras, banindo o cultivo"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/10/p-oint-o-f-v-iew-por-sofia-patsch-16/",
         "title": "P (oint) O (f) V (iew) por Sofia Patsch #16",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/padrao-Forbes-31-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-17T143514Z_1_LYNXNPEL9G0QZ_RTROPTP_4_F1-APPLE-ACORDO-300x200.jpg",
         "date": "17/10/2025",
         "description": "A Apple TV exibirá toda a temporada da F1, com treinos e algumas corridas disponíveis gratuitamente no app"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/10/estrela-do-cinema-frances-brigitte-bardot-se-recupera-apos-breve-internacao-hospitalar/",
-        "title": "Estrela do Cinema Francês Brigitte Bardot se Recupera após Breve Internação Hospitalar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-17T121835Z_1_LYNXNPEL9G0L2_RTROPTP_4_PEOPLE-BARDOT-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "Ícone dos anos 1950 e 1960, Brigitte Bardot marcou o cinema e a música com seu estilo livre e provocante"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/doenca-viral-de-pele-nudular-ameaca-gado-frances-e-forca-proibicao-de-exportacao/",
-        "title": "Doença Viral Ameaça Futuro da Pecuária Francesa com Proibição de Exportação de Gado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_doenca_gado_franca_foto_reuters_17.10.2025-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "A doença, que não afeta humanos, causa perdas econômicas severas e restrições comerciais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/adm-recorre-a-incentivo-incomum-para-atrair-vendas-de-soja-dos-eua/",
-        "title": "ADM Recorre a Incentivo Incomum Para Atrair Vendas de Soja dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_adm_sede_eua_reuters_17.10.2025-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "A empresa está oferecendo aos agricultores a entrega imediata de soja sem custo de armazenamento"
     }
 ]

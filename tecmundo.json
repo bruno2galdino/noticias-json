@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/407872-data-centers-se-expandem-rapidamente-e-mudam-paisagens-nos-eua.htm",
+        "title": "Data centers se expandem rapidamente e mudam paisagens nos EUA",
+        "description": "Mais de 1,2 mil data centers estão funcionando ou têm construção aprovada nos EUA, no momento, e a quantidade vai aumentar nos próximos anos.",
+        "image": "https://tm.ibxk.com.br/2025/10/17/data_centers_eua_54e3198d32.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/software/407883-whatsapp-vai-limitar-mensagens-que-voce-pode-enviar-sem-resposta-para-desconhecidos.htm",
+        "title": "WhatsApp vai limitar mensagens que você pode enviar sem resposta para desconhecidos",
+        "description": "Mensageiro pretende combater spam e evitar contato indesejados; testes começam em vários países nas próximas semanas.",
+        "image": "https://tm.ibxk.com.br/2025/08/12/12180547328033.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602312-guerreiras-do-k-pop-sera-lancado-nos-cinemas-brasileiros-veja-quando.htm",
         "title": "Guerreiras do K-Pop será lançado nos cinemas brasileiros! Veja quando",
         "description": "Guerreiras do K-Pop chega às telas grandes em sessões que incentivam a interação com os fãs. Saiba mais detalhes.",
@@ -46,20 +60,6 @@
         "title": "Temporada 5 de Stranger Things terá retorno de personagem amada do início da série",
         "description": "Stranger Things vai trazer de volta uma personagem amada, mas não da maneira como os fãs esperavam",
         "image": "https://tm.ibxk.com.br/2025/10/17/Temporada_5_Stranger_Things_Retorno_Personagem_Serie_8b268772b8.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407837-os-custos-invisiveis-da-ma-gestao-de-dados-e-como-evita-los.htm",
-        "title": "Os custos invisíveis da má gestão de dados - e como evitá-los",
-        "description": "Empresas que não investem na gestão estratégica de seus dados acabam pagando um preço alto.",
-        "image": "https://tm.ibxk.com.br/2025/10/16/gestao_dados_41493493_eb9e58f736.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407873-vivo-lanca-protecao-rua-app-que-bloqueia-a-internet-de-certos-apps-em-casos-de-roubo.htm",
-        "title": "Vivo lança Proteção Rua, app que pedirá senha de certos apps em casos de roubo",
-        "description": "A nova função de proteção da Vivo impede que determinados apps se conectem à internet enquanto o dispositivo estiver em locais desconhecidos",
-        "image": "https://tm.ibxk.com.br/2025/03/24/24085140941005.jpg",
         "date": null
     }
 ]
