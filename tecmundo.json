@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/602311-temporada-5-de-stranger-things-tera-retorno-de-personagem-amada-do-inicio-da-serie.htm",
+        "title": "Temporada 5 de Stranger Things terá retorno de personagem amada do início da série",
+        "description": "Stranger Things vai trazer de volta uma personagem amada, mas não da maneira como os fãs esperavam",
+        "image": "https://tm.ibxk.com.br/2025/10/17/Temporada_5_Stranger_Things_Retorno_Personagem_Serie_8b268772b8.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407837-os-custos-invisiveis-da-ma-gestao-de-dados-e-como-evita-los.htm",
+        "title": "Os custos invisíveis da má gestão de dados - e como evitá-los",
+        "description": "Empresas que não investem na gestão estratégica de seus dados acabam pagando um preço alto.",
+        "image": "https://tm.ibxk.com.br/2025/10/16/gestao_dados_41493493_eb9e58f736.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407873-vivo-lanca-protecao-rua-app-que-bloqueia-a-internet-de-certos-apps-em-casos-de-roubo.htm",
+        "title": "Vivo lança Proteção Rua, app que pedirá senha de certos apps em casos de roubo",
+        "description": "A nova função de proteção da Vivo impede que determinados apps se conectem à internet enquanto o dispositivo estiver em locais desconhecidos",
+        "image": "https://tm.ibxk.com.br/2025/03/24/24085140941005.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502606-review-keeper-e-uma-obra-brilhante-de-uma-xbox-que-nao-existe-mais.htm",
         "title": "Review: Keeper é uma obra brilhante de uma Xbox que não existe mais",
         "description": "Trazendo tom experimental e história sem palavras, Keeper é uma jornada que vai agradar quem curte jogos artísticos. Confira a análise completa.",
@@ -32,20 +53,6 @@
         "title": "Tudo que sabemos sobre Wicked Parte 2 e a vinda do elenco para o Brasil",
         "description": "A Parte 2 de Wicked vai ser um grande evento, com direito a uma visita de seu elenco principal ao Brasil",
         "image": "https://tm.ibxk.com.br/2025/10/15/Tudo_Sabemos_Wicked_Parte_2_Elenco_Brasil_77bbd45601.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407864-microsoft-suspende-200-certificados-digitais-usados-para-distribuir-teams-infectado-com-ransomware.htm",
-        "title": "Microsoft suspende 200 certificados digitais usados para distribuir Teams infectado com ransomware",
-        "description": "A Microsoft tomou ação contra um agente malicioso que usava certificados digitais para distribuir uma versão falsa do instalador do Microsoft Teams",
-        "image": "https://tm.ibxk.com.br/2025/10/17/microsoft_teams_40afa7c4f9.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/407851-monitores-mais-vendidos-do-mercado-livre-confira-o-odyssey-g30-ultragear-24-e-mais.htm",
-        "title": "Monitores mais vendidos do Mercado Livre: confira o Odyssey G30, UltraGear 24 e mais",
-        "description": "Confira agora uma seleção de ofertas entre os monitores mais populares do Mercado Livre e garanta o display novo para estudar, trabalhar ou jogar com opções de marcas como Samsung, AOC, LG e muitas outras",
-        "image": "https://tm.ibxk.com.br/2025/10/16/Monitor_Gamer_Samsung_S3_24_FHD_960x640_09bb45224c.jpg",
         "date": null
     }
 ]
