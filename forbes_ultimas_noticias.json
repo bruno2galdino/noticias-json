@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/10/p-oint-o-f-v-iew-por-sofia-patsch-16/",
+        "title": "P (oint) O (f) V (iew) por Sofia Patsch #16",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/padrao-Forbes-31-300x200.jpg",
+        "date": "17/10/2025",
+        "description": "Aqui, você encontra uma curadoria elegante e moderna sobre diversos assuntos, de forma leve, mas com aquele toque de sofisticação!"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/10/judiciario-dos-eua-inicia-licencas-nao-remuneradas-apos-esgotar-recursos/",
+        "title": "Judiciário dos EUA Inicia Licenças Não Remuneradas Após Esgotar Recursos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-16-300x200.png",
+        "date": "17/10/2025",
+        "description": "Com mais de 33 mil servidores afetados, tribunais americanos reduzem operações após o Congresso não renovar o financiamento durante o shutdown do governo"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/10/regras-para-cidadania-espanhola-serao-alteradas-confira-o-que-muda/",
         "title": "Regras para Cidadania Espanhola Serão Alteradas; Confira o Que Muda",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Netos-e-bisnetos-de-pessoas-nascidas-na-Espanha-passam-a-ter-mais-dificuldade-para-tirar-o-visto-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_adm_sede_eua_reuters_17.10.2025-300x200.jpg",
         "date": "17/10/2025",
         "description": "A empresa está oferecendo aos agricultores a entrega imediata de soja sem custo de armazenamento"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/trump-diz-que-tarifas-de-100-sobre-a-china-nao-sao-sustentaveis/",
-        "title": "Trump Diz Que Tarifas de 100% sobre a China Não São Sustentáveis",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-trump-brics-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "Trump também confirmou que se reunirá com o presidente chinês, Xi Jinping, em duas semanas na Coreia do Sul"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/meta-aumentara-controle-dos-pais-de-adolescentes-apos-criticas-sobre-chatbots-de-ia/",
-        "title": "Meta Aumentará Controle dos Pais de Adolescentes após Críticas sobre Chatbots de IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Meta-300x200.png",
-        "date": "17/10/2025",
-        "description": "As novas ferramentas serão lançadas no Instagram no início do ano que vem, nos EUA, no Reino Unido, no Canadá e na Austrália"
     }
 ]
