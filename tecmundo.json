@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407888-empresa-de-tecnologia-f5-revela-roubo-de-dados-em-grave-violacao-de-seguranca.htm",
+        "title": "Empresa de tecnologia F5 revela roubo de dados em grave violação de segurança",
+        "description": "A firma de cibersegurança, que tem algumas das maiores empresas do mundo entre os clientes, além de agências governamentais, disse que não há evidências de vazamento das informações coletadas.",
+        "image": "https://tm.ibxk.com.br/2025/10/17/ataque_cibernetico_f5_4d5a93fd84.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/407886-anatel-alerta-governo-federal-sobre-os-riscos-de-centralizar-data-centers-em-grandes-cidades.htm",
+        "title": "Anatel alerta governo federal sobre os riscos de centralizar data centers em grandes cidades",
+        "description": "O presidente da Anatel, Carlos Baigorri, explicou que ter todos os data centers centralizados enfraquece a infraestrutura de nacional",
+        "image": "https://tm.ibxk.com.br/2025/10/17/Getty_Images_data_centers_servidores_local_e5e2712639.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502607-steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-agora-17.htm",
+        "title": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate agora (17)",
+        "description": "De jogos multiplayer caóticos a terror brasileiro: veja indicações de jogos grátis para curtir no PC nesta semana!",
+        "image": "https://tm.ibxk.com.br/2025/10/17/jogos_gratis_steam_17_outubro_thumb_2ec66bcc15.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602310-ja-maratonou-a-diplomata-confira-outros-10-dramas-politicos-para-assistir-na-netflix.htm",
         "title": "Já maratonou A Diplomata? Confira outros 10 dramas políticos para assistir na Netflix",
         "description": "Se você já terminou a terceira temporada de A Diplomata, é hora de conhecer novas séries de dramas políticos disponíveis na Netflix. Confira a lista que preparamos!",
@@ -46,27 +67,6 @@
         "title": "Data centers se expandem rapidamente e mudam paisagens nos EUA",
         "description": "Mais de 1,2 mil data centers estão funcionando ou têm construção aprovada nos EUA, no momento, e a quantidade vai aumentar nos próximos anos.",
         "image": "https://tm.ibxk.com.br/2025/10/17/data_centers_eua_54e3198d32.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/407883-whatsapp-vai-limitar-mensagens-que-voce-pode-enviar-sem-resposta-para-desconhecidos.htm",
-        "title": "WhatsApp vai limitar mensagens que você pode enviar sem resposta para desconhecidos",
-        "description": "Mensageiro pretende combater spam e evitar contato indesejados; testes começam em vários países nas próximas semanas.",
-        "image": "https://tm.ibxk.com.br/2025/08/12/12180547328033.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602312-guerreiras-do-k-pop-sera-lancado-nos-cinemas-brasileiros-veja-quando.htm",
-        "title": "Guerreiras do K-Pop será lançado nos cinemas brasileiros! Veja quando",
-        "description": "Guerreiras do K-Pop chega às telas grandes em sessões que incentivam a interação com os fãs. Saiba mais detalhes.",
-        "image": "https://tm.ibxk.com.br/2025/10/17/Guerreiras_K_Pop_Lancado_Cinemas_Brasileiros_Netflix_ecab30a2ec.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/407870-iphone-dobravel-pode-ser-adiado-para-2027-entenda-o-motivo.htm",
-        "title": "iPhone dobrável pode ser adiado para 2027; entenda o motivo",
-        "description": "Empresa quer realizar algumas melhorias na tela, mas se quiser lançar o modelo em 2026 vai precisar reduzir o número de unidades fabricadas",
-        "image": "https://tm.ibxk.com.br/2025/09/09/09150216139321.jpg",
         "date": null
     }
 ]
