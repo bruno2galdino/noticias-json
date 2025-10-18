@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/407853-10-noticias-mais-importantes-da-semana-1310-a-1710.htm",
+        "title": "10 notícias mais importantes da semana (13/10 a 17/10)",
+        "description": "Comece o final de semana por dentro de tudo o que rolou no mundo da Ciência, Tecnologia, Entretenimento e Games.",
+        "image": "https://tm.ibxk.com.br/2025/08/29/29180639384020.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/407888-empresa-de-tecnologia-f5-revela-roubo-de-dados-em-grave-violacao-de-seguranca.htm",
         "title": "Empresa de tecnologia F5 revela roubo de dados em grave violação de segurança",
         "description": "A firma de cibersegurança, que tem algumas das maiores empresas do mundo entre os clientes, além de agências governamentais, disse que não há evidências de vazamento das informações coletadas.",
@@ -60,13 +67,6 @@
         "title": "Aquisição da EA por fundo da Arábia Saudita gera preocupação nos EUA! Entenda",
         "description": "Dois parlamentares norte-americanos expressaram preocupações com a aquisição da EA pelo PIF, fundo soberano de investimentos da Arábia Saudita. Confira os detalhes",
         "image": "https://tm.ibxk.com.br/2025/10/16/AQUISICAO_DA_EA_f8ed9078a0.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407872-data-centers-se-expandem-rapidamente-e-mudam-paisagens-nos-eua.htm",
-        "title": "Data centers se expandem rapidamente e mudam paisagens nos EUA",
-        "description": "Mais de 1,2 mil data centers estão funcionando ou têm construção aprovada nos EUA, no momento, e a quantidade vai aumentar nos próximos anos.",
-        "image": "https://tm.ibxk.com.br/2025/10/17/data_centers_eua_54e3198d32.jpg",
         "date": null
     }
 ]
