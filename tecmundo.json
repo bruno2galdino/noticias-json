@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/auto/407855-como-as-novas-tecnologias-estao-moldando-o-futuro-dos-carros-conectados-e-eletricos.htm",
+        "title": "Como as novas tecnologias estão moldando o futuro dos carros conectados e elétricos",
+        "description": "Conversei com três pessoas do mercado automobilístico pra falar sobre as tecnologias automobilísticas que estão afetam do autódromo à garagem.",
+        "image": "https://tm.ibxk.com.br/2025/10/17/Carro_inteligente_Getty_Images_Capuski_3e548d271a.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407686-tudo-que-voce-precisa-saber-antes-de-comprar-um-fone-bluetooth.htm",
+        "title": "Tudo que você precisa saber antes de comprar um fone Bluetooth",
+        "description": "Tudo que você precisa saber antes de comprar um fone Bluetooth; escolha o modelo ideal com base em preço, bateria e qualidade.",
+        "image": "https://tm.ibxk.com.br/2025/10/15/fone_bluetooth_f5794068ac.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407890-dados-de-agentes-de-imigracao-dos-eua-e-do-fbi-podem-ter-sido-expostos.htm",
+        "title": "Dados de agentes de imigração dos EUA e do FBI podem ter sido expostos",
+        "description": "Hackers envolvidos no ataque à Salesforce também estariam por trás da exposição de informações de funcionários do governo americano, que não comentou sobre o vazamento.",
+        "image": "https://tm.ibxk.com.br/2025/10/17/vazamento_de_dados_ice_7b9d957c32.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502610-steam-tem-jogos-para-pc-com-ate-92-de-desconto.htm",
         "title": "Steam tem jogos para PC com até 92% de desconto",
         "description": "Entre as ofertas da semana na Steam você encontra ótimos jogos para PC como Sniper Elite 4, Batman: Arkham Knight e Kingdom Two Crowns, entre outros",
@@ -39,27 +60,6 @@
         "title": "Palpites para Cruzeiro x Fortaleza: Mercados e Onde Assistir (18/10/2025)",
         "description": "Cruzeiro x Fortaleza: descubra os melhores palpites para a partida e saiba onde acompanhar ao vivo a rodada do Brasileirão. Jogue com responsabilidade!",
         "image": "https://tm.ibxk.com.br/2025/10/14/Palpites_para_Cruzeiro_x_Fortaleza_855233cb21.png",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407853-10-noticias-mais-importantes-da-semana-1310-a-1710.htm",
-        "title": "10 notícias mais importantes da semana (13/10 a 17/10)",
-        "description": "Comece o final de semana por dentro de tudo o que rolou no mundo da Ciência, Tecnologia, Entretenimento e Games.",
-        "image": "https://tm.ibxk.com.br/2025/08/29/29180639384020.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407888-empresa-de-tecnologia-f5-revela-roubo-de-dados-em-grave-violacao-de-seguranca.htm",
-        "title": "Empresa de tecnologia F5 revela roubo de dados em grave violação de segurança",
-        "description": "A firma de cibersegurança, que tem algumas das maiores empresas do mundo entre os clientes, além de agências governamentais, disse que não há evidências de vazamento das informações coletadas.",
-        "image": "https://tm.ibxk.com.br/2025/10/17/ataque_cibernetico_f5_4d5a93fd84.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/internet/407886-anatel-alerta-governo-federal-sobre-os-riscos-de-centralizar-data-centers-em-grandes-cidades.htm",
-        "title": "Anatel alerta governo federal sobre os riscos de centralizar data centers em grandes cidades",
-        "description": "O presidente da Anatel, Carlos Baigorri, explicou que ter todos os data centers centralizados enfraquece a infraestrutura de nacional",
-        "image": "https://tm.ibxk.com.br/2025/10/17/Getty_Images_data_centers_servidores_local_e5e2712639.jpg",
         "date": null
     }
 ]
