@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/boom-dos-chips-de-ia-cria-novo-bilionario-na-coreia-do-sul/",
+        "title": "Boom dos Chips de IA Cria Nova Bilionária na Coreia do Sul",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_tech_inteligencia_artificial_foto_Wanan_Yossingkum-Gettyimages_02.10.2025-1-300x200.jpg",
+        "date": "18/10/2025",
+        "description": "Fabricante placas de circuito impresso multicamadas fez do seu dono o mais novo bilionário da Coreia do Sul e já atende nomes tais como Alphabet, Nvidia, Microsoft, Cisco, Arista Networks e Celestica"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/o-brasileiro-ama-a-ia-ate-ela-mexer-com-seus-dados-pessoais/",
+        "title": "O Brasileiro Ama a IA, até Ela Mexer com Seus Dados Pessoais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/GettyImages-1820209027-1-300x200.jpg",
+        "date": "18/10/2025",
+        "description": "Segundo uma nova pesquisa da Hibou em parceria com a Indico, 65,3% dos consumidores já utilizaram algum recurso de inteligência artificial, mas 95,5% acreditam que as empresas precisam impor limites éticos ao uso"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/o-novo-bond-da-aviacao-nos-eua-pedido-bilionario-promete-mudar-o-setor-de-luxo/",
+        "title": "O Novo Bond da Aviação nos EUA: Pedido Bilionário Promete Mudar o Setor de Luxo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-9-300x200.jpg",
+        "date": "18/10/2025",
+        "description": "A BOND colocará Bill Papariella em competição direta com os três principais players do setor, NetJets, Flexjet, da Flexjet Inc., e VistaJet"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/eles-valem-us-4-bi-e-fazem-negocios-com-trump-conheca-os-baroes-do-acucar-da-florida/",
+        "title": "Tarifas e Lobby: A Estratégia dos Fanjul para Dominar o Açúcar Americano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_irmaos_fajul_17.10.2025-300x200.jpg",
+        "date": "18/10/2025",
+        "description": "Saiba quem são Alfonso \"Alfy\", José \"Pepe\" Fanjul e seus irmãos, donos da maior usina do mundo"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/quer-morar-na-italia-vila-na-toscana-vai-pagar-metade-do-seu-aluguel/",
+        "title": "Quer Morar na Itália? Vila na Toscana Vai Pagar Metade do Seu Aluguel",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Radicondoli-na-Toscana-esta-expandindo-seu-programa-de-subsidios-para-pagar-metade-do-seu-aluguel-para-encorajar-os-recem-chegados-a-se-mudarem-para-la-300x200.jpg",
+        "date": "18/10/2025",
+        "description": "Município de Radicondoli está ampliando seu programa de subsídios, que oferece até 29 mil euros para quem se mudar para lá"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/pornografia-de-ia-chegara-ao-chatgpt-em-dezembro-entenda/",
+        "title": "Conteúdo Adulto Chegará Ao ChatGPT em Dezembro; Entenda",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/11/carreira-openAI-sam-altman-300x200.jpg",
+        "date": "18/10/2025",
+        "description": "O CEO da OpenAI, Sam Altman, disse que, à medida que a empresa começar a verificar a idade de seus usuários, flexibilizará as regras existentes e permitirá conteúdo erótico na plataforma"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/10/menopausa-no-trabalho-como-lideres-podem-oferecer-apoio-para-mulheres/",
+        "title": "Menopausa no Trabalho: Como Líderes Podem Oferecer Apoio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/menopausa-no-trabalho-300x200.jpg",
+        "date": "18/10/2025",
+        "description": "Até 2030, a população mundial de mulheres na menopausa e pós-menopausa deverá chegar a 1,2 bilhão; grandes empresas começam a entender a urgência de abordar o tema"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/resiste-a-agua-quedas-e-ate-temperaturas-extremas-conheca-o-novo-tanque-da-motorola/",
+        "title": "Resiste À Água, Quedas e até Temperaturas Extremas: Conheça o Novo “Tanque” da Motorola",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/MOTOROLA-300x200.jpg",
+        "date": "18/10/2025",
+        "description": "O edge 60 neo é descrito pela marca como “o smartphone compacto mais resistente da categoria” e combina design premium, recursos avançados de inteligência artificial e fotografia profissional"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/estudo-aponta-risco-de-extincao-para-54-especies-nativas-no-parana/",
         "title": "Estudo Aponta Risco de Extinção para 54% Espécies Nativas no Paraná",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_estudo_parana_17.10.2025-2-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
         "date": "17/10/2025",
         "description": "Dólar tem 3ª sessão consecutiva de baixa e se reaproxima dos R$ 5,40"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/infomercial-benx-autoralidade-como-legado-as-mentes-que-estao-redefinindo-o-mercado-de-alto-luxo-em-sao-paulo/",
-        "title": "Autoralidade como legado: as mentes que estão redefinindo o mercado de alto luxo em São Paulo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/if-benx-1-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "Benx reúne ‘dream team’ para criar Autór Jardins, projeto que une moradia, design e curadoria de arte"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/tilapia-conabio-quer-proibir-cultivo-e-ameaca-68-da-piscicultura-nacional/",
-        "title": "Proibição de Cultivo de Tilápia Ameaça 68% da Produção Nacional",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_tilapia_17.10.2025-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "O órgão propôs incluir o peixe na Lista Nacional de Espécies Exóticas Invasoras, banindo o cultivo"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/p-oint-o-f-v-iew-por-sofia-patsch-16/",
-        "title": "P (oint) O (f) V (iew) por Sofia Patsch #16",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/padrao-Forbes-31-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "Aqui, você encontra uma curadoria elegante e moderna sobre diversos assuntos, de forma leve, mas com aquele toque de sofisticação!"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/10/judiciario-dos-eua-inicia-licencas-nao-remuneradas-apos-esgotar-recursos/",
-        "title": "Judiciário dos EUA Inicia Licenças Não Remuneradas Após Esgotar Recursos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-16-300x200.png",
-        "date": "17/10/2025",
-        "description": "Com mais de 33 mil servidores afetados, tribunais americanos reduzem operações após o Congresso não renovar o financiamento durante o shutdown do governo"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/regras-para-cidadania-espanhola-serao-alteradas-confira-o-que-muda/",
-        "title": "Regras para Cidadania Espanhola Serão Alteradas; Confira o Que Muda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Netos-e-bisnetos-de-pessoas-nascidas-na-Espanha-passam-a-ter-mais-dificuldade-para-tirar-o-visto-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "A partir do dia 22 de outubro, netos e bisnetos de pessoas nascidas na Espanha não terão mais direito automático à cidadania"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/bmw-i7-o-seda-eletrico-de-r-13-mi-que-conquistou-os-jogadores-do-real-madrid/",
-        "title": "BMW i7: o Sedã Elétrico de R$ 1,3 Mi Que Conquistou os Jogadores do Real Madrid",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/P90622059_highRes_endrick-y-el-i7-1-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "Durante a temporada 2025/2026, os atletas do clube espanhol vão dirigir carros da montadora alemã"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/fundo-patrimonial-de-harvard-aumenta-para-quase-us-57-bilhoes-e-doacoes-atingem-recorde/",
-        "title": "Fundo Patrimonial de Harvard Aumenta para Quase US$ 57 Bilhões e Doações Atingem Recorde",
-        "image": "https://forbes.com.br/wp-content/uploads/2020/07/IvyLeague-Trump-Estudantesestrangeiros-140720-ReproduçãoForbes.jpg",
-        "date": "17/10/2025",
-        "description": "A instituição disse que recebeu um recorde de US$ 600 milhões em doações irrestritas de ex-alunos e amigos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/porsche-aposta-em-ex-chefe-da-mclaren-como-ceo-para-impulsionar-recuperacao/",
-        "title": "Porsche Aposta em Ex-chefe da McLaren Como CEO para Impulsionar Recuperação",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/08/Ppainel-e1664467778978-300x200.jpg",
-        "date": "17/10/2025",
-        "description": "Há apenas três anos, o valor de mercado da Porsche era o segundo maior da história da Alemanha. Desde então, o preço das ações caiu mais da metade"
     }
 ]
