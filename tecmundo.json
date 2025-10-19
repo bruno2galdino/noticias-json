@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/602305-ninguem-quer-frankenstein-e-mais-os-lancamentos-de-filmes-e-series-da-semana-1910.htm",
+        "title": "Ninguém Quer, Frankenstein e mais! Os lançamentos de filmes e séries da semana (19/10)",
+        "description": "Com o Halloween chegando, a semana conta com alguns lançamento de filmes de terror nos cinemas, mas também de uma comédia romântica da Netflix para relaxar.",
+        "image": "https://tm.ibxk.com.br/2025/10/16/frankenstein_2dd27e1e8b.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407871-home-office-110-vagas-para-trabalho-remoto-1910.htm",
+        "title": "Home office: 110 vagas para trabalho remoto [19/10]",
+        "description": "São mais de 100 vagas home office em diversas áreas; confira a lista!",
+        "image": "https://tm.ibxk.com.br/2025/10/17/vagas_de_tecnologia_remotas_48c4105e9b.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502613-ninja-gaiden-4-double-dragon-jurassic-world-e-mais-veja-os-lancamentos-de-games-da-semana.htm",
+        "title": "Ninja Gaiden 4, Double Dragon, Jurassic World e mais! Veja os lançamentos de games da semana",
+        "description": "Semana recheada de lançamentos traz novos jogos de franquias famosos do mundo dos games",
+        "image": "https://tm.ibxk.com.br/2025/10/19/Copia_de_IMAGENS_VOXEL_6_e45d8bc842.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/407755-o-que-o-envelhecimento-nos-ensina-sobre-tecnologia-inclusiva.htm",
         "title": "O que o envelhecimento nos ensina sobre tecnologia inclusiva",
         "description": "Como a tecnologia mais inclusiva pode ajudar a promover um envelhecimento saudável? Leia o artigo, e descubra!",
@@ -39,13 +60,6 @@
         "title": "Funkos pop! de Stranger Things: confira nova coleção inspirada na 5° temporada da série",
         "description": "Stranger Things ganha nova coleção de Funkos Pop! inspirada na 5° temporada e traz novidades para os fãs; confira os colecionáveis!",
         "image": "https://tm.ibxk.com.br/2025/10/17/novos_funkos_pop_de_stranger_things_74d8a210ae.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502587-quem-jogou-a-primeira-bomba-em-fallout-criador-da-a-resposta.htm",
-        "title": "Quem jogou a primeira bomba em Fallout? Criador dá a resposta",
-        "description": "Em vídeo publicado em seu canal pessoal, Tim Cain, criador da franquia Fallout, finalmente revelou quem jogou a primeira bomba nuclear nos EUA! Confira",
-        "image": "https://tm.ibxk.com.br/2025/10/16/QUEM_JOGOU_PRIMEIRA_BOMBA_FALLOUT_8f40eb1674.jpg",
         "date": null
     }
 ]
