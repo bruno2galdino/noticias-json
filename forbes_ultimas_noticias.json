@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/10/ladroes-roubam-joias-inestimaveis-do-louvre-em-paris-e-fogem-de-moto/",
+        "title": "Ladrões Roubam Joias “Inestimáveis” do Louvre, em Paris, e Fogem de Moto",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/louvre-300x200.png",
+        "date": "19/10/2025",
+        "description": "O roubo ocorreu por volta das 9h30 (4h30 no horário de Brasília), quando o museu já havia aberto suas portas ao público"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/os-bilhoes-invisiveis-dos-trumps-nas-criptomoedas/",
         "title": "Os Bilhões Invisíveis dos Trumps nas Criptomoedas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Donald-Trump-tarifas-money-300x200.png",
@@ -12,6 +19,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Gwen-Graves-esquerda-Pete-Nelson-Todd-Graves-direita-300x200.jpg",
         "date": "19/10/2025",
         "description": "Todd Graves transformou um projeto de infância em refúgio criativo com bar, vitrais e vista panorâmica - e atraiu até celebridades como Snoop Dogg"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/rolls-royce-unico-no-mundo-tem-teto-pintado-a-mao-que-reproduz-a-via-lactea/",
+        "title": "Rolls-Royce Único no Mundo Tem Teto Pintado À Mão Que Reproduz a Via Láctea",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/P90618126_highRes_cullinan-cosmos-a-on-300x200.jpg",
+        "date": "19/10/2025",
+        "description": "Criado sob medida para uma família de Dubai, o SUV de luxo virou uma obra de arte impossível de ser replicada"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/10/por-que-o-cerebro-do-investidor-e-programado-para-perder-dinheiro/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/O-novo-Isle-of-Raasay-Marsala-Cask-Finish.-O-design-da-garrafa-novidade-nos-lancamentos-limitados-da-destilaria-e-inspirado-na-geologia-acidentada-e-rica-em-fosseis-da-ilha-300x200.jpg",
         "date": "19/10/2025",
         "description": "A Isle of Raasay aposta em um novo tipo de maturação em seu mais recente lançamento limitado"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/motor-valley-na-italia-o-guia-essencial-para-quem-ama-carros-conhecer-a-regiao/",
-        "title": "Motor Valley na Itália: o Guia Essencial para Quem Ama Carros Conhecer a Região",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/DJI_20250927153447_0027_D-1-300x200.jpg",
-        "date": "18/10/2025",
-        "description": "No coração da Emilia-Romagna, uma rota que reúne tradição, design e as maiores lendas do automobilismo mundial"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/boom-dos-chips-de-ia-cria-novo-bilionario-na-coreia-do-sul/",
-        "title": "Boom dos Chips de IA Cria Novo Bilionário na Coreia do Sul",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_tech_inteligencia_artificial_foto_Wanan_Yossingkum-Gettyimages_02.10.2025-1-300x200.jpg",
-        "date": "18/10/2025",
-        "description": "Fabricante placas de circuito impresso multicamadas fez do seu dono o mais novo bilionário da Coreia do Sul e já atende nomes tais como Alphabet, Nvidia, Microsoft, Cisco, Arista Networks e Celestica"
     }
 ]
