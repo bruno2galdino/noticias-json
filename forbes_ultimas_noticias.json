@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/efeito-metanol-derruba-vendas-em-bares-em-49-em-setembro/",
+        "title": "Efeito Metanol Derruba Vendas em Bares em 4,9% em Setembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/metanol-bebida-alcoolica-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Segundo o índice Abrasel-Stone, as vendas recuaram 3,9% ante o mesmo período de 2024"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/10/como-o-budismo-guia-a-lideranca-do-ceo-da-weg/",
+        "title": "Como o Budismo Guia a Liderança do CEO da WEG",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Alberto-Kuba-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Com serenidade diante da pressão e firmeza para tomar decisões, Alberto Kuba conduz uma das empresas de capital aberto mais valiosas do Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/tenis-de-corrida-podem-chegar-a-r17-mil-veja-quais-os-favoritos-dos-empresarios-brasileiros/",
+        "title": "Tênis de Corrida Podem Chegar a R$17 Mil: Veja Quais os Favoritos dos Esportistas Brasileiros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.A-Forbes-conversou-com-empresarios-que-praticam-o-esporte-e-fez-uma-selecao-dos-10-tenis-de-corrida-mais-luxuosos-do-mercado-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Da pista às passarelas, a “Running Era” transforma os tênis de corrida em símbolo de status, estilo e performance"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/10/brandvoice-nelson-wilians-advogados-ia-sob-as-lentes-juridicas/",
+        "title": "IA sob as Lentes Jurídicas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/1-12-300x200.png",
+        "date": "20/10/2025",
+        "description": "A governança da inteligência artificial exige um olhar jurídico duplo: a eficiência dos processos e a vigilância do compliance"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/10/o-motivo-surpreendente-por-tras-de-nossas-mas-decisoes/",
+        "title": "O Motivo Surpreendente por trás de Nossas Más Decisões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/960x0-9-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Entenda como o tédio e a busca por novidade podem levar a decisões impulsivas e comportamentos arriscados"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/o-futuro-da-ia-nao-pertence-a-um-pais-mas-e-global-diz-sam-altman/",
+        "title": "\"O Futuro da IA Não Pertence a um País, Mas é Global”, Diz Sam Altman",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/SamAltman-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Durante um painel recente na Gitex Expand North Star 2025, em Dubai, o fundador da OpenAI destacou o papel estratégico que países como os Emirados vêm desempenhando ao adotar IA"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/fim-do-greenwashing-alianca-cria-certificacao-para-o-agro-regenerativo/",
+        "title": "Fim do “Greenwashing”: Aliança Cria Certificação para o Agro Regenerativo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_agricultura_regenerativa_20.10.2025-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "A Regenerative Organic Alliance se une à RegenAgri para incentivar mais de 300 mil fazendas"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/10/ladroes-roubam-joias-inestimaveis-do-louvre-em-paris-e-fogem-de-moto/",
         "title": "Ladrões Roubam Joias “Inestimáveis” do Louvre, em Paris, e Fogem de Moto",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/louvre-300x200.png",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Gwen-Graves-esquerda-Pete-Nelson-Todd-Graves-direita-300x200.jpg",
         "date": "19/10/2025",
         "description": "Todd Graves transformou um projeto de infância em refúgio criativo com bar, vitrais e vista panorâmica - e atraiu até celebridades como Snoop Dogg"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/rolls-royce-unico-no-mundo-tem-teto-pintado-a-mao-que-reproduz-a-via-lactea/",
-        "title": "Rolls-Royce Único no Mundo Tem Teto Pintado À Mão Que Reproduz a Via Láctea",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/P90618126_highRes_cullinan-cosmos-a-on-300x200.jpg",
-        "date": "19/10/2025",
-        "description": "Criado sob medida para uma família de Dubai, o SUV de luxo virou uma obra de arte impossível de ser replicada"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/por-que-o-cerebro-do-investidor-e-programado-para-perder-dinheiro/",
-        "title": "Por Que Cérebro do Investidor É Programado para Perder Dinheiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-12-300x200.png",
-        "date": "19/10/2025",
-        "description": "Todos possuem este \"defeito\" de programação, mas ele pode ser corrigido com paciência e resiliência; entenda"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/cafe-fica-cada-vez-mais-amargo-para-os-americanos-e-precos-batem-recorde/",
-        "title": "Café Fica Cada Vez Mais Amargo para os Americanos e Preços Batem Recorde",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_EUA_-17out25_Royalty-free_Getty-300x200.jpg",
-        "date": "19/10/2025",
-        "description": "Nos EUA, o consumo de 66% dos adultos é diário, mas as tarifas sobre o grão do Brasil e do Vietnã deixam incerto o futuro desse hábito"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/10/do-jogo-a-experiencia-como-o-novo-fantasy-da-nba-quer-redefinir-o-fa-brasileiro-de-basquete/",
-        "title": "Do Jogo à Experiência: Como o Novo Fantasy da NBA Quer Redefinir o Fã Brasileiro de Basquete",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/NBA-FANTASY-BANNER-16x9-D-A-PT-300x200.jpg",
-        "date": "19/10/2025",
-        "description": "Com o novo Fantasy Game, a NBA reforça sua estratégia de expansão digital e de aproximação com a base de fãs no Brasil, um dos países mais engajados com a liga fora dos Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/10/denise-aguiar-diretora-fundacao-bradesco-lidera-investimentos-bilionarios-em-educacao/",
-        "title": "Diretora da Fundação Bradesco Lidera Investimentos Bilionários em Educação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/denise-aguiar-300x200.jpg",
-        "date": "19/10/2025",
-        "description": "Neta de Amador Aguiar, fundador do banco, é a responsável pelo maior projeto de investimento social privado do Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/vinhos-de-prestigio-italianos-geram-lucro-aliando-enoturismo-e-esg/",
-        "title": "Vinhos de Prestígio: a Hospitalidade que Sustenta a Tradição Barolo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_trad_Divulgacao_Forbes_Italia_16.10.2025-1-300x200.jpg",
-        "date": "19/10/2025",
-        "description": "A empresa prossegue em seu caminho seguindo o rastro da continuidade, renovando-se sem perder a identidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/destilaria-de-whisky-escoces-troca-xerez-por-barris-de-um-raro-vinho-siciliano/",
-        "title": "Destilaria de Uísque Escocês Troca Jerez por Barris de um Raro Vinho Siciliano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/O-novo-Isle-of-Raasay-Marsala-Cask-Finish.-O-design-da-garrafa-novidade-nos-lancamentos-limitados-da-destilaria-e-inspirado-na-geologia-acidentada-e-rica-em-fosseis-da-ilha-300x200.jpg",
-        "date": "19/10/2025",
-        "description": "A Isle of Raasay aposta em um novo tipo de maturação em seu mais recente lançamento limitado"
     }
 ]
