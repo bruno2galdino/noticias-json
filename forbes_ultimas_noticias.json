@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/10/willo-perron-o-arquiteto-invisivel-da-cultura-pop/",
+        "title": "Willo Perron: o Arquiteto Invisível da Cultura Pop",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/A-relacao-de-Willo-Perron-com-o-Brasil-comecou-em-2015-quando-esteve-no-pais-pela-primeira-vez-para-assinar-o-show-de-Rihanna-no-Rock-in-Rio-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "De Rihanna a Jay-Z, o criador por trás dos palcos que redefiniram a música ao vivo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-collab/2025/10/brasilia-tea-party/",
+        "title": "Brasília Tea Party",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-8-2-300x200.png",
+        "date": "20/10/2025",
+        "description": "Reação do Congresso à MP da Arrecadação simboliza resistência a um modelo econômico que penaliza quem produz e sustenta o Estado"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/producao-de-carne-suina-da-china-dispara-7-e-precos-despencam-no-mercado-spot/",
+        "title": "Produção de Carne Suína da China Salta 7% e Preços do Suíno Despencam",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-20T111333Z_1_LYNXMPEL9J0F5_RTROPTP_3_USA-TRADE-CHINA-HOGS-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "O aumento da produção, combinado à fraca demanda, fez os preços spot do suíno caírem"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/chuvas-dobram-area-semeada-e-impulsionam-plantio-de-soja-para-24/",
+        "title": "Mato Grosso Ultrapassa Paraná no Plantio Pela Primeira Vez na Safra",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_plantio_03novt24_GuttyImages-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Com maior umidade, Mato Grosso ultrapassou o Paraná e assumiu a liderança no plantio de soja no país"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/arm-amplia-licenciamento-de-ia-para-elevar-fatia-em-mercado-de-dispositivos/",
+        "title": "Arm Amplia Licenciamento de IA para Elevar Fatia em Mercado de Dispositivos",
+        "image": "https://forbes.com.br/wp-content/uploads/2015/08/5-ARM-Holdings-div.jpg",
+        "date": "20/10/2025",
+        "description": "Iniciativa da Arm facilita acesso a ferramentas de design de chips e estimula inovação em microprocessadores"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/iphone-17-supera-antecessor-em-14-nas-vendas-iniciais-na-china-e-nos-eua/",
+        "title": "iPhone 17 Supera Antecessor em 14% nas Vendas Iniciais na China e nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-20T151242Z_1_LYNXMPEL9J0N2_RTROPTP_4_TECH-APPLE-IPHONE17-VEMDAS-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Novos modelos da Apple registram desempenho inicial superior ao da linha anterior, segundo a Counterpoint"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/china-zera-importacao-de-soja-dos-eua-em-setembro-pela-1a-vez-em-7-anos/",
+        "title": "China Zera Importação de Soja dos EUA em Setembro Pela 1ª Vez em 7 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/ForbesAgro_Soja-Brasileira_Lucas-Ninno_GettyImages-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Analistas alertam que o país pode enfrentar uma lacuna de fornecimento entre fevereiro e abril de 2026"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/10/petrobras-obtem-licenca-do-ibama-para-perfurar-na-bacia-da-foz-do-amazonas/",
         "title": "Petrobras Obtém Licença do Ibama para Perfurar na Bacia da Foz do Amazonas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-20T155800Z_1_LYNXMPEL9J0OK_RTROPTP_4_BRAZIL-OIL-AMAZON-300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/2.Boutique-da-Creed-em-Sao-Paulo-300x200.jpg",
         "date": "20/10/2025",
         "description": "Parceria inclui a Maison Creed e licenças de longo prazo de Gucci, Balenciaga e Bottega Veneta; ações da empresa subiram 4,62% nesta segunda"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/o-que-acontece-quando-uma-marca-de-carros-resolve-fazer-relogios/",
-        "title": "O Que Acontece Quando uma Marca de Carros Resolve Fazer Relógios",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/25C0277_001-1-300x200.jpg",
-        "date": "20/10/2025",
-        "description": "Não é coincidência que marcas como Bentley, Rolls-Royce e Mercedes-AMG encontrem nos relógios um prolongamento natural de sua identidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/interrupcao-no-servico-aws-afeta-plataformas-globais-incluindo-gigantes-nacionais-como-o-mercado-livre/",
-        "title": "Interrupção no Serviço AWS Afeta Plataformas Globais, Incluindo Gigantes como o Mercado Livre",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/12/tech-nuvem-aws-19dez22-GettyImages-300x200.jpg",
-        "date": "20/10/2025",
-        "description": "Devido à dependência global da infraestrutura da plataforma de nuvem da Amazon, a falha teve reflexos imediatos no Brasil em empresas com alta demanda por estabilidade e processamento"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-semana-comeca-com-alivio-sobre-situacao-dos-bancos-americanos/",
-        "title": "Pré-mercado: Semana Começa com Alívio sobre Situação dos Bancos Americanos",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "20/10/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 20 de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/efeito-metanol-derruba-vendas-em-bares-em-49-em-setembro/",
-        "title": "Efeito Metanol Derruba Vendas em Bares em 4,9% em Setembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/metanol-bebida-alcoolica-300x200.jpg",
-        "date": "20/10/2025",
-        "description": "Segundo o índice Abrasel-Stone, as vendas recuaram 3,9% ante o mesmo período de 2024"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/como-o-budismo-guia-a-lideranca-do-ceo-da-weg/",
-        "title": "Como o Budismo Guia a Liderança do CEO da WEG",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Alberto-Kuba-300x200.jpg",
-        "date": "20/10/2025",
-        "description": "Com serenidade diante da pressão e firmeza para tomar decisões, Alberto Kuba conduz uma das empresas de capital aberto mais valiosas do Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/tenis-de-corrida-podem-chegar-a-r17-mil-veja-quais-os-favoritos-dos-empresarios-brasileiros/",
-        "title": "Tênis de Corrida Podem Chegar a R$17 Mil: Veja os Favoritos dos Esportistas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.A-Forbes-conversou-com-empresarios-que-praticam-o-esporte-e-fez-uma-selecao-dos-10-tenis-de-corrida-mais-luxuosos-do-mercado-300x200.jpg",
-        "date": "20/10/2025",
-        "description": "Da pista às passarelas, a “Running Era” transforma os tênis de corrida em símbolo de status, estilo e performance"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/brandvoice-nelson-wilians-advogados-ia-sob-as-lentes-juridicas/",
-        "title": "IA sob as Lentes Jurídicas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/1-12-300x200.png",
-        "date": "20/10/2025",
-        "description": "A governança da inteligência artificial exige um olhar jurídico duplo: a eficiência dos processos e a vigilância do compliance"
     }
 ]
