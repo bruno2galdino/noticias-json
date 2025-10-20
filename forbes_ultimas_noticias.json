@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-termina-no-positivo-puxado-por-vale-e-itau-fleury-recua/",
+        "title": "Ibovespa Termina no Positivo Puxado por Vale e Itaú; Fleury Recua",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "20/10/2025",
+        "description": "Dólar tem 4ª queda consecutiva e volta a ser cotado abaixo dos R$ 5,40"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/mastercard-lanca-cartao-para-1-mais-ricos-com-foco-em-luxo-silencioso/",
+        "title": "Mastercard Entra na Briga de Cartões para Altíssima Renda no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Mastercard-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Brasil é 2º país a receber o World Legend, produto mais exclusivo da bandeira, de emissão limitada e benefícios que vão de acesso prioritário a restaurantes Michelin até passagem aérea de executiva"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/10/veja-quais-foram-as-joias-roubadas-no-assalto-ao-louvre/",
         "title": "Veja Quais Foram as Joias Roubadas no Assalto Ao Louvre",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Assalto-ao-Louvre_-conheca-as-oito-pecas-que-foram-roubadas-e-a-nona-que-os-ladroes-deixaram-cair-na-fuga-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_plantio_03novt24_GuttyImages-300x200.jpg",
         "date": "20/10/2025",
         "description": "Com maior umidade, Mato Grosso ultrapassou o Paraná e assumiu a liderança no plantio de soja no país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/arm-amplia-licenciamento-de-ia-para-elevar-fatia-em-mercado-de-dispositivos/",
-        "title": "Arm Amplia Licenciamento de IA para Elevar Fatia em Mercado de Dispositivos",
-        "image": "https://forbes.com.br/wp-content/uploads/2015/08/5-ARM-Holdings-div.jpg",
-        "date": "20/10/2025",
-        "description": "Iniciativa da Arm facilita acesso a ferramentas de design de chips e estimula inovação em microprocessadores"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/iphone-17-supera-antecessor-em-14-nas-vendas-iniciais-na-china-e-nos-eua/",
-        "title": "iPhone 17 Supera Antecessor em 14% nas Vendas Iniciais na China e nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-20T151242Z_1_LYNXMPEL9J0N2_RTROPTP_4_TECH-APPLE-IPHONE17-VEMDAS-300x200.jpg",
-        "date": "20/10/2025",
-        "description": "Novos modelos da Apple registram desempenho inicial superior ao da linha anterior, segundo a Counterpoint"
     }
 ]
