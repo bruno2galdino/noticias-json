@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/sem-home/2025/10/as-top-5-materias-mais-clicadas-no-site-da-forbes-em-outubro/",
+        "title": "As Top 5 Matérias Mais Clicadas no Site da Forbes em Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "20/10/2025",
+        "description": "Quais foram as matérias mais acessadas no último mês"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/banco-central-da-argentina-fecha-acordo-de-us-20-bilhoes-com-tesouro-dos-eua/",
+        "title": "Banco Central da Argentina Fecha Acordo de US$ 20 Bilhões com Tesouro dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/08/Javier_Milei_06ago24_Tomas-Cuesta-Getty-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Parceria bilionária com o Tesouro americano dá fôlego temporário à Argentina, mas levanta questionamentos sobre o real impacto econômico e a influência de Washington"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-termina-no-positivo-puxado-por-vale-e-itau-fleury-recua/",
         "title": "Ibovespa Termina no Positivo Puxado por Vale e Itaú; Fleury Recua",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-8-2-300x200.png",
         "date": "20/10/2025",
         "description": "Reação do Congresso à MP da Arrecadação simboliza resistência a um modelo econômico que penaliza quem produz e sustenta o Estado"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/producao-de-carne-suina-da-china-dispara-7-e-precos-despencam-no-mercado-spot/",
-        "title": "Produção de Carne Suína da China Salta 7% e Preços do Suíno Despencam",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-20T111333Z_1_LYNXMPEL9J0F5_RTROPTP_3_USA-TRADE-CHINA-HOGS-300x200.jpg",
-        "date": "20/10/2025",
-        "description": "O aumento da produção, combinado à fraca demanda, fez os preços spot do suíno caírem"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/chuvas-dobram-area-semeada-e-impulsionam-plantio-de-soja-para-24/",
-        "title": "Mato Grosso Ultrapassa Paraná no Plantio Pela Primeira Vez na Safra",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_plantio_03novt24_GuttyImages-300x200.jpg",
-        "date": "20/10/2025",
-        "description": "Com maior umidade, Mato Grosso ultrapassou o Paraná e assumiu a liderança no plantio de soja no país"
     }
 ]
