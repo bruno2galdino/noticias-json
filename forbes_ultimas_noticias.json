@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/10/veja-quais-foram-as-joias-roubadas-no-assalto-ao-louvre/",
+        "title": "Veja Quais Foram as Joias Roubadas no Assalto Ao Louvre",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Assalto-ao-Louvre_-conheca-as-oito-pecas-que-foram-roubadas-e-a-nona-que-os-ladroes-deixaram-cair-na-fuga-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Assaltantes levam oito joias da era napoleônica em ação de quatro minutos dentro da Galeria de Apolo, no Museu do Louvre, em Paris"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/petrobras-reduz-preco-da-gasolina-a-distribuidoras-em-49-a-partir-de-terca-feira/",
+        "title": "Petrobras Reduz Preço da Gasolina a Distribuidoras em 4,9% a Partir de Terça-feira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/petrobras-tania-rego-agencia-brasil-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Com a redução, equivalente a R$0,14 por litro, o valor médio cobrado pela companhia em suas refinarias será de R$2,71 por litro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/empresas-globais-veem-mais-de-us-35-bilhoes-em-custos-com-tarifas-dos-eua/",
         "title": "Empresas Globais Veem Mais de US$ 35 Bilhões em Custos com Tarifas dos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/donald-trump-1-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-20T151242Z_1_LYNXMPEL9J0N2_RTROPTP_4_TECH-APPLE-IPHONE17-VEMDAS-300x200.jpg",
         "date": "20/10/2025",
         "description": "Novos modelos da Apple registram desempenho inicial superior ao da linha anterior, segundo a Counterpoint"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/china-zera-importacao-de-soja-dos-eua-em-setembro-pela-1a-vez-em-7-anos/",
-        "title": "China Zera Importação de Soja dos EUA em Setembro Pela 1ª Vez em 7 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/ForbesAgro_Soja-Brasileira_Lucas-Ninno_GettyImages-300x200.jpg",
-        "date": "20/10/2025",
-        "description": "Analistas alertam que o país pode enfrentar uma lacuna de fornecimento entre fevereiro e abril de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/10/petrobras-obtem-licenca-do-ibama-para-perfurar-na-bacia-da-foz-do-amazonas/",
-        "title": "Petrobras Obtém Licença do Ibama para Perfurar na Bacia da Foz do Amazonas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-20T155800Z_1_LYNXMPEL9J0OK_RTROPTP_4_BRAZIL-OIL-AMAZON-300x200.jpg",
-        "date": "20/10/2025",
-        "description": "Licença pode definir futuro da exploração de petróleo e gás na região"
     }
 ]
