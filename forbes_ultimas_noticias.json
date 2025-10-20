@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/o-que-acontece-quando-uma-marca-de-carros-resolve-fazer-relogios/",
+        "title": "O Que Acontece Quando uma Marca de Carros Resolve Fazer Relógios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/25C0277_001-1-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Não é coincidência que marcas como Bentley, Rolls-Royce e Mercedes-AMG encontrem nos relógios um prolongamento natural de sua identidade"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/interrupcao-no-servico-aws-afeta-plataformas-globais-incluindo-gigantes-nacionais-como-o-mercado-livre/",
+        "title": "Interrupção no Serviço AWS Afeta Plataformas Globais, Incluindo Gigantes como o Mercado Livre",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/12/tech-nuvem-aws-19dez22-GettyImages-300x200.jpg",
+        "date": "20/10/2025",
+        "description": "Devido à dependência global da infraestrutura da plataforma de nuvem da Amazon, a falha teve reflexos imediatos no Brasil em empresas com alta demanda por estabilidade e processamento"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-semana-comeca-com-alivio-sobre-situacao-dos-bancos-americanos/",
+        "title": "Pré-mercado: Semana Começa com Alívio sobre Situação dos Bancos Americanos",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "20/10/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 20 de outubro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/efeito-metanol-derruba-vendas-em-bares-em-49-em-setembro/",
         "title": "Efeito Metanol Derruba Vendas em Bares em 4,9% em Setembro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/metanol-bebida-alcoolica-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_agricultura_regenerativa_20.10.2025-300x200.jpg",
         "date": "20/10/2025",
         "description": "A Regenerative Organic Alliance se une à RegenAgri para incentivar mais de 300 mil fazendas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/ladroes-roubam-joias-inestimaveis-do-louvre-em-paris-e-fogem-de-moto/",
-        "title": "Ladrões Roubam Joias “Inestimáveis” do Louvre, em Paris, e Fogem de Moto",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/louvre-300x200.png",
-        "date": "19/10/2025",
-        "description": "O roubo ocorreu por volta das 9h30 (4h30 no horário de Brasília), quando o museu já havia aberto suas portas ao público"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/os-bilhoes-invisiveis-dos-trumps-nas-criptomoedas/",
-        "title": "Os Bilhões Invisíveis dos Trumps nas Criptomoedas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Donald-Trump-tarifas-money-300x200.png",
-        "date": "19/10/2025",
-        "description": "Participações cruzadas e acordos secretos tornam impossível saber quanto Donald Trump e seus filhos lucraram com a World Liberty"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/bilionario-constroi-casa-na-arvore-de-us-400-mil-e-tres-andares/",
-        "title": "Bilionário Constrói Casa na Árvore de US$ 400 Mil e Três Andares",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Gwen-Graves-esquerda-Pete-Nelson-Todd-Graves-direita-300x200.jpg",
-        "date": "19/10/2025",
-        "description": "Todd Graves transformou um projeto de infância em refúgio criativo com bar, vitrais e vista panorâmica - e atraiu até celebridades como Snoop Dogg"
     }
 ]
