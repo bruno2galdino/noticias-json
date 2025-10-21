@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/anec-faz-poucas-mudancas-nas-projecoes-de-exportacoes-de-graos-do-brasil-em-outubro/",
+        "title": "Anec Faz Poucas Mudanças nas Projeções de Exportações de Grãos do Brasil em Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-21T152814Z_1_LYNXMPEL9K0PV_RTROPTP_4_GRANOS-BRASIL-SAFRAS-300x200.jpg",
+        "date": "21/10/2025",
+        "description": "As exportações de soja registram leve alta, sinalizando crescimento frente à estimativa anterior"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/10/dr-arthur-guerra-nao-coma-sozinho-fazer-refeicoes-acompanhado-e-fundamental-para-a-saude-mental/",
+        "title": "Não Coma Sozinho: Fazer Refeições Acompanhado É Fundamental para a Saúde Mental",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-13-1-300x200.png",
+        "date": "21/10/2025",
+        "description": "Comer junto nutre mais do que o corpo, fortalece vínculos e melhora o bem-estar"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2025/10/a-ia-esta-redefinindo-a-reputacao-das-marcas-e-os-ceos-precisam-agir/",
+        "title": "A IA Está Redefinindo a Reputação das Marcas, e os CEOs Precisam Agir",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/NathalieFolco_EdelmanBrasil4-300x200.jpg",
+        "date": "21/10/2025",
+        "description": "Modelos como ChatGPT estão se tornando novos canais de busca; Nathalie Folco, Head de Digital da Edelman Latam, explica como líderes podem proceder para que suas empresas não percam competitividade"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/10/luisa-stefani-retorna-ao-top-20-e-comemora-vaga-inedita-no-finals/",
+        "title": "Luisa Stefani Retorna Ao Top 20 e Comemora Vaga Inédita no Finals",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/luisa-stefani-300x200.jpg",
+        "date": "21/10/2025",
+        "description": "Torneio que definirá duplas campeãs de 2025 começa em 1º de novembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/plano-de-trump-para-importar-carne-argentina-irrita-fazendeiros-dos-eua/",
+        "title": "Plano de Trump para Importar Carne Argentina Irrita Fazendeiros dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/09/agro_carne-bovina_pecuaria_boi_29set21_Jung-Getty_GettyImages.jpg",
+        "date": "21/10/2025",
+        "description": "O presidente disse no domingo que estava considerando a possibilidade para reduzir os preços nos Estados Unidos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/embraer-ve-carteira-de-pedidos-voar-alto-e-bater-recorde-de-us-313-bilhoes/",
         "title": "Embraer Vê Carteira de Pedidos Voar Alto e Bater Recorde de US$ 31,3 Bilhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-19-300x200.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_fazenda_trigo_Entre-Rios_Argentina-21out25_Jose-Luis-Raota_Getty-300x200.jpg",
         "date": "21/10/2025",
         "description": "Cereal recupera protagonismo após a seca e projeta 23 milhões de toneladas, o maior volume já registrado e com demanda externa garantida"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-pregao-da-terca-feira-comeca-com-distensao-entre-os-investidores/",
-        "title": "Pré-mercado: Pregão da Terça-feira Começa com Distensão entre os Investidores",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "21/10/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 21 de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/10/do-cooperativismo-as-pistas-sicoob-e-visa-renovam-parceria-com-a-formula-1/",
-        "title": "Do Cooperativismo Às Pistas: Sicoob e Visa Renovam Parceria com a Fórmula 1",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Getty-Images-Red-Bull-Content-Pool-2-1-300x200.jpg",
-        "date": "21/10/2025",
-        "description": "A colaboração é parte da estratégia global da Visa, que desde fevereiro de 2024 patrocina as equipes Visa Cash App RB e Oracle Red Bull Racing, além da F1 Academy, iniciativa que incentiva a presença feminina no automobilismo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/10/o-que-a-hubspot-aprendeu-com-o-brasil-e-levou-para-o-mundo/",
-        "title": "O Que a HubSpot Aprendeu com o Brasil (e Levou para o Mundo)",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Camilo-Clavijo-300x200.jpg",
-        "date": "21/10/2025",
-        "description": "Camilo Clavijo, vice-presidente de Vendas para a América Latina da plataforma, fala sobre a importância do mercado local para geração de tendências e desenvolvimento de tecnologia"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/10/por-que-os-vinhos-de-napa-valley-estao-cada-vez-melhores-e-mais-baratos/",
-        "title": "O Segredo do Cabernet Clássico de Napa com Melhor Custo-Benefício",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_trad_napa_valley_Getty_16.10.2025-300x200.jpg",
-        "date": "21/10/2025",
-        "description": "A Sequoia Grove é destaque há décadas por manter o estilo clássico, entregando excelência ao consumidor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/ios-26-0-2-atualizacao-inesperada-do-iphone-sera-lancada-a-qualquer-momento/",
-        "title": "iOS 26.0.2: atualização inesperada do iPhone será lançada a qualquer momento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/iphone17promax-300x200.jpg",
-        "date": "21/10/2025",
-        "description": "O relatório vazado aponta que a nova versão do sistema provavelmente será divulgada até o final da semana que vem"
     }
 ]
