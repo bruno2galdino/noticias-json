@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/602326-boots-e-baseado-em-historia-real-conheca-inspiracao-da-serie-da-netflix.htm",
+        "title": "Boots é baseado em história real? Conheça inspiração da série da Netflix",
+        "description": "A série Boots, novo drama da Netflix, retrata a história de um adolescente vítima de bullying que se torna fuzileiro naval; conheça os fatos que inspiraram a série!",
+        "image": "https://tm.ibxk.com.br/2025/10/21/boots_netfllix_2_282c5fc7ed.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407948-warner-bros-discovery-confirma-que-esta-a-venda-e-acoes-disparam.htm",
+        "title": "Warner Bros. Discovery confirma que está à venda e ações disparam",
+        "description": "Conglomerado que é dono de marcas como CNN, DC Comics e HBO também busca separação entre duas companhias poucos anos após fusão.",
+        "image": "https://tm.ibxk.com.br/2025/10/21/warner_bros_discovery_logo_caixa_dagua_2c06e61725.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502632-nuuvem-traz-jogos-da-steam-com-ate-90-off-aproveite.htm",
+        "title": "Nuuvem traz jogos da Steam com até 90% OFF; aproveite",
+        "description": "Confira agora algumas das principais ofertas de jogos para PC para comprar na Nuuvem e resgatar na Steam, incluindo sucessos como Digimon Story Time Stranger, No Man's Sky e Titan Souls, que está bem baratinho por menos de R$5",
+        "image": "https://tm.ibxk.com.br/2025/10/07/Digimon_Story_Time_Stranger_promocoes_nuuvem_960x640_6e2d650133.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/mercado/407950-home-office-51-vagas-para-trabalho-remoto-internacional-2110.htm",
         "title": "Home office: 51 vagas para trabalho remoto internacional [21/10]",
         "description": "Confira a lista de vagas remotas internacionais da semana!",
@@ -9,7 +30,7 @@
     {
         "url": "https://www.tecmundo.com.br/minha-serie/602330-dan-da-dan-chega-ao-hbo-max-com-nome-inusitado.htm",
         "title": "Dan Da Dan chega ao HBO Max com nome inusitado",
-        "description": "Anime de sucesso chega ao streaming pelo nome “É Assim que um Amor Começa”; entende de onde vem o novo título",
+        "description": "Anime de sucesso chega ao streaming pelo nome “É Assim que um Amor Começa”! Entenda de onde vem o novo título.",
         "image": "https://tm.ibxk.com.br/2025/10/21/dan_da_dan_temporada_3f6321f5e8.webp",
         "date": null
     },
@@ -46,20 +67,6 @@
         "title": "O Samsung Galaxy S25 FE é um S24 FE 'reempacotado' — [REVIEW]",
         "description": "Lançamento da Samsung pensado como versão acessível da linha premium tem qualidade, mas são poucas as mudanças em comparação com modelo anterior.",
         "image": "https://tm.ibxk.com.br/2025/10/21/capa_analise_samsung_galaxy_s25_fe_ef17897eb8.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/407940-fones-sem-fio-de-grandes-marcas-a-partir-de-r90-na-amazon-confira.htm",
-        "title": "Fones sem fio de grandes marcas a partir de R$90 na Amazon; confira",
-        "description": "Aproveite as ofertas em diversos modelos de fones de ouvido Bluetooth na Amazon e garanta opções de marcas como JBL, H'maston, Edifier, Basike e mais a preços reduzidos por tempo limitado",
-        "image": "https://tm.ibxk.com.br/2025/10/21/Fone_de_Ouvido_Bluetooth_JBL_Wave_Buds_TWS_960x640_e88af9e7d6.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/ciencia/407952-novo-robo-humanoide-da-unitree-danca-e-ate-luta-confira-o-video.htm",
-        "title": "Novo robô humanoide da Unitree dança e até luta; confira o vídeo",
-        "description": "O Unitree H2 tem visual e capacidades ainda mais semelhantes às humanas do que a primeira geração, podendo realizar diversas atividades.",
-        "image": "https://tm.ibxk.com.br/2025/10/21/robo_humanoide_chines_dancando_679e07a7d9.jpg",
         "date": null
     }
 ]
