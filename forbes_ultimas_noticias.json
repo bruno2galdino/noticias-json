@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/producao-de-acucar-do-centro-sul-do-brasil-pode-crescer-4-em-2026-27-indica-datagro/",
+        "title": "Produção de Açúcar do Centro-Sul do Brasil Pode Crescer 4% em 2026/27, Indica Datagro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_colheita_cana_foto_Witthaya_Prasongsin-Gettyimages_26.09.2025.jpg",
+        "date": "21/10/2025",
+        "description": "Para o segundo terço da colheita no ano que vem, a Datagro projeta uma boa condição para as lavouras, enquanto o terceiro terço da safra 2026/27 dependeria de chuvas em abril"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ouro-tem-maior-tombo-em-cinco-anos-apos-sequencia-de-recordes/",
+        "title": "Ouro Tem Maior Tombo em Cinco Anos após Sequência de Recordes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Ouro-1-300x200.webp",
+        "date": "21/10/2025",
+        "description": "A valorização do dólar e a mudança no apetite por risco provocam a maior correção do ouro desde 2020, em um ano ainda marcado por incertezas e altas expressivas do metal"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/10/para-alem-das-florestas-precisamos-discutir-as-cidades-na-cop30-diz-jader-filho/",
         "title": "Para Além das Florestas, Precisamos Discutir as Cidades na COP30, Diz Jader Filho",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-21T152254Z_1_LYNXMPEL9K0PN_RTROPTP_4_CLIMATE-COP30-BRAZIL-300x200.jpg",
@@ -28,7 +42,7 @@
         "description": "Comer junto nutre mais do que o corpo, fortalece vínculos e melhora o bem-estar"
     },
     {
-        "url": "https://forbes.com.br/forbes-mkt/2025/10/a-ia-esta-redefinindo-a-reputacao-das-marcas-e-os-ceos-precisam-agir/",
+        "url": "https://forbes.com.br/forbes-tech/2025/10/a-ia-esta-redefinindo-a-reputacao-das-marcas-e-os-ceos-precisam-agir/",
         "title": "A IA Está Redefinindo a Reputação das Marcas, e os CEOs Precisam Agir",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/NathalieFolco_EdelmanBrasil4-300x200.jpg",
         "date": "21/10/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-19-300x200.jpg",
         "date": "21/10/2025",
         "description": "Demanda global aquece negócios da Embraer, que registra alta nas entregas e alcança o maior backlog de sua história em todos os segmentos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/ambipar-pede-recuperacao-judicial-no-brasil-e-nos-eua/",
-        "title": "Ambipar Pede Recuperação Judicial no Brasil e nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/ReciclagemAmbipar-300x200.jpeg",
-        "date": "21/10/2025",
-        "description": "Pedido foi feito em conjunto com suas afiliadas, incluindo a Environmental ESG Participações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/10/sanae-takaichi-e-eleita-primeira-ministra-do-japao/",
-        "title": "Sanae Takaichi É Eleita Primeira-Ministra do Japão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Sanae-Takaichi-e-eleita-primeira-ministra-do-Japao-300x200.jpg",
-        "date": "21/10/2025",
-        "description": "Vitória marca quebra do teto de vidro da política e prepara o país para uma virada decisiva para a direita"
     }
 ]

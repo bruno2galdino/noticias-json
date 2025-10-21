@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/407955-openai-lanca-atlas-novo-navegador-com-chatgpt-integrado-e-modo-agentico.htm",
+        "title": "OpenAI lança Atlas, novo navegador com ChatGPT integrado e 'modo agêntico'",
+        "description": "O navegador ChatGPT Atlas torna o ChatGPT presente em toda a sua navegação pela internet.",
+        "image": "https://tm.ibxk.com.br/2025/10/21/Atlas_Agent_Image_jpg_81a553e56f.png",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502624-microsoft-responde-reclamacoes-do-procon-sobre-o-game-pass-e-como-uma-academia.htm",
+        "title": "Microsoft responde reclamações do Procon sobre o Game Pass: \"É como uma academia\"",
+        "description": "Após reclamações no Procon sobre o aumento de preços do Game Pass no Brasil, a Microsoft declarou que os novos planos são como \"uma academia\"! Veja os detalhes",
+        "image": "https://tm.ibxk.com.br/2025/10/21/game_pass_planos_procon_801bba1590.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/407936-escritorio-do-google-nos-eua-tem-possivel-infestacao-de-percevejos-empresa-nao-comenta.htm",
+        "title": "Escritório do Google nos EUA tem possível infestação de percevejos; empresa não comenta",
+        "description": "Funcionários do Google foram instruídos a trabalhar de casa até a possível infestação de percevejos ser solucionada.",
+        "image": "https://tm.ibxk.com.br/2025/10/21/percevejo_1ca7631ad8.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/guia-de-compras/407931-eletronicos-para-o-seu-treino-fones-smartwatches-e-smartbands-em-oferta-na-shopee.htm",
         "title": "Eletrônicos para o seu treino: fones, smartwatches e smartbands em oferta na Shopee",
         "description": "Confira já uma seleção de ofertas em em gadgets para usar enquanto pratica esportes e garanta diversos modelos de relógios inteligentes e fones de ouvido com até 55% OFF por tempo limitado",
@@ -32,27 +53,6 @@
         "title": "Google desiste de projeto para acabar com cookies de terceiros no Chrome",
         "description": "Gigante de Mountain View resolveu cancelar o projeto Privacy Sandbox sobre cookies e reacende debate sobre privacidade na web",
         "image": "https://tm.ibxk.com.br/2025/10/21/google_chrome_87db3c2b80.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502625-ps-plus-extra-e-deluxe-perdem-7-jogos-de-peso-em-novembro-veja-lista.htm",
-        "title": "PS Plus Extra e Deluxe perdem 7 jogos de peso em novembro! Veja lista",
-        "description": "A Sony definiu os títulos que deixarão os catálogos do PS Plus Extra e Deluxe em novembro! Saiba quais são os games saindo do serviço.",
-        "image": "https://tm.ibxk.com.br/2025/10/21/JOGOS_DE_OUTUBRO_DO_PS_PLUS_8c42430df1.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/407934-realme-gt8-pro-e-lancado-com-camera-personalizavel-e-bateria-gigante.htm",
-        "title": "Realme GT8 Pro é lançado com câmera personalizável e bateria gigante",
-        "description": "Modelo chinês tem câmera periscópica de 200 MP da Ricoh, além de chip Snapdragon 8 Elite Gen 5 da Qualcomm com muita RAM.",
-        "image": "https://tm.ibxk.com.br/2025/10/21/realme_gt8_pro_f8530e0ac4.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/407938-amazon-pode-substituir-600-mil-empregos-por-robos-ate-2033.htm",
-        "title": "Amazon pode substituir 600 mil empregos por robôs até 2033",
-        "description": "Empresa diz que documento visualizado por jornal está “incompleto”; substituição por máquinas economizaria R$ 64 bilhões à gigante.",
-        "image": "https://tm.ibxk.com.br/2025/10/21/amazon_predio_logotipo_3e3cc55bb8.jpg",
         "date": null
     }
 ]
