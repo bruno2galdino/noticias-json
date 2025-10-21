@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/602323-quem-e-kudo-de-my-hero-academia-entenda-sua-relacao-com-bakugo.htm",
+        "title": "Quem é Kudo de My Hero Academia? Entenda sua relação com Bakugo",
+        "description": "O episódio mais recente de My Hero Academia mostra que a memória de Kudo é essencial para derrotar o All for One.",
+        "image": "https://tm.ibxk.com.br/2025/10/20/Kudo_My_Hero_Academia_Relacao_Bakugo_edeac1d5dd.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/407939-windows-11-atualizacao-de-emergencia-corrige-bug-no-ambiente-de-recuperacao.htm",
+        "title": "Windows 11: atualização de emergência corrige bug no Ambiente de Recuperação",
+        "description": "Problema após lançamento de pacote de segurança pela Microsoft impedia mouse e teclado USB de funcionar em computadores.",
+        "image": "https://tm.ibxk.com.br/2025/03/19/19120018544195.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/guia-de-compras/407957-imperdivel-fone-jbl-live-beam-3-por-apenas-de-r595-na-terca-tech-da-amazon.htm",
+        "title": "Imperdível: Fone JBL Live Beam 3 por apenas de R$595 na Terça Tech da Amazon",
+        "description": "Confira o  JBL Live Beam 3 com som potente, cancelamento de ruído adaptativo, tela sensível ao toque e até 48h de bateria por R$595 na Tech Terça da Amazon!",
+        "image": "https://tm.ibxk.com.br/2025/10/21/JBL_Live_Beam_3_com_desconto_na_amazon_39e0958b16.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/407953-google-alerta-sobre-3-novas-ameacas-cibernetica-criada-por-hackers-russos.htm",
+        "title": "Google alerta sobre 3 novas ameaças cibernética criada por hackers russos",
+        "description": "O agente malicioso conhecido como COLDRIVER acelerou o desenvolvimento de uma nova cadeia de malwares desde maio deste ano.",
+        "image": "https://tm.ibxk.com.br/2025/08/04/04143516176131.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/software/407955-openai-lanca-atlas-novo-navegador-com-chatgpt-integrado-e-modo-agentico.htm",
         "title": "OpenAI lança Atlas, novo navegador com ChatGPT integrado e 'modo agêntico'",
         "description": "O navegador ChatGPT Atlas torna o ChatGPT presente em toda a sua navegação pela internet.",
@@ -25,34 +53,6 @@
         "title": "Eletrônicos para o seu treino: fones, smartwatches e smartbands em oferta na Shopee",
         "description": "Confira já uma seleção de ofertas em em gadgets para usar enquanto pratica esportes e garanta diversos modelos de relógios inteligentes e fones de ouvido com até 55% OFF por tempo limitado",
         "image": "https://tm.ibxk.com.br/2025/10/21/Fone_de_Ouvido_Basike_fon141_960x640_0c4b8d25ae.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602325-o-que-aconteceu-com-susan-lorincz-de-a-vizinha-perfeita.htm",
-        "title": "O que aconteceu com Susan Lorincz, de A Vizinha Perfeita?",
-        "description": "A Vizinha Perfeita acompanha um crime chocante que abalou uma pequena comunidade. Saiba mais detalhes da produção da Netflix.",
-        "image": "https://tm.ibxk.com.br/2025/10/21/O_Que_Aconteceu_Susan_Lorincz_Vizinha_Perfeita_Netflix_c140df27f3.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/celular/407932-chineses-processam-apple-por-abusos-da-app-store.htm",
-        "title": "Chineses processam Apple por abusos da App Store",
-        "description": "Consumidores reclamam de restrições na distribuição de aplicativos e limitação de pagamentos na própria plataforma.",
-        "image": "https://tm.ibxk.com.br/2025/10/21/ios_26_iphone_interface_904fd8159f.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/407943-golpe-que-rouba-tudo-do-seu-pc-se-esconde-no-netflix-premium-e-google.htm",
-        "title": "Golpe que rouba tudo do seu PC se esconde no 'Netflix Premium' e Google",
-        "description": "Criminosos usam ClickFix, técnica maliciosa que impulsiona anúncios e tutoriais falsos, para enganar vítimas a executarem comandos que instalam malware ladrão de informações",
-        "image": "https://tm.ibxk.com.br/2025/10/21/clickfix_tecmundo_430f413d52.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/internet/407946-google-desiste-de-projeto-para-acabar-com-cookies-de-terceiros-no-chrome.htm",
-        "title": "Google desiste de projeto para acabar com cookies de terceiros no Chrome",
-        "description": "Gigante de Mountain View resolveu cancelar o projeto Privacy Sandbox sobre cookies e reacende debate sobre privacidade na web",
-        "image": "https://tm.ibxk.com.br/2025/10/21/google_chrome_87db3c2b80.jpg",
         "date": null
     }
 ]
