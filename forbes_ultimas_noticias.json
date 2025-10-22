@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/investimentos-em-minerais-criticos-no-brasil-estao-decolando-diz-presidente-do-ibram/",
+        "title": "Investimentos em Minerais Críticos no Brasil Estão Decolando, Diz Presidente do Ibram",
+        "image": "https://forbes.com.br/wp-content/uploads/2017/08/02.-Commodity.jpg",
+        "date": "22/10/2025",
+        "description": "Raul Jungmann afirma que o setor deve captar US$ 18,45 bilhões até 2029"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/netflix-culpa-despesa-tributaria-de-r-33-bi-no-brasil-por-resultado-abaixo-do-esperado-no-3o-tri/",
+        "title": "Netflix Culpa Despesa Tributária de R$ 3,3 Bi no Brasil por Resultado Abaixo do Esperado no 3º Tri",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/agro_netflix_19-jul-23_Reuters-300x200.jpg",
+        "date": "22/10/2025",
+        "description": "O serviço de streaming teve lucro líquido de US$ 2,5 bilhões e um lucro diluído por ação de US$ 5,87 no período de julho a setembro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/moodys-analytics-minimiza-impacto-economico-de-eventual-acordo-entre-lula-e-trump/",
         "title": "Moody's Analytics Minimiza Impacto Econômico de Eventual Acordo Entre Lula e Trump",
         "image": "https://forbes.com.br/wp-content/uploads/2024/02/money-balanca-comercial-zona-do-euro-18mar22-Fabian-Bimmer-reuters-300x200.jpg",
@@ -9,7 +23,7 @@
     {
         "url": "https://forbes.com.br/forbesagro/2025/10/desmatamento-ligado-ao-cafe-atinge-737-mil-hectares-diz-coffee-watch/",
         "title": "Desmate de 737 Mil Hectares Estão Ligados à Cafeicultura, diz Coffee Watch",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_plantacao_colheita_foto_Alfribeiro-Gettyimages_22.10.2025-300x200.jpg",
         "date": "22/10/2025",
         "description": "O Cecafé contesta o relatório e cita dados de 2023 no qual não há desmatamento significativo desde 2008"
     },
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/barco-alemanha-300x200.jpg",
         "date": "22/10/2025",
         "description": "País recuperou o primeiro lugar uma vez que as tarifas mais altas pesaram sobre as exportações alemãs para os Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/soja-de-chicago-recua-apos-maxima-de-um-mes-com-realizacao-de-lucros/",
-        "title": "Futuros de Soja nos EUA Recuam Após Atingir Máxima de Um Mês",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_graos_exportacao_22.10.2025-1-300x200.jpg",
-        "date": "22/10/2025",
-        "description": "A pausa no mercado ocorre após uma semana de recuperação ligada à expectativa de novas compras da China"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/heineken-preve-queda-em-venda-de-cerveja-em-2025/",
-        "title": "Heineken Prevê Queda em Venda de Cerveja em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/heineken-300x200.jpg",
-        "date": "22/10/2025",
-        "description": "Presidente-executivo da companhia disse que a volatilidade macroeconômica se tornou mais pronunciada no terceiro trimestre"
     }
 ]

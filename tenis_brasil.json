@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-22-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/guto_poa_corre_saibro.jpg",
+        "date": "22/10/2025",
+        "description": "ATP 500 da Basileia (Suíça) – Sintético (coberto) – 2.523.045 eurosSegunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-conta-com-desistencia-de-mensik-e-vai-as-quartas-na-basileia.html",
+        "title": "Fonseca conta com desistência de Mensik e vai às quartas na Basileia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/fonseca-basileia-olhacima-2025-e1761142292910-1024x683.jpg",
+        "date": "22/10/2025",
+        "description": "Basileia (Suíça)– O tão aguardado duelo entre nomes da nova geração envolvendo o carioca João Fonseca e Jakub Mensik, que aconteceria nesta quarta-feira pela segunda rodada do ATP 500 da Basileia, acabou não se concretizando por causa da desistência do tcheco, que alegou um problema no pé esquerdo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/melo-amarga-nova-derrota-com-zverev-romboli-perde-mas-entra-na-chave.html",
+        "title": "Melo amarga nova derrota com Zverev; Romboli perde, mas entra na chave",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/melo_zverev_toronto-1024x758.jpg",
+        "date": "22/10/2025",
+        "description": "Viena (Áustria)– A quarta-feira não foi muito boa para os duplistas brasileiros no ATP 500 de Viena, que teve as derrotas de Fernando Romboli na última rodada do qualificatório e do mineiro Marcelo Melo na estreia na chave principal. Contudo, Romboli acabou entrando na disputa como lucky-loser nas duplas."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/taylor-swift-surpreende-iga-swiatek-com-presente-pessoal.html",
         "title": "Taylor Swift surpreende Iga Swiatek com presente pessoal",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Swiatek_Matera.jpg",
@@ -12,13 +33,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/02/Roddick_US_Open_Tennis_2010_1st_Round_200.jpg",
         "date": "22/10/2025",
         "description": "Nova York (EUA)– Alvo de muitas reclamações, o calendário da ATP foi criticado também pelo sérvio Novak Djokovic, que endossou palavras de alguns companheiros de circuito descontentes com sua organização. Porém, o norte-americano Andy Roddick tratou de rebater a forma como o ex-número 1 do mundo se posiciona."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-22-10.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/guto_poa_corre_saibro.jpg",
-        "date": "22/10/2025",
-        "description": "ATP 500 da Basileia (Suíça) – Sintético (coberto) – 2.523.045 eurosSegunda rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/stefani-e-babos-largam-com-vitoria-nas-duplas-em-toquio.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/vach-rind-shanghai-2025-e1759944511385-1024x682.jpg",
         "date": "21/10/2025",
         "description": "Paris (França) –Protagonistas de uma surpreendente final no Masters 1000 de Xangai, o monegasco Valentin Vacherot e o francês Arthur Rinderknech receberam convites para a chave principal do Masters 1000 de Paris, que começa na próxima segunda-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/nana-cai-no-tiebreak-do-terceiro-set-contra-a-109a-do-mundo.html",
-        "title": "Naná cai no tiebreak do terceiro set contra a 109ª do mundo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/nana_florianopolis_fore.jpg",
-        "date": "21/10/2025",
-        "description": "Florianópolis (SC) –Convidada para a chave principal do WTA 125 de Florianópolis, Nauhany Silva ficou muito perto de conseguir uma vitória expressiva nesta terça-feira. A jovem paulista de apenas 15 anos foi superada pela austríaca Julia Grabher, cabeça 5 do torneio e 109ª do mundo, com parciais de 5/7, 6/1 e 7/6 (7-3) em 1h21 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/idolos-do-esporte-djokovic-e-cristiano-ronaldo-se-encontram-em-riad.html",
-        "title": "Ídolos do esporte, Djokovic e Cristiano Ronaldo se encontram em Riad",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Djokovic_cristiano_ronaldo.jpg",
-        "date": "21/10/2025",
-        "description": "Riad (Arábia Saudita) –Duas lendas do esporte, Novak Djokovic, com 24 títulos de Grand Slam na carreira, e Cristiano Ronaldo, oito vezes ganhador da Bola de Ouro, atualmente no Al-Nassr, da Liga Saudita Profissional, encontraram-se recentemente em Riad."
     }
 ]
