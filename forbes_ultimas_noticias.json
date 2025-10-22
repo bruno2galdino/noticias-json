@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/trump-pede-que-pecuaristas-dos-eua-reduzam-seus-precos/",
+        "title": "Trump Pede Que Pecuaristas dos EUA Reduzam Seus Preços",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Gado-na-cidade-de-Tailandia-no-Para-300x200.jpg",
+        "date": "22/10/2025",
+        "description": "Antes mesmo das tarifas de Trump, o mercado pecuário de carne bovina norte-americano já estava em alta"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/cade-multa-csn-em-r128-mi-por-descumprimento-de-acordo-sobre-acoes-da-usiminas/",
+        "title": "Cade Multa CSN em R$128 Mi por Descumprimento de Acordo sobre Ações da Usiminas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Funcionario-trabalha-no-alto-forno-da-Usiminas-em-Ipatinga-Minas-Gerais-300x200.jpg",
+        "date": "22/10/2025",
+        "description": "A CSN não respondeu imediatamente a um pedido de comentário sobre a decisão do Cade"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/fila-de-espera-e-luxo-no-mar-os-iates-mais-desejados-pelos-milionarios-brasileiros/",
         "title": "Fila de Espera e Luxo no Mar: os Iates Mais Desejados Pelos Milionários Brasileiros",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Azimut-Grande-25-Metri-6-Divulgacao-Azimut-Yachts-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/02/money-balanca-comercial-zona-do-euro-18mar22-Fabian-Bimmer-reuters-300x200.jpg",
         "date": "22/10/2025",
         "description": "Analistas afirmam que possíveis cortes de tarifas teriam efeito limitado no crescimento das economias do Brasil e dos EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/desmatamento-ligado-ao-cafe-atinge-737-mil-hectares-diz-coffee-watch/",
-        "title": "Desmate de 737 Mil Hectares Estão Ligados à Cafeicultura, diz Coffee Watch",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_plantacao_colheita_foto_Alfribeiro-Gettyimages_22.10.2025-300x200.jpg",
-        "date": "22/10/2025",
-        "description": "O Cecafé contesta o relatório e cita dados de 2023 no qual não há desmatamento significativo desde 2008"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/10/gas-metano-esta-sendo-combatido-muito-lentamente-diz-onu-antes-da-cop30/",
-        "title": "Gás Metano Está Sendo Combatido Muito Lentamente, Diz ONU",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/metano-300x200.jpg",
-        "date": "22/10/2025",
-        "description": "Quase 90% dos vazamentos detectados por satélite sinalizados para governos e empresas de petróleo e gás não estão sendo reconhecidos"
     }
 ]
