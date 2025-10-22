@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/com-distribuicao-o-brasil-acoes-da-beyond-meat-saltam-1-000-saiba-o-porque/",
+        "title": "Beyond Meat Dispara 1.096% Após Mínima Histórica e Acordo com Walmart",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_beyond_meet_Gettyimages_24.10.2025-300x200.jpg",
+        "date": "22/10/2025",
+        "description": "Impulsionada por traders no Reddit, a ação da Beyond Meat se recupera de uma mínima histórica de US$ 0,50"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/eletrobras-vira-axia-energia-e-muda-nome-na-b3-e-nyse/",
         "title": "Eletrobras Vira Axia Energia e Muda Nome na B3 e NYSE",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-13.26.08-300x200.jpeg",
@@ -36,7 +43,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/10/moodys-analytics-minimiza-impacto-economico-de-eventual-acordo-entre-lula-e-trump/",
-        "title": "Moody's Analytics Minimiza Impacto Econômico de Eventual Acordo Entre Lula e Trump",
+        "title": "Moody's Analytics Minimiza Impacto Econômico de Eventual Acordo Entre Brasil e EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2024/02/money-balanca-comercial-zona-do-euro-18mar22-Fabian-Bimmer-reuters-300x200.jpg",
         "date": "22/10/2025",
         "description": "Analistas afirmam que possíveis cortes de tarifas teriam efeito limitado no crescimento das economias do Brasil e dos EUA"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/louvre-reabre-300x200.jpg",
         "date": "22/10/2025",
         "description": "Há três dias, ladrões fugiram com joias históricas no valor estimado de 88 milhões de euros"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/geopolitica-esquenta-o-cafe-tensao-eua-colombia-alavanca-precos/",
-        "title": "Preço do Café Sobe Diante de Ameaça de Novas Tarifas Americanas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_cooxupe_exportacao_foto_REUTERS-Carla-Carniel_22.10.2025-300x200.jpg",
-        "date": "22/10/2025",
-        "description": "Os futuros do arábica fecharam em alta de 1,8% após a Colômbia retirar seu embaixador de Washington"
     }
 ]
