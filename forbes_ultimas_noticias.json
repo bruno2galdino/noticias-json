@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-petroleo-sobe-5-com-sancoes-americanas-a-petroliferas-russas/",
+        "title": "Pré-mercado: Petróleo Sobe 5% com Sanções Americanas a Petrolíferas Russas",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "23/10/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 23 de outubro"
+    },
+    {
         "url": "https://forbes.com.br/brand-voice/2025/10/samsung-investe-em-ia-para-reinventar-o-futuro-das-tvs-conectadas/",
         "title": "Samsung Investe em IA para Reinventar o Futuro das TVs Conectadas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Thiago-cesar-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/2-19-300x200.jpg",
         "date": "23/10/2025",
         "description": "Embora os programas de cartão ouro e platina compartilhem um objetivo comum, o de atrair capital global para os EUA, eles diferem em termos de custo, implicações fiscais e beneficiários pretendidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/do-excesso-a-eficiencia-a-nova-rota-da-ia/",
-        "title": "Do Excesso À Eficiência: a Nova Rota da IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/IA-Negocios-Marcelo-Ciasca-300x200.png",
-        "date": "23/10/2025",
-        "description": "A próxima etapa da inteligência artificial será híbrida, combinando escala, lógica e explicabilidade"
     }
 ]
