@@ -1,7 +1,28 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/407995-primeiro-porta-avioes-nuclear-do-mundo-para-cacas-de-6-geracao-sera-construido-pela-italia.htm",
+        "title": "Primeiro porta-aviões nuclear do mundo para caças de 6ª geração será construído pela Itália",
+        "description": "O futuro navio-aeródromo italiano também deverá ser capaz de lançar drones de guerra e terá diversas outras tecnologias embarcadas.",
+        "image": "https://tm.ibxk.com.br/2025/10/22/porta_avioes_nuclear_italia_fe387345c4.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502639-nintendo-switch-online-recebera-jogo-classico-no-catalogo-antes-do-halloween.htm",
+        "title": "Nintendo Switch Online receberá jogo clássico no catálogo antes do Halloween",
+        "description": "Luigi's Mansion no Switch Online, Microsoft falando sobre o novo Xbox, mudanças na Ubisoft e mais! Veja principais notícias de games do dia.",
+        "image": "https://tm.ibxk.com.br/2025/10/22/switch_online_2_super_5b78b76965.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602337-final-de-gen-v-temporada-2-prepara-terreno-para-the-boys-e-nova-serie-entenda.htm",
+        "title": "Final de Gen V Temporada 2 prepara terreno para The Boys e nova série! Entenda",
+        "description": "Gen V chega ao final com ligações com a Temporada 5 de The Boys e com o spin-off Vought Rising",
+        "image": "https://tm.ibxk.com.br/2025/10/22/Final_Gen_V_Temporada_2_Terreno_The_Boys_Vought_Rising_899ba0a458.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/seguranca/407993-socgholish-falsa-atualizacao-do-chrome-esconde-virus-sequestrador-de-dados.htm",
-        "title": "SocGholish: Falsa atualização do Chrome esconde vírus sequestrador de dados",
+        "title": "Criminosos usam update falso para infectar PCs; 'Netflix do Crime' promove ação",
         "description": "Campanha atua como uma espécie de 'Netflix do cibercrime': além de infectar vítimas, grupo hacker disponibiliza catálogo de sites infectados para outros criminosos",
         "image": "https://tm.ibxk.com.br/2025/10/22/golpe_atualizacao_falsa_61309edf40.png",
         "date": null
@@ -39,27 +60,6 @@
         "title": "Google Play Store libera 4 jogos grátis por tempo limitado! Resgate agora (22)",
         "description": "A Play Store liberou mais uma leva de jogos gratuitos para jogar no Android, mas você deve correr para garanti-los na sua biblioteca! Saiba mais",
         "image": "https://tm.ibxk.com.br/2025/10/21/CINCO_MELHORES_JOGOS_GRATIS_DA_PLAY_STORE_ANDROID_f33d8ee3be.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/internet/407981-google-cria-ferramenta-de-vibe-coding-para-criar-apps-com-prompts-de-texto.htm",
-        "title": "Google cria ferramenta de vibe coding para criar apps com prompts de texto",
-        "description": "Ferramenta fica dentro do Google AI Studio, tem botão de desenvolvimento automatizado e usa só tecnologias da própria empresa.",
-        "image": "https://tm.ibxk.com.br/2025/10/22/codigo_programacao_fluxo_inteligencia_artificial_f1a023fc61.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/407988-apple-teria-cortado-producao-do-iphone-air-de-maneira-expressiva.htm",
-        "title": "Apple teria cortado produção do iPhone Air de maneira expressiva",
-        "description": "Modelo ultrafino da Maçã estaria com uma recepção aquém do esperado; iPhone 17 regular mantém bons números para a empresa",
-        "image": "https://tm.ibxk.com.br/2025/09/09/09144542970263.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602333-sucesso-global-caramelo-se-torna-maior-filme-brasileiro-da-netflix.htm",
-        "title": "Sucesso global: Caramelo se torna maior filme brasileiro da Netflix",
-        "description": "Caramelo mostra que as produções brasileiras estão em alta entre o público internacional da Netflix. Confira mais detalhes!",
-        "image": "https://tm.ibxk.com.br/2025/10/22/Sucesso_Global_Caramelo_Top_10_Netflix_Internacional_9b7c9576ca.jpg",
         "date": null
     }
 ]
