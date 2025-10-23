@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeswsb/2025/10/por-que-a-campari-escolheu-o-brasil-para-lancar-seu-champanhe-mais-premium/",
+        "title": "Por Que a Campari Escolheu o Brasil para Lançar Seu Champanhe Mais Premium",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Campari-179-300x200.jpg",
+        "date": "23/10/2025",
+        "description": "Com o lançamento do champanhe Lallier, o grupo italiano aposta no consumidor brasileiro e reforça sua estratégia global de crescimento no segmento de alto padrão"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-termina-no-positivo-em-dia-de-disparada-do-petroleo-e-weg-forte/",
+        "title": "Ibovespa Termina no Positivo em Dia de Disparada do Petróleo e WEG Forte",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "23/10/2025",
+        "description": "O barril sob o contrato Brent mostrou alta de 5,43%, a US$ 65,99 (R$ 376,54)"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/acao-da-casas-bahia-dispara-apos-anuncio-de-parceria-com-mercado-livre-magazine-luiza-recua/",
         "title": "Ação da Casas Bahia Dispara após Anúncio de Parceria com Mercado Livre; Magazine Luiza Recua",
         "image": "https://forbes.com.br/wp-content/uploads/2022/07/casas_bahia_forbesmoney-300x200.jpg",
@@ -21,7 +35,7 @@
         "description": "O CropData traz dados de sementes, bioinsumos e defensivos químicos, e oferece indicadores estratégicos"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/rolls-royce-phantom-centenary-homenagem-aos-100-anos-do-item-de-luxo-mais-reverenciado-do-mundo/",
+        "url": "https://forbes.com.br/forbeslife/2025/10/rolls-royce-phantom-centenary-homenagem-aos-100-anos-do-item-de-luxo-mais-reverenciado-do-mundo/",
         "title": "Rolls-Royce Phantom Centenary: Os 100 Anos do Item de Luxo Mais Reverenciado do Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/P90623171_highRes_phantom-centenary-pr-300x200.jpg",
         "date": "23/10/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-23T113606Z_1_LYNXMPEL9M0L7_RTROPTP_4_INDONESIA-BRAZIL-300x200.jpg",
         "date": "23/10/2025",
         "description": "Presidente destaca avanços nas negociações para novo acordo comercial entre Mercosul e Indonésia durante fórum em Jacarta"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/producao-de-cafe-de-uganda-pode-aumentar-em-15-com-lavouras-mais-novas/",
-        "title": "Uganda Projeta Aumento de 15% na Produção de Robusta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_foto_REUTERS_23.10.2025-300x200.jpg",
-        "date": "23/10/2025",
-        "description": "O principal exportador de café da África, prevê que a produção da safra 2025/26 aumentará 14,8%"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/forbeslife-fashion-celebra-9a-edicao-com-coquetel-em-sao-paulo/",
-        "title": "ForbesLife Fashion Celebra 9ª Edição com Coquetel em São Paulo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Katarina-e-Antonio-Camarotti-e-Donata-Meirelles-300x200.jpg",
-        "date": "23/10/2025",
-        "description": "Evento intimista no Kotchi Bar reuniu personalidades como Livia Nunes, Fernando Casablancas, Maria Braz e Marcella Tranchesi"
     }
 ]
