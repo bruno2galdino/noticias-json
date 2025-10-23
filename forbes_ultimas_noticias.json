@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/brand-voice/2025/10/samsung-investe-em-ia-para-reinventar-o-futuro-das-tvs-conectadas/",
+        "title": "Samsung Investe em IA para Reinventar o Futuro das TVs Conectadas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Thiago-cesar-300x200.png",
+        "date": "23/10/2025",
+        "description": "Qualidade em até 8K, controle por gestos e criação de imagens de fundo com inteligência artificial são alguns dos atributos da nova linha de televisores Samsung Vision AI"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/10/le-bristol-paris-lanca-colecao-de-natal-com-perfume-moda-e-ate-jogo-de-tabuleiro/",
         "title": "Le Bristol Paris Lança Coleção de Natal com Perfume, Moda e até Jogo de Tabuleiro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Life_Le-Bristol-300x200.jpg",
@@ -14,9 +21,9 @@
         "description": "De Bali ao México, hotéis e spas de alto padrão estão trocando o luxo tradicional por experiências espirituais guiadas por curadores locais e técnicas indígenas"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/10/de-johanna-a-mariangela-as-mulheres-que-se-tornaram-uma-epopeia-do-agro-brasileiro/",
-        "title": "De Johanna a Mariangela, as Mulheres Que se Tornaram uma Epopeia do Agro Brasileiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Mariangela_Hungria_21out25_Embrapa-300x200.jpg",
+        "url": "https://forbes.com.br/forbesagro/2025/10/de-johanna-a-mariangela-as-mulheres-que-conectaram-o-brasil-a-premios-nobel-para-o-agro/",
+        "title": "De Johanna a Mariangela, as Mulheres Que Conectaram o Brasil a Prêmios Nobel para o Agro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Mariangela_Hungria_21out25_TWP_Fundation_Divulg-300x200.jpg",
         "date": "23/10/2025",
         "description": "Mariangela Hungria recebe hoje o World Food Prize nos EUA, chamado de “Nobel da Agricultura”; Johanna Döbereiner, se estivesse viva, estaria na primeira fila aplaudindo a discípula"
     },
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/IA-Negocios-Marcelo-Ciasca-300x200.png",
         "date": "23/10/2025",
         "description": "A próxima etapa da inteligência artificial será híbrida, combinando escala, lógica e explicabilidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/10/lista-forbes-as-mulheres-mais-poderosas-do-esporte-nos-eua/",
-        "title": "Lista Forbes: As 25 Mulheres Mais Poderosas do Esporte nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/serena-williams-forbesmulher-300x200.jpg",
-        "date": "23/10/2025",
-        "description": "De proprietárias de times a jogadoras inovadoras e executivas visionárias, conheça os 25 nomes que estão transformando o mundo dos esportes"
     }
 ]
