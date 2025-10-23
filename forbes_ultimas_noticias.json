@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/10/papa-leao-e-rei-charles-rezam-juntos-em-evento-que-ocorre-pela-1a-vez-em-500-anos/",
+        "title": "Papa Leão e Rei Charles Rezam Juntos em Evento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/papa-leao-e-rei-charles-300x200.jpg",
+        "date": "23/10/2025",
+        "description": "É a primeira cerimônia conjunta de um monarca inglês e um pontífice católico desde que o rei Henrique 8º se separou de Roma em 1534"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/10/alem-do-aumento-de-preco-descubra-as-tres-formas-furtivas-que-destroem-seu-real/",
+        "title": "Inflação, Reduflação e Qualiflação: Como Seu Poder de Compra Está Sendo Corroído",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-35-300x200.jpg",
+        "date": "23/10/2025",
+        "description": "Entender esse mecanismo é essencial se você deseja proteger seus recursos investir de modo consciente"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/10/crise-de-engajamento-geracao-z-e-lideranca-puxam-queda-que-ja-gera-prejuizo-bilionario/",
         "title": "Baixo Engajamento no Trabalho Custa R$ 77 Bilhões a Empresas no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-trabalho-geraca-z-1-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Mariangela_Hungria_21out25_TWP_Fundation_Divulg-300x200.jpg",
         "date": "23/10/2025",
         "description": "Mariangela Hungria recebe hoje o World Food Prize nos EUA, chamado de “Nobel da Agricultura”; Johanna Döbereiner, se estivesse viva, estaria na primeira fila aplaudindo a discípula"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/criancas-e-adolescentes-brasileiros-ja-utilizam-ia-para-conversar-sobre-emocoes/",
-        "title": "Crianças e Adolescentes Brasileiros Utilizam IA para Conversar sobre Emoções",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/tic-kids-2025-300x200.png",
-        "date": "23/10/2025",
-        "description": "10% dos usuários de 9 a 17 anos já recorreram à IA para falar sobre sentimentos e problemas pessoais; jovens das classes A e B são maioria"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/forbes-brasil-testa-os-novos-oculos-da-meta-e-ray-ban-em-sua-estreia-oficial-no-pais/",
-        "title": "Forbes Brasil Testa Óculos da Meta e Ray-Ban em Sua Estreia Oficial no País",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/RayBanMeta-300x200.jpg",
-        "date": "23/10/2025",
-        "description": "Durante o primeiro evento oficial do Ray-Ban Meta, a Forbes Brasil experimentou de perto os  Smart Glasses que unem câmera, assistente de voz e conectividade social em um único acessório"
     }
 ]
