@@ -1,7 +1,49 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/precos-ao-consumidor-dos-eua-sobem-03-e-indicam-desaceleracao-da-inflacao/",
+        "title": "Preços ao Consumidor dos EUA Sobem 0,3% e Indicam Desaceleração da Inflação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_supermercado_inflacao_EUA_-11abr_2025_AFP_Getty-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "Resultado reforça aposta de novo corte de juros pelo Fed"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/clima-favoravel-acelera-plantio-de-graos-de-inverno-na-europa/",
+        "title": "Clima Favorável Acelera Plantio de Grãos de Inverno na Europa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_trigo_plantacao_Reuters_24.10.2025-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "Semeadura avançou em países europeus devido ao início de outubro mais seco"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/alibaba-lanca-servico-de-chatbot-de-ia/",
+        "title": "Alibaba Lança Serviço de Chatbot de IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/01/Alibaba-money-VCG-e1653579003901.jpg",
+        "date": "24/10/2025",
+        "description": "O novo serviço gratuito permite conversas via texto ou voz e fornece informações em tempo real, disse a empresa em comunicado"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/gripe-aviaria-na-europa-ameaca-precos-globais-de-alimentos/",
+        "title": "Gripe Aviária na Europa Ameaça Preços Globais de Alimentos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_aves_frangos_vivos_granja_Reuters_24.10.2025-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "Já são 56 surtos identificados em 10 países, o maior número em pelo menos uma década"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/milho-atinge-maxima-em-um-mes-em-chicago-com-impulso-do-petroleo/",
+        "title": "Milho Atinge Máxima em um Mês em Chicago com Impulso do Petróleo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_milho_espiga_lavoura_foto_Richard_Hamilton_Smith_Getty_26.09.2025-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "Firmeza dos mercados físicos de grãos nos EUA também influenciou alta"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/usiminas-tem-prejuizo-de-r350-bi-no-3o-tri-com-pressao-da-concorrencia-chinesa/",
+        "title": "Usiminas Tem Prejuízo de R$3,50 Bi no 3º Tri com Pressão da Concorrência Chinesa",
+        "image": "https://forbes.com.br/wp-content/uploads/2018/08/uniminas-3.jpg",
+        "date": "24/10/2025",
+        "description": "A receita líquida da Usiminas caiu para R$6,60 bilhões, mas ficou acima da previsão do mercado, segundo a LSEG"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/ipca-15-avanca-018-e-fica-abaixo-das-expectativas-do-mercado/",
-        "title": "IPCA-15 Avança 0,18% e Fica Abaixo das Expectativas do Mercado",
+        "title": "IPCA-15 Avança 0,18% e Fica Abaixo da Expectativa do Mercado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/varejo-getty-images-money-supermercado-300x200.png",
         "date": "24/10/2025",
         "description": "Queda no grupo alimentação, com peso relevante no IPCA-15, impediu que o índice atingisse os 0,25% esperados pelo mercado."
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2021/04/Aplicativos-money-Thana-Prasongsin.jpg",
         "date": "24/10/2025",
         "description": "A empresa adiantou que a quantidade de ações inicialmente ofertada poderá ser acrescida em até 25%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-semana-se-encerra-com-inflacao-no-brasil-e-nos-eua-2/",
-        "title": "Pré-mercado: Semana se Encerra com Inflação no Brasil e nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "24/10/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 24 de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/10/mark-travers-um-psicologo-explica-o-boomerasking-uma-tendencia-irritante-em-crescimento/",
-        "title": "Um Psicólogo Explica o “Boomerasking”, uma Tendência Irritante em Crescimento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-16-1-300x200.png",
-        "date": "24/10/2025",
-        "description": "O termo se refere à tendência de fazer perguntas apenas para falar de si mesmo, atrapalhando o ritmo natural das conversas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/brandvoice-randoncorp-como-a-randoncorp-aposta-em-tecnologia-e-sustentabilidade-para-moldar-o-futuro-da-mobilidade/",
-        "title": "Como a Randoncorp Aposta em Tecnologia e Sustentabilidade para Moldar o Futuro da Mobilidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/podcast-randoncorp-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Cesar Augusto Ferreira, Chief Technology Innovation Officer (CTIO) da companhia, participa do ForbesCast, podcast da Forbes Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/fadiga-de-decisao-como-grandes-lideres-evitam-o-esgotamento-mental/",
-        "title": "Fadiga de Decisão: Como Grandes Líderes Evitam o Esgotamento Mental",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-steve-jobs-apple-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Steve Jobs, Mark Zuckerberg e Jeff Bezos são exemplos de como otimizar e direcionar energia ao que realmente importa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/como-gestores-tem-navegado-entre-as-idas-e-vindas-de-trump/",
-        "title": "Como Gestores Têm Navegado entre as Idas e Vindas de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_TrumpTarifasAgro_15JUl2025_ChipSomodevilla_Getty-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Volatilidade virou regra e o mercado aprendeu a operar dentro dela, com nervos de aço e certa dose de ironia, dizem analistas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/10/o-brasil-virou-o-laboratorio-da-netflix-e-o-mercado-publicitario-esta-de-olho/",
-        "title": "O Brasil Virou o Laboratório da Netflix e o Mercado Publicitário Está de Olho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/caramelo-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Com engajamento recorde e a expansão do modelo com anúncios, o país se consolida como um dos mercados mais estratégicos para a plataforma"
     }
 ]
