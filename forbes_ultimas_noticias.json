@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/consumo-em-supermercados-tem-alta-anual-de-279-em-setembro-diz-abras/",
+        "title": "Consumo em Supermercados Tem Alta Anual de 2,79% em Setembro, Diz Abras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/O-relatorio-de-setembro-mostrou-mudancas-nas-escolhas-do-consumidor-ja-que-na-cesta-de-produtos-basicos-os-itens-de-preco-medio-ganharam-mais-participacao-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "A semana a mais no mês de agosto e o aumento do consumo por conta do Dia dos Pais pressionaram o desempenho dos dados de setembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-termina-em-alta-com-inflacao-abaixo-do-esperado-e-quase-zera-perda-no-mes/",
+        "title": "Ibovespa Termina em Alta com Inflação Abaixo do Esperado e Quase Zera Perda no Mês",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "24/10/2025",
+        "description": "Dólar fecha perto da estabilidade no Brasil em dia de IPCA-15 e inflação nos EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/10/unidade-da-nexperia-na-china-retoma-vendas-de-chips-para-distribuidores-locais-dizem-fontes/",
         "title": "Unidade da Nexperia na China Retoma Vendas de Chips para Distribuidores Locais, Dizem Fontes",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Funcionario-em-linha-de-producao-da-fabricante-holandesa-de-semicondutores-Nexperia-em-Hamburgo-na-Alemanha-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/GettyImages-2216199583-300x200.jpg",
         "date": "24/10/2025",
         "description": "A liberação dos recursos dependerá da aprovação de novos financiamentos e da maturidade do projeto dentro do REIQ"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/presidente-do-conselho-do-btg-passa-a-controlar-indiretamente-8141-da-estapar/",
-        "title": "Presidente do Conselho do BTG Passa a Controlar 81,41% da Estapar",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/09/BTG-getty-images-SOPA-Images-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Empresa explicou que o fundo Valbuena adquiriu a totalidade das cotas do Riverside Fundo de Investimento em Participações"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/moto-indiana-de-media-cilindrada-cresce-74-e-vira-fenomeno-no-brasil/",
-        "title": "Moto Indiana de Média Cilindrada Cresce 74% e Vira Fenômeno no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Super-Meteor-6506-1-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Royal Enfield emplaca 8.353 unidades no terceiro trimestre de 2025, com Super Meteor 650 e Himalayan 450 em destaque"
     }
 ]

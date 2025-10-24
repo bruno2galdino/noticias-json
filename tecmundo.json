@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/minha-serie/602357-a-saga-de-pele-em-1970-vira-minisserie-na-netflix-conheca-brasil-70.htm",
+        "title": "A saga de Pelé em 1970 vira minissérie na Netflix! Conheça Brasil 70",
+        "description": "No evento Behind the Streams, da Netflix Ads, o diretor Paulo Morelli e o ator Lucas Agrícola falam sobre a produção",
+        "image": "https://tm.ibxk.com.br/2025/10/24/WZ_2_A1184_b4667a347d.png",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/408044-whatsapp-suposta-brecha-de-us-1-milhao-tem-apresentacao-cancelada.htm",
+        "title": "WhatsApp: suposta brecha de US$ 1 milhão tem apresentação cancelada",
+        "description": "Uma brecha do tipo zero-day que permitia execução de código remoto no WhatsApp teve apresentação cancelada de última hora.",
+        "image": "https://tm.ibxk.com.br/2025/09/08/08111332097149.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/408057-a-revolucao-da-ia-como-a-acer-usa-machine-learning-para-tornar-a-tecnologia-mais-humana.htm",
+        "title": "A revolução da IA: como a Acer usa machine learning para tornar a tecnologia mais humana",
+        "description": "Entenda como a Acer está usando machine learning para transformar a IA em uma parceira que entende seus hábitos e entrega desempenho sob medida.",
+        "image": "https://tm.ibxk.com.br/2025/10/24/Captura_de_tela_2025_10_24_180642_84f6e8f9b2.png",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/produto/408045-samsung-vai-fabricar-memorias-dram-do-iphone-18.htm",
         "title": "Samsung vai fabricar memórias DRAM do iPhone 18",
         "description": "Segundo a mídia sul-coreana, a Apple já teria feito o pedido de chips de memória à Samsung para compor o iPhone 18.",
@@ -39,27 +60,6 @@
         "title": "O Monstro de Florença é inspirado em história real cheia de mistérios! Veja o que é verdade",
         "description": "O Monstro de Florença narra os atos de um assassino serial que assombrou a Itália por quase 20 anos. Confira a verdade por trás da série.",
         "image": "https://tm.ibxk.com.br/2025/10/24/Historia_Real_Monstro_Florenca_Nova_Serie_Netflix_7d49f03916.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/408038-uniao-europeia-acusa-meta-e-tiktok-de-violacoes-empresas-contestam-denuncias.htm",
-        "title": "União Europeia acusa Meta e TikTok de violações; empresas contestam denúncias",
-        "description": "Denunciadas por supostas violações à Lei de Serviços Digitais do bloco europeu, Meta e TikTok podem receber multa de até 6% de suas receitas anuais globais.",
-        "image": "https://tm.ibxk.com.br/2025/10/24/ue_denuncia_tiktok_meta_8e2763cd9d.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/408040-gerando-falcoes-e-microsoft-lancam-curso-gratuito-de-ia-para-populacao-carente.htm",
-        "title": "Gerando Falcões e Microsoft lançam curso gratuito de IA para população carente",
-        "description": "Iniciativa promovida por Gerando Falcões e Microsoft visa ampliar e democratizar a educação digital nas favelas do Brasil.",
-        "image": "https://tm.ibxk.com.br/2025/10/24/thumbnail_credito_Divulgacao_Gerando_Falcoes_405f516fe5.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502654-conheca-capote-novo-jogo-baratinho-que-se-passa-em-um-tipico-boteco-brasileiro.htm",
-        "title": "Conheça Capote, novo jogo baratinho que se passa em um típico boteco brasileiro",
-        "description": "Gosta de um boteco raiz de esquina? Então Capote, novo jogo de cartas e totalmente ambientado em um bar brasileiro, é uma ótima pedida para a jogatina do fim de semana! Conheça o projeto",
-        "image": "https://tm.ibxk.com.br/2025/10/24/CAPOTE_JOGO_BRASILEIRO_a700d1feac.jpg",
         "date": null
     }
 ]
