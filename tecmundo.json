@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/seguranca/408036-iphone-38-policia-de-sp-apreende-celular-que-vira-arma-de-fogo.htm",
+        "title": "'iPhone 38': polícia de SP apreende celular que vira arma de fogo",
+        "description": "Modelo utiliza munição de calibre 380 para pistolas, mas a origem do aparelho ainda é desconhecida.",
+        "image": "https://tm.ibxk.com.br/2025/10/24/arma_que_se_transforma_em_celular_47b194313b.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/408034-brasil-e-um-dos-paises-mais-atacados-por-virus-android-que-rouba-contas-do-telegram.htm",
+        "title": "Brasil é um dos países mais atacados por vírus Android que rouba contas do Telegram",
+        "description": "O malware Baohuo mira dispositivos Android e já infectou quase 12 mil dispositivos no território brasileiro.",
+        "image": "https://tm.ibxk.com.br/2025/10/24/malware_549d876128.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602356-quarteto-fantastico-ganha-data-de-estreia-no-streaming-confira.htm",
+        "title": "Quarteto Fantástico ganha data de estreia no streaming; confira",
+        "description": "Quarteto Fantástico: Primeiros Passos chega no Disney+ antes do que você imagina",
+        "image": "https://tm.ibxk.com.br/2025/10/24/familia_quartet_fantastico_20a1727c26.webp",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/guia-de-compras/408023-positivo-casa-inteligente-20-produtos-com-desconto-que-valem-a-pena-conhecer.htm",
+        "title": "Positivo Casa Inteligente: 20 produtos com desconto que valem a pena conhecer",
+        "description": "Confira agora uma seleção de produtos de casa inteligente da Positivo em promoção no site oficial e garanta lâmpadas, robôs aspiradores e mais itens smart com desconto por tempo limitado",
+        "image": "https://tm.ibxk.com.br/2025/10/23/Smart_Robo_Aspirador_Wi_Fi_PRA_600_Positivo_Casa_Inteligente_960x640_97ac4fbb60.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/guia-de-compras/408017-fones-qcy-no-aliexpress-garanta-modelos-bluetooth-com-desconto-e-cupons-exclusivos.htm",
         "title": "Fones QCY no AliExpress: garanta modelos Bluetooth com desconto e cupons exclusivos",
         "description": "Seja para ouvir suas músicas e podcasts prediletos ou fazer chamadas de voz, os fones da QCY em promoção no AliExpress podem ser uma ótima opção combinando som de qualidade a preços acessíveis; confira as oportunidades",
@@ -25,34 +53,6 @@
         "title": "Amazon detalha erro na AWS que gerou instabilidade na internet global",
         "description": "Companhia aponta que uma falha nos sistemas de automação em um grande banco de dados culminou no problema massiva da última segunda (20)",
         "image": "https://tm.ibxk.com.br/2025/10/24/amazon_web_services_aws_2b056e8ca7.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/408031-ofertas-em-livros-na-amazon-garanta-titulos-a-partir-de-r340.htm",
-        "title": "Ofertas em Livros na Amazon: garanta títulos a partir de R$3,40",
-        "description": "Confira livros de William Shakespeare, Machado de Assis, George Orwell, Oscar Wilde, Franz Kafka, Fiódor Dostoiévski e mais em promoção na Amazon!",
-        "image": "https://tm.ibxk.com.br/2025/10/24/livros_em_oferta_na_amazon_08129ef88b.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/502653-gta-online-libera-carro-gratis-e-mais-novidades-no-halloween-confira-tudo.htm",
-        "title": "GTA Online libera carro grátis e mais novidades no Halloween! Confira tudo",
-        "description": "Preparado para o Dia das Bruxas? A Rockstar lançou uma atualização recheada de novidades para os jogadores aproveitarem o Halloween em GTA Online! Confira",
-        "image": "https://tm.ibxk.com.br/2025/10/24/ATUALIZACAO_HALLOWEEN_GTA_ONLINE_12e614e959.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/408030-google-fornecera-chips-de-ia-e-nuvem-para-a-anthropic.htm",
-        "title": "Google fornecerá chips de IA e nuvem para a Anthropic",
-        "description": "Acordo de \"dezenas de bilhões de dólares\" reforça aliança entre as empresas e garante mais poder computacional para a plataforma.",
-        "image": "https://tm.ibxk.com.br/2025/10/24/claude_ai_anthropic_chatbot_aplicativo_celular_bafb59d1d5.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602345-11-melhores-filmes-e-series-em-alta-para-ver-na-netflix-no-fim-de-semana-24.htm",
-        "title": "11 melhores filmes e séries em alta para ver na Netflix no fim de semana (24)",
-        "description": "Afinal, o que assistir na Netflix durante este final de semana? Se você ainda não sabe, confira 8 dicas certeiras de filmes e séries que estão em alta no streaming e que valem seu tempo!",
-        "image": "https://tm.ibxk.com.br/2025/10/23/netflix_filme_de_terror_26e5ce1316.jpg",
         "date": null
     }
 ]
