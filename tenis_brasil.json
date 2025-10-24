@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/carolina-bohrer-faz-sua-primeira-semi-do-ano-e-busca-final-inedita.html",
+        "title": "Carolina Bohrer faz sua primeira semi do ano e busca final inédita",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/03/53623687695_02ce4d058b_c.jpg",
+        "date": "24/10/2025",
+        "description": "Hilton Head Island (EUA) –A catarinense Carolina Bohrer está na semifinal do ITF W15 de Hilton Head Island, em quadras de saibro nos Estados Unidos. Ela superou a jovem norte-americana de 16 anos Jensen Diianni por 7/5 e 6/0."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/marcondes-faz-semi-na-tailandia-e-busca-a-quarta-final-do-ano.html",
+        "title": "Marcondes faz semi na Tailândia e busca a quarta final do ano",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/marcondes_cuiaba_back_noite-1024x683.jpg",
+        "date": "24/10/2025",
+        "description": "Hua Hin (Tailândia) –O paulista Igor Marcondes está na semifinal do ITF M15 de Hua Hin, em quadras duras na Tailândia. Nesta sexta-feira, ele venceu Rifqi Fitriadi, da Indonésia, por 6/3 e 6/2. Seu próximo adversário é o francês Louis Larue."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/romboli-e-smith-caem-nas-quartas-diante-dos-campeoes-de-wimbledon.html",
+        "title": "Romboli e Smith caem nas quartas diante dos campeões de Wimbledon",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/romboli-smith-viena-2025-e1761325312650-1024x683.jpg",
+        "date": "24/10/2025",
+        "description": "Viena (Áustria) –A parceria de Fernando Romboli com o australiano John-Patrick Smith parou nas quartas de final do ATP 500 de Viena, em quadras duras e cobertas. Eles foram superados nesta sexta-feira pela dupla britânica de Julian Cash e Lloyd Glasspool, cabeças 2 do torneio e atuais campeões de Wimbledon, por 7/6 (7-2) e 6/4 em 1h27 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-24-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/pucinelli_santos_prepara.jpg",
+        "date": "24/10/2025",
+        "description": "ATP 500 da Basileia (Suíça) – Sintético (coberto) – 2.523.045 eurosQuartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-destaca-bom-momento-de-espanhol-e-abre-semifinais-as-10h.html",
+        "title": "Fonseca destaca bom momento de espanhol e abre semifinais às 10h",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/fonseca-basileia-vibra-2025.jpg",
+        "date": "24/10/2025",
+        "description": "Basileia (Suíça) –Semifinalista do ATP 500 da Basileia, João Fonseca volta à quadra neste sábado às 10h (de Brasília) para enfrentar o espanhol Jaume Munar, 42º do ranking. Campeão em Buenos Aires em fevereiro, o carioca de 19 anos e número 1 do Brasil tenta alcançar sua segunda final de ATP."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/chuva-ao-sauipe-cancela-as-duplas-e-forca-nova-rodada-dupla.html",
         "title": "Chuva ao Sauípe cancela as duplas e força nova rodada dupla",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/heide-sauipe-2025-1024x683.jpg",
@@ -21,13 +56,6 @@
         "description": "Viena (Áustria) –A semana de Lorenzo Musetti no ATP 500 de Viena segue com vitórias em sets diretos. Depois de passar pelo sérvio Hamad Medjedovic na estreia e pelo argentino Tomas Etcheverry nas oitavas, o italiano venceu nesta sexta-feira o francês Corentin Moutet por 6/3 e 6/4 em 1h41 de partida."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-24-10.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/pucinelli_santos_prepara.jpg",
-        "date": "24/10/2025",
-        "description": "ATP 500 da Basileia (Suíça) – Sintético (coberto) – 2.523.045 eurosQuartas de final –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/ruud-tambem-abandona-e-fokina-enfrenta-humbert-na-semifinal.html",
         "title": "Ruud também abandona e Fokina enfrenta Humbert na semifinal",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/ruud_basel_rebate.jpg",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Klugmann_jrfinals_estica.jpg",
         "date": "24/10/2025",
         "description": "Chengdu (China) –A rodada decisiva da fase de grupos do ITF Junior Finals definiu os confrontos das semifinais na cidade chinesa de Chengdu. Após a classificação do italiano Jacopo Vasami na última quinta-feira, as demais vagas foram definidas nesta sexta. Ele é o único invicto no masculino, enquanto a belga Jeline Vandromme e a eslovaca Mia Pohankova venceram os três jogos na disputa feminina."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/zhang-volta-a-uma-semi-apos-3-anos-tenistas-do-quali-se-destacam.html",
-        "title": "Zhang volta a uma semi após 3 anos, tenistas do quali se destacam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/zhang_guangzhou_back_qf.jpg",
-        "date": "24/10/2025",
-        "description": "Guangzhou (China) –A experiente chinesa Shuai Zhang segue firme na busca por seu terceiro título no WTA 250 de Guangzhou. A jogadora de 36 anos e garantiu vaga na semifinal depois de vencer a norte-americana Katie Volynets, 98ª do ranking, por 7/6 (7-5), 5/7 e 7/5 em 2h53."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sorteio-da-chave-em-paris-garante-reencontro-entre-fonseca-e-shapovalov.html",
-        "title": "Sorteio da chave em Paris garante reencontro entre Fonseca e Shapovalov",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/fonseca_basel_caminha_cut-e1761228057236-1024x682.jpg",
-        "date": "24/10/2025",
-        "description": "Paris (França) –Horas depois de protagonizarem um dos duelos das quartas de final do ATP 500 da Basileia, João Fonseca e Denis Shapovalov já têm um reencontro marcado. Eles vão se enfrentar na rodada de estreia do Masters 1000 de Paris, que começa na próxima segunda-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-volta-a-superar-bublik-e-enfrenta-de-minaur-na-semifinal.html",
-        "title": "Sinner volta a superar Bublik e enfrenta De Minaur na semifinal",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sinner-vienna-2025-friday-1024x576.jpg",
-        "date": "24/10/2025",
-        "description": "Viena (Áustria) –O oitavo encontro entre Jannik Sinner e Alexander Bublik terminou com a sexta vitória do italiano, que garantiu vaga na semifinal do ATP 500 de Viena, em quadras duras e cobertas. Principal cabeça de chave e campeão em 2023, Sinner marcou um duplo 6/4 em 1h16 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-chega-a-paris-e-faz-seu-primeiro-treino-na-la-defense-arena.html",
-        "title": "Alcaraz chega a Paris e faz seu primeiro treino na La Défense Arena",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/khachanov-alcaraz-paris-2025-arrival-e1761324828664-1024x682.jpg",
-        "date": "24/10/2025",
-        "description": "Paris (França)– Um dos três títulos de Masters 1000 que faltam no currículo do espanhol Carlos Alcaraz, o de Paris pode ser o próximo em sua galeria de conquistas. De casa nova, agora na La Défense Arena, o torneio francês viu o número 1 do mundo fazer seu primeiro treino por lá na manhã desta sexta-feira."
     }
 ]
