@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/408045-samsung-vai-fabricar-memorias-dram-do-iphone-18.htm",
+        "title": "Samsung vai fabricar memórias DRAM do iPhone 18",
+        "description": "Segundo a mídia sul-coreana, a Apple já teria feito o pedido de chips de memória à Samsung para compor o iPhone 18.",
+        "image": "https://tm.ibxk.com.br/2025/09/09/09150215545310.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/guia-de-compras/408042-celulares-de-sucesso-no-mercado-livre-galaxy-a16-moto-g35-e-outras-opcoes-acessiveis.htm",
+        "title": "Celulares de sucesso no Mercado Livre: Galaxy A16, Moto G35 e outras opções acessíveis",
+        "description": "Conheça diversos modelos de smartphones básicos para comprar no Mercado Livre e garanta opções com bom desempenho, telas de alta resolução e ótimas câmeras a preos que cabem no bolso",
+        "image": "https://tm.ibxk.com.br/2025/10/24/celular_Motorola_Moto_G35_5_G_960x640_f750bacbc2.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502662-halo-campaign-evolved-e-anunciado-com-versao-para-ps5.htm",
+        "title": "Halo Campaign Evolved é anunciado com versão para PS5",
+        "description": "Mais uma franquia do Xbox está chegando ao PS5! Confira tudo sobre o novo game de Halo",
+        "image": "https://tm.ibxk.com.br/2025/10/24/halo_ps5_evolved_4ae5307c7a.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/software/408050-google-fotos-vai-usar-ia-para-transformar-suas-fotos-em-memes-famosos.htm",
+        "title": "Google Fotos vai usar IA para transformar suas fotos em memes famosos",
+        "description": "O Google Fotos prepara uma ferramenta alimentada por IA para transformar suas fotos em memes famosos.",
+        "image": "https://tm.ibxk.com.br/2025/08/18/18164852288035.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/408056-eua-enviam-maior-porta-avioes-do-mundo-ao-caribe-conheca-o-uss-gerald-ford.htm",
+        "title": "EUA enviam maior porta-aviões do mundo ao Caribe; conheça o USS Gerald Ford",
+        "description": "Embarcação colossal da marinha norte-americana chegará em seu destino nos próximos dias e deve aumentar conflito contra cartéis de drogas",
+        "image": "https://tm.ibxk.com.br/2025/10/24/uss_gerald_ford_58b885cc5b.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/minha-serie/602355-o-monstro-de-florenca-e-inspirado-em-historia-real-cheia-de-misterios-veja-o-que-e-verdade.htm",
         "title": "O Monstro de Florença é inspirado em história real cheia de mistérios! Veja o que é verdade",
         "description": "O Monstro de Florença narra os atos de um assassino serial que assombrou a Itália por quase 20 anos. Confira a verdade por trás da série.",
@@ -25,41 +60,6 @@
         "title": "Conheça Capote, novo jogo baratinho que se passa em um típico boteco brasileiro",
         "description": "Gosta de um boteco raiz de esquina? Então Capote, novo jogo de cartas e totalmente ambientado em um bar brasileiro, é uma ótima pedida para a jogatina do fim de semana! Conheça o projeto",
         "image": "https://tm.ibxk.com.br/2025/10/24/CAPOTE_JOGO_BRASILEIRO_a700d1feac.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/408051-notebook-asus-vivobook-go-15-com-um-belo-desconto-usando-o-cupom-mercado-livre.htm",
-        "title": "Notebook ASUS Vivobook Go 15 com um belo desconto utilizando o cupom Mercado Livre",
-        "description": "Modelo com AMD Ryzen 3 e 128GB de SSD está saindo por menos de R$1.700 utilizando o cupom do Mercado Livre",
-        "image": "https://tm.ibxk.com.br/2025/10/24/notebook_ASUS_barato_9a3ff03ae5.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/408007-a-historia-do-tamagotchi-bichinho-virtual-que-foi-uma-febre-global.htm",
-        "title": "A história do Tamagotchi, bichinho virtual que foi uma febre global",
-        "description": "Brinquedo que ensinava crianças a cuidar de pets teve várias versões ao longo dos anos e segue vivo na memória de muitos, mas teve auge comercial curto.",
-        "image": "https://tm.ibxk.com.br/2025/10/23/tamagotchi_original_bandai_e4b9717b32.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602351-fionna-cake-tem-quantos-episodios-na-temporada-2-veja-calendario-de-lancamento-no-hbo-max.htm",
-        "title": "Fionna & Cake tem quantos episódios na temporada 2? Veja calendário de lançamento no HBO Max",
-        "description": "Nova temporada de Hora de Aventura estreou no HBO Max e receberá novos episódios até o fim do ano. Confira mais detalhes",
-        "image": "https://tm.ibxk.com.br/2025/10/24/fionna_cake_episodios_hbo_max_41abe8f38b.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/408041-apple-perde-processo-e-pode-ter-que-indenizar-devs-com-valor-bilionario.htm",
-        "title": "Apple perde processo e pode ter que indenizar devs com valor bilionário",
-        "description": "A Apple foi considerada anticompetitiva por fechar portas e impor taxas altas sobre microtransações na App Store; empresa tenta recorrer.",
-        "image": "https://tm.ibxk.com.br/2025/10/21/ios_26_iphone_interface_904fd8159f.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/408033-ventilacao-e-climatizadores-com-ate-60-off-na-shopee-fuja-do-calor-gastando-menos.htm",
-        "title": "Ventilação e climatizadores com até 60% OFF na Shopee; fuja do calor gastando menos",
-        "description": "Escape do calor com as soluções de ventilação e climatização em promoção na Shopee, que tem ventiladores, aparelhos de ar-condicionado e climatizadores com desconto por tempo limitado; confira as oportunidades",
-        "image": "https://tm.ibxk.com.br/2025/10/24/Ventilador_Britania_Prime_Air_Maxx_Force_AVTE_300_960x640_01c43a7c3d.jpg",
         "date": null
     }
 ]

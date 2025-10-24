@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/unidade-da-nexperia-na-china-retoma-vendas-de-chips-para-distribuidores-locais-dizem-fontes/",
+        "title": "Unidade da Nexperia na China Retoma Vendas de Chips para Distribuidores Locais, Dizem Fontes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Funcionario-em-linha-de-producao-da-fabricante-holandesa-de-semicondutores-Nexperia-em-Hamburgo-na-Alemanha-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "A Nexperia, agora sob controle do governo holandês, produz grandes volumes de chips na Holanda, amplamente utilizados na indústria automotiva e em produtos eletrônicos de consumo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/ceo-da-nokia-compara-aumento-da-ia-ao-boom-da-internet-nos-anos-90-mas-minimiza-temores-de-bolha/",
+        "title": "CEO da Nokia Compara Aumento da IA Ao Boom da Internet nos Anos 90, Mas Minimiza Temores de Bolha",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Justin-Hotard-durante-coletiva-de-imprensa-da-empresa-em-Espoo-Finlandia-em-10-de-fevereiro-de-2025-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "A demanda por data centers está aumentando acentuadamente à medida que as empresas correm para construir a infraestrutura necessária para dar suporte à IA"
+    },
+    {
+        "url": "https://forbes.com.br/listas/2025/10/lista-forbes-agro100-e-destaque-da-nova-edicao-da-forbes-brasil/",
+        "title": "Lista Forbes Agro100 É Destaque da Nova Edição da Forbes Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro100_forbes_135-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "Edição 135 já está disponível no app da Forbes; veja outros destaques"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/fusoes-e-aquisicoes-somam-1-087-transacoes-em-2025-diz-pwc/",
         "title": "Fusões e Aquisições Somam 1.087 Transações em 2025, diz PwC",
         "image": "https://forbes.com.br/wp-content/uploads/2025/02/forbes-carreira-tech-profissoes-grafico-300x200.jpg",
@@ -42,31 +63,10 @@
         "description": "Empresa explicou que o fundo Valbuena adquiriu a totalidade das cotas do Riverside Fundo de Investimento em Participações"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/moto-indiana-de-media-cilindrada-cresce-74-e-vira-fenomeno-no-brasil/",
+        "url": "https://forbes.com.br/forbeslife/2025/10/moto-indiana-de-media-cilindrada-cresce-74-e-vira-fenomeno-no-brasil/",
         "title": "Moto Indiana de Média Cilindrada Cresce 74% e Vira Fenômeno no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Super-Meteor-6506-1-300x200.jpg",
         "date": "24/10/2025",
         "description": "Royal Enfield emplaca 8.353 unidades no terceiro trimestre de 2025, com Super Meteor 650 e Himalayan 450 em destaque"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/cafe-arabica-atinge-maxima-de-8-meses-mas-recua-com-vendas-tecnicas/",
-        "title": "Café Arábica Atinge Máxima de 8 Meses",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_plantacao_JoaoBentodaSilva-Gettyimages_24.10.2025-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "A baixa dos estoques de arábica é motivada pela desaceleração das exportações brasileiras"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/precos-ao-consumidor-dos-eua-sobem-03-e-indicam-desaceleracao-da-inflacao/",
-        "title": "Preços ao Consumidor dos EUA Sobem 0,3% e Indicam Desaceleração da Inflação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_supermercado_inflacao_EUA_-11abr_2025_AFP_Getty-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Resultado reforça aposta de novo corte de juros pelo Fed; Wall Street abre em alta"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/clima-favoravel-acelera-plantio-de-graos-de-inverno-na-europa/",
-        "title": "Clima Favorável Acelera Plantio de Grãos de Inverno na Europa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_trigo_plantacao_Reuters_24.10.2025-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Semeadura avançou em países europeus devido ao início de outubro mais seco"
     }
 ]
