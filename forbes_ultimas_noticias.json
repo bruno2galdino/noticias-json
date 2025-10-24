@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/fusoes-e-aquisicoes-somam-1-087-transacoes-em-2025-diz-pwc/",
+        "title": "Fusões e Aquisições Somam 1.087 Transações em 2025, diz PwC",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/forbes-carreira-tech-profissoes-grafico-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "Número é 19% inferior em relação a 2024"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/10/ue-considera-que-meta-e-tiktok-violaram-obrigacoes-de-transparencia/",
         "title": "UE Considera Que Meta e TikTok Violaram Obrigações de Transparência",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-4-300x200.png",
@@ -14,7 +21,7 @@
         "description": "Conheça as vencedoras, de pequenas a grandes propriedades que inovam no campo, segundo o evento criado pela Bayer e anunciado no 10º CNMA"
     },
     {
-        "url": "https://forbes.com.br/geral/2025/10/quadro-de-picasso-e-encontrado-em-madri-depois-de-duas-semanas-desaparecido/",
+        "url": "https://forbes.com.br/forbeslife/2025/10/quadro-de-picasso-e-encontrado-em-madri-depois-de-duas-semanas-desaparecido/",
         "title": "Quadro de Picasso É Encontrado em Madri Depois de Duas Semanas Desaparecido",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-1-4-300x200.png",
         "date": "24/10/2025",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_trigo_plantacao_Reuters_24.10.2025-300x200.jpg",
         "date": "24/10/2025",
         "description": "Semeadura avançou em países europeus devido ao início de outubro mais seco"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/alibaba-lanca-servico-de-chatbot-de-ia/",
-        "title": "Alibaba Lança Serviço de Chatbot de IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/01/Alibaba-money-VCG-e1653579003901.jpg",
-        "date": "24/10/2025",
-        "description": "O novo serviço gratuito permite conversas via texto ou voz e fornece informações em tempo real, disse a empresa em comunicado"
     }
 ]
