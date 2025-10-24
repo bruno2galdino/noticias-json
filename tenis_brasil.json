@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-24-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/laura_ingrid_rio_ff.jpg",
+        "date": "24/10/2025",
+        "description": "ATP 500 da Basileia (Suíça) – Sintético (coberto) – 2.523.045 eurosQuartas de final –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/boscardin-e-pucinelli-vencem-no-sauipe-monteiro-cai-na-estreia.html",
         "title": "Boscardin e Pucinelli vencem no Sauípe, Monteiro cai na estreia",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/boscardin_sauipe_fore_noite-1024x683.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/musetti-vienna-2025-tuesday-1024x576.jpg",
         "date": "23/10/2025",
         "description": "Viena (Áustria) –No jogo que encerrou a programação desta quinta-feira no ATP 500 de Viena, o italiano Lorenzo Musetti garantiu a última vaga nas quartas de final do torneio em quadras duras e cobertas. O número 8 do mundo venceu o argentino Tomas Etcheverry, 60º do ranking, por 6/3 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/carolina-bohrer-vence-mais-uma-nos-eua-e-busca-a-primeira-semi-do-ano.html",
-        "title": "Carolina Bohrer vence mais uma nos EUA e busca a primeira semi do ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/bohrer_leme_back.jpg",
-        "date": "23/10/2025",
-        "description": "Hilton Head Island (EUA) –A catarinense Carolina Bohrer está nas quartas de final do ITF W15 de Hilton Head Island, em quadras de saibro nos Estados Unidos. Ela superou a norte-americana Emily de Oliveira, de 22 anos, por 6/4, 6/7 (5-7) e 6/4 em 2h49 de partida."
     }
 ]
