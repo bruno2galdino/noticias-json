@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/quem-sao-elas-as-superprodutoras-do-premio-mulheres-do-agro/",
+        "title": "Quem São Elas, as Superprodutoras do Prêmio Mulheres do Agro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Agro_Mulheres-do-Agro2025_21out25_TWP_CNMA_Divulg-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "Conheça as vencedoras, de pequenas a grandes propriedades que inovam no campo, segundo o evento criado pela Bayer e anunciado no 10º CNMA"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/10/quadro-de-picasso-e-encontrado-em-madri-depois-de-duas-semanas-desaparecido/",
+        "title": "Quadro de Picasso É Encontrado em Madri Depois de Duas Semanas Desaparecido",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-1-4-300x200.png",
+        "date": "24/10/2025",
+        "description": "Obra desapareceu durante o transporte entre Madri e Granada e motivou queixa policial"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/braskem-investira-r-42-bi-para-ampliar-central-petroquimica-no-rio/",
+        "title": "Braskem Investirá R$ 4,2 Bi para Ampliar Central Petroquímica no Rio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/GettyImages-2216199583-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "A liberação dos recursos dependerá da aprovação de novos financiamentos e da maturidade do projeto dentro do REIQ"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/presidente-do-conselho-do-btg-passa-a-controlar-indiretamente-8141-da-estapar/",
+        "title": "Presidente do Conselho do BTG Passa a Controlar 81,41% da Estapar",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/09/BTG-getty-images-SOPA-Images-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "Empresa explicou que o fundo Valbuena adquiriu a totalidade das cotas do Riverside Fundo de Investimento em Participações"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/moto-indiana-de-media-cilindrada-cresce-74-e-vira-fenomeno-no-brasil/",
         "title": "Moto Indiana de Média Cilindrada Cresce 74% e Vira Fenômeno no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Super-Meteor-6506-1-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_aves_frangos_vivos_granja_Reuters_24.10.2025-300x200.jpg",
         "date": "24/10/2025",
         "description": "Já são 56 surtos identificados em 10 países, o maior número em pelo menos uma década"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/milho-atinge-maxima-em-um-mes-em-chicago-com-impulso-do-petroleo/",
-        "title": "Milho Atinge Máxima em um Mês em Chicago com Impulso do Petróleo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_milho_espiga_lavoura_foto_Richard_Hamilton_Smith_Getty_26.09.2025-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Firmeza dos mercados físicos de grãos nos EUA também influenciou alta"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/usiminas-tem-prejuizo-de-r350-bi-no-3o-tri-com-pressao-da-concorrencia-chinesa/",
-        "title": "Usiminas Tem Prejuízo de R$3,50 Bi no 3º Tri com Pressão da Concorrência Chinesa",
-        "image": "https://forbes.com.br/wp-content/uploads/2018/08/uniminas-3.jpg",
-        "date": "24/10/2025",
-        "description": "A receita líquida da Usiminas caiu para R$6,60 bilhões, mas ficou acima da previsão do mercado, segundo a LSEG"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/ipca-15-avanca-018-e-fica-abaixo-das-expectativas-do-mercado/",
-        "title": "IPCA-15 Avança 0,18% e Fica Abaixo da Expectativa do Mercado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/varejo-getty-images-money-supermercado-300x200.png",
-        "date": "24/10/2025",
-        "description": "Queda no grupo alimentação, com peso relevante no IPCA-15, impediu que o índice atingisse os 0,25% esperados pelo mercado."
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/acoes-da-intel-sobem-com-investimentos-e-cortes-de-custos-impulsionando-esforcos-de-reestruturacao/",
-        "title": "Ações da Intel Sobem com Investimentos e Cortes de Custos Impulsionando Esforços de Reestruturação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/2025-04-23T125004Z_1_LYNXMPEL3M0P1_RTROPTP_4_TECH-INTEL-DEMITE-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Os resultados marcam um ponto de inflexão para a Intel, que tem lutado para manter sua relevância diante da concorrência acirrada"
     }
 ]
