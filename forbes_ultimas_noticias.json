@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/moto-indiana-de-media-cilindrada-cresce-74-e-vira-fenomeno-no-brasil/",
+        "title": "Moto Indiana de Média Cilindrada Cresce 74% e Vira Fenômeno no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Super-Meteor-6506-1-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "Royal Enfield emplaca 8.353 unidades no terceiro trimestre de 2025, com Super Meteor 650 e Himalayan 450 em destaque"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/cafe-arabica-atinge-maxima-de-8-meses-mas-recua-com-vendas-tecnicas/",
+        "title": "Café Arábica Atinge Máxima de 8 Meses",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_plantacao_JoaoBentodaSilva-Gettyimages_24.10.2025-300x200.jpg",
+        "date": "24/10/2025",
+        "description": "A baixa dos estoques de arábica é motivada pela desaceleração das exportações brasileiras"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/precos-ao-consumidor-dos-eua-sobem-03-e-indicam-desaceleracao-da-inflacao/",
         "title": "Preços ao Consumidor dos EUA Sobem 0,3% e Indicam Desaceleração da Inflação",
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_supermercado_inflacao_EUA_-11abr_2025_AFP_Getty-300x200.jpg",
         "date": "24/10/2025",
-        "description": "Resultado reforça aposta de novo corte de juros pelo Fed"
+        "description": "Resultado reforça aposta de novo corte de juros pelo Fed; Wall Street abre em alta"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/10/clima-favoravel-acelera-plantio-de-graos-de-inverno-na-europa/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/2025-04-23T125004Z_1_LYNXMPEL3M0P1_RTROPTP_4_TECH-INTEL-DEMITE-300x200.jpg",
         "date": "24/10/2025",
         "description": "Os resultados marcam um ponto de inflexão para a Intel, que tem lutado para manter sua relevância diante da concorrência acirrada"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/colheita-de-trigo-atinge-10-da-area-no-rio-grande-do-sul-diz-emater/",
-        "title": "Colheita de Trigo Atinge 10% da Área no Rio Grande do Sul",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Plantacao-de-trigo-300x200.jpg",
-        "date": "24/10/2025",
-        "description": "Cerca de metade da área plantada está em enchimento de grãos e o restante em maturação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/conselho-da-cosan-aprova-oferta-publica-de-145-bi-de-novas-acoes/",
-        "title": "Conselho da Cosan Aprova Oferta Pública de 1,45 Bi de Novas Ações",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/04/Aplicativos-money-Thana-Prasongsin.jpg",
-        "date": "24/10/2025",
-        "description": "A empresa adiantou que a quantidade de ações inicialmente ofertada poderá ser acrescida em até 25%"
     }
 ]
