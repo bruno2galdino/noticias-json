@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/408054-10-noticias-mais-importantes-da-semana-2010-a-2410.htm",
+        "title": "10 notícias mais importantes da semana (20/10 a 24/10)",
+        "description": "Comece o final de semana por dentro de tudo o que rolou no mundo da Ciência, Tecnologia, Entretenimento e Games.",
+        "image": "https://tm.ibxk.com.br/2025/10/24/aws_amazon_ee2a816242.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502656-mesmo-com-criticas-pokemon-legends-z-a-vende-58-milhoes-de-copias-e-se-torna-sucesso.htm",
         "title": "Mesmo com críticas, Pokémon Legends Z-A vende 5,8 milhões de cópias e se torna sucesso",
         "description": "Pokémon Legends Z-A teve um começo forte em vendas e se tornou uma das cinco maiores estreias da história da franquia! Veja as notícias de games do Checkpoint de hoje (24)",
@@ -60,13 +67,6 @@
         "title": "WhatsApp: suposta brecha de US$ 1 milhão tem apresentação cancelada",
         "description": "Uma brecha do tipo zero-day que permitia execução de código remoto no WhatsApp teve apresentação cancelada de última hora.",
         "image": "https://tm.ibxk.com.br/2025/09/08/08111332097149.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/408057-a-revolucao-da-ia-como-a-acer-usa-machine-learning-para-tornar-a-tecnologia-mais-humana.htm",
-        "title": "A revolução da IA: como a Acer usa machine learning para tornar a tecnologia mais humana",
-        "description": "Entenda como a Acer está usando machine learning para transformar a IA em uma parceira que entende seus hábitos e entrega desempenho sob medida.",
-        "image": "https://tm.ibxk.com.br/2025/10/24/Captura_de_tela_2025_10_24_180642_84f6e8f9b2.png",
         "date": null
     }
 ]
