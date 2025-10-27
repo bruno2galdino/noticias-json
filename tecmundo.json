@@ -1,9 +1,16 @@
 [
     {
-        "url": "https://www.tecmundo.com.br/produto/408077-iphone-18-pro-deve-ter-camera-melhorada-para-fotos-noturnas.htm",
-        "title": "iPhone 18 Pro deve ter câmera melhorada para fotos noturnas",
-        "description": "Modelos também podem utilizar sensor com abertura variável para permitir passagem de mais luz e ter fotos com mais nitidez",
-        "image": "https://tm.ibxk.com.br/2025/10/27/iphone_17_pro_d07ccb5468.jpg",
+        "url": "https://www.tecmundo.com.br/voxel/502673-novo-xbox-tera-steam-jogos-do-playstation-online-gratuito-diz-reportagem.htm",
+        "title": "Novo Xbox terá Steam, jogos do PlayStation online gratuito, diz reportagem",
+        "description": "Rumores sobre o futuro Xbox, novidades da PlayStation Plus e mais!",
+        "image": "https://tm.ibxk.com.br/2025/10/27/xbox_nova_geracao_playstation_steam_f2b9e170e1.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/408085-brecha-no-navegador-do-chatgpt-permite-hipnotizar-ia.htm",
+        "title": "Brecha no navegador do ChatGPT permite 'hipnotizar' IA",
+        "description": "Pesquisadores descobriram um método que, por meio de CSRF, permite inserir comandos na memória do ChatGPT.",
+        "image": "https://tm.ibxk.com.br/2025/10/21/openai_chatgpt_atlas_logo_14628bfcb7.png",
         "date": null
     }
 ]

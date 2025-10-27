@@ -1,7 +1,21 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/preco-do-gado-cai-nos-eua-por-preocupacoes-com-pressao-de-trump/",
+        "title": "Preço do Gado Cai nos EUA por Preocupações com Pressão de Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/gado-queijo-franca-forbes--300x200.jpg",
+        "date": "27/10/2025",
+        "description": "Os comerciantes disseram que esperam cada vez mais que o governo de Trump incentive importações de carne"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/com-economia-perdendo-forca-santander-espera-queda-de-16-nos-lucros-corporativos-no-3o-tri/",
+        "title": "Com Economia Perdendo Força, Santander Espera Queda de 16% nos Lucros Corporativos no 3º Tri",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2-300x200.jpg",
+        "date": "27/10/2025",
+        "description": "Relatório indica PIB do 3º trimestre em +0,2%, com Bradesco e Cury como destaques positivos e Ambev e BB entre as decepções"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/bilionario-doa-us-130-milhoes-do-proprio-bolso-para-pagar-militares-durante-shutdown-do-governo-americano/",
-        "title": "Bilionário Doa US$ 130 Milhões do Próprio Bolso para Pagar Militares Durante 'Shutdown' do Governo Americano",
+        "title": "Bilionário Paga Salários de Militares Durante Shutdown nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-18-300x200.jpg",
         "date": "27/10/2025",
         "description": "O Pentágono declarou que aceitou o valor para garantir que os membros das Forças Armadas não deixem de receber seus salários durante o período"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/carla-bittencourt-drogamax-300x200.jpg",
         "date": "27/10/2025",
         "description": "Carla Bittencourt, diretora e mentora estratégica, compartilha os bastidores do projeto de transformação de gestão que liderou na rede de farmácias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/ferrari-mira-em-geracao-ia-com-leilao-de-cripto-para-carro-de-le-mans/",
-        "title": "Ferrari Mira em Geração IA com Leilão de Cripto para Carro de Le Mans",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-27T133953Z_1_LYNXMPEL9Q0KO_RTROPTP_4_AUTOS-FERRARI-BLOCKCHAIN-300x200.jpg",
-        "date": "27/10/2025",
-        "description": "Fabricante aposta em estratégia voltada à nova elite tecnológica formada por investidores em IA e data centers"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/lula-diz-que-trump-garantiu-acordo-comercial-com-os-eua/",
-        "title": "Lula Diz Que Trump \"Garantiu\" Acordo Comercial com os EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-27T113811Z_2_LYNXMPEL9Q0CD_RTROPTP_4_ASEAN-SUMMIT-BRAZIL-300x200.jpg",
-        "date": "27/10/2025",
-        "description": "Em viagem à Malásia, presidente relata progresso em tratativas com os Estados Unidos"
     }
 ]
