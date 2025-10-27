@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/saraiva_piracicaba_fore.jpg",
+        "date": "27/10/2025",
+        "description": "WTA 125 de Cali (Colômbia) – Saibro – US$ 115 milQualificatório – Rodada final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-estreia-no-top-30-e-deve-subir-ainda-mais-no-ranking.html",
+        "title": "Fonseca estreia no top 30 e deve subir ainda mais no ranking",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/fonseca_basel_olhabola-1024x682.jpg",
+        "date": "27/10/2025",
+        "description": "Londres (Inglaterra)– Depois de conquistar o maior título da carreira, levantando a taça do ATP 500 da Basileia no último domingo, o carioca João Fonseca viu seu grande desempenho render frutos no ranking. Nesta segunda-feira, ele disparou 18 colocações e estreou no top 30, alcançando o 28º lugar."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/fonseca-dobra-de-tamanho.html",
         "title": "Fonseca dobra de tamanho",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/blog_jf_titulo.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/guto-dudu-sauipe-trofeu-2025-1024x683.jpg",
         "date": "26/10/2025",
         "description": "Felipe Priante, da Costa do SauípeEspecial para TenisBrasil"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-26-10.html",
-        "title": "O dia dos brasileiros: veja os resultados deste domingo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/fonseca_basel_olhabola-1024x682.jpg",
-        "date": "26/10/2025",
-        "description": "ATP 500 da Basileia (Suíça) – Sintético (coberto) – 2.523.045 eurosFinal –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-foi-um-torneio-que-deu-brechas-e-aproveitei-as-oportunidades.html",
-        "title": "Fonseca: “Foi um torneio que deu brechas e aproveitei as oportunidades”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/fonseca_basel_premiacao_full_cut.jpg",
-        "date": "26/10/2025",
-        "description": "Basileia (Suíça) –Campeão do ATP 500 da Basileia, João Fonseca comemorou o maior título da carreira e fez história para o tênis brasileiro ao vencer o torneio de maior expressão no circuito de simples da ATP desde 2001, quando Gustavo Kuerten conquistou Cincinnati. O carioca de 19 anos e número 1 do país também garante um salto no ranking, do 46º para o 28º lugar, tornando-se o sétimo brasileiro a figurar no top 30 na Era Aberta."
     }
 ]
