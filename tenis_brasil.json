@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-dobra-de-tamanho.html",
+        "title": "Fonseca dobra de tamanho",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/blog_jf_titulo.jpg",
+        "date": "26/10/2025",
+        "description": "Se a aposta no tênis plástico, alegre e ofensivo de João Fonseca já era grande em todo o circuito internacional, a conquista do ATP 500 da Basileia neste domingo dobra a atenção em cima do fenomenal carioca de 19 anos, que nesta segunda-feira já será um top 30 do ranking, como 28º, o sexto brasileiro e o quinto homem nacional a atingir tal nobre posição em simples."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/dimitrov-volta-ao-circuito-em-paris-e-estreia-nesta-2a-contra-perricard.html",
+        "title": "Dimitrov volta ao circuito em Paris e estreia nesta 2ª contra Perricard",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/dimitrov_paris_back-1024x576.jpg",
+        "date": "26/10/2025",
+        "description": "Paris (França) –O retorno de Grigor Dimitrov ao circuito é o destaque da rodada desta segunda-feira no Masters 1000 de Paris. O búlgaro entra em quadra às 15h (de Brasília) para enfrentar o francês Giovanni Perricard."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/austriaca-vence-o-wta-de-floripa-e-volta-ao-top-100-do-ranking.html",
+        "title": "Austríaca vence o WTA de Floripa e volta ao top 100 do ranking",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/grabher_floripa_trofeu-1024x700.jpg",
+        "date": "26/10/2025",
+        "description": "Florianópolis (SC) –A austríaca Julia Grabher conquistou o título do WTA 125 de Florianópolis. Ela superou na final deste domingo a francesa Carole Monnet por 3/6, 6/4 e 6/0 em 2h08 de partida."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/burruchaga-e-campeao-no-sauipe-e-alcanca-seu-melhor-ranking.html",
         "title": "Burruchaga é campeão no Sauípe e alcança seu melhor ranking",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/burruchaga-sauipe-back-2025-e1761515753579-1024x683.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/fonseca_basel_premiacao_full_cut.jpg",
         "date": "26/10/2025",
         "description": "Basileia (Suíça) –Campeão do ATP 500 da Basileia, João Fonseca comemorou o maior título da carreira e fez história para o tênis brasileiro ao vencer o torneio de maior expressão no circuito de simples da ATP desde 2001, quando Gustavo Kuerten conquistou Cincinnati. O carioca de 19 anos e número 1 do país também garante um salto no ranking, do 46º para o 28º lugar, tornando-se o sétimo brasileiro a figurar no top 30 na Era Aberta."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/stefani-as-quadras-de-toquio-tem-espaco-especial-no-coracao.html",
-        "title": "Stefani: “As quadras de Tóquio têm espaço especial no coração”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/stefani_babos_toquio_bjtrofeu-1024x634.jpg",
-        "date": "26/10/2025",
-        "description": "Tóquio (Japão) –A sequência de bons resultados na Ásia e aconquista do WTA 500 de Tóquiodão bastante confiança para Luísa Stefani e sua parceira, a húngara Timea Babos, para a reta final da temporada. Vindas de uma final em Ningbo no último domingo, Stefani e Babos tentam aproveitar o bom momento no WTA Finals, que começa no próximo sábado em Riad, na Arabia Saudita."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/granollers-e-zeballos-sao-campeoes-na-basileia-britanicos-conquistam-viena.html",
-        "title": "Granollers e Zeballos são campeões na Basileia, britânicos conquistam Viena",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/granollers_zeballos_basel_trofeu-1024x562.jpg",
-        "date": "26/10/2025",
-        "description": "Basileia (Suíça) –A forte parceria do espanhol Marcel Granollers com o a argentino Horacio Zeballos conquistou o título de duplas do ATP 500 da Basileia. Principais cabeças de chave, eles venceram na final deste domingo o tcheco Adam Pavlasek e o polonês Jan Zielinski por 6/2 e 7/5."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pigossi-joga-wta-125-na-colombia-candiotto-vence-no-quali.html",
-        "title": "Pigossi joga WTA 125 na Colômbia, Candiotto vence no quali",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/candiotto_fore_ecp.jpg",
-        "date": "26/10/2025",
-        "description": "Cali (Colômbia) –A temporada de torneios da série 125 da WTA na América do Sul continua para Laura Pigossi. A número 2 do Brasil e 204ª do mundo segue para Cali, na Colômbia."
     }
 ]
