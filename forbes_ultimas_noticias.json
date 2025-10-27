@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/trump-anuncia-isencao-tarifaria-para-o-vietna-e-pressiona-negociacao-com-o-brasil/",
+        "title": "Trump Anuncia Suspensão de Tarifa de 20% Sobre Café do Vietnã",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_graos_plana_REUTERS-Juan-Carlos-Ulate_27.10.2025-300x200.jpg",
+        "date": "27/10/2025",
+        "description": "A isenção pode acirrar a competição para o café brasileiro, que ainda enfrenta uma tarifa de 50% nos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/focus-projecao-para-alta-do-ipca-este-ano-se-aproxima-do-teto-da-meta/",
+        "title": "Focus: Projeção para alta do IPCA este ano se aproxima do teto da meta",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "27/10/2025",
+        "description": "Projeção para o PIB, no entanto, voltou a ser reduzida"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/plantio-de-soja-do-brasil-avanca-mas-ha-preocupacao-com-tempo-seco-diz-agrural/",
+        "title": "Plantio de Soja do Brasil Avança, Mas Tempo Seco Preocupa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Soja-sendo-carregada-em-caminhao-300x200.jpg",
+        "date": "27/10/2025",
+        "description": "Produtores brasileiros tinham semeado 36% da área projetada para a safra 2025/26 até a última quinta-feira"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/soja-atinge-maxima-de-4-meses-em-chicago-com-esperanca-de-acordo-comercial-entre-eua-e-china/",
+        "title": "Soja Atinge Máxima de 4 Meses em Chicago com Esperança de Acordo Comercial entre EUA e China",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_colheita_foto_REUTERS_Diego_Vara_14.10.2025-300x200.jpg",
+        "date": "27/10/2025",
+        "description": "Contrato mais ativo subia mais de 2%, para US$ 10,64 por bushel, pela manhã"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/10/luisa-stefani-vence-wta-500-de-toquio-e-leva-4o-titulo-na-temporada/",
+        "title": "Luisa Stefani Vence WTA 500 de Tóquio e Leva 4º Título na Temporada",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/luisa-stefani-tenis-300x200.jpg",
+        "date": "27/10/2025",
+        "description": "Com o título, paulista avança uma posição no ranking mundial, passando do 17º para o 16º lugar"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/arroz-combina-quer-recolocar-o-cereal-no-centro-do-prato-do-consumidor/",
         "title": "\"Arroz Combina\" Quer Recolocar o Cereal no Centro do Prato do Consumidor",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_Aroz_21out25_Getty_Julien-McRoberts-300x200.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/shadow-ai-300x200.png",
         "date": "27/10/2025",
         "description": "\"Shadow AI\" é o conceito que remete ao uso de ferramentas de IA sem a supervisão dos departamentos de TI das empresas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/forbes-travel-guide-melhores-companhias-aereas-e-aeroportos-do-mundo-2025/",
-        "title": "As Melhores Companhias Aéreas e Aeroportos do Mundo em 2025, Segundo a Forbes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Pelo-segundo-ano-consecutivo-o-Aeroporto-Changi-em-Cingapura-foi-nomeado-o-Melhor-Aeroporto-Internacional-pelo-Forbes-Travel-Guide-300x200.jpg",
-        "date": "27/10/2025",
-        "description": "Prêmio Verified Air Travel Awards celebra desde as melhores cabines até os principais lounges de aeroportos; Brasil não entra na lista"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/brandvoice-elo-mondepars-o-novo-luxo-nacional/",
-        "title": "O Novo Luxo Nacional",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/1-14-300x200.png",
-        "date": "27/10/2025",
-        "description": "Elo e Mondepars, marca criada por Sasha Meneghel, se unem para combinar moda e propósito – a redefinição do que é premium no país"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/publicitario-novo-ceo-da-visa-diz-como-mix-do-criativo-com-o-analitico-ajudou-na-carreira/",
-        "title": "Novo CEO da Visa Diz Como Mix Criativo e Analítico Ajudou na Carreira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/rodrigo-cury-300x200.jpg",
-        "date": "27/10/2025",
-        "description": "Com quase 30 anos de experiência em bancos como Citi, Santander e BTG, Rodrigo Cury assume com a missão de fortalecer o diálogo com o mercado e avançar em tecnologia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/quantos-dias-de-trabalho-sao-necessarios-para-comprar-o-iphone-17-pro-brasil-esta-entre-os-piores-do-ranking/",
-        "title": "Quantos Dias de Trabalho São Necessários para Comprar o iPhone 17 Pro? Brasil Está entre os Piores do Ranking",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/iPhone-17-Pro-e-Pro-Max-300x200.png",
-        "date": "27/10/2025",
-        "description": "O estudo, divulgado pela Tech Informer, mostra que Luxemburgo, Suíça e Estados Unidos são os países onde o smartphone da Apple é mais acessível"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/como-as-stablecoins-estao-redefinindo-o-mercado-de-criptomoedas/",
-        "title": "Como As Stablecoins Estão Redefinindo o Mercado de Criptomoedas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/money-stablecoins-pagamentos-getty-300x200.jpg",
-        "date": "27/10/2025",
-        "description": "De proteção cambial a transferências internacionais, o uso prático das stablecoins transforma o acesso ao dinheiro em países emergentes tais como o Brasil"
     }
 ]
