@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/departamento-dos-eua-forma-parceria-de-us1-bilhao-com-amd-para-supercomputadores-e-ia/",
+        "title": "Departamento dos EUA Forma Parceria de US$1 Bilhão com AMD para Supercomputadores e IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/10/tech-inteligencia-artificial-amd-300x200.jpg",
+        "date": "27/10/2025",
+        "description": "O secretário norte-americano afirmou que os supercomputadores também ajudarão na administração do arsenal de armas nucleares"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/bndes-libera-r-300-milhoes-para-a-neomille-turbinar-usina-de-etanol-de-milho-em-goias/",
+        "title": "BNDES Libera R$ 300 Milhões para a Neomille Turbinar Usina de Etanol de Milho em Goiás",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_graos_milho_foto_Reuters_03.10.2025-300x200.jpg",
+        "date": "27/10/2025",
+        "description": "Financiamento do banco de desenvolvimento viabiliza o aumento da capacidade da unidade em Chapadão do Céu (GO) para 527 mil metros cúbicos etanol por safra, além de coprodutos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/dados-de-183-milhoes-de-contas-do-gmail-vazam-na-web-confira-se-a-sua-foi-atingida/",
+        "title": "Dados de 183 Milhões de Contas do Gmail Vazam na Web; Confira se a Sua Foi Atingida",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/vazamento-de-dados-300x200.png",
+        "date": "27/10/2025",
+        "description": "A plataforma de verificação \"Have I Been Pwned\" pode checar se suas credenciais foram expostas neste megavazamento"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/quem-e-e-o-que-pensa-ingo-ploger-sobre-o-agro-o-novo-presidente-da-poderosa-abag/",
+        "title": "Quem É e o Que Pensa Ingo Plöger sobre o Agro, o Novo Presidente da Poderosa ABAG",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Ingo_Ploger_21out25_ABAG_Gerardo-Lazzari-300x200.jpg",
+        "date": "27/10/2025",
+        "description": "Na Associação Brasileira do Agronegócio, ele será a voz comunitária de gigantes do setor, entre exportadores, instituições financeiras e organizações,  como Basf, Bayer, Bosch, Cargill, JBS, John Deere, Mosaic, Santander, SLC e Tereos"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/10/mark-travers-os-7-pilares-de-um-casamento-solido-explicados-por-um-psicologo/",
         "title": "Os 7 Pilares de um Casamento Sólido",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-19-1-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/novartis-300x200.jpg",
         "date": "27/10/2025",
         "description": "Empresa procura reforçar seu portfólio de tratamentos para doenças musculares raras"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/trump-fatura-bilhoes-com-negocios-nos-emirados-arabes/",
-        "title": "A Nação do Golfo Que Está Alimentando a Máquina de Fazer Dinheiro de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-4-5-300x200.png",
-        "date": "27/10/2025",
-        "description": "Acordos imobiliários e cripto podem render à Trump Organization mais de R$ 2,68 bilhões em 2025, impulsionando o império global da família"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/vendas-dos-shoppings-da-jhsf-crescem-quase-11-no-3o-tri/",
-        "title": "Vendas dos Shoppings da JHSF Crescem Quase 11% no 3º Tri",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Life_A-primeira-fase-do-projeto-da-Usina-Sao-Paulo-que-teve-um-aporte-de-R-35-milhoes-marca-o-inicio-de-uma-transformacao-significativa-na-area-300x200.jpg",
-        "date": "27/10/2025",
-        "description": "No segmento Incorporação, as vendas brutas contratadas cresceram 5,8% ano a ano, para R$ 399,7 milhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/mbrf-anuncia-acordo-de-investimento-com-subsidiaria-de-fundo-saudita/",
-        "title": "MBRF Anuncia Acordo de Investimento com Subsidiária de Fundo Saudita",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Investimentos-robos-que-investem-300x200.jpg",
-        "date": "27/10/2025",
-        "description": "Nos termos do contrato de investimento, a BRF GmbH contribuirá para a BRF Arabia Holding com ativos de enterprise value de US$ 2,07 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/trump-anuncia-isencao-tarifaria-para-o-vietna-e-pressiona-negociacao-com-o-brasil/",
-        "title": "Trump Anuncia Suspensão de Tarifa de 20% Sobre Café do Vietnã",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_graos_plana_REUTERS-Juan-Carlos-Ulate_27.10.2025-300x200.jpg",
-        "date": "27/10/2025",
-        "description": "A isenção pode acirrar a competição para o café brasileiro, que ainda enfrenta uma tarifa de 50% nos EUA"
     }
 ]
