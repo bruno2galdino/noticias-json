@@ -1,7 +1,56 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/moncoes-tardias-afetam-colheitas-de-soja-e-algodao-da-india/",
+        "title": "Monções Tardias Afetam Colheitas de Soja e Algodão da Índia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_exportacao_navio-foto_REUTERS-Diego-Vara_28.10.2025-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Situação deve aumentar a dívida dos agricultores e limitar o consumo rural,"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/openai-agora-vale-us-500-bilhoes-apos-novo-acordo-com-microsoft/",
+        "title": "OpenAI Agora Vale US$ 500 Bilhões Após Novo Acordo com Microsoft",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/01/tech-microsoft-openia-23jan23-LucyNicholson-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Parceria redefine estrutura da criadora do ChatGPT e dá à Microsoft participação de 27%, ampliando liberdade comercial da OpenAI"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/10/dr-arthur-guerra-como-navegar-por-noticias-de-saude-mental-sem-ficar-louco/",
+        "title": "Como Navegar por Notícias de Saúde Mental sem Ficar Louco",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-1-5-300x200.png",
+        "date": "28/10/2025",
+        "description": "Aprenda a filtrar informações falsas e exageros nas redes para proteger seu bem-estar psicológico"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/ex-openai-funda-startup-de-credito-para-pmes-no-brasil/",
+        "title": "Ex-OpenAI Funda Startup de Crédito para PMEs no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Avra-300x200.png",
+        "date": "28/10/2025",
+        "description": "Conheça a trajetória de Bruno Alano e Viviane Meister, os cofundadores à frente da Avra"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/10/na-china-nova-lei-exige-que-influenciadores-tenham-diploma-para-abordar-temas-sensiveis/",
+        "title": "Na China, Influenciadores Precisam de Diploma para Abordar Temas Sensíveis",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/tech-estudo-influenciadores-03Mai23-GettyImages-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Criadores de conteúdo precisam comprovar qualificação profissional antes de fazer publicações sobre medicina, direito, finanças e educação; entenda"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/flexibilizacao-da-lei-antidesmatamento-da-ue-frustra-investimento-estrategico-no-agro-brasileiro/",
+        "title": "Rabobank Alerta Sobre Isenções da UE Eliminar Incentivo Para Produtores Brasileiros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_colheita_foto_REUTERS_28.10.2025-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Decepção recai para quem investiu em logística e segregação de cargas para prêmios de sustentabilidade"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/preco-do-acucar-bruto-atinge-o-nivel-mais-baixo-em-5-anos-em-ny/",
+        "title": "Preço do Açúcar Bruto Atinge o Nível Mais Baixo em 5 Anos em NY",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-27T193052Z_1_LYNXMPEL9Q0TL_RTROPTP_4_MACRO-IPP-JANEIRO-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Projeção da Datagro de superávit global de açúcar pressiona as cotações no mercado internacional"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/10/bilionario-bill-gates-pede-mudanca-na-estrategia-climatica-antes-da-cop30/",
-        "title": "O Bilionário Bill Gates Pede Mudança na Estratégia Climática Antes da COP30",
+        "title": "Bill Gates Pede Mudança na Estratégia Climática Antes da COP30",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-28T133441Z_1_LYNXMPEL9R0PG_RTROPTP_4_CLIMA-COP30-BILLGATES-ESTRATEGIA-300x200.jpg",
         "date": "28/10/2025",
         "description": "Belém sediará a COP30, onde nações atualizarão metas climáticas e revisarão avanços em energia renovável"
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Elon-Musk-XChat-300x200.png",
         "date": "28/10/2025",
         "description": "Bilionários também estão sujeitos às variações do mercado financeiro e podem ganhar ou perder bilhões em um mesmo dia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/iphone-impulsiona-apple-a-recorde-de-us-4-trilhoes/",
-        "title": "Com iPhone em Alta, Apple Vale US$ 4 Trilhões na Bolsa Pela Primeira Vez",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/iphone17-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Com modelos que conquistam consumidores em Pequim e Moscou, o iPhone segue como o motor do império criado por Steve Jobs e consolidado por Tim Cook"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/pg-anuncia-novas-vp-e-diretoras-no-brasil/",
-        "title": "P&G Anuncia Novas VP e Diretoras no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Diana-Salcedo-VP-de-RH-da-PG-Brasil-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Multinacional reforça liderança feminina com a promoção de quatro executivas nas áreas de RH, finanças, compras e beleza"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/soja-de-chicago-atinge-maxima-de-4-meses-com-rumores-de-acordo-eua-china/",
-        "title": "Soja de Chicago Dispara Para Máxima de 4 Meses",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_exportacao_navio-foto_REUTERS-Diego-Vara_28.10.2025-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Os contratos futuros em Chicago subiram 25,50 centavos (US$ 10,6725/bushel), atingindo o maior valor desde 20 de junho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/anec-reduz-projecoes-de-embarques-mas-exportacao-de-soja-bate-recorde-historico/",
-        "title": "Anec Reduz Projeções de Soja, Mas Exportação Anual Baterá Recorde",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_exportacao_navio-foto_Wirestock-GettyImages_28.10.2025-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "A Anec prevê um embarque de milho de 6,19 milhões de toneladas e de soja de 7 milhões de toneladas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/como-a-primeira-ministra-japonesa-pode-evitar-uma-crise-global/",
-        "title": "Como a Primeira-Ministra Japonesa Pode Evitar uma Crise Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Primeira-ministra-do-Japao-Sanae-Takaichi-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Sanae Takaichi assume o poder em meio à pior dívida pública entre economias desenvolvidas e pressões geopolíticas crescentes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/musk-enfrenta-a-wikipedia-com-a-grokipedia-gerada-por-ia-entenda/",
-        "title": "Musk Enfrenta a Wikipédia com a 'Grokipedia' Gerada por IA; Entenda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/MuskGrok-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Em uma publicação no X , Musk anunciou que a “versão 0.1” da Grokipedia já estava no ar e afirmou que “a versão 1.0 será 10 vezes melhor que a Wikipedia"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/amazon-cortara-cerca-de-14-mil-cargos-corporativos/",
-        "title": "Amazon Cortará Cerca de 14 Mil Cargos Corporativos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/money_amazon_logo-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Gigante da tecnologia diminui camadas operacionais para limitar custos em meio a investimentos crescentes em IA"
     }
 ]
