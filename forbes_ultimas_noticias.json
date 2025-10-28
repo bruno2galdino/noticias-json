@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-comeca-a-reuniao-do-federal-reserve/",
+        "title": "Pré-mercado: Começa a Reunião do Federal Reserve",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "28/10/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 28 de outubro"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/do-hibrido-a-tomada-o-passo-antes-do-carro-100-eletrico/",
+        "title": "Do Híbrido À Tomada: O Passo Antes Do Carro 100% Elétrico",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Creditos-Emerson-Lima-10-1-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Os híbridos plug-in surgiram como uma ponte entre os carros a combustão e os elétricos puros"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/10/openai-lanca-chatgpt-go-no-brasil-e-firma-parceria-inedita-com-o-nubank/",
         "title": "OpenAI Lança ChatGPT Go no Brasil e Firma Parceria Inédita com o Nubank",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/ChatgptGO-300x200.jpg",
@@ -35,13 +49,6 @@
         "description": "Perrier-Jouët torna-se a protagonista das celebrações de fim de ano no Brasil com seus rótulos icônicos"
     },
     {
-        "url": "https://forbes.com.br/forbes-mkt/2025/10/globant-centraliza-marketing-na-gut-e-dobra-o-tamanho-da-rede-criativa-global/",
-        "title": "Globant Centraliza Marketing na GUT e Dobra o Tamanho de Sua Rede Criativa Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Gaston-Bigio-e-Anselmo-Ramos-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "A integração cria a GUT Network, com hubs em 12 cidades e atuação em IA, dados e conteúdo, além de novos escritórios em Bogotá e Copenhague"
-    },
-    {
         "url": "https://forbes.com.br/forbeslife/2025/10/as-15-cidades-mais-seguras-do-mundo-para-os-turistas/",
         "title": "As 15 Cidades Mais Seguras do Mundo para os Turistas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Toquio-foi-nomeada-uma-das-cidades-mais-seguras-do-mundo-para-viajantes-em-um-novo-relatorio-300x200.jpg",
@@ -49,11 +56,11 @@
         "description": "Novo ranking da Berkshire Hathaway Travel Protection revela os destinos com melhor reputação em segurança, saúde e acolhimento"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/10/paulista-desembarca-na-bahia-para-colher-algodao-no-maior-projeto-de-irrigacao-da-america-latina/",
-        "title": "ACP Bioenergia e Germina Selam Parceria de R$ 1,1 Bi para Irrigação na Bahia",
+        "url": "https://forbes.com.br/forbesagro/2025/10/ppaulista-desembarca-no-oeste-baiano-para-implantar-projeto-de-r-11-bi-de-algodao-irrigado/",
+        "title": "Paulista Desembarca no Oeste Baiano para Implantar Projeto de R$ 1,1 Bi de Algodão Irrigado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_acp_bioenergia_27.10.2025-300x200.jpg",
         "date": "28/10/2025",
-        "description": "Com receita líquida de R$ 731 milhões em 2024, ACP entra no estado com planos de crescer até 10% em 5 anos"
+        "description": "Saiba quem é Alexandre Candido, CEO da ACP Bioenergia, produtor de grãos e cana em cinco Estados e que agora aposta na produção de fibras em larga escala"
     },
     {
         "url": "https://forbes.com.br/carreira/2025/10/tractian-startup-criada-por-under-30s-lanca-trainee-com-salario-acima-de-r-9-mil-e-bonus-ilimitado/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-tecnologia-capacitacao-talentos-300x200.jpg",
         "date": "28/10/2025",
         "description": "Reconhecida pela lista Forbes AI 50, a Tractian oferece viagens internacionais como benefício e a possibilidade de dobrar a remuneração durante o programa"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/nao-existe-atalho-para-o-sucesso-diz-ceo-da-jhsf/",
-        "title": "“Não Existe Atalho para o Sucesso”, diz CEO da JHSF",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Augusto-Martins-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Após 23 anos no Banco Alfa, Augusto Martins assumiu o desafio de liderar um dos maiores grupos do mercado de luxo do país"
     }
 ]
