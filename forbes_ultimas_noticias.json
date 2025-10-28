@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/10/pg-anuncia-novas-vp-e-diretoras-no-brasil/",
+        "title": "P&G Anuncia Novas VP e Diretoras no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Diana-Salcedo-VP-de-RH-da-PG-Brasil-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Multinacional reforça liderança feminina com a promoção de quatro executivas nas áreas de RH, finanças, compras e beleza"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/soja-de-chicago-atinge-maxima-de-4-meses-com-rumores-de-acordo-eua-china/",
+        "title": "Soja de Chicago Dispara Para Máxima de 4 Meses",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_exportacao_navio-foto_REUTERS-Diego-Vara_28.10.2025-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Os contratos futuros em Chicago subiram 25,50 centavos (US$ 10,6725/bushel), atingindo o maior valor desde 20 de junho"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/anec-reduz-projecoes-de-embarques-mas-exportacao-de-soja-bate-recorde-historico/",
+        "title": "Anec Reduz Projeções de Soja, Mas Exportação Anual Baterá Recorde",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_exportacao_navio-foto_Wirestock-GettyImages_28.10.2025-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "A Anec prevê um embarque de milho de 6,19 milhões de toneladas e de soja de 7 milhões de toneladas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/como-a-primeira-ministra-japonesa-pode-evitar-uma-crise-global/",
         "title": "Como a Primeira-Ministra Japonesa Pode Evitar uma Crise Global",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Primeira-ministra-do-Japao-Sanae-Takaichi-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "28/10/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 28 de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/do-hibrido-a-tomada-o-passo-antes-do-carro-100-eletrico/",
-        "title": "Do Híbrido À Tomada: O Passo Antes Do Carro 100% Elétrico",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Creditos-Emerson-Lima-10-1-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Os híbridos plug-in surgiram como uma ponte entre os carros a combustão e os elétricos puros"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/openai-lanca-chatgpt-go-no-brasil-e-firma-parceria-inedita-com-o-nubank/",
-        "title": "OpenAI Lança ChatGPT Go no Brasil e Firma Parceria Inédita com o Nubank",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/ChatgptGO-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Novo plano chega por R$ 39,99 ao mês e clientes da fintech poderão usar gratuitamente por até um ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/10/a-ilusao-da-injustica-o-que-faz-a-vida-parecer-contra-nos/",
-        "title": "A “Ilusão da Injustiça”: O Que Faz a Vida Parecer Contra Nós",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/960x0-1-2-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Mesmo em situações de pura sorte, nosso cérebro pode transformar o acaso em sensação de injustiça"
     }
 ]
