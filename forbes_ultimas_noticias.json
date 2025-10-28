@@ -1,10 +1,17 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/10/louis-vuitton-relanca-seu-1o-relogio-o-monterey-em-edicao-de-us-59-mil/",
+        "title": "Louis Vuitton Relança Seu 1º Relógio em Edição Limitada Por US$ 59 Mil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.O-relogio-Louis-Vuitton-Monterey-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Criado em 1988 por Gae Aulenti, o modelo retorna com movimento automático, design vintage e apenas 188 unidades no mundo"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/cultivo-de-ostras-em-cabaraquara-no-parana-conquista-selo-de-indicacao-geografica/",
         "title": "Cultivo de Ostras em Cabaraquara, no Paraná, Conquista Selo de Indicação Geográfica",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_ostras_28out25_-Claudia-Casal_Getty-300x200.jpg",
         "date": "28/10/2025",
-        "description": null
+        "description": "Cerca de 10 produtores que se dedicam à maricultura desde os anos 1980 atualmente entregam por ano 80 mil dúzias"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/10/moncoes-tardias-afetam-colheitas-de-soja-e-algodao-da-india/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-28T133441Z_1_LYNXMPEL9R0PG_RTROPTP_4_CLIMA-COP30-BILLGATES-ESTRATEGIA-300x200.jpg",
         "date": "28/10/2025",
         "description": "Belém sediará a COP30, onde nações atualizarão metas climáticas e revisarão avanços em energia renovável"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/vale-deve-retomar-posicao-de-maior-mineradora-de-ferro-neste-ano/",
-        "title": "Vale Deve Retomar Posição de Maior Mineradora de Ferro Neste Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-28T140408Z_2_LYNXMPEL9R0N6_RTROPTP_4_VALE-DISASTER-BRUCUTU-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Após o desastre de Brumadinho, a Vale teve de repensar sua operação para recuperar a liderança global na produção de minério de ferro"
     }
 ]
