@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/como-a-primeira-ministra-japonesa-pode-evitar-uma-crise-global/",
+        "title": "Como a Primeira-Ministra Japonesa Pode Evitar uma Crise Global",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Primeira-ministra-do-Japao-Sanae-Takaichi-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Sanae Takaichi assume o poder em meio à pior dívida pública entre economias desenvolvidas e pressões geopolíticas crescentes"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/musk-enfrenta-a-wikipedia-com-a-grokipedia-gerada-por-ia-entenda/",
+        "title": "Musk Enfrenta a Wikipédia com a 'Grokipedia' Gerada por IA; Entenda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/MuskGrok-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Em uma publicação no X , Musk anunciou que a “versão 0.1” da Grokipedia já estava no ar e afirmou que “a versão 1.0 será 10 vezes melhor que a Wikipedia"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/10/amazon-cortara-cerca-de-14-mil-cargos-corporativos/",
+        "title": "Amazon Cortará Cerca de 14 Mil Cargos Corporativos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/money_amazon_logo-300x200.jpg",
+        "date": "28/10/2025",
+        "description": "Gigante da tecnologia diminui camadas operacionais para limitar custos em meio a investimentos crescentes em IA"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/trump-critica-chair-do-fed-e-espera-substitui-lo-em-alguns-meses/",
         "title": "Trump Critica Chair do Fed e Espera Substituí-lo em Alguns Meses",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-tarifas-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/960x0-1-2-300x200.jpg",
         "date": "28/10/2025",
         "description": "Mesmo em situações de pura sorte, nosso cérebro pode transformar o acaso em sensação de injustiça"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/esporte-impulsiona-private-do-andbank-na-captacao-de-fortunas/",
-        "title": "O Que o Esporte e a Gestão de Fortuna Têm em Comum?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-17-300x200.jpg",
-        "date": "28/10/2025",
-        "description": "Banco tem estreitado sua relação com atletas de alta performance; para Rodolfo Pousa, CEO do Andbank, a conexão entre o esporte e a gestão de riqueza é direta"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/10/fernando-maluf-novos-caminhos-no-tratamento-de-tumores-desafiadores-destaques-do-congresso-europeu-de-oncologia/",
-        "title": "Novos Caminhos no Tratamento de Tumores Desafiadores: Destaques do Congresso Europeu de Oncologia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-20-300x200.png",
-        "date": "28/10/2025",
-        "description": "Avanços na oncologia apontam novos caminhos para tratar tumores agressivos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/brandvoice-perrier-jouet-a-arte-de-celebrar-o-fim-de-ano/",
-        "title": "A Arte de Celebrar o Fim de Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-4-4-300x200.png",
-        "date": "28/10/2025",
-        "description": "Perrier-Jouët torna-se a protagonista das celebrações de fim de ano no Brasil com seus rótulos icônicos"
     }
 ]
