@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-novos-recordes-com-expectativa-de-corte-de-juros-nos-eua/",
+        "title": "Pré-mercado: Novos Recordes com Expectativa de Corte de Juros nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "29/10/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 29 de outubro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/10/iphone-18-deve-chegar-com-12-gb-de-memoria-e-reforcar-a-aposta-da-apple-em-ia/",
         "title": "iPhone 18 Deve Chegar com 12 GB de Memória e Reforçar a Aposta da Apple em IA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/apple-17-300x200.png",
@@ -50,7 +57,7 @@
     },
     {
         "url": "https://forbes.com.br/listas/2025/10/forbes-agro100-as-10-maiores-empresas-da-lista-faturaram-r-1120-trilhao/",
-        "title": "Forbes Agro100: as 10 Maiores Empresas Faturaram R$ 1,120 Trilhão",
+        "title": "Forbes Agro100: 10 Maiores Empresas Faturaram R$ 1,120 Trilhão",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro100_forbes_135-300x200.jpg",
         "date": "29/10/2025",
         "description": "Saiba quais estão no topo da lista anual publicada pela Forbes Brasil para organizações do agro com resultados operacionais publicados"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-5-300x200.png",
         "date": "29/10/2025",
         "description": "Globo larga na frente e promete revolucionar a experiência do público e ampliar oportunidades para marcas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/10/depois-de-vencer-o-cancer-de-mama-ela-quer-democratizar-o-acesso-ao-tratamento/",
-        "title": "Depois de Vencer o Câncer de Mama, Ela Quer Democratizar o Acesso Ao Tratamento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Gabriella-Antici-300x200.jpg",
-        "date": "29/10/2025",
-        "description": "Gabriella Antici fundou o Instituto Protea em 2018 para ajudar no diagnóstico e tratamento precoce da doença responsável por 20 mil mortes anuais no país"
     }
 ]
