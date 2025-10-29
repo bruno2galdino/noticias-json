@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/como-a-nvidia-saiu-de-um-restaurante-americano-para-valer-us-5-trilhoes/",
+        "title": "Como a Nvidia Saiu de um Restaurante Americano para Valer US$ 5 Trilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tech_Nvidia_9JUl2025_Getty-300x200.jpg",
+        "date": "29/10/2025",
+        "description": "A empresa criou a GPU, tecnologia que revolucionou a computação  e tornou-se o motor do avanço da inteligência artificial moderna"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/trump-confirma-que-esta-impedido-de-disputar-novo-mandato/",
+        "title": "Trump Confirma Que Está Impedido de Disputar Novo Mandato",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/7-2-300x200.jpg",
+        "date": "29/10/2025",
+        "description": "Ao citar a 22ª Emenda, presidente reconhece que não poderá concorrer novamente, apesar de ter insinuado candidatura para 2028"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/fed-corta-juros-em-025-ponto-mas-bolsas-caem-apos-powell-nao-garantir-novo-recuo-em-dezembro/",
+        "title": "Fed Corta Juros em 0,25 Ponto Percentual, Mas Bolsas Caem após Powell Não Garantir Novo Recuo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/2025-08-02T002904Z_1_LYNXMPEL71009_RTROPTP_4_USA-ECONOMY-TRUMP-300x200.jpg",
+        "date": "29/10/2025",
+        "description": "“Outro corte em dezembro está longe de estar assegurado”, disse o presidente do Federal Reserve, que criticou indiretamente a paralisação do governo americano"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/por-que-os-fazendeiros-dos-eua-tem-tanto-em-jogo-na-reuniao-entre-trump-e-xi/",
+        "title": "Por Que os Fazendeiros dos EUA Têm Tanto em Jogo na Reunião entre Trump e Xi",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_eua_China_28out25_Dilok-Klaisataporn_Getty-1-300x200.jpg",
+        "date": "29/10/2025",
+        "description": "Encontro marcado para esta quinta-feira (30) pode redefinir o comércio global da soja e aliviar as perdas dos produtores americanos afetados pela guerra tarifária"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/10/milhoes-de-pessoas-nos-eua-devem-perder-ajuda-alimentar-devido-a-paralisacao-do-governo/",
         "title": "Milhões de Pessoas nos EUA Devem Perder Ajuda Alimentar Devido À Paralisação do Governo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_supermercado_inflacao_EUA_-11abr_2025_AFP_Getty-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-21-1-300x200.png",
         "date": "29/10/2025",
         "description": "Avanço foi puxado pelo aumento da demanda por medicamentos sazonais e reforça o bom momento da farmacêutica no varejo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/no-centro-do-boom-da-ia-nvidia-se-torna-a-primeira-empresa-do-mundo-a-valer-us-5-trilhoes/",
-        "title": "Nvidia se Torna a Primeira Empresa do Mundo a Valer US$ 5 Trilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-tech-nvidia-300x200.jpg",
-        "date": "29/10/2025",
-        "description": "Nvidia aproveita o embalo das ações de tecnologia, com altas significativas nos últimos dias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/elon-musk-volta-a-ultrapassar-a-casa-dos-us-500-bilhoes-e-se-isola-como-mais-rico-do-mundo/",
-        "title": "Elon Musk Volta a Ultrapassar a Casa dos US$ 500 Bilhões e se Isola Como Mais Rico do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Elon-Musk-os-dez-mais-ricos-bilionarios-Money-300x200.png",
-        "date": "29/10/2025",
-        "description": "Avanços no campo político levam Elon Musk a galgar mais alguns degraus em direção ao primeiro trilhão"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/10/camara-dos-deputados-aprova-licenca-menstrual-de-ate-2-dias/",
-        "title": "Câmara dos Deputados Aprova Licença Menstrual de até 2 Dias",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/mulher-colica-licenca-menstrual-300x200.jpg",
-        "date": "29/10/2025",
-        "description": "Licença valerá para as profissionais com carteira assinada, empregadas domésticas e estagiárias"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/china-compra-soja-dos-eua-antes-de-cupula-trump-xi/",
-        "title": "China Compra Soja dos EUA Antes de Cúpula Trump-Xi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_colheita_soja_Foto_Reuters_29.10.2025-300x200.jpg",
-        "date": "29/10/2025",
-        "description": "A estatal chinesa Cofco realizou a primeira compra de soja da safra americana deste ano"
     }
 ]
