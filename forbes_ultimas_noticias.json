@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/elon-musk-volta-a-ultrapassar-a-casa-dos-us-500-bilhoes-e-se-isola-como-mais-rico-do-mundo/",
+        "title": "Elon Musk Volta a Ultrapassar a Casa dos US$ 500 Bilhões e se Isola Como Mais Rico do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Elon-Musk-os-dez-mais-ricos-bilionarios-Money-300x200.png",
+        "date": "29/10/2025",
+        "description": "Avanços no campo político levam Elon Musk a galgar mais alguns degraus em direção ao primeiro trilhão"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/10/camara-dos-deputados-aprova-licenca-menstrual-de-ate-2-dias/",
+        "title": "Câmara dos Deputados Aprova Licença Menstrual de até 2 Dias",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/mulher-colica-licenca-menstrual-300x200.jpg",
+        "date": "29/10/2025",
+        "description": "Licença valerá para as profissionais com carteira assinada, empregadas domésticas e estagiárias"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/china-compra-soja-dos-eua-antes-de-cupula-trump-xi/",
+        "title": "China Compra Soja dos EUA Antes de Cúpula Trump-Xi",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_colheita_soja_Foto_Reuters_29.10.2025-300x200.jpg",
+        "date": "29/10/2025",
+        "description": "A estatal chinesa Cofco realizou a primeira compra de soja da safra americana deste ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/rabobank-eleva-previsao-da-soja-brasileira-para-177-milhoes-de-toneladas/",
+        "title": "Rabobank Eleva Projeção da Sopa Brasileira para 177 Milhões de Toneladas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_tempo_ruim_Lucas_Ninno-GettyImages_29.10.2025-300x200.jpg",
+        "date": "29/10/2025",
+        "description": "O novo volume é sustentado por uma área plantada de 48,8 milhões de hectares"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/wall-st-abre-em-niveis-quase-recordes-apos-nvidia-atingir-us-5-trilhoes-e-antes-de-fed/",
         "title": "Wall St Abre em Níveis Quase Recordes após Nvidia Atingir US$ 5 Trilhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Operadores-na-bolsa-de-Nova-York--300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2001_lamborghini_diablo-vt-6.0_3DSC_1669-2001-Lamborghini-Diablo-Green-Webres-08907-scaled-1-300x200.png",
         "date": "29/10/2025",
         "description": "O esportivo VT 6.0 de 2001 é descrito como o único pintado em Verde Hydra e está em leilão por US$ 530.000 na plataforma Big a Trailer"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/10/tenuta-roletto-tradicao-e-inovacao-nas-borbulhas-de-excelencia-do-vinho-italiano/",
-        "title": "Tenuta Roletto: Tradição e Inovação nas Borbulhas de Excelência do Vinho Italiano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_tonel_vinho_28out25_-Forbes_Italia-300x200.jpg",
-        "date": "29/10/2025",
-        "description": "Vinícola tem no Erbaluce o coração de sua oferta. “Um varietal que está vivendo um renascimento”, diz o proprietário, Antonino Mamao"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-novos-recordes-com-expectativa-de-corte-de-juros-nos-eua/",
-        "title": "Pré-mercado: Novos Recordes com Expectativa de Corte de Juros nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "29/10/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 29 de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/iphone-18-deve-chegar-com-12-gb-de-memoria-e-reforcar-a-aposta-da-apple-em-ia/",
-        "title": "iPhone 18 Deve Chegar com 12 GB de Memória e Reforçar a Aposta da Apple em IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/iphone17promax-300x200.jpg",
-        "date": "29/10/2025",
-        "description": "Novo rumor indica que o modelo base do próximo iPhone seguirá os passos do 17 Pro e ganhará o mesmo poder de memória, abrindo caminho para recursos avançados de IA local no ecossistema da Apple."
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/buraco-de-r-3-bi-95-da-area-plantada-no-brasil-pode-terminar-2025-sem-seguro-rural/",
-        "title": "Buraco de R$ 3 Bi: 95% da Área Plantada no Brasil Pode Terminar 2025 sem Seguro Rural",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_produtor_milho_devastado_Marccophoto-GettyImages_29.10.2025-300x200.jpg",
-        "date": "29/10/2025",
-        "description": "Estudo inédito da Confederação Nacional das Seguradoras mostra que o país pode encerrar o ano com o mesmo patamar de uma década atrás"
     }
 ]
