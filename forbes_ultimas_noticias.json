@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/10/milhoes-de-pessoas-nos-eua-devem-perder-ajuda-alimentar-devido-a-paralisacao-do-governo/",
+        "title": "Milhões de Pessoas nos EUA Devem Perder Ajuda Alimentar Devido À Paralisação do Governo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_supermercado_inflacao_EUA_-11abr_2025_AFP_Getty-300x200.jpg",
+        "date": "29/10/2025",
+        "description": "O custo e o alcance do apoio alimentar nos EUA são debatidos regularmente no Congresso, especialmente durante a renegociação do projeto de lei de gastos agrícolas que financia o Programa de Assistência Nutricional Suplementar"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/com-ibovespa-proximo-dos-150-mil-j-p-morgan-ve-a-bolsa-brasileira-passando-dos-155-mil-pontos/",
+        "title": "Com Ibovespa Próximo dos 150 Mil, J.P Morgan Vê a Bolsa Brasileira Passando dos 155 Mil Pontos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/bolsa_271221_Money_GettyImages-e1703875746812-300x200.jpeg",
+        "date": "29/10/2025",
+        "description": "O banco americano se mantém otimista com o desempenho da bolsa brasileira em 2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/rabobank-ve-possivel-aumento-na-safra-de-cafe-do-brasil-em-2026-e-alivio-na-oferta-global/",
+        "title": "Rabobank Vê Possível Aumento na Safra de Café do Brasil em 2026 e Alívio na Oferta Global",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/agro_cafe_04ago25_Reuters_Khaled-Abdullah-300x200.jpg",
+        "date": "29/10/2025",
+        "description": "Também colaboram para este alívio esperado no mercado global em 2025/26 safras melhores em países como Colômbia e Indonésia"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/montadoras-globais-buscam-chips-a-medida-que-crise-de-abastecimento-se-agrava/",
+        "title": "Montadoras Globais Buscam Chips À Medida Que Crise de Abastecimento se Agrava",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/nexperia-300x200.png",
+        "date": "29/10/2025",
+        "description": "A Nissan e a Mercedes-Benz estão entre as montadoras que tentam lidar com uma situação de fornecimento incerta"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/10/tiffany-oportunidade-do-bem-lancam-joia-em-parceria-inedita/",
         "title": "Tiffany + Oportunidade do Bem Lançam Joia em Parceria Inédita",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Tiffany-e-ONG-Oportunidade-do-Bem-lancam-parceria-inedita-com-renda-destinada-a-filantropia-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_colheita_soja_Foto_Reuters_29.10.2025-300x200.jpg",
         "date": "29/10/2025",
         "description": "A estatal chinesa Cofco realizou a primeira compra de soja da safra americana deste ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/rabobank-eleva-previsao-da-soja-brasileira-para-177-milhoes-de-toneladas/",
-        "title": "Rabobank Eleva Projeção da Sopa Brasileira para 177 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_tempo_ruim_Lucas_Ninno-GettyImages_29.10.2025-300x200.jpg",
-        "date": "29/10/2025",
-        "description": "O novo volume é sustentado por uma área plantada de 48,8 milhões de hectares"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/wall-st-abre-em-niveis-quase-recordes-apos-nvidia-atingir-us-5-trilhoes-e-antes-de-fed/",
-        "title": "Wall St Abre em Níveis Quase Recordes após Nvidia Atingir US$ 5 Trilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Operadores-na-bolsa-de-Nova-York--300x200.jpg",
-        "date": "29/10/2025",
-        "description": "Investidores aguardam a decisão de juros do Federal Reserve e uma série de balanços de grandes empresas de tecnologia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/uganda-maior-exportador-de-cafe-da-africa-aumenta-embarques-do-grao-para-o-mundo/",
-        "title": "Uganda Aumenta Embarques de Café para o Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_plantacao_JoaoBentodaSilva-Gettyimages_24.10.2025-300x200.jpg",
-        "date": "29/10/2025",
-        "description": "País obteve US$ 2,2 bilhões com as exportações de café nos 12 meses até setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/china-compra-cargas-de-soja-dos-eua-antes-da-reuniao-trump-xi-dizem-fontes/",
-        "title": "China Compra Cargas de Soja dos EUA Antes da Reunião Trump-Xi, Dizem Fontes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_soja_colheita_foto_REUTERS_Diego_Vara_14.10.2025-300x200.jpg",
-        "date": "29/10/2025",
-        "description": "Enquanto as duas nações lutam contra as tarifas comerciais, a falta de compras chinesas tem custado aos agricultores americanos bilhões de dólares em vendas perdidas"
     }
 ]
