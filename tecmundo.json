@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/408145-pesquisador-legitimo-de-ia-ainda-sera-lancado-pela-openai.htm",
+        "title": "Pesquisador 'legítimo' de IA ainda será lançado pela OpenAI",
+        "description": "A ferramenta terá capacidades avançadas para atuar em projetos de pesquisa maiores, sem depender da supervisão humana, de acordo com a dona do ChatGPT.",
+        "image": "https://tm.ibxk.com.br/2025/10/29/pesquisador_legitimo_de_ia_openai_a83c4cadf2.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/408156-wi-fi-6-ou-wi-fi-7-descubra-qual-roteador-acer-predator-e-ideal-para-o-seu-estilo-de-conexao.htm",
+        "title": "Wi-Fi 6 ou Wi-Fi 7? Descubra qual roteador Acer Predator é ideal para o seu estilo de conexão",
+        "description": "De criadores a gamers, a Acer oferece performance, estabilidade e velocidade sob medida com os roteadores Predator Connect W6x e T7.",
+        "image": "https://tm.ibxk.com.br/2025/10/29/Getty_Images_2153478836_6db85f52c6.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502693-xbox-fica-instavel-e-derruba-game-pass-e-jogos-como-minecraft-nesta-quarta-29.htm",
+        "title": "Xbox fica instável e derruba Game Pass e jogos como Minecraft nesta quarta (29)",
+        "description": "A rede do Xbox caiu no dia de lançamento de The Outer Worlds 2, grande RPG que chega direto no Game Pass. Confira mais detalhes do problema e entenda a causa.",
+        "image": "https://tm.ibxk.com.br/2025/10/29/xbox_queda_54d7b828c4.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/408153-policia-federal-encontra-suspeito-de-praticar-sextorsao-e-abuso-sexual-infantil.htm",
+        "title": "Polícia Federal encontra suspeito de praticar 'sextorsão' e abuso sexual infantil",
+        "description": "Durante a operação em Cabo Frio (RJ), o celular do investigado foi apreendido e passará por perícia técnica criminal.",
+        "image": "https://tm.ibxk.com.br/2025/10/29/operacao_policia_federal_sextorsao_3df38c5d69.jpeg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/internet/408157-azure-caiu-servicos-da-microsoft-registram-instabilidade-nesta-quarta-29.htm",
         "title": "Azure caiu? Serviços da Microsoft registram instabilidade nesta quarta (29)",
         "description": "Microsoft 365, Outlook, Microsoft Store e outros registraram instabilidade segundo os usuários.",
@@ -32,27 +60,6 @@
         "title": "Nubank passa Petrobras e se torna empresa mais valiosa do Brasil",
         "description": "O Nubank superou o valor de mercado da Petrobras e agora é empresa mais valiosa do Brasil, e a segunda na América Latina.",
         "image": "https://tm.ibxk.com.br/2025/07/23/23170751579051.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602379-especial-batman-livros-e-hqs-do-heroi-em-oferta-e-com-cupom-no-magazine-luiza.htm",
-        "title": "Especial Batman: livros e HQs do herói em oferta e com cupom no Magazine Luiza",
-        "description": "Por tempo limitado, você encontra diversas histórias em quadrinhos, volumes especiais e graphic novels do Batman com desconto e cupom especial da Panini no Magalu; confira as oportunidades",
-        "image": "https://tm.ibxk.com.br/2025/10/29/Batman_A_Serie_Animada_Vol_01_960x640_ffa49e94e9.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/408150-amazon-lanca-echo-dot-max-no-brasil-com-som-premium-por-r-849.htm",
-        "title": "Amazon lança Echo Dot Max no Brasil com som premium por R$ 849",
-        "description": "Novo dispositivo já está preparado para a chegada da IA generativa Alexa+.",
-        "image": "https://tm.ibxk.com.br/2025/10/29/amazon_echo_dot_max_2_0a72752fb4.png",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/408146-fim-do-suporte-do-windows-10-impulsiona-vendas-de-pcs-lenovo-e-apple-aponta-pesquisa.htm",
-        "title": "Fim do suporte do Windows 10 impulsiona vendas de PCs Lenovo e Apple, aponta pesquisa",
-        "description": "O volume de vendas de PCs cresceu 8,1% internacionalmente na comparação ano a ano, liderado pela Lenovo e Apple, segundo pesquisa da Counterpoint",
-        "image": "https://tm.ibxk.com.br/2025/09/25/25114953952088.jpg",
         "date": null
     }
 ]
