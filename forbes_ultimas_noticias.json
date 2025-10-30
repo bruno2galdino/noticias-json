@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/10/com-a-microsoft-no-comando-github-entra-em-sua-fase-mais-ambiciosa/",
+        "title": "Com a Microsoft no Comando, GitHub Entra em Sua Fase Mais Ambiciosa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/GitHub_25-330-1-300x200.jpg",
+        "date": "30/10/2025",
+        "description": "Em entrevista à Forbes Brasil, Kyle Daigle, COO da GitHub, destacou a expansão da plataforma e sua nova fase mais integrada à Microsoft na era da inteligência artificial generativa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/bce-espera-lancar-piloto-de-euro-digital-em-2027/",
+        "title": "BCE Espera Lançar Piloto de Euro Digital em 2027",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/euro-bitcoin-300x200.jpg",
+        "date": "30/10/2025",
+        "description": "Banco apresentou a moeda digital como uma alternativa estratégica aos meios de pagamento privados"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/faturamento-do-e-commerce-na-black-friday-deve-crescer-17-neste-ano-diz-neotrust/",
+        "title": "Faturamento do E-Commerce na Black Friday Deve Crescer 17% Neste Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/BlackFriday_ForbesMoney-300x200.jpg",
+        "date": "30/10/2025",
+        "description": "Categorias de saúde, esporte & lazer, automotivo e beleza & perfumaria devem apresentar os maiores crescimentos"
+    },
+    {
         "url": "https://forbes.com.br/coluna/2025/10/juros-do-fed-e-a-bolsa-brasileira-como-investir-com-metas-claras-em-um-mundo-conectado/",
         "title": "Juros do Fed e a Bolsa Brasileira: Como Investir com Metas Claras em um Mundo Conectado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-3-5-1-300x200.png",
@@ -46,27 +67,6 @@
         "title": "“Intuição É Dado Interno”, Diz Brasileira Executiva Global do Google",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/mulher-suzana-apelbaum-google-300x200.jpg",
         "date": "30/10/2025",
-        "description": "Suzana Apelbaum conta como construiu uma carreira internacional que combina publicidade e tecnologia e reflete sobre os desafios de ser uma executiva imigrante"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/10/mark-travers-2-bons-habitos-que-podem-estar-prejudicando-seu-relacionamento/",
-        "title": "2 “Bons Hábitos” Que Podem Estar Prejudicando Seu Relacionamento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/960x0-2-3-300x200.jpg",
-        "date": "30/10/2025",
-        "description": "Práticas que parecem fortalecer a relação podem, na verdade, refletir mais suas próprias necessidades do que o bem do casal"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/brandvoice-totvs-o-futuro-da-industria-e-agora/",
-        "title": "O Futuro da Indústria É Agora",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-22-300x200.png",
-        "date": "30/10/2025",
-        "description": "Com TOTVS, Lorenzetti moderniza fábricas e processos, além de elevar a produtividade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/exclusivo-chefao-da-microsoft-explica-por-que-lideres-nao-devem-se-perder-na-bolha-da-ia/",
-        "title": "VP da Microsoft Explica por Que Líderes Não Devem se Perder na Bolha da IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/JayMicrosoft-300x200.jpg",
-        "date": "30/10/2025",
-        "description": "Ex-Meta, Jay Parikh é responsável pela estratégia de integração da companhia e falou com a Forbes Brasil sobre o atual impacto da inteligência artificial generativa"
+        "description": "Suzana Apelbaum conta como construiu uma carreira internacional que combina publicidade e tecnologia, e reflete sobre os desafios de ser uma executiva imigrante"
     }
 ]
