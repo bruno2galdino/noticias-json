@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/coluna/2025/10/juros-do-fed-e-a-bolsa-brasileira-como-investir-com-metas-claras-em-um-mundo-conectado/",
+        "title": "Juros do Fed e a Bolsa Brasileira: Como Investir com Metas Claras em um Mundo Conectado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-3-5-1-300x200.png",
+        "date": "30/10/2025",
+        "description": "A interdependência global faz o pulso de Washington reverberar na B3. Saiba ler o cenário além do ruído e por que manter sua estratégia é vital"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/guerra-comercial-trump-reduz-tarifas-sobre-produtos-chineses-em-acordo-com-xi-jinping/",
+        "title": "Guerra Comercial: Trump Reduz Tarifas sobre Produtos Chineses em Acordo com Xi Jinping",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/money-economia-china-eua-300x200.jpg",
+        "date": "30/10/2025",
+        "description": "Trump disse que as tarifas sobre as importações chinesas serão reduzidas de 57% para 47%"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-decisao-do-fed-e-acordos-comerciais-pautam-o-dia/",
+        "title": "Pré-mercado: Decisão do FED e Acordos Comerciais Pautam o Dia",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "30/10/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 30 de outubro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/investimento-de-quase-r1-bi-da-ford-torna-fabrica-argentina-ainda-mais-estrategica-para-o-brasil/",
         "title": "Investimento de Quase R$1 Bi da Ford Torna Fábrica Argentina Ainda Mais Estratégica para o Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Ford-Ranger-Hibrida-Plug-in_1-1-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/JayMicrosoft-300x200.jpg",
         "date": "30/10/2025",
         "description": "Ex-Meta, Jay Parikh é responsável pela estratégia de integração da companhia e falou com a Forbes Brasil sobre o atual impacto da inteligência artificial generativa"
-    },
-    {
-        "url": "https://forbes.com.br/listas/2025/10/lista-forbes-agro100-quem-sao-as-gigantes-por-setor-da-economia/",
-        "title": "Lista Forbes Agro100: Quem São as Gigantes por Setor da Economia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro100_forbes_135-768x512-1-300x200.jpg",
-        "date": "30/10/2025",
-        "description": "Confira as sete empresas líderes de cada um dos setores; juntas, elas faturaram R$ 705,4 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/brandvoice-santa-lolla-moda-que-caminha-com-alma/",
-        "title": "Moda Que Caminha com Alma",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/1-16-300x200.png",
-        "date": "30/10/2025",
-        "description": "Com 21 anos de trajetória, Santa Lolla consolida estilo ousado, inovação constante e expansão global"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/diario-de-lifestyle-os-favoritos-de-alvaro-garnero/",
-        "title": "Diário de Lifestyle: Os Favoritos de Alvaro Garnero",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Alvaro-Garnero-300x200.jpg",
-        "date": "30/10/2025",
-        "description": "Apresentador e empresário detalha destinos, experiências gastronômicas e hábitos que definem seu estilo de vida"
     }
 ]
