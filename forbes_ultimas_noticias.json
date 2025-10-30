@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-renova-maxima-mas-perde-ritmo-e-fecha-em-leve-alta/",
+        "title": "Ibovespa Fecha em Leve Alta, após Renovar Máxima Histórica",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "30/10/2025",
+        "description": "Dólar sobe ainda sob influência de decisão do Fed"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/10/rei-charles-destitui-o-irmao-andrew-de-seus-titulos-e-de-sua-casa/",
+        "title": "Rei Charles Destitui o Irmão, Andrew, de Seus Títulos e de Sua Casa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Principe-Andrew-em-evento-de-Natal-na-Inglaterra-300x200.jpg",
+        "date": "30/10/2025",
+        "description": "Palácio de Buckingham confirma que o duque deixará a Royal Lodge e perderá o título de “príncipe” após decisão formal do monarca"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/10/principe-william-vence-processo-contra-revista-paris-match-por-fotos-durante-ferias/",
         "title": "Príncipe William Vence Processo contra Revista Paris Match por Fotos Durante Férias",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Principe-William-e-a-esposa-Kate-visitam-Windsor-Foodshare-em-Windsor-26-de-janeiro-de-2023-300x200.jpg",
@@ -8,7 +22,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/10/mark-zuckerberg-perde-us-25-bilhoes-em-um-dia-e-cai-na-lista-de-mais-ricos-do-mundo/",
-        "title": "Zuckerberg Perde US$ 25 Bilhões e Cai na Lista de Mais Ricos do Mundo",
+        "title": "Mark Zuckerberg Perde US$ 29 Bilhões em um Dia e Cai na Lista de Mais Ricos do Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-25-300x200.jpg",
         "date": "30/10/2025",
         "description": "O movimento aconteceu após a queda brusca das ações da Meta nesta quinta-feira (30)"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-30T154724Z_1_LYNXMPEL9T0YJ_RTROPTP_4_GRANOS-SOJA-300x200.jpg",
         "date": "30/10/2025",
         "description": "Produtividade da safra deve se manter acima do esperado, diz agrônomo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/unica-ve-alta-de-125-na-producao-acucar-do-centro-sul-na-1a-quinzena-e-maior-recuo-no-mix/",
-        "title": "Unica Vê Alta de 1,25% na Produção Açúcar do Centro-Sul na 1ª Quinzena e Maior Recuo no \"Mix\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-30T154831Z_1_LYNXMPEL9T0YK_RTROPTP_4_BRAZIL-SUGAR-FUTURES-300x200.jpg",
-        "date": "30/10/2025",
-        "description": "Com melhora nos preços do etanol, usinas reduzem a fatia de cana destinada ao açúcar"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/governo-central-tem-maior-deficit-fiscal-para-setembro-desde-2020-com-aumento-de-gastos/",
-        "title": "Governo Central Tem Maior Déficit Fiscal para Setembro desde 2020 com Aumento de Gastos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-30T133457Z_2_LYNXMPEL9T0S3_RTROPTP_4_BRAZIL-300x200.jpg",
-        "date": "30/10/2025",
-        "description": "Alta nas despesas foi puxada por gastos discricionários, sobretudo do Ministério da Saúde"
     }
 ]
