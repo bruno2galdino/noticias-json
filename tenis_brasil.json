@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-30-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/01/heide_pira_back.jpg",
+        "date": "30/10/2025",
+        "description": "WTA 125 de Cali (Colômbia) – Saibro – US$ 115 milDuplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/vekic-faz-quartas-em-chennai-e-garante-melhor-campanha-do-ano.html",
+        "title": "Vekic faz quartas em Chennai e garante melhor campanha do ano",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Vekic-chennai_vibra.jpg",
+        "date": "30/10/2025",
+        "description": "Chennai (Índia) –Em uma temporada muito abaixo de suas expectativas, Donna Vekic conseguiu seu melhor resultado do ano ao chegar às quartas de final do WTA 250 de Chennai. Terceira cabeça de chave, a croata confirmou o favoritismo contra a convidada Sahaja Yamalapalli, 344ª do ranking, e marcou um duplo 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/shelton-e-de-minaur-vencem-e-se-garantem-no-atp-finals.html",
+        "title": "Shelton e De Minaur vencem e se garantem no ATP Finals",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/shelton-paris-vibra-2025-e1761844955561-1024x684.jpg",
+        "date": "30/10/2025",
+        "description": "Paris (França)– A quinta-feira foi de definição de mais duas vagas para o ATP Finals. Um dia apósa classificação do norte-americano Taylor Fritz, foi a vez do compatriota Ben Shelton e do australiano Alex de Minaur se juntarem a ele. Agora, resta apenas um lugar em aberto, que atualmente pertence ao italiano Lorenzo Musetti, já eliminado do Masters 1000 de Paris."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/fonseca-desiste-de-atenas-e-nao-joga-mais-nesta-temporada.html",
         "title": "Fonseca desiste de Atenas e não joga mais nesta temporada",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/foneca-paris-prepara-2025-scaled-e1761684532577-1024x682.jpeg",
@@ -12,13 +33,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/bencic-hongkong-parada-2025-e1761838619554-1024x683.jpg",
         "date": "30/10/2025",
         "description": "Hong Kong (China)– A suíça Belinda Bencic manteve o embalo nesta quinta-feira e venceu mais uma para se garantir nas quartas de final no WTA 250 de Hong Kong. Ela não teve grande trabalho para derrotar a chinesa Yafan Wang, gastando 71 minutos para anotar duplo 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-30-10.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quinta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/01/heide_pira_back.jpg",
-        "date": "30/10/2025",
-        "description": "WTA 125 de Cali (Colômbia) – Saibro – US$ 115 milDuplas – Quartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/cabeca-de-chave-3-parks-salva-o-dia-das-favoritas-em-jiujiang.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Artes-fotos-multiplas-900x600-7.jpg",
         "date": "30/10/2025",
         "description": "Paris (França)– O confronto entre Alexander Bublik e Corentin Moutet não terminou dentro de quadra, com a vitória em sets diretos do cazaque, pela segunda rodada do Masters 1000 de Paris. Depois da partida, o clima seguiu quente entre os dois, com trocas de farpas de ambos os lados."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/atp-quer-conciliar-circuitos-do-oriente-medio-e-da-america-do-sul.html",
-        "title": "ATP quer conciliar circuitos do Oriente Médio e da América do Sul",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/12/andrea-gaudenzi-profile-photo-1024x576.jpg",
-        "date": "30/10/2025",
-        "description": "Paris (França)– Desde que a ATP anunciou uma parceria com a SURJ Sports Investment, empresa vinculada ao Fundo de Investimento Público (PIF) da Arábia Saudita,para a criação de um novo Masters 1000 a partir de 2028, muitas dúvidas seguem no ar. A data exata no calendário, assim como a cidade-sede e o local do evento, ainda não foram anunciados"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-sao-pequenos-detalhes-que-nesse-nivel-nao-posso-errar.html",
-        "title": "Fonseca: “São pequenos detalhes, que nesse nível não posso errar”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/fonseca_paris_2r_cut-1024x585.jpg",
-        "date": "29/10/2025",
-        "description": "Paris (França) –Após a derrota na segunda rodada do Masters 1000 de Paris, João Fonseca avaliou seu desempenho na partida desta quarta-feira contra o russo Karen Khachanov.Superado em três sets pelo atual 14º do rankinge campeão do torneio em 2018, o carioca de 19 anos e número 1 do Brasil entende que conseguiu equilibrar as ações a partir da segunda parcial e que o último set foi definido por detalhes."
     }
 ]

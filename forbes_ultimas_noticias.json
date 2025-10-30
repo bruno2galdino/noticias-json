@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/10/francesca-monfrinatti-faz-o-primeiro-desfile-de-sua-marca-no-mercado-livre-arena-pacaembu/",
+        "title": "Francesca Monfrinatti Faz o Primeiro Desfile de Sua Marca na Mercado Livre Arena Pacaembu",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/x-2-300x200.jpg",
+        "date": "30/10/2025",
+        "description": "Em uma passarela transformada em canteiro de obras simbólico, a estilista apresentou uma coleção sobre o ato de construir — conceito que guia a FRANCESCA desde sua origem"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/tarifa-de-trump-ao-cafe-brasileiro-estrangula-suprimento-e-pressiona-estoques-a-minima/",
+        "title": "Tarifa de 50% de Trump ao Café Brasileiro Pressiona Estoques à Mínima nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_colheita_soja_eua_Foto_Reuters_30.10.2025-1-300x200.jpg",
+        "date": "30/10/2025",
+        "description": "A taxa causou estragos, com importadores pagando multas de até US$ 25 por saca para cancelar entregas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/encontro-trump-xi-por-que-especialistas-dizem-que-a-china-saiu-em-vantagem/",
+        "title": "Encontro Trump-Xi: Por Que Especialistas Dizem Que a China Saiu em Vantagem",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-24-300x200.jpg",
+        "date": "30/10/2025",
+        "description": "Especialistas internacionais avaliam que as tarifas de Trump levaram a China a usar seu monopólio de terras raras como trunfo, forçando o lado americano a fazer concessões concretas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/china-promete-expandir-comercio-agricola-mas-falta-de-detalhes-faz-soja-recuar-na-cbot/",
+        "title": "Encontro Trump-Xi: China Deixa Detalhes de Compras de Soja em Aberto",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_colheita_soja_eua_Foto_Reuters_30.10.2025-300x200.jpg",
+        "date": "30/10/2025",
+        "description": "A falta de informações sobre a redução das tarifas de 23% sobre a soja americana levou a um recuo de 1,28%"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/10/brandvoice-mastercard-world-legend/",
         "title": "A Arte do Negócio de Transformar Experiências Exclusivas em Memórias Únicas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/BV_Mastercard-World-Legend-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/GitHub_25-330-1-300x200.jpg",
         "date": "30/10/2025",
         "description": "Em entrevista à Forbes Brasil, Kyle Daigle, COO da GitHub, destacou a expansão da plataforma e sua nova fase mais integrada à Microsoft na era da inteligência artificial generativa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/bce-espera-lancar-piloto-de-euro-digital-em-2027/",
-        "title": "BCE Espera Lançar Piloto de Euro Digital em 2027",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/euro-bitcoin-300x200.jpg",
-        "date": "30/10/2025",
-        "description": "Banco apresentou a moeda digital como uma alternativa estratégica aos meios de pagamento privados"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/faturamento-do-e-commerce-na-black-friday-deve-crescer-17-neste-ano-diz-neotrust/",
-        "title": "Faturamento do E-Commerce na Black Friday Deve Crescer 17% Neste Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/BlackFriday_ForbesMoney-300x200.jpg",
-        "date": "30/10/2025",
-        "description": "Categorias de saúde, esporte & lazer, automotivo e beleza & perfumaria devem apresentar os maiores crescimentos"
-    },
-    {
-        "url": "https://forbes.com.br/coluna/2025/10/juros-do-fed-e-a-bolsa-brasileira-como-investir-com-metas-claras-em-um-mundo-conectado/",
-        "title": "Juros do Fed e a Bolsa Brasileira: Como Investir com Metas Claras em um Mundo Conectado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-3-5-1-300x200.png",
-        "date": "30/10/2025",
-        "description": "A interdependência global faz o pulso de Washington reverberar na B3. Saiba ler o cenário além do ruído e por que manter sua estratégia é vital"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/guerra-comercial-trump-reduz-tarifas-sobre-produtos-chineses-em-acordo-com-xi-jinping/",
-        "title": "Guerra Comercial: Trump Reduz Tarifas sobre Produtos Chineses em Acordo com Xi Jinping",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/money-economia-china-eua-300x200.jpg",
-        "date": "30/10/2025",
-        "description": "Trump disse que as tarifas sobre as importações chinesas serão reduzidas de 57% para 47%"
     }
 ]
