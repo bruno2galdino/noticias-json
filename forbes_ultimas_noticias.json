@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/10/jeff-bezos-enriquece-mais-us-24-bilhoes-em-um-dia-com-alta-historica-da-amazon/",
+        "title": "Bezos Enriquece Mais US$ 24 Bilhões em um Dia com Alta Histórica da Amazon",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/04/Bezos-1-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "A Amazon reportou uma receita de US$ 180,2 bilhões (R$ 973,1 bilhões) e lucro por ação de US$ 1,95 (R$ 10,53), superando as previsões dos economistas"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/10/o-verao-2026-sob-o-olhar-da-dermatologia/",
+        "title": "O Verão 2026 sob o Olhar da Dermatologia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/A-estetica-do-cuidado-ganha-protagonismo-e-a-exposicao-solar-antes-sinonimo-de-vitalidade-agora-vem-acompanhada-de-estrategia-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "Nenhuma estação é inimiga da pele. O verdadeiro risco está na negligência e na falta de consciência diante das demandas de cada fase do ano"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/volkswagen-admite-estoque-de-chips-so-ate-a-proxima-semana/",
         "title": "Volkswagen Admite Estoque De Chips Só Até A Próxima Semana",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Volkswagen-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0x0-25-1-300x200.jpg",
         "date": "31/10/2025",
         "description": "Em 2025, a Forbes celebra 25 edições da lista; Michael Jackson segue sendo o líder do ranking"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/neo-o-robo-de-us-20-mil-que-dobra-roupas-e-organiza-sua-casa/",
-        "title": "Neo: o Robô de Us$ 20 Mil Que Dobra Roupas e Organiza Sua Casa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/NEO-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "O humanoide é alimentado por um modelo de linguagem de grande escala (LLM), semelhante ao que impulsiona assistentes de IA como o ChatGPT"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/pre-mercado-resultados-de-gigantes-tecnologicas-estimulam-investidores/",
-        "title": "Pré-mercado: Resultados de Gigantes Tecnológicas Estimulam Investidores",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "31/10/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 31 de outubro"
     }
 ]
