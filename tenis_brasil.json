@@ -1,10 +1,45 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/pucinelli-heide-e-guto-estreiam-com-vitoria-em-lajeado.html",
-        "title": "Pucinelli, Heide e Guto estreiam com vitória em Lajeado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/guto_joinville_engie_brb.jpg",
+        "url": "https://tenisbrasil.uol.com.br/swiatek-e-keys-abrem-o-finals-no-sabado-anisimova-encara-rybakina.html",
+        "title": "Swiatek e Keys abrem o Finals no sábado, Anisimova encara Rybakina",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/01/swiatek_keys-ausopen-TA.jpg",
         "date": "30/10/2025",
-        "description": "Lajeado (RS) –Depois de umaquarta-feira de muita chuvae com cancelamento da rodada, a programação do Lajeado Open foi retomada nesta quinta. O juvenil goiano Guto Miguel e os paulistas Gustavo Heide e Matheus Pucinelli estrearam com vitória no ITF M25 disputado nas quadras de saibro do Clube Tiro e Caça."
+        "description": "Riad (Arábia Saudita) –A disputa pelo título do WTA Finals começa no próximo sábado em Riad, na Arábia Saudita. Os jogos do Grupo Serena Williams serão os primeiros. Campeã do torneio em 2023, Iga Swiatek jogará na abertura da programação ao meio-dia (de Brasília) contra Madison Keys."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-nao-estou-100-fisicamente-mas-feliz-por-ter-fechado-em-2-sets.html",
+        "title": "Sinner: “Não estou 100% fisicamente, mas feliz por ter fechado em 2 sets”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sinner_paris_caminha-1024x682.jpg",
+        "date": "30/10/2025",
+        "description": "Paris (França) –Classificado para as quartas de final do Masters 1000 de Paris, Jannik Sinner saiu de quadra por ter vencido rapidamente a partida desta quinta-feira contra o argentino Francisco Cerúndolo. Atuando em condições lentas, o que exigia a disputa de longos ralis, o primeiro set teve cinco quebras de serviço. Mas o italiano foi superior nos momentos decisivos e depois dominou a segunda parcial."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cinco-juvenis-brasileiros-disputam-semifinais-da-copa-santa-catarina.html",
+        "title": "Cinco juvenis brasileiros disputam semifinais da Copa Santa Catarina",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/carlos_lino_itajai_voleia-1024x683.jpg",
+        "date": "30/10/2025",
+        "description": "Itajaí (SC) –Cinco juvenis brasileiros vão disputar as semifinais da ADK Juniors Cup, a 16ª edição da Copa Santa Catarina de Tênis, torneio ITF J60 disputado nas quadras de saibro do Itamirim Clube de Campo. Além deles, o torneio também segue com três canadenses, que fazem a preparação no Brasil antes das Copas Davis e Billie Jean King Junior, marcadas para Santiago."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/daniel-silva-e-semifinalista-de-duplas-no-challenger-de-lima.html",
+        "title": "Daniel Silva é semifinalista de duplas no challenger de Lima",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/daniel_silva_toss_ctba-1024x683.jpg",
+        "date": "30/10/2025",
+        "description": "Lima (Peru) –O experiente paulista Daniel Dutra da Silva será o representante brasileiro na semifinal de duplas do challenger de Lima, jogando ao lado do argentino Andrea Collarini. Eles venceram nesta quinta-feira os equatorianos Andres Andrade e Alvaro Guillen Meza por 7/6 (7-4) e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/semifinalistas-em-paris-serao-conhecidos-nesta-sexta-feira.html",
+        "title": "Semifinalistas em Paris serão conhecidos nesta sexta-feira",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/auger-aliassime-paris-2025-thursday-1024x576.jpg",
+        "date": "30/10/2025",
+        "description": "Paris (França) –Os semifinalistas do Masters 1000 de Paris serão conhecidos nesta sexta-feira. A rodada começa às 10h (de Brasília), com a sessão noturna prevista para às 15h."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/laura-pigossi-e-ana-candiotto-vao-a-semi-de-duplas-em-cali.html",
+        "title": "Laura Pigossi e Ana Candiotto vão à semi de duplas em Cali",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pigossi_floripa_vibra_1R-1024x612.jpg",
+        "date": "30/10/2025",
+        "description": "Cali (Colômbia) –A parceria brasileira formada por Laura Pigossi e Ana Candiotto está na semifinal de duplas do WTA 125 de Cali, em quadras de saibro na Colômbia. Cabeças 3 do torneio, elas venceram a romena Gabriela Lee e a australiana Tina Smith por 6/3 e 7/6 (7-4)."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-30-10.html",
@@ -14,59 +49,24 @@
         "description": "WTA 125 de Cali (Colômbia) – Saibro – US$ 115 milDuplas – Quartas de final –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/zverev-e-medvedev-vencem-e-duelam-nas-quartas-em-paris.html",
+        "title": "Zverev e Medvedev vencem e duelam nas quartas em Paris",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Medvedev_paris_acena.jpg",
+        "date": "30/10/2025",
+        "description": "Paris (França) –Dois campeões do Masters 1000 de Paris garantiram as últimas vagas nas quartas de final do torneio em quadras duras e cobertas da capital francesa. O alemão Alexander Zverev e o russo Daniil Medvedev venceram seus jogos nesta quinta-feira e vão se enfrentar no encerramento da rodada de sexta, por volta de 16h30 (de Brasília)."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pucinelli-heide-e-guto-estreiam-com-vitoria-em-lajeado.html",
+        "title": "Pucinelli, Heide e Guto estreiam com vitória em Lajeado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/guto_joinville_engie_brb.jpg",
+        "date": "30/10/2025",
+        "description": "Lajeado (RS) –Depois de umaquarta-feira de muita chuvae com cancelamento da rodada, a programação do Lajeado Open foi retomada nesta quinta. O juvenil goiano Guto Miguel e os paulistas Gustavo Heide e Matheus Pucinelli estrearam com vitória no ITF M25 disputado nas quadras de saibro do Clube Tiro e Caça. A sexta-feira terá rodada dupla, com oitavas e quartas de final a partir das 9h (de Brasília)."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/marcondes-vence-7a-seguida-na-tailandia-fernandez-faz-semi.html",
         "title": "Marcondes vence 7ª seguida na Tailândia, Fernandez faz semi",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/marcondes_alpha_fore-1024x683.jpg",
         "date": "30/10/2025",
         "description": "Hua Hin (Tailândia) –A sequência de torneios ITF M15 nas quadras duras de Hua Hin, na Tailândia, segue rendendo bons resultados para Igor Marcondes. Depois de ter conquistado um título no domingo passado, o paulista já está nas quartas de final no torneio desta semana."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-vence-a-50a-no-ano-e-amplia-invencibilidade-em-quadras-cobertas.html",
-        "title": "Sinner vence a 50ª no ano e amplia invencibilidade em quadras cobertas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sinner-paris-2025-thursday-1024x576.jpg",
-        "date": "30/10/2025",
-        "description": "Paris (França) –A série invicta de Jannik Sinner em quadras duras e cobertas chegou a 23 jogos nesta quinta-feira, com a classificação para as quartas de final do Masters 1000 de Paris. O italiano venceu o argentino Francisco Cerúndolo por 7/5 e 6/1 em 1h25 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/vekic-faz-quartas-em-chennai-e-garante-melhor-campanha-do-ano.html",
-        "title": "Vekic faz quartas em Chennai e garante melhor campanha do ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Vekic-chennai_vibra.jpg",
-        "date": "30/10/2025",
-        "description": "Chennai (Índia) –Em uma temporada muito abaixo de suas expectativas, Donna Vekic conseguiu seu melhor resultado do ano ao chegar às quartas de final do WTA 250 de Chennai. Terceira cabeça de chave, a croata confirmou o favoritismo contra a convidada Sahaja Yamalapalli, 344ª do ranking, e marcou um duplo 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/jornalista-diz-que-classificacao-de-paolini-para-o-finals-e-controversa.html",
-        "title": "Jornalista diz que classificação de Paolini para o Finals é controversa",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Jasmine_Paolini_-_WTA_Finals_Riyadh_2025_-_Pre-Tournament_-DSC_4913_xgaplus.jpg",
-        "date": "30/10/2025",
-        "description": "Riad (Arábia Saudita)– A classificação da italiana Jasmine Paolini para o WTA Finals, que terminou a temporada apenas seis pontos à frente de Mirra Andreeva, está gerando controvérsias. Isso porque o jornalista polonês Dominik Senkowski diz que uma interpretação diferente das complexas regras da WTA poderiam ter classificado a russa."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/shelton-e-de-minaur-vencem-e-se-garantem-no-atp-finals.html",
-        "title": "Shelton e De Minaur vencem e se garantem no ATP Finals",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/shelton-paris-vibra-2025-e1761844955561-1024x684.jpg",
-        "date": "30/10/2025",
-        "description": "Paris (França)– A quinta-feira foi de definição de mais duas vagas para o ATP Finals. Um dia apósa classificação do norte-americano Taylor Fritz, foi a vez do compatriota Ben Shelton e do australiano Alex de Minaur se juntarem a ele. Agora, resta apenas um lugar em aberto, que atualmente pertence ao italiano Lorenzo Musetti, já eliminado do Masters 1000 de Paris."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-desiste-de-atenas-e-nao-joga-mais-nesta-temporada.html",
-        "title": "Fonseca desiste de Atenas e não joga mais nesta temporada",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/foneca-paris-prepara-2025-scaled-e1761684532577-1024x682.jpeg",
-        "date": "30/10/2025",
-        "description": "Paris (França)– Eliminado na segunda rodada do Masters 1000 de Paris, em umaderrota por 2 sets a 1 para o russo Karen Khachanov, o carioca João Fonseca não jogará mais nesta temporada. Ele iria disputar o ATP 250 de Atenas, na semana seguinte, mas acabou desistindo do torneio."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bencic-vence-a-sexta-seguida-e-vai-as-quartas-em-hong-kong.html",
-        "title": "Bencic vence a sexta seguida e vai às quartas em Hong Kong",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/bencic-hongkong-parada-2025-e1761838619554-1024x683.jpg",
-        "date": "30/10/2025",
-        "description": "Hong Kong (China)– A suíça Belinda Bencic manteve o embalo nesta quinta-feira e venceu mais uma para se garantir nas quartas de final no WTA 250 de Hong Kong. Ela não teve grande trabalho para derrotar a chinesa Yafan Wang, gastando 71 minutos para anotar duplo 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/cabeca-de-chave-3-parks-salva-o-dia-das-favoritas-em-jiujiang.html",
-        "title": "Cabeça de chave 3, Parks salva o dia das favoritas em Jiujiang",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/parks-jiujiang-saca-2025-e1761837550965-1024x683.jpg",
-        "date": "30/10/2025",
-        "description": "Jiujiang (China)– Três favoritas entraram em quadra nesta quinta-feira pela segunda rodada do WTA 250 de Jiujiang e apenas a norte-americana Alycia Parks conseguiu sobreviver. Cabeça de chave 3, ela saiu perdendo da eslovena Kaja Juvan, mas buscou a virada e venceu com parciais de 1/6, 6/1 e 6/1."
     }
 ]
