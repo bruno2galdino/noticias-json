@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/volkswagen-admite-estoque-de-chips-so-ate-a-proxima-semana/",
+        "title": "Volkswagen Admite Estoque De Chips Só Até A Próxima Semana",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Volkswagen-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "Corte da Nexperia, ligada à chinesa Wingtech, reacende crise de semicondutores na Europa"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/10/francesca-monfrinatti-desfila-seu-power-dressing-contemporaneo/",
+        "title": "Francesca Monfrinatti Desfila Seu Power Dressing Contemporâneo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Primeiro-desfile-da-marca-Francesca-de-Francesca-Monfrinatti-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "Diretora criativa fala à coluna sobre a nova coleção e os planos para a marca, que incluem a internacionalização"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/vale-deve-anunciar-em-breve-dividendos-extraordinarios/",
         "title": "Vale Considera Ser Provável Anunciar em Breve Dividendos Extraordinários",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-31T151029Z_1_LYNXMPEL9U0T2_RTROPTP_4_MINERACAO-VALE-GUIDANCE-300x200.jpg",
@@ -35,8 +49,8 @@
         "description": "Receita trimestral da empresa no segmento de serviços em nuvem é de US$ 33 bilhões"
     },
     {
-        "url": "https://forbes.com.br/listas/2025/10/lista-forbes-as-celebridades-mortas-mais-lucrativas-de-2025/",
-        "title": "Lista Forbes: As Celebridades Mortas Mais Lucrativas de 2025",
+        "url": "https://forbes.com.br/listas/2025/10/lista-forbes-as-celebridades-falecidas-mais-lucrativas-de-2025/",
+        "title": "Lista Forbes: As Celebridades Falecidas Mais Lucrativas de 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0x0-25-1-300x200.jpg",
         "date": "31/10/2025",
         "description": "Em 2025, a Forbes celebra 25 edições da lista; Michael Jackson segue sendo o líder do ranking"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "31/10/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 31 de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/byd-ultrapassa-tesla-em-hong-kong-e-mira-lideranca-global/",
-        "title": "BYD Ultrapassa Tesla Em Hong Kong E Mira Liderança Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/King-black-11-1500x1000-1-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Em setembro, a BYD também vendeu mais carros elétricos globalmente que a concorrente Tesla"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/10/qual-e-o-maior-segredo-das-pessoas-muito-bem-sucedidas/",
-        "title": "Qual É o Maior Segredo das Pessoas Muito Bem-Sucedidas?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-24-300x200.png",
-        "date": "31/10/2025",
-        "description": "O comportamento humano é mais motivado pelo desejo de não perder algo do que pelo de ganhar algo. Veja como usar isso a seu favor"
     }
 ]
