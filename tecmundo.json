@@ -1,7 +1,28 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/408209-android-bloqueia-10-bilhoes-de-chamadas-e-mensagens-fraudulentas-por-mes.htm",
+        "title": "Android bloqueia 10 bilhões de chamadas e mensagens fraudulentas por mês",
+        "description": "O sistema operacional tem usado cada vez mais ferramentas de IA para aumentar a proteção contra golpes.",
+        "image": "https://tm.ibxk.com.br/2025/10/31/android_mensagens_e_chamadas_fraudulentas_2dc2225ff9.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/internet/408218-amazon-brasil-ganha-achadinhos-internacionais-a-partir-de-r-5.htm",
+        "title": "Amazon Brasil ganha 'achadinhos' internacionais a partir de R$ 5",
+        "description": "Catálogo dos \"Achadinhos\" tem itens de vestuário, casa, beleza e utilitários em geral com frete grátis para membros Prime.",
+        "image": "https://tm.ibxk.com.br/2025/10/07/golpes_em_alta_amazon_prime_day_bf11eb4b03.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/voxel/502714-rockstar-games-de-gta-6-realiza-dezenas-de-demissoes-e-causa-polemica-entenda.htm",
+        "title": "Rockstar Games, de GTA 6, realiza dezenas de demissões e causa polêmica! Entenda",
+        "description": "Estúdio por trás do aguardado Grand Theft Auto 6, a Rockstar Games foi acusada de realizar demissões de funcionários ligados a sindicatos. Veja posicionamento da empresa.",
+        "image": "https://tm.ibxk.com.br/2025/10/31/demissoes_gta_6_0962aa3410.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502710-steam-recebe-5-jogos-gratis-nesta-semana-ceja-lista-e-resgate-agora-31.htm",
-        "title": "Steam recebe 5 jogos grátis nesta semana! Ceja lista e resgate agora (31)",
+        "title": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate agora (31)",
         "description": "De terror cooperativo a jogo de Halo inspirado por Vampire Survivors: veja recomendações de games grátis para curtir no Steam",
         "image": "https://tm.ibxk.com.br/2025/10/31/jogos_gratis_steam_31_outubro_thumb_096b77fd6b.jpg",
         "date": null
@@ -32,27 +53,6 @@
         "title": "Google admite que 'Modo IA' da busca saberá tudo sobre você",
         "description": "Integrações do \"Modo IA\" do Google com o Gmail e com o Drive estão em desenvolvimento, e devem tomar forma em algum momento do futuro, confirmou executivo.",
         "image": "https://tm.ibxk.com.br/2025/10/07/google_logo_489f8df94a.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/voxel/500629-o-passado-de-james-em-silent-hill-2-remake-pode-ser-mais-sombrio-que-voce-imagina.htm",
-        "title": "O passado de James em Silent Hill 2 Remake pode ser mais sombrio que você imagina",
-        "description": "Teoria levantada por fã traz detalhes sombrios sobre o passado do protagonista de Silent Hill 2 Remake, que está disponível na PS Plus e deve chegar futuramente ao Xbox e Switch.",
-        "image": "https://tm.ibxk.com.br/2025/10/31/silent_hill_2_remake_teoria_2633882d32.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/408207-whatsapp-finalmente-deve-ganhar-app-proprio-para-apple-watch.htm",
-        "title": "WhatsApp finalmente deve ganhar app próprio para Apple Watch",
-        "description": "O app do WhatsApp para Apple Watch permite enviar e receber mensagens, conferir mídias e até enviar mensagens de áudio.",
-        "image": "https://tm.ibxk.com.br/2025/08/12/12180547328033.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602376-apple-tv-recebe-serie-do-criador-de-breaking-bad-e-mais-em-novembro-veja-lista-de-lancamentos.htm",
-        "title": "Apple TV recebe série do criador de Breaking Bad e mais em novembro! Veja lista de lançamentos",
-        "description": "O mês de novembro contará com a estreia de Pluribus e o final de Morning Show na Apple TV! Confira os principais lançamentos do serviço de streaming.",
-        "image": "https://tm.ibxk.com.br/2025/10/29/pluribus_apple_tv_82622b1ed9.jpg",
         "date": null
     }
 ]

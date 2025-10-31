@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbesesg/2025/10/eua-nao-enviarao-representantes-para-negociacoes-climaticas-da-cop30-diz-casa-branca/",
+        "title": "EUA Não Enviarão Representantes para Negociações Climáticas da COP30, Diz Casa Branca",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Casa-Branca-em-Washington-EUA-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "Os EUA também pressionaram os países que negociam um tratado global para reduzir a poluição plástica a não apoiar um acordo que estabeleceria limites para a produção de plásticos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/ibovespa-bate-recorde-pelo-quinto-dia-seguido-e-fecha-acima-dos-149-mil-pontos/",
+        "title": "Ibovespa Bate Recorde Pelo Quinto Dia Seguido e Fecha Acima dos 149 Mil Pontos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "31/10/2025",
+        "description": "O pregão terminou a semana em nova máxima histórica com ajuda da Vale"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/ritmo-de-plantio-de-soja-em-mt-passa-a-ficar-abaixo-da-media-aponta-imea/",
+        "title": "Ritmo de Plantio de Soja em MT Passa a Ficar Abaixo da Média, Aponta Imea",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Carregamento-de-soja-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "O percentual de soja semeado também ficou abaixo do número verificado na mesma época do ciclo passado (79,56%)"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/governo-quer-derrocar-trecho-do-tocantins-para-transportar-graos-em-meio-ao-avanco-da-soja/",
+        "title": "Governo Quer Derrocar Trecho do Tocantins para Transportar Grãos em Meio Ao Avanço da Soja",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Vista-aerea-do-Pedral-do-Lourenco-uma-formacao-rochosa-natural-no-rio-Tocantins-que-pode-ser-dinamitada-para-a-construcao-da-hidrovia-Araguaia-Tocantins-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "O governo brasileiro prevê que a hidrovia Araguaia-Tocantins poderá transportar inicialmente cerca de 20 milhões de toneladas de grãos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/10/cientistas-operam-maquina-do-tempo-climatica-na-amazonia-antes-da-cop30/",
+        "title": "Cientistas operam \"máquina do tempo\" climática na Amazônia antes da COP30",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Imagem-de-drone-mostra-aneis-formados-por-torres-do-projeto-AmazonFACE-em-que-os-cientistas-construiram-uma-_maquina-do-tempo_-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "A preservação de florestas tropicais como a Amazônia é vital para conter os piores efeitos das mudanças climáticas"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/10/cupula-de-lideres-pre-cop-30-tem-57-chefes-de-estado-confirmados-e-143-delegacoes/",
+        "title": "Cúpula de Líderes Pré COP 30 Tem 57 Chefes de Estado Confirmados e 143 Delegações",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/ESG_COP30_18JUl2025_SOPAImages_Getty--300x200.jpg",
+        "date": "31/10/2025",
+        "description": "O Itamaraty ainda não divulgou a lista dos confirmados"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/10/amazonia-tem-queda-de-11-no-desmatamento-e-terceira-menor-area-destruida-em-um-ano/",
+        "title": "Amazônia Tem Queda de 11% no Desmatamento e Terceira Menor Área Destruída em um Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Floresta-amazonica-na-cidade-de-Belem-no-Para-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "Os dados do Prodes são um trunfo para o governo brasileiro ao mostrar o sucesso do controle do desmatamento na Amazônia"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/10/paises-da-ue-seguem-divididos-em-relacao-a-meta-climatica-para-2040-as-vesperas-da-cop-30/",
+        "title": "Países da UE Seguem Divididos em Relação À Meta Climática para 2040 Às Vésperas da COP 30",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/esg-energia-eolica-alemanha-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "A falta de um acordo deixaria a presidente da Comissão sem uma meta para apresentar"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/jeff-bezos-enriquece-mais-us-24-bilhoes-em-um-dia-com-alta-historica-da-amazon/",
         "title": "Bezos Enriquece Mais US$ 24 Bilhões em um Dia com Alta Histórica da Amazon",
         "image": "https://forbes.com.br/wp-content/uploads/2024/04/Bezos-1-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/A-estetica-do-cuidado-ganha-protagonismo-e-a-exposicao-solar-antes-sinonimo-de-vitalidade-agora-vem-acompanhada-de-estrategia-300x200.jpg",
         "date": "31/10/2025",
         "description": "Nenhuma estação é inimiga da pele. O verdadeiro risco está na negligência e na falta de consciência diante das demandas de cada fase do ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/10/volkswagen-admite-estoque-de-chips-so-ate-a-proxima-semana/",
-        "title": "Volkswagen Admite Estoque De Chips Só Até A Próxima Semana",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Volkswagen-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Corte da Nexperia, ligada à chinesa Wingtech, reacende crise de semicondutores na Europa"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/10/francesca-monfrinatti-desfila-seu-power-dressing-contemporaneo/",
-        "title": "Francesca Monfrinatti Desfila Seu Power Dressing Contemporâneo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Primeiro-desfile-da-marca-Francesca-de-Francesca-Monfrinatti-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Diretora criativa fala à coluna sobre a nova coleção e os planos para a marca, que incluem a internacionalização"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/vale-deve-anunciar-em-breve-dividendos-extraordinarios/",
-        "title": "Vale Considera Ser Provável Anunciar em Breve Dividendos Extraordinários",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-31T151029Z_1_LYNXMPEL9U0T2_RTROPTP_4_MINERACAO-VALE-GUIDANCE-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Desempenho da divisão de metais básicos impulsionou os resultados da companhia"
-    },
-    {
-        "url": "https://forbes.com.br/eventos/2025/10/porto-seguro-lanca-portfolio-de-alta-renda-em-evento-com-a-forbes/",
-        "title": "Porto Seguro Lança Portfólio de Alta Renda em Evento com a Forbes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Porto-Seguro-Connections-By-Forbes-2-1-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Encontro Porto Seguro Connections by Forbes, em São Paulo, apresentou novos produtos Premium e Private e discutiu o futuro do luxo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/10/inpasa-investira-r-24-bi-para-construcao-de-usina-de-etanol-de-graos-em-goias/",
-        "title": "Inpasa Investirá R$ 2,4 Bi para Construção de Usina de Etanol de Grãos em Goiás",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_-etanol_milho_-18set25-_Greenleaf123_Getty-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Expansão reforça presença da Inpasa no Centro-Oeste e aposta em biocombustíveis produzidos a partir de grãos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/desemprego-no-brasil-fica-em-56-no-3o-tri-com-menor-numero-de-desocupados-da-historia/",
-        "title": "Desemprego no Brasil Fica em 5,6% no 3º Tri com Menor Número de Desocupados da História",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-demissao-mudanca-de-emprego-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Segundo analistas, o mercado de trabalho pode estar começando a mostrar sinais de desaceleração"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/10/acao-da-amazon-dispara-com-boom-da-ia-impulsionando-crescimento-da-aws/",
-        "title": "Ação da Amazon Dispara com Boom da IA Impulsionando Crescimento da AWS",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/money_amazon_logo-1-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Receita trimestral da empresa no segmento de serviços em nuvem é de US$ 33 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/listas/2025/10/lista-forbes-as-celebridades-falecidas-mais-lucrativas-de-2025/",
-        "title": "Lista Forbes: As Celebridades Falecidas Mais Lucrativas de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0x0-25-1-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Em 2025, a Forbes celebra 25 edições da lista; Michael Jackson segue sendo o líder do ranking"
     }
 ]
