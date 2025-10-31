@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/eventos/2025/10/porto-seguro-lanca-portfolio-de-alta-renda-em-evento-com-a-forbes/",
+        "title": "Porto Seguro Lança Portfólio de Alta Renda em Evento com a Forbes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Porto-Seguro-Connections-By-Forbes-2-1-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "Encontro Porto Seguro Connections by Forbes, em São Paulo, apresentou novos produtos Premium e Private e discutiu o futuro do luxo"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/10/inpasa-investira-r-24-bi-para-construcao-de-usina-de-etanol-de-graos-em-goias/",
+        "title": "Inpasa Investirá R$ 2,4 Bi para Construção de Usina de Etanol de Grãos em Goiás",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_-etanol_milho_-18set25-_Greenleaf123_Getty-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "Expansão reforça presença da Inpasa no Centro-Oeste e aposta em biocombustíveis produzidos a partir de grãos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/10/desemprego-no-brasil-fica-em-56-no-3o-tri-com-menor-numero-de-desocupados-da-historia/",
+        "title": "Desemprego no Brasil Fica em 5,6% no 3º Tri com Menor Número de Desocupados da História",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-demissao-mudanca-de-emprego-300x200.jpg",
+        "date": "31/10/2025",
+        "description": "Segundo analistas, o mercado de trabalho pode estar começando a mostrar sinais de desaceleração"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/10/acao-da-amazon-dispara-com-boom-da-ia-impulsionando-crescimento-da-aws/",
         "title": "Ação da Amazon Dispara com Boom da IA Impulsionando Crescimento da AWS",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/money_amazon_logo-1-300x200.jpg",
@@ -11,7 +32,7 @@
         "title": "Lista Forbes: As Celebridades Mortas Mais Lucrativas de 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0x0-25-1-300x200.jpg",
         "date": "31/10/2025",
-        "description": "Em 2025, a Forbes celebra 25 edições da lista. Michael Jackson segue sendo o líder do ranking"
+        "description": "Em 2025, a Forbes celebra 25 edições da lista; Michael Jackson segue sendo o líder do ranking"
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/10/neo-o-robo-de-us-20-mil-que-dobra-roupas-e-organiza-sua-casa/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Gaten-Matarazzo-na-premiere-da-quarta-temporada-de-_Stranger-Things_-da-Netflix-em-Nova-York-300x200.jpg",
         "date": "31/10/2025",
         "description": "Estrela do sucesso da Netflix conversou com a Forbes Brasil sobre o fim da série, sonhos para o futuro e a convivência com uma doença genética rara"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/10/com-tomografia-pesquisadores-descobrem-detalhes-de-dinossauro-que-viveu-ha-90-milhoes-de-anos-no-brasil/",
-        "title": "Com Tomografia, Pesquisadores Descobrem Detalhes de Dinossauro que Viveu Há 90 Milhões de Anos no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/siemens-e-museu-RJ-capa-300x200.png",
-        "date": "31/10/2025",
-        "description": "Parceria entre o Museu Nacional e a Siemens Healthineers permite análise inédita de fóssil preservado no Paraná"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/10/bruna-tavares-tudo-pode-virar-bt-empresaria-entra-segmento-capilar/",
-        "title": "\"Tudo Pode Virar BT\": Bruna Tavares Leva Sua Marca da Papelaria ao Mercado Pet",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/mulher-bruna-tavares-brae-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Depois de lançar uma linha em parceria com a Braé, com investimento de R$ 12 milhões, influenciadora vai expandir para mercados pet, de skincare e perfumaria"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/10/do-roteiro-a-trilha-sonora-os-conselhos-de-james-gunn-para-criativos/",
-        "title": "Do Roteiro À Trilha Sonora: os Conselhos de James Gunn para Criativos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/JGunn-300x200.jpg",
-        "date": "31/10/2025",
-        "description": "Em Los Angeles, durante o Adobe Max, o diretor de Superman, Guardiões da Galáxia e Peacemkaer, compartilhou dicas práticas para novos criativos e revelou detalhes de sua rotina de trabalho intenso"
     }
 ]
