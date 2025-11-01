@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/11/apostas-para-a-mega-da-virada-comecam-neste-sabado-e-premio-pode-chegar-a-r-1-bilhao/",
+        "title": "Apostas para a Mega da Virada Começam Neste Sábado e Prêmio Pode Chegar a R$ 1 Bilhão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Geral_mega-da-virada-2025-300x200.jpg",
+        "date": "01/11/2025",
+        "description": "Prêmio da faixa principal está estimado em R$ 850 milhões e supera em mais de 33% o valor pago na edição passada"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/por-que-esta-comuna-na-italia-esta-atraindo-o-mercado-imobiliario-de-luxo/",
+        "title": "Por Que Esta Comuna na Itália Está Atraindo o Mercado Imobiliário de Luxo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Taormina-extrai-muito-do-seu-mito-e-fascinio-do-pico-ativo-do-Monte-Etna-ao-sul-e-oeste-da-cidade-costeira-300x200.jpg",
+        "date": "01/11/2025",
+        "description": "Taormina vive um novo momento com residências de alto padrão voltadas para os  jet setters e investidores abastados, que têm chegado em grande número"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/11/louis-vuitton-apresenta-trophy-trunk-exclusivo-para-o-grande-premio-de-sao-paulo-2025/",
-        "title": "Louis Vuitton Apresenta Trophy Trunk Exclusivo para o Grande Prêmio de São Paulo 2025",
+        "title": "Louis Vuitton Apresenta Trophy Trunk Exclusivo para o GP de São Paulo 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Trophy-Trunk-da-Louis-Vuitton-300x200.jpg",
         "date": "01/11/2025",
-        "description": "Baú oficial da Fórmula 1® será exibido ao público antes da corrida e reforça a parceria entre a marca e a categoria"
+        "description": "Baú oficial da Fórmula 1 será exibido ao público antes da corrida e reforça a parceria entre a marca e a categoria"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/11/lamborghini-mostra-novo-modelo-de-us-35-mi-ja-esgotado/",
@@ -12,13 +26,6 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/665263-300x200.jpeg",
         "date": "01/11/2025",
         "description": "O Lamborghini Fenomeno terá apenas 30 unidades construídas e 29 vendidas. Uma será mantida para o museu da empresa"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/por-que-esta-comuna-na-italia-esta-atraindo-o-mercado-imobiliario-de-luxo/",
-        "title": "Comuna na Itália Está Atraindo Mercado Imobiliário de Luxo; Veja Motivo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Taormina-extrai-muito-do-seu-mito-e-fascinio-do-pico-ativo-do-Monte-Etna-ao-sul-e-oeste-da-cidade-costeira-300x200.jpg",
-        "date": "01/11/2025",
-        "description": "Taormina vive um novo momento com residências de alto padrão voltadas para os  jet setters e investidores abastados, que têm chegado em grande número"
     },
     {
         "url": "https://forbes.com.br/forbes-mulher/2025/11/billie-jean-king-a-pioneira-que-lutou-pela-igualdade-salarial-no-esporte/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/IA-video-300x200.png",
         "date": "01/11/2025",
         "description": "Um artigo de Katelyn Chedraoui, publicado no CNET, detalha o consumo de energia de plataformas de IA generativa"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/embrapa-anuncia-cerca-de-400-eventos-para-a-cop30-em-belem/",
-        "title": "Embrapa Anuncia Cerca de 400 Eventos para a COP30 em Belém",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_Embrapa_COP_30out25_Embrapa_Divulg-300x200.jpg",
-        "date": "01/11/2025",
-        "description": "Agenda da estatal reúne instituições públicas, privadas e internacionais em discussões sobre inovação, ciência e sustentabilidade para o futuro da agricultura e do clima"
     }
 ]
