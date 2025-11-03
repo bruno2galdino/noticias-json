@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/safra-de-soja-no-mercosul-deve-crescer-08-em-2025-26-aponta-celeres/",
+        "title": "Safra de Soja no Mercosul Deve Crescer 0,8% em 2025/26, Aponta Céleres",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Carga-de-soja-e-descarregada-em-elevador-durante-colheita-em-Massillon-no-Estado-norte-americano-de-Ohio-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "A Céleres também projeta um crescimento nas exportações do bloco, com alta de 5 milhões de toneladas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/brasil-da-inicio-aos-eventos-climaticos-da-cop30-em-ano-de-distracoes/",
+        "title": "Brasil Dá Início Aos Eventos Climáticos da COP30 em Ano de Distrações",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Ministro-da-Fazenda-Fernando-Haddad-discursa-em-reuniao-preparatoria-para-a-COP30-em-Brasilia-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "É provável que a COP30 tenha a menor participação de líderes mundiais desde 2019"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/soja-do-brasil-saltaria-615-se-cultivo-avancar-sobre-areas-de-pastagens-projeta-itau-bbba/",
+        "title": "Soja do Brasil Saltaria 61,5% se Cultivo Avançar sobre Áreas de Pastagens, Projeta Itaú BBBA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Carregamento-de-soja-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "O banco estimou que a área de soja plantada na segunda safra poderia crescer 10,2 milhões de hectares"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-ultrapassa-os-150-mil-o-que-isso-significa-para-a-bolsa/",
         "title": "Ibovespa Ultrapassa os 150 Mil. O Que Isso Significa para a Bolsa?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/bolsa_271221_Money_GettyImages-e1703875746812-300x200.jpeg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_terra_03nov25_Guido-Mieth_Getty-300x200.jpg",
         "date": "03/11/2025",
         "description": "Mapa coordena iniciativas em fertilizantes, restauração, carbono no solo e metano, com FAO, Banco Mundial e parceiros, mirando produção sustentável até 2030"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/microsoft-assina-contrato-de-us-97-bi-com-iren-para-chips-nvidia/",
-        "title": "Microsoft Assina Contrato de US$ 9,7 Bi com IREN para Chips Nvidia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-03T155639Z_1_LYNXMPELA20RW_RTROPTP_4_GERMANY-POLITICS-HANNOVER-FAIR-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Parceria de cinco anos evidencia a corrida das empresas de IA por mais capacidade de processamento"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/expana-preve-area-plantada-de-canola-na-ue-no-maior-nivel-em-16-anos/",
-        "title": "União Europeia Vai Plantar a Maior Área de Canola dos Últimos 16 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-03T160530Z_1_LYNXMPELA20S9_RTROPTP_4_COMMODS-CANOLA-EUROPA-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Canola domina o cultivo de oleaginosas na UE, com França, Alemanha e Polônia à frente da produção"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/kimberly-clark-compra-dona-do-tylenol-e-listerine-por-us-40-bilhoes/",
-        "title": "Kimberly-Clark Compra Dona do Tylenol e Listerine por US$ 40 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-5-300x200.png",
-        "date": "03/11/2025",
-        "description": "Aquisição da Kenvue cria nova gigante global de consumo com receitas anuais de US$ 32 bilhões e economia de US$ 2,1 bilhões ao ano"
     }
 ]
