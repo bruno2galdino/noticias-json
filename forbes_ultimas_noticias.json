@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/openai-assina-acordo-de-us-38-bilhoes-com-a-amazon-para-servicos-de-computacao-em-nuvem/",
+        "title": "OpenAI Assina Acordo de US$ 38 Bilhões com a Amazon para Serviços de Computação em Nuvem",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-25T143726Z_1_LYNXMPEL5O0R4_RTROPTP_3_OPENAI-RESTRUCTURING-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "Parceria reforça confiança na AWS, mostrando que a Amazon segue competitiva na corrida da IA"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/brasil-lidera-4-planos-da-agenda-de-acao-da-cop30/",
+        "title": "Brasil Lidera 4 Planos Da Agenda De Ação Da COP30",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_terra_03nov25_Guido-Mieth_Getty-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "Mapa coordena iniciativas em fertilizantes, restauração, carbono no solo e metano, com FAO, Banco Mundial e parceiros, mirando produção sustentável até 2030"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/microsoft-assina-contrato-de-us-97-bi-com-iren-para-chips-nvidia/",
+        "title": "Microsoft Assina Contrato de US$ 9,7 Bi com IREN para Chips Nvidia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-03T155639Z_1_LYNXMPELA20RW_RTROPTP_4_GERMANY-POLITICS-HANNOVER-FAIR-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "Parceria de cinco anos evidencia a corrida das empresas de IA por mais capacidade de processamento"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/expana-preve-area-plantada-de-canola-na-ue-no-maior-nivel-em-16-anos/",
+        "title": "União Europeia Vai Plantar a Maior Área de Canola dos Últimos 16 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-03T160530Z_1_LYNXMPELA20S9_RTROPTP_4_COMMODS-CANOLA-EUROPA-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "Canola domina o cultivo de oleaginosas na UE, com França, Alemanha e Polônia à frente da produção"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/kimberly-clark-compra-dona-do-tylenol-e-listerine-por-us-40-bilhoes/",
         "title": "Kimberly-Clark Compra Dona do Tylenol e Listerine por US$ 40 Bilhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-5-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/omoda-jaecoo-300x200.jpeg",
         "date": "03/11/2025",
         "description": "Shawn Xu, CEO global da marca, confirmou, em visita a São Paulo, que a fábrica começa a operar já em meados do ano que vem"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/as-8-tendencias-eticas-que-vao-moldar-o-futuro-da-ia-em-2026/",
-        "title": "As 8 Tendências Éticas que Vão Moldar o Futuro da IA em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/IA-Etica-300x200.png",
-        "date": "03/11/2025",
-        "description": "À medida que a IA avança, cresce a pressão por regras claras sobre responsabilidade, privacidade e impacto social"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/11/da-coroa-britanica-ao-centro-oeste/",
-        "title": "Da Coroa Britânica Ao Centro-Oeste",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/1-17-300x200.png",
-        "date": "03/11/2025",
-        "description": "Royal Salute reforça sua presença na região e consolida sua posição como ícone de prestígio no universo do agronegócio"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/investir-em-itens-de-luxo-e-mais-sobre-exclusividade-do-que-retorno-apontam-especialistas/",
-        "title": "Investir em Itens de Luxo É Mais sobre Exclusividade do Que Retorno, Apontam Especialistas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_0.A-bolsa-Birkin-original-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Apesar do mercado de luxo mostrar retorno expressivo no longo prazo, é difícil traçar uma estratégia de investimento envolvendo os ativos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/louis-vuitton-celebra-170-anos-de-expertise-em-savoir-faire/",
-        "title": "Louis Vuitton Celebra 170 Anos de Expertise em Savoir-Faire",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Pierre-Louis-Vuitton-responsavel-pelo-Savoir-Faire-da-Louis-Vuitton-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Nova obra da Assouline celebra o legado da maison francesa e revela como tradição e inovação seguem lado a lado desde 1854"
     }
 ]
