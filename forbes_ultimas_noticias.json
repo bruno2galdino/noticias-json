@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/11/lo-borges-um-dos-fundadores-do-clube-da-esquina-morre-aos-73-anos/",
+        "title": "Lô Borges, um dos Fundadores do Clube da Esquina, Morre Aos 73 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Lo-Borges-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "Cantor e compositor estava internado com intoxicação medicamentosa, em hospital de BH"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/mercado-aposta-em-manutencao-da-selic-em-15-diz-boletim-focus/",
         "title": "Mercado Aposta em Manutenção da Selic em 15%, diz Boletim Focus",
         "image": "https://forbes.com.br/wp-content/uploads/2022/06/banco-central-bc-boletim-focus-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/saquei_nigori_02nov25_-Masuda-Tokubee-Shoten-300x200.jpg",
         "date": "03/11/2025",
         "description": "Bebida que tem uma história longa e profunda que remonta a 17 séculos e não passa por nenhum processo de filtragem"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/pesquisa-milionaria-acelera-o-gene-da-carne-macia-na-maior-raca-bovina-do-pais/",
-        "title": "Pesquisa milionária acelera gene da “carne macia” na maior raça bovina no País",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_agro_maripa_earth_biome_Foto_Divulgacao_03.11.2025-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "A Agro Maripá e a Earth biome lançam projeto para elevar o marmoreio do Nelore, com acurácia acima de 80%"
     }
 ]
