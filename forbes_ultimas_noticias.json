@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-semana-comeca-com-expectativa-da-reuniao-do-copom/",
+        "title": "Pré-mercado: Semana Começa com Expectativa da Reunião do Copom",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "03/11/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 3 de novembro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/chinesa-omoda-jaecoo-quer-estar-no-top-10-com-carros-feitos-no-brasil/",
         "title": "Chinesa Omoda Jaecoo Quer Estar no Top 10 com Carros Feitos no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/omoda-jaecoo-300x200.jpeg",
@@ -50,7 +57,7 @@
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/11/pesquisa-milionaria-acelera-o-gene-da-carne-macia-na-maior-raca-bovina-do-pais/",
-        "title": "Pesquisa milionária acelera o gene da “carne macia” na maior raça bovina no País",
+        "title": "Pesquisa milionária acelera gene da “carne macia” na maior raça bovina no País",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_agro_maripa_earth_biome_Foto_Divulgacao_03.11.2025-300x200.jpg",
         "date": "03/11/2025",
         "description": "A Agro Maripá e a Earth biome lançam projeto para elevar o marmoreio do Nelore, com acurácia acima de 80%"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Thiago-e-Thais-300x200.jpg",
         "date": "03/11/2025",
         "description": "Em parceria com a BR Media, Unilever aposta em comunidade e tecnologia para construir um novo modelo de relacionamento com seus consumidores por meio do app EmbaixaDove"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/fernanda-abilel-do-excel-a-inteligencia-artificial-o-futuro-da-gestao-salarial-esta-na-tecnologia/",
-        "title": "Do Excel à IA: O Futuro da Gestão Salarial Está na Tecnologia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/remuneracao-ia-rh-tecnologia-1-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Transformação digital está redefinindo como empresas planejam, remuneram e retêm seus talentos"
     }
 ]
