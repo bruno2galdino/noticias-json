@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-ultrapassa-os-150-mil-o-que-isso-significa-para-a-bolsa/",
+        "title": "Ibovespa Ultrapassa os 150 Mil. O Que Isso Significa para a Bolsa?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/bolsa_271221_Money_GettyImages-e1703875746812-300x200.jpeg",
+        "date": "03/11/2025",
+        "description": "Apesar da marca psicológica importante, analistas estão com a \"pulga atrás da orelha\" sobre a possibilidade de um rali mais forte"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/china-intensifica-compra-de-soja-do-brasil-em-meio-a-queda-de-precos/",
+        "title": "China Intensifica Compra de Soja do Brasil em Meio À Queda de Preços",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-30T154724Z_1_LYNXMPEL9T0YJ_RTROPTP_4_GRANOS-SOJA-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "A soja brasileira vinha sendo negociada a preços mais altos do que o suprimento dos EUA nas últimas semanas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/industria-preve-solucao-sobre-tarifas-da-carne-bovina-do-brasil-para-os-eua-em-ate-60-dias/",
+        "title": "Indústria Prevê Solução sobre Tarifas da  Carne Bovina do Brasil para os EUA em até 60 Dias",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_carne_bovina_REUTERS-Ricardo-Moraes_23.10.2025-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "As tarifas para a carne bovina brasileira subiram para 76,4%, sendo 50% da taxa adicional"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/bc-endurece-regras-e-obriga-fintechs-a-ter-r-92-milhoes-de-capital/",
+        "title": "BC Endurece Regras e Obriga Fintechs a ter R$ 9,2 Milhões de Capital",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/03/money-site-sobrecarga-25jan22-UesleiMarcelino-300x200.png",
+        "date": "03/11/2025",
+        "description": "Medida deve afetar 500 instituições financeiras"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/jbs-esta-exportando-resto-de-couro-que-na-europa-vira-fertilizante/",
         "title": "JBS Está Exportando Resto de Couro Que na Europa Vira Fertilizante",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_unidade_JBS_Couro_02nov25_JBS_DIvulg-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-5-300x200.png",
         "date": "03/11/2025",
         "description": "Aquisição da Kenvue cria nova gigante global de consumo com receitas anuais de US$ 32 bilhões e economia de US$ 2,1 bilhões ao ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/ceo-do-reddit-se-torna-bilionario-20-anos-apos-criar-a-plataforma/",
-        "title": "CEO do Reddit Se Torna Bilionário 20 Anos Após Criar a Plataforma",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-42-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Após quase duas décadas de prejuízos, o Reddit vive fase lucrativa e impulsiona a fortuna de Steve Huffman para US$ 1,2 bilhão"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/11/lo-borges-um-dos-fundadores-do-clube-da-esquina-morre-aos-73-anos/",
-        "title": "Lô Borges, um dos Fundadores do Clube da Esquina, Morre Aos 73 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Lo-Borges-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Cantor e compositor estava internado com intoxicação medicamentosa, em hospital de BH"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/mercado-aposta-em-manutencao-da-selic-em-15-diz-boletim-focus/",
-        "title": "Mercado Aposta em Manutenção da Selic em 15%, diz Boletim Focus",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/06/banco-central-bc-boletim-focus-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Analistas consultados reduzem projeção do IPCA pela sexta vez seguida, mas índice ainda ultrapassa o teto da meta do Banco Central"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-semana-comeca-com-expectativa-da-reuniao-do-copom/",
-        "title": "Pré-mercado: Semana Começa com Expectativa da Reunião do Copom",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "03/11/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 3 de novembro"
     }
 ]
