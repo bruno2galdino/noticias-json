@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/408265-morre-rubens-kuhl-gerente-do-registrobr-e-apaixonado-por-tecnologia.htm",
+        "title": "Morre Rubens Kühl, gerente do Registro.br e apaixonado por tecnologia",
+        "description": "Apaixonado por governança da internet e inovação, Rubens Kühl atuou por 16 anos no NIC.br e tinha amplo reconhecimento internacional.",
+        "image": "https://tm.ibxk.com.br/2025/11/03/rubens_kuhl_f346bfe9a8.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/produto/408252-nova-siri-pode-usar-modelos-do-gemini-para-funcionar.htm",
+        "title": "Nova Siri pode usar modelos do Gemini para funcionar",
+        "description": "Tecnologias do Google vão rodar nos próprios servidores da Apple para tarefas específicas, mantendo foco na privacidade.",
+        "image": "https://tm.ibxk.com.br/2025/11/03/siri_apple_60aeeb27f0.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602405-netflix-recebe-8-filmes-e-series-de-peso-na-semana-veja-lista-de-lancamentos-3.htm",
+        "title": "Netflix recebe 8 filmes e séries de peso na semana! Veja lista de lançamentos (3)",
+        "description": "Novos filmes e séries desembarcam no catálogo da Netfix nesta semana, incluindo títulos bastante aguardados. Veja lista com os 8 melhores lançamentos do streaming!",
+        "image": "https://tm.ibxk.com.br/2025/11/03/netflix_filmes_series_lancamentos_da_semana_310cc24d84.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/seguranca/408257-espioes-norte-coreanos-sao-flagrados-usando-ia-em-entrevistas-de-emprego.htm",
+        "title": "Espiões norte-coreanos são flagrados usando IA em entrevistas de emprego",
+        "description": "Criminosos de um grupo criado a partir do Lazarus tentaram usar IA para se passar por engenheiros em processo seletivo de uma empresa de criptomoedas",
+        "image": "https://tm.ibxk.com.br/2025/11/03/espiao_norte_coreano_emprego_642e89b767.png",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/produto/408241-redmagic-11-pro-1-celular-com-resfriamento-liquido-chegara-ao-brasil.htm",
         "title": "Redmagic 11 Pro: 1º celular com resfriamento líquido chegará ao Brasil",
         "description": "Smartphone gamer que tem só especificações técnicas de ponta já foi lançado na China e agora ganha uma versão global.",
@@ -32,27 +60,6 @@
         "title": "Modo IA não vai matar o Google Ads, mas deve 'transformá-lo', diz executivo",
         "description": "O Google Ads não deve morrer, mas deve passar por transformações importantes no direcionamento de conteúdo, aponta vice-presidente do Google Search.",
         "image": "https://tm.ibxk.com.br/2025/04/22/22223211587012.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602407-stranger-things-entenda-polemica-envolvendo-millie-bobbie-brown-e-david-harbour.htm",
-        "title": "Stranger Things: Entenda polêmica envolvendo Millie Bobbie Brown e David Harbour",
-        "description": "O relacionamento de Millie Bobbie Brown e David Harbour estava abalado antes das gravações do final de Stranger Things",
-        "image": "https://tm.ibxk.com.br/2025/11/03/Stranger_Things_Polemica_Millie_Bobbie_David_Harbour_Netflix_c71559dee2.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/408246-grandes-telas-lg-tcl-samsung-e-mais-com-desconto-de-black-friday-no-magazine-luiza.htm",
-        "title": "Grandes telas LG, TCL, Samsung e mais com desconto de Black Friday no Magazine Luiza",
-        "description": "Confira já uma seleção de ofertas em smart TVs com telas grandes de até 75 polegadas com desconto na Black das Blacks do Magalu e tenha experiência de cinema em casa pagando menos por tempo limitado",
-        "image": "https://tm.ibxk.com.br/2025/09/15/15130146937365.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/mercado/408243-samsung-tera-megafabrica-de-ia-com-50-mil-gpus-da-nvidia.htm",
-        "title": "Samsung terá megafábrica de IA com 50 mil GPUs da Nvidia",
-        "description": "Ambas as marcas firmaram uma parceria estratégica, e a empresa sul-coreana deve ver um salto de performance em seus chips.",
-        "image": "https://tm.ibxk.com.br/2025/04/30/30122942349080.jpg",
         "date": null
     }
 ]

@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-bate-recorde-e-fecha-acima-dos-150-mil-pontos/",
+        "title": "Ibovespa Bate Recorde e Fecha Acima dos 150 Mil Pontos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "03/11/2025",
+        "description": "O pregão começou a semana em nova máxima histórica"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/raizen-energia-vai-fazer-reorganizacao-societaria-no-segmento-de-bioenergia/",
+        "title": "Raízen Energia Vai Fazer Reorganização Societária no Segmento de Bioenergia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/agro_colheita_cana_15jul25_-Santosha_Getty-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "A empresa realizará um plano de três etapas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/mrs-logisitca-investe-ate-r-15-bi-para-escoar-producao-agricola-do-centro-oeste/",
+        "title": "MRS Logísitca Investe até R$ 1,5 Bi para Escoar Produção Agrícola do Centro-Oeste",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Agro_AgriculturaRegenerativa_Vinicola_NapaValley_08nov24_Getty_CharlesORear-300x200.jpg",
+        "date": "03/11/2025",
+        "description": "A iniciativa visa expandir a capacidade logística regional"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/safra-de-soja-no-mercosul-deve-crescer-08-em-2025-26-aponta-celeres/",
         "title": "Safra de Soja no Mercosul Deve Crescer 0,8% em 2025/26, Aponta Céleres",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Carga-de-soja-e-descarregada-em-elevador-durante-colheita-em-Massillon-no-Estado-norte-americano-de-Ohio-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2022/03/money-site-sobrecarga-25jan22-UesleiMarcelino-300x200.png",
         "date": "03/11/2025",
         "description": "Medida deve afetar 500 instituições financeiras"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/jbs-esta-exportando-resto-de-couro-que-na-europa-vira-fertilizante/",
-        "title": "JBS Está Exportando Resto de Couro Que na Europa Vira Fertilizante",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_unidade_JBS_Couro_02nov25_JBS_DIvulg-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Farelo de rebaixe que vira insumo lá fora sai de unidades da empresa em Goiás, Minas Gerais e São Paulo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/openai-assina-acordo-de-us-38-bilhoes-com-a-amazon-para-servicos-de-computacao-em-nuvem/",
-        "title": "OpenAI Assina Acordo de US$ 38 Bilhões com a Amazon para Serviços de Computação em Nuvem",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/2025-06-25T143726Z_1_LYNXMPEL5O0R4_RTROPTP_3_OPENAI-RESTRUCTURING-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Parceria reforça confiança na AWS, mostrando que a Amazon segue competitiva na corrida da IA"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/brasil-lidera-4-planos-da-agenda-de-acao-da-cop30/",
-        "title": "Brasil Lidera 4 Planos Da Agenda De Ação Da COP30",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_terra_03nov25_Guido-Mieth_Getty-300x200.jpg",
-        "date": "03/11/2025",
-        "description": "Mapa coordena iniciativas em fertilizantes, restauração, carbono no solo e metano, com FAO, Banco Mundial e parceiros, mirando produção sustentável até 2030"
     }
 ]
