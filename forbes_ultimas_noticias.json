@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/11/zamp-anuncia-novos-presidentes-para-burger-king-e-subway-no-brasil/",
+        "title": "ZAMP Anuncia Novos Presidentes para Burger King e Subway no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Gabriel-Guimaraes-Presidente-de-Burger-King-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "Gabriel Guimarães e Ricardo Camiz assumem a liderança das marcas no país"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/11/estudo-da-cit-e-fdc-destaca-dez-empresas-brasileiras-com-melhores-usos-de-ia/",
         "title": "Estudo da Ci&T e FDC Destaca Dez Empresas Brasileiras com Melhores Usos de IA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/396e96fc-30a6-47ee-ac62-0d796fc037f0-300x200.jpeg",
@@ -8,7 +15,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-mulher/2025/11/mulheres-recebem-21-menos-que-homens-no-trabalho/",
-        "title": "Mulheres Recebem 21% Menos Que Homens no Trabalho",
+        "title": "Mulheres Recebem 21% Menos Que Homens no Setor Privado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/salario-carreira-300x200.jpg",
         "date": "04/11/2025",
         "description": "De acordo com Ministério do Trabalho e Emprego, a remuneração média das mulheres foi de R$ 3.908 contra R$ 4.958 dos homens"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/03/B4-300x200.jpg",
         "date": "04/11/2025",
         "description": "Enquanto a Geely terá acesso à fábrica de São José dos Pinhais, a Renault usará a arquitetura de veículos da chinesa para ampliar sua linha com veículos de zero e baixa emissão"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/11/dick-cheney-ex-vice-presidente-dos-eua-morre-aos-84-anos/",
-        "title": "Dick Cheney, Ex-vice-presidente dos EUA, Morre Aos 84 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/reuters-ex-vice-presidente-300x200.png",
-        "date": "04/11/2025",
-        "description": "O republicano é considerado por historiadores presidenciais como um dos vice-presidentes mais poderosos da história dos Estados Unidos"
     }
 ]
