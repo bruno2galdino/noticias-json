@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/abiove-avalia-que-decisao-do-stf-reconhece-legalidade-da-moratoria-da-soja/",
+        "title": "Abiove Avalia Que Decisão do STF Reconhece Legalidade da Moratória da Soja",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Carga-de-soja-e-descarregada-em-elevador-durante-colheita-em-Massillon-no-Estado-norte-americano-de-Ohio-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "Decisão de Flávio Dino valoriza pacto privado que ajuda a frear o desmatamento e reforça a imagem do Brasil em compromissos climáticos globai"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/getty-images-sofre-derrota-em-processo-no-reino-unido-sobre-gerador-de-imagens-de-ia/",
+        "title": "Getty Images Sofre Derrota em Processo no Reino Unido sobre Gerador de Imagens de IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-44-1-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "Decisão da Alta Corte britânica reconhece violação de marca registrada, mas limita impacto sobre direitos autorais e uso de IA na criação de imagens"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/como-a-leapmotor-virou-peca-chave-nos-carros-eletricos-da-stellantis-no-brasil/",
+        "title": "Como A Leapmotor Virou Peça-Chave Nos Carros Elétricos Da Stellantis No Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/leapmotor-c10-2024-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "Stellantis e Leapmotor formalizaram uma joint venture para operar fora da China. Marca estreia no Brasil no final de novembro"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/plantio-de-soja-avanca-para-79-da-area-no-parana-colheita-de-trigo-vai-a-88-diz-deral/",
         "title": "Plantio de Soja Avança para 79% da Área no Paraná, Colheita de Trigo Vai a 88%, Diz Deral",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-04T151851Z_1_LYNXMPELA30VN_RTROPTP_3_AGRICULTURE-PRIZE-300x200.jpg",
@@ -22,7 +43,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/11/projeto-de-lei-para-bagagem-despachada-voltar-a-ser-gratuita-no-brasil/",
-        "title": "Projeto de Lei para Bagagem Despachada Voltar a Ser Gratuita no Brasil",
+        "title": "Projeto de Lei para Bagagem Despachada Voltar a Ser Gratuita no Brasil Preocupa Aéreas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-04T122528Z_1_LYNXMPELA30OO_RTROPTP_4_HEALTH-CORONAVIRUS-BRAZIL-AIRLINES-300x200.jpg",
         "date": "04/11/2025",
         "description": "Medida busca reduzir custos aos consumidores e garantir transparência nas tarifas cobradas pelas companhias aéreas"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/396e96fc-30a6-47ee-ac62-0d796fc037f0-300x200.jpeg",
         "date": "04/11/2025",
         "description": "Levantamento inédito da Fundação Dom Cabral (FDC) em parceria com a CI&T revela que 80% das companhias já alinham IA à estratégia de negócios, e 62% têm programas formais de capacitação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/11/mulheres-recebem-21-menos-que-homens-no-trabalho/",
-        "title": "Mulheres Recebem 21% Menos Que Homens no Setor Privado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/salario-carreira-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "De acordo com Ministério do Trabalho e Emprego, a remuneração média das mulheres foi de R$ 3.908 contra R$ 4.958 dos homens"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/missao-global-traz-14-compradores-para-conhecer-o-cafe-da-mantiqueira-de-minas-gerais/",
-        "title": "Missão Global Traz 14 Compradores para Conhecer o Café da Mantiqueira de Minas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cafe_04nov25_SebraeMG_Divulg-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Visitas a produtores em três cidades conectam 8 mil cafeicultores a mercados, com apoio de Sebrae, Faemg/Senar, Espresso&CO, CNA e Aprocam"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/por-clima-conab-reduz-em-035-estimativa-de-safra-de-cana-do-brasil/",
-        "title": "Por Clima, Conab Reduz em 0,35% Estimativa de Safra de Cana do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cana_02set25_Elzauer_Getty-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Problemas climáticos afetaram a colheita que caminha para a fase final no centro-sul brasileiro"
     }
 ]
