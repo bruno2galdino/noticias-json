@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/producao-industrial-cai-04-em-setembro/",
+        "title": "Produção Industrial Cai 0,4% em Setembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/money_industria_maquinas_foto_Blair_Gable-Reuters_01.10.2025-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "Com esses resultados, o setor ainda está 14,8% abaixo do nível recorde alcançado em maio de 2011, segundo o IBGE"
+    },
+    {
+        "url": "https://forbes.com.br/destaque-1/2025/11/brandvoice-florense-luxo-brasileiro-com-visao-global-e-alma-artesanal/",
+        "title": "Luxo Brasileiro com Visão Global e Alma Artesanal",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/1-1-300x200.png",
+        "date": "04/11/2025",
+        "description": "Marca gaúcha Florense une tradição familiar, design autoral e inovação sustentável em nova fase internacional"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/renault-vende-participacao-de-264-da-operacao-do-brasil-para-chinesa-geely/",
+        "title": "Renault Vende Participação de 26,4% da Operação do Brasil para Chinesa Geely",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/03/B4-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "Enquanto a Geely terá acesso à fábrica de São José dos Pinhais, a Renault usará a arquitetura de veículos da chinesa para ampliar sua linha com veículos de zero e baixa emissão"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/11/dick-cheney-ex-vice-presidente-dos-eua-morre-aos-84-anos/",
+        "title": "Dick Cheney, Ex-vice-presidente dos EUA, Morre Aos 84 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/reuters-ex-vice-presidente-300x200.png",
+        "date": "04/11/2025",
+        "description": "O republicano é considerado por historiadores presidenciais como um dos vice-presidentes mais poderosos da história dos Estados Unidos"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/11/threads-ultrapassa-x-em-numero-de-usuarios-pela-primeira-vez-na-batalha-zuckerberg-vs-musk/",
         "title": "Threads Ultrapassa X em Número de Usuários Pela Primeira Vez na Batalha Zuckerberg Vs. Musk",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Captura-de-Tela-2025-11-04-as-09.05.48-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_tech_inteligencia_artificial_foto_Wanan_Yossingkum-Gettyimages_02.10.2025-1-300x200.jpg",
         "date": "04/11/2025",
         "description": "A euforia é evidente, e o crescimento do setor parece não dar sinais de desaceleração. Estamos realmente diante de uma bolha?"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/11/quando-a-ia-satura-o-feed-a-cultura-pop-e-os-ips-salvam-o-branding-e-a-receita/",
-        "title": "Enquanto a IA satura o Feed, Cultura Pop (e os IPs) Salvam a Receita em um Setor de R$40 Bi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/006_Pulse_Abarth-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Na iminência de um conteúdo cada vez mais sintético, propriedades intelectuais ganham força e relevância na estratégia de marcas que apostam em licenciamento e narrativas"
-    },
-    {
-        "url": "https://forbes.com.br/last/2025/11/como-criar-um-funil-de-vendas-de-alta-conversao-para-sua-pequena-empresa/",
-        "title": "Como Criar um Funil de Vendas de Alta Conversão para Sua Pequena Empresa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/MAKEMONEY-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Funis de vendas não convertem pessoas, eles revelam decisões que as pessoas já desejam tomar, quando você entende isso, tudo muda"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/11/como-a-nutricao-pode-ajudar-mulheres-a-recuperar-o-foco-e-vencer-o-brain-fog/",
-        "title": "Nutrindo o Cérebro: O Que Comer para Recuperar Foco e Clareza Mental",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/mulher-alimentacao-comida-bowl-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Especialistas afirmam que uma alimentação equilibrada e hábitos saudáveis fortalecem a memória e a clareza mental"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/luxuoso-conhaque-louis-xiii-ganha-embaixada-gastronomica-em-sao-paulo/",
-        "title": "Luxuoso Conhaque Louis XIII Ganha Embaixada Gastronômica em São Paulo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cognan-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Maison Rémy Martin elege o restaurante italiano Simone como endereço oficial para uma experiência harmonizada com um dos destilados mais cobiçados do mundo"
     }
 ]
