@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/mercado/408274-spotify-supera-expectativas-do-mercado-em-receita-e-novos-usuarios.htm",
+        "title": "Spotify supera expectativas do mercado em receita e novos usuários",
+        "description": "Relatório fiscal do terceiro trimestre tem números positivos após aumento de preço no Brasil e lançamento de funções.",
+        "image": "https://tm.ibxk.com.br/2025/03/06/06134529021335.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502731-xbox-game-pass-recebe-black-ops-7-e-mais-jogos-de-peso-em-novembro-veja-lista.htm",
         "title": "Xbox Game Pass recebe Black Ops 7 e mais jogos de peso em novembro! Veja lista",
         "description": "A Microsoft revelou a lista de jogos que chega em novembro ao Game Pass, que inclui títulos como Call of Duty: Black Ops 7, Sniper Elite: Resistance e mais! Confira os nomes",
@@ -46,13 +53,6 @@
         "title": "HBO Max recebe filmes e séries de peso em novembro! Veja lista de lançamentos",
         "description": "Documentário de Ayrton Senna, novos episódios de Bem-Vindos a Derry e mais! Confira o que chega no HBO Max no mês",
         "image": "https://tm.ibxk.com.br/2025/11/04/hbo_max_novembro_lancamentos_a72d09f957.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/408266-hyperos-31-sera-exclusivo-para-celulares-com-android-16.htm",
-        "title": "HyperOS 3.1 será exclusivo para celulares com Android 16",
-        "description": "Modelos como Xiaomi 12, Xiaomi MIX Fold 2, Poco F5, Redmi Note 13 5G e Redmi K60 Pro não devem receber a atualização para Android 16.",
-        "image": "https://tm.ibxk.com.br/2025/11/03/xiaomi_hyperos_3_1_e4984e096b.jpg",
         "date": null
     }
 ]
