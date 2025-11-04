@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/11/estudo-da-cit-e-fdc-destaca-dez-empresas-brasileiras-com-melhores-usos-de-ia/",
+        "title": "Estudo da Ci&T e FDC Destaca Dez Empresas Brasileiras com Melhores Usos de IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/396e96fc-30a6-47ee-ac62-0d796fc037f0-300x200.jpeg",
+        "date": "04/11/2025",
+        "description": "Levantamento inédito da Fundação Dom Cabral e da empresa de tecnologia revela que 80% das companhias já alinham IA à estratégia de negócios, e 62% têm programas formais de capacitação"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/11/mulheres-recebem-21-menos-que-homens-no-trabalho/",
+        "title": "Mulheres Recebem 21% Menos Que Homens no Trabalho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/salario-carreira-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "De acordo com Ministério do Trabalho e Emprego, a remuneração média das mulheres foi de R$ 3.908 contra R$ 4.958 dos homens"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/missao-global-traz-14-compradores-para-conhecer-o-cafe-da-mantiqueira-de-minas-gerais/",
+        "title": "Missão Global Traz 14 Compradores para Conhecer o Café da Mantiqueira de Minas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cafe_04nov25_SebraeMG_Divulg-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "Visitas a produtores em três cidades conectam 8 mil cafeicultores a mercados, com apoio de Sebrae, Faemg/Senar, Espresso&CO, CNA e Aprocam"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/por-clima-conab-reduz-em-035-estimativa-de-safra-de-cana-do-brasil/",
+        "title": "Por Clima, Conab Reduz em 0,35% Estimativa de Safra de Cana do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/agro_cana_02set25_Elzauer_Getty-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "Problemas climáticos afetaram a colheita que caminha para a fase final no centro-sul brasileiro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/haddad-diz-esperar-us-10-bi-em-aportes-de-paises-para-fundo-de-protecao-de-florestas/",
+        "title": "Haddad Espera US$ 10 Bi em Aportes de Países para Florestas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_Fronteira-entre-a-Amazonia-e-o-Cerrado-em-Nova-Xavantina-MT-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "De acordo com o ministro, essa seria apenas a fatia de recursos destinados por governos, com o valor podendo crescer com a adesão de outros tipos de entidades"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/cosan-precifica-emissao-de-acoes-e-alcanca-r-9-bi-lanca-nova-oferta-de-ate-r-144-bi/",
+        "title": "Cosan Precifica Emissão de Ações e Alcança R$ 9 Bi",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cosan-forbes-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "Recursos serão usados para melhorar o perfil de crédito e liquidez da empresa e de suas controladas e investidas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/producao-industrial-cai-04-em-setembro/",
         "title": "Produção Industrial Cai 0,4% em Setembro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/money_industria_maquinas_foto_Blair_Gable-Reuters_01.10.2025-300x200.jpg",
@@ -14,7 +56,7 @@
         "description": "Marca gaúcha Florense une tradição familiar, design autoral e inovação sustentável em nova fase internacional"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/renault-vende-participacao-de-264-da-operacao-do-brasil-para-chinesa-geely/",
+        "url": "https://forbes.com.br/forbes-money/2025/11/renault-vende-participacao-de-264-da-operacao-do-brasil-para-chinesa-geely/",
         "title": "Renault Vende Participação de 26,4% da Operação do Brasil para Chinesa Geely",
         "image": "https://forbes.com.br/wp-content/uploads/2024/03/B4-300x200.jpg",
         "date": "04/11/2025",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/reuters-ex-vice-presidente-300x200.png",
         "date": "04/11/2025",
         "description": "O republicano é considerado por historiadores presidenciais como um dos vice-presidentes mais poderosos da história dos Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/11/threads-ultrapassa-x-em-numero-de-usuarios-pela-primeira-vez-na-batalha-zuckerberg-vs-musk/",
-        "title": "Threads Ultrapassa X em Número de Usuários Pela Primeira Vez na Batalha Zuckerberg Vs. Musk",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Captura-de-Tela-2025-11-04-as-09.05.48-300x200.png",
-        "date": "04/11/2025",
-        "description": "Segundo dados da Similarweb,a plataforma da Meta alcançou uma média de 128,2 milhões de usuários por dia, enquanto o X, de Musk, teve 124,7 milhões de usuários diários"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-apos-o-recorde-do-ibovespa-dia-comeca-com-queda/",
-        "title": "Pré-mercado: após o Recorde do Ibovespa, Dia Começa com Queda",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "04/11/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 4 de novembro"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/10-estrategias-comprovadas-pela-ciencia-para-proteger-sua-saude-mental-no-trabalho/",
-        "title": "10 Estratégias para Proteger Sua Saúde Mental no Trabalho",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/CARREIRA_SAUDEMENTAL_TRABALHO_1608-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "À medida que nos aproximamos do fim do ano, especialistas defendem a adoção de hábitos para reduzir a ansiedade e prevenir o burnout"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/como-viajar-como-um-ultrarrico-em-2026/",
-        "title": "Como os Ultrarricos Viajarão em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Os-viajantes-de-luxo-priorizam-a-exclusividade-e-evitam-multidoes-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Levatamento mostra o que os indivíduos de alto patrimônio buscam ao viajar e quais destinos estão no seu radar para o próximo ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/conheca-o-bilionario-bob-rich-jr-dono-de-uma-agroindustria-familiar-de-us-7-bi-nos-eua/",
-        "title": "Bob Rich Jr. e  Mindy, os Sucessores Bilionários de um Negócio Que Começou com o Filho do Leiteiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Bob-Rich-Jr.-e-Mindy-Rich_03nov25_Rich-Products_Divul-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Agroindústria da família dona de um conglomerado fatura US$ 7 Bi e quer chegar a US$ 10 bi sem jamais abrir o capital"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/bolha-nas-acoes-de-ia-saiba-identificar-os-sinais-riscos-e-ciclos-de-mercado/",
-        "title": "“Bolha” nas Ações de IA? Saiba Identificar os Sinais, Riscos e Ciclos de Mercado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_tech_inteligencia_artificial_foto_Wanan_Yossingkum-Gettyimages_02.10.2025-1-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "A euforia é evidente, e o crescimento do setor parece não dar sinais de desaceleração. Estamos realmente diante de uma bolha?"
     }
 ]
