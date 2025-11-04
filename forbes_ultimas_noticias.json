@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/banco-central-abandona-o-blockchain-do-drex-o-projeto-do-real-digital/",
+        "title": "Banco Central Abandona o Blockchain do Drex, o Projeto do \"Real Digital\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/drex_cortada-300x200.webp",
+        "date": "04/11/2025",
+        "description": "Ainda não é certo se o projeto irá continuar ou não"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-renova-maxima-de-150-mil-pontos-e-dolar-sobe/",
+        "title": "Ibovespa Renova Máxima de 150 Mil Pontos e Dólar Sobe",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "04/11/2025",
+        "description": "O dólar acompanhou o movimento global de aversão a risco e subiu 0,77%"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/eua-impoem-sancoes-relacionadas-a-coreia-do-norte-a-individuos-e-entidades-por-lavagem-de-dinheiro/",
         "title": "EUA Impõem Sanções Relacionadas À Coreia do Norte a Indivíduos e Entidades por Lavagem de Dinheiro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Edificio-do-Tesouro-dos-EUA-em-Washington-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/leapmotor-c10-2024-300x200.jpg",
         "date": "04/11/2025",
         "description": "Stellantis e Leapmotor formalizaram uma joint venture para operar fora da China. Marca estreia no Brasil no final de novembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/plantio-de-soja-avanca-para-79-da-area-no-parana-colheita-de-trigo-vai-a-88-diz-deral/",
-        "title": "Plantio de Soja Avança para 79% da Área no Paraná, Colheita de Trigo Vai a 88%, Diz Deral",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-04T151851Z_1_LYNXMPELA30VN_RTROPTP_3_AGRICULTURE-PRIZE-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Avanço das lavouras de soja ocorre em ritmo mais lento que o registrado no mesmo período do ano passado"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/adm-corta-perspectiva-de-lucro-para-2025-com-incertezas-comerciais-e-sobre-biocombustiveis/",
-        "title": "ADM Corta Perspectiva de Lucro para 2025 com Incertezas Comerciais e sobre Biocombustíveis",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-04T145207Z_1_LYNXMPELA30UV_RTROPTP_4_ARGENTINA-GRAINS-SOYBEANS-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Tensões comerciais entre EUA e China derrubam preços agrícolas e pressionam o setor"
     }
 ]

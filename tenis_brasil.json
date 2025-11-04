@@ -1,17 +1,52 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-e-sinner-farao-exibicao-na-coreia-do-sul-em-janeiro.html",
-        "title": "Alcaraz e Sinner farão exibição na Coreia do Sul em janeiro",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/03/GI1kgt1bAAAUswJ-e1710692248687-1024x730.jpeg",
-        "date": "04/11/2025",
-        "description": "Incheon (Coreia do Sul) –Carlos Alcaraz e Jannik Sinner se enfrentarão em uma partida de exibição na Coreia do Sul, apenas oito dias antes do Australian Open, em janeiro."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-04-11.html",
         "title": "O dia dos brasileiros: veja os resultados desta terça",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli_uso_sozinho.jpg",
         "date": "04/11/2025",
         "description": "WTA Finals (Riad, Arábia Saudita) – Sintético (coberto) – US$ 15.500.000Duplas – Fase de grupos (2ª rodada) –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pedro-chabalgoity-marca-1o-ponto-na-atp-e-enfrenta-pucinelli.html",
+        "title": "Pedro Chabalgoity marca 1º ponto na ATP e enfrenta Pucinelli",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/chabalgoity_banana_back-1024x683.jpg",
+        "date": "04/11/2025",
+        "description": "Santa Cruz do Sul (RS) –O brasiliense Pedro Chabalgoity marcou nesta terça-feira seu primeiro ponto na ATP, aos 17 anos. Chabalgoity venceu o baiano Victor Rocha por 6/4 e 6/1 na estreia do ITF M25 de Santa Cruz do Sul, disputado nas quadras de saibro do Tênis Clube de Santa Cruz."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/korda-avanca-as-quartas-em-atenas-portugues-desafia-djokovic.html",
+        "title": "Korda avança às quartas em Atenas, português desafia Djokovic",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/korda-athens-2025-sunday-1024x576.jpg",
+        "date": "04/11/2025",
+        "description": "Atenas (Grécia) –O norte-americano Sebastian Korda é mais um classificado para as quartas de final do ATP 250 de Atenas. Ele superou nesta quarta-feira o bósnio Damir Dzumhur por 4/6, 6/3 e 6/3 em 1h56 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ce-entra-de-lucky-loser-no-wta-125-de-tucuman-e-vence-a-primeira.html",
+        "title": "Cé entra de lucky-loser no WTA 125 de Tucumán e vence a primeira",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/gabrielace_tucuman_back-1024x810.jpg",
+        "date": "04/11/2025",
+        "description": "Tucumán (Argentina) –A gaúcha Gabriela Cé aproveitou sua segunda oportunidade no WTA 125 de Tucumán. Depois de ter perdido seu jogo no quali na última segunda-feira, ela entrou de lucky-loser após a desistência da argentina Paula Ormaechea e estreou com vitória na chave principal."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/inscricoes-abertas-para-o-workshop-tenis-excelencia-em-ribeirao-preto.html",
+        "title": "Inscrições abertas para o Workshop Tênis Excelência em Ribeirão Preto",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/workshop-tenis-excelencia2.jpeg",
+        "date": "04/11/2025",
+        "description": "Ribeirão Preto (SP) –Estão abertas as inscrições para o Workshop Tênis Excelência, que será realizado no dia 28 de novembro, no Hotel JP, como parte da programação oficial da Ribeirão Tennis Week, semana que reunirá diversas atividades esportivas e educacionais dedicadas ao fortalecimento do tênis brasileiro."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/melo-e-matos-estreiam-com-vitoria-em-metz-romboli-e-smith-caem.html",
+        "title": "Melo e Matos estreiam com vitória em Metz, Romboli e Smith caem",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/melo_matos_bruxelas_cump_cabis.jpg",
+        "date": "04/11/2025",
+        "description": "Metz (França) –Os duplistas brasileiros tiveram rumos opostos na rodada de estreia do ATP 250 de Metz, em quadras duras e cobertas na França. A parceria nacional de Rafael Matos e Marcelo Melo avançou na competição, enquanto Fernando Romboli e o australiano John-Patrick Smith se despediram e encerram a temporada."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-e-sinner-farao-exibicao-na-coreia-do-sul-em-janeiro.html",
+        "title": "Alcaraz e Sinner farão exibição na Coreia do Sul em janeiro",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/03/GI1kgt1bAAAUswJ-e1710692248687-1024x730.jpeg",
+        "date": "04/11/2025",
+        "description": "Incheon (Coreia do Sul) –Carlos Alcaraz e Jannik Sinner se enfrentarão em uma partida de exibição na Coreia do Sul, apenas oito dias antes do Australian Open, em janeiro."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/djokovic-enfim-supera-tabilo-e-ja-esta-nas-quartas-em-atenas.html",
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/iga_anisimova_trofeus_wimbledon-1024x634.jpg",
         "date": "04/11/2025",
         "description": "Riad (Arábia Saudita) –A rodada desta quarta-feira no WTA Finals vai decidir mais uma semifinalista do torneio entre as oito melhores da temporada. Iga Swiatek e Amanda Anisimova se enfrentam a partir de 12h30 (de Brasília) pelo segundo lugar do Grupo Serena Williams, em Riad."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/veja-os-bastidores-da-sessao-de-fotos-oficiais-do-wta-finals-em-riad.html",
-        "title": "Veja os bastidores da sessão de fotos oficiais do WTA Finals em Riad",
-        "image": null,
-        "date": "04/11/2025",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ferrer-explica-ausencia-de-davidovich-fokina-nas-finais-da-copa-davis.html",
-        "title": "Ferrer explica ausência de Davidovich Fokina nas finais da Copa Davis",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/david-ferrer-capitao-espanha-davis.jpg",
-        "date": "04/11/2025",
-        "description": "Madri (Espanha)– Segundo melhor espanhol no ranking, atualmente na 14ª colocação, Alejandro Davidovich Fokina ficou de fora da convocação feita pelo capitão David Ferrer para as fases finais da Copa Davis, gerando questionamentos que ele próprio tratou de elucidar no programaEl Partidazo, da rádio Cadena Cope."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-supera-pegula-em-tres-sets-e-fica-muito-perto-da-semi.html",
-        "title": "Sabalenka supera Pegula em três sets e fica muito perto da semi",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/sabalenka_finals_grita_25-1024x693.jpg",
-        "date": "04/11/2025",
-        "description": "Riad (Arábia Saudita) –A busca de Aryna Sabalenka por um título inédito do WTA Finals continua nesta semana em Riad. A número 1 do mundo conseguiu sua segunda vitória na competição e está muito próxima da classificação para a semifinal. Sabalenka superou nesta terça-feira a norte-americana Jessica Pegula, quinta do ranking, por 6/4, 2/6 e 6/3 em 2h02 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/diretor-do-masters-1000-de-paris-revela-que-evento-deu-prejuizo.html",
-        "title": "Diretor do Masters 1000 de Paris revela que evento deu prejuízo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/CedricPioline-ConferencedepressebilanRolexParisMasters-AndreFerreiraFFT-1024x683.jpg",
-        "date": "04/11/2025",
-        "description": "Paris (França)– De casa nova em 2025, mudando do Palácio de Bercy para a La Défense Arena, o diretor do Masters 1000 de Paris, o francês Cédric Pioline, fez um balanço do torneio deste ano e destacou a importância da troca de local para deixar o evento ainda maior. Ele também tocou na questão financeira e contou que o torneio deu prejuízo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/marrero-e-jaziri-sao-punidos-por-violarem-regras-de-corrupcao-no-tenis.html",
-        "title": "Marrero e Jaziri são punidos por violarem regras de corrupção no tênis",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/Artes-fotos-multiplas-900x600-8.jpg",
-        "date": "04/11/2025",
-        "description": "Londres (Inglaterra)– A Agência Internacional de Integridade do Tênis (ITIA) informou nesta terça-feira que duas pessoas aceitaram punições por violarem as regras do Programa Anticorrupção do Tênis: o espanhol David Marrero e o tunisiano Malek Jaziri. Segundo o comunicado da ITIA, Marrero admitiu que pagou para receber convites em chaves de duplas ao lado do parceiro em quatro torneios profissionais entre 2022 e 2023."
     }
 ]
