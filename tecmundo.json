@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/produto/408291-realme-15t-chega-ao-brasil-com-bateria-grande-e-tela-de-brilho-alto.htm",
+        "title": "Realme 15T chega ao Brasil com bateria grande e tela de brilho alto",
+        "description": "Aparelho tem design curvado e fino, duas opções de cor e preço sugerido de R$ 2,7 mil no mercado nacional.",
+        "image": "https://tm.ibxk.com.br/2025/11/04/realme_15t_e661d3eb31.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/408295-openai-e-o-ipo-que-pode-redefinir-a-historia-da-tecnologia.htm",
+        "title": "OpenAI e o IPO que pode redefinir a história da tecnologia",
+        "description": "OpenAI se prepara para IPO de US$ 1 trilhão em 2027, redefinindo o futuro da IA e a transição do setor dos investimentos privados para o mercado público.",
+        "image": "https://tm.ibxk.com.br/2025/11/04/Getty_Images_1761645896_1e18c2dd53.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/mercado/408293-anatel-e-receita-apreendem-eletronicos-piratas-avaliados-em-r-2-milhoes.htm",
+        "title": "Anatel e Receita apreendem eletrônicos piratas avaliados em R$ 2 milhões",
+        "description": "As mais de 2 toneladas de produtos sem homologação estavam à venda em duas lojas da cidade de Campina Grande (PB).",
+        "image": "https://tm.ibxk.com.br/2025/11/04/produtos_piratas_apreendidos_e0a7dba04a.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/voxel/502729-switch-2-supera-ps5-e-se-torna-o-maior-lancamento-de-console-da-historia-veja-os-numeros.htm",
         "title": "Switch 2 supera PS5 e se torna o maior lançamento de console da história! Veja os números",
         "description": "A Nintendo revelou que o Switch 2 vendeu 10,3 milhões de unidades desde seu lançamento em junho, superando os números do PS4, PS5 e Switch original! Veja os detalhes",
@@ -25,41 +46,6 @@
         "title": "iPhone 17 vs 16: o que mudou e por que a Apple define o rumo da indústria",
         "description": "Três semanas após o lançamento, o iPhone 17 continua em destaque. Entenda como o novo modelo reforça o domínio da Apple no mercado com melhorias reais em design, desempenho e câmera.",
         "image": "https://tm.ibxk.com.br/2025/11/04/Captura_de_tela_2025_11_04_155134_f1a0c365bf.png",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/408285-eletroportateis-a-partir-de-r61-no-super-1111-da-casas-bahia-confira-ofertas.htm",
-        "title": "Eletroportáteis a partir de R$61 no Super 11.11 da Casas Bahia; confira ofertas",
-        "description": "De fritadeiras elétricas e sanduicheiras a robôs aspiradores, aproveite preços mais baixos em eletroportáteis nas ofertas antecipadas do Super 11.11 nas Casas Bahia para equipar o lar gastando bem menos por tempo limitado",
-        "image": "https://tm.ibxk.com.br/2025/11/04/Robo_Aspirador_de_Po_Karcher_RCV_2_1000x400_fc5b53a284.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/minha-serie/602415-eleven-tera-novos-poderes-e-estara-mais-forte-que-nunca-em-stranger-things-5-entenda.htm",
-        "title": "Eleven terá novos poderes e estará mais forte que nunca em Stranger Things 5! Entenda",
-        "description": "Trailer da última temporada de Stranger Things mostra que Onze vai estar ainda mais poderosa para seu confronto definitivo com Vecna",
-        "image": "https://tm.ibxk.com.br/2025/11/04/Trailer_Stranger_Things_Novo_Poder_Onze_ed5ca3a0f2.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/produto/408280-executivo-da-microsoft-defende-que-ia-nunca-tera-consciencia.htm",
-        "title": "Executivo da Microsoft defende que IA nunca terá consciência",
-        "description": "Chefão da divisão de inteligência artificial da gigante também diz que a empresa nunca criará robôs sexuais.",
-        "image": "https://tm.ibxk.com.br/2025/11/04/cerebro_IA_ac1fabb295.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/seguranca/408282-novo-trojan-bancario-ataca-celulares-android-em-busca-de-apps-de-financas.htm",
-        "title": "Novo trojan bancário ataca celulares Android em busca de apps de finanças",
-        "description": "O BankBot-YNRK é um novo trojan bancário para Android usa falha de acessibilidade para roubar dados e criptomoedas, explorando brechas no sistema e técnicas avançadas de camuflagem.",
-        "image": "https://tm.ibxk.com.br/2025/11/04/trojan_android_b171946358.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/408287-como-desativar-liquid-glass-no-ios-26-para-melhorar-legibilidade-no-iphone.htm",
-        "title": "Como desativar Liquid Glass no iOS 26 para melhorar legibilidade no iPhone",
-        "description": "No iOS 26.1, a Apple adicionou uma opção para reduzir a transparência do Liquid Glass e melhorar a legibilidade.",
-        "image": "https://tm.ibxk.com.br/2025/06/09/09144905690130.jpg",
         "date": null
     }
 ]

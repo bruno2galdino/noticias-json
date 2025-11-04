@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/eua-impoem-sancoes-relacionadas-a-coreia-do-norte-a-individuos-e-entidades-por-lavagem-de-dinheiro/",
+        "title": "EUA Impõem Sanções Relacionadas À Coreia do Norte a Indivíduos e Entidades por Lavagem de Dinheiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Edificio-do-Tesouro-dos-EUA-em-Washington-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "A declaração do Departamento do Tesouro listou sete indivíduos como representantes norte-coreanos baseados na China ou na Rússia"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/11/bid-emite-us100-mi-em-primeiros-titulos-amazonia-e-diz-esperar-adesao-do-brasil/",
         "title": "BID Emite US$100 Mi em Primeiros Títulos Amazônia e Diz Esperar Adesão do Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Floresta-amazonica-na-cidade-de-Belem-no-Para-300x200.jpg",
@@ -22,7 +29,7 @@
     },
     {
         "url": "https://forbes.com.br/geral/2025/11/louvre-tinha-falhas-de-seguranca-antes-de-roubo-feito-por-amadores/",
-        "title": "Louvre Tinha Falhas de Segurança Antes de Roubo Feito por Amadores",
+        "title": "Louvre Tinha Falhas de Segurança Antes de Roubo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Pessoas-fazem-fila-para-entrar-no-Museu-do-Louvre-em-Paris-Franca-300x200.jpg",
         "date": "04/11/2025",
         "description": "Relatórios apontam vulnerabilidades antigas no sistema de vigilância do museu, alvo de roubo de joias avaliado em US$ 102 milhões, conduzido por pequenos criminosos do norte de Paris"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-04T145207Z_1_LYNXMPELA30UV_RTROPTP_4_ARGENTINA-GRAINS-SOYBEANS-300x200.jpg",
         "date": "04/11/2025",
         "description": "Tensões comerciais entre EUA e China derrubam preços agrícolas e pressionam o setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/omnia-do-patria-anuncia-participacao-junto-a-casa-dos-ventos-em-mega-data-center-para-tiktok/",
-        "title": "Omnia, do Patria, Anuncia Participação Junto À Casa dos Ventos em Mega Data Center para TikTok",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/08/ForbesMoney_turbinas-eolicas_Sergio-Perez_Reuters.png",
-        "date": "04/11/2025",
-        "description": "O projeto aguarda ainda a licença de instalação pela Superintendência Estadual do Meio Ambiente (Semace) do Ceará"
     }
 ]
