@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/11/brandvoice-elo-aposta-em-moda-autoral-e-musica-brasileira-para-se-conectar-com-o-publico-de-alta-renda/",
+        "title": "Elo Aposta em Moda Autoral e Música Brasileira para se Conectar com o Público de Alta Renda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/1-2-300x200.png",
+        "date": "05/11/2025",
+        "description": "Marca amplia presença no segmento premium com iniciativas que unem sofisticação, propósito e brasilidade"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/11/coluna-iona-szkurnika-bolha-em-ia-o-descompasso-entre-o-que-se-promete-e-o-que-se-entrega/",
+        "title": "A Bolha em IA: o Descompasso entre o Que se Promete e o Que se Entrega",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-2197955227-300x200.jpg",
+        "date": "05/11/2025",
+        "description": "Entre promessas grandiosas e retornos incertos, a inteligência artificial repete o ciclo de euforia e correção que já marcou outras revoluções tecnológicas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/bitcoin-despenca-abaixo-de-us-100-mil-e-apaga-us-840-bi-do-mercado/",
         "title": "Bitcoin Despenca Abaixo de US$ 100 Mil e Apaga US$ 840 Bi do Mercado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/09/Life_Emirates-6-300x200.jpg",
         "date": "05/11/2025",
         "description": "A companhia desenvolveu uma estrutura integrada que reúne dados meteorológicos, relatórios de pilotos e informações de sensores para gerar previsões mais precisas e detalhadas"
-    },
-    {
-        "url": "https://forbes.com.br/escolhas-do-editor/2025/11/robos-humanoides-para-quase-todos-os-bolsos-quem-sao-e-quanto-valem/",
-        "title": "Robôs Humanoides para Diversos Bolsos: Quais São e Quanto Valem",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Neo_Robot-300x200.jpg",
-        "date": "05/11/2025",
-        "description": "Na semana passada, o lançamento do NEO pela 1X Robotics, avaliado em US$ 15 mil, reacendeu o interesse pelo que há de mais avançado em tecnologia robótica disponível para o público"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/apesar-da-melhora-na-inflacao-copom-deve-manter-selic-estavel-em-15/",
-        "title": "Apesar da Melhora na Inflação, Copom Deve Manter Selic Estável em 15%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-1-300x200.png",
-        "date": "05/11/2025",
-        "description": "Especialistas esperam tom duro no comunicado, mas melhora nas projeções de inflação e eliminação do risco de nova alta da Selic"
     }
 ]
