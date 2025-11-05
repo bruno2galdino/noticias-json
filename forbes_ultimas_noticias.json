@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesesg/2025/11/incendios-florestais-e-altas-temperaturas-ameacam-florestas-do-hemisferio-norte-diz-onu/",
+        "title": "Incêndios Florestais e Altas Temperaturas Ameaçam Florestas do Hemisfério Norte, Diz ONU",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-05T150628Z_1_LYNXMPELA40VU_RTROPTP_4_CLIMA-COP30-FLORESTAS-300x200.jpg",
+        "date": "05/11/2025",
+        "description": "Estudo alerta para queda na capacidade das florestas do hemisfério norte de absorver carbono antes da COP30"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/bmw-aumenta-margem-de-lucro-a-medida-que-gastos-com-ev-ultrapassam-pico/",
+        "title": "BMW Aumenta Margem de Lucro À Medida Que Gastos com EV Ultrapassam Pico",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-05T151214Z_1_LYNXMPELA40WA_RTROPTP_4_INDIA-AUTOSHOW-300x200.jpg",
+        "date": "05/11/2025",
+        "description": "Mesmo em meio a tarifas elevadas e pressão chinesa, montadoras europeias conseguiram algum fôlego nos resultados"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/gpa-promete-reduzir-custos-despesas-e-investimentos-em-2026/",
+        "title": "GPA Promete Reduzir Custos, Despesas e Investimentos em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/07/GPA_forbesmoney-300x200.jpg",
+        "date": "05/11/2025",
+        "description": "A proposta inclui corte significativo de custos para aumentar a eficiência e equilibrar as contas da empresa"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/bunge-supera-estimativas-com-lucro-recorde-no-processamento-de-soja/",
         "title": "Bunge Supera Estimativas com Lucro Recorde no Processamento de Soja",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_bunge_logo_Reuters_Divulgacao_05.11.2025-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-2197955227-300x200.jpg",
         "date": "05/11/2025",
         "description": "Entre promessas grandiosas e retornos incertos, a inteligência artificial repete o ciclo de euforia e correção que já marcou outras revoluções tecnológicas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/bitcoin-despenca-abaixo-de-us-100-mil-e-apaga-us-840-bi-do-mercado/",
-        "title": "Bitcoin Despenca Abaixo de US$ 100 Mil e Apaga US$ 840 Bi do Mercado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-1-300x200.png",
-        "date": "05/11/2025",
-        "description": "Em queda de 6,4% em um único dia, a criptomoeda lidera movimento que eliminou 20% do valor global dos criptoativos em um mês"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/itau-bate-recorde-e-lucra-r119-bi-no-trimestre/",
-        "title": "Itaú Bate Recorde E Lucra R$11,9 Bi No Trimestre",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/12/Banco_Itau_7dez24_Joa_Souza_-Getty-1-300x200.jpg",
-        "date": "05/11/2025",
-        "description": "Resultado trimestral supera expectativa e confirma liderança em lucro e eficiência frente a Bradesco e Santander"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-resultado-do-copom-no-brasil-e-dados-de-emprego-nos-eua/",
-        "title": "Pré-mercado: Resultado do Copom no Brasil e Dados de Emprego nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "05/11/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 5 de novembro"
     }
 ]
