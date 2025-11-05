@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/11/camara-aprova-ampliacao-gradual-da-licenca-paternidade/",
+        "title": "Câmara Aprova Ampliação Gradual da Licença-Paternidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/carreira-licenca-paternidade-300x200.jpg",
+        "date": "04/11/2025",
+        "description": "Licença passará de 10 para 20 dias a partir do quarto ano da lei"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/banco-central-abandona-o-blockchain-do-drex-o-projeto-do-real-digital/",
         "title": "Banco Central Abandona o Blockchain do Drex, o Projeto do \"Real Digital\"",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/drex_cortada-300x200.webp",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-44-1-300x200.jpg",
         "date": "04/11/2025",
         "description": "Decisão da Alta Corte britânica reconhece violação de marca registrada, mas limita impacto sobre direitos autorais e uso de IA na criação de imagens"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/como-a-leapmotor-virou-peca-chave-nos-carros-eletricos-da-stellantis-no-brasil/",
-        "title": "Como A Leapmotor Virou Peça-Chave Nos Carros Elétricos Da Stellantis No Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/leapmotor-c10-2024-300x200.jpg",
-        "date": "04/11/2025",
-        "description": "Stellantis e Leapmotor formalizaram uma joint venture para operar fora da China. Marca estreia no Brasil no final de novembro"
     }
 ]
