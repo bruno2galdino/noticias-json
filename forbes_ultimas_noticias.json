@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://forbes.com.br/geral/2025/11/mapa-de-baku-a-belem-define-plano-global-para-destravar-o-financiamento-climatico/",
-        "title": "Mapa de Baku a Belém Define Plano Global para Destravar o Financiamento Climático",
+        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-bate-recorde-e-supera-os-153-mil-pontos/",
+        "title": "Ibovespa Bate Recorde e Supera os 153 Mil Pontos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "05/11/2025",
+        "description": "O indicador avançou quase 2% com Copom no radar"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/mapa-de-baku-a-belem-define-plano-global-para-destravar-o-financiamento-climatico/",
+        "title": "Mapa de Baku a Belém Define Plano Global para Financiamento Climático e Mira US$ 1,3 Trilhão/Ano",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/COP30_-Blue_Zone_04nov25_Marcelo-Souza-Ag.-Para-300x200.jpg",
         "date": "05/11/2025",
-        "description": "Documento estabelece cinco eixos para realinhar o sistema financeiro internacional ao desafio nos países em desenvolvimento que demandam US$ 1,3 trilhão por ano"
+        "description": "Documento estabelece cinco eixos para realinhar o sistema financeiro internacional ao desafio nos países em desenvolvimento"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/11/embraer-estuda-novos-produtos-mas-enfatiza-a-disciplina-financeira/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-46-300x200.jpg",
         "date": "05/11/2025",
         "description": "Para Borge Brende, presidente do Fórum, otimismo excessivo e dívidas recordes podem inflar bolhas nos mercados de tecnologia e criptomoeda"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/as-novidades-da-apple-que-estao-redefinindo-o-ambiente-corporativo/",
-        "title": "As Novidades da Apple Que Estão Redefinindo o Ambiente Corporativo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-27-300x200.png",
-        "date": "05/11/2025",
-        "description": "What’s New for Business, realizado em setembro, apresentou linha completa que une tecnologia, produtividade e segurança às organizações"
     }
 ]
