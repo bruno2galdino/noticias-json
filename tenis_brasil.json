@@ -1,10 +1,45 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/enzo-kohlmann-e-pedro-rodrigues-estreiam-bem-em-orlando.html",
+        "title": "Enzo Kohlmann e Pedro Rodrigues estreiam bem em Orlando",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/kohlmann_engiebrb_fore.jpg",
+        "date": "05/11/2025",
+        "description": "Orlando (EUA) –Em rodada com três brasileiros, o paulista Enzo Kohlmann e o mineiro Pedro Rodrigues estrearam com vitória no ITF M15 de Orlando, em quadras de saibro nos Estados Unidos."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-05-11.html",
         "title": "O dia dos brasileiros: veja os resultados desta quarta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/saraiva_piracicaba_fore.jpg",
         "date": "05/11/2025",
         "description": "WTA 125 de Tucumán (Argentina) – Saibro – US$ 115 milSegunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/julia-konishi-estreia-com-vitoria-em-itf-argentino-no-saibro.html",
+        "title": "Júlia Konishi estreia com vitória em ITF argentino no saibro",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/konishi_vacaria_prepara-1024x649.jpg",
+        "date": "05/11/2025",
+        "description": "Neuquen (Argentina) –As brasileiras tiveram rumos opostos na rodada desta quarta-fiera do ITF W15 de Neuquen, em quadras de saibro na Argentina, diante de tenistas da casa. Júlia Konishi estreou com vitória, enquanto Catarina Melleiro foi eliminada."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/demoliner-luz-e-saraiva-vao-as-quartas-nas-duplas-em-lima.html",
+        "title": "Demoliner, Luz e Saraiva vão às quartas nas duplas em Lima",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/luz_demo_braga_cump-1024x683.jpg",
+        "date": "05/11/2025",
+        "description": "Lima (Peru) –Três brasileiros estão nas quartas de final de duplas do challenger de Lima, em quadras de saibro. Os gaúchos Orlando Luz e Marcelo Demoliner jogam juntos, enquanto o brasiliense Paulo Saraiva tem como parceiro o mexicano Rodrigo Pacheco Mendez."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ce-e-superada-nas-oitavas-por-favorita-suica-em-tucuman.html",
+        "title": "Cé é superada nas oitavas por favorita suíça em Tucuman",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/gabriela_ce_tucuman_fore.jpg",
+        "date": "05/11/2025",
+        "description": "Tucumán (Argentina) –Depois de conseguir uma vaga como lucky-loser e vencer seu primeiro jogo na chave principal, Gabriela Cé se despediu nesta quarta-feira do WTA 125 de Tucumán, em quadras de saibro na Argentina. A gaúcha perdeu por duplo 6/4 para a suíça Simona Waltert, cabeça 2 do torneio e 93ª do mundo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/lucky-loser-ucraniano-elimina-bublik-em-metz-tien-e-berrettini-duelam.html",
+        "title": "Lucky-loser ucraniano elimina Bublik em Metz, Tien e Berrettini duelam",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/s-metz-2025-wednesday-1024x576.jpg",
+        "date": "05/11/2025",
+        "description": "Metz (França) –Depois de entrar na chave como lucky-loser, o ucraniano Vitaliy Sachko segue com grandes resultados no ATP 250 de Metz, em quadras duras e cobertas. Depois de eliminar o francês Giovanni Perricard na estreia, o jogador de 28 anos e 222º do ranking superou também o cazaque Alexander Bublik, número 13 do mundo, por 7/5, 3/6 e 7/5."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/musetti-supera-wawrinka-em-atenas-e-segue-em-busca-do-finals.html",
@@ -14,8 +49,8 @@
         "description": "Atenas (Grécia) –A busca de Lorenzo Musetti pela última vaga no ATP Finals continua nesta semana em Atenas. O italiano, que precisa do título no ATP 250 da capital grega para ultrapassar Félix Auger-Aliassime e voltar ao top 8, estreou nesta quarta-feira vencendo o suíço Stan Wawrinka por 4/6, 7/6 (7-5) e 6/4 em 2h25."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/mertens-e-kuderemtova-eliminam-italianas-e-vao-a-semi-de-duplas.html",
-        "title": "Mertens e Kuderemtova eliminam italianas e vão à semi de duplas",
+        "url": "https://tenisbrasil.uol.com.br/mertens-e-kudermetova-eliminam-italianas-e-vao-a-semi-de-duplas.html",
+        "title": "Mertens e Kudermetova eliminam italianas e vão à semi de duplas",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/mertens_kudermetova_finals-1024x572.jpg",
         "date": "05/11/2025",
         "description": "Riad (Arábia Saudita) –No encontro entre as parcerias campeãs de Roland Garros e Wimbledon, a belga Elise Mertens e a russa Veronika Kudermetova garantiram vaga na semifinal de duplas do WTA Finals após vencerem as italianas Sara Errani e Jasmine Paolini por duplo 6/3."
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/anisimova_finals_comemora.jpg",
         "date": "05/11/2025",
         "description": "Riad (Arábia Saudita) –A melhor temporada da carreira de Amanda Anisimova ganhou mais um grande resultado nesta quarta-feira, com a classificação para a semifinal do WTA Finals. A norte-americana virou o jogo contra a polonesa Iga Swiatek, número 2 do mundo e campeã de 2023, com parciais de 6/7 (3-7), 6/4 e 6/2 para ficar com a segunda posição do grupo Serena Williams em Riad."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-e-kyrgios-garantem-presenca-em-evento-com-osaka-e-paul.html",
-        "title": "Sabalenka e Kyrgios garantem presença em evento com Osaka e Paul",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/251208_MSG_Garden_Cup_EDP_VLP_1024x576_V2_1758727168559-e1762367240471.jpg",
-        "date": "05/11/2025",
-        "description": "Nova York (EUA)– A pré-temporada será cheia para a bielorrussa Aryna Sabalenka e o australiano Nick Kyrgios, que além de se enfrentaremem mais uma “Batalha dos Sexos”, também participarão de uma exibição em Nova York."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/embora-ainda-sem-data-jabeur-garante-seu-retorno-ao-circuito.html",
-        "title": "Embora ainda sem data, Jabeur garante seu retorno ao circuito",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/Ons_Jabeur_-_Berlin_Tennis_Open_2025_-_Day_3-DSC_4537_xgaplus.jpg",
-        "date": "05/11/2025",
-        "description": "Riad (Arábia Saudita)– A tunisiana Ons Jabeur, que decidiu fazer uma pausa na carreira profissional desde Wimbledon, garante que a aposentadoria não está nos planos. Em entrevista aoThe National, ela contou que irá voltar a competir assim que seu corpo e mente estiverem prontos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rybakina-vence-substituta-de-keys-e-chega-invicta-as-semifinais.html",
-        "title": "Rybakina vence substituta de Keys e chega invicta às semifinais",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/Elena_Rybakina_-_WTA_Finals_Riyadh_2025_-_Day_1-DSC_6084A_xgaplus.jpg",
-        "date": "05/11/2025",
-        "description": "Riad (Arábia Saudita)– Depois de duas vitórias nos dois primeiros jogos e a classificação já garantida para as semifinais do WTA Finals, a cazaque Elena Rybakina encerrou sua participação na fase de grupos nesta quarta-feira batendo a russa Ekaterina Alexandrova com parciais de 6/4 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sorteio-do-atp-finals-acontecera-na-proxima-quinta-feira-as-8h.html",
-        "title": "Sorteio do ATP Finals acontecerá na próxima quinta-feira às 8h",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nitto-atp-finals-2025-trophy-tour-e1762353686852-1024x682.jpg",
-        "date": "05/11/2025",
-        "description": "Turim (Itália)– O sorteio dos grupos do Finals de 2025 acontecerá na quinta-feira às 8h (horário de Brasília). Os fãs poderão acompanhar ao vivo, por transmissão online, como ficarão divididos os oito jogadores nos dois grupos de quatro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/atp-revela-um-novo-logotipo-e-identidade-visual-para-temporada-de-2026.html",
-        "title": "ATP revela um novo logotipo e identidade visual para temporada de 2026",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/alcaraz-brand-nov-2025-1024x576.jpg",
-        "date": "05/11/2025",
-        "description": "Londres (Inglaterra)– A ATP revelou nesta quarta-feira a mais recente evolução de seu icônico logotipo: a sexta em seus 54 anos de história. De acordo com a entidade, o design renovado moderniza a identidade visual da ATP, mantendo o legado e o espírito que definem o tênis profissional masculino."
     }
 ]
