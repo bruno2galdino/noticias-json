@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/11/yuval-harari-se-voce-nao-tem-tempo-voce-pobre/",
+        "title": "Yuval Harari: “Se Você Não Tem Tempo, Você É Pobre”",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/carreira-yuval-harari-getty-NurPhoto--300x200.jpg",
+        "date": "06/11/2025",
+        "description": "Em São Paulo, autor israelense do best-seller “Sapiens” afirmou que a sociedade não deve ser liderada por mentes perturbadas e sem tempo para relaxar"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/empresa-chinesa-assina-acordos-agricolas-avaliados-em-us-52-bi-com-operadores/",
+        "title": "Empresa Chinesa Assina Acordos Agrícolas Avaliados em US$ 5,2 Bi com Operadores",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_feijao_Foto_Westend61-GettyImages_31.10.2025-300x200.jpg",
+        "date": "06/11/2025",
+        "description": "Os contratos assinados abrangem soja, milho e algodão, entre outros produtos"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/11/emissoes-globais-crescem-34-desde-1995-diz-onu/",
         "title": "Emissões Globais Crescem 34% Desde 1995, Diz ONU",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-47-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/10/agro_Buck_family_forest_Maine__08out23_Guettyimages-300x200.jpg",
         "date": "06/11/2025",
         "description": "Brasil e Indonésia lideram aportes ao fundo florestal e esperam adesão de novas economias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/apple-negocia-com-google-para-rodar-gemini-na-nova-versao-da-siri/",
-        "title": "Apple Negocia Acordo de US$ 1 Bilhão com Google para Utilizar Gemini",
-        "image": "https://forbes.com.br/wp-content/uploads/2020/05/google_apple_Dado-Ruvic_reuters.jpg",
-        "date": "06/11/2025",
-        "description": "As empresas estão finalizando um acordo que faria a dona do iPhone pagar cerca de US$ 1 bilhão por ano pelo acesso à tecnologia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/suprema-corte-americana-demonstra-ceticismo-sobre-tarifas-de-trump-e-pode-mudar-o-jogo/",
-        "title": "Suprema Corte Americana Demonstra Ceticismo sobre Tarifas de Trump e Pode Mudar o Jogo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/donald-trump-1-300x200.jpg",
-        "date": "06/11/2025",
-        "description": "Uma decisão final sobre as tarifas só deve ser tomada em meados do próximo ano"
     }
 ]
