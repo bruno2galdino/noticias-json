@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/nova-fabrica-da-heineken-reforca-ofensiva-contra-a-ambev-no-mercado-premium/",
+        "title": "Nova Fábrica da Heineken Reforça Ofensiva Contra a Ambev no Mercado Premium",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2025-07-28T110728Z_1_LYNXMPEL6R0I0_RTROPTP_4_HEINEKEN-RESULTS-300x200.jpg",
+        "date": "06/11/2025",
+        "description": "Unidade em Passos (MG) recebeu investimentos de R$ 2,5 bilhões e tem capacidade de produzir 5 milhões de hectolitros por ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-bate-154-mil-pontos-mas-reduz-folego-em-dia-apos-copom/",
+        "title": "Ibovespa Bate 154 Mil Pontos, Mas Reduz Fôlego em Dia após Copom",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "06/11/2025",
+        "description": "O indicador registrou a 12ª sessão consecutiva no positivo"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/fundo-para-florestas-tropicais-atinge-aporte-de-us-55-bilhoes/",
+        "title": "COP30: Fundo para Florestas Tropicais Atinge Aporte de US$ 5,5 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cop30_belem_floresta-amazonica-300x200.jpg",
+        "date": "06/11/2025",
+        "description": "Noruega, Indonésia e França anunciaram investimentos no TFFF"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/11/eua-podem-cancelar-ate-4-mil-voos-por-dia-devido-a-paralisacao/",
+        "title": "EUA Podem Cancelar Até 4 Mil Voos Por Dia Devido à Paralisação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-48-300x200.jpg",
+        "date": "06/11/2025",
+        "description": "Redução anunciada pela FAA atinge 40 aeroportos e pode cancelar até 4 mil voos por dia, ampliando o caos no transporte aéreo"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/11/yuval-harari-se-voce-nao-tem-tempo-voce-pobre/",
         "title": "Yuval Harari: “Se Você Não Tem Tempo, Você É Pobre”",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/carreira-yuval-harari-getty-NurPhoto--300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2021/09/ForbesMoney_IPO-grafico_djgunner_Getty-Images-2.png",
         "date": "06/11/2025",
         "description": "Banco Central mantém Selic em 15% e reforça cautela. Entenda os impactos e estratégias de investimento até o próximo ciclo de cortes"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/forbes-mulher-agro-inovacao-ciencia-e-regulacao-a-triade-que-impulsiona-o-futuro-da-alimentacao/",
-        "title": "Inovação, Ciência e Regulação: a Tríade Que Impulsiona o Futuro da Alimentação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_mesa_com_comida_Foto_REDA-GettyImages_06.11.2025-300x200.jpg",
-        "date": "06/11/2025",
-        "description": "Avanço depende de alinhamento tecnológico às exigências regulatórias e à competitividade do setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/11/instituto-vencer-o-cancer-realiza-jantar-beneficente-em-prol-da-pesquisa-cientifica/",
-        "title": "Instituto Vencer o Câncer Realiza Jantar Beneficente em Prol da Pesquisa Científica",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-Site-para-BVs-Comercial-3-300x200.png",
-        "date": "06/11/2025",
-        "description": "Leilão arrecadou mais de R$ 900 mil; evento contou com a presença de autoridades, empresários e artistas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/acordo-do-google-para-reflorestamento-da-amazonia-torna-startup-brasileira-sua-principal-fornecedora-de-creditos-de-carbono/",
-        "title": "Acordo do Google para Reflorestamento da Amazônia Torna Startup Brasileira Sua Principal Fornecedora de Créditos de Carbono",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/07/tech-nfts-amazonia-18Jul23-GettyImages-300x200.jpg",
-        "date": "06/11/2025",
-        "description": "O acordo destaca como as grandes empresas de tecnologia estão procurando maneiras de amenizar os impactos climáticos de seu enorme investimento em data centers"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/paises-devem-anunciar-primeiros-investimentos-em-fundo-para-preservacao-de-florestas/",
-        "title": "Países Devem Anunciar Primeiros Investimentos em Fundo para Preservação de Florestas",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/10/agro_Buck_family_forest_Maine__08out23_Guettyimages-300x200.jpg",
-        "date": "06/11/2025",
-        "description": "Brasil e Indonésia lideram aportes ao fundo florestal e esperam adesão de novas economias"
     }
 ]
