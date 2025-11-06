@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbesesg/2025/11/emissoes-globais-crescem-34-desde-1995-diz-onu/",
+        "title": "Emissões Globais Crescem 34% Desde 1995, Diz ONU",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-47-300x200.jpg",
+        "date": "06/11/2025",
+        "description": "Apesar de US$2,2 trilhões investidos em energia limpa, consumo de combustíveis fósseis continua alto e metas climáticas de 2035 seguem insuficientes"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/carga-de-sorgo-dos-eua-segue-para-china-apos-reuniao-trump-xi-diz-associacao/",
+        "title": "Carga de Sorgo dos EUA Segue para China após Reunião Trump-xi, Diz Associação",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/10/agro-sorgo-lavoura-05out22-reproducao-forbes-300x200.jpg",
+        "date": "06/11/2025",
+        "description": "Primeira carga de sorgo enviada dos EUA à China marca reaproximação entre as duas maiores economias e pode reabrir mercado de US$ 1,8 bi"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/axia-anuncia-dividendos-de-r-43-bi-mesmo-apos-prejuizo-com-venda-da-eletronuclear/",
+        "title": "Axia Anuncia Dividendos de R$ 4,3 Bi Mesmo após Prejuízo com Venda da Eletronuclear",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/10/2024-10-14T125420Z_1_LYNXMPEK9D0D4_RTROPTP_4_SPAIN-ENERGY-1-300x200.jpg",
+        "date": "06/11/2025",
+        "description": "O lucro da empresa ficou em R$ 2,2 bilhões no terceiro trimestre, uma queda de 68% na comparação anual"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/11/selic-em-15-cautela-ou-excesso-o-que-a-decisao-do-banco-central-revela-sobre-a-economia-brasileira/",
+        "title": "Selic em 15%: Cautela ou Excesso? O Que a Decisão do Banco Central Revela sobre a Economia Brasileira",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/09/ForbesMoney_IPO-grafico_djgunner_Getty-Images-2.png",
+        "date": "06/11/2025",
+        "description": "Banco Central mantém Selic em 15% e reforça cautela. Entenda os impactos e estratégias de investimento até o próximo ciclo de cortes"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/forbes-mulher-agro-inovacao-ciencia-e-regulacao-a-triade-que-impulsiona-o-futuro-da-alimentacao/",
+        "title": "Inovação, Ciência e Regulação: a Tríade Que Impulsiona o Futuro da Alimentação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_mesa_com_comida_Foto_REDA-GettyImages_06.11.2025-300x200.jpg",
+        "date": "06/11/2025",
+        "description": "Avanço depende de alinhamento tecnológico às exigências regulatórias e à competitividade do setor"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/11/instituto-vencer-o-cancer-realiza-jantar-beneficente-em-prol-da-pesquisa-cientifica/",
         "title": "Instituto Vencer o Câncer Realiza Jantar Beneficente em Prol da Pesquisa Científica",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-Site-para-BVs-Comercial-3-300x200.png",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/donald-trump-1-300x200.jpg",
         "date": "06/11/2025",
         "description": "Uma decisão final sobre as tarifas só deve ser tomada em meados do próximo ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/anec-projeta-aumento-nas-exportacoes-de-soja-e-milho-em-novembro/",
-        "title": "Anec Projeta Aumento nas Exportações de Soja e Milho em Novembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_colheita_de_soja_Foto_REUTERS-Rodolfo_Buhrer_06.11.2025-300x200.jpg",
-        "date": "06/11/2025",
-        "description": "A exportação de soja é projetada em 3,77 milhões de toneladas, um aumento de 61% sobre o volume de 2024"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/11/spotify-sessions-estreia-no-brasil-com-ana-castela/",
-        "title": "Spotify Sessions Estreia no Brasil com Ana Castela",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/ana-castela-300x200.png",
-        "date": "06/11/2025",
-        "description": "O \"show\" virtual faz parte da estratégia para aumentar o consumo de conteúdos em vídeo dentro da plataforma"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/11/cop30-vice-primeiro-ministro-da-china-pede-fim-de-barreiras-comerciais-que-impedem-transicao-verde/",
-        "title": "COP30: Vice-Primeiro-Ministro da China Pede Fim de Barreiras Comerciais Que Impedem Transição Verde",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-1473134106-300x200.jpg",
-        "date": "06/11/2025",
-        "description": "Líder defendeu maior cooperação global e livre comércio para impulsionar a transição verde"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/china-inicia-compras-simbolicas-de-graos-dos-eua/",
-        "title": "China Inicia Compras Simbólicas de Grãos dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_exportacao_graos_EUA_Foto_EducationImages-GettyImages_06.11.2025-300x200.jpg",
-        "date": "06/11/2025",
-        "description": "Traders veem a compra de trigo como um gesto político, já que o grão americano não é o mais barato"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/nubank-vai-mudar-modelo-de-trabalho-para-sistema-hibrido-em-2026/",
-        "title": "Nubank Encerra Trabalho Remoto e Adotará Modelo Híbrido em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/12/carreira_nubank-300x200.jpg",
-        "date": "06/11/2025",
-        "description": "Banco vai expandir escritórios e centros de talentos em cidades estratégicas das Américas e da Europa"
     }
 ]

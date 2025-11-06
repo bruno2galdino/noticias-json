@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://www.tecmundo.com.br/software/408349-microsoft-lanca-o-mai-image-1-1-gerador-de-imagens-nativo-do-bing.htm",
+        "title": "Microsoft lança o MAI-Image-1, 1º gerador de imagens nativo do Bing",
+        "description": "Ferramenta especializada em criar fotos com visuais realistas reduz dependência de modelos da OpenAI.",
+        "image": "https://tm.ibxk.com.br/2025/11/06/microsoft_MAI_Image_1_ia_generativa_imagens_passaro_b6a900befd.jpg",
+        "date": null
+    },
+    {
+        "url": "https://www.tecmundo.com.br/minha-serie/602433-netflix-libera-inicio-de-stranger-things-temporada-5-hoj-6-veja-como-assistir.htm",
+        "title": "Netflix libera início de Stranger Things Temporada 5 hoje (6)! Veja como assistir",
+        "description": "A grande estreia da Temporada 5 de Stranger Things promete entrevistas, surpresas e um pequeno trecho de seu começo",
+        "image": "https://tm.ibxk.com.br/2025/11/06/stranger_things_cinco_minutos_a547f5604a.jpg",
+        "date": null
+    },
+    {
         "url": "https://www.tecmundo.com.br/software/408352-gemini-agora-realiza-pesquisa-profunda-no-gmail-e-drive.htm",
         "title": "Gemini agora realiza 'pesquisa profunda' no Gmail e Drive",
         "description": "O novo recurso já está disponível na versão web da IA do Google, devendo chegar aos smartphones nos próximos dias.",
@@ -32,20 +46,6 @@
         "title": "Tales From 85: Nova série de Stranger Things ganha trailer e previsão de estreia",
         "description": "Com novo elenco, a animação Stranger Things Tales From 85 será lançada em 2026 na Netflix. Saiba tudo sobre a produção.",
         "image": "https://tm.ibxk.com.br/2025/11/06/stranger_things_nova_serie_1d3af4c21d.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/guia-de-compras/408351-monitor-aoc-smart-tv-philips-e-mais-com-ate-68-off-nas-super-ofertas-da-shopee.htm",
-        "title": "Monitor AOC, Smart TV Philips e mais com até 68% OFF nas Super Ofertas da Shopee",
-        "description": "Confira smart TVs, ferramentas, caixas de som, gadgets inteligentes e mais com descontos de até 68% nas Super Ofertas de hoje na Shopee!",
-        "image": "https://tm.ibxk.com.br/2025/04/08/08122545497035.jpg",
-        "date": null
-    },
-    {
-        "url": "https://www.tecmundo.com.br/software/408347-whatsapp-confirma-lancamento-de-nomes-de-usuarios-para-2026-saiba-como-vai-funcionar.htm",
-        "title": "WhatsApp confirma lançamento de nomes de usuários para 2026; saiba como vai funcionar",
-        "description": "O WhatsApp recomenda que empresas adaptem seus sistemas de comunicação que dependem de números de telefone até junho de 2026.",
-        "image": "https://tm.ibxk.com.br/2025/05/16/16111139182137.jpg",
         "date": null
     }
 ]
