@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/brasil-e-superado-por-eua-e-romenia-na-davis-e-bjk-junior-e-disputara-9o-lugar.html",
-        "title": "Brasil é superado por EUA e Romênia na Davis e BJK Junior e disputará 9º lugar",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/storck_davisjr_narede-1024x683.jpg",
+        "url": "https://tenisbrasil.uol.com.br/pietra-rivoli-avanca-as-quartas-no-j200-de-santa-cruz.html",
+        "title": "Pietra Rivoli avança às quartas no J200 de Santa Cruz",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pietra_ecp_fore_lado.jpg",
         "date": "05/11/2025",
-        "description": "Santiago (Chile) –As equipes do Brasil caíram na fase de grupos da Billie Jean King Cup Junior e da Copa Davis Junior, disputadas em Santiago, no Chile, após perderem os confrontos desta quarta-feira. Com isso, o Brasil ficou em terceiro lugar em seus grupos de ambas as categorias e disputará os playoffs que definem do 9º ao 16º lugar."
+        "description": "Santa Cruz (Bolívia) –A gaúcha Pietra Rivoli é a representante brasileira nas quartas de final do ITF J200 de Santa Cruz, em quadras de saibro na Bolívia. Ela venceu nesta quarta-feira a paraguaia Victoria Lopez Ocampos por 6/1 e 6/3."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ribeiro-estreia-bem-em-casa-boscardin-lidera-vitorias-brasileiras.html",
+        "title": "Ribeiro estreia bem em casa, Boscardin lidera vitórias brasileiras",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/eduardoribeirorio25gd-1024x577.jpeg",
+        "date": "05/11/2025",
+        "description": "Santa Cruz do Sul (RS) –Jogando em casa, Eduardo Ribeiro estreou com vitória na etapa de Santa Cruz do Sul do Circuito Banco BRB/Engie de tênis profissional. O gaúcho venceu o duelo nacional contra Enrique Bogo por 6/1 e 6/3 e avançou no ITF M25 disputado nas quadras de saibro do Tênis Clube de Santa Cruz."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-05-11.html",
@@ -12,6 +19,27 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/saraiva_piracicaba_fore.jpg",
         "date": "05/11/2025",
         "description": "WTA 125 de Tucumán (Argentina) – Saibro – US$ 115 milSegunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/iga-lutei-ate-o-fim-nao-foi-o-suficiente-preciso-melhorar.html",
+        "title": "Iga: “Lutei até o fim, não foi o suficiente. Preciso melhorar”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/iga_finals_caida.jpg",
+        "date": "05/11/2025",
+        "description": "Riad (Arábia Saudita) –Eliminada na fase de grupos do WTA Finals pelo segundo ano consecutivo, Iga Swiatek foi objetiva ao falar sobre aderrota desta quarta-feiracontra a norte-americana Amanda Anisimova. A campeã de 2023 acredita que fez uma boa partida, mas que o esforço não foi suficiente. Nesse cenário, a polonesa entende que é preciso melhorar."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/anisimova-destaca-mudanca-tatica-e-jogo-mais-consistente.html",
+        "title": "Anisimova destaca mudança tática e jogo mais consistente",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/anisimova_finals_corre.jpg",
+        "date": "05/11/2025",
+        "description": "Riad (Arábia Saudita) –Semifinalista do WTA Finals em sua primeira participação no torneio, Amanda Anisimova destacou uma mudança tática para conseguir avirada diante de Iga Swiateknesta quarta-feira. Embora seja uma jogadora reconhecidamente agressiva, a norte-americana adotou uma postura de mais segurança para reduzir o número de erros após o primeiro set. Ela também comentou sobre uma melhora no saque, que também foi determinante para a reação na partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/brasil-e-superado-por-eua-e-romenia-na-davis-e-bjk-junior-e-disputara-9o-lugar.html",
+        "title": "Brasil é superado por EUA e Romênia na Davis e BJK Junior e disputará 9º lugar",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/storck_davisjr_narede-1024x683.jpg",
+        "date": "05/11/2025",
+        "description": "Santiago (Chile) –As equipes do Brasil caíram na fase de grupos da Billie Jean King Cup Junior e da Copa Davis Junior, disputadas em Santiago, no Chile, após perderem os confrontos desta quarta-feira. Com isso, o Brasil ficou em terceiro lugar em seus grupos de ambas as categorias e disputará os playoffs que definem do 9º ao 16º lugar."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/brasil-conquista-quatro-medalhas-de-ouro-no-parapan-de-jovens.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/konishi_vacaria_prepara-1024x649.jpg",
         "date": "05/11/2025",
         "description": "Neuquen (Argentina) –As brasileiras tiveram rumos opostos na rodada desta quarta-fiera do ITF W15 de Neuquen, em quadras de saibro na Argentina, diante de tenistas da casa. Júlia Konishi estreou com vitória, enquanto Catarina Melleiro foi eliminada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/demoliner-luz-e-saraiva-vao-as-quartas-nas-duplas-em-lima.html",
-        "title": "Demoliner, Luz e Saraiva vão às quartas nas duplas em Lima",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/luz_demo_braga_cump-1024x683.jpg",
-        "date": "05/11/2025",
-        "description": "Lima (Peru) –Três brasileiros estão nas quartas de final de duplas do challenger de Lima, em quadras de saibro. Os gaúchos Orlando Luz e Marcelo Demoliner jogam juntos, enquanto o brasiliense Paulo Saraiva tem como parceiro o mexicano Rodrigo Pacheco Mendez."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ce-e-superada-nas-oitavas-por-favorita-suica-em-tucuman.html",
-        "title": "Cé é superada nas oitavas por favorita suíça em Tucuman",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/gabriela_ce_tucuman_fore.jpg",
-        "date": "05/11/2025",
-        "description": "Tucumán (Argentina) –Depois de conseguir uma vaga como lucky-loser e vencer seu primeiro jogo na chave principal, Gabriela Cé se despediu nesta quarta-feira do WTA 125 de Tucumán, em quadras de saibro na Argentina. A gaúcha perdeu por duplo 6/4 para a suíça Simona Waltert, cabeça 2 do torneio e 93ª do mundo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/lucky-loser-ucraniano-elimina-bublik-em-metz-tien-e-berrettini-duelam.html",
-        "title": "Lucky-loser ucraniano elimina Bublik em Metz, Tien e Berrettini duelam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/s-metz-2025-wednesday-1024x576.jpg",
-        "date": "05/11/2025",
-        "description": "Metz (França) –Depois de entrar na chave como lucky-loser, o ucraniano Vitaliy Sachko segue com grandes resultados no ATP 250 de Metz, em quadras duras e cobertas. Depois de eliminar o francês Giovanni Perricard na estreia, o jogador de 28 anos e 222º do ranking superou também o cazaque Alexander Bublik, número 13 do mundo, por 7/5, 3/6 e 7/5."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/musetti-supera-wawrinka-em-atenas-e-segue-em-busca-do-finals.html",
-        "title": "Musetti supera Wawrinka em Atenas e segue em busca do Finals",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/musetti_atenas_fore-1024x722.jpg",
-        "date": "05/11/2025",
-        "description": "Atenas (Grécia) –A busca de Lorenzo Musetti pela última vaga no ATP Finals continua nesta semana em Atenas. O italiano, que precisa do título no ATP 250 da capital grega para ultrapassar Félix Auger-Aliassime e voltar ao top 8, estreou nesta quarta-feira vencendo o suíço Stan Wawrinka por 4/6, 7/6 (7-5) e 6/4 em 2h25."
     }
 ]
