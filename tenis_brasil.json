@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-06-11.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/mateus_alves_potosi_estica.jpg",
+        "date": "06/11/2025",
+        "description": "WTA Finals (Riad, Arábia Saudita) – Sintético (coberto) – US$ 15.500.000Duplas – Fase de grupos (3ª rodada) –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/pietra-rivoli-avanca-as-quartas-no-j200-de-santa-cruz.html",
         "title": "Pietra Rivoli avança às quartas no J200 de Santa Cruz",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pietra_ecp_fore_lado.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/kohlmann_engiebrb_fore.jpg",
         "date": "05/11/2025",
         "description": "Orlando (EUA) –Em rodada com três brasileiros, o paulista Enzo Kohlmann e o mineiro Pedro Rodrigues estrearam com vitória no ITF M15 de Orlando, em quadras de saibro nos Estados Unidos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/julia-konishi-estreia-com-vitoria-em-itf-argentino-no-saibro.html",
-        "title": "Júlia Konishi estreia com vitória em ITF argentino no saibro",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/konishi_vacaria_prepara-1024x649.jpg",
-        "date": "05/11/2025",
-        "description": "Neuquen (Argentina) –As brasileiras tiveram rumos opostos na rodada desta quarta-fiera do ITF W15 de Neuquen, em quadras de saibro na Argentina, diante de tenistas da casa. Júlia Konishi estreou com vitória, enquanto Catarina Melleiro foi eliminada."
     }
 ]
