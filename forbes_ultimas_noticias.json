@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/petrobras-ajuda-a-patrocinar-13o-dia-de-ibovespa-no-azul-e-sustentar-154-mil-pontos/",
+        "title": "Petrobras Ajuda a Patrocinar 13º Dia de Ibovespa no Azul e Sustentar 154 Mil Pontos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "07/11/2025",
+        "description": "Dólar à vista fechou em queda de 0,27%, aos R$5,3347 na venda; no acumulado da semana, a moeda cedeu 0,83%"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/crise-no-mercado-de-carne-reacende-embate-entre-trump-e-grandes-frigorificos/",
+        "title": "Crise no Mercado de Carne Reacende Embate entre Trump e Grandes Frigoríficos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Donald_Trump_06nov25-_Stephen-Lovekin-_Getty-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "Entenda a nova ofensiva do governo americano que amplia a pressão sobre o sistema de produção de proteína bovina no país"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/gp-de-sao-paulo-movimenta-negocios-e-reforca-o-brasil-no-mapa-da-formula-1/",
+        "title": "GP de São Paulo Movimenta Negócios e Reforça o Brasil no Mapa da Fórmula 1",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-06-at-20.09.45-300x200.jpeg",
+        "date": "07/11/2025",
+        "description": "Corrida volta a ter um brasileiro no grid; o impacto financeiro do GP deve ficar na casa dos R$ 2 bilhões"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/11/james-watson-codescobridor-da-dupla-helice-do-dna-morre-aos-97-anos/",
-        "title": "James Watson, que Decifrou Estrutura do DNA, Morre Aos 97 Anos",
+        "title": "James Watson, Que Decifrou a Estrutura do DNA, Morre Aos 97 Anos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/tech-james-watson-dna-300x200.jpg",
         "date": "07/11/2025",
-        "description": "Descoberta do biólogo norte-americano rendeu o Prêmio Nobel e inaugurou a era da genética"
+        "description": "Biólogo norte-americano recebeu o Prêmio Nobel junto de Francis Crick e Maurice Wilkins, que inauguraram a era da genética"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/11/brandvoice-bontempo-design-que-abraca-a-historia/",
@@ -42,31 +63,10 @@
         "description": "Aportes de R$ 1 bilhão do BTG Pactual devem impulsionar novos investimentos em irrigação"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/11/fundacao-gates-promete-us-14-bilhao-para-agricultores-em-extremos-climaticos/",
-        "title": "Fundação Gates Promete US$ 1,4 Bilhão para Ajudar Agricultores da África e Ásia",
+        "url": "https://forbes.com.br/forbesesg/2025/11/fundacao-gates-promete-us-14-bilhao-para-agricultores-em-extremos-climaticos/",
+        "title": "Fundação Gates Promete US$ 1,4 Bilhão para Agricultores da África e Ásia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_tech_bill_gates_REUTERS-CaitlinOchs_07.11.2025-300x200.jpg",
         "date": "07/11/2025",
         "description": "O financiamento priorizará inovações como biofertilizantes, variedades resistentes e para a saúde do solo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/brandvoice-fiagril-futuro-do-agronegocio-passa-pela-confianca-e-pela-inovacao/",
-        "title": "Futuro do Agronegócio Passa Pela Confiança e Pela Inovação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/1-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Em artigo exclusivo, CEO da Fiagril projeta um novo ciclo de crescimento sustentável em 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/lula-diz-que-debate-sobre-transicao-energetica-passa-por-discussao-sobre-minerais-criticos/",
-        "title": "Lula Diz Que Debate sobre Transição Energética Passa por Discussão sobre Minerais Críticos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-07T145458Z_1_LYNXMPELA60RU_RTROPTP_4_CLIMATE-COP30-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Presidente defende transição para modelo de desenvolvimento baseado em energia limpa e renovável"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/china-bate-marca-historica-de-soja-com-compras-estrategicas-na-america-do-sul/",
-        "title": "China Bate Marca Histórica de Soja com Compras Estratégicas na América do Sul",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_exportacao_soja_foto_Wirestock-Gettyimages_13.10.2025-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "As importações de soja atingiram 9,48 milhões de toneladas em outubro, um recorde para o mês"
     }
 ]
