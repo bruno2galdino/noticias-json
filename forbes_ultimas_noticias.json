@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/james-watson-codescobridor-da-dupla-helice-do-dna-morre-aos-97-anos/",
+        "title": "James Watson, que Decifrou Estrutura do DNA, Morre Aos 97 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/tech-james-watson-dna-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "Descoberta do biólogo norte-americano rendeu o Prêmio Nobel e inaugurou a era da genética"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/brandvoice-bontempo-design-que-abraca-a-historia/",
+        "title": "Design Que Abraça a História",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/1-1-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "Bontempo apresenta coleção inédita de móveis assinados em parceria com renomados designers brasileiros"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/geely-traz-carro-mais-vendido-da-china-ao-brasil-e-montara-na-fabrica-da-renault/",
+        "title": "Geely Traz Carro Mais Vendido da China Ao Brasil e Montará na Fábrica da Renault",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/14_Geely_EX-2_rodolfobuhrer-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "O EX2 combina custo-benefício agressivo, conteúdo tecnológico e desenho de uso pensado para a cidade"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/11/australiano-e-o-1o-a-fazer-aporte-privado-no-fundo-florestas-tropicais-para-sempre/",
         "title": "Australiano É o 1º a Fazer Aporte Privado no Fundo Florestas Tropicais para Sempre",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_cop30_australiano_REUTERS-IsabelInfantes_07.11.2025-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_exportacao_soja_foto_Wirestock-Gettyimages_13.10.2025-300x200.jpg",
         "date": "07/11/2025",
         "description": "As importações de soja atingiram 9,48 milhões de toneladas em outubro, um recorde para o mês"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/o-plano-de-us-1-trilhao-r-535-trilhoes-de-elon-musk/",
-        "title": "O Plano de US$ 1 Trilhão (R$ 5,35 Trilhões) de Elon Musk",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-9-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Acionistas acreditam que o CEO pode superar seus sucessos anteriores com uma estratégia ousada baseada em inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/china-reabre-mercado-de-carne-de-frango-do-brasil/",
-        "title": "China Reabre Mercado de Carne de Frango do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_frangos_granja_Nilton-Cardin-Getty-Images_07.11.2025-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "A ABPA elevou as projeções de embarques para 2025: as exportações de outubro somaram 501,3 mil toneladas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/poupanca-no-brasil-registra-em-outubro-4o-mes-seguido-de-saques-diz-bc/",
-        "title": "Poupança no Brasil Registra em Outubro 4º Mês Seguido de Saques, Diz BC",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Moedas-de-real-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "No acumulado do ano, a poupança registra retirada líquida de R$ 88,121 bilhões"
     }
 ]
