@@ -1,19 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-07-11.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/schiessl_ctba_fore-1024x683.jpg",
-        "date": "07/11/2025",
-        "description": "WTA Finals (Riad, Arábia Saudita) – Sintético (coberto) – US$ 15.500.000Duplas – Semifinal –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/norrie-volta-a-final-de-metz-encarar-tien-e-ameaca-fonseca.html",
-        "title": "Norrie volta à final de Metz, encarar Tien e ameaça Fonseca",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/norrie-metz-2025-thurs-e1762539487983-1024x682.jpg",
-        "date": "07/11/2025",
-        "description": "Metz (França)– Vice-campeão do ATP 250 de Metz no ano passado, o britânico Cameron Norrie terá uma nova chance de conquistar o título do torneio agora em 2025. Nesta sexta-feira, ele derrotou o italiano Lorenzo Sonego de virada, com parciais de 4/6, 6/2 e 6/4, se tornando o primeiro finalista da competição."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/rybakina-vira-o-jogo-vence-a-10a-seguida-e-decide-o-titulo-do-wta-finals.html",
         "title": "Rybakina vira o jogo, vence a 10ª seguida e decide o título do WTA Finals",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/rybakina_vibra_finals_semi-1024x708.jpg",
@@ -33,6 +19,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/Jannik_Sinner_GSP29437-1024x682.jpeg",
         "date": "07/11/2025",
         "description": "Turim (Itália)– Atual campeão do ATP Finals, o italiano Jannik Sinner volta a Turim para defender o título e quem sabe terminar o ano como número 1 do mundo. A disputa começará na próxima segunda-feira, mas o tenista da casa já está se preparando firme."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-07-11.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/schiessl_ctba_fore-1024x683.jpg",
+        "date": "07/11/2025",
+        "description": "WTA Finals (Riad, Arábia Saudita) – Sintético (coberto) – US$ 15.500.000Duplas – Semifinal –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/stefani-faz-historia-com-babos-e-vai-para-a-decisao-do-finals.html",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/IMG-20251107-WA0008-1024x576.jpg",
         "date": "07/11/2025",
         "description": "São Paulo (SP)– A partir deste sábado, os praticantes de beach tennis terão um espaço totalmente gratuito para praticar a modalidade na Zona Sul de São Paulo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/inscricoes-abertas-para-o-1o-encontro-kids-em-ribeirao-preto.html",
+        "title": "Inscrições abertas para o 1º Encontro Kids em Ribeirão Preto",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/tennis-kids.jpeg",
+        "date": "07/11/2025",
+        "description": "Ribeirão Preto (SP) –Estão abertas as inscrições para o 1º Encontro Kids, que será realizado de 28 a 30 de novembro, no Clube de Regatas de Ribeirão Preto, durante a programação da Ribeirão Tennis Week."
     }
 ]

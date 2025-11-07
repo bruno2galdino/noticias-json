@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/franca-lidera-iniciativa-de-us-25-bilhoes-para-proteger-floresta-do-congo/",
+        "title": "França Lidera Iniciativa de US$ 2,5 Bilhões para Proteger Floresta do Congo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-07T112116Z_1_LYNXMPELA60IR_RTROPTP_4_CONGO-BUSHMEAT-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "Negociações climáticas na Amazônia priorizam financiamento para conter o desmatamento e restaurar florestas tropicais"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/slc-pode-replicar-modelo-de-parceria-com-btg-se-for-bem-sucedido-diz-ceo/",
+        "title": "SLC Pode Replicar Modelo de Parceria com BTG se For Bem-sucedido, Diz CEO",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/btg-pactual-banco-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "Aportes de R$ 1 bilhão do BTG Pactual devem impulsionar novos investimentos em irrigação"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/fundacao-gates-promete-us-14-bilhao-para-agricultores-em-extremos-climaticos/",
         "title": "Fundação Gates Promete US$ 1,4 Bilhão para Ajudar Agricultores da África e Ásia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_tech_bill_gates_REUTERS-CaitlinOchs_07.11.2025-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Secretario-geral-da-ONU-Antonio-Guterres-discursa-em-sessao-plenaria-da-COP30-em-Belem-300x200.jpg",
         "date": "07/11/2025",
         "description": "Governos estão se preparando para a possibilidade do país tentar interromper as negociações no evento"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/iniciativa-europeia-de-us-25-bilhoes-para-o-congo-compete-com-agenda-brasileira-na-cop30/",
-        "title": "França Lidera Iniciativa de US$ 2,5 Bilhões Para Proteger Floresta do Congo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_floresta_congo_REUTERS-Thomas-Nicolon_07.11.2025-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "França, Alemanha, Noruega, Bélgica e Reino Unido devem proteger a segunda maior floresta tropical do mundo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/precos-ao-produtor-no-brasil-caem-025-em-setembro-na-oitava-deflacao-seguida/",
-        "title": "Preços Ao Produtor no Brasil Caem 0,25% em Setembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Fabrica-da-Scania-em-Sao-Bernardo-do-Campo-Sao-Paulo-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Segundo o IBGE, 12 das 24 atividades industriais tiveram queda de preços em setembro"
     }
 ]
