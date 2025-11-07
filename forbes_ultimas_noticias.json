@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/precos-ao-produtor-no-brasil-caem-025-em-setembro-na-oitava-deflacao-seguida/",
+        "title": "Preços Ao Produtor no Brasil Caem 0,25% em Setembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Fabrica-da-Scania-em-Sao-Bernardo-do-Campo-Sao-Paulo-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "Segundo o IBGE, 12 das 24 atividades industriais tiveram queda de preços em setembro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/petrobras-eleva-lucro-a-us-603-bi-e-impulsiona-producao-com-novos-recordes-no-pre-sal/",
         "title": "Petrobras Eleva Lucro a US$ 6,03 Bi e Impulsiona Produção com Novos Recordes no Pré-Sal",
         "image": "https://forbes.com.br/wp-content/uploads/2022/01/Petrobras_Combustiveis_Bruno-Domingos-Reuters.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_amazon_chris_atkins_06.11.2025-4-300x200.jpg",
         "date": "07/11/2025",
         "description": "Executivo global de sustentabilidade das operações da companhia criada por Jef Bezos conta como estão os projetos que já alcançam 180 cidades em São Paulo e Minas Gerais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/pecuarista-vira-chefe-de-cozinha-para-mostrar-o-terroir-da-carne-argentina/",
-        "title": "Pecuarista Vira Chefe de Cozinha para Mostrar o “Terroir” da Carne Argentina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Juan-Ignacio-Barcos_06nov25_Forbes_Argentina-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Conheça a história de Juan Ignacio Barcos e sua visão de como dar luz à produtores que priorizam o bem-estar animal e a conservação da biodiversidade"
     }
 ]
