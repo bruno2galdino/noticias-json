@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/china-bate-marca-historica-de-soja-com-compras-estrategicas-na-america-do-sul/",
+        "title": "China Bate Marca Histórica de Soja com Compras Estratégicas na América do Sul",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_exportacao_soja_foto_Wirestock-Gettyimages_13.10.2025-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "As importações de soja atingiram 9,48 milhões de toneladas em outubro, um recorde para o mês"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/o-plano-de-us-1-trilhao-r-535-trilhoes-de-elon-musk/",
+        "title": "O Plano de US$ 1 Trilhão (R$ 5,35 Trilhões) de Elon Musk",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-9-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "Acionistas acreditam que o CEO pode superar seus sucessos anteriores com uma estratégia ousada baseada em inteligência artificial"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/china-reabre-mercado-de-carne-de-frango-do-brasil/",
+        "title": "China Reabre Mercado de Carne de Frango do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_frangos_granja_Nilton-Cardin-Getty-Images_07.11.2025-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "A ABPA elevou as projeções de embarques para 2025: as exportações de outubro somaram 501,3 mil toneladas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/poupanca-no-brasil-registra-em-outubro-4o-mes-seguido-de-saques-diz-bc/",
+        "title": "Poupança no Brasil Registra em Outubro 4º Mês Seguido de Saques, Diz BC",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Moedas-de-real-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "No acumulado do ano, a poupança registra retirada líquida de R$ 88,121 bilhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/diplomatas-temem-que-mesmo-ausentes-eua-tentem-influenciar-cop30/",
+        "title": "Diplomatas Temem Que, Mesmo Ausentes, EUA Tentem Influenciar COP30",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Secretario-geral-da-ONU-Antonio-Guterres-discursa-em-sessao-plenaria-da-COP30-em-Belem-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "Governos estão se preparando para a possibilidade do país tentar interromper as negociações no evento"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/iniciativa-europeia-de-us-25-bilhoes-para-o-congo-compete-com-agenda-brasileira-na-cop30/",
+        "title": "França Lidera Iniciativa de US$ 2,5 Bilhões Para Proteger Floresta do Congo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_floresta_congo_REUTERS-Thomas-Nicolon_07.11.2025-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "França, Alemanha, Noruega, Bélgica e Reino Unido devem proteger a segunda maior floresta tropical do mundo"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/precos-ao-produtor-no-brasil-caem-025-em-setembro-na-oitava-deflacao-seguida/",
         "title": "Preços Ao Produtor no Brasil Caem 0,25% em Setembro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Fabrica-da-Scania-em-Sao-Bernardo-do-Campo-Sao-Paulo-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/LS_Concept_9_s-1-300x200.png",
         "date": "07/11/2025",
         "description": "O Japan Mobility Show 2025 apresenta as principais tendências de mobilidade não só na Ásia, mas no mundo inteiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/11/nova-geracao-de-pilotas-busca-representatividade-e-quer-chegar-a-formula-1/",
-        "title": "Nova Geração de Pilotas Busca Representatividade e Quer Chegar À Fórmula 1",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/pilotas-automobilismo-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Apenas 4% dos pilotos profissionais no Brasil, mulheres abrem caminho no automobilismo e desafiam barreiras dentro e fora das pistas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/a-revolucao-silenciosa-da-f1-como-a-inteligencia-artificial-virou-o-novo-engenheiro-de-pista/",
-        "title": "A Revolução Silenciosa da F1: Como a Inteligência Artificial Virou o Novo Engenheiro de Pista",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/IBM_Ferrari-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Fabrício Lira, Diretor de Inteligência Artificial e Dados da IBM Brasil, explica como a análise de dados e os modelos de IA estão redefinindo a forma como escuderias correm e como os fãs vivem o automobilismo"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/11/como-formar-habitos-em-66-dias-e-aumentar-sua-produtividade/",
-        "title": "Como Formar Hábitos em 66 Dias e Aumentar Sua Produtividade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/960x0-1-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Cinco etapas simples ajudam a desenvolver disciplina, foco e constância para alcançar metas pessoais e profissionais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/como-fica-o-imposto-de-renda-para-quem-ganha-r-50-mil-ou-mais/",
-        "title": "Como Fica o Imposto de Renda Para Quem Ganha R$ 50 Mil ou Mais",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/09/ForbesMoney_Impostoderenda_02092021_BrunoDomingos_Reuters-e1688760339518-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Imposto sobre lucros e dividendos terá tabela progressiva que pode chegar a 10%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/entenda-por-que-a-chegada-de-harry-potter-ao-fortnite-gera-tanta-euforia-entre-os-fas/",
-        "title": "Entenda por Que a Chegada de Harry Potter Ao Fortnite Gera Tanta Euforia entre os Fãs",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_1.Cena-dos-filmes-de-Harry-Potter-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Uma das maiores séries de fantasia de todos os tempos talvez esteja próxima de chegar a um dos jogos mais populares da atualidade, segundo vazamentos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/na-primeira-visita-ao-brasil-chris-atkins-anuncia-expansao-da-frota-eletrica-da-amazon/",
-        "title": "Na Primeira Visita Ao Brasil, Chris Atkins Anuncia Expansão da Frota Elétrica da Amazon",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_amazon_chris_atkins_06.11.2025-4-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "Executivo global de sustentabilidade das operações da companhia criada por Jef Bezos conta como estão os projetos que já alcançam 180 cidades em São Paulo e Minas Gerais"
     }
 ]
