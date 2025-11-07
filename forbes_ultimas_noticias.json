@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/fundacao-gates-promete-us-14-bilhao-para-agricultores-em-extremos-climaticos/",
+        "title": "Fundação Gates Promete US$ 1,4 Bilhão para Ajudar Agricultores da África e Ásia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_tech_bill_gates_REUTERS-CaitlinOchs_07.11.2025-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "O financiamento priorizará inovações como biofertilizantes, variedades resistentes e para a saúde do solo"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/brandvoice-fiagril-futuro-do-agronegocio-passa-pela-confianca-e-pela-inovacao/",
+        "title": "Futuro do Agronegócio Passa Pela Confiança e Pela Inovação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/1-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "Em artigo exclusivo, CEO da Fiagril projeta um novo ciclo de crescimento sustentável em 2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/lula-diz-que-debate-sobre-transicao-energetica-passa-por-discussao-sobre-minerais-criticos/",
+        "title": "Lula Diz Que Debate sobre Transição Energética Passa por Discussão sobre Minerais Críticos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-07T145458Z_1_LYNXMPELA60RU_RTROPTP_4_CLIMATE-COP30-300x200.jpg",
+        "date": "07/11/2025",
+        "description": "Presidente defende transição para modelo de desenvolvimento baseado em energia limpa e renovável"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/china-bate-marca-historica-de-soja-com-compras-estrategicas-na-america-do-sul/",
         "title": "China Bate Marca Histórica de Soja com Compras Estratégicas na América do Sul",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_exportacao_soja_foto_Wirestock-Gettyimages_13.10.2025-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Fabrica-da-Scania-em-Sao-Bernardo-do-Campo-Sao-Paulo-300x200.jpg",
         "date": "07/11/2025",
         "description": "Segundo o IBGE, 12 das 24 atividades industriais tiveram queda de preços em setembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/petrobras-eleva-lucro-a-us-603-bi-e-impulsiona-producao-com-novos-recordes-no-pre-sal/",
-        "title": "Petrobras Eleva Lucro a US$ 6,03 Bi e Impulsiona Produção com Novos Recordes no Pré-Sal",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/01/Petrobras_Combustiveis_Bruno-Domingos-Reuters.jpg",
-        "date": "07/11/2025",
-        "description": "Mesmo com queda no preço do Brent, estatal supera projeções, expande eficiência operacional e reforça dividendos graças ao avanço de plataformas estratégicas e exportações recordes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-ate-onde-vao-os-recordes-do-ibovespa/",
-        "title": "Pré-mercado: até Onde Vão os Recordes do Ibovespa?",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "07/11/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 7 de novembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/carros-apresentados-no-japan-mobility-show-que-mostram-o-futuro-dos-carros/",
-        "title": "5 Conceitos Japoneses Que Apontam O Carro Do Futuro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/LS_Concept_9_s-1-300x200.png",
-        "date": "07/11/2025",
-        "description": "O Japan Mobility Show 2025 apresenta as principais tendências de mobilidade não só na Ásia, mas no mundo inteiro"
     }
 ]
