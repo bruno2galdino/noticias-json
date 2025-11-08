@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado.html",
+        "title": "O dia dos brasileiros: veja os resultados deste sábado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/boscardin-sauipe-prepara-2025-scaled-e1762602857435-1024x682.jpg",
+        "date": "08/11/2025",
+        "description": "WTA Finals (Riad, Arábia Saudita) – Sintético (coberto) – US$ 15.500.000Duplas – Final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/reis-vai-a-semi-em-lima-e-fica-a-uma-vitoria-da-estreia-no-top-200.html",
+        "title": "Reis vai à semi em Lima e fica a uma vitória da estreia no top 200",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/reis-sauipe-saca-2025-e1762603126551-1024x683.jpg",
+        "date": "08/11/2025",
+        "description": "Lima (Peru)– Em busca do inédito top 200 neste final de temporada, o pernambucano João Lucas Reis está a uma vitória de alcançar o feito. Na madrugada de sexta-feira para sábado, ele se garantiu nas semifinais no challenger de Lima, batendo o argentino Genaro Olivieri por 6/3 e 6/4, em 1h32 de confronto."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/cariani-santos-greta-e-anna-clara-avancam-no-rei-e-rainha-da-quadra.html",
         "title": "Cariani, Santos, Greta e Anna Clara avançam no Rei e Rainha da Quadra",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/ana-clara-merola_fortaleza.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/stefani_babos_finals_semi.jpg",
         "date": "07/11/2025",
         "description": "Riad (Arábia Saudita) –A vitória desta sexta-feira e vaga na decisão do WTA Finals foi bastante comemorada por Luísa Stefani. A paulistana de 28 anos fez história para o tênis brasileiro ao se tornar a primeira jogadora do país na final da competição. Stefani e a húngara Timea Babos enfrentam a belga Elise Mertens e a russa Veronika Kudermetova neste sábado às 10h (de Brasília)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/paulistas-rizk-e-tomb-acabam-com-hegemonias-no-mt-700-de-porto-alegre.html",
-        "title": "Paulistas Rizk e Tomb acabam com hegemonias no MT 700 de Porto Alegre",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/rizk_behar_portoalegre.jpg",
-        "date": "07/11/2025",
-        "description": "Porto Alegre (RS) –Mais campeões foram definidos nesta sexta-feira na 39ª edição da Copa Yone Borba Dias, torneio da categoria MT 700 realizado em Porto Alegre. Em um dia chuvoso na capital gaúcha, as quadras cobertas da Associação Leopoldina Juvenil foram utilizadas e o torneio viu duas hegemonias caírem."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/stefani-e-babos-enfrentam-as-campeas-de-wimbledon-na-final-as-10h.html",
-        "title": "Stefani e Babos enfrentam as campeãs de Wimbledon na final às 10h",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/mertens_kudermetova_finals_cump-1024x646.jpg",
-        "date": "07/11/2025",
-        "description": "Riad (Arábia Saudita) –No jogo que encerrou a programação desta sexta-feira no WTA Finals, a belga Elise Mertens e a russa Veronika Kudermetova garantiram vaga na decisão com vitória sobre a norte-americana Taylor Townsend e a tcheca Katerina Siniakova por 4/6, 7/6 (8-6) e 10-6, salvando um match-point na partida."
     }
 ]
