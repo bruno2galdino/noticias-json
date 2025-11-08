@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/11/the-party-noite-de-gala-em-sao-paulo-marca-os-13-anos-da-forbes-brasil/",
+        "title": "The Party: Noite de Gala em São Paulo Marca os 13 Anos da Forbes Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Forbes-Party-2-300x200.jpg",
+        "date": "08/11/2025",
+        "description": "Evento na Casa Fasano contou com a presença de figuras ilustres como Patricia Bonaldi, Diego Barreto, Maisa Silva, Cleo e Nizan Guanaes"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/petrobras-ajuda-a-patrocinar-13o-dia-de-ibovespa-no-azul-e-sustentar-154-mil-pontos/",
         "title": "Petrobras Ajuda a Patrocinar 13º Dia de Ibovespa no Azul e Sustentar 154 Mil Pontos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/btg-pactual-banco-300x200.jpg",
         "date": "07/11/2025",
         "description": "Aportes de R$ 1 bilhão do BTG Pactual devem impulsionar novos investimentos em irrigação"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/fundacao-gates-promete-us-14-bilhao-para-agricultores-em-extremos-climaticos/",
-        "title": "Fundação Gates Promete US$ 1,4 Bilhão para Agricultores da África e Ásia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_tech_bill_gates_REUTERS-CaitlinOchs_07.11.2025-300x200.jpg",
-        "date": "07/11/2025",
-        "description": "O financiamento priorizará inovações como biofertilizantes, variedades resistentes e para a saúde do solo"
     }
 ]
