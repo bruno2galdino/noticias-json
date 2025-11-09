@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/paralisacao-nos-eua-afeta-mais-de-5-000-voos-em-um-unico-di/",
+        "title": "Paralisação Nos EUA Afeta Mais de 5.000 Voos em um Único Di",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-7-300x200.png",
+        "date": "09/11/2025",
+        "description": "Escassez de controladores de tráfego aéreo já provoca cancelamentos em larga escala; FAA prevê cortes de até 10% em 40 aeroportos até 14 de novembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/o-alerta-de-al-gore-na-cop30-o-mundo-vive-a-fase-mais-fragil-da-transicao-energetica/",
+        "title": "O Alerta de Al Gore na COP30: \"O Mundo Vive a Fase Mais Frágil da Transição Energética\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Al_Gore_09nov25_Forbes_CIS_Divulg-1-300x200.jpg",
+        "date": "09/11/2025",
+        "description": "Ex-vice-presidente dos Estados Unidos encerra o Climate Implementation Summit com uma análise contundente e aponta o Brasil como palco da virada econômica verde"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/trump-promete-us-2-000-a-americanos-com-receita-de-tarifas/",
         "title": "Trump Promete US$ 2.000 a Americanos com Receita de Tarifas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Agro_TrumpTarifasAgro_15JUl2025_ChipSomodevilla_Getty-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-6-1-300x200.png",
         "date": "09/11/2025",
         "description": "Dustin Moskovitz e Cari Tuna já doaram mais de US$ 4 bilhões e planejam zerar a fortuna com impacto mensurável e global"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/11/uisque-escoces-mais-antigo-do-mundo-pode-ser-seu/",
-        "title": "Uísque Escocês Mais Antigo do Mundo Pode Ser Seu",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.O-decantador-Artistry-in-Oak-contem-um-whisky-Glenlivet-de-85-anos-o-whisky-escoces-single-malt-mais-antigo-ja-engarrafado-300x200.jpg",
-        "date": "09/11/2025",
-        "description": "Christie's está leiloando o Artistry in Oak Decanter No. 1, um Glenlivet de 85 anos prestes a reescrever recordes de idade e preço no mercado"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/os-50-melhores-paes-do-mundo-e-o-pao-de-queijo-esta-entre-eles/",
-        "title": "Os 50 Melhores Pães do Mundo; o Pão de Queijo Está entre Eles",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_paes_06nov25_Envato_FB-300x200.jpg",
-        "date": "09/11/2025",
-        "description": "Fazer de grãos como trigo, centeio ou milho um alimento é, em essência, dar sentido à pergunta “o que é pão?” A resposta mostra de onde vem cada pessoa"
     }
 ]
