@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/as-3-mulheres-que-estao-redefinindo-o-papel-dos-superiates-no-mundo/",
+        "title": "As 3 Mulheres Que Estão Redefinindo o Papel dos Superiates no Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/960x0-6-300x200.jpg",
+        "date": "09/11/2025",
+        "description": "O trio conecta proprietários de iates a cientistas que precisam de embarcações para viabilizar projetos de pesquisa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/11/aisha-bowe-engenheira-da-nasa-chegou-ao-espaco-quer-levar-nova-geracao/",
+        "title": "Ela Chegou Ao Espaço e Agora Quer Levar a Nova Geração",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/aisha-bowe-blue-origin-041425-1-4ca5597d02804a429554c51def058c6d-300x200.jpg",
+        "date": "09/11/2025",
+        "description": "Ex-cientista de foguetes, Aisa Bowe participou de voo espacial da Blue Origin composto apenas por mulheres e junto de Katy Perry"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/da-periferia-a-cio-global-thiago-oliveira-inicia-nova-fase-na-coca-cola-femsa/",
+        "title": "Da Periferia a CIO Global: Thiago Oliveira Inicia Nova Fase na Coca-Cola FEMSA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Thiago_Femsa-300x200.jpg",
+        "date": "09/11/2025",
+        "description": "O novo Chief Information Officer de uma das maiores engarrafadoras de Coca-Cola no mundo também esteve na lista de Melhores CTOs da Forbes Brasil em 2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/como-o-aporte-de-us-500-milhoes-de-wall-street-turbinou-a-fortuna-dos-fundadores-da-ripple/",
+        "title": "Como um Aporte de US$ 500 Milhões Turbinou a Fortuna dos Fundadores da Ripple",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-10-300x200.jpg",
+        "date": "09/11/2025",
+        "description": "A empresa por trás de uma das maiores criptomoedas do mundo está se reinventando como um conglomerado"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/por-dentro-do-plano-de-um-casal-bilionario-para-doar-sua-fortuna-de-us-20-bilhoes-do-facebook/",
+        "title": "Por Dentro do Plano de um Casal Bilionário Para Doar Sua Fortuna de US$ 20 Bilhões do Facebook",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-6-1-300x200.png",
+        "date": "09/11/2025",
+        "description": "Dustin Moskovitz e Cari Tuna já doaram mais de US$ 4 bilhões e planejam zerar a fortuna com impacto mensurável e global"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/11/uisque-escoces-mais-antigo-do-mundo-pode-ser-seu/",
+        "title": "Uísque Escocês Mais Antigo do Mundo Pode Ser Seu",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.O-decantador-Artistry-in-Oak-contem-um-whisky-Glenlivet-de-85-anos-o-whisky-escoces-single-malt-mais-antigo-ja-engarrafado-300x200.jpg",
+        "date": "09/11/2025",
+        "description": "Christie's está leiloando o Artistry in Oak Decanter No. 1, um Glenlivet de 85 anos prestes a reescrever recordes de idade e preço no mercado"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/os-50-melhores-paes-do-mundo-e-o-pao-de-queijo-esta-entre-eles/",
+        "title": "Os 50 Melhores Pães do Mundo; o Pão de Queijo Está entre Eles",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_paes_06nov25_Envato_FB-300x200.jpg",
+        "date": "09/11/2025",
+        "description": "Fazer de grãos como trigo, centeio ou milho um alimento é, em essência, dar sentido à pergunta “o que é pão?” A resposta mostra de onde vem cada pessoa"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/a-venda-na-toscana-castelo-de-e-10-milhoes-guarda-obra-de-arte-misteriosa/",
+        "title": "À Venda na Toscana, Villa de € 10 Milhões Guarda Obra de Arte Misteriosa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Com-vista-para-o-Duomo-de-Florenca-a-partir-dos-terracos-a-Villa-Ginori-e-uma-construcao-historica-rara_-caracteristicas-arquitetonicas-preservadas-ampla-metragem-quadrada-e-em-excelentes-condicoes-300x200.jpg",
+        "date": "09/11/2025",
+        "description": "Com quase mil anos de história, Villa Ginori pode esconder tesouro renascentista: uma pintura rara de Bronzino"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/na-formula-1-sauber-prepara-era-audi-e-define-papel-de-bortoleto/",
         "title": "Na Fórmula 1, Sauber Prepara Era Audi E Define Papel De Bortoleto",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Jonathan-Wheatley-1-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/BYD-fabrica-no-brasil-1-300x200.jpg",
         "date": "08/11/2025",
         "description": "Para investidores, significa que os vencedores serão as empresas capazes de escalar com baixo custo, inovar rapidamente e controlar cadeias de suprimentos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/agroturismo-quando-o-jacaranda-do-brasil-pinta-a-africa-do-sul-de-roxo/",
-        "title": "Agroturismo: Quando o Jacarandá do Brasil Pinta a África do Sul de Roxo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_jacaranda_Africa_02nov25_Sun-Xiang_Getty-Images-300x200.jpg",
-        "date": "08/11/2025",
-        "description": null
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/a-bilionaria-self-made-mais-rica-da-china-acumula-us-197-bilhoes-com-o-boom-da-biotecnologia/",
-        "title": "A Bilionária “Self-made” Mais Rica da China Que Surfa o Boom da Biotecnologia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-8-300x200.jpg",
-        "date": "08/11/2025",
-        "description": "Ex-professora de química, Zhong Huijan enriquece com acordos bilionários da Hansoh Pharmaceutical"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/cristiano-ronaldo-revela-qual-foi-sua-compra-mais-cara-de-todos-os-tempos/",
-        "title": "Cristiano Ronaldo Revela Qual Foi Sua Compra Mais Cara de Todos os Tempos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Cristiano-Ronaldo-de-Portugal-comemora-apos-marcar-um-gol-durante-as-eliminatorias-para-a-Copa-do-Mundo-da-FIFA-de-2026-300x200.jpg",
-        "date": "08/11/2025",
-        "description": "Do jato personalizado à frota de supercarros, Ronaldo falou sobre conquistas, investimentos e a relação com o dinheiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/11/10-vodcas-excepcionais-e-acessiveis-que-todos-deveriam-experimentar/",
-        "title": "10 Vodcas Excepcionais e Acessíveis Que Todos Deveriam Experimentar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_vodca_02nov25_Envato-300x200.jpg",
-        "date": "08/11/2025",
-        "description": "De clássicas polonesas a destiladas islandesas e japonesas, estas premiadas mostram que excelência e suavidade não precisam custar caro"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/12-licoes-de-um-mentalista-para-ler-pessoas-e-alavancar-sua-carreira/",
-        "title": "12 Lições de um Mentalista Para Ler Pessoas e Alavancar Sua Carreira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/mentalista-Oz-Pearlman-300x200.jpg",
-        "date": "08/11/2025",
-        "description": "Aprenda algumas das técnicas do vencedor do Emmy, Oz Pearlman, para fortalecer sua liderança e influência"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/na-cop30-pela-primeira-vez-a-ciencia-planetaria-tera-seu-lugar-de-fala/",
-        "title": "Na COP30, Pela Primeira Vez a Ciência Planetária Terá Seu “Lugar de Fala\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_planeta_06nov25_Alistair-Berg-Getty-300x200.jpg",
-        "date": "08/11/2025",
-        "description": "Presidência de uma Conferência da ONU cria um pavilhão dedicado a integrar pesquisa científica e negociações climáticas na Amazônia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/por-que-sam-altman-nao-sera-responsabilizado-pelos-gastos-exorbitantes-da-openai/",
-        "title": "Por Que Sam Altman Não Será Responsabilizado Pelos Gastos Exorbitantes da OpenAI",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/SamAltman-300x200.jpg",
-        "date": "08/11/2025",
-        "description": "A dona do ChatGPT fez contratos de computação desenfreados este ano, comprometendo-se a gastar muito mais do que seu balanço patrimonial pode suportar atualmente"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/quem-sao-os-bilionarios-por-tras-de-um-imperio-da-cobertura-de-sobremesa/",
-        "title": "Quem São os Bilionários por trás de um Império do Chantilly?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-6-300x200.jpg",
-        "date": "08/11/2025",
-        "description": "Em 1973, o sucesso de Bob Rich lhe rendeu os primeiros direitos de um estádio da NFL"
     }
 ]
