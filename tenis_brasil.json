@@ -1,10 +1,38 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/eua-defendem-os-titulos-da-davis-e-bjk-cup-junior-brasileiros-em-9o.html",
+        "title": "EUA defendem os títulos da Davis e BJK Cup Junior, Brasileiros em 9º",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/eua_davisbjk_junior_selfie-1024x777.jpg",
+        "date": "09/11/2025",
+        "description": "Santiago (Chile) –Os Estados Unidos defenderam os títulos das Copas Davis e Billie Jean King Cup Junior na tarde deste domingo, em Santiago. A equipe feminina é a maior campeã da competição com 10 títulos, sendo quatro seguidos e sete dos últimos oito. Já o time masculino, que havia encerrado um jejum de dez anos na edição passada, e conquistou o quinto título na história."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/zverev-mantem-invencibilidade-contra-shelton-e-vence-na-estreia.html",
+        "title": "Zverev mantém invencibilidade contra Shelton e vence na estreia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/zverev-nitto-atp-finals-2025-sunday-e1762724431675-1024x682.jpg",
+        "date": "09/11/2025",
+        "description": "Turim (Itália)– Fechando o domingo no ATP Finals de Turim, o alemão Alexander Zverev escapou por muito pouco de um duelo de três sets com o norte-americano Ben Shelton, mas conseguiu fazer valer a “freguesia” e bateu o rival pela quinta vez em cinco duelos, marcando parciais de 6/3 e 7/6 (8-6), depois de 1h34 de confronto."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/reis-perde-para-favorito-no-detalhe-e-fica-com-o-vice-em-lima.html",
+        "title": "Reis perde para favorito no detalhe e fica com o vice em Lima",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/reis-lima-prepara-2025-e1762688198240-1024x683.jpg",
+        "date": "09/11/2025",
+        "description": "Lima (Peru)– Não deu para o pernambucano João Lucas Reis na final do challenger de Lima. Neste domingo, ele teve pela frente o cabeça de  chave 6 no torneio, o chileno Tomas Barrios Vera, que levou a melhor nos detalhes e venceu os dois tiebreaks da partida, marcando parciais de 7/6 (7-5) e 7/6 (7-3), depois de 2h06 de partida."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-09-11.html",
         "title": "O dia dos brasileiros: veja os resultados deste domingo",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/reis-lima-preparasaque-2025-e1762644448155-1024x683.jpg",
         "date": "09/11/2025",
         "description": "Challenger de Lima (Peru) – Saibro – US$ 100 milFinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bolelli-e-vavassori-estreiam-com-vitoria-sobre-dupla-numero-1-do-mundo.html",
+        "title": "Bolelli e Vavassori estreiam com vitória sobre dupla número 1 do mundo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/Simone_Bolelli_Andrea_Vavassori_GSP20532.jpg",
+        "date": "09/11/2025",
+        "description": "Turim (Itália)– Os italianos Simone Bolelli e Andrea Vavassori fizeram uma partida praticamente perfeita neste domingo, dominando a dupla número 1 do mundo, formada pelos britânicos Julian Cash e Lloyd Glasspool, atuais campeões de Wimbledon, que neste domingo foram superados com parciais de 7/5 e 6/3, em 1h21 de jogo."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/pucinelli-derrota-boscardin-em-sets-diretos-e-vence-1o-titulo-no-ano.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/ruud-toquio-feliz-2025-1024x683.jpg",
         "date": "09/11/2025",
         "description": "Turim (Itália)– A desistência do sérvio Novak Djokovic não apenas influenciou na classificação do italiano Lorenzo Musetti para o ATP Finals, mas também levou o norueguês Casper Ruud a viajar para Turim para ser o segundo reserva na competição."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-prega-concentracao-maxima-antes-da-estreia-no-finals.html",
-        "title": "Sinner prega concentração máxima antes da estreia no Finals",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/Jannik_Sinner_GSP29052-1024x682.jpeg",
-        "date": "09/11/2025",
-        "description": "Turim (Itália)– Atual campeão do ATP Finals, o italiano Jannik Sinner tenta não apenas defender o título do torneio, mas também o número 1 do mundo no fim da temporada. Contudo, essa segunda não depende apenas dele, já que o espanhol Carlos Alcaraz lidera a corrida da temporada e pode fechar a temporada na ponta já na fase de grupos"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-sofre-no-comeco-mas-depois-deslancha-e-derrota-de-minaur.html",
-        "title": "Alcaraz sofre no começo, mas depois deslancha e derrota De Minaur",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/alca-e1762699905875-1024x683.jpg",
-        "date": "09/11/2025",
-        "description": "Turim (Itália)– No primeiro jogo de simples deste ATP Finals, o espanhol Carlos Alcaraz sofreu no começo e teve trabalho para vencer o primeiro set contra o australiano Alex de Minaur, mas depois deslanchou e fechou o jogo com parciais de 7/6 (7-5) e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/minha-mente-ja-esta-em-turim-afirma-musetti-apos-o-vice-em-atenas.html",
-        "title": "“Minha mente já está em Turim”, afirma Musetti após o vice em Atenas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/musetti-atenas-toss-2025.jpg",
-        "date": "09/11/2025",
-        "description": "Atenas (Grécia)– Pela primeira vez na carreira, o italiano Lorenzo Musetti vai disputar o ATP Finals. Apesarda derrota na final do ATP 250 de Atenaspara Novak Djokovic, ficando em nono na corrida, ele viu o sérvio desistir logo em seguida e acabou herdando sua vaga na competição"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/russo-de-20-anos-leva-suspensao-de-quatro-anos-por-doping.html",
-        "title": "Russo de 20 anos leva suspensão de quatro anos por doping",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/morkov-1024x695.jpg",
-        "date": "09/11/2025",
-        "description": "Londres (Inglaterra)– A Agência Internacional de Integridade do Tênis (ITIA) informou na última semana que Aleksei Mokrov, tenista russo de 20 anos, foi suspenso por um período de quatro anos no âmbito do Programa Antidoping do Tênis (TADP)."
     }
 ]
