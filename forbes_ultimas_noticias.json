@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/raizen-vende-usina-continental-para-grupo-colorado-por-r-750-mi/",
+        "title": "Raízen Vende Usina Continental para Grupo Colorado por R$ 750 Mi",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/raizen-300x200.jpg",
+        "date": "10/11/2025",
+        "description": "Transação envolve também a cessão da cana própria e dos contratos com fornecedores vinculados à unidade"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/em-primeiro-focus-pos-copom-mercado-mantem-expectativa-de-selic-em-15/",
+        "title": "Em Primeiro Focus Pós-Copom, Mercado Mantém Expectativa de Selic em 15%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Selic-300x200.jpg",
+        "date": "10/11/2025",
+        "description": "Economistas mantiveram suas estimativas para os principais indicadores da economia brasileira em relação ao levantamento passado"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-votacao-no-senado-pode-encerrar-paralisacao-do-governo-dos-eua/",
         "title": "Pré-mercado: Votação no Senado Pode Encerrar Paralisação do Governo dos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -35,7 +49,7 @@
         "description": "Após um acidente de esqui, ele deixou a empresa da família para apostar no que viria a se tornar um negócio bilionário"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/11/mais-de-us-10-bilhoes-para-o-agro-sustentavel-e-destaque-em-evento-pre-cop30/",
+        "url": "https://forbes.com.br/forbesesg/2025/11/agro-sustentavel-atrai-mais-de-us-10-bilhoes-em-novos-investimentos/",
         "title": "Mais de US$ 10 Bilhões para o Agro Sustentável É Destaque em Evento Pré-COP30",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_gado_fazenda_foto_GettyImages_10.11.2025-300x200.jpg",
         "date": "10/11/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/dados-IA-alexandre-maioral-300x200.png",
         "date": "10/11/2025",
         "description": "As empresas que conseguirem conectar o poder dos modelos com seus dados privados e objetivos estratégicos estarão na dianteira da transformação"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/11/o-vinho-que-fala-ao-mundo-conheca-a-italia-da-ms-entre-tradicao-e-futuro/",
-        "title": "O Vinho Que Fala Ao Mundo: Conheça a Itália da M&S entre Tradição e Futuro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Fedele-Angelillo_09nov25_Forbes_Italia-300x200.jpg",
-        "date": "10/11/2025",
-        "description": "Da Puglia ao mundo, a visão de Fedele Angelillo em um modelo que redesenha o negócio com sustentabilidade, pesquisa e redes cooperativas"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/11/como-pessoas-com-tdah-podem-transformar-o-medo-de-prazos-em-prazer/",
-        "title": "Como Pessoas com TDAH Podem Transformar o Medo de Prazos em Prazer com Truques Psicológicos para Lidar com o Tempo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-4-300x200.png",
-        "date": "10/11/2025",
-        "description": "Pequenos ajustes mentais podem transformar a ansiedade dos prazos em um impulso produtivo"
     }
 ]
