@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/11/do-rio-para-o-mundo-earthshot-prize-reacende-a-fe-no-progresso-sustentavel/",
+        "title": "Do Rio para o Mundo, Earthshot Prize Reacende a Fé no Progresso Sustentável",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.O-principe-William-no-Earthshot-Prize-2025-300x200.jpg",
+        "date": "10/11/2025",
+        "description": "Os cinco vencedores do Earthshot Prize 2025 representam o que há de mais inovador em ação climática global"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/nidia-duek-cria-brinco-para-quem-usa-aparelho-auditivo/",
+        "title": "Nídia Duek Cria Brinco para Quem Usa Aparelho Auditivo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Ear-cuffs-de-prata-com-pedras-como-turmalina-e-topazio-sao-a-novidade-na-colecao-de-estreia-de-Nidia-Duek-300x200.jpg",
+        "date": "10/11/2025",
+        "description": "Diretora criativa lançou novidade em coleção de estreia na joalheria"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/11/por-que-a-autossabotagem-atrapalha-seu-progresso-profissional/",
+        "title": "Como Vencer o Medo Que Faz Você Adiar Seus Maiores Sonhos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-Site-para-BVs-Comercial-4-300x200.png",
+        "date": "10/11/2025",
+        "description": "Procrastinar nem sempre é preguiça: entender o vínculo entre identidade e conquistas é o primeiro passo para agir com confiança."
+    },
+    {
         "url": "https://forbes.com.br/colunas/2025/11/o-segredo-da-longevidade-esta-no-cotidiano/",
         "title": "O Segredo da Longevidade Está no Cotidiano",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-474092337-300x200.jpg",
@@ -32,7 +53,7 @@
         "title": "Kepler Weber Recebe Proposta de Combinação de R$ 11 por Ação com Prêmio de 48,3%",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_silo_graos_brasil_foto_BrazilPhotosGettyImages_10.11.2025-300x200.jpg",
         "date": "10/11/2025",
-        "description": "informou que a A-AG Holdco (GPT) apresentou proposta de combinação de negócios"
+        "description": "Fabricante informou que a A-AG Holdco (GPT) apresentou proposta de combinação de negócios"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/11/bc-regulamenta-mercado-de-criptoativos-e-diz-que-normas-coibem-fraudes-e-lavagem-de-dinheiro/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_cop30_belem_foto_REUTERS-Adriano-Machado_10.11.2025-300x200.jpg",
         "date": "10/11/2025",
         "description": "O presidente da COP30, André Corrêa do Lago, sugeriu focar em esforços menores"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/brandvoice-singularity-a-nova-arte-de-vender/",
-        "title": "A nova arte de vender",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/singularity-300x200.jpg",
-        "date": "10/11/2025",
-        "description": "No universo B2B, autenticidade e escuta genuína substituem técnicas rígidas e impulsionam negócios duradouros"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/colheita-de-milho-no-brasil-e-prevista-em-14356-milhoes-de-toneladas/",
-        "title": "Produção de Milho no Brasil Cresce para 143,56 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_milho_foto_Reuters_10.11.2025-300x200.jpg",
-        "date": "10/11/2025",
-        "description": "O novo volume é sustentado pela expectativa de área total de 21,7 milhões de hectares"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/raizen-vende-usina-continental-para-grupo-colorado-por-r-750-mi/",
-        "title": "Raízen Vende Usina Continental para Grupo Colorado por R$ 750 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/raizen-300x200.jpg",
-        "date": "10/11/2025",
-        "description": "Transação envolve também a cessão da cana própria e dos contratos com fornecedores vinculados à unidade"
     }
 ]
