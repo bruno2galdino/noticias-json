@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/justica-do-rj-aprova-falencia-do-grupo-oi/",
+        "title": "Justiça do RJ Aprova Falência do Grupo Oi",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-15-300x200.jpg",
+        "date": "10/11/2025",
+        "description": "As ações da empresa desabaram mais de 35% nesta segunda-feira (10)"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/brandvoice-casual-o-olhar-inquieto-por-tras-do-design/",
+        "title": "O Olhar Inquieto por trás do Design",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-Site-para-BVs-Comercial-300x200.jpg",
+        "date": "10/11/2025",
+        "description": "Líder criativa da italiana Cassina, Patricia Urquiola esteve em São Paulo para inauguração da primeira loja da marca no país"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/por-que-sam-altman-nao-deve-pagar-a-conta-pelos-gastos-bilionarios-da-openai/",
+        "title": "Por Que Sam Altman Não Deve Pagar a Conta Pelos Gastos Bilionários da OpenAI?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-13-300x200.jpg",
+        "date": "10/11/2025",
+        "description": "A empresa gastou além do que pode bancar em acordos de computação"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/11/do-rio-para-o-mundo-earthshot-prize-reacende-a-fe-no-progresso-sustentavel/",
         "title": "Do Rio para o Mundo, Earthshot Prize Reacende a Fé no Progresso Sustentável",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.O-principe-William-no-Earthshot-Prize-2025-300x200.jpg",
         "date": "10/11/2025",
-        "description": "Os cinco vencedores do Earthshot Prize 2025 representam o que há de mais inovador em ação climática global"
+        "description": "Startup lidera lista ao lado de Bogotá, Lagos Fashion Week, Friendship e do Tratado do Alto Mar; cada vencedor recebe US$ 1,3 milhão"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/11/nidia-duek-cria-brinco-para-quem-usa-aparelho-auditivo/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-10T121753Z_1_LYNXMPELA90KW_RTROPTP_4_BRASIL-GRANOS-EXPORTACIONES-300x200.jpg",
         "date": "10/11/2025",
         "description": "Chuvas recentes melhoraram o plantio no Cerrado, mas irregularidades ainda afetam parte das lavouras"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/kepler-weber-recebe-proposta-de-combinacao-de-r-11-por-acao-com-premio-de-483/",
-        "title": "Kepler Weber Recebe Proposta de Combinação de R$ 11 por Ação com Prêmio de 48,3%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_silo_graos_brasil_foto_BrazilPhotosGettyImages_10.11.2025-300x200.jpg",
-        "date": "10/11/2025",
-        "description": "Fabricante informou que a A-AG Holdco (GPT) apresentou proposta de combinação de negócios"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/bc-regulamenta-mercado-de-criptoativos-e-diz-que-normas-coibem-fraudes-e-lavagem-de-dinheiro/",
-        "title": "BC Regulamenta Mercado de Criptoativos e Diz Que Normas Coíbem Fraudes e Lavagem de Dinheiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-19-1-300x200.png",
-        "date": "10/11/2025",
-        "description": "Novas regras foram anunciadas nesta segunda-feira (10)"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/cop30-inicia-em-belem-com-incerteza-sobre-acordo-final/",
-        "title": "COP30 Inicia em Belém com Incerteza Sobre Acordo Final",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_cop30_belem_foto_REUTERS-Adriano-Machado_10.11.2025-300x200.jpg",
-        "date": "10/11/2025",
-        "description": "O presidente da COP30, André Corrêa do Lago, sugeriu focar em esforços menores"
     }
 ]
