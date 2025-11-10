@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/nestle-brasil-e-embrapa-firmam-acordo-para-acelerar-agricultura-regenerativa-na-cop30/",
+        "title": "Parceria Nestlé-Embrapa Reduzirá Emissões na Produção de Leite e Cacau",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_nestle_embrapa_10.11.2025-300x200.jpg",
+        "date": "10/11/2025",
+        "description": "Os primeiros projetos definidos estão mirando a produção de leite e sistemas agroflorestais para o cacau"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-ultrapassa-155-mil-pontos-pela-1a-vez-com-fluxo-estrangeiro/",
+        "title": "Ibovespa Ultrapassa 155 Mil Pontos Pela 1ª Vez com Fluxo Estrangeiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "10/11/2025",
+        "description": "O pregão desta segunda-feira (10) marcou a 14ª sessão seguida no azul"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/projeto-vai-ajudar-a-repor-500-milhoes-de-litros-de-agua-em-sao-paulo/",
+        "title": "Projeto vai ajudar a repor 500 milhões de litros de água em São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_cantareira_agua_foto_VictorMoriyama-GettyImages_10.11.2025-300x200.jpg",
+        "date": "10/11/2025",
+        "description": "As iniciativas restaurarão florestas nativas e utilizarão tecnologia de detecção de vazamentos com IA"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/apos-vitoria-em-sao-paulo-norris-e-o-grande-favorito-para-titulo-da-f1/",
+        "title": "Após Vitória em São Paulo, Norris É o Grande Favorito para Título da F1",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/07/Lando-Norris-da-McLaren-alcancou-seu-primeiro-podio-em-2020-no-Grande-Premio-da-Austria-300x200.jpg",
+        "date": "10/11/2025",
+        "description": "Norris está 24 pontos à frente de seu companheiro de equipe, o australiano Oscar Piastri"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/justica-do-rj-aprova-falencia-do-grupo-oi/",
         "title": "Justiça do RJ Aprova Falência do Grupo Oi",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-15-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-Site-para-BVs-Comercial-4-300x200.png",
         "date": "10/11/2025",
         "description": "Procrastinar nem sempre é preguiça: entender o vínculo entre identidade e conquistas é o primeiro passo para agir com confiança."
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/11/o-segredo-da-longevidade-esta-no-cotidiano/",
-        "title": "O Segredo da Longevidade Está no Cotidiano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-474092337-300x200.jpg",
-        "date": "10/11/2025",
-        "description": "Alimentação natural, atividade física, sono de qualidade, vínculos sociais e propósito são parte da receita dos supercentenários"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/estoques-de-oleo-de-palma-da-malasia-atingem-maior-nivel-em-6-anos-e-meio/",
-        "title": "Estoques de Óleo de Palma da Malásia Atingem Maior Nível em 6 Anos e Meio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-10T132222Z_1_LYNXMPELA90O7_RTROPTP_3_INDONESIA-ECONOMY-FOREX-300x200.jpg",
-        "date": "10/11/2025",
-        "description": "Crescimento dos estoques na Indonésia pode pressionar os preços do óleo de palma na Malásia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/principal-concorrente-do-brasil-india-planeja-exportar-cota-de-15-milhao-de-toneladas-de-acucar/",
-        "title": "Principal Concorrente do Brasil, Índia Planeja Exportar Cota de 1,5 Milhão de Toneladas de Açúcar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-10T131929Z_1_LYNXMPELA90O0_RTROPTP_4_INDIA-SUGAR-300x200.jpg",
-        "date": "10/11/2025",
-        "description": "Alta nas exportações brasileiras de açúcar pode intensificar a queda dos preços internacionais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/plantio-de-soja-na-safra-2025-26-do-brasil-chega-a-61-da-area/",
-        "title": "Plantio de Soja na Safra 2025/26 do Brasil Chega a 61% da Área",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-10T121753Z_1_LYNXMPELA90KW_RTROPTP_4_BRASIL-GRANOS-EXPORTACIONES-300x200.jpg",
-        "date": "10/11/2025",
-        "description": "Chuvas recentes melhoraram o plantio no Cerrado, mas irregularidades ainda afetam parte das lavouras"
     }
 ]
