@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesesg/2025/11/cop30-cupula-destaca-necessidade-crescente-de-resiliencia-a-tempestades-enchentes-e-incendios/",
+        "title": "COP30: Cúpula Destaca Necessidade Crescente de Resiliência a Tempestades, Enchentes e Incêndios",
+        "image": "https://forbes.com.br/wp-content/uploads/2018/10/colunas-clima-19out2018-iStock.jpg",
+        "date": "11/11/2025",
+        "description": "No mês passado, um relatório da ONU afirmou que somente os países em desenvolvimento precisariam de até US$ 310 bilhões por ano até 2035 para se prepararem"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/chinesa-cofco-fecha-compras-bilionarias-de-soja-do-brasil-e-oleo-de-palma/",
+        "title": "Chinesa Cofco Fecha Compras Bilionárias de Soja do Brasil e Óleo de Palma",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-11T125054Z_1_LYNXMPELAA0NT_RTROPTP_3_AGRICULTURE-PRIZE-300x200.jpg",
+        "date": "11/11/2025",
+        "description": "Mesmo com a redução da tarifa, a soja brasileira segue mais competitiva que a dos EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/reabertura-da-china-abre-oportunidade-para-mbrf-reverter-queda-de-preco-de-frango/",
         "title": "Reabertura da China Abre Oportunidade para MBRF Reverter Queda de Preço de Frango",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_frangos_granja_Nilton-Cardin-Getty-Images_07.11.2025-1-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Elodie-Thellier-presidente-da-Bulgari-para-America-Latina-e-Caribe-300x200.jpg",
         "date": "11/11/2025",
         "description": "Em entrevista à coluna, a business woman fala sobre a cultura do legado e o papel da grife romana no futuro do luxo brasileiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/softbank-sai-da-nvidia-e-redireciona-us-58-bi-para-aposta-em-ia/",
-        "title": "SoftBank Sai da Nvidia e Redireciona US$ 5,8 Bi Para Aposta em IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-23-300x200.jpg",
-        "date": "11/11/2025",
-        "description": "Após alta de 5,7% na véspera, papéis da Nvidia caem 2% com anúncio de venda total e foco do SoftBank em novos projetos de tecnologia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/ipca-energia-e-alimentos-reduzem-pressao-inflacionaria-em-outubro/",
-        "title": "IPCA:  Energia e Alimentos Reduzem Pressão Inflacionária em Outubro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/mercado-alimentos-preco-forbes-300x200.jpg",
-        "date": "11/11/2025",
-        "description": "IPCA sobe 0,09%, bem abaixo das projeções, e reforça tendência de estabilidade; especialistas dizem que dado não deve interferir em nada decisão sobre Selic"
     }
 ]
