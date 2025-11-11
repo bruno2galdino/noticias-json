@@ -1,10 +1,17 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/softbank-sai-da-nvidia-e-redireciona-us-58-bi-para-aposta-em-ia/",
+        "title": "SoftBank Sai da Nvidia e Redireciona US$ 5,8 Bi Para Aposta em IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-23-300x200.jpg",
+        "date": "11/11/2025",
+        "description": "Após alta de 5,7% na véspera, papéis da Nvidia caem 2% com anúncio de venda total e foco do SoftBank em novos projetos de tecnologia"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/ipca-energia-e-alimentos-reduzem-pressao-inflacionaria-em-outubro/",
         "title": "IPCA:  Energia e Alimentos Reduzem Pressão Inflacionária em Outubro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/mercado-alimentos-preco-forbes-300x200.jpg",
         "date": "11/11/2025",
-        "description": "IPCA sobe 0,09%, bem abaixo das projeções, e reforça tendência de estabilidade; especialistas dizem que dado não deve interferir em dada decisão sobre Selic"
+        "description": "IPCA sobe 0,09%, bem abaixo das projeções, e reforça tendência de estabilidade; especialistas dizem que dado não deve interferir em nada decisão sobre Selic"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-surpresas-positivas-da-ata-do-copom/",
@@ -46,7 +53,7 @@
         "title": "O Paradoxo dos 150 Mil Pontos: B3 Bate Recordes, Mas Perde Empresas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-21-300x200.jpg",
         "date": "11/11/2025",
-        "description": "Enquanto o Ibovespa supera 150 mil pontos impulsionado por blue chips e capital estrangeiro, 25 companhias deixam a B3, no maior êxodo desde 2017"
+        "description": "Enquanto o Ibovespa supera 150 mil pontos impulsionado por blue chips e capital estrangeiro, 29 companhias deixam a B3, no maior êxodo desde 2017"
     },
     {
         "url": "https://forbes.com.br/colunas/2025/11/cancer-de-prostata-novos-tratamentos-ampliam-as-chances-de-viver-mais-e-melhor/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro100_forbes_135-768x512-1-300x200.jpg",
         "date": "11/11/2025",
         "description": "Empresas e cooperativas que integram o ranking da Forbes Brasil mostra o peso do agronegócio na economia do país; juntas, elas movimentaram R$ 1,886 trilhão"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/11/mother-mesccia-conheca-o-tradicional-rum-do-principado-de-monaco/",
-        "title": "Mother Mesccia: Conheça o Tradicional Rum do Principado de Mônaco",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Mother-Mesccia_10nov25_Forbes_Franca-1-300x200.jpg",
-        "date": "11/11/2025",
-        "description": "Saiba como o empreendedorismo e o artesanato têm seu espaço nesse universo singular monegasco pouco conhecido"
     }
 ]
