@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/11/lendas-do-tenis-se-enfrentam-em-torneio-relampago-no-clube-hebraica/",
+        "title": "Lendas do Tênis se Enfrentam em Torneio-relâmpago no Clube Hebraica",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/montagem-02-tenis_-300x200.jpg",
+        "date": "11/11/2025",
+        "description": "Bruno Soares será o brasileiro no Legends Tennis Cup, que reúne Gastón Gaudio, David Nalbadian, Nicolás Massú, Nicolás Lapentti e Pablo Cuevas"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/brandvoice-roca-design-brasileiro-dialoga-com-o-mundo/",
+        "title": "Design Brasileiro Dialoga com o Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Roca_site-300x200.jpg",
+        "date": "11/11/2025",
+        "description": "Rodrigo Ohtake imprime em coleção para a Roca a força de sua herança criativa e a visão contemporânea do design que conquista a cena internacional."
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/11/fda-retira-tarja-preta-das-bulas-de-terapias-de-reposicao-hormonal-para-menopausa/",
+        "title": "Menopausa: FDA Retira \"Tarja Preta\" de Terapias de Reposição Hormonal",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/mulher-remedio-menopausa-reposicao-hormonal-300x200.jpg",
+        "date": "11/11/2025",
+        "description": "Decisão pode ampliar o acesso a terapias que vinham sendo evitadas por pacientes e médicos devido a temores sobre sua segurança"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/11/etiopia-sediara-cupula-climatica-cop32-em-2027/",
         "title": "Etiópia Sediará Cúpula Climática COP32 em 2027",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-51-300x200.jpg",
@@ -21,7 +42,7 @@
         "description": "União Europeia, Lei Antidesmatamento, Desmatamento, Comissão Europeia, Agronegócio, Sustentabilidade, Comércio Internacional, Soja, Cacau, ESG"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/jatos-privados-estao-proibidos-em-12-aeroportos-dos-eua-devido-ao-shutdown/",
+        "url": "https://forbes.com.br/forbeslife/2025/11/jatos-privados-estao-proibidos-em-12-aeroportos-dos-eua-devido-ao-shutdown/",
         "title": "Jatos Privados Estão Proibidos em 12 Aeroportos dos EUA Devido Ao Shutdown",
         "image": "https://forbes.com.br/wp-content/uploads/2023/10/Money_Gulfstream-G650ER_aviao-300x200.jpg",
         "date": "11/11/2025",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2021/10/money_fundos-esg_12ago21_Thithawat_s_Getty-Images.jpg",
         "date": "11/11/2025",
         "description": "O impasse sobre o financiamento climático expõe a disputa entre nações ricas e emergentes sobre quem deve arcar com os custos da crise ambiental"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/anec-eleva-projecoes-de-exportacao-de-soja-milho-e-farelo-em-novembro/",
-        "title": "Anec Eleva Projeções de Exportação de Soja, Milho e Farelo em Novembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_exportacao_foto_REUTERS-DaneRhys_11.11.2025-300x200.jpg",
-        "date": "11/11/2025",
-        "description": "Os embarques da oleaginosa devem crescer mais de 82% em relação a novembro do ano passado"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/cop30-cupula-destaca-necessidade-crescente-de-resiliencia-a-tempestades-enchentes-e-incendios/",
-        "title": "COP30: Cúpula Destaca Necessidade Crescente de Resiliência a Tempestades, Enchentes e Incêndios",
-        "image": "https://forbes.com.br/wp-content/uploads/2018/10/colunas-clima-19out2018-iStock.jpg",
-        "date": "11/11/2025",
-        "description": "No mês passado, um relatório da ONU afirmou que somente os países em desenvolvimento precisariam de até US$ 310 bilhões por ano até 2035 para se prepararem"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/chinesa-cofco-fecha-compras-bilionarias-de-soja-do-brasil-e-oleo-de-palma/",
-        "title": "Chinesa Cofco Fecha Compras Bilionárias de Soja do Brasil e Óleo de Palma",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-11T125054Z_1_LYNXMPELAA0NT_RTROPTP_3_AGRICULTURE-PRIZE-300x200.jpg",
-        "date": "11/11/2025",
-        "description": "Mesmo com a redução da tarifa, a soja brasileira segue mais competitiva que a dos EUA"
     }
 ]
