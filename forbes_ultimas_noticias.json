@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2025/11/a-qualidade-que-todo-parceiro-inteligente-tem/",
+        "title": "A Qualidade Que Todo Parceiro Inteligente Tem",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/960x0-4-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "A diferença entre paixão e inteligência emocional está em como cada uma lida com o que sente"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/bndes-estima-r-737-bi-em-investimentos-sustentaveis-a-partir-de-chamada-publica-para-clima/",
+        "title": "BNDES Estima R$ 73,7 Bi em Investimentos Sustentáveis a Partir de Chamada Pública para Clima",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Cop30_BNDES_12nov25_Andre-Telles-BNDES-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "Seleção lançada na COP30 recebeu 45 propostas de fundos voltados à descarbonização, energia limpa e reflorestamento"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/estoques-recordes-de-soja-na-china-diminuem-perspectiva-de-exportacao-dos-eua/",
+        "title": "Estoques Recordes de Soja na China Diminuem Perspectiva de Exportação dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_porto_na_china_foto_NurPhoto_GettyImages_12.11.2025-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "País asiático tem excesso de soja, com estoques atingindo um recorde de 10,3 milhões de toneladas"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/11/cop30-reune-3-mil-indigenas-e-amplia-presenca-de-povos-tradicionais-nas-negociacoes-climaticas/",
         "title": "COP30 Reúne 3 Mil Indígenas e Amplia Presença de Povos Tradicionais nas Negociações Climáticas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Cop30_Aldeia_COP_12nov25_Aline-MassucaCOP30-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/vale-alimentacao-300x200.jpg",
         "date": "12/11/2025",
         "description": "Mudanças beneficiam mais de 22 milhões de profissionais, que terão maior liberdade de escolha e melhor aceitação dos cartões"
-    },
-    {
-        "url": "https://forbes.com.br/brand-voice/2025/11/brandvoice-arqios-seguranca-com-design-refinado/",
-        "title": "Segurança com Design Refinado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-9-2-300x200.png",
-        "date": "12/11/2025",
-        "description": "Imbraforte e Arqios redefinem o setor, unindo blindagem, inovação e luxo em soluções exclusivas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-inflacao-baixa-e-ata-do-copom-sustentam-alta-do-ibovespa/",
-        "title": "Pré-mercado: Inflação Baixa e Ata do Copom Sustentam Alta do Ibovespa",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "12/11/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 12 de novembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/supercarro-gordon-murray-s1-lm-pode-valer-mais-de-us-20-milhoes-antes-de-ser-construido/",
-        "title": "Supercarro Gordon Murray S1 LM Pode Valer Mais de US$ 20 Milhões Antes de Ser Construído",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/3a1ddb7027d09895d0606f87757de7662105b616-300x200.png",
-        "date": "12/11/2025",
-        "description": "Quem arrematar o carro em leilão poderá criar o modelo diretamente com a marca"
     }
 ]
