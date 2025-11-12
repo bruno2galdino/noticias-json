@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesesg/2025/11/cop30-reune-3-mil-indigenas-e-amplia-presenca-de-povos-tradicionais-nas-negociacoes-climaticas/",
+        "title": "COP30 Reúne 3 Mil Indígenas e Amplia Presença de Povos Tradicionais nas Negociações Climáticas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Cop30_Aldeia_COP_12nov25_Aline-MassucaCOP30-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "Evento da ONU marca a maior representação já registrada em uma conferência do clima, com delegações de 361 etnias brasileiras e povos de três continentes"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/trump-diz-que-governo-reduzira-algumas-tarifas-sobre-o-cafe/",
+        "title": "Trump Diz Que Governo Reduzirá Algumas Tarifas sobre o Café",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_graos_plana_REUTERS-Juan-Carlos-Ulate_27.10.2025-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "Declaração foi feita durante uma entrevista exibida na terça-feira (11) no programa \"The Ingraham Angle\""
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/bc-aponta-deterioracao-em-indicador-de-credito-mas-ve-sistema-financeiro-solido/",
+        "title": "BC Aponta Deterioração em Indicador de Crédito, Mas Vê Sistema Financeiro Sólido",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/vista-banco-central-brasilia-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "Desaceleração do crédito ocorreu em quase todas as modalidades para famílias e portes de empresas"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/11/bndes-bradesco-e-fundo-ecogreen-criam-certificadora-brasileira-de-carbono/",
         "title": "BNDES, Bradesco e Fundo Ecogreen Criam Certificadora Brasileira de Carbono",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/lancamento_12nov25_-Rubio-MarraBNDES-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/3a1ddb7027d09895d0606f87757de7662105b616-300x200.png",
         "date": "12/11/2025",
         "description": "Quem arrematar o carro em leilão poderá criar o modelo diretamente com a marca"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/boreout-como-o-tedio-destroi-a-motivacao-e-prejudica-a-retencao-de-talentos/",
-        "title": "Como o Tédio Destrói a Motivação e Prejudica a Retenção de Talentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/tedio-no-trabalho-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "Quando o trabalho perde o sentido, nem mesmo o salário é capaz de manter o engajamento"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/oneonly-inaugura-resort-de-luxo-nas-montanhas-dos-eua/",
-        "title": "One&Only Inaugura Resort de Luxo nas Montanhas dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/padrao-Forbes-34-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "A rede de hospitalidade de ultra-luxo abre neste mês o Moonlight Basin, em Big Sky — um refúgio que combina natureza, aventura e sofisticação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/inteligencia-artificial-e-ouro-elevam-mercados-a-niveis-historicos/",
-        "title": "Inteligência Artificial e Ouro Elevam Mercados a Níveis Históricos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_tech_inteligencia_artificial_foto_Wanan_Yossingkum-Gettyimages_02.10.2025-1-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "Do S&P 500 ao ouro recordista, IA e excesso de liquidez impulsionam uma valorização inédita em ações, criptos e imóveis"
     }
 ]
