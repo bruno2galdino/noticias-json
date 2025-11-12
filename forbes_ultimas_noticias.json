@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesesg/2025/11/bndes-bradesco-e-fundo-ecogreen-criam-certificadora-brasileira-de-carbono/",
+        "title": "BNDES, Bradesco e Fundo Ecogreen Criam Certificadora Brasileira de Carbono",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/lancamento_12nov25_-Rubio-MarraBNDES-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "Ecora será a primeira certificadora nacional; a meta é fortalecer a infraestrutura climática e reduzir a dependência de organismos internacionais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/setor-de-servicos-no-brasil-cresce-mais-que-o-esperado-em-setembro/",
+        "title": "Setor de Serviços no Brasil Cresce Mais Que o Esperado em Setembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/money-Setor-de-servicos-dos-EUA-desacelera-mais-em-fevereiro-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "Esse foi o oitavo mês consecutivo de alta, renovando o ápice da série histórica, mostraram dados do IBGE"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/acoes-da-edenred-e-pluxee-despencam-apos-decreto-sobre-vale-alimentacao-e-vale-refeicao-no-brasil/",
+        "title": "Ações da Edenred e Pluxee Despencam",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/acoes-forbes-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "Edenred advertiu que, se as mudanças forem aprovadas, ela reduzirá sua previsão de lucro principal para 2026"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/11/entenda-medida-que-altera-regras-para-vales-alimentacao-e-refeicao/",
+        "title": "Entenda Medida Que Altera Regras para Vales-Alimentação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/vale-alimentacao-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "Mudanças beneficiam mais de 22 milhões de profissionais, que terão maior liberdade de escolha e melhor aceitação dos cartões"
+    },
+    {
         "url": "https://forbes.com.br/brand-voice/2025/11/brandvoice-arqios-seguranca-com-design-refinado/",
         "title": "Segurança com Design Refinado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-9-2-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_tech_inteligencia_artificial_foto_Wanan_Yossingkum-Gettyimages_02.10.2025-1-300x200.jpg",
         "date": "12/11/2025",
         "description": "Do S&P 500 ao ouro recordista, IA e excesso de liquidez impulsionam uma valorização inédita em ações, criptos e imóveis"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/os-hoteis-mais-aguardados-de-2026-segundo-o-forbes-travel-guide/",
-        "title": "Os Hotéis de Luxo Mais Aguardados de 2026, Segundo a Forbes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Bulgari-Resort-Ranfushi-Maldivas-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "Confira uma prévia das novas opções de hospedagem de luxo do próximo ano, de Londres à Tanzânia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/roberto-sallouti-queremos-formar-os-arquitetos-da-inovacao-brasileira/",
-        "title": "Roberto Sallouti: “Queremos Formar os Arquitetos da Inovação Brasileira”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/SALOUTTI-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "Em entrevista à Forbes Brasil, o cofundador do Inteli fala sobre o impacto da primeira turma e como o instituto pretende formar a nova geração de líderes em tecnologia e negócios"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/11/nunca-mais-chame-esse-vinho-doc-de-pomerol-agora-seu-nome-e-chateau-lafleur/",
-        "title": "Nunca Mais Chame Esse Vinho DOC de “Pomerol”, Agora Seu Nome É Château Lafleur",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_vinho_Chateau-Lafleur_11nov25_Chateau-Lafleur-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "Famosa vinícola francesa sai do sistema de Denominação de Origem Controlada e aposta em uma nova categoria não institucional baseada no valor e na história da marca"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/da-pista-a-safra-ex-piloto-argentino-coloca-batata-no-radar-do-brasil/",
-        "title": "Da Pista À Safra, Ex-Piloto Argentino Coloca Batata No Radar Do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_el_parque_papas_walter-hernandez_09.10.2025-r1-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "Conheça Walter Hernández, dono da El Parque Papas, que cultiva 14 mil hectares, é fornecedor da PepsiCo e Lamb Weston e ainda sobra para exportar"
     }
 ]
