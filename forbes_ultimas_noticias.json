@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/precos-do-cafe-despencam-com-eua-prontos-a-reduzir-tarifas/",
+        "title": "Preços do Café Despencam com EUA Prontos a Reduzir Tarifas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Sacas-de-cafe-em-armazem-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "O Vietnã, principal produtor de café robusta, está em melhor posição entre os principais produtores para ver as tarifas reduzidas por Trump"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/bvlgari-e-pinacoteca-celebram-parceria-com-performance-inedita/",
+        "title": "Bvlgari e Pinacoteca Celebram Parceria com Performance Inédita",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/A-apresentacao-de-Sadeck-Berrabah-no-evento-da-Bulgari-na-Pinacoteca-300x200.jpg",
+        "date": "12/11/2025",
+        "description": "Evento no museu marcou a restauração de obras icônicas e reuniu Sadeck Berrabah e Ingrid Silva em uma apresentação especial sobre arte e conexão cultural"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/voce-esta-ouvindo-bots-pesquisa-mostra-que-musica-com-ia-e-praticamente-imperceptivel/",
+        "title": "Você Está Ouvindo Bots? Pesquisa Mostra Que Música com IA É Praticamente Imperceptível",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/Musica-300x200.png",
+        "date": "12/11/2025",
+        "description": "Deezer-Ipsos revelou que 97% dos ouvintes não consegue distinguir entre canções geradas por inteligência artificial e compostas por humanos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/sera-que-a-softbank-vai-se-arrepender-de-vender-suas-acoes-da-nvidia/",
         "title": "Será Que a Softbank Vai se Arrepender de Vender Suas Ações da Nvidia?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-52-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_esg_cop30_policiamento_bufalo_foto_REUTERS-AndersonCoelho_12.11.2025-300x200.jpg",
         "date": "12/11/2025",
         "description": "A Ilha de Marajó, do outro lado da baía de Belém, usa os animais como meio de transporte sustentável"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/11/a-qualidade-que-todo-parceiro-inteligente-tem/",
-        "title": "A Qualidade Que Todo Parceiro Inteligente Tem",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/960x0-4-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "A diferença entre paixão e inteligência emocional está em como cada uma lida com o que sente"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/bndes-estima-r-737-bi-em-investimentos-sustentaveis-a-partir-de-chamada-publica-para-clima/",
-        "title": "BNDES Estima R$ 73,7 Bi em Investimentos Sustentáveis a Partir de Chamada Pública para Clima",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Cop30_BNDES_12nov25_Andre-Telles-BNDES-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "Seleção lançada na COP30 recebeu 45 propostas de fundos voltados à descarbonização, energia limpa e reflorestamento"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/estoques-recordes-de-soja-na-china-diminuem-perspectiva-de-exportacao-dos-eua/",
-        "title": "Estoques Recordes de Soja na China Diminuem Perspectiva de Exportação dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_porto_na_china_foto_NurPhoto_GettyImages_12.11.2025-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "País asiático tem excesso de soja, com estoques atingindo um recorde de 10,3 milhões de toneladas"
     }
 ]
