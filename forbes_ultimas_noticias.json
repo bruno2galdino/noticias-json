@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-encerra-maior-serie-de-altas-em-mais-de-30-anos-com-pressao-de-petrobras/",
+        "title": "Ibovespa Encerra Maior Série de Altas em Mais de 30 Anos com Pressão de Petrobras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "12/11/2025",
+        "description": "Após cinco quedas consecutivas, o dólar terminou o dia no positivo"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/11/brandvoice-entreaguas-nordeste-se-consolida-em-investimentos-premium/",
         "title": "Nordeste se Consolida em Investimentos Premium",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-Site-para-BVs-Comercial-1-1-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-12T135707Z_1_LYNXMPELAB0RN_RTROPTP_4_AUTOS-GM-CHINA-CADEIA-1-300x200.jpg",
         "date": "12/11/2025",
         "description": "Com a escalada da disputa EUA–China, a GM acelera plano para tornar sua cadeia de suprimentos mais resiliente"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/inadimplencia-do-produtor-rural-no-brasil-sobe-para-81-no-2o-tri-aponta-serasa/",
-        "title": "Inadimplência do Produtor Rural no Brasil Sobe para 8,1% no 2º Tri, Aponta Serasa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-12T135332Z_1_LYNXMPELAB0RK_RTROPTP_4_BRAZIL-AGRICULTURE-CATERPILLAR-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "Após um ano difícil para o campo, a recuperação das lavouras trouxe alívio e reduziu o risco de calotes"
     }
 ]
