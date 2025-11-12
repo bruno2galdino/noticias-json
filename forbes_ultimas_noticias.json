@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/brand-voice/2025/11/brandvoice-arqios-seguranca-com-design-refinado/",
+        "title": "Segurança com Design Refinado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-9-2-300x200.png",
+        "date": "12/11/2025",
+        "description": "Imbraforte e Arqios redefinem o setor, unindo blindagem, inovação e luxo em soluções exclusivas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-inflacao-baixa-e-ata-do-copom-sustentam-alta-do-ibovespa/",
+        "title": "Pré-mercado: Inflação Baixa e Ata do Copom Sustentam Alta do Ibovespa",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "12/11/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 12 de novembro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/supercarro-gordon-murray-s1-lm-pode-valer-mais-de-us-20-milhoes-antes-de-ser-construido/",
         "title": "Supercarro Gordon Murray S1 LM Pode Valer Mais de US$ 20 Milhões Antes de Ser Construído",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/3a1ddb7027d09895d0606f87757de7662105b616-300x200.png",
@@ -18,7 +32,7 @@
         "title": "One&Only Inaugura Resort de Luxo nas Montanhas dos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/padrao-Forbes-34-300x200.jpg",
         "date": "12/11/2025",
-        "description": "A rede de hospitalidade de ultra-luxo inaugura o Moonlight Basin, em Big Sky — um refúgio entre natureza, aventura e sofisticação"
+        "description": "A rede de hospitalidade de ultra-luxo abre neste mês o Moonlight Basin, em Big Sky — um refúgio que combina natureza, aventura e sofisticação"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/11/inteligencia-artificial-e-ouro-elevam-mercados-a-niveis-historicos/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_el_parque_papas_walter-hernandez_09.10.2025-r1-300x200.jpg",
         "date": "12/11/2025",
         "description": "Conheça Walter Hernández, dono da El Parque Papas, que cultiva 14 mil hectares, é fornecedor da PepsiCo e Lamb Weston e ainda sobra para exportar"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/sem-a-carne-brasileira-tyson-reage-a-crise-com-aposta-no-frango/",
-        "title": "Sem a Carne Brasileira, Tyson Reage à Crise com Aposta no Frango",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_tyson_chicken_nuggets_12.11.2025-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "Maior processadora de carne dos EUA projeta prejuízo de até US$ 600 milhões no setor de carne bovina"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/diego-lozano-confeitaria-brasileira-ainda-e-muito-inexplorada/",
-        "title": "Diego Lozano: \"Confeitaria Brasileira É Muito Inexplorada\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Life_Diego-Lozano-300x200.jpg",
-        "date": "12/11/2025",
-        "description": "Jurado do Masterchef construiu carreira global com base em técnica, resiliência e \"zero planejamento\". Agora, ele quer provar que a confeitaria nacional é o próximo grande mercado a ser explorado"
     }
 ]
