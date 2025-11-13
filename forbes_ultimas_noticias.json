@@ -1,7 +1,28 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/11/brandvoice-bed-and-room-o-colchao-mais-caro-do-brasil-uma-revolucao-no-sono-de-luxo/",
+        "title": "O Colchão Mais Caro do Brasil: uma Revolução no Sono de Luxo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/1-6-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "O BNR1000, da Bed and Room, custa R$ 128 mil e tem uma proposta ousada: provar que colchão é uma peça central de uma experiência de bem-estar"
+    },
+    {
+        "url": "https://forbes.com.br/brand-voice/2025/11/siemens-e-greylogix-mostram-como-a-industria-4-0-esta-transformando-o-futuro-dos-alimentos-e-bebidas/",
+        "title": "Siemens e Greylogix Mostram Como a Indústria 4.0 Está Transformando o Futuro dos Alimentos e Bebidas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Podcast-Siemens-300x200.png",
+        "date": "13/11/2025",
+        "description": "A parceria entre as empresas reforça uma tendência global: a democratização da tecnologia industrial"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/hapvida-desaba-40-apos-queda-de-176-no-ebitda/",
+        "title": "Hapvida Desaba 40% Após Queda de 17,6% no Ebitda",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/09/hapvida-divulgacao-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Operadora admite trimestre aquém do esperado enquanto amplia leitos e unidades para melhorar eficiência e atendimento"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/apesar-do-fim-do-shutdown-eua-segue-com-problemas-fiscais-serios/",
-        "title": "Apesar do Fim do Shutdown, EUA Segue com Problemas Fiscais Sérios",
+        "title": "Apesar do Fim do Shutdown, EUA Seguem com Problemas Fiscais Sérios",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-money-1-300x200.jpg",
         "date": "13/11/2025",
         "description": "País convive com um orçamento inflado e pouca disciplina fiscal"
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/carrefour-1-300x200.jpg",
         "date": "13/11/2025",
         "description": "Península encerra o legado brasileiro no grupo e marca a entrada da família Saadé, dona da CMA CGM, no conselho do Carrefour"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/11/cannabis-deve-movimentar-r-967-milhoes-no-brasil-em-2025/",
-        "title": "Cannabis Deve Movimentar R$ 967 Milhões no Brasil em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cannabis_plantacao_Justin-Sullivan-GettyImages_13.11.2025-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Setor cresce 11% e ganha força com o avanço da cannabis medicinal e marco regulatório para março de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/ricardo-almeida-renova-parceria-com-a-cbf-e-leva-alfaiataria-a-copa-2026/",
-        "title": "Ricardo Almeida Renova Parceria com a CBF e Leva Alfaiataria À Copa 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/E-a-terceira-vez-consecutiva-que-a-Ricardo-Almeida-fica-responsavel-pelos-uniformes-da-CBF-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Pela 3ª vez consecutiva, marca será responsável pela alfaiataria oficial da Seleção Brasileira, agora com a nova linha RA2"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/penny-a-moeda-de-um-centavo-americano-morre-apos-232-anos-em-circulacao/",
-        "title": "Penny, a Moeda de um Centavo Americano, “Morre” após 232 Anos em Circulação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-19-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "As últimas moedas foram cunhadas na tarde de quarta-feira (12), na Filadélfia, com a presença de autoridades do Tesouro"
     }
 ]
