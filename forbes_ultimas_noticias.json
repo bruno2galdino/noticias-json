@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/11/ricardo-almeida-renova-parceria-com-a-cbf-e-leva-alfaiataria-a-copa-2026/",
+        "title": "Ricardo Almeida Renova Parceria com a CBF e Leva Alfaiataria À Copa 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/E-a-terceira-vez-consecutiva-que-a-Ricardo-Almeida-fica-responsavel-pelos-uniformes-da-CBF-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Pela 3ª vez consecutiva, marca será responsável pela alfaiataria oficial da Seleção Brasileira, agora com a nova linha RA2"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/penny-a-moeda-de-um-centavo-americano-morre-apos-232-anos-em-circulacao/",
+        "title": "Penny, a Moeda de um Centavo Americano, “Morre” após 232 Anos em Circulação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-19-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "As últimas moedas foram cunhadas na tarde de quarta-feira (12), na Filadélfia, com a presença de autoridades do Tesouro"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/lista-forbes-agro100-consolida-serie-historica-iniciada-em-2019-e-reforca-o-peso-do-agro/",
-        "title": "Lista Forbes Agro100 Consolida Série Histórica Iniciada em 2019 e Reforça o Peso do Agro Brasileiro",
+        "title": "Lista Forbes Agro100 Consolida Série Histórica e Reforça o Peso do Agro Brasileiro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_agro100_13nov25_ForbesArte-300x200.jpg",
         "date": "13/11/2025",
-        "description": "Levantamento anual reúne cooperativas, grupos empresariais e companhias de capital aberto e fechado com base em dados financeiros; nesta edição a receita total foi de R$ 1,886 trilhão"
+        "description": "Levantamento anual publicado desde 2019 reúne cooperativas, grupos empresariais e companhias de capital aberto e fechado com base em dados financeiros; nesta edição, receita total foi de R$ 1,886 tri"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/11/cop30-e-a-agenda-economica-da-sustentabilidade/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_Belem_para_13nov25_Roni_Moreira_Ag.Para_-300x200.jpg",
         "date": "13/11/2025",
         "description": "Parceria técnica entre as duas capitais prevê intercâmbio de projetos de urbanismo, clima e transporte"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/falencia-da-oi-coloca-236-mil-investidores-em-risco-de-perda-total/",
-        "title": "Falência da Oi Coloca 236 Mil Investidores em Risco de Perda Total",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-54-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Com R$ 1,5 bilhão em dívidas, a empresa entra em liquidação e deixa milhares de acionistas à espera de um desfecho quase certo: prejuízo integral"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/parlamento-da-ue-aprova-nova-meta-climatica-para-2040/",
-        "title": "Parlamento da UE Aprova Nova Meta Climática para 2040",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Fumaca-sai-de-chamine-em-fabrica-na-Franca-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Plano quer reduzir as emissões de gases de efeito estufa em 90% e terceirizar 5% dessa meta para países fora do bloco por meio de créditos de carbono"
     }
 ]
