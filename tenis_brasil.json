@@ -1,17 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-12-11.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/fullana_rioclaro25_fore.jpg",
+        "date": "12/11/2025",
+        "description": "Challenger de Montevidéu (Uruguai) – Saibro – US$ 160 milSegunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-joguei-meu-melhor-tenis-nos-pontos-importantes.html",
+        "title": "Sinner: “Joguei meu melhor tênis nos pontos importantes”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/sinner-nitto-atp-finals-2025-wednesday-lead-image-1024x576.jpg",
+        "date": "12/11/2025",
+        "description": "Turim (Itália) –Atual campeão do ATP Finals e classificado de forma antecipada para as semifinais do torneio, Jannik Sinner saiu de quadra da partida contra Alexander Zverev bastante satisfeito com o nível de tênis apresentado. Ainda sem sofrer quebras de serviço no torneio, o italiano escapou de todos os sete break-points que enfrentou contra o alemão e sente que conseguiu jogar seu melhor tênis nos momentos decisivos."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/duplas-de-demoliner-e-daniel-silva-avancam-em-montevideu.html",
         "title": "Duplas de Demoliner e Daniel Silva avançam em Montevidéu",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/daniel_silva_uruguai_fore-1024x683.jpg",
         "date": "12/11/2025",
         "description": "Montevidéu (Uruguai) –A chave de duplas challenger de Montevidéu teve dois brasileiros avançando nesta quarta-feira. O gaúcho Marcelo Demoliner, que nesta semana joga ao lado do colombiano Nicolas Barrientos, além do paulista Daniel Dutra da Silva, que tem como parceiro o argentino Gonzalo Villanueva."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-12-11.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/demoliner_oeiras_saibro-1024x582.jpg",
-        "date": "12/11/2025",
-        "description": "Challenger de Montevidéu (Uruguai) – Saibro – US$ 160 milSegunda rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-enfrenta-musetti-as-16h30-em-busca-da-semi-e-do-no-1.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/joaofonseca-slopen.jpg",
         "date": "12/11/2025",
         "description": "São Leopoldo (RS) –O São Léo Open retorna em 2026. Do dia 28 de março a 5 de abril, São Leopoldo novamente voltará a receber atletas bem ranqueados de todo o planeta. A informação foi confirmada pela Quadra Eventos que confirmou o ATP Challenger 75, com premiação total de US$ 112 mil, no ano que vem."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-volta-a-superar-zverev-e-e-o-primeiro-semifinalista-em-turim.html",
-        "title": "Sinner volta a superar Zverev e é o primeiro semifinalista em Turim",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/sinner-smile-turin-2025-monday-1024x576.jpg",
-        "date": "12/11/2025",
-        "description": "Turim (Itália) –Pela quarta vez na temporada e a terceira nas últimas semanas, Jannik Sinner voltou a superar Alexander Zverev e garantiu seu lugar na semifinal do ATP Finals. Atual campeão em Turim, o italiano venceu o alemão por 6/4 e 6/3 em 1h37 de partida nesta quarta-feira."
     }
 ]
