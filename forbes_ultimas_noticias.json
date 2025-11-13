@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/indonesia-abre-600-mil-hectares-para-expandir-producao-de-oleo-de-palma/",
+        "title": "Indonésia Abre 600 Mil Hectares Para Expandir Produção de Óleo de Palma",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-23T121405Z_1_LYNXMPEL9M0NB_RTROPTP_3_INDONESIA-ECONOMY-FOREX-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Governo planeja ampliar cultivo de palma em quatro anos, com meta de elevar produção em 2 milhões de toneladas e apoiar pequenos produtores"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/saida-da-familia-diniz-do-carrefour-encerra-capitulo-marcante-do-varejo-brasileiro/",
+        "title": "Saída da Família Diniz do Carrefour Encerra Capítulo Marcante do Varejo Brasileiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/carrefour-1-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Península encerra o legado brasileiro no grupo e marca a entrada da família Saadé, dona da CMA CGM, no conselho do Carrefour"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/11/cannabis-deve-movimentar-r-967-milhoes-no-brasil-em-2025/",
+        "title": "Cannabis Deve Movimentar R$ 967 Milhões no Brasil em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cannabis_plantacao_Justin-Sullivan-GettyImages_13.11.2025-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Setor cresce 11% e ganha força com o avanço da cannabis medicinal e marco regulatório para março de 2026"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/11/ricardo-almeida-renova-parceria-com-a-cbf-e-leva-alfaiataria-a-copa-2026/",
         "title": "Ricardo Almeida Renova Parceria com a CBF e Leva Alfaiataria À Copa 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/E-a-terceira-vez-consecutiva-que-a-Ricardo-Almeida-fica-responsavel-pelos-uniformes-da-CBF-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_lavoura_Milho_aplicacao_bioinsumos_13nov25_ilustrissima_Getty-300x200.jpg",
         "date": "13/11/2025",
         "description": "Crescimento sustenta a expansão dos biológicos nas principais culturas e reforça a mudança do manejo no campo, mostra levantamento da Kynetec"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/conab-mantem-projecao-de-soja-recorde-mas-alerta-para-deficit-hidrico/",
-        "title": "Conab Mantém Projeção de Soja Recorde, Mas Alerta Para Déficit Hídrico",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_colheita_foto_picture_alliance_GettyImages_13.11.2025-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Foi mantida a previsão da safra de soja 2025/26 em 177,6 milhões de toneladas, com área 3,6% maior"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/infomercial-vetter-raizes-fortes-horizontes-azuis/",
-        "title": "Raízes Fortes, Horizontes Azuis",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/capa-vetter-300x200.png",
-        "date": "13/11/2025",
-        "description": "O litoral norte de Santa Catarina se torna o destino do investidor que valoriza tempo, beleza e retorno"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/belem-e-paris-firmam-acordo-para-cooperacao-em-sustentabilidade-e-mobilidade/",
-        "title": "Belém e Paris Firmam Acordo para Cooperação em Sustentabilidade e Mobilidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_Belem_para_13nov25_Roni_Moreira_Ag.Para_-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Parceria técnica entre as duas capitais prevê intercâmbio de projetos de urbanismo, clima e transporte"
     }
 ]
