@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/cop30-e-a-agenda-economica-da-sustentabilidade/",
+        "title": "COP30 e a Agenda Econômica da Sustentabilidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cop30_-entrada-10nov25_Raimundo-PaccoCOP30-1-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Finanças verdes, bioeconomia e inovação colocam o Brasil no centro da nova agenda econômica global"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/equatorial-entra-no-top-10-de-acoes-mais-negociadas-na-b3/",
+        "title": "Equatorial Entra no Top 10 de Ações Mais Negociadas na B3",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/GettyImages-2201575010-1-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "A estreia da Equatorial entre as ações mais negociadas mostra a relevância crescente do segmento de energia na diversificação das carteiras da B3"
+    },
+    {
+        "url": "https://forbes.com.br/forbeswsb/2025/11/vinicola-boutique-brasileira-produz-vinho-no-uruguai-e-planeja-conquistar-o-mundo/",
+        "title": "Vinícola Boutique Brasileira Produz Vinho No Uruguai E Planeja Conquistar O Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Guaspari_Porcellino_Douglas-Daniel-Fotografia-2-2-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Novo rótulo, novo CEO e ambição global: a Guaspari prepara sua entrada em mercados de prestígio fora do Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/mercado-de-biodefensivos-no-brasil-cresce-18-na-safra-2024-25-e-chega-a-r-435-bi/",
         "title": "Mercado de Biodefensivos no Brasil Cresce 18% na Safra 2024/25 e Chega a R$ 4,35 Bi",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_lavoura_Milho_aplicacao_bioinsumos_13nov25_ilustrissima_Getty-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_milho_colheita_foto_Anadolu_GettyImages_13.11.2025-300x200.jpg",
         "date": "13/11/2025",
         "description": "O Balcão Agrícola do Brasil (BAB) registrou a entrega de 1.800 toneladas de milho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/parlamentares-da-ue-apoiam-maior-enfraquecimento-da-lei-de-sustentabilidade/",
-        "title": "Parlamentares da UE Apoiam Maior Enfraquecimento da Lei de Sustentabilidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/05/tech-uniao-europeia-11mai22-YvesHerman-300x200.png",
-        "date": "13/11/2025",
-        "description": "Lei se tornou um ponto de inflamação política, com países como os Estados Unidos e o Catar pedindo que ela seja ainda mais enfraquecida"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/starbucks-e-obrigada-a-vender-controle-na-china-avaliado-em-us-4-bilhoes/",
-        "title": "Starbucks É  \"Obrigada\" a Vender Controle na China Avaliado em US$ 4 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_Starbucks_cafe_13nov25_Qilai-Shen_Bloomberg_FUSA-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Joint venture com a Boyu Capital marca virada na estratégia da cafeteria norte-americana e de posicionamento no maior mercado asiático da bebida"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/banco-do-brasil-tem-lucro-de-r-38-bi-no-3o-trimestre-de-2025/",
-        "title": "Banco do Brasil Tem Lucro de R$ 3,8 Bi no 3º Trimestre de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-53-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Resultado ficou estável ante o trimestre anterior e levou o banco a revisar para baixo a projeção anual de lucro para até R$ 21 bilhões"
     }
 ]
