@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/apesar-do-fim-do-shutdown-eua-segue-com-problemas-fiscais-serios/",
+        "title": "Apesar do Fim do Shutdown, EUA Segue com Problemas Fiscais Sérios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-money-1-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "País convive com um orçamento inflado e pouca disciplina fiscal"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/stonex-estima-aumento-de-135-na-safra-de-cafe-do-brasil-em-2026/",
+        "title": "StoneX Estima Aumento de 13,5% na Safra de Café do Brasil em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_cafe_conilon_cafe_e-graos_foto_jayk7-Gettyimages_09.10.2025-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Caso se confirme a projeção, ela superaria o melhor resultado já alcançado pelo Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/precos-do-cafe-ficam-estaveis-enquanto-mercado-aguarda-detalhes-de-alivio-tarifario-dos-eua/",
+        "title": "Preços do Café Ficam Estáveis Enquanto Mercado Aguarda Detalhes de Alívio Tarifário dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Plantacao-de-cafe-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Os EUA, o maior consumidor de café do mundo, atualmente têm uma tarifa de 50% sobre as importações do Brasil, que produz quase metade do café arábica do mundo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/soja-sobe-ao-maior-nivel-em-17-meses-antes-de-relatorio-do-usda/",
+        "title": "Soja Sobe Ao Maior Nível em 17 Meses Antes de Relatório do USDA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_colheita_foto_picture_alliance_GettyImages_13.11.2025-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Preços avançam para US$ 11,41 por bushel enquanto mercado espera redução de produtividade nos EUA e sinais de compras chinesas"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/11/entenda-a-historia-de-donald-trump-com-jeffrey-epstein/",
+        "title": "Entenda a História de Donald Trump com Jeffrey Epstein",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/TRUMP-EPSTEIN-300x200.jpg",
+        "date": "13/11/2025",
+        "description": "Confira a linha do tempo que explica o envolvimento do presidente dos EUA com o bilionário acusado de tráfico sexual que se suicidou em 2019"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/indonesia-abre-600-mil-hectares-para-expandir-producao-de-oleo-de-palma/",
         "title": "Indonésia Abre 600 Mil Hectares Para Expandir Produção de Óleo de Palma",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-23T121405Z_1_LYNXMPEL9M0NB_RTROPTP_3_INDONESIA-ECONOMY-FOREX-300x200.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-19-300x200.jpg",
         "date": "13/11/2025",
         "description": "As últimas moedas foram cunhadas na tarde de quarta-feira (12), na Filadélfia, com a presença de autoridades do Tesouro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/lista-forbes-agro100-consolida-serie-historica-iniciada-em-2019-e-reforca-o-peso-do-agro/",
-        "title": "Lista Forbes Agro100 Consolida Série Histórica e Reforça o Peso do Agro Brasileiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_agro100_13nov25_ForbesArte-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Levantamento anual publicado desde 2019 reúne cooperativas, grupos empresariais e companhias de capital aberto e fechado com base em dados financeiros; nesta edição, receita total foi de R$ 1,886 tri"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/cop30-e-a-agenda-economica-da-sustentabilidade/",
-        "title": "COP30 e a Agenda Econômica da Sustentabilidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cop30_-entrada-10nov25_Raimundo-PaccoCOP30-1-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Finanças verdes, bioeconomia e inovação colocam o Brasil no centro da nova agenda econômica global"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/equatorial-entra-no-top-10-de-acoes-mais-negociadas-na-b3/",
-        "title": "Equatorial Entra no Top 10 de Ações Mais Negociadas na B3",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/GettyImages-2201575010-1-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "A estreia da Equatorial entre as ações mais negociadas mostra a relevância crescente do segmento de energia na diversificação das carteiras da B3"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/11/vinicola-boutique-brasileira-produz-vinho-no-uruguai-e-planeja-conquistar-o-mundo/",
-        "title": "Vinícola Boutique Brasileira Produz Vinho No Uruguai E Planeja Conquistar O Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Guaspari_Porcellino_Douglas-Daniel-Fotografia-2-2-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Novo rótulo, novo CEO e ambição global: a Guaspari prepara sua entrada em mercados de prestígio fora do Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/mercado-de-biodefensivos-no-brasil-cresce-18-na-safra-2024-25-e-chega-a-r-435-bi/",
-        "title": "Mercado de Biodefensivos no Brasil Cresce 18% na Safra 2024/25 e Chega a R$ 4,35 Bi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_lavoura_Milho_aplicacao_bioinsumos_13nov25_ilustrissima_Getty-300x200.jpg",
-        "date": "13/11/2025",
-        "description": "Crescimento sustenta a expansão dos biológicos nas principais culturas e reforça a mudança do manejo no campo, mostra levantamento da Kynetec"
     }
 ]
