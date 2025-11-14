@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/igp-10-acelera-em-novembro-com-alta-de-018-em-linha-com-expectativas/",
+        "title": "IGP-10 Acelera em Novembro com Alta de 0,18%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Combustiveis-posto-de-gasolina-IGP-10-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "No acumulado do ano, o indicador registrou deflação de 0,80%, e, em 12 meses, teve alta de 0,34%"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/queda-do-mercado-faz-as-5-pessoas-mais-ricas-do-mundo-perderem-quase-us-50-bilhoes-em-um-dia/",
+        "title": "Queda do Mercado Faz as 5 Pessoas Mais Ricas do Mundo Perderem Quase US$ 50 Bilhões em um Dia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Elon-Musk-satelite-starlink-Guerra-na-Ucrania-Money-300x200.png",
+        "date": "14/11/2025",
+        "description": "A decepção com alguns dos números corporativos da temporada de balanço foi responsável pela queda brusca"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/trump-prepara-isencoes-de-tarifas-de-olho-no-preco-de-alimentos/",
+        "title": "Trump Prepara Isenções de Tarifas de Olho no Preço de Alimentos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-tarifas-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "EUA removerão tarifas sobre alguns produtos de Equador, Argentina, Guatemala e El Salvador"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/lucro-da-jbs-recua-162-no-3o-tri-apesar-de-receita-recorde/",
+        "title": "Lucro da JBS Recua 16,2% no 3º Tri, Apesar de Receita Recorde",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_gado_nelore_06jul23_Gisele_Rosso_Embrapa-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Queda foi pressionada por altos custos com o gado nos EUA e impactos da gripe aviária no Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/nubank-tem-alta-de-39-no-lucro-do-3-tri-acima-do-esperado-e-com-roe-recorde/",
         "title": "Nubank Tem Alta de 39% no Lucro do 3° Tri, Acima do Esperado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/BrandVoice-Nubank-8-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/vieira-x-rubio-300x200.jpg",
         "date": "14/11/2025",
         "description": "Ministro das Relações Exteriores reuniu-se em Washington com Marco Rubio, Secretário de Estado americano, para tratar do assunto"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/byd-ou-tesla-a-nova-disputa-que-mostra-quem-vai-dominar-o-seculo-da-energia-limpa/",
-        "title": "BYD ou Tesla: a Nova Disputa Que Mostra Quem Vai Dominar o Século da Energia Limpa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/King-black-1-1500x1000-1-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Como o avanço asiático em inovação automotiva altera o equilíbrio de poder e pressiona o modelo econômico das potências ocidentais"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/o-boom-de-punta-del-este-descubra-a-cena-artistica-e-cultural-do-litoral-uruguaio/",
-        "title": "O Boom de Punta Del Este: Descubra a Cena Artística e Cultural do Litoral Uruguaio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Punta-del-Este-tem-atraido-familias-globais-investidores-discretos-empresarios-creators-de-impacto-e-viajantes-sofisticados-em-busca-de-tempo-privacidade-e-beleza-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Com buzz imobiliário e novos investimentos como o Cipriani, balneário uruguaio vê efervescer sua cena cultural e enogastronômica"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/a-inteligencia-artificial-ganha-voz-os-bastidores-da-nova-lu-do-magalu/",
-        "title": "A Inteligência Artificial Ganha Voz: Os Bastidores da Nova Lu do Magalu",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Magalu-20201104-Imagem-Cerebro-da-Lu-03-1-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Nos bastidores, o projeto foi desenvolvido pelo Luizalabs, hub de tecnologia do Magalu, em um ciclo intenso de pesquisa, testes e integração de múltiplos agentes de IA"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/skillcations-a-tendencia-de-usar-as-ferias-para-desenvolver-novas-habilidades/",
-        "title": "“Skillcations”: A Tendência de Usar as Férias para Aprender Algo Novo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/AULA-DE-CULINARIA-SKILLCATIONS-FERIAS-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Em vez de descansar à beira da piscina, profissionais têm buscado viagens cheias de atividades para se desafiar e explorar novos interesses"
     }
 ]
