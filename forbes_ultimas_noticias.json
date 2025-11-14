@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/nubank-tem-alta-de-39-no-lucro-do-3-tri-acima-do-esperado-e-com-roe-recorde/",
+        "title": "Nubank Tem Alta de 39% no Lucro do 3° Tri, Acima do Esperado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/BrandVoice-Nubank-8-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Aumento do lucro foi impulsionado principalmente pelo ganho contínuo de escala no Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/mrbeast-lanca-parque-tematico-na-arabia-saudita/",
+        "title": "MrBeast Lança Parque Temático na Arábia Saudita",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/mrbeast-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Parque é inspirado em seus vídeos, que colocam as pessoas em desafios elaborados de resistência para ganhar grandes prêmios em dinheiro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/11/marta-e-indicada-ao-premio-de-gol-mais-bonito-da-temporada-da-fifa/",
         "title": "Marta é Indicada Ao Prêmio de Gol Mais Bonito da Temporada da Fifa",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/marta-futebol-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/AULA-DE-CULINARIA-SKILLCATIONS-FERIAS-300x200.jpg",
         "date": "14/11/2025",
         "description": "Em vez de descansar à beira da piscina, profissionais têm buscado viagens cheias de atividades para se desafiar e explorar novos interesses"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/gigantes-do-setor-alimenticio-mad-ag-e-whole-foods-apostam-na-reintroducao-da-vida-selvagem-nas-fazendas/",
-        "title": "Gigantes do Setor Alimentício Mad Ag e Whole Foods Apostam na Reintrodução da Vida Selvagem nas Fazendas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cultivo_11nov25_-Mad-Agriculture_-Iowa-State-University-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Conheça a experiência que integra comunidades rurais, espécies nativas,  inovação no manejo sustentável da terra e impulsiona uma nova geração de produtores"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/11/a-ceo-que-quintuplicou-o-faturamento-do-grupo-sabin/",
-        "title": "A CEO Que Quintuplicou o Faturamento do Grupo Sabin",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/mulher-lidia-abdalla-grupo-sabin-3-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "“Nada é mais forte que o exemplo”, afirma Lídia Abdalla, que começou como trainee e chegou ao topo da empresa fundada por duas bioquímicas nos anos 1980"
     }
 ]
