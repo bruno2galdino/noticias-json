@@ -1,10 +1,52 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/atp-rende-homenagem-aos-tenistas-que-se-aposentaram-este-ano.html",
-        "title": "ATP rende homenagem aos tenistas que se aposentaram este ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/atp-homenageia-aposentados.jpg",
+        "url": "https://tenisbrasil.uol.com.br/tourinho-storck-e-damazio-lideram-brasileiros-nas-semis-em-salvador.html",
+        "title": "Tourinho, Storck e Damazio lideram brasileiros nas semis em Salvador",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/livas_damazio_bahiajuniors_estica-1024x682.jpg",
         "date": "14/11/2025",
-        "description": "Turim (Itália) –Oito astros do circuito ATP, recentemente aposentados, comemoraram o fim de suas carreiras no ATP Finals, nesta sexta-feira, em Turim. O presidente da ATP, Andrea Gaudenzi, recebeu Juan Sebastian Cabal, Kyle Edmund, Robert Farah, Wesley Koolhof, Matwe Middelkoop, Aisam-ul-Haq Qureshi, Albert Ramos-Vinolas e Diego Schwartzman com um discurso no lounge dos jogadores."
+        "description": "Salvador (BA) –Três brasileiros que disputaram a Copa Davis Junior e a Billie Jean King Cup Junior na última semana em Santiago estão entre os semifinalistas da 40ª edição do Bahia Juniors Cup. A paulista Nathalia Tourinho e os mato-grossenses Livas Damazio e Leonardo Storck venceram na rodada desta sexta-feira no Clube Bahiano de Tênis, em Salvador, e seguem na disputa pelo título do ITF J100."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ribeiro-leite-e-pereira-avancam-as-semifinais-em-criciuma.html",
+        "title": "Ribeiro, Leite e Pereira avançam às semifinais em Criciúma",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/ribeiro_criciuma_olhabola.jpg",
+        "date": "14/11/2025",
+        "description": "Criciúma (SC) –Três brasileiros vão disputar as semifinais do ITF M15 de Criciúma, disputado nas quadras de saibro da Sociedade Recreativa Mampituba. O gaúcho Eduardo Ribeiro, o pernambucano José Pereira e o carioca Wilson Leite venceram seus jogos nesta sexta-feira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/aliassime-elimina-o-bicampeao-zverev-e-desafia-alcaraz-na-semi.html",
+        "title": "Aliassime elimina o bicampeão Zverev e desafia Alcaraz na semi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/aliassime_finals_back-1024x576.jpg",
+        "date": "14/11/2025",
+        "description": "Turim (Itália) –A última vaga nas semifinais do ATP Finals é de Félix Auger-Aliassime. O canadense superou o alemão Alexander Zverev, bicampeão do torneio, por 6/4 e 7/6 (7-4) e ficou com a segunda posição do Grupo Bjorn Borg."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/etapa-de-copacabana-definira-rei-e-rainha-do-beach-do-rio-de-janeiro.html",
+        "title": "Etapa de Copacabana definirá rei e rainha do beach do Rio de Janeiro",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/circuitofairmont.jpg",
+        "date": "14/11/2025",
+        "description": "Rio de Janeiro (RJ) –Com disputas neste sábado e domingo, a 10ª etapa do Circuito Fairmont de beach tennis, promete muitas emoções na Arena ABTERJ, no Quiosque Nativo, em Copacabana. Esta é a 13ª temporada do circuito mais longevo do estado."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/skupski-e-salisbury-passam-invictos-pela-fase-de-grupos-no-finals.html",
+        "title": "Skupski e Salisbury passam invictos pela fase de grupos no Finals",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/salisbury-skupski-turin-2025-friday-2-1024x576.jpg",
+        "date": "14/11/2025",
+        "description": "Turim (Itália) –Os britânicos Neal Skupski e Joe Salisbury mantiveram a invencibilidade na fase de grupos do ATP Finals e venceram os norte-americanos Christian Harrison e Evan King por 7/5 e 6/3 nesta sexta-feira. O resultado garantiu a parceira na primeira posição do Grupo John McEnrore em Turim."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-14-11.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/natan_loureiro.jpg",
+        "date": "14/11/2025",
+        "description": "Challenger de Montevidéu (Uruguai) – Saibro – US$ 160 milQuartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/jogada-de-norrie-contra-alcaraz-e-escolhida-a-melhor-de-outubro-veja.html",
+        "title": "Jogada de Norrie contra Alcaraz é escolhida a melhor de outubro. Veja.",
+        "image": null,
+        "date": "14/11/2025",
+        "description": ""
     },
     {
         "url": "https://tenisbrasil.uol.com.br/luiza-fullana-vence-a-jovem-duda-carbone-e-faz-semi-em-criciuma.html",
@@ -14,18 +56,11 @@
         "description": "Criciúma (SC) –A brasiliense Luiza Fullana será a representante nacional na semifinal do ITF W15 de Criciúma, disputado nas quadras de saibro da Sociedade Recreativa Mampituba. Principal cabeça de chave, ela venceu a jovem catarinense de 15 anos Maria Eduarda Carbone por 6/2 e 6/1."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-14-11.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/fullana_konishi_criciuma.jpg",
+        "url": "https://tenisbrasil.uol.com.br/atp-rende-homenagem-aos-tenistas-que-se-aposentaram-este-ano.html",
+        "title": "ATP rende homenagem aos tenistas que se aposentaram este ano",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/atp-homenageia-aposentados.jpg",
         "date": "14/11/2025",
-        "description": "Challenger de Montevidéu (Uruguai) – Saibro – US$ 160 milQuartas de final –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/townsend-e-osaka-viralizam-com-video-em-que-dancam-ao-som-de-um-remix.html",
-        "title": "Townsend e Osaka viralizam com vídeo em que dançam ao som de um remix",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/townsend_osaka.jpg",
-        "date": "14/11/2025",
-        "description": "Taylor Townsend e Naomi Osaka deixaram os fãs entusiasmados com o vídeo conjunto postado nas redes sociais, em que aparecem dançando em um iate ao som de uma combinação da música “Beez in the Trap”, de Nicki Minaj (2012), com “What’s Up?”, do grupo 4 Non Blondes (1993). O remix viralizou no TikTok, misturando os versos de Minaj com os vocais de Linda Perry."
+        "description": "Turim (Itália) –Oito astros do circuito ATP, recentemente aposentados, comemoraram o fim de suas carreiras no ATP Finals, nesta sexta-feira, em Turim. O presidente da ATP, Andrea Gaudenzi, recebeu Juan Sebastian Cabal, Kyle Edmund, Robert Farah, Wesley Koolhof, Matwe Middelkoop, Aisam-ul-Haq Qureshi, Albert Ramos-Vinolas e Diego Schwartzman com um discurso no lounge dos jogadores."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/argentina-vence-a-eslovaquia-tchecas-fazem-3-a-0-na-colombia.html",
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/riera_bjk_toss-1024x683.jpg",
         "date": "14/11/2025",
         "description": "Cordoba (Argentina) –Além do Brasil, outros dois países sul-americanos estão na disputa dos playoffs da Billie Jean King Cup neste final de semana. A Argentina sedia do Grupo C, em Córdoba, e estreou vencendo a Eslováquia. Já a Colômbia foi até a Crócia e perdeu da forte equipe da República Tcheca pelo Grupo D."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/iga-vence-facil-em-43-minutos-e-polonia-comeca-bem-nos-playoffs.html",
-        "title": "Iga vence fácil em 43 minutos e Polônia começa bem nos playoffs",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/iga_bjk_sorrindo-1024x683.jpg",
-        "date": "14/11/2025",
-        "description": "* Atualizado com resultado de duplas"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/heide-e-superado-pelo-cabeca-7-buse-nas-quartas-em-montevideu.html",
-        "title": "Heide é superado pelo cabeça 7 Buse nas quartas em Montevidéu",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/heide.jpg",
-        "date": "14/11/2025",
-        "description": "Montevidéu (Uruguai) –A participação brasileira no challenger de Montevidéu chegou ao fim nesta sexta-feira, com a queda de Gustavo Heide nas quartas de final. O paulista de 23 anos e 304º do ranking perdeu por 6/1 e 6/4 do peruano Ignacio Buse, jovem de 21 anos e 110º do mundo, em 1h33 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/apesar-do-retrospecto-positivo-sinner-prega-cautela-contra-de-minaur.html",
-        "title": "Apesar do retrospecto positivo, Sinner prega cautela contra De Minaur",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/sinner-finals-prepara-2025-e1763145769133-1024x683.jpg",
-        "date": "14/11/2025",
-        "description": "Turim (Itália)– Classificado para as semifinais do ATP Finals com três vitórias em três jogos na fase de grupos, o italiano Jannik Sinner chega para a disputa com o australiano Alex de Minaur com a confiança em alta, mas também respeitando bastante o seu próximo rival, ainda que o retrospecto lhe seja amplamente favorável."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ainda-nao-sou-o-jogador-que-quero-ser-nem-perto-disso-avalia-shelton.html",
-        "title": "“Ainda não sou o jogador que quero ser, nem perto disso”, avalia Shelton",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/shelton-turin-2025-wednesday-2-e1763139733684-1024x682.jpg",
-        "date": "14/11/2025",
-        "description": "Turim (Itália)– O norte-americano Ben Shelton chegou para sua primeira participação no ATP Finals em alta, ocupando pela primeira vez na carreira um lugar no top 5. Contudo, depois de três derrotas na fase de grupos,a última delas nesta sexta-feira para o italiano Jannik Sinner, ele sai do torneio em baixa."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fritz-ve-concorrencia-pelo-top-5-no-final-de-temporada-diminuir.html",
-        "title": "Fritz vê concorrência pelo top 5 no final de temporada diminuir",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/fritz-turin-2025-fh-e1763139318337-1024x682.jpg",
-        "date": "14/11/2025",
-        "description": "Turim (Itália)– Ao ser eliminado do ATP Finals com a derrota para o australiano Alex de Minaur, na última quinta-feira, o norte-americano Taylor Fritz viu sua chance de terminar o ano no top 5 ficar bastante ameaçada, uma vez que os quatro concorrentes pelo posto ainda estavam vivos na competição e precisando de só mais uma vitória para superá-lo."
     }
 ]

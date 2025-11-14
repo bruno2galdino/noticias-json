@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/trump-reduz-tarifas-sobre-carne-bovina-cafe-e-outros-alimentos/",
+        "title": "Trump Reduz Tarifas sobre Carne Bovina, Café e Outros Alimentos",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/China-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Presidente americano assinou decreto nesta sexta-feira (14), conforme aumentam preocupações com inflação"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/safra-de-cafe-do-brasil-2026-27-deve-atingir-recorde-de-71-milhoes-de-sacas/",
+        "title": "Safra de Café do Brasil 2026/27 Deve Atingir Recorde de 71 Milhões de Sacas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cafe_14.11.2025-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "O aumento será impulsionado pelo arábica, cuja produção deve atingir 46,70 milhões de sacas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/raizen-divulga-resultados-e-mudancas-na-diretoria-financeira/",
+        "title": "Raízen Divulga Resultados e Mudanças na Diretoria Financeira",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_raizen_14.11.2025-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Companhia teve prejuízo líquido de R$2,3 bilhões no segundo trimestre da safra 2025/26"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/dolar-cai-pela-quinta-semana-consecutiva-ibovespa-sobe/",
         "title": "Dólar Cai Pela Quinta Semana Consecutiva; Ibovespa Sobe",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Colheita-de-soja-300x200.jpg",
         "date": "14/11/2025",
         "description": "No acumulado de janeiro a outubro de 2025, as exportações do agronegócio do país somaram US$141,97 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/cada-dolar-em-adaptacao-climatica-gera-10-dolares-mas-cade-os-bilhoes-prometidos/",
-        "title": "Cada Dólar em Adaptação Climática Gera 10 Dólares; Mas Cadê os Bilhões Prometidos?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/enchente_rio-texas_13nov25_-_Getty-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Estrutura financeira global não foi construída para lidar com o que vem pela frente, dizem especialistas do mundo todo, incluindo a brasileira Natalie Unterstell"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/india-permite-exportacao-de-15-mi-t-de-acucar/",
-        "title": "Índia Permite Exportação de 1,5 Mi T de Açúcar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Colheita-de-cana-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "A Índia também removeu a tarifa de 50% sobre a exportação de melaço"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/helen-jacintho-agro-brasileiro-na-cop30-vai-na-vanguarda-da-agenda-climatica/",
-        "title": "Agro Brasileiro na COP30 Vai na Vanguarda da Agenda Climática",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cop_30_13nov25_Md-Zakir-Mahmud_Getty-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Como posicionar a agricultura tropical como pilar climático, produtivo e energético, defendendo regras globais compatíveis com a realidade do cinturão tropical"
     }
 ]
