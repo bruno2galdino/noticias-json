@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/anthropic-investira-us-50-bilhoes-para-construir-data-centers-nos-eua/",
+        "title": "Anthropic Investirá US$ 50 Bilhões para Construir Data Centers nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Anthropic-forbesss-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Empresa fundada por ex-funcionários da OpenAI afirmou que o projeto deverá criar cerca de 800 empregos permanentes e 2.400 empregos na construção civil nos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/exportacao-do-agronegocio-do-brasil-bate-recorde-de-receita-em-outubro-diz-ministerio/",
+        "title": "Exportação do Agronegócio do Brasil Bate Recorde de Receita em Outubro, Diz Ministério",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Colheita-de-soja-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "No acumulado de janeiro a outubro de 2025, as exportações do agronegócio do país somaram US$141,97 bilhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/cada-dolar-em-adaptacao-climatica-gera-10-dolares-mas-cade-os-bilhoes-prometidos/",
+        "title": "Cada Dólar em Adaptação Climática Gera 10 Dólares; Mas Cadê os Bilhões Prometidos?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/enchente_rio-texas_13nov25_-_Getty-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Estrutura financeira global não foi construída para lidar com o que vem pela frente, dizem especialistas do mundo todo, incluindo a brasileira Natalie Unterstell"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/india-permite-exportacao-de-15-mi-t-de-acucar/",
+        "title": "Índia Permite Exportação de 1,5 Mi T de Açúcar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Colheita-de-cana-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "A Índia também removeu a tarifa de 50% sobre a exportação de melaço"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/helen-jacintho-agro-brasileiro-na-cop30-vai-na-vanguarda-da-agenda-climatica/",
         "title": "Agro Brasileiro na COP30 Vai na Vanguarda da Agenda Climática",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/cop_30_13nov25_Md-Zakir-Mahmud_Getty-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-14T133205Z_1_LYNXMPELAD0PU_RTROPTP_4_GLOBAL-SOFTS-300x200.jpg",
         "date": "14/11/2025",
         "description": "Proposta preserva tarifas atuais, exceto para produtos não cultivados nos EUA, como café e cacau"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/11/luedji-luna-vence-grammy-latino-2025/",
-        "title": "Luedji Luna Vence Grammy Latino 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/luedji-luna-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Cerimônia da 26ª edição do prêmio aconteceu em Las Vegas, nos EUA; cantora já havia sido indicada em 2021"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/igp-10-acelera-em-novembro-com-alta-de-018-em-linha-com-expectativas/",
-        "title": "IGP-10 Acelera em Novembro com Alta de 0,18%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Combustiveis-posto-de-gasolina-IGP-10-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "No acumulado do ano, o indicador registrou deflação de 0,80%, e, em 12 meses, teve alta de 0,34%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/queda-do-mercado-faz-as-5-pessoas-mais-ricas-do-mundo-perderem-quase-us-50-bilhoes-em-um-dia/",
-        "title": "Queda do Mercado Faz as 5 Pessoas Mais Ricas do Mundo Perderem Quase US$ 50 Bilhões em um Dia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Elon-Musk-satelite-starlink-Guerra-na-Ucrania-Money-300x200.png",
-        "date": "14/11/2025",
-        "description": "A decepção com alguns dos números corporativos da temporada de balanço foi responsável pela queda brusca"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/trump-prepara-isencoes-de-tarifas-de-olho-no-preco-de-alimentos/",
-        "title": "Trump Prepara Isenções de Tarifas de Olho no Preço de Alimentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-tarifas-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "EUA removerão tarifas sobre alguns produtos de Equador, Argentina, Guatemala e El Salvador"
     }
 ]
