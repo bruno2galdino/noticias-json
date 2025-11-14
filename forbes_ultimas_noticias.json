@@ -1,7 +1,21 @@
 [
     {
-        "url": "https://forbes.com.br/infomercial/2025/11/br-163-recebe-o-maior-condominio-logistico-de-mato-grosso/",
-        "title": "Br-163 Recebe o Maior Condomínio Logístico de Mato Grosso",
+        "url": "https://forbes.com.br/forbes-mulher/2025/11/marta-e-indicada-ao-premio-de-gol-mais-bonito-da-temporada-da-fifa/",
+        "title": "Marta é Indicada Ao Prêmio de Gol Mais Bonito da Temporada da Fifa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/marta-futebol-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Atleta disputa o prêmio graças a um golaço que marcou na vitória de 3 a 2 do Orlando Pride sobre o Kansas City Current pela NWSL"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-semana-se-encerra-com-pregoes-em-queda/",
+        "title": "Pré-mercado: Semana se Encerra com Pregões em Queda",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "14/11/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 14 de novembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/infomercial-pz-empreendimentos-br-163-recebe-o-maior-condominio-logistico-de-mato-grosso/",
+        "title": "BR-163 Recebe o Maior Condomínio Logístico de Mato Grosso",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/1-7-300x200.jpg",
         "date": "14/11/2025",
         "description": "PZ Empreendimentos apresenta o maior complexo com padrão AAA do estado, projetado para atender à crescente demanda do agronegócio e da indústria"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/mulher-lidia-abdalla-grupo-sabin-3-300x200.jpg",
         "date": "14/11/2025",
         "description": "“Nada é mais forte que o exemplo”, afirma Lídia Abdalla, que começou como trainee e chegou ao topo da empresa fundada por duas bioquímicas nos anos 1980"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/startup-disputa-com-duolingo-para-substituir-tutores-de-idiomas-humanos-por-ia/",
-        "title": "Startup Disputa com Duolingo para Substituir Tutores Humanos de Idiomas por IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-21-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "O aplicativo Speak começou sua trajetória em Seul, na Coreia do Sul, e para entrar no mercado dos EUA, precisará enfrentar o Duolingo"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/11/dolcetto-conheca-o-vinho-mais-incompreendido-do-piemonte/",
-        "title": "Dolcetto: Conheça o Vinho Mais Incompreendido do Piemonte",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_vinho_Dolcetto_13nov25_Tom-Hyland-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Um panorama completo dessa uva subestimada, sua história, desafios de mercado, as diferenças entre Dolcetto d’Alba e Dogliani e as vozes dos produtores que mantêm viva sua autenticidade"
     }
 ]
