@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/11/brandvoice-breton-quando-o-mobiliario-se-torna-manifesto-da-arquitetura/",
+        "title": "Quando o Mobiliário se Torna Manifesto da Arquitetura",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/1-8-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Breton e Triptyque propõem diálogo entre arte, design e construção na coleção Assemblage"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/celina-e-ronaldo-arrecadam-145-milhoes-de-reais-para-fundacao-fenomenos/",
+        "title": "Celina e Ronaldo Arrecadam 14,5 Milhões de Reais para Fundação Fenômenos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Celina-Locks-e-Ronaldo-Nazario-no-2o-Leilao-Galacticos-com-renda-revertida-para-a-Fundacao-Galacticos-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Leilão e torneio de tênis são as ações comandadas por Celina Locks e Ronaldo Fenômeno, que planejam sede para fundação"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/oi-volta-para-a-bolsa-e-acoes-tem-pico-de-80-apos-revogacao-da-falencia/",
+        "title": "Oi Volta para a Bolsa e Ações Têm Pico de 80% após Revogação da Falência",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-27-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "O decreto de falência tinha encerrado um longo do caso de recuperação judicial da empresa"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/11/anthropic-investira-us-50-bilhoes-para-construir-data-centers-nos-eua/",
         "title": "Anthropic Investirá US$ 50 Bilhões para Construir Data Centers nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/Anthropic-forbesss-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/forbes-power-dinner_ceara-300x200.jpg",
         "date": "14/11/2025",
         "description": "Evento reuniu empresários em Fortaleza para celebrar o futuro dos negócios e foi palco de debates sobre inovação e propósito"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/justica-suspende-decisao-sobre-falencia-da-oi/",
-        "title": "Justiça Suspende Decisão sobre Falência da Oi após Pedido de Bancos",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/06/tech-top5telecom5-16062021-getty-images.jpg",
-        "date": "14/11/2025",
-        "description": "Desembargadora do TJ-RJ responde a recursos de Itaú e Bradesco após decisão inicial da 7ª Vara"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/producao-de-acucar-e-etanol-do-centro-sul-saltam-na-2a-quinzena-de-outubro/",
-        "title": "Produção de Açúcar e Etanol do Centro-Sul Saltam na 2ª Quinzena de Outubro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-14T141237Z_1_LYNXMPELAD0R9_RTROPTP_4_BRAZIL-SUGAR-FUTURES-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Com moagem em alta, setor supera desempenho do ano passado e reforça produção de açúcar"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/precos-do-cafe-e-do-cacau-caem-em-meio-a-algum-alivio-tarifario-dos-eua/",
-        "title": "Preços do Café e do Cacau Caem em Meio a Algum Alívio Tarifário dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-14T133205Z_1_LYNXMPELAD0PU_RTROPTP_4_GLOBAL-SOFTS-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Proposta preserva tarifas atuais, exceto para produtos não cultivados nos EUA, como café e cacau"
     }
 ]
