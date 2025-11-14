@@ -1,17 +1,10 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/jogada-de-norrie-contra-alcaraz-e-escolhida-a-melhor-de-outubro-veja.html",
-        "title": "Jogada de Norrie contra Alcaraz é escolhida a melhor de outubro. Veja.",
-        "image": null,
+        "url": "https://tenisbrasil.uol.com.br/atp-rende-homenagem-aos-tenistas-que-se-aposentaram-este-ano.html",
+        "title": "ATP rende homenagem aos tenistas que se aposentaram este ano",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/atp-homenageia-aposentados.jpg",
         "date": "14/11/2025",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-14-11.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/01/pedro_sakamoto_web.jpg",
-        "date": "14/11/2025",
-        "description": "Challenger de Montevidéu (Uruguai) – Saibro – US$ 160 milQuartas de final –Veja a chave"
+        "description": "Turim (Itália) –Oito astros do circuito ATP, recentemente aposentados, comemoraram o fim de suas carreiras no ATP Finals, nesta sexta-feira, em Turim. O presidente da ATP, Andrea Gaudenzi, recebeu Juan Sebastian Cabal, Kyle Edmund, Robert Farah, Wesley Koolhof, Matwe Middelkoop, Aisam-ul-Haq Qureshi, Albert Ramos-Vinolas e Diego Schwartzman com um discurso no lounge dos jogadores."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/luiza-fullana-vence-a-jovem-duda-carbone-e-faz-semi-em-criciuma.html",
@@ -21,18 +14,11 @@
         "description": "Criciúma (SC) –A brasiliense Luiza Fullana será a representante nacional na semifinal do ITF W15 de Criciúma, disputado nas quadras de saibro da Sociedade Recreativa Mampituba. Principal cabeça de chave, ela venceu a jovem catarinense de 15 anos Maria Eduarda Carbone por 6/2 e 6/1."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/atp-rende-homenagem-aos-tenistas-que-se-aposentaram-este-ano.html",
-        "title": "ATP rende homenagem aos tenistas que se aposentaram este ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/atp-homenageia-aposentados.jpg",
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-14-11.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/fullana_konishi_criciuma.jpg",
         "date": "14/11/2025",
-        "description": "Turim (Itália) –Oito astros do circuito ATP, recentemente aposentados, comemoraram o fim de suas carreiras no ATP Finals, nesta sexta-feira, em Turim. O presidente da ATP, Andrea Gaudenzi, recebeu Juan Sebastian Cabal, Kyle Edmund, Robert Farah, Wesley Koolhof, Matwe Middelkoop, Aisam-ul-Haq Qureshi, Albert Ramos-Vinolas e Diego Schwartzman com um discurso no lounge dos jogadores."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/argentina-vence-a-eslovaquia-tchecas-fazem-3-a-0-na-colombia.html",
-        "title": "Argentina vence a Eslováquia, Tchecas fazem 3 a 0 na Colômbia",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/riera_bjk_toss-1024x683.jpg",
-        "date": "14/11/2025",
-        "description": "Cordoba (Argentina) –Além do Brasil, outros dois países sul-americanos estão na disputa dos playoffs da Billie Jean King Cup neste final de semana. A Argentina sedia do Grupo C, em Córdoba, e estreou vencendo a Eslováquia. Já a Colômbia foi até a Crócia e perdeu da forte equipe da República Tcheca pelo Grupo D."
+        "description": "Challenger de Montevidéu (Uruguai) – Saibro – US$ 160 milQuartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/townsend-e-osaka-viralizam-com-video-em-que-dancam-ao-som-de-um-remix.html",
@@ -40,6 +26,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/townsend_osaka.jpg",
         "date": "14/11/2025",
         "description": "Taylor Townsend e Naomi Osaka deixaram os fãs entusiasmados com o vídeo conjunto postado nas redes sociais, em que aparecem dançando em um iate ao som de uma combinação da música “Beez in the Trap”, de Nicki Minaj (2012), com “What’s Up?”, do grupo 4 Non Blondes (1993). O remix viralizou no TikTok, misturando os versos de Minaj com os vocais de Linda Perry."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/argentina-vence-a-eslovaquia-tchecas-fazem-3-a-0-na-colombia.html",
+        "title": "Argentina vence a Eslováquia, Tchecas fazem 3 a 0 na Colômbia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/riera_bjk_toss-1024x683.jpg",
+        "date": "14/11/2025",
+        "description": "Cordoba (Argentina) –Além do Brasil, outros dois países sul-americanos estão na disputa dos playoffs da Billie Jean King Cup neste final de semana. A Argentina sedia do Grupo C, em Córdoba, e estreou vencendo a Eslováquia. Já a Colômbia foi até a Crócia e perdeu da forte equipe da República Tcheca pelo Grupo D."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/iga-vence-facil-em-43-minutos-e-polonia-comeca-bem-nos-playoffs.html",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/shelton-turin-2025-wednesday-2-e1763139733684-1024x682.jpg",
         "date": "14/11/2025",
         "description": "Turim (Itália)– O norte-americano Ben Shelton chegou para sua primeira participação no ATP Finals em alta, ocupando pela primeira vez na carreira um lugar no top 5. Contudo, depois de três derrotas na fase de grupos,a última delas nesta sexta-feira para o italiano Jannik Sinner, ele sai do torneio em baixa."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fritz-ve-concorrencia-pelo-top-5-no-final-de-temporada-diminuir.html",
+        "title": "Fritz vê concorrência pelo top 5 no final de temporada diminuir",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/fritz-turin-2025-fh-e1763139318337-1024x682.jpg",
+        "date": "14/11/2025",
+        "description": "Turim (Itália)– Ao ser eliminado do ATP Finals com a derrota para o australiano Alex de Minaur, na última quinta-feira, o norte-americano Taylor Fritz viu sua chance de terminar o ano no top 5 ficar bastante ameaçada, uma vez que os quatro concorrentes pelo posto ainda estavam vivos na competição e precisando de só mais uma vitória para superá-lo."
     }
 ]
