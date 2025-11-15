@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/nana-as-meninas-e-toda-comissao-me-passaram-muita-confianca.html",
-        "title": "Naná: “As meninas e toda comissão me passaram muita confiança”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nanna_bjk_comemora-1024x682.jpg",
+        "url": "https://tenisbrasil.uol.com.br/zverev-admite-ano-abaixo-das-expectativas-e-ja-pensa-na-davis.html",
+        "title": "Zverev admite ano abaixo das expectativas e já pensa na Davis",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/zverev-paris-2025-fh-e1762521529918-1024x682.jpg",
         "date": "15/11/2025",
-        "description": "Hobart (Austrália) –Estreante na equipe profissional da Billie Jean King Cup, Nauhany Silva marcou suaprimeira vitória na competiçãoaos 15 anos e ajudou o Brasil a vencer Portugal por 3 a 0 em confronto válido pelos playoffs. As brasileiras voltam à quadra a partir das 22h (de Brasília) deste sábado para enfrentar a anfitriã Austrália, valendo vaga no Qualificatório Mundial de 2026."
+        "description": "Turim (Itália) –Eliminado ainda na fase de grupos do ATP Finals, Alexander Zverev admite que fez uma temporada abaixo das expectativas. Embora seja o número 3 do mundo, o alemão conquistou apenas um título, no saibro de Munique, e disputou as finais de Viena, Stuttgart e do Australian Open."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/brasil-chega-a-100-confrontos-vencidos-na-billie-jean-king-cup.html",
+        "title": "Brasil chega a 100 confrontos vencidos na Billie Jean King Cup",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/bjkcup_time_brasil_hobart.jpg",
+        "date": "15/11/2025",
+        "description": "Hobart (Austrália) –A vitória por 3 a 0 do Brasil contra Portugal pelos playoffs da Billie Jean King Cup foi histórico para o país, que chega a 100 confrontos vencidos na competição. Desde a primeira participação brasileira, em 1965, foram 180 confrontos disputados."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-15-11.html",
@@ -12,6 +19,27 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/pigossi_hobart_bjk_treino.jpg",
         "date": "15/11/2025",
         "description": "Billie Jean King Cup, em Hobart (Austrália) – Sintético –Veja a chavePlayoffs: Brasil 2×0 Portugal"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/luiza-fullana-e-finalista-em-criciuma-e-busca-3o-titulo-profissional.html",
+        "title": "Luiza Fullana é finalista em Criciúma e busca 3º título profissional",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/fullana_criciuma_fore_semi.jpg",
+        "date": "15/11/2025",
+        "description": "Criciúma (SC) –A brasiliense Luiza Fullana garantiu vaga na final do ITF W15 de Criciúma, disputado nas quadras de saibro da Sociedade Recreativa Mampituba.Principal cabeça de chave, ela venceu a argentina Justina Gonzalez por 6/4 e 6/3."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-supera-de-minaur-pela-13a-vez-e-disputa-a-10a-final-no-ano.html",
+        "title": "Sinner supera De Minaur pela 13ª vez e disputa a 10ª final no ano",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/sinner_finals_vibra25-1024x576.jpg",
+        "date": "15/11/2025",
+        "description": "Turim (Itália) –Assim como havia acontecido em todos os duelos anteriores, Jannik Sinner marcou sua 13ª vitória contra Alex de Minaur e garantiu vaga em sua decisão seguida no ATP Finals. Atual campeão do torneio em quadras e cobertas, Sinner marcou as parciais de 7/5 e 6/2 em 1h52 de partida neste sábado e segue sem perder sets e nem ter o serviço quebrado na competição."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/nana-as-meninas-e-toda-comissao-me-passaram-muita-confianca.html",
+        "title": "Naná: “As meninas e toda comissão me passaram muita confiança”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nanna_bjk_comemora-1024x682.jpg",
+        "date": "15/11/2025",
+        "description": "Hobart (Austrália) –Estreante na equipe profissional da Billie Jean King Cup, Nauhany Silva marcou suaprimeira vitória na competiçãoaos 15 anos e ajudou o Brasil a vencer Portugal por 3 a 0 em confronto válido pelos playoffs. As brasileiras voltam à quadra a partir das 22h (de Brasília) deste sábado para enfrentar a anfitriã Austrália, valendo vaga no Qualificatório Mundial de 2026."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/finalista-em-simples-victoria-tambem-conquista-1o-titulo-nas-duplas.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/barros-spopen-olhabola-2025-e1759409676818-1024x683.jpg",
         "date": "15/11/2025",
         "description": "Antalya (Tuquia) –Pela primeira vez em sua carreira profissional, Victória Barros disputará a final de um torneio. A potiguar de apenas 15 anos garantiu vaga na decisão do ITF W15 de Antalya, em quadras de saibro na Turquia, depois de vencer a georgiana Sofia Shapatava, principal cabeça de chave e 420ª do ranking, por 3/6, 6/3 e 7/5."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pigossi-tambem-vence-e-brasil-supera-portugal-na-bjk-cup.html",
-        "title": "Pigossi também vence e Brasil supera Portugal na BJK Cup",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/pigossi_bjk_vibra_hobart-1024x682.jpg",
-        "date": "15/11/2025",
-        "description": "Hobart (Austrália) –O Brasil venceu o confronto contra Portugal pelos playoffs da Billie Jean King Cup e vai enfrentar a Austrália por uma vaga no Qualificatório Mundial de 2026. Depois deNauhany Silvaconseguir sua primeira vitória na competição aos 15 anos, foi a vez da experiente Laura Pigossi já definr o confronto e vencer Francisca Jorge por duplo 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/nana-vence-a-primeira-na-bjk-cup-e-brasil-faz-1-a-0-contra-portugal.html",
-        "title": "Naná vence a primeira na BJK Cup e Brasil faz 1 a 0 contra Portugal",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nauhany_bjk_vibra-1024x682.jpg",
-        "date": "15/11/2025",
-        "description": "Hobart (Austrália) –A jovem paulista Nauhany Silva aproveitou suaprimeira oportunidade de disputar a Billie Jean King Cupcomo profissional e conseguiu uma vitória na abertura do confronto entre Brasil e Portugal, pelo Grupo E dos playoffs. A jogadora de apenas 15 anos superou a portuguesa Matilde Jorge, de 21 anos e 255ª do ranking, por 7/5 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/nana-e-escalada-para-enfrentar-portugal-dupla-tera-stefani-e-ingrid.html",
-        "title": "Naná é escalada para enfrentar Portugal, dupla terá Stefani e Ingrid",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nauhany_bjk_fore.jpg",
-        "date": "14/11/2025",
-        "description": "Hobart (Austrália) –A jovem paulista Nauhany Silva terá sua primeira oportunidade de disputar a Billie Jean King Cup como profissional. A jogadora de apenas 15 anos foi escalada para o confronto contra Portugal, que começa às 22h (de Brasília) desta sexta-feira e avança durante a madrugada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-enfrenta-de-minaur-as-10h30-alcaraz-e-aliassime-as-16h30.html",
-        "title": "Sinner enfrenta De Minaur às 10h30, Alcaraz e Aliassime às 16h30",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/Jannik_Sinner_Carlos_Alcaraz_GSP29369-1024x682.jpeg",
-        "date": "14/11/2025",
-        "description": "Turim (Itália) –Com a definição dos semifinalistas do ATP Finals, a organização do torneio definiu a ordem dos confrontos deste sábado. O atual campeão Jannik Sinner jogará na sessão diurna, enquanto o número 1 do mundo Carlos Alcaraz atua no fim da progamação, já que o jogo que definiu o adversário do espanhol também foi o último desta sexta."
     }
 ]
