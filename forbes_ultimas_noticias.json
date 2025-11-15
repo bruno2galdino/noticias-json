@@ -1,7 +1,21 @@
 [
     {
-        "url": "https://forbes.com.br/forbesesg/2025/11/ministro-da-energia-da-australia-pressiona-na-cupula-climatica-para-sediar-cop31/",
-        "title": "Ministro da Energia da Austrália Pressiona na Cúpula Climática para Sediar COP31",
+        "url": "https://forbes.com.br/geral/2025/11/eua-pode-produzir-menos-nesta-safra-com-excecao-do-milho-que-deve-ser-recorde/",
+        "title": "EUA Pode Produzir Menos Nesta Safra, com Exceção do Milho Que Deve Ser Recorde",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_colheita_soja_Eua-Nebraska_13nov25_Don-Farrall_Getty-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Departamento de Agricultura dos Estados Unidos reduziu suas perspectivas para milho e soja, as duas culturas mais valiosas do país"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/negociacoes-da-cop30-estao-chegando-ao-meio-do-caminho-mas-acordos-parecem-longe/",
+        "title": "Negociações da COP30 Estão Chegando Ao Meio do Caminho, Mas Acordos Parecem Longe",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Andre_Correa-do-Lago_-y-Rafa-PereiraCOP30-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Corrêa do Lago fechou um acordo antecipado de manter itens polêmicos para serem tratados separadamente"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/ministro-da-energia-da-australia-pressiona-cupula-climatica-para-sediar-cop31/",
+        "title": "Ministro da Energia da Austrália Pressiona Cúpula Climática para Sediar COP31",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Ministro-de-Energia-da-Australia-Chris-Bowen-19112024-REUTERSMaxim-Shemetov-300x200.jpg",
         "date": "14/11/2025",
         "description": "Chris Bowen diz que está a caminho do Brasil para garantir que seu país seja o escolhido"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/1-9-300x200.jpg",
         "date": "14/11/2025",
         "description": "Grupo Elettromec revoluciona o design de cozinhas brasileiras com a chegada das marcas Fulgor Milano e Viking"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/brandvoice-breton-quando-o-mobiliario-se-torna-manifesto-da-arquitetura/",
-        "title": "Quando o Mobiliário se Torna Manifesto da Arquitetura",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/1-8-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Breton e Triptyque propõem diálogo entre arte, design e construção na coleção Assemblage"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/celina-e-ronaldo-arrecadam-145-milhoes-de-reais-para-fundacao-fenomenos/",
-        "title": "Celina e Ronaldo Arrecadam 14,5 Milhões de Reais para Fundação Fenômenos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Celina-Locks-e-Ronaldo-Nazario-no-2o-Leilao-Galacticos-com-renda-revertida-para-a-Fundacao-Galacticos-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Leilão e torneio de tênis são as ações comandadas por Celina Locks e Ronaldo Fenômeno, que planejam sede para fundação"
     }
 ]
