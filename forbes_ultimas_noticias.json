@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/bateria-solida-a-proxima-revolucao-dos-carros-eletricos-que-pode-dar-vantagem-a-europa/",
+        "title": "Bateria Sólida: a Próxima Revolução dos Carros Elétricos Que Pode Dar Vantagem À Europa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0x0-11-300x200.webp",
+        "date": "15/11/2025",
+        "description": "Embora as montadoras europeias tenham perdido a batalha da química das baterias, a tecnologia de estado sólido oferece uma oportunidade de voltar à dianteira"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/11/como-a-igualdade-de-genero-pode-acelerar-solucoes-para-a-crise-climatica/",
+        "title": "Por Que a Igualdade de Gênero É Essencial para Enfrentar a Crise Climática",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/executiva-da-unicef-300x200.jpg",
+        "date": "15/11/2025",
+        "description": "Em entrevista à Forbes diretamente da COP30, em Belém, Anjani Kapoor, head da SWA, hospedada pelo Unicef, explica por que as mulheres estão entre as mais impactadas pela emergência climática e por que devem ocupar o centro das decisões"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/ios-26-1-ou-ios-18-7-2-veja-qual-atualizacao-do-iphone-escolher/",
+        "title": "iOS 26.1 ou iOS 18.7.2? Veja Qual Atualização do iPhone Escolher",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-1-300x200.png",
+        "date": "15/11/2025",
+        "description": "A escolha entre as duas versões depende da sua preferência e do seu perfil de risco; entenda"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/11/em-nova-era-starbucks-mostra-que-seu-futuro-caminha-para-ser-omnichannel/",
+        "title": "Em Nova Era, Starbuck Mostra Que Seu Futuro Caminha para  Ser Omnichannel",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_starbucks-delivery_13nov25_Noam-Galai-_Getty-300x200.jpg",
+        "date": "15/11/2025",
+        "description": "Crescimento do delivery e uso intenso do app expõem transição do varejo e o culto da experiência do consumidor começa a mudar de tom"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/como-investir-em-um-fundo-especializado-em-bolsas-hermes/",
+        "title": "Conheça o Fundo Especializado em Bolsas Hermès",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-20-300x200.jpg",
+        "date": "15/11/2025",
+        "description": "A empresa americana de investimentos em ativos de luxo Luxus lança um fundo dedicado às bolsas Birkin e Kelly; investidores têm prioridade na compra das peças"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/5-das-viagens-de-trem-mais-incriveis-e-epicas-do-mundo/",
+        "title": "5 das Viagens de Trem Mais Incríveis e Épicas do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Venice-Simplon-Orient-Express-um-trem-da-Belmond-300x200.jpg",
+        "date": "15/11/2025",
+        "description": "À pedido da Forbes, expert indica suas jornadas ferroviárias favoritas, entre diferentes culturas, paisagens extraordinárias e experiências únicas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/succession-da-vida-real-quem-e-o-magnata-polones-que-enfrenta-uma-disputa-familiar-bilionaria/",
+        "title": "Quem É o Magnata Polonês Que Enfrenta uma Disputa Familiar Bilionária",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-25-300x200.jpg",
+        "date": "15/11/2025",
+        "description": "Zygmunt Solorz está em meio a uma batalha sucessória e um drama jurídico que já dura um ano e envolve os seus três filhos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/novo-luxo-gastronomico-une-moda-gastronomia-e-obsessao-por-carboidratos/",
+        "title": "Novo Luxo Gastronômico Une Moda, Mesa e Obsessão por Carboidratos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_presentes_luxo_carboidratos_14.11.2025-300x200.jpg",
+        "date": "15/11/2025",
+        "description": "Confira as sugestões de presentes que elevam o humilde nutriente a um status, incluindo massas de grife"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/11/eua-pode-produzir-menos-nesta-safra-com-excecao-do-milho-que-deve-ser-recorde/",
         "title": "EUA Pode Produzir Menos Nesta Safra, com Exceção do Milho Que Deve Ser Recorde",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_colheita_soja_Eua-Nebraska_13nov25_Don-Farrall_Getty-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Andre_Correa-do-Lago_-y-Rafa-PereiraCOP30-300x200.jpg",
         "date": "14/11/2025",
         "description": "Corrêa do Lago fechou um acordo antecipado de manter itens polêmicos para serem tratados separadamente"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/ministro-da-energia-da-australia-pressiona-cupula-climatica-para-sediar-cop31/",
-        "title": "Ministro da Energia da Austrália Pressiona Cúpula Climática para Sediar COP31",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Ministro-de-Energia-da-Australia-Chris-Bowen-19112024-REUTERSMaxim-Shemetov-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Chris Bowen diz que está a caminho do Brasil para garantir que seu país seja o escolhido"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/precos-baixos-do-acucar-deixam-produtores-de-cana-do-brasil-encurralados/",
-        "title": "Preços Baixos do Açúcar Deixam Produtores de Cana do Brasil Encurralados",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_lavoura_cana_de_acucar_wenderson-araujo-Trilux-CNA_25.09.2025-1-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Pressionados, setor pode considerar a redução da área plantada com a cultura, disse José Nogueira, presidente-executivo da Orplana"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/o-que-dizem-abiec-e-cecafe-sobre-recuo-de-trump-sobre-tarifas-ao-brasil/",
-        "title": "O Que Dizem ABIEC e Cecafé sobre Recuo de Trump sobre Tarifas Ao Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Donald_Trumpo_13nov25_-y-Andrew-HarnikGett-1-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Medida tomada pelo governo norte-americano foi costurada e já era esperada"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/trump-reduz-tarifas-sobre-carne-bovina-cafe-e-outros-alimentos/",
-        "title": "Trump Reduz Tarifas sobre Carne Bovina, Café e Outros Alimentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Donald_Trump_11abr_2025_Getty-1-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Presidente americano assinou decreto nesta sexta-feira (14), conforme aumentam preocupações com inflação"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/safra-de-cafe-do-brasil-2026-27-deve-atingir-recorde-de-71-milhoes-de-sacas/",
-        "title": "Safra de Café do Brasil 2026/27 Deve Atingir Recorde de 71 Milhões de Sacas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cafe_14.11.2025-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "O aumento será impulsionado pelo arábica, cuja produção deve atingir 46,70 milhões de sacas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/raizen-divulga-resultados-e-mudancas-na-diretoria-financeira/",
-        "title": "Raízen Divulga Resultados e Mudanças na Diretoria Financeira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_raizen_14.11.2025-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Companhia teve prejuízo líquido de R$2,3 bilhões no segundo trimestre da safra 2025/26"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/dolar-cai-pela-quinta-semana-consecutiva-ibovespa-sobe/",
-        "title": "Dólar Cai Pela Quinta Semana Consecutiva; Ibovespa Sobe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "14/11/2025",
-        "description": "O dia foi esvaziado de acontecimentos econômicos e as atenções ficaram com a temporada de balanços"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/brandvoice-elettromec-o-novo-luxo-do-viver/",
-        "title": "O Novo Luxo do Viver",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/1-9-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Grupo Elettromec revoluciona o design de cozinhas brasileiras com a chegada das marcas Fulgor Milano e Viking"
     }
 ]
