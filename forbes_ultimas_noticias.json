@@ -1,8 +1,29 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-money/2025/11/trump-reduz-tarifas-sobre-carne-bovina-cafe-e-outros-alimentos/",
+        "url": "https://forbes.com.br/forbesesg/2025/11/ministro-da-energia-da-australia-pressiona-na-cupula-climatica-para-sediar-cop31/",
+        "title": "Ministro da Energia da Austrália Pressiona na Cúpula Climática para Sediar COP31",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Ministro-de-Energia-da-Australia-Chris-Bowen-19112024-REUTERSMaxim-Shemetov-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Chris Bowen diz que está a caminho do Brasil para garantir que seu país seja o escolhido"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/precos-baixos-do-acucar-deixam-produtores-de-cana-do-brasil-encurralados/",
+        "title": "Preços Baixos do Açúcar Deixam Produtores de Cana do Brasil Encurralados",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_lavoura_cana_de_acucar_wenderson-araujo-Trilux-CNA_25.09.2025-1-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Pressionados, setor pode considerar a redução da área plantada com a cultura, disse José Nogueira, presidente-executivo da Orplana"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/o-que-dizem-abiec-e-cecafe-sobre-recuo-de-trump-sobre-tarifas-ao-brasil/",
+        "title": "O Que Dizem ABIEC e Cecafé sobre Recuo de Trump sobre Tarifas Ao Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Donald_Trumpo_13nov25_-y-Andrew-HarnikGett-1-300x200.jpg",
+        "date": "14/11/2025",
+        "description": "Medida tomada pelo governo norte-americano foi costurada e já era esperada"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/trump-reduz-tarifas-sobre-carne-bovina-cafe-e-outros-alimentos/",
         "title": "Trump Reduz Tarifas sobre Carne Bovina, Café e Outros Alimentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/12/China-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Donald_Trump_11abr_2025_Getty-1-300x200.jpg",
         "date": "14/11/2025",
         "description": "Presidente americano assinou decreto nesta sexta-feira (14), conforme aumentam preocupações com inflação"
     },
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Celina-Locks-e-Ronaldo-Nazario-no-2o-Leilao-Galacticos-com-renda-revertida-para-a-Fundacao-Galacticos-300x200.jpg",
         "date": "14/11/2025",
         "description": "Leilão e torneio de tênis são as ações comandadas por Celina Locks e Ronaldo Fenômeno, que planejam sede para fundação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/oi-volta-para-a-bolsa-e-acoes-tem-pico-de-80-apos-revogacao-da-falencia/",
-        "title": "Oi Volta para a Bolsa e Ações Têm Pico de 80% após Revogação da Falência",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-27-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "O decreto de falência tinha encerrado um longo do caso de recuperação judicial da empresa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/anthropic-investira-us-50-bilhoes-para-construir-data-centers-nos-eua/",
-        "title": "Anthropic Investirá US$ 50 Bilhões para Construir Data Centers nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Anthropic-forbesss-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "Empresa fundada por ex-funcionários da OpenAI afirmou que o projeto deverá criar cerca de 800 empregos permanentes e 2.400 empregos na construção civil nos EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/exportacao-do-agronegocio-do-brasil-bate-recorde-de-receita-em-outubro-diz-ministerio/",
-        "title": "Exportação do Agronegócio do Brasil Bate Recorde de Receita em Outubro, Diz Ministério",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Colheita-de-soja-300x200.jpg",
-        "date": "14/11/2025",
-        "description": "No acumulado de janeiro a outubro de 2025, as exportações do agronegócio do país somaram US$141,97 bilhões"
     }
 ]
