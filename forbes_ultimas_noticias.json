@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/trump-reduz-tarifas-sobre-carne-bovina-cafe-e-outros-alimentos-conforme-aumento-de-preocupacoes-com-inflacao/",
+        "title": "Trump Reduz Tarifas sobre Carne Bovina, Café e Outros Alimentos Conforme Aumento de Preocupações com Inflação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-14T222232Z_1_LYNXMPELAD14W_RTROPTP_4_USA-TRUMP-BEEF-300x200.jpg",
+        "date": "15/11/2025",
+        "description": "Isenções retroativas de tarifas sinalizam mudança brusca na postura de Trump após derrotas republicanas em eleições locais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/faa-reduz-cortes-de-voos-para-3-em-meio-a-pressao-de-companhias-aereas/",
+        "title": "FAA Reduz Cortes de Voos para 3% em Meio a Pressão de Companhias Aéreas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-15T000423Z_1_LYNXMPELAE001_RTROPTP_4_USA-SHUTDOWN-300x200.jpg",
+        "date": "15/11/2025",
+        "description": "A redução de 3% segue em vigor enquanto o órgão monitora o sistema neste fim de semana"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/raizen-ja-fixou-preco-de-quase-metade-do-acucar-da-proxima-safra/",
         "title": "Raízen Já Fixou Preço de Quase Metade do Açúcar da Próxima Safra",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/raizen-300x200.jpg",
@@ -7,7 +21,7 @@
         "description": "Com preço travado em 114 c/lb, a produtora de açúcar ganha fôlego diante da queda nas cotações"
     },
     {
-        "url": "https://forbes.com.br/geral/2025/11/labubu-esta-sendo-preparado-para-virar-filme-nas-telonas/",
+        "url": "https://forbes.com.br/forbeslife/2025/11/labubu-esta-sendo-preparado-para-virar-filme-nas-telonas/",
         "title": "Labubu Está Sendo Preparado para Virar Filme nas Telonas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-14T230151Z_1_LYNXMPELAD15X_RTROPTP_4_ALIBABA-LIVESHOPPING-LABUBU-300x200.jpg",
         "date": "15/11/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Venice-Simplon-Orient-Express-um-trem-da-Belmond-300x200.jpg",
         "date": "15/11/2025",
         "description": "À pedido da Forbes, expert indica suas jornadas ferroviárias favoritas, entre diferentes culturas, paisagens extraordinárias e experiências únicas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/succession-da-vida-real-quem-e-o-magnata-polones-que-enfrenta-uma-disputa-familiar-bilionaria/",
-        "title": "Quem É o Magnata Polonês Que Enfrenta uma Disputa Familiar Bilionária",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-25-300x200.jpg",
-        "date": "15/11/2025",
-        "description": "Zygmunt Solorz está em meio a uma batalha sucessória e um drama jurídico que já dura um ano e envolve os seus três filhos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/novo-luxo-gastronomico-une-moda-gastronomia-e-obsessao-por-carboidratos/",
-        "title": "Novo Luxo Gastronômico Une Moda, Mesa e Obsessão por Carboidratos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_presentes_luxo_carboidratos_14.11.2025-300x200.jpg",
-        "date": "15/11/2025",
-        "description": "Confira as sugestões de presentes que elevam o humilde nutriente a um status, incluindo massas de grife"
     }
 ]
