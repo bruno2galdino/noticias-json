@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/rumo-projeta-precos-de-frete-estaveis-em-2026-com-estoque-recorde-de-milho/",
+        "title": "Rumo Projeta Preços de Frete Estáveis em 2026 com Estoque Recorde de Milho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_rumo_logistica_empresa_foto_Divulgacao_17.11.2025-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "A companhia negocia a manutenção da Malha Sul e planeja devolver a Malha Oeste ao governo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/airbus-estuda-possivel-versao-maior-do-jato-a350/",
+        "title": "Airbus Estuda Possível Versão Maior do Jato A350",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-06T144315Z_1_LYNXNPEL950P3_RTROPTP_4_AIRBUS-DELIVERIES-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "A fabricante europeia avalia ampliar a família A350 para enfrentar o Boeing 777-9 na disputa pelos sucessores dos grandes jatos quadrimotores"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/google-investe-us-40-bi-para-ampliar-data-centers-no-texas/",
+        "title": "Google Investe US$ 40 Bi Para Ampliar Data Centers No Texas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-google-alphabet-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "Projeto adiciona três novos complexos e cria milhares de empregos, elevando para cinco os data centers da empresa no estado"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/brasileiro-lucas-pinheiro-conquista-titulo-inedito-na-copa-do-mundo-de-esqui-alpino/",
+        "title": "Brasileiro Lucas Pinheiro Conquista Título Inédito na Copa do Mundo de Esqui Alpino",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-2246425210-1-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "O pódio em Levi reforça o protagonismo brasileiro às vésperas dos Jogos Olímpicos de Inverno de 2026"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/indice-de-atividade-economica-do-bc-cai-020-em-setembro-mais-que-o-esperado/",
         "title": "Índice de Atividade Econômica do BC Cai 0,20% em Setembro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/vista-banco-central-brasilia-300x200.jpg",
@@ -16,7 +44,7 @@
     {
         "url": "https://forbes.com.br/forbesagro/2025/11/jbs-e-mantiqueira-compram-produtora-de-ovos-nos-eua/",
         "title": "JBS e Mantiqueira Compram Produtora de Ovos nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-galinhas-carne-de-frango-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_ovos_Mantiqueira_16mnov25_Mant_Divulg-300x200.jpg",
         "date": "17/11/2025",
         "description": "Hickman's Egg Ranch é uma das 20 maiores empresas de ovos dos Estados Unidos"
     },
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Leveza-amortecimento-e-aderencia_-descubra-quais-tenis-conquistaram-o-aval-dos-especialistas-para-a-Sao-Silvestre-300x200.jpg",
         "date": "17/11/2025",
         "description": "Veja como escolher o modelo certo para enfrentar as ladeiras e o calor da prova mais tradicional do Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/mineradora-desafia-pressao-dos-eua-e-leva-navio-de-amonia-verde-a-cop30/",
-        "title": "Mineradora Desafia Pressão dos EUA e Leva Navio de Amônia Verde À COP30",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_navio_amonia_-15nov25_Fortescue_Divulg-300x200.jpg",
-        "date": "17/11/2025",
-        "description": "Com o The Green Pioneer ancorado, a australiana Fortescue transforma o evento em palco de disputa sobre o futuro da descarbonização do transporte marítimo"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/futuro-do-trabalho-4-tendencias-que-prometem-moldar-o-mercado-em-2026/",
-        "title": "Futuro do Trabalho: 4 Tendências Prometem Moldar o Mercado em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/trabalho-hibrido-tendencias-300x200.jpg",
-        "date": "17/11/2025",
-        "description": "Novo estudo do Glassdoor revela um cenário de incertezas, com distanciamento entre líderes e equipes e dilemas para quem busca crescer na carreira"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/mosaic-entra-no-mercado-em-fertirrigacao-um-setor-de-4-milhoes-de-toneladas-ate-2030/",
-        "title": "Mosaic Entra no Mercado de Fertirrigação, um Setor de 4 Milhões de Toneladas até 2030",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_mosaic_eduardo_monteiro_14.11.2025-1-300x200.jpg",
-        "date": "17/11/2025",
-        "description": "Eduardo Monteiro, country manager da americana no Brasil, diz que momento da COP30 é certeiro para deslanchar projeto de inovação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/por-que-a-black-friday-continua-reinando-no-varejo-nacional/",
-        "title": "Por que a Black Friday Continua Reinando No Varejo Nacional",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/blacfriday-arte-02-300x200.jpg",
-        "date": "17/11/2025",
-        "description": "Mesmo com novos calendários promocionais, estratégia, confiança e volume mantém a Black Friday como ápice absoluto do consumo no Brasil"
     }
 ]
