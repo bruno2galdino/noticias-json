@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/desmatamento-no-cerrado-reduz-bilhoes-da-producao-de-soja-diz-zero-carbon-analytics/",
+        "title": "Desmatamento no Cerrado Reduz Bilhões da Produção de Soja, diz Zero Carbon Analytics",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_colheita_REUTERS-DiegoVara.-File-Photo_17.11.2025-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "Estudo aponta perda potencial de US$ 9,4 bilhões e 34 milhões de toneladas entre 2013 e 2023 devido ao impacto climático provocado pelo desmate"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/cop30-entra-na-fase-final-com-impasses-centrais/",
+        "title": "COP30 Entra na Fase Final com Impasses Centrais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cop30_-entrada-10nov25_Raimundo-PaccoCOP30-1-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "Delegações tentam avançar em financiamento anual de US$ 300 bilhões e reduzir a previsão de aquecimento global para além dos atuais 2,3°C"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/decripto-brasil-endurece-regras-e-obriga-gigantes-de-cripto-a-reportar-dados/",
+        "title": "Brasil Endurece Regras e Obriga Gigantes de Cripto a Reportar Dados",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-1-300x200.png",
+        "date": "17/11/2025",
+        "description": "Norma integra exchanges estrangeiras ao Carf e cria o DeCripto, reforçando fiscalização e troca internacional de informações"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/11/australia-rejeita-ser-co-anfitria-da-cop31-com-turquia-e-sede-segue-indefinida/",
         "title": "Austrália Rejeita Ser Co-Anfitriã da COP31 com Turquia e Sede Segue Indefinida",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_australia_cop30_foto_FAZRY_ISMAIL-PoolviaREUTERS_17.11.2025-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_rumo_logistica_empresa_foto_Divulgacao_17.11.2025-300x200.jpg",
         "date": "17/11/2025",
         "description": "A companhia negocia a manutenção da Malha Sul e planeja devolver a Malha Oeste ao governo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/airbus-estuda-possivel-versao-maior-do-jato-a350/",
-        "title": "Airbus Estuda Possível Versão Maior do Jato A350",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2025-10-06T144315Z_1_LYNXNPEL950P3_RTROPTP_4_AIRBUS-DELIVERIES-300x200.jpg",
-        "date": "17/11/2025",
-        "description": "A fabricante europeia avalia ampliar a família A350 para enfrentar o Boeing 777-9 na disputa pelos sucessores dos grandes jatos quadrimotores"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/google-investe-us-40-bi-para-ampliar-data-centers-no-texas/",
-        "title": "Google Investe US$ 40 Bi Para Ampliar Data Centers No Texas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-google-alphabet-300x200.jpg",
-        "date": "17/11/2025",
-        "description": "Projeto adiciona três novos complexos e cria milhares de empregos, elevando para cinco os data centers da empresa no estado"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/brasileiro-lucas-pinheiro-conquista-titulo-inedito-na-copa-do-mundo-de-esqui-alpino/",
-        "title": "Brasileiro Lucas Pinheiro Conquista Título Inédito na Copa do Mundo de Esqui Alpino",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-2246425210-1-300x200.jpg",
-        "date": "17/11/2025",
-        "description": "O pódio em Levi reforça o protagonismo brasileiro às vésperas dos Jogos Olímpicos de Inverno de 2026"
     }
 ]
