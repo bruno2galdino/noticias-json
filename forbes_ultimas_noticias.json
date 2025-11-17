@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/ford-ranger-hibrida-plug-in-flex-promete-acirrar-a-disputa-das-picapes-medias/",
+        "title": "Ford Ranger Híbrida Plug-in Flex Promete Acirrar a Disputa das Picapes Médias",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/FordRangerPHEV-4-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "A nova Ford Ranger híbrida plug-in será produzida na planta de Pacheco, na Argentina, que recebeu US$ 170 milhões para viabilizar o modelo — incluindo motores flex"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/especialistas-indicam-os-melhores-tenis-para-correr-a-sao-silvestre/",
+        "title": "Os Melhores Tênis para Correr a São Silvestre, Segundo Experts",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Leveza-amortecimento-e-aderencia_-descubra-quais-tenis-conquistaram-o-aval-dos-especialistas-para-a-Sao-Silvestre-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "Veja como escolher o modelo certo para enfrentar as ladeiras e o calor da prova mais tradicional do Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/mineradora-desafia-pressao-dos-eua-e-leva-navio-de-amonia-verde-a-cop30/",
+        "title": "Mineradora Desafia Pressão dos EUA e Leva Navio de Amônia Verde À COP30",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_navio_amonia_-15nov25_Fortescue_Divulg-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "Com o The Green Pioneer ancorado, a australiana Fortescue transforma o evento em palco de disputa sobre o futuro da descarbonização do transporte marítimo"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/11/futuro-do-trabalho-4-tendencias-que-prometem-moldar-o-mercado-em-2026/",
+        "title": "Futuro do Trabalho: 4 Tendências Prometem Moldar o Mercado em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/trabalho-hibrido-tendencias-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "Novo estudo do Glassdoor revela um cenário de incertezas, com distanciamento entre líderes e equipes e dilemas para quem busca crescer na carreira"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/mosaic-entra-no-mercado-em-fertirrigacao-um-setor-de-4-milhoes-de-toneladas-ate-2030/",
+        "title": "Mosaic Entra no Mercado de Fertirrigação, um Setor de 4 Milhões de Toneladas até 2030",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_mosaic_eduardo_monteiro_14.11.2025-1-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "Eduardo Monteiro, country manager da americana no Brasil, diz que momento da COP30 é certeiro para deslanchar projeto de inovação"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/por-que-a-black-friday-continua-reinando-no-varejo-nacional/",
+        "title": "Mesmo com novos calendários promocionais, estratégia, confiança e volume mantém a Black Friday como ápice absoluto do consumo no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/blacfriday-arte-02-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "Mesmo com novos calendários promocionais, estratégia, confiança e volume mantém a Black Friday como ápice absoluto do consumo no Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/marca-alema-de-maquinas-agricolas-fendt-desembarca-na-argentina/",
+        "title": "Marca Alemã de Máquinas Agrícolas Fendt Desembarca na Argentina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_maquinas-Fendt_15mnov25_Fendt_Divulg-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "Desembarque faz parte do plano global da empresa do grupo AGCO que pretende multiplicar por oito a presença na América Latina até 2030"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/de-onde-vem-o-melhor-queijo-do-mundo-segundo-o-world-cheese-awards/",
         "title": "De Onde Vem o Melhor Queijo do Mundo, Segundo o World Cheese Awards",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_maquinas-Fendt_15mnov25_Fendt_Divulg-1-300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/06/tech-ia-hollywood-22Jun23-GettyImages-300x200.jpg",
         "date": "16/11/2025",
         "description": "Leão vê o cinema como refúgio e inspiração diante da sobrecarga digital global"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/11/vaticano-devolve-ao-canada-artefatos-ligados-a-povos-indigenas/",
-        "title": "Vaticano Devolve Ao Canadá Artefatos Ligados a Povos Indígenas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-1016064416-300x200.jpg",
-        "date": "16/11/2025",
-        "description": "Doação ocorre após encontro do pontífice com o presidente da CCCB, Pierre Goudreault"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/eua-registram-primeiro-caso-de-nova-cepa-de-gripe-aviaria-em-humanos-o-que-voce-precisa-saber/",
-        "title": "EUA Registram Primeiro Caso de Nova Cepa de Gripe Aviária em Humanos; o Que Você Precisa Saber",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_gripe_aviaria_cepa-H5N1_15nov25_-DIGICOMPHOTO_Getty-300x200.jpg",
-        "date": "16/11/2025",
-        "description": "Segundo o Departamento de Agricultura do Estado, a H5N5 não representa uma ameaça maior à saúde das pessoas do que a cepa H5N1, a mais comum; entenda"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/brasil-seguira-trabalhando-por-reducoes-adicionais-da-taxacao-de-exportacoes-para-os-eua/",
-        "title": "Brasil Seguirá Trabalhando por Reduções Adicionais da Taxação de Exportações para os EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Agro_PrecoDosAlimentos_13MAR25_Getty-300x200.jpg",
-        "date": "16/11/2025",
-        "description": "Mesmo com esforços do governo, taxa imposta por Trump continua penalizando apenas o Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/juri-dos-eua-diz-que-apple-deve-pagar-us-634-mi-a-masimo-em-caso-de-patente-de-smartwatch/",
-        "title": "Juri dos EUA Diz Que Apple Deve Pagar US$ 634 Mi À Masimo em Caso de Patente de Smartwatch",
-        "image": "https://forbes.com.br/wp-content/uploads/2018/10/negocios-wearable-destaque-3out18-istock.jpg",
-        "date": "16/11/2025",
-        "description": "Gigante tecnológica prepara recurso após discordar do veredito"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/manifestantes-ambientais-protestam-no-calor-de-belem-em-meio-a-cupula-climatica/",
-        "title": "Manifestantes Ambientais Protestam no Calor de Belém em Meio À Cúpula Climática",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-15T183523Z_1_LYNXMPELAE093_RTROPTP_4_CLIMATE-COP30-PROTEST-300x200.jpg",
-        "date": "16/11/2025",
-        "description": "Sob calor intenso, diferentes grupos se unem em manifestação marcada por música e resistência"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/tempestade-claudia-mata-tres-pessoas-em-portugal-e-causa-inundacoes-no-reino-unido/",
-        "title": "Tempestade Claudia Mata Três Pessoas em Portugal e Causa Inundações na Reino Unido",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-2246839451-300x200.jpg",
-        "date": "16/11/2025",
-        "description": "Idosos são encontrados sem vida após inundação atingir casa enquanto dormiam"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/valhalla-o-aston-martin-hibrido-de-1-079-cavalos-que-leva-a-f1-para-as-ruas/",
-        "title": "Valhalla: o Aston Martin Híbrido de 1.079 Cavalos Que Leva a F1 para as Ruas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Aston_Martin_Valhalla_02-300x200.jpg",
-        "date": "16/11/2025",
-        "description": "O Valhalla inaugura uma nova arquitetura para a Aston Martin, rompendo com décadas de tradição de motores dianteiros"
     }
 ]
