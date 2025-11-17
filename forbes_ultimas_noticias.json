@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-recua-com-perdas-em-acoes-de-bancos-e-dados-abaixo-do-esperado/",
+        "title": "Ibovespa Recua com Perdas em Ações de Bancos e Dados Abaixo do Esperado",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "17/11/2025",
+        "description": "Dólar termina o dia em alta, acima dos R$ 5,30"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/jai-shroff-da-upl-ve-o-brasil-como-eixo-global-da-bioeconomia/",
+        "title": "Jai Shroff, da UPL, Vê o Brasil Como Eixo Global da Bioeconomia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_jay_shroff_17.11.2025-2-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "CEO global de agroquímica reforça aposta em carbono negativo, produtividade agrícola e segurança alimentar"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/r-1-bi-para-erguer-a-maior-fazenda-de-cafe-arabica-irrigado-do-mundo-em-minas/",
+        "title": "R$ 1 Bi para Erguer a Maior Fazenda de Café Arábica Irrigado do Mundo em Minas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cafe_irrigadao-16mnov25_Wsfurlan_getty-300x200.jpg",
+        "date": "17/11/2025",
+        "description": "Joint Venture reúne grupo Santos & Dias, maior produtor de eucalipto do estado, e a Ruiz Coffee, uma das maiores produtoras do grão no Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/corretoras-de-criptomoedas-recebem-us-408-milhoes-em-transacoes-suspeitas/",
         "title": "Corretoras De Criptomoedas Recebem US$ 408 Milhões Em Transações Suspeitas",
         "image": "https://forbes.com.br/wp-content/uploads/2022/09/money-binance-stablecon-06set22-DadoRuvic-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_acucar_exportacao_REUTERS-AmitDave_17.11.2025-300x200.jpg",
         "date": "17/11/2025",
         "description": "A produção global deve aumentar 3,15%, impulsionada por Índia, Tailândia e Paquistão"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/clima-lucro-e-crise-o-que-acontece-se-as-promessas-corporativas-da-cop30-desmoronarem/",
-        "title": "Clima, Lucro e Crise: o Que Acontece se as Promessas Corporativas da COP30 Desmoronarem?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cop30_16mnov25_Alex-FerroCOP30-1-300x200.jpg",
-        "date": "17/11/2025",
-        "description": "Governos e CEOs são pressionados a transformar promessas em planos concretos, enquanto investidores testam se metas de descarbonização resistem a crises econômicas e políticas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/desmatamento-no-cerrado-prejudica-a-soja-com-perdas-de-us-94-bilhoes/",
-        "title": "Desmatamento no Cerrado Prejudica a Soja com Perdas de US$ 9,4 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_colheita_REUTERS-DiegoVara.-File-Photo_17.11.2025-300x200.jpg",
-        "date": "17/11/2025",
-        "description": "Estudo da Zero Carbon Analytics aponta que derrubada de mata causa condições climáticas mais secas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/acao-da-alphabet-dispara-apos-berkshire-comprar-participacao-de-us-49-bi/",
-        "title": "Ação da Alphabet Dispara após Berkshire Comprar Participação de US$ 4,9 Bi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-17T151532Z_1_LYNXMPELAG0SC_RTROPTP_3_ALPHABET-RESULTS-300x200.jpg",
-        "date": "17/11/2025",
-        "description": "Investimentos robustos e domínio em anúncios consolidam a liderança da Alphabet na corrida da IA"
     }
 ]
