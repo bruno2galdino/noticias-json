@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/liquidacao-do-master-pressiona-reservas-do-fgc-saiba-como-acessar-o-fundo/",
+        "title": "Liquidação do Master Pressiona Reservas do FGC; saiba como acessar o fundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-33-300x200.jpg",
+        "date": "18/11/2025",
+        "description": "Pagamentos podem chegar a R$ 50 bilhões e desafiar a capacidade do fundo de garantir depósitos até R$ 250 mil; confira como é feito  pagamento"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/programa-inova-amazonia-vai-conectar-80-empresas-a-grandes-fundos-de-investimento/",
+        "title": "Programa Inova Amazônia Vai Conectar 80 Empresas a Grandes Fundos de Investimento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_cop30_foto_Divulgacao_18.11.2025-300x200.jpg",
+        "date": "18/11/2025",
+        "description": "A iniciativa visa acelerar a bioeconomia amazônica através de mentorias e conexão direta com investidores"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/brasil-acelera-negociacao-na-cop30-e-pressiona-por-acordo-em-duas-etapas/",
+        "title": "Brasil Acelera Negociação na COP30 e Pressiona Por Acordo em Duas Etapas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_cop30_foto_REUTERS-AdrianoMachado_18.11.2025-300x200.jpg",
+        "date": "18/11/2025",
+        "description": "Entre os tópicos mais difíceis está o financiamento para que países pobres mudem para energia limpa"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/enchentes-em-buenos-aires-atrasam-plantio-de-soja-e-milho-na-argentina/",
+        "title": "Enchentes em Buenos Aires Atrasam Plantio de Soja e Milho na Argentina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_inundacao_enchente_argentina_foto_REUTERS-Agustin-Marcarian_18.11.2025-300x200.jpg",
+        "date": "18/11/2025",
+        "description": "O plantio de soja está 12,9% concluído, 3,3 pontos percentuais atrás da média de cinco anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/demanda-de-tecnologia-por-creditos-de-carbono-dispara-e-cria-crise-de-oferta/",
+        "title": "Demanda de Tecnologia por Créditos de Carbono Dispara e Cria Crise de Oferta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_fertilizante_biologico_18.11.2025-300x200.jpg",
+        "date": "18/11/2025",
+        "description": "Desde 2019, o investimento total no mercado de remoção durável atingiu US$ 10 bilhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/xiaomi-alerta-para-aumento-nos-precos-de-smartphones-devido-a-alta-dos-custos-de-chips-de-memoria/",
+        "title": "Xiaomi Alerta para Aumento nos Preços de Smartphones",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/05/ForbesMoney_Xiaomi_12052021_SOPAImages_GettyImages.jpg",
+        "date": "18/11/2025",
+        "description": "Os preços globais dos chips de memória estão subindo devido à crescente demanda por unidades para servidores de inteligência artificial"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/frango-e-ovos-do-brasil-ganham-sinal-verde-da-uniao-europeia-apos-7-anos-de-bloqueio/",
+        "title": "Frango e Ovos do Brasil Ganham Sinal Verde da União Europeia após 7 Anos de Bloqueio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_acougue_Europa_17nov25Monty-Rakusen_Getty-300x200.jpg",
+        "date": "18/11/2025",
+        "description": "Entenda o que é o chamado pré-listing e porque ele é importante nas relações comerciais ao facilitar as exportações para os países do bloco"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/11/o-preco-invisivel-de-turbinar-o-cerebro-para-trabalhar/",
+        "title": "O Preço Invisível de Turbinar o Cérebro para Trabalhar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-2191279248-300x200.jpg",
+        "date": "18/11/2025",
+        "description": "Em meio a rotinas exaustivas, estimulantes ganham espaço como caminho para mais produtividade, mas à custa da saúde física e mental"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/ferrovias-da-vli-batem-marca-historica-de-graos-e-farelos-em-outubro/",
         "title": "Ferrovias da VLI Batem Marca Histórica de Grãos e Farelos em Outubro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_vli_trem_18.11.2025-1-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-18T131506Z_1_LYNXMPELAH0NS_RTROPTP_4_COMMODS-SOJA-ABIOVE-300x200.jpg",
         "date": "18/11/2025",
         "description": "Brasil deve ter safra recorde de soja apesar do ajuste para baixo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/cupula-da-onu-ve-clamor-por-mudancas-nas-negociacoes-climaticas-na-cop30/",
-        "title": "Cúpula da ONU Vê Clamor por Mudanças nas Negociações Climáticas na COP30",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-18T124952Z_1_LYNXMPELAH0N0_RTROPTP_4_CLIMATE-COP30-COP31-300x200.jpg",
-        "date": "18/11/2025",
-        "description": "Três décadas de acordos climáticos trouxeram avanços, mas as emissões seguem em alta e o aquecimento global continua a acelerar"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/china-volta-a-comprar-soja-dos-eua-para-agradar-trump-e-paga-caro-dizem-traders/",
-        "title": "China Volta a Comprar Soja dos EUA para Agradar Trump e Paga Caro, Dizem Traders",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-18T114316Z_1_LYNXMPELAH0JW_RTROPTP_4_USA-SOYBEANS-CHINA-300x200.jpg",
-        "date": "18/11/2025",
-        "description": "Pequim aumenta compras de soja norte-americana apesar de preços menos competitivos, em esforço para cumprir compromissos assumidos na cúpula comercial de Busan"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/ia-em-2026-a-consolidacao-de-uma-infraestrutura-estrategica/",
-        "title": "IA em 2026: a Consolidação de uma Infraestrutura Estratégica",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-300x200.png",
-        "date": "18/11/2025",
-        "description": "O próximo ano será lembrado como o momento em que a inteligência artificial deixou de ser tendência emergente para se tornar parte da espinha dorsal da economia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/bitcoin-cai-abaixo-de-us-90-mil-pela-primeira-vez-em-sete-meses/",
-        "title": "Bitcoin Cai Abaixo de US$ 90 Mil Pela Primeira Vez em Sete Meses",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-1-300x200.png",
-        "date": "18/11/2025",
-        "description": "Forte queda do mercado cripto continua e já apaga os ganhos do ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/falha-na-cloudflare-derruba-servicos-online-globalmente/",
-        "title": "Falha na Cloudflare Derruba Serviços Online Globalmente",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/capa11-300x200.jpg",
-        "date": "18/11/2025",
-        "description": "Aplicativos como ChatGPT, Spotify, Canva e X apresentaram problemas de conexão na manhã desta terça-feira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/banco-central-liquida-banco-master-e-policia-federal-prende-daniel-vorcaro/",
-        "title": "Banco Central Liquida Banco Master e Polícia Federal Prende Daniel Vorcaro",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/02/Money_Daniel-Vorcaro-Presidente-do-Banco-Master_Divulgacao-300x200.jpg",
-        "date": "18/11/2025",
-        "description": "Decisão ocorre um dia após anúncio da venda da instituição financeira para o Grupo Fictor; Master estava há tempos sob observação do BC"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/o-recuo-de-trump-nas-tarifas-sobre-cafe-bananas-e-outros-alimentos-e-nao-foi-so-do-brasil/",
-        "title": "O Recuo de Trump nas Tarifas sobre Café, Bananas e Outros Alimentos, e Não Foi Só do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Donald_Trump-16mnov25_The-Washington-Post-_Getty-300x200.jpg",
-        "date": "18/11/2025",
-        "description": "Reversão expõe o cerco político e judicial ao trumpismo econômico, criticado por encarecer a comida dos americanos"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/11/uma-mudanca-de-mentalidade-simples-para-aumentar-a-felicidade-diaria/",
-        "title": "Uma Mudança de Mentalidade Simples para Aumentar a Felicidade Diária",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0x0-1-1-300x200.webp",
-        "date": "18/11/2025",
-        "description": "Ter menos pode trazer mais felicidade, descubra o poder da simplicidade"
     }
 ]
