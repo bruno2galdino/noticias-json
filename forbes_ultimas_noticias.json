@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/por-dentro-do-acordo-de-r-38-bilhoes-entre-renault-e-chinesa-geely-para-montar-carros-no-brasil/",
+        "title": "Por Dentro do Acordo de R$ 3,8 Bilhões entre Renault e Chinesa Geely para Montar Carros no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/24_Geely_EX-2_rodolfobuhrer-1-300x200.jpg",
+        "date": "18/11/2025",
+        "description": "As duas montadoras vão investir R$ 3,8 bilhões para instalar novas plataformas de veículos em fábrica no Paraná"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/google-lanca-gemini-3-e-incorpora-modelo-no-buscador/",
+        "title": "Google Lança Gemini 3 e Incorpora Modelo no Buscador",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/2025-04-22T144337Z_1_LYNXMPEL3L0RK_RTROPTP_4_ALPHABET-AI-300x200.jpg",
+        "date": "18/11/2025",
+        "description": "Sundar Pichai, presidente-executivo da companhia, descreveu-o como \"o nosso modelo mais inteligente\""
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/o-brasil-e-protagonista-natural-na-construcao-de-uma-economia-de-baixo-carbono-diz-ceo-da-inpasa/",
+        "title": "\"O Brasil É Protagonista Natural na Construção de uma Economia de Baixo Carbono\", Diz CEO da Inpasa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Eder_Odvar_Lopes_17nov25Inpasa_Divulg-300x200.jpg",
+        "date": "18/11/2025",
+        "description": "Na série Forbes Agro100 2025, confira o que pensa Eder Lopes sobre os desafios da maior empresa do país em produção de etanol de grãos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/falhamos-com-nossos-clientes-e-com-a-internet-em-geral-diz-cto-da-cloudflare/",
+        "title": "“Falhamos com a Internet em Geral”, Diz CTO da Cloudflare",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-1-1-300x200.png",
+        "date": "18/11/2025",
+        "description": "Dane Knecht, diretor de tecnologia da companhia, escreveu a declaração em seu perfil oficial no X"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/11/governo-lanca-plataforma-empreender-clima-com-credito-a-44-ao-ano-na-cop30/",
         "title": "Governo Lança Plataforma Empreender Clima com Crédito a 4,4% ao Ano na COP30",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_cop30_foto_Divulgacao_18.11.2025-1-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_fertilizante_biologico_18.11.2025-300x200.jpg",
         "date": "18/11/2025",
         "description": "Desde 2019, o investimento total no mercado de remoção durável atingiu US$ 10 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/xiaomi-alerta-para-aumento-nos-precos-de-smartphones-devido-a-alta-dos-custos-de-chips-de-memoria/",
-        "title": "Xiaomi Alerta para Aumento nos Preços de Smartphones",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/05/ForbesMoney_Xiaomi_12052021_SOPAImages_GettyImages.jpg",
-        "date": "18/11/2025",
-        "description": "Os preços globais dos chips de memória estão subindo devido à crescente demanda por unidades para servidores de inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/frango-e-ovos-do-brasil-ganham-sinal-verde-da-uniao-europeia-apos-7-anos-de-bloqueio/",
-        "title": "Frango e Ovos do Brasil Ganham Sinal Verde da União Europeia após 7 Anos de Bloqueio",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_acougue_Europa_17nov25Monty-Rakusen_Getty-300x200.jpg",
-        "date": "18/11/2025",
-        "description": "Entenda o que é o chamado pré-listing e porque ele é importante nas relações comerciais ao facilitar as exportações para os países do bloco"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/11/o-preco-invisivel-de-turbinar-o-cerebro-para-trabalhar/",
-        "title": "O Preço Invisível de Turbinar o Cérebro para Trabalhar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-2191279248-300x200.jpg",
-        "date": "18/11/2025",
-        "description": "Em meio a rotinas exaustivas, estimulantes ganham espaço como caminho para mais produtividade, mas à custa da saúde física e mental"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/ferrovias-da-vli-batem-marca-historica-de-graos-e-farelos-em-outubro/",
-        "title": "Ferrovias da VLI Batem Marca Histórica de Grãos e Farelos em Outubro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_vli_trem_18.11.2025-1-300x200.jpg",
-        "date": "18/11/2025",
-        "description": "As unidades portuárias da companhia tiveram um aumento de 42% no volume"
     }
 ]
