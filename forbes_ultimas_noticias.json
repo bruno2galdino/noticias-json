@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/safra-de-soja-e-recorde-mesmo-com-reducao-de-previsao-de-colheita/",
+        "title": "Safra de Soja É Recorde Mesmo com Redução de Previsão de Colheita",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_colheita_foto_FlavioBeneditoConceicao-Getty-Images_19.11.2025-300x200.jpg",
+        "date": "19/11/2025",
+        "description": "A redução ocorreu por menores produtividades na região Matopiba (Maranhão, Tocantins, Piauí e Bahia)"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/four-seasons-inaugura-novo-naples-beach-club/",
+        "title": "Four Seasons Inaugura Novo Naples Beach Club",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/O-novo-Four-Seasons-apresenta-220-acomodacoes-com-inspiracao-residencial-e-elementos-ligados-ao-ambiente-costeiro-da-Florida-300x200.jpg",
+        "date": "19/11/2025",
+        "description": "Resort eleva o padrão de hospitalidade na Flórida, em um dos destinos mais exclusivos e abastados dos Estados Unidos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesesg/2025/11/lula-cobra-acordo-climatico-antecipado-na-cop30-sobre-fosseis-e-financiamento/",
+        "title": "Lula Cobra Acordo Climático Antecipado na COP30 Sobre Fósseis e Financiamento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_cop30_lula_foto_REUTERS-AdrianoMachado_19.11.2025-300x200.jpg",
+        "date": "19/11/2025",
+        "description": "O Brasil, anfitrião, busca fechar um pacote inicial de acordos ainda hoje, contrariando as outras cúpulas"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/anec-eleva-previsao-de-exportacao-de-farelo-de-soja-e-ve-alivio-para-esmagadoras/",
         "title": "Anec Eleva Previsão de Exportação de Farelo de Soja e Vê Alívio para Esmagadoras",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_exportacao_soja_foto_PauloWhitaker-Reuters_20.11.2025-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_dolar_mundo_17nov25_Hillary-Kladke_Getty-300x200.jpg",
         "date": "19/11/2025",
         "description": "De Belém para os mercados globais, a COP30 acelera a corrida para medir, valorar e contratar serviços da natureza como ativos de longo prazo"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/4-passos-negociar-aumento-salario/",
-        "title": "4 Passos para Negociar um Aumento Salarial para 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/aumento-salarial-300x200.jpg",
-        "date": "19/11/2025",
-        "description": "Veja como ser estratégico ao apresentar suas conquistas e aumentar as chances de melhorar sua remuneração"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/11/4-linguagens-secretas-do-amor-que-revitalizam-relacionamentos/",
-        "title": "4 Linguagens Secretas do Amor Que Revitalizam Relacionamentos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0x0-2-1-300x200.webp",
-        "date": "19/11/2025",
-        "description": "Novas linguagens do amor mostram como conexões profundas exigem mais do que palavras e gestos, elas pedem presença, adaptação e tempo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/fundos-patrimoniais-chegam-a-r-139-bilhoes-e-buscam-ambiente-para-crescer-mais/",
-        "title": "Fundos Patrimoniais Chegam a R$ 139 Bilhões e Buscam Ambiente para Crescer Mais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-56-300x200.jpg",
-        "date": "19/11/2025",
-        "description": "Setor expande governança, atrai novos fundos e mira ajustes tributários para liberar mais capital de impacto no país"
     }
 ]
