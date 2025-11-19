@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/11/alta-costura-chega-aos-jatos-da-bombardier-em-parceria-com-elie-saab/",
+        "title": "Alta Costura Chega Aos Jatos da Bombardier em Parceria com Elie Saab",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/1500x1000-life-02-300x200.jpg",
+        "date": "19/11/2025",
+        "description": "Grife libanesa assinará design inédito do interior do Global 8000, jato executivo mais rápido do mundo"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/embrapa-lanca-agforest-lab-em-belem-para-acelerar-bioeconomia-da-amazonia/",
         "title": "Embrapa Lança AgForest Lab em Belém Para Acelerar Bioeconomia da Amazônia",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_embrapa_foto_RonaldoRosa-Embrapa_19.11.2025-300x200.jpg",
@@ -7,7 +14,7 @@
         "description": "O laboratório vivo de 213 hectares servirá para testar sistemas agroflorestais escaláveis a partir de 2026"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/11/brasil-e-japao-assinam-acordo-para-recuperar-pastagens-degradadas-no-cerrado/",
+        "url": "https://forbes.com.br/forbesesg/2025/11/brasil-e-japao-assinam-acordo-para-recuperar-pastagens-degradadas-no-cerrado/",
         "title": "Brasil e Japão Assinam Acordo Para Recuperar Pastagens Degradadas no Cerrado",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_mapa_brasil_japao_foto_PercioCampos-Mapa_19.11.2025-300x200.jpg",
         "date": "19/11/2025",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-57-300x200.jpg",
         "date": "19/11/2025",
         "description": "Transação inclui 17 aeroportos no Brasil e três na América Latina, alinhada ao plano estratégico de foco em rodovias e trilhos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/dilema-na-cop30-o-que-seria-um-mundo-sem-vacas/",
-        "title": "Dilema na COP30:  o Que Seria um Mundo sem Vacas?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_bovinos_19nov25_floop_Getty-300x200.jpg",
-        "date": "19/11/2025",
-        "description": "Na AgriZone da Embrapa, pesquisadores e produtores colocam a pecuária no centro das discussões sobre clima, uso da terra e cultura alimentar"
     }
 ]
