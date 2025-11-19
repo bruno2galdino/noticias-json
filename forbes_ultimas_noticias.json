@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/anec-eleva-previsao-de-exportacao-de-farelo-de-soja-e-ve-alivio-para-esmagadoras/",
+        "title": "Anec Eleva Previsão de Exportação de Farelo de Soja e Vê Alívio para Esmagadoras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_exportacao_soja_foto_PauloWhitaker-Reuters_20.11.2025-300x200.jpg",
+        "date": "19/11/2025",
+        "description": "A Anec elevou a estimativa de exportação de farelo de soja para 2,68 milhões de toneladas em novembro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mkt/2025/11/camila-nunes-cmo-da-amazon-brasil-forbes-mkt-s2-e13/",
         "title": "Camila Nunes, CMO da Amazon Brasil | Forbes MKT | S2 | E13",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/camila-Moura_Amazon_CMO-1500x1000-thumb-publicador-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-56-300x200.jpg",
         "date": "19/11/2025",
         "description": "Setor expande governança, atrai novos fundos e mira ajustes tributários para liberar mais capital de impacto no país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/queda-da-cloudflare-reacende-alerta-sobre-concentracao-da-infraestrutura-da-web/",
-        "title": "Cloudflare: Queda Reacende Alerta sobre Concentração da Infraestrutura da Web",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cloudflare-300x200.png",
-        "date": "19/11/2025",
-        "description": "Interrupção afetou um quinto do tráfego da internet e reforçou preocupações sobre os bastidores da economia digital"
     }
 ]
