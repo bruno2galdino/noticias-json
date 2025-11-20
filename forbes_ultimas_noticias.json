@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/como-mark-wahlberg-se-tornou-o-ator-queridinho-do-streaming/",
+        "title": "Como Mark Wahlberg se Tornou o Ator Queridinho do Streaming",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Mark-Wahlberg-e-o-protagonista-de-sete-dos-170-filmes-mais-assistidos-na-Netflix-300x200.jpg",
+        "date": "20/11/2025",
+        "description": "Com menos estreias nos cinemas, o ator de 54 anos virou o nome mais rentável da Netflix, Amazon e Apple, faturando US$ 20 milhões (ou mais) por filme e marcando uma virada na economia de Hollywood"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/ghost-gamer-a-homenagem-da-rolls-royce-a-era-de-ouro-dos-videogames/",
+        "title": "Ghost Gamer: a Homenagem da Rolls-Royce À era de Ouro dos Videogames",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2.-Black-Badge-Ghost-Gamer-Interior-rear-waterfall-300x200.jpg",
+        "date": "20/11/2025",
+        "description": "A montadora diz que o Ghost Gamer é influenciado pelo crescente interesse em colecionáveis de alto padrão dos anos 1970 e 1980"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/avaliada-em-us-28-bi-industria-da-cannabis-corre-o-risco-de-extincao-nos-eua/",
+        "title": "Proibição Ameaça Indústria de Cannabis de US$ 28 Bilhões nos Estados Unidos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cannabis_bebidas_foto_GettyImages_20.11.2025-300x200.jpg",
+        "date": "20/11/2025",
+        "description": "Nova emenda bane a fabricação sintética de canabinoides e proíbe produtos com mais de 0,4 mg de THC"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/cofundador-do-google-ultrapassa-jeff-bezos-e-se-torna-a-terceira-pessoa-mais-rica-do-mundo/",
         "title": "Fundador do Google Ultrapassa Bezos e se Torna a 3ª Pessoa Mais Rica do Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/money-larry-page-sergey-brin-google-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Livro-de-Jaime-Lauriano-Nara-Roesler-Books-2025-em-lancamento-em-Sao-Paulo-e-no-Rio-300x200.jpg",
         "date": "20/11/2025",
         "description": "No feriado do Mês da Consciência Negra saudamos a obra de Jaime  Lauriano, nome de ponta da arte afro-brasileira. Hoje, o artista, que está com individual no Rio e na coletiva “Debret” que inaugura no Museu do Ipiranga, lança seu livro na livraria Megafauna, no Copan"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/antes-do-eletrico-carro-hibrido-vai-invadir-o-brasil-em-2026/",
-        "title": "Antes do Elétrico, Carro Híbrido Vai ‘invadir’ o Brasil em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/denza-b5-300x200.png",
-        "date": "20/11/2025",
-        "description": "Salão do Automóvel de São Paulo volta a acontecer a partir deste sábado, 22, e boa parte das montadoras aposta nos híbridos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/comissaria-de-bordo-virtual-conquista-admiradores-nas-redes-sociais/",
-        "title": "Comissária de Bordo Virtual Conquista Admiradores nas Redes Sociais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cloudflare-1-300x200.png",
-        "date": "20/11/2025",
-        "description": "Em janeiro deste ano, a Qatar Airways apresentou ao mundo Sama, uma comissária movida por inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/le-jazz-celebra-15-anos-com-sabor-de-renovacao/",
-        "title": "Le Jazz Celebra 15 Anos com Sabor de Renovação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.O-Le-Jazz-Petit-dedicado-a-coquetelaria-300x200.jpg",
-        "date": "20/11/2025",
-        "description": "O bistrô que transformou a Rua dos Pinheiros atualiza o cardápio e projeta expansão sem perder sua alma parisiense"
     }
 ]
