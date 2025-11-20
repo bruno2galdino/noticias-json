@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/larry-summers-ex-secretario-do-tesouro-dos-eua-deixa-conselho-da-openai/",
+        "title": "Por Que Larry Summers Deixou o Conselho da OpenAI?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/money-larry-summers-300x200.jpg",
+        "date": "20/11/2025",
+        "description": "Summers renunciou ao cargo após a divulgação de documentos que comprovaram sua relação próxima com Jeffrey Epstein"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/china-amplia-compras-de-soja-dos-eua-e-impulsiona-precos-a-maxima-de-17-meses/",
+        "title": "China Amplia Compras de Soja dos EUA e Impulsiona Preços à Máxima de 17 Meses",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_foto_REUTERS-Dan-Koeck_20.11.2025-300x200.jpg",
+        "date": "20/11/2025",
+        "description": "As compras, abaixo das 12 milhões de toneladas anunciadas pela Casa Branca, impulsionaram a valorização"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/sp-global-projeta-reducao-no-plantio-de-milho-e-aumento-na-soja-dos-eua-em-2026/",
+        "title": "S&P Global Projeta Redução no Plantio de Milho e Aumento na Soja dos EUA em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_foto_REUTERS-Kia-Johnson_19.11.2025-300x200.jpg",
+        "date": "20/11/2025",
+        "description": "O plantio de milho cairá 3,8%, enquanto a área de soja aumentará 4% segundo dados da consultoria"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/banco-do-brasil-capta-us-100-milhoes-com-banco-frances-para-projetos-sustentaveis/",
+        "title": "Banco do Brasil Capta US$ 100 Milhões com Banco Francês para Projetos Sustentáveis",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_foto_paulobaqueta-GettyImages_19.11.2025-300x200.jpg",
+        "date": "20/11/2025",
+        "description": "A operação destina-se a impulsionar projetos elegíveis do Programa Eco Invest Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/11/arte-de-jaime-lauriano-e-exibida-no-rio-publicada-em-livro-e-destaque-no-museu-do-ipiranga/",
         "title": "Arte de Jaime Lauriano É Exibida no Rio, Publicada em Livro e Destaque no Museu do Ipiranga",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Livro-de-Jaime-Lauriano-Nara-Roesler-Books-2025-em-lancamento-em-Sao-Paulo-e-no-Rio-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/robos-trabalhando-300x200.png",
         "date": "20/11/2025",
         "description": "Depois do boom dos chatbots, a IA começa a ganhar um corpo e pode movimentar trilhões de dólares no futuro"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/diversidade-e-o-motor-da-inovacao-diz-executiva-da-loreal/",
-        "title": "“Diversidade É o Motor da Inovação”, Diz Executiva da L’Oréal",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/marcia-silveira-loreal-300x200.jpg",
-        "date": "20/11/2025",
-        "description": "Segundo Márcia Silveira, líder de DE&I com foco em marketing de influência, desde que a gigante de beleza começou a trabalhar o tema, o crescimento segue duplo dígito"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-fecha-em-queda-antes-de-feriado/",
-        "title": "Ibovespa Fecha em Queda Antes de Feriado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "19/11/2025",
-        "description": "Dólar termina o dia em alta em sintonia com avanço externo"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/alta-costura-chega-aos-jatos-da-bombardier-em-parceria-com-elie-saab/",
-        "title": "Alta Costura Chega Aos Jatos da Bombardier em Parceria com Elie Saab",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/1500x1000-life-02-300x200.jpg",
-        "date": "19/11/2025",
-        "description": "Grife libanesa assinará design inédito do interior do Global 8000, jato executivo mais rápido do mundo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/investimos-mais-de-r-10-bi-nos-ultimos-tres-anos-na-modernizacao-das-cervejarias-diz-ceo-da-ambev/",
-        "title": "“Investimos Mais de R$ 10 Bilhões nos Últimos 3 Anos na Modernização das Cervejarias”, Diz CEO da Ambev",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Carlos_Lisboa_19nov25_Ambev_Divulg-1-300x200.jpg",
-        "date": "19/11/2025",
-        "description": "Na série Forbes Agro100 2025, Carlos Lisboa conta em detalhes a estratégia da companhia para servir o consumidor, acelerar a digitalização e aprofundar a integração da cadeia produtiva"
     }
 ]
