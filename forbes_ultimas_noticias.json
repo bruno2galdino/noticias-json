@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/cofundador-do-google-ultrapassa-jeff-bezos-e-se-torna-a-terceira-pessoa-mais-rica-do-mundo/",
+        "title": "Fundador do Google Ultrapassa Bezos e se Torna a 3ª Pessoa Mais Rica do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/money-larry-page-sergey-brin-google-300x200.jpg",
+        "date": "20/11/2025",
+        "description": "Larry Page e Sergey Brin ganharam aproximadamente US$ 7,6 bilhões e US$ 7 bilhões, respectivamente, com o salto das ações da Alphabet após o lançamento do modelo de IA Gemini 3"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/governo-ucraniano-nao-limitara-exportacoes-de-trigo-na-safra-2025-26/",
+        "title": "Governo Ucraniano Não Limitará Exportações de Trigo na Safra 2025/26",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_trigo_lavoura_foto_REUTERS_20.11.2025-300x200.jpg",
+        "date": "20/11/2025",
+        "description": "Projeção é de colheita de 23 milhões de toneladas e exportação de 17 milhões de toneladas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/larry-summers-ex-secretario-do-tesouro-dos-eua-deixa-conselho-da-openai/",
         "title": "Por Que Larry Summers Deixou o Conselho da OpenAI?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/money-larry-summers-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.O-Le-Jazz-Petit-dedicado-a-coquetelaria-300x200.jpg",
         "date": "20/11/2025",
         "description": "O bistrô que transformou a Rua dos Pinheiros atualiza o cardápio e projeta expansão sem perder sua alma parisiense"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/11/nvidia-receita-de-us-57-bilhoes-e-o-alivio-do-mercado/",
-        "title": "Nvidia: Receita de US$ 57 Bilhões e o Alívio do Mercado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-23-300x200.jpg",
-        "date": "20/11/2025",
-        "description": "Nvidia supera expectativas com receita recorde e elimina temores sobre a bolha de IA"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/ia-por-que-a-robotica-e-a-nova-tendencia-e-pode-dar-origem-a-um-novo-boom/",
-        "title": "IA: Por Que a Robótica É a Nova Tendência e Pode Dar Origem a um Novo \"Boom”?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/robos-trabalhando-300x200.png",
-        "date": "20/11/2025",
-        "description": "Depois do boom dos chatbots, a IA começa a ganhar um corpo e pode movimentar trilhões de dólares no futuro"
     }
 ]
