@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/sinner-diz-que-adoraria-jogar-a-davis-no-brasil-ou-na-argentina.html",
+        "title": "Sinner diz que adoraria jogar a Davis no Brasil ou na Argentina",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/11/italy-davis-cup-2024-trophy-shot-e1732487467677-1024x682.jpg",
+        "date": "19/11/2025",
+        "description": "Turim (Itália) –Ausente da equipe italiana que dusputa a semana decisiva da Copa Davis, Jannik Sinner foi uma peça fundamental no recente bicampeonato de seu país na competição e que encerrou um jejum de conquistas que vinha desde 1976."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/joao-lago-avanca-em-cochabamba-luka-ono-pontua-na-atp.html",
+        "title": "João Lago avança em Cochabamba, Luka Ono pontua na ATP",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/luka_ono_jul25_vibra.jpg",
+        "date": "19/11/2025",
+        "description": "Cochabamba (Bolívia) –O paranaense João Lago foi o único brasileiro a avançar no ITF M25 de Cochabamba, em quadras de saibro na Bolívia. Ele superou o norte-americano Noah Schachter, cabeça 4, por duplo 6/4. Seu próximo adversário será o anfirião Andres Montellano."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cinco-juvenis-nas-quartas-de-itf-na-america-do-sul-time-de-12-anos-faz-semi.html",
+        "title": "Cinco juvenis nas quartas de ITF na América do Sul, Time de 12 anos faz semi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/pedro_dietrich_itajai_back-1024x683.jpg",
+        "date": "19/11/2025",
+        "description": "Chiclayo (Peru) –Quatro juvenis brasileiros estão nas quartas de final do ITF J60 de Chiclayo, em quadras de saibro no Peru, liderados por Pedro Dietrich. O gaúcho é o cabeça 1 e venceu o argentino Estanislao Lassaga por 6/4 e 6/1. Seu próximo rival é o peruano Fabio Zavalaga. Do mesmo lado da chave, Guilherme Renner venceu o uruguaio Gaston Lopez por 7/6 (9-7) e 6/3. Ele enfrenta o peruano Alessandro Rubini, algoz de Lucas Pontes or 6/2 e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/guto-vence-em-tres-sets-e-avanca-as-quartas-de-final-no-mexico.html",
+        "title": "Guto vence em três sets e avança às quartas de final no México",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/guto_poa_corre_saibro.jpg",
+        "date": "19/11/2025",
+        "description": "Zapopan (México) –Em seu segundo compromisso no ITF J300 de Zapopan, Guto Miguel conseguiu mais uma vitória no torneio em quadras de saibro no México. Ele superou nesta quarta-feira o canadense Benjamin Azar, cabeça 14 do torneio e 136º do ranking, por 6/4, 2/6 e 7/6 (7-5)."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-19-11.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pigossi_rebate_sp_final-1024x649.jpg",
+        "date": "19/11/2025",
+        "description": "WTA 125 de Colina (Chile) – Saibro – US$ 115 milSegunda rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/cinco-brasileiros-vencem-no-complemento-da-rodada-em-floripa.html",
         "title": "Cinco brasileiros vencem no complemento da rodada em Floripa",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/heide_floripa_prepara-1024x682.jpg",
@@ -12,13 +47,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/saraiva_guayaquil_estica-1024x733.jpg",
         "date": "19/11/2025",
         "description": "Guayaquil (Equador) –Único brasileiro na disputa do challenger de Guayaquil, em quadras de saibro no Equador, Paulo Saraiva foi eliminado nas oitavas do torneio. O brasiliense de 25 anos e 567º do ranking foi superado pelo argentino Federico Gomez, cabeça 8 do torneio e 269º colocado, por 6/1 e 7/6 (8-6) em 1h37 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-19-11.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pigossi_rebate_sp_final-1024x649.jpg",
-        "date": "19/11/2025",
-        "description": "WTA 125 de Colina (Chile) – Saibro – US$ 115 milSegunda rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/nadal-volta-a-quadra-depois-de-um-ano-e-treina-com-eala.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/berrettini_davis_grita-1024x734.jpg",
         "date": "19/11/2025",
         "description": "Bolonha (Itália) –Vencedora das duas últimas edições da Copa Davis e anfitriã na semana decisiva da competição, a Itália já garantida na semifinal em Bolonha. Mesmo sem contar com seus dois tenistas do top 10, Jannik Sinner e Lorenzo Musetti, os italianos venceram a Áustria por 2 a 0, com vitórias de Matteo Berrettini e Flavio Cobolli e vão enfrentar a Bélgica na próxima sexta-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pigossi-volta-ao-saibro-e-vence-no-chile-carol-cai-nas-oitavas.html",
-        "title": "Pigossi volta ao saibro e vence no Chile, Carol cai nas oitavas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pigossi_floripa_slice_saibro-1024x588.jpg",
-        "date": "19/11/2025",
-        "description": "Colina (Chile) –De volta ao saibro depois de disputar os playoffs da Billie Jean King Cup na Austrália durante o fim de semana, Laura Pigossi estreou com vitória no WTA 125 de Colina, em quadras de saibro no Chile. A número 2 do Brasil e 195ª do mundo venceu a jovem chilena de 18 anos Antonia Vergara Rivera, ex-top 15 no ranking juvenil e 411ª da WTA, por duplo 6/1 em 1h12 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-becker-e-ljubicic-homenageiam-niki-pilic-em-bolonha.html",
-        "title": "Djokovic, Becker e Ljubicic homenageiam Niki Pilic em Bolonha",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/homenagem-pilic-davis-2025-e1763578498427-1024x682.jpg",
-        "date": "19/11/2025",
-        "description": "Bolonha (Itália)– Alguns nomes de peso do tênis estiveram nesta quarta-feira em Bolonha para homenagear o ex-jogador, capitão e treinador da Copa Davis, Niki Pilic, que faleceu aos 86 anos em setembro deste ano. Destaque para o sérvio Novak Djokovic, o alemão Boris Becker e o croata Ivan Ljubicic."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/apos-rumores-sobre-seu-fisico-fils-explica-situacao-e-acalma-fas.html",
-        "title": "Após rumores sobre seu físico, Fils explica situação e acalma fãs",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/fils-monte-carlo-fore-2025-e1744377347284-1024x683.jpg",
-        "date": "19/11/2025",
-        "description": "Paris (França)– Nos últimos dias surgiram rumores sobre a condição física do francês Arthur Fils, que poderia ser forçado a abandonar o tênis por causa das costas. Porém, em entrevista ao jornal20 Minutes, o jovem tenista de 21 anos esclareceu o que se passa e garantiu que não é nada muito grave."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/del-potro-e-kuznetsova-nao-atingem-votos-suficientes-para-o-hall-da-fama.html",
-        "title": "Del Potro e Kuznetsova não atingem votos suficientes para o Hall da Fama",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/Artes-fotos-multiplas-900x600-1.jpg",
-        "date": "19/11/2025",
-        "description": "Newport (EUA)– Indicados juntos com o suíço Roger Federer para o Hall da Fama do Tênis Internacional, o argentino Juan Martin del Potro a russa Svetlana Kuznetsova acabaram ficando de fora da Classe de 2026 por não atingirem o número suficiente de votos."
     }
 ]
