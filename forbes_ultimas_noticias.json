@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-fecha-em-queda-e-registra-1a-perda-semanal-desde-comeco-de-outubro/",
+        "title": "Ibovespa Fecha em Queda e Registra 1ª Perda Semanal desde Começo de Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "21/11/2025",
+        "description": "Índice de referência do mercado acionário brasileiro, o Ibovespa recuou 0,41%, a 154.744,06 pontos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/china-reduz-plantel-de-porcas-para-menos-de-40-milhoes/",
+        "title": "China Reduz Plantel de Porcas Para Menos de 40 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_granja_suinos_china_foto_Reuters_21.11.2025-300x200.jpg",
+        "date": "21/11/2025",
+        "description": "A medida visa estabilizar o setor, que enfrenta um excesso de oferta e fraca demanda dos consumidores"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/cafe-soluvel-do-brasil-mantem-tarifa-dos-eua-e-perde-lideranca-de-exportacao/",
         "title": "Café Solúvel do Brasil Mantém Tarifa dos EUA e Perde Liderança de Exportação",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cafe_soluvel_foto_Reuters_21.11.2025-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/M0_UAE_Transition_PressRelease_02-1-1-300x200.jpg",
         "date": "21/11/2025",
         "description": "A startup californiana de aeronaves de decolagem e pouso vertical, Archer Aviation, anunciou dois grandes acordos com empresas do Oriente Médio"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/americana-aposta-na-couve-flor-para-crescer-em-mercado-de-us-6-bi/",
-        "title": "Americana Aposta na Couve-Flor para Crescer em Mercado de US$ 6 Bi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_urban_gail_becker_Courtesy_of_Gail_Becker_21.11.2025-300x200.jpg",
-        "date": "21/11/2025",
-        "description": "Gail Becker se une a Urban Farmer, ampliando sua distribuição com linha de produtos congelados saudáveis"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/os-10-destinos-que-todo-mundo-vai-querer-conhecer-em-2026/",
-        "title": "Os 10 Destinos Que Todo Mundo Vai Querer Conhecer em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Leh-em-Ladakh-no-extremo-norte-da-India.Leh-em-Ladakh-no-extremo-norte-da-India-300x200.jpg",
-        "date": "21/11/2025",
-        "description": "De uma pequena cidade costeira em Marbella ao mergulho com snorkel nas baías de Okinawa, estes são os locais mais buscados por titulares de cartão para viagens"
     }
 ]
