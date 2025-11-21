@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/foxconn-anuncia-centro-de-supercomputacao-de-us-14-bilhao-em-parceria-com-a-nvidia/",
+        "title": "Foxconn Anuncia Centro de US$ 1,4 Bilhão em Parceria com a Nvidia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Presidente-da-Foxconn-Young-Liu-fala-durante-evento-em-Taipei-em-Taiwan-300x200.jpg",
+        "date": "21/11/2025",
+        "description": "Centro estará pronto no primeiro semestre de 2026 e, quando concluído, será o maior cluster de GPUs avançadas de Taiwan"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/fabricante-do-mounjaro-e-a-primeira-farmaceutica-a-atingir-valor-de-mercado-de-us-1-trilhao/",
+        "title": "Fabricante do Mounjaro É a 1ª Farmacêutica a Atingir Valor de Mercado de US$ 1 Trilhão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/lilly-logo-300x200.jpg",
+        "date": "21/11/2025",
+        "description": "Valorização de mais de 35% das ações da empresa este ano foi impulsionada pelo crescimento explosivo do mercado de medicamentos para perda de peso"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/evtol-carro-voador-esta-mais-proximo-da-realidade-do-que-parece/",
         "title": "EVTOL: 'Carro Voador' Está Mais Próximo da Realidade do Que Parece",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/M0_UAE_Transition_PressRelease_02-1-1-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2022/06/bitcoin-forbesmoney-300x200.jpg",
         "date": "21/11/2025",
         "description": "O bitcoin tocou uma mínima de sete meses a US$81.668 no pior momento nesta sexta-feira (21)"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-recua-com-dados-dos-eua-e-tarifas-sob-holofote-apos-feriado/",
-        "title": "Ibovespa Recua com Dados dos EUA e Tarifas sob Holofote após Feriado",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/09/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-1536x1024-1.jpg",
-        "date": "21/11/2025",
-        "description": "Por volta de 10h50, o Ibovespa cedia 0,43%, 154.715,44 pontos. Com tal desempenho, caminha para a primeira queda semanal desde o início de outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/china-faz-maior-compra-de-soja-dos-eua-em-2-anos-e-deslancha-vendas-de-produtores/",
-        "title": "China Faz Maior Compra de Soja dos EUA em 2 Anos e Deslancha Vendas de Produtores",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_plantacao_foto_Reuters_21.11.2025-1-300x200.jpg",
-        "date": "21/11/2025",
-        "description": "As vendas atingiram 1,6 milhão de toneladas em três dias, o maior volume em uma única semana desde 2023"
     }
 ]

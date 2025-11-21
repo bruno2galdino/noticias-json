@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/grandes-noticias-para-2026.html",
+        "title": "Grandes notícias para 2026",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/blog_duplas_2026.jpg",
+        "date": "21/11/2025",
+        "description": "O final de temporada, período em que os tenistas entram em curtas e merecidas férias antes de iniciar a fase de preparação para o calendário seguinte, tem sido de grandes notícias para o tênis brasileiro. Especialmente nas duplas."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-21-11.html",
         "title": "O dia dos brasileiros: veja os resultados desta sexta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/daniel_silva_floripa_desliza.jpg",
         "date": "21/11/2025",
         "description": "WTA 125 de Colina (Chile) – Saibro – US$ 115 milDuplas – Semifinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/aos-32-anos-dennis-novak-anuncia-aposentadoria.html",
+        "title": "Aos 32 anos, Dennis Novak anuncia aposentadoria",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/dennis-novak-e1763752427791-1024x683.jpg",
+        "date": "21/11/2025",
+        "description": "Viena (Áustria)– O austríaco Dennis Novak anunciou sua aposentadoria do tênis profissional esta semana. O jogador de 32 anos, que alcançou o 85º lugar no ranking mundial em 2020, compartilhou a notícia no Instagram ."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/medrado-e-gebara-sao-campeas-do-us-national-de-pickleball.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/01/fonseca-time_trofeu_camberra-1024x536.jpg",
         "date": "21/11/2025",
         "description": "Rio de Janeiro (RJ)– Um dos pilares para o amadurecimento do carioca João Fonseca, que em 2025 fez uma grande temporada, vencendo seus dois primeiros títulos de ATP e terminando o ano no top 25, o treinador Guilherme Teixeira falou um pouco sobre o momento do pupilo e principalmente os planos para o futuro em uma entrevista aoLance!."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/zverev-critica-falta-de-publico-e-volta-a-disparar-contra-formato-da-davis.html",
-        "title": "Zverev critica falta de público e volta a disparar contra formato da Davis",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/zverev-puetz-krawietz-davis-comemoram-2025-e1763727709407-1024x682.jpg",
-        "date": "21/11/2025",
-        "description": "Bolonha (Itália)– Um dos principais críticos do atual formato da Copa Davis, o alemão Alexander Zverev voltou a disparar contra o modelo de disputa da competição. Após avitória de seu país sobre a Argentinanas quartas de final, ele lamentou o público baixo em um duelo emocionante que foi definido apenas na partida de duplas."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/marcondes-vence-a-quinta-seguida-no-japao-e-esta-nas-semifinais.html",
-        "title": "Marcondes vence 5º seguida no Japão e vai à semi. Nishikori cai.",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/marcondes-fore-kobe-2025-e1763724322293-1024x683.jpg",
-        "date": "21/11/2025",
-        "description": "Yokohama (Japão)– O paulista Igor Marcondes segue fazendo bonito na Ásia. Depois de dois títulos em ITF M15 na Tailândia, ele vem brilhando no challenger de Yokohama, de onde saiu do quali e já está nas semifinais. Nesta sexta-feira, o tenista de 28 anos bateu o austríaco Neil Oberleitner com parciais de 6/1 e 6/3, em exata uma hora de jogo."
     }
 ]
