@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/as-equipes-mais-valiosas-da-formula-1-em-2025/",
+        "title": "As Equipes Mais Valiosas da Fórmula 1 em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Florent-GoodenZUMA-PressNewscom-300x200.jpg",
+        "date": "21/11/2025",
+        "description": "Com investidores correndo para entrar na F1, as dez equipes do grid agora valem em média US$ 3,6 bilhões, e as líderes do pódio superam até algumas franquias da NFL e da NBA"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/11/ex-tenista-profissional-ceo-da-lacoste-ja-foi-patrocinado-pela-propria-marca/",
+        "title": "Ex-Tenista Profissional, CEO da Lacoste Já Foi Patrocinado pela Própria Marca",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Pedro-Zannoni-300x200.jpg",
+        "date": "21/11/2025",
+        "description": "Há cinco anos liderando a companhia na América Latina, Pedro Zannoni triplicou a receita e ampliou o público"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/como-a-ia-pode-impulsionar-o-crescimento-de-pequenas-empresas/",
+        "title": "Como a IA Pode Impulsionar o Crescimento de Pequenas Empresas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/perfil-Sama-1-300x200.png",
+        "date": "21/11/2025",
+        "description": "Líderes em IA compartilham como empreendedores podem usar a tecnologia para ampliar seu alcance sem aumentar suas equipes"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/o-prea-e-a-aspen-dos-tropicos-diz-guilherme-benchimol/",
+        "title": "“O Preá É a Aspen dos Trópicos”, Diz Guilherme Benchimol",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0-300x200.jpg",
+        "date": "21/11/2025",
+        "description": "Com vento previsível e geografia ideal para velejar longas distâncias, o Preá virou um refúgio de natureza, equilíbrio e novo luxo para quem busca no kitesurf mais do que um esporte"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/sucesso-no-cumprimento-das-metas-climaticas-pode-gerar-r-67-trilhoes-ao-pib-do-brasil/",
+        "title": "Sucesso no Cumprimento das Metas Climáticas Pode Gerar R$ 6,7 Trilhões Ao PIB do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_aquecimento_global-08set25_Elmar-Gubisch_Getty-300x200.jpg",
+        "date": "21/11/2025",
+        "description": "Estudo feito em parceria com o BID mostra que um cenário em que o aumento de temperatura é de 4ºC pode prejudicar agropecuária e gerar escassez hídrica"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/diario-de-lifestyle-os-favoritos-de-livia-nunes/",
+        "title": "Diário de Lifestyle: Os Favoritos de Livia Nunes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/0.Livia-Nunes-300x200.jpg",
+        "date": "21/11/2025",
+        "description": "Com mais de 1 milhão de seguidores, Livia compartilha rituais, viagens e parcerias internacionais, traduzindo tendências e comportamentos da nova geração para o mercado de luxo e lifestyle"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/estados-unidos-removem-tarifas-sobre-carne-bovina-cafe-e-suco-de-laranja-do-brasil/",
         "title": "Estados Unidos Removem Tarifas sobre Carne Bovina, Café e Suco de Laranja do Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Eduardo_Monteiro_19nov25_Mosaic_Divulg-2-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2021/06/ForbesESG_Painel-energia-solar_Amanda-Perobelli_Reuters.png",
         "date": "20/11/2025",
         "description": "Embora a energia renovável esteja em rápida expansão, o mundo não está no caminho para triplicar a energia limpa até 2030"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/nasa-divulga-imagens-do-cometa-3i-atlas-e-rejeita-rumores-de-espaconave-alienigena/",
-        "title": "Nasa Divulga Imagens do Cometa 3I/ATLAS e Rejeita \"Rumores\" de Espaçonave Alienígena",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/STF-1-300x200.png",
-        "date": "20/11/2025",
-        "description": "Astrônomos afirmam que o cometa é mais antigo do que o nosso Sistema Solar"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/taxa-de-desemprego-nos-eua-sobe-para-44-em-setembro/",
-        "title": "Taxa de Desemprego nos EUA Sobe para 4,4% em Setembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/09/money_emprego_2set21_REUTERS_Shannon-Stapleton_File-Photo.jpg",
-        "date": "20/11/2025",
-        "description": "O crescimento do emprego nos Estados Unidos acelerou em setembro, mas a taxa de desemprego subiu"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/china-nao-importa-soja-dos-eua-pelo-segundo-mes-consecutivo-importacoes-do-brasil-aumentam-29/",
-        "title": "China Não Importa Soja dos EUA Pelo Segundo Mês Consecutivo, Importações do Brasil Aumentam 29%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-20T113035Z_1_LYNXMPELAJ0J7_RTROPTP_4_BRAZIL-ENVIRONMENT-300x200.jpg",
-        "date": "20/11/2025",
-        "description": "As importações totais de soja da China atingiram 9,48 milhões de toneladas métricas em outubro"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/11/lula-indica-jorge-messias-ao-stf/",
-        "title": "Lula Indica Jorge Messias Ao STF",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/STF-300x200.png",
-        "date": "20/11/2025",
-        "description": "Messias tem 45 anos e tomou posse da Advocacia-Geral da União em janeiro de 2023"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/11/cop30-impulsiona-117-planos-e-acelera-financiamento-climatico-global/",
-        "title": "COP30 Impulsiona 117 Planos e Acelera Financiamento Climático Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_cop30_20.11.2025-300x200.jpg",
-        "date": "20/11/2025",
-        "description": "Compromisso é de reduzir o cenário de aquecimento para 2,6°C, com uma coalizão de empresas e governos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/os-hoteis-5-estrelas-mais-lendarios-do-mundo-segundo-a-forbes/",
-        "title": "Os Hotéis 5 Estrelas Mais Lendários do Mundo, Segundo a Forbes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Raffles-Hotel-Singapore-300x200.jpg",
-        "date": "20/11/2025",
-        "description": "Forbes Travel Guide apresenta a Hotel Icons List, uma nova homenagem concedida a 23 hotéis históricos"
     }
 ]
