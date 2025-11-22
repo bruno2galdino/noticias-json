@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/neoenergia-vende-hidreletrica-por-r-25-bilhoes-e-mantem-participacao-estrategica/",
+        "title": "Neoenergia Vende Hidrelétrica por R$ 2,5 Bilhões e Mantém Participação Estratégica",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_neoenergia_foto_Divulgacao_22.11.2025-300x200.jpg",
+        "date": "22/11/2025",
+        "description": "Companhia reinvestirá R$ 93,5 milhões para deter 25% de participação indireta na usina"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/precos-globais-do-cafe-despencam-apos-trump-remover-tarifas-sobre-brasil/",
+        "title": "Preços Globais do Café Despencam Após Trump Remover Tarifas Sobre Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cafe_planta_graos_foto_Reuters_22.11.2025-300x200.jpg",
+        "date": "22/11/2025",
+        "description": "Os futuros de café arábica na bolsa ICE fecharam em baixa de quase 2% (mínimas de dois meses)"
+    },
+    {
         "url": "https://forbes.com.br/forbeswsb/2025/11/uma-pequena-destilaria-numa-pequena-cidade-produziu-o-melhor-uisque-de-centeio-do-mundo/",
         "title": "Uma Pequena Destilaria, Numa Pequena Cidade, Produziu o Melhor Uísque de Centeio do Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/GrainHenge-Arrowwood-Rye-was-named-Best-Rye-at-the-2025-World-Whiskies-Awards.-Courtesy-of-GrainHenge-Whisky-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cerveja_foto_GettyImages_21.11.2025-1-300x200.jpg",
         "date": "22/11/2025",
         "description": "O método alcançou 72% de alpha-ácidos no extrato contra apenas 9% da extração tradicional"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/ibovespa-fecha-em-queda-e-registra-1a-perda-semanal-desde-comeco-de-outubro/",
-        "title": "Ibovespa Fecha em Queda e Registra 1ª Perda Semanal desde Começo de Outubro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "21/11/2025",
-        "description": "Índice de referência do mercado acionário brasileiro, o Ibovespa recuou 0,41%, a 154.744,06 pontos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/china-reduz-plantel-de-porcas-para-menos-de-40-milhoes/",
-        "title": "China Reduz Plantel de Porcas Para Menos de 40 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_granja_suinos_china_foto_Reuters_21.11.2025-300x200.jpg",
-        "date": "21/11/2025",
-        "description": "A medida visa estabilizar o setor, que enfrenta um excesso de oferta e fraca demanda dos consumidores"
     }
 ]
