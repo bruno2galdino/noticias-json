@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-21-11.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/daniel_silva_floripa_desliza.jpg",
+        "date": "22/11/2025",
+        "description": "WTA 125 de Colina (Chile) – Saibro – US$ 115 milDuplas – Semifinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/brasil-termina-em-terceiro-lugar-na-copa-cosat-12-anos-em-lima.html",
+        "title": "Brasil termina em terceiro lugar na Copa Cosat 12 anos em Lima",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/brasil_copacosat12_2025_trofeu-1024x775.jpg",
+        "date": "21/11/2025",
+        "description": "Lima (Peru) –O Brasil encerrou sua campanha na Copa Cosat 12 Anos com uma vitória sobre o Peru nesta sexta-feira e garantiu o terceiro lugar da competição realizada em Lima."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pedro-dietrich-e-finalista-em-chiclayo-guto-miguel-cai-na-semi-no-mexico.html",
+        "title": "Pedro Dietrich é finalista em Chiclayo, Guto Miguel cai na semi no México",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/pedro_dietrich_itajai_back-1024x683.jpg",
+        "date": "21/11/2025",
+        "description": "Chiclayo (Peru) –O juvenil gaúcho Pedro Dietrich está na final do ITF J60 de Chiclayo, em quadras de saibro no Peru. Principal cabeça de chave, ele venceu o peruano Alessandro Rubini por 3/6, 6/1 e 7/6 (7-4)."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/rune-tenta-manter-rotina-de-treinos-mesmo-com-limitacoes.html",
         "title": "Rune tenta manter rotina de treinos, mesmo com limitações",
         "image": null,
@@ -12,13 +33,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/copa_federacoes_beach_aberto-1024x576.jpg",
         "date": "21/11/2025",
         "description": "Fortaleza (CE) –A décima Copa das Federações de Beach Tennis entra em sua fase semifinal nesta sexta-feira, movimentando a arena instalada no Aterro da Praia de Iracema. Após uma semana de confrontos intensos entre atletas de todas as regiões do país, as federações que seguem na disputa avançam para a definição dos finalistas da maior competição nacional por equipes da modalidade. A grande final acontece neste sábado, com transmissão ao vivo pela RedeTV."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-21-11.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/daniel_silva_floripa_desliza.jpg",
-        "date": "21/11/2025",
-        "description": "WTA 125 de Colina (Chile) – Saibro – US$ 115 milDuplas – Semifinal –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/pigossi-cai-na-semifinal-de-duplas-ao-lado-de-espanhola-em-colina.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/blog_duplas_2026.jpg",
         "date": "21/11/2025",
         "description": "O final de temporada, período em que os tenistas entram em curtas e merecidas férias antes de iniciar a fase de preparação para o calendário seguinte, tem sido de grandes notícias para o tênis brasileiro. Especialmente nas duplas."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/aos-32-anos-dennis-novak-anuncia-aposentadoria.html",
-        "title": "Aos 32 anos, Dennis Novak anuncia aposentadoria",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/dennis-novak-e1763752427791-1024x683.jpg",
-        "date": "21/11/2025",
-        "description": "Viena (Áustria)– O austríaco Dennis Novak anunciou sua aposentadoria do tênis profissional esta semana. O jogador de 32 anos, que alcançou o 85º lugar no ranking mundial em 2020, compartilhou a notícia no Instagram ."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/medrado-e-gebara-sao-campeas-do-us-national-de-pickleball.html",
-        "title": "Medrado e Gebara são campeãs do US National de pickleball",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/medrado_gebara_national_pickle.jpg",
-        "date": "21/11/2025",
-        "description": "San Diego (EUA)– A parceria formada por Patrícia Medrado e Deborah Gebara obteve um grande resultado para o pickleball brasileiro. Elas receberam convite para disputar o US National, realizado durante a semana na Califórinia, e conquistaram o título da faixa dos 60 mais, nível 5.0."
     }
 ]
