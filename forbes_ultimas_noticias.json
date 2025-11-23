@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/como-e-viver-com-um-dos-rolls-royce-mais-luxuosos-do-mundo/",
+        "title": "Como É Viver com um dos Rolls-Royce Mais Luxuosos do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/P90585533_highRes_rolls-royce-phantom-1-300x200.jpg",
+        "date": "23/11/2025",
+        "description": "Sentar-se atrás do grande volante do Rolls-Royce Phantom é algo especial. Na ponta de seu longo capô está a mascote Spirit of Ecstasy, cortando o ar"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/11/por-que-conhecidos-podem-impulsionar-sua-carreira-mais-do-que-amigos-proximos/",
+        "title": "Por Que Conhecidos Impulsionam Sua Carreira Mais do Que Amigos Próximos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/carreira-networking-1-e1657232358916-300x200.jpg",
+        "date": "23/11/2025",
+        "description": "Veja como os “laços fracos” influenciam sua trajetória de maneiras que os vínculos profundos muitas vezes não conseguem"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/8-dicas-para-evitar-golpes-na-black-friday-e-poupar-seu-dinheiro/",
+        "title": "8 Dicas para Evitar Golpes na Black Friday e Poupar Seu Dinheiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-35-300x200.jpg",
+        "date": "23/11/2025",
+        "description": "Em 2025, a sexta-feira que promete ter as melhores ofertas do ano está programada para acontecer no dia 28 de novembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/bilionarios-entram-na-filantropia-coletiva-da-coefficient-giving/",
+        "title": "Bilionários Entram na Filantropia Coletiva da Coefficient Giving",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/money-casal-COEFFICIENT-GIVING-300x200.jpg",
+        "date": "23/11/2025",
+        "description": "O cofundador do Facebook Dustin Moskovitz e sua esposa, Cari Tuna, criaram a Open Philanthropy. Agora, Coefficient Giving"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/amor-programado-a-explosao-de-relacionamentos-com-ia/",
+        "title": "Amor Programado? a Explosão de Relacionamentos com IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/IA-Relacionamentos-300x200.png",
+        "date": "23/11/2025",
+        "description": "Nos Estados Unidos, cerca de 28% dos adultos disseram já ter tido ao menos um relacionamento íntimo ou romântico com uma IA, afirma estudo realizado pela Vantage Point Counseling Services"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/under-30-europeia-aposta-em-fibra-reciclavel-feita-a-partir-do-amido-de-milho-e-trigo/",
+        "title": "Under 30 Europeia Aposta em Fibra Reciclável Feita a Partir do Amido de Milho e Trigo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_trad_noosa_foto_Divulgacao_Noosa_23.11.2025-300x200.jpg",
+        "date": "23/11/2025",
+        "description": "Fundada pela belga Luna Aslan, a Noosa prepara sua tecnologia para o mercado de vestuário de trabalho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/com-kondzilla-gr6-e-flint-openai-leva-ia-para-periferias-brasileiras/",
+        "title": "Com KondZilla, GR6 e Flint, OpenAI Leva IA Para Periferias Brasileiras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/OPENAI-300x200.jpg",
+        "date": "23/11/2025",
+        "description": "Projeto Mutirão AI conta com aulas, workshops e treinamentos, além de um programa de EAD"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/o-tesouro-oculto-da-turquia-fica-no-mar-negro/",
+        "title": "O Tesouro Oculto da Turquia Fica no Mar Negro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/01/Life_A-costa-do-Mar-Negro-perto-de-Istambul-varia-de-praias-populares-de-areia-branca-a-enseadas-rochosas-isoladas-300x200.jpg",
+        "date": "23/11/2025",
+        "description": "Poucos turistas conhecem esta região na costa turca, região repleta de belezas naturais, história milenar e tradições únicas"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/11/707oc-e-o-que-disse-na-cop30-o-pais-com-recorde-de-temperatura-na-terra/",
         "title": "70,7ºC e o Que Disse na COP30 o País com Recorde de Temperatura na Terra",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/deserto_d-_Lut_Irao_21nov25_Alireza-Firouzi_Getty-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/esg_turquia_vice_presidente_foto_Anadolu_GettyImages_24.11.2025-300x200.jpg",
         "date": "22/11/2025",
         "description": "O acordo resolve um longo impasse e foi divulgado pelo Grupo da Europa Ocidental e Outros na COP30"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/11/governo-reduz-contencao-de-gastos-para-r-77-bilhoes-e-mira-o-piso-da-meta/",
-        "title": "Governo Reduz Contenção de Gastos Para R$ 7,7 Bilhões e Mira o Piso da Meta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/money_ministerio_fazenda_foto_diegograndi_GettyImages_24.11.2025-300x200.jpg",
-        "date": "22/11/2025",
-        "description": "A contenção é composta por um bloqueio de R$ 4,4 bilhões e um contingenciamento de R$ 3,3 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/queremos-ser-uma-trading-brasileira-com-capilaridade-global-diz-socio-fundador-da-timbro/",
-        "title": "“Queremos Ser uma Trading Brasileira com Capilaridade Global”, Diz Sócio-fundador da Timbro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Bruno_Russo_21nov25_TT_Divulg-1-300x200.jpg",
-        "date": "22/11/2025",
-        "description": "Na série Forbes Agro100, Bruno Russo conta como a empresa saiu de uma receita de R$ 2,5 bi, fez R$ 14 bi em 2024 e projeta até R$ 25 bi para 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/cop30-chega-a-acordo-provisorio-e-define-triplicar-financiamento-de-adaptacao/",
-        "title": "COP30 Chega a Acordo Provisório e Define Triplicar Financiamento de Adaptação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cop30_foto_picture-alliance_GettyImages_22.11.2025-300x200.jpg",
-        "date": "22/11/2025",
-        "description": "Financiamento de adaptação para países em desenvolvimento deve ser feito até 2035"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/neoenergia-vende-hidreletrica-por-r-25-bilhoes-e-mantem-participacao-estrategica/",
-        "title": "Neoenergia Vende Hidrelétrica por R$ 2,5 Bilhões e Mantém Participação Estratégica",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_neoenergia_foto_Divulgacao_22.11.2025-300x200.jpg",
-        "date": "22/11/2025",
-        "description": "Companhia reinvestirá R$ 93,5 milhões para deter 25% de participação indireta na usina"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/precos-globais-do-cafe-despencam-apos-trump-remover-tarifas-sobre-brasil/",
-        "title": "Preços Globais do Café Despencam Após Trump Remover Tarifas Sobre Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cafe_planta_graos_foto_Reuters_22.11.2025-300x200.jpg",
-        "date": "22/11/2025",
-        "description": "Os futuros de café arábica na bolsa ICE fecharam em baixa de quase 2% (mínimas de dois meses)"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/11/uma-pequena-destilaria-numa-pequena-cidade-produziu-o-melhor-uisque-de-centeio-do-mundo/",
-        "title": "Uma Pequena Destilaria, Numa Pequena Cidade, Produziu o Melhor Uísque de Centeio do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GrainHenge-Arrowwood-Rye-was-named-Best-Rye-at-the-2025-World-Whiskies-Awards.-Courtesy-of-GrainHenge-Whisky-300x200.jpg",
-        "date": "22/11/2025",
-        "description": "GrainHenge Whisky, de Red Deer, em Alberta, vence o prêmio de World’s Best Rye no World Whiskies Awards 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/bentayga-speed-o-suv-da-bentley-com-espirito-de-muscle-car/",
-        "title": "Bentayga Speed: o SUV da Bentley com Espírito de Muscle Car",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Bentayga-Speed-11-300x200.jpg",
-        "date": "22/11/2025",
-        "description": "Visto de fora, o único traço real que denuncia a personalidade de alta performance do Bentayga Speed é a discreta identificação “Speed”"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/como-dois-irmaos-levaram-o-cafe-vulcanico-de-el-salvador-para-as-garrafas-de-licor/",
-        "title": "Como Dois Irmãos Levaram o Café Vulcânico de El Salvador para as Garrafas de Licor",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_licor-cafe_13nov25_Quaker-City-Mercantile-300x200.jpg",
-        "date": "22/11/2025",
-        "description": "Conheça a história de Jose e Andres Larin, produtores nas encostas dos vulcões Santa Ana e Izalco que dizem estar \"engarrafando gerações de um legado familiar\""
     }
 ]
