@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/11/bar-tematico-de-mariah-carey-retorna-e-amplia-operacao-nos-eua/",
+        "title": "Bar Temático de Mariah Carey Retorna e Amplia Operação nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Esses-bares-tematicos-de-Natal-abrirao-em-meados-de-novembro-em-cidades-selecionadas-por-todo-o-pais-300x200.jpg",
+        "date": "24/11/2025",
+        "description": "Aberturas acontecem em novembro em Nova York, Los Angeles, Miami e Las Vegas, com menus próprios e espaços interativos em cada local"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/fracasso-dos-testes-de-semaglutida-abala-novo-nordisk/",
+        "title": "Fracasso dos Testes de Semaglutida Para Alzheimer Desaba Ações da Novo Nordisk",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-24T150439Z_1_LYNXMPELAN0QJ_RTROPTP_4_NOVO-NORDISK-300x200.jpg",
+        "date": "24/11/2025",
+        "description": "Ensaios com 3.808 pacientes falham em retardar Alzheimer e levam ações da farmacêutica ao menor nível desde 2021"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/amazon-investe-us-50-bilhoes-em-infraestrutura-de-ia-governamental/",
         "title": "Amazon Investe US$ 50 Bilhões em Infraestrutura de IA Governamental",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_amazon_chris_atkins_06.11.2025-2-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_foto_GettyImages_24.11.2025-300x200.jpg",
         "date": "24/11/2025",
         "description": "O atraso na soja impõe uma janela mais apertada para a semeadura da safrinha de milho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/usda-anuncia-prazo-de-duas-semanas-para-finalizar-ajuda-a-agricultores/",
-        "title": "USDA Anuncia Prazo de Duas Semanas Para Finalizar Ajuda a Agricultores",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_foto_Reuters_24.11.2025-300x200.jpg",
-        "date": "24/11/2025",
-        "description": "A expectativa é que o acordo com a China finalize a retomada das compras de soja"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/sol-em-sagitario-conheca-as-recomendacoes-para-o-seu-dinheiro/",
-        "title": "Sol em Sagitário: Conheça as Recomendações para o Seu Dinheiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2019/12/9-1.jpg",
-        "date": "24/11/2025",
-        "description": "Período é favorável para assumir riscos calculados, propor projetos e buscar novos caminhos"
     }
 ]
