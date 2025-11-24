@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/cota-de-exportacao-de-acucar-da-india-fica-em-risco-por-precos-globais-baixos/",
+        "title": "Cota de Exportação de Açúcar da Índia Fica em Risco por Preços Globais Baixos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cana_de_acucar_foto_Reuters_24.11.2025-300x200.jpg",
+        "date": "24/11/2025",
+        "description": "Usinas enfrentam dificuldades para exportar, com os preços globais de cerca de US$ 25 por tonelada"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/ia-e-novo-clube-nuclear-diz-vice-presidente-de-tecnologia-russo/",
+        "title": "IA É \"Novo Clube Nuclear\", Diz Vice-presidente de Tecnologia Russo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/IA-Soberana-2-300x200.png",
+        "date": "24/11/2025",
+        "description": "Para Alexander Vedyakhin, vice-presidente do Sberbank, a inteligência artificial concederá uma influência equivalente à da tecnologia nuclear aos países que conseguirem sair na frente"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/bhp-abandona-plano-de-comprar-rival-anglo-american/",
+        "title": "BHP Abandona Plano de Comprar Rival Anglo American",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/bhp-300x200.jpg",
+        "date": "24/11/2025",
+        "description": "Anúncio foi feito em um comunicado à bolsa de valores da Austrália, após a divulgação da notícia sobre as negociações"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/iberdrola-faz-oferta-para-fechar-capital-da-neoenergia-a-r-325-por-acao/",
         "title": "Iberdrola Faz Oferta para Fechar Capital da Neoenergia a R$ 32,5 por Ação",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/neoenergia-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/IA-Soberana-300x200.png",
         "date": "24/11/2025",
         "description": "Enquanto a inteligência artificial evolui, nações como o Brasil precisam olhar com cuidado para políticas e regulamentações que garantam que esse avanço traga benefícios reais para a economia e os cidadãos"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/11/brasil-avanca-na-estrategia-global-da-reckitt-em-saude/",
-        "title": "Brasil Avança na Estratégia Global de Marketing e Produtos da Reckitt em Saúde",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/RECKITT_MARIANA-BUENO-2-300x200.png",
-        "date": "24/11/2025",
-        "description": "Com ampliação de 60% no investimento médico e farmacêutico e presença nacional reforçada, país se torna laboratório estratégico para novos modelos globais da companhia"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/salao-do-automovel-de-sao-paulo-5-supercarros-milionarios-para-ver-no-lounge-dos-sonhos/",
-        "title": "Salão do Automóvel de SP: 5 Supercarros Milionários para Ver no Lounge dos Sonhos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/P90581998_highRes_rolls-royce-black-ba-1-1-300x200.jpg",
-        "date": "24/11/2025",
-        "description": "O Salão Internacional do Automóvel de São Paulo volta a ocupar o Distrito Anhembi, em sua 31ª edição, que vai até o dia 30 de novembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/por-que-agricultores-estao-usando-paineis-solares-para-aumentar-a-producao-no-campo/",
-        "title": "Por que Agricultores Estão Usando Painéis Solares para Aumentar a Produção no Campo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_trad_paineis_solares_foto_Alex_Potemkin_GettyImages_24.11.2025-300x200.jpg",
-        "date": "24/11/2025",
-        "description": "Estudos mostram ainda que as fazendas emitem 69% menos CO2 e exigem muito menos energia fóssil"
     }
 ]
