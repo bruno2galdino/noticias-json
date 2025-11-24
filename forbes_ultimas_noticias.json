@@ -1,10 +1,17 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/state-grid-compra-linha-de-transmissao-da-brookfield-por-r-7-bilhoes/",
+        "title": "State Grid Compra Linha de Transmissão da Brookfield por R$ 7 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-59-300x200.jpg",
+        "date": "24/11/2025",
+        "description": "Aquisição da linha Mantiqueira inclui 1.204 km de linhas e 18 subestações e aumenta interesse da China no segmento local"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/alta-das-acoes-do-google-faz-com-que-larry-page-ultrapasse-larry-ellison-e-se-torne-o-2o-mais-rico-do-mundo/",
         "title": "Fundador do Google, Larry Page Passa a Ser o 2º Mais Rico do Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2024/11/Pessoas-mais-ricas-do-mundo_Larry-Page-300x200.jpg",
         "date": "24/11/2025",
-        "description": null
+        "description": "Avanço da IA, expansão da nuvem e rali das ações elevam Page ao segundo lugar entre os mais ricos"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/11/coragem-e-delicadeza-podem-ocupar-o-mesmo-espaco-diz-clemilda-thome-sobre-trajetoria-revista-no-livro-afortunada/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-24T150439Z_1_LYNXMPELAN0QJ_RTROPTP_4_NOVO-NORDISK-300x200.jpg",
         "date": "24/11/2025",
         "description": "Medicamentos como semaglutida e tirzepatida, estão sendo testados em condições que vão de Alzheimer e doenças cardíacas a distúrbios hepáticos e apneia do sono"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/chuvas-irregulares-no-cerrado-marcam-safra-de-soja-25-26-do-brasil-diz-agrural/",
-        "title": "Chuvas Irregulares no Cerrado Marcam Safra de Soja 25/26 do Brasil, Diz AgRural",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-24T121846Z_1_LYNXMPELAN0JD_RTROPTP_3_USA-AGRICULTURE-GENERICS-300x200.jpg",
-        "date": "24/11/2025",
-        "description": "AgRural aponta preocupação com a irregularidade das chuvas em Mato Grosso e Goiás, afetando o plantio e comprometendo a janela para a safrinha de milho"
     }
 ]
