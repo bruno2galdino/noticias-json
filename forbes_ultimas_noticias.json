@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-collab/2025/11/um-mundo-silenciosamente-mais-caro/",
+        "title": "Um Mundo Silenciosamente Mais Caro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-981747000-300x200.jpg",
+        "date": "24/11/2025",
+        "description": "A expansão silenciosa da liquidez global pós-subprime distorceu preços, inflou ativos e tornou a vida cotidiana discretamente mais cara"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/plantio-de-soja-acelera-para-81-mas-centro-oeste-sofre-com-chuva-irregular/",
+        "title": "Plantio de Soja Acelera para 81%, Mas Centro-Oeste Sofre com Chuva Irregular",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_foto_GettyImages_24.11.2025-300x200.jpg",
+        "date": "24/11/2025",
+        "description": "O atraso na soja impõe uma janela mais apertada para a semeadura da safrinha de milho"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/usda-anuncia-prazo-de-duas-semanas-para-finalizar-ajuda-a-agricultores/",
+        "title": "USDA Anuncia Prazo de Duas Semanas Para Finalizar Ajuda a Agricultores",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_foto_Reuters_24.11.2025-300x200.jpg",
+        "date": "24/11/2025",
+        "description": "A expectativa é que o acordo com a China finalize a retomada das compras de soja"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/sol-em-sagitario-conheca-as-recomendacoes-para-o-seu-dinheiro/",
+        "title": "Sol em Sagitário: Conheça as Recomendações para o Seu Dinheiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2019/12/9-1.jpg",
+        "date": "24/11/2025",
+        "description": "Período é favorável para assumir riscos calculados, propor projetos e buscar novos caminhos"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/cota-de-exportacao-de-acucar-da-india-fica-em-risco-por-precos-globais-baixos/",
         "title": "Cota de Exportação de Açúcar da Índia Fica em Risco por Preços Globais Baixos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_cana_de_acucar_foto_Reuters_24.11.2025-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-1160470458-300x200.jpg",
         "date": "24/11/2025",
         "description": "Músico jamaicano ganhou dois Grammys, lançou dezenas de álbuns e construiu forte relação com o público brasileiro ao longo de cinco décadas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-investidor-comeca-semana-calculando-chance-de-juro-mais-baixo/",
-        "title": "Pré-mercado: Investidor Começa Semana Calculando Chance de Juro Mais Baixo",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "24/11/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 24 de novembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/morena-leite-40-anos-de-capim-santo-e-o-proposito-de-mudar-o-mundo-pela-comida/",
-        "title": "Morena Leite: 40 Anos de Capim Santo e o Propósito de Mudar o Mundo Pela Comida",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Morena-sempre-de-verde-e-branco-em-seu-restaurante-oasis-Capim-Santo-que-desembarcou-em-Sao-Paulo-em-1998-300x200.jpg",
-        "date": "24/11/2025",
-        "description": "À frente de um império gastronômico que une Trancoso e São Paulo, a chef fala sobre propósito, espiritualidade e a maturidade de liderar mais de 500 colaboradores sem perder o sabor da origem"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/11/do-que-e-feito-o-punho-da-vitoria-de-maria-sharapova/",
-        "title": "As 5 Regras de Maria Sharapova para Vencer Dentro e Fora das Quadras",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/maria-sharapova-tenis-300x200.jpg",
-        "date": "24/11/2025",
-        "description": "Em entrevista exclusiva, atleta revela as regras que moldaram sua trajetória dentro e fora das quadras"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/o-papel-decisivo-das-parcerias-publico-privadas-para-a-ia-soberana-no-brasil/",
-        "title": "O Papel Decisivo das Parcerias Público-privadas para a IA Soberana no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/IA-Soberana-300x200.png",
-        "date": "24/11/2025",
-        "description": "Enquanto a inteligência artificial evolui, nações como o Brasil precisam olhar com cuidado para políticas e regulamentações que garantam que esse avanço traga benefícios reais para a economia e os cidadãos"
     }
 ]
