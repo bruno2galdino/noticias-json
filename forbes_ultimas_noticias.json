@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/alta-das-acoes-do-google-faz-com-que-larry-page-ultrapasse-larry-ellison-e-se-torne-o-2o-mais-rico-do-mundo/",
+        "title": "Fundador do Google, Larry Page Passa a Ser o 2º Mais Rico do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/Pessoas-mais-ricas-do-mundo_Larry-Page-300x200.jpg",
+        "date": "24/11/2025",
+        "description": null
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/coragem-e-delicadeza-podem-ocupar-o-mesmo-espaco-diz-clemilda-thome-sobre-trajetoria-revista-no-livro-afortunada/",
+        "title": "“Coragem e Delicadeza Podem Ocupar o Mesmo Espaço”, Diz Clemilda Thomé sobre Trajetória Revista no Livro “Afortunada”",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.A-empresaria-Dra.-Clemilda-Thome-que-lanca-o-livro-_Afortunada_-Unno_Buzz-Editora-nesta-segunda-feira-24.11-em-Sao-Paulo-300x200.jpg",
+        "date": "24/11/2025",
+        "description": "Com lançamento nesta segunda-feira (24/11), em São Paulo, publicação revela os bastidores da vida pessoal e profissional da Mulher de Sucesso"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/frida-kahlo-se-torna-artista-mulher-com-obra-mais-cara-ja-vendida-na-historia/",
+        "title": "Frida Kahlo se Torna Artista Mulher com Obra Mais Cara Já Vendida na História",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Caso-estivesse-viva-Frida-Kahlo-completaria-115-anos-300x200.jpg",
+        "date": "24/11/2025",
+        "description": "Leilão de “El sueño (La cama)” atinge US$ 54,7 milhões na Sotheby’s e estabelece novo recorde"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/11/bar-tematico-de-mariah-carey-retorna-e-amplia-operacao-nos-eua/",
         "title": "Bar Temático de Mariah Carey Retorna e Amplia Operação nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Esses-bares-tematicos-de-Natal-abrirao-em-meados-de-novembro-em-cidades-selecionadas-por-todo-o-pais-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-24T121846Z_1_LYNXMPELAN0JD_RTROPTP_3_USA-AGRICULTURE-GENERICS-300x200.jpg",
         "date": "24/11/2025",
         "description": "AgRural aponta preocupação com a irregularidade das chuvas em Mato Grosso e Goiás, afetando o plantio e comprometendo a janela para a safrinha de milho"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/11/empresas-dos-eua-mantem-posicao-nas-negociacoes-climaticas-apesar-de-trump/",
-        "title": "Empresas dos EUA Mantêm Posição nas Negociações Climáticas Apesar de Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-24T160344Z_1_LYNXMPELAN0SS_RTROPTP_4_CLIMA-COP30-EMPRESAS-NEGOCIACOES-300x200.jpg",
-        "date": "24/11/2025",
-        "description": "O evento no Brasil contou com 60 representantes de empresas da Fortune 100, superando os 50 do ano passado em Baku"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-collab/2025/11/um-mundo-silenciosamente-mais-caro/",
-        "title": "Um Mundo Silenciosamente Mais Caro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-981747000-300x200.jpg",
-        "date": "24/11/2025",
-        "description": "A expansão silenciosa da liquidez global pós-subprime distorceu preços, inflou ativos e tornou a vida cotidiana discretamente mais cara"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/plantio-de-soja-acelera-para-81-mas-centro-oeste-sofre-com-chuva-irregular/",
-        "title": "Plantio de Soja Acelera para 81%, Mas Centro-Oeste Sofre com Chuva Irregular",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_foto_GettyImages_24.11.2025-300x200.jpg",
-        "date": "24/11/2025",
-        "description": "O atraso na soja impõe uma janela mais apertada para a semeadura da safrinha de milho"
     }
 ]
