@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/11/policia-francesa-detem-mais-quatro-suspeitos-do-roubo-de-joias-no-louvre/",
+        "title": "Polícia Francesa Detém Mais Quatro Suspeitos do Roubo de Joias no Louvre",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-500013561-300x200.jpg",
+        "date": "25/11/2025",
+        "description": "Entre os detidos estaria o último suspeito da invasão, enquanto as joias milionárias seguem sem qualquer pista"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/nvidia-recua-enquanto-meta-avalia-chips-de-ia-do-google/",
         "title": "Nvidia Recua Enquanto Meta Avalia Chips De IA Do Google",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/2-23-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/0x0-1-2-300x200.webp",
         "date": "25/11/2025",
         "description": "Manter o amor em um relacionamento muitas vezes se resume a uma negociação sincera e inteligente"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/brasil-e-ia-puxam-retomada-das-startups-na-america-latina-em-2024/",
-        "title": "Brasil e IA Puxam Retomada das Startups Na América Latina em 2024",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-60-300x200.jpg",
-        "date": "25/11/2025",
-        "description": "País concentrou 62% das rodadas de equity e 153 transações de M&A, reforçando liderança regional em inovação"
     }
 ]
