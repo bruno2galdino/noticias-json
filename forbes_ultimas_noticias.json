@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/brandvoice-privacy-tools-black-friday-e-protecao-de-dados-como-a-privacidade-se-tornou-essencial-para-a-confianca-do-consumidor/",
+        "title": "Black Friday e Proteção de Dados: Como a Privacidade se Tornou Essencial para a Confiança do Consumidor",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Imagem-Ilustrativa-Black-Friday-300x200.jpg",
+        "date": "25/11/2025",
+        "description": "Quando o volume de vendas cresce, a responsabilidade sobre os dados cresce junto"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/11/9-licoes-fundamentais-para-relacionamentos-duradouros/",
+        "title": "9 Lições da Ciência da Negociação para Relacionamentos Duradouros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0x0-1-2-300x200.webp",
+        "date": "25/11/2025",
+        "description": "Manter o amor em um relacionamento muitas vezes se resume a uma negociação sincera e inteligente"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/brasil-e-ia-puxam-retomada-das-startups-na-america-latina-em-2024/",
         "title": "Brasil e IA Puxam Retomada das Startups Na América Latina em 2024",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-60-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/IAGOOGLE-300x200.jpg",
         "date": "25/11/2025",
         "description": "Os experimentos foram identificados, nos últimos dias, por especialistas em SEO nos Estados Unidos; em maio deste ano, empresa já havia oficializado a possibilidade"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/11/trabalhar-podera-mesmo-se-tornar-opcional-como-afirma-elon-musk/",
-        "title": "Trabalhar Será Mesmo Opcional, Como Prevê Elon Musk?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/trabalho-opcional-ia--300x200.jpg",
-        "date": "25/11/2025",
-        "description": "Segundo o bilionário, a IA deverá tornar o trabalho desnecessário e o dinheiro, irrelevante"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/a-fazenda-onde-o-ia-ia-oh-virou-inteligencia-artificial/",
-        "title": "A Fazenda Onde o “iá iá ôh” Virou Inteligência Artificial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Grand-Farm__22nov25_-Grand-Farm_Divulg-300x200.jpg",
-        "date": "25/11/2025",
-        "description": "Conheça a Grand Farm, em Dakota do Norte, que está cultivando educação em torno de sistemas autônomos habilitados por I.A. e que vão alimentar o mundo"
     }
 ]
