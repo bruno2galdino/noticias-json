@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/11/taco-bell-sera-conhecida-de-norte-a-sul-do-brasil-diz-novo-ceo/",
+        "title": "“Taco Bell Será Conhecida de Norte a Sul do Brasil”, Diz Novo CEO",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/carreira-tito-barroso-taco-bell-300x200.jpg",
+        "date": "25/11/2025",
+        "description": "Tito Barroso assume em janeiro de 2026, quando a Yum! Brands, também dona de KFC e Pizza Hut, passa a ser a master franqueada no país"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-mais-diretores-do-fed-defendem-corte-de-juros-americanos/",
+        "title": "Pré-mercado: Mais Diretores do FED Defendem Corte de Juros Americanos",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "25/11/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 25 de novembro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/os-8-carros-de-luxo-que-todo-milionario-deveria-ter-na-garagem/",
         "title": "Os 8 Carros de Luxo Que Todo Milionário Deveria Ter na Garagem",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/P90581998_highRes_rolls-royce-black-ba-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Julie-Macklowe_24nov25Patrick-McMullan-via-Getty-Images-300x200.jpg",
         "date": "25/11/2025",
         "description": "Criadora da marca de uísque ultrapremium The Macklowe anuncia uma nova coleção que acaba de ser apresentada"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/os-ingredientes-que-vao-ditar-as-tendencias-de-skincare-em-2026/",
-        "title": "Os Ingredientes Que Vão Ditar as Tendências de Skincare em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Especialistas-preveem-que-os-pos-bioticos-serao-protagonistas-na-nova-onda-de-cuidados-com-a-pele-baseados-no-microbioma-300x200.jpg",
-        "date": "25/11/2025",
-        "description": "Dermatologistas apresentam ingredientes que tendem a aparecer amplamente nos cuidados com a pele no ano que vem"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/crise-de-trilhoes-quanto-o-mercado-perderia-se-uma-bolha-das-acoes-de-ia-estourasse/",
-        "title": "Crise de Trilhões: Quanto o Mercado Perderia se uma “Bolha” das Ações de IA Estourasse?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/forbes-IA-inteligencia-artificial-carreira-300x200.jpg",
-        "date": "25/11/2025",
-        "description": "Um colapso semelhante ao das “ponto com” reduziria o consumo das famílias americanas em torno de US$ 500 bilhões (R$ 2,6 trilhões)"
     }
 ]
