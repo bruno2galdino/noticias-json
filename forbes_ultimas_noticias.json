@@ -1,8 +1,15 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/stonex-reduz-em-1-previsao-para-safra-de-algodao-25-26-do-brasil/",
+        "title": "StoneX Reduz em 1% Previsão para Safra de Algodão 25/26 do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_algodao_fardos_05nov25_Lucas-Ninno_Getty-300x200.jpg",
+        "date": "25/11/2025",
+        "description": "Se confirmado, o volume representaria uma queda de 11% ante o ano anterior"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/11/policia-francesa-detem-mais-quatro-suspeitos-do-roubo-de-joias-no-louvre/",
         "title": "Polícia Francesa Detém Mais Quatro Suspeitos do Roubo de Joias no Louvre",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-500013561-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/louvre-300x200.png",
         "date": "25/11/2025",
         "description": "Entre os detidos estaria o último suspeito da invasão, enquanto as joias milionárias seguem sem qualquer pista"
     },
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Imagem-Ilustrativa-Black-Friday-300x200.jpg",
         "date": "25/11/2025",
         "description": "Quando o volume de vendas cresce, a responsabilidade sobre os dados cresce junto"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/11/9-licoes-fundamentais-para-relacionamentos-duradouros/",
-        "title": "9 Lições da Ciência da Negociação para Relacionamentos Duradouros",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0x0-1-2-300x200.webp",
-        "date": "25/11/2025",
-        "description": "Manter o amor em um relacionamento muitas vezes se resume a uma negociação sincera e inteligente"
     }
 ]
