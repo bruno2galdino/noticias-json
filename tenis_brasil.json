@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-26-10.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/candiotto_ecp_back25.jpg",
-        "date": "26/11/2025",
-        "description": "Challenger de Temuco (Chile) – Sintético – US$ 160 milDuplas – Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/brasil-tera-a-primeira-academia-de-nadal-da-america-do-sul.html",
         "title": "Brasil terá a primeira academia de Nadal da América do Sul",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/rafa_nadal_academy_portobelo-1024x576.jpg",
@@ -19,6 +12,13 @@
         "image": null,
         "date": "26/11/2025",
         "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-26-10.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/candiotto_ecp_back25.jpg",
+        "date": "26/11/2025",
+        "description": "Challenger de Temuco (Chile) – Sintético – US$ 160 milDuplas – Primeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/italianos-conquistam-11-torneios-da-atp-so-alcaraz-venceu-pela-espanha.html",
