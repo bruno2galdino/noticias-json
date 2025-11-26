@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/11/projecao-de-superavit-de-acucar-de-37-milhoes-de-toneladas-pressiona-precos-internacionais/",
+        "title": "Projeção de Superávit de Açúcar de 3,7 Milhões de Toneladas Pressiona Preços Internacionais",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_colheita_acucar_26.11.2025-300x200.jpg",
+        "date": "26/11/2025",
+        "description": "O excedente é impulsionado por um aumento de 4,2% na produção mundial (197,5 milhões de toneladas)"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/acoes-da-casas-bahia-desabam-12-apos-convocar-assembleias-sobre-divida-e-aumento-de-capital/",
+        "title": "Ações da Casas Bahia Desabam 12%",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/09/Casas-Bahia-300x200.jpg",
+        "date": "26/11/2025",
+        "description": "Vice-presidente financeiro da empresa disse que o grupo estava trabalhando em algumas iniciativas para continuar melhorando a estrutura de capital"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/11/previa-da-inflacao-avanca-020-em-novembro-e-fica-no-teto-da-meta/",
         "title": "Prévia da Inflação Avança 0,20% em Novembro e Fica no Teto da Meta",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Avenida-Paulista-Masp-Economia-Money-300x200.png",
@@ -8,7 +22,7 @@
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/11/o-plano-de-neymar-pai-com-a-compra-da-marca-pele/",
-        "title": "O Plano de Neymar da Silva Santos com a Compra da Marca Pelé",
+        "title": "O Plano de Neymar Pai com a Compra da Marca Pelé",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/GettyImages-492395469-1-300x200.jpg",
         "date": "26/11/2025",
         "description": "A NR Sports, do empresário, passou a cuidar dos direitos globais de gestão, licenciamento e proteção da marca Pelé"
@@ -36,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/carreira/2025/11/einstein-e-stanford-abrem-inscricoes-para-formar-lideres-em-inovacao-na-area-da-saude/",
-        "title": "Einstein e Stanford Abrem Inscrições para Formar Líderes em Saúde",
+        "title": "Einstein e Stanford Abrem Inscrições para Formar Líderes da Saúde",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/curso-einstein-stanford-300x200.jpg",
         "date": "26/11/2025",
         "description": "Programa terá apenas oito participantes, que receberão bolsa integral e acesso a unidades de saúde públicas e privadas e laboratórios de prototipação"
@@ -49,24 +63,10 @@
         "description": "Com máquinas avançando para além da ficção, cresce o debate sobre como vamos preencher o tempo liberado por elas"
     },
     {
-        "url": "https://forbes.com.br/forbesesg/2025/11/impacto-social-como-empresaria-criou-modelo-de-negocios-para-conectar-grandes-marcas-a-comunidades/",
+        "url": "https://forbes.com.br/forbes-mulher/2025/11/impacto-social-como-empresaria-criou-modelo-de-negocios-para-conectar-grandes-marcas-a-comunidades/",
         "title": "A Empresária Que Faz a Ponte entre Empresas e Favelas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/emilia-rabello-nos-fundadora-300x200.jpg",
         "date": "26/11/2025",
         "description": "Fundadora da NÓS, Emilia Rabello já fez campanhas para marcas como Oracle, Mastercard e Ambev e gerou renda para mais de 500 mil pessoas em periferias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/lista-forbes-as-10-melhores-empresas-dos-eua/",
-        "title": "Lista Forbes: As 10 Melhores Empresas dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/carreira-trabalho-funcionarios-escritorios-300x200.jpg",
-        "date": "26/11/2025",
-        "description": "Berkshire Hathaway lidera o ranking, seguida pela Amazon, que saltou da 169ª posição no ano passado para o 2º lugar neste ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/descubra-que-viagem-fazer-em-cada-mes-de-2026/",
-        "title": "Descubra Que Viagem Fazer em Cada Mês de 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.O-Parque-Nacional-dos-Fiordes-de-Kenai-no-Alasca-e-um-dos-parques-nacionais-mais-espetaculares-do-planeta-300x200.jpg",
-        "date": "26/11/2025",
-        "description": "Do Egito ao remoto Território do Noroeste, no Canadá, confira um guia mês a mês de viagens marcantes"
     }
 ]
