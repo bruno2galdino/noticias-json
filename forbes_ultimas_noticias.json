@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/ferramenta-de-programacao-com-ia-do-google-e-hackeada-um-dia-apos-o-lancamento/",
+        "title": "Ferramenta de Programação com IA do Google É Hackeada um Dia após o Lançamento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Google_Hack_IA-300x200.png",
+        "date": "26/11/2025",
+        "description": "Problema foi detectado por um pesquisador de segurança e caracterizado como \"vulnerabilidade grave\""
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/11/em-brasilia-como-em-belem-marina-silva-batalha-para-formar-aliancas-pela-preservacao-ambiental/",
         "title": "Em Brasília, Como em Belém, Marina Silva Batalha para Formar Alianças Pela Preservação Ambiental",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-26T143022Z_1_LYNXMPELAP0T6_RTROPTP_4_CLIMA-COP30-MARINA-ANALISE-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/web-patria2.alta--300x200.jpg",
         "date": "26/11/2025",
         "description": "Movimento marca a entrada da gestora de investimentos no mercado de Fidcs, impulsionado pelo crescimento da demanda por crédito em um cenário de juros altos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/projecao-de-moagem-de-cana-se-mantem-mas-acucar-cai-em-2026-27/",
-        "title": "Projeção de Moagem de Cana Se Mantem, Mas Açúcar Cai em 2026/27",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_colheita_cana_acucar_26.11.2025-300x200.jpg",
-        "date": "26/11/2025",
-        "description": "O corte na produção implica uma reavaliação do mix de produção, favorecendo o etanol"
     }
 ]
