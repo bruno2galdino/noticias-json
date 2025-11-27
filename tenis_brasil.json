@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/guto-miguel-e-victoria-barros-avancam-as-oitavas-no-mexico.html",
+        "title": "Guto Miguel e Victória Barros avançam às oitavas no México",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/victoria_yucatan_fore-1024x683.jpg",
+        "date": "26/11/2025",
+        "description": "Merida (México) –Brasileiros mais bem colocados no ranking mundial juvenil, o goiano Guto Miguel e a potiguar Victória Barros estão nas oitavas de final do ITF J500 de Merida, em quadras de saibro no México. Os dois venceram seus jogos de segunda rodada em três sets nesta quarta-feira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/tres-brasileiros-avancam-na-chave-de-duplas-em-temuco.html",
+        "title": "Três brasileiros avançam na chave de duplas em Temuco",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/bruno_oliveira.jpg",
+        "date": "26/11/2025",
+        "description": "Temuco (Chile) –Os paulistas Matheus Pucinelli e Daniel Dutra da Silva estrearam com vitória na chave de duplas do challenger de Temuco, em quadras duras no Chile. Eles venceram o norte-americano Milledge Cossu e o chileno Anders Matta por 6/2 e 6/3."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/nana-fullana-e-pietra-estreiam-com-vitoria-do-itf-de-ribeirao-preto.html",
+        "title": "Naná, Fullana, Pietra e Candiotto estreiam com vitória em Ribeirão Preto",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pietra_ecp_fore_lado.jpg",
+        "date": "26/11/2025",
+        "description": "* Atualizado após últimos jogos do dia"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-26-10.html",
         "title": "O dia dos brasileiros: veja os resultados desta quarta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/candiotto_ecp_back25.jpg",
@@ -19,13 +40,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/mensik-miami-2025-saturday-2-1024x576.jpg",
         "date": "26/11/2025",
         "description": "Jeddah (Arábia Saudita) –O tcheco Jakub Mensik e o norte-americano Learner Tien são os dois primeiros jogadores confirmados para a edição de 2025 do Next Gen ATP Finals, que acontece entre os dias 17 e 21 de dezembro na Arábia Saudita."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/nana-fullana-e-pietra-estreiam-com-vitoria-do-itf-de-ribeirao-preto.html",
-        "title": "Naná, Fullana, Pietra e Candiotto estreiam com vitória em Ribeirão Preto",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pietra_ecp_fore_lado.jpg",
-        "date": "26/11/2025",
-        "description": "* Atualizado após últimos jogos do dia"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/brasil-tera-a-primeira-academia-de-nadal-da-america-do-sul.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/de-minaur-monte-carlo-2025-thursday-e1744303179862-1024x682.jpg",
         "date": "26/11/2025",
         "description": "Monte Carlo (Mônaco) –Uma ‘bicicleta’ aplicada por Alex de Minaur sobre Grigor Dimitrov no Masters 1000 de Monte Carlo foi o jogo mais rápido na temporada do circuito da ATP. O australiano marcou um duplo 6/0 em apenas 44 minutos e 47 segundos napartida disputada em 11 de abril, válida pelas quartas de final do torneio no saibro. A estatística leva em consideração apenas jogos completos, que não tenham terminado por desistência ou desclassificação."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/del-potro-e-alcaraz-se-encontram-em-miami-bom-te-ver-de-novo.html",
-        "title": "Del Potro e Alcaraz se encontram em Miami: “Bom te ver de novo”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/alcaraz_delpo_em-miami.jpg",
-        "date": "26/11/2025",
-        "description": "Miami (EUA) –Juan Martín Del Potro e Carlos Alcaraz encontraram-se em Miami, onde Del Potro reside. “É sempre bom te ver de novo”, publicou o argentino no Instagram. “Que bom te ver, meu amigo!”, respondeu Alcaraz."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-mensik-e-tien-sao-os-campeoes-mais-jovens-na-temporada-da-atp.html",
-        "title": "Fonseca, Mensik e Tien são os campeões mais jovens na temporada",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/fonseca_tien_nextgen.jpg",
-        "date": "26/11/2025",
-        "description": "Além de ser o caçula no top 100 do ranking mundial, João Fonseca foi também o campeão mais jovem da temporada de 2025, de acordo com o consolidado de estatísticas divulgado pela ATP. Junto com o brasileiro, os dois únicos tenistas a conquistarem títulos de primeira linha com menos de 20 anos foram o norte-americano Learner Tien e o tcheco Jakub Mensik."
     }
 ]
