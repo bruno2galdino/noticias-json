@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-cast/2025/11/revo-aposta-em-evtols-da-eve-e-lidera-nova-era-da-mobilidade-aerea/",
+        "title": "Revo Aposta em eVTOLs da Eve e Lidera Nova Era da Mobilidade Aérea",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Johann-Bordais-Eve-Joao-Welsh-Revo-300x200.jpg",
+        "date": "27/11/2025",
+        "description": "No ForbesCast, os CEOs João Welsh e Johann Bordais detalham a parceria estratégica para oferecer um modelo de deslocamento mais ágil e sustentável"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/o-que-e-e-o-que-faz-grupo-refit/",
+        "title": "O Que é e o Que Faz Grupo Refit",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-63-300x200.jpg",
+        "date": "27/11/2025",
+        "description": "Controlador da antiga Manguinhos, conglomerado soma décadas de atuação e vive novo momento com investigações e interdições"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/taci-veloso-atua-como-chair-do-gala-sao-paulo-2025-da-brazilfoundation/",
+        "title": "Taci Veloso Atua Como Chair do Gala São Paulo 2025 da BrazilFoundation",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Taciana-Veloso-socia-cofundadora-da-Index-Conectada-e-apoiadora-da-instituicao-ha-dez-anos-e-uma-das-chairs-desta-edicao-do-gala-da-BrazilFoundation-300x200.jpg",
+        "date": "27/11/2025",
+        "description": "Evento celebra 25 anos da fundação e busca arrecadar recursos para iniciativas sociais em 2026"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/gripe-aviaria-mutante-pode-superar-a-gravidade-da-covid-19-diz-instituto-pasteur/",
         "title": "Gripe Aviária Mutante Pode Superar a Gravidade da Covid-19, Diz Instituto Pasteur",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_aves_Franca_27.11.2025-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-site-Tech-61-300x200.jpg",
         "date": "27/11/2025",
         "description": "Estratégia que renegocia prazos, juros e garantias para fortalecer caixa, visa reduzir riscos e manter a saúde financeira das empresas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-a-boa-noticia-da-inflacao-de-novembro-e-o-feriado-nos-eua/",
-        "title": "Pré-mercado: a Boa Notícia da Inflação de Novembro e o Feriado nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "27/11/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 27 de novembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/jaguar-2026-o-plano-de-voltar-como-supercarro-eletrico-e-ultraluxo/",
-        "title": "Jaguar 2026: o Plano de Voltar Como Supercarro Elétrico (e Ultraluxo)",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/TYPE00_FRENCHULTRAMARINE_260325-300x200.jpg",
-        "date": "27/11/2025",
-        "description": "Se parece que a marca esteve quieta ultimamente, isso é proposital. A Jaguar está no meio de uma pausa autoimposta"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/11/james-gunn-desmente-vazamento-de-lanterna-verde-feito-com-ia/",
-        "title": "James Gunn Desmente Vazamento de Lanterna Verde Feito com IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Lanterna_Verde_IA-300x200.png",
-        "date": "27/11/2025",
-        "description": "Um par de imagens falsas começou a circular amplamente online, mostrando as estrelas da próxima série do DCU na HBO usando seus spoderes"
     }
 ]
