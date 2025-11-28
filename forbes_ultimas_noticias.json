@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/11/misci-une-cinema-e-arquitetura-para-a-colecao-do-inverno-2026/",
+        "title": "Misci Une Cinema e Arquitetura para a Coleção do Inverno 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/0.Misci-colecao-inverno-2026-desfilado-no-Cine-Maraba-em-Sao-Paulo-300x200.jpg",
+        "date": "28/11/2025",
+        "description": "Airon Martin, fundador da marca, preparou filme e parceria com Isay Weinfeld"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/desemprego-no-brasil-cai-a-54-e-renova-minima-historica/",
+        "title": "Desemprego No Brasil Cai a 5,4% e Renova Mínima Histórica",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/03/carreira-carteira-de-trabalho-300x200.jpg",
+        "date": "28/11/2025",
+        "description": "Rendimento real chega a R$ 3.528 e mantém atividade firme enquanto economistas apontam sinais de desaceleração do ciclo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/petrobras-aprova-investimento-de-us-109-bilhoes-ate-2030/",
+        "title": "Petrobras Aprova Investimento de US$ 109 Bilhões Até 2030",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_esg_money_logo_petrobras_foto_REUTERS-Sergio_Moraes_14.10.2025-1-300x200.jpg",
+        "date": "28/11/2025",
+        "description": "Estatal projeta investimentos até 2030, com nova governança e análise trimestral para destravar capital adicional"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/11/edicao-2025-do-jantar-preto-homenageou-gloria-maria/",
+        "title": "Edição 2025 do Jantar Preto Homenageou Glória Maria",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Barbara-Brito-e-Kevin-David-a-frente-do-Jantar-Preto-com-Levis-Novaes-300x200.jpg",
+        "date": "28/11/2025",
+        "description": "Bárbara Brito falou com a coluna sobre o evento, que aconteceu no Baretto"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2025/11/3-sinais-de-que-voce-esta-enfrentando-um-burnout-de-alta-funcionalidade/",
         "title": "3 Sinais de Que Você Está Enfrentando um Burnout de Alta Funcionalidade",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-Site-para-BVs-Comercial-9-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Divulgacao-Rumo-1-300x200.jpg",
         "date": "28/11/2025",
         "description": "A empresa de logística classificou o incêndio como criminoso, mas não houve feridos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/consultoria-estima-safra-de-soja-do-brasil-em-1781-milhoes-de-toneladas/",
-        "title": "Consultoria Estima Safra de Soja do Brasil em 178,1 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_colheita_no_Brasil_foto_Lucas_Ninno-gettyimages_28.11.2025-300x200.jpg",
-        "date": "28/11/2025",
-        "description": "O crescimento da área é impulsionado pela conversão de pastagens, com 85% da área semeada"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/as-10-empresa-mais-valiosas-do-mundo/",
-        "title": "As 10 Empresa Mais Valiosas do Mundo em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tech_Nvidia_9JUl2025_Getty-300x200.jpg",
-        "date": "28/11/2025",
-        "description": "A Nvidia é o grande destaque no ranking das companhias com o maior valor de mercado"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/soja-no-rio-grande-do-sul-atinge-60-com-leve-atraso-em-relacao-a-media-historica/",
-        "title": "Soja no Rio Grande do Sul Atinge 60% com Leve Atraso",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_plantio_28.11.2025-300x200.jpg",
-        "date": "28/11/2025",
-        "description": "As lavouras apresentam boa emergência e desenvolvimento inicial e com quadro fitossanitário estável"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/bc-proibe-que-instituicoes-financeiras-usem-nome-nao-relacionado-as-suas-atividades/",
-        "title": "BC Proíbe Que Instituições Financeiras Usem Nome Não Relacionado Às Suas Atividades",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/forbes-Logotipo-do-Banco-Central-do-Brasil-na-sede-da-instituicao-em-Brasilia-300x200.jpg",
-        "date": "28/11/2025",
-        "description": "Medida entra em vigor imediatamente e terá um prazo de adequação; autarquia vinha discutindo maneiras de impedir o uso de nomes que pudessem induzir clientes ao erro"
     }
 ]
