@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/falha-em-data-center-do-cme-group-congela-negociacoes-globais-de-futuros/",
+        "title": "Falha em Data Center do CME Group Congela Negociações Globais De Futuros",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-1536x1024-1-e1654788080105-300x200.jpg",
+        "date": "28/11/2025",
+        "description": "Pane na CyrusOne paralisou mercados do CME Group, travou preços de referência e suspendeu operações de contratos futuros em múltiplos ativos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-em-novembro-atipico-ibovespa-avancou-e-indices-dos-eua-cairam/",
+        "title": "Pré-mercado: em Novembro Atípico, Ibovespa Avançou e Índices dos EUA Caíram",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "28/11/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 28 de novembro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/11/sv-unico-esportivo-brasileiro-com-cara-de-formula-1-podera-rodar-nas-ruas/",
         "title": "SV Unico: Esportivo Brasileiro com Cara de Fórmula 1 Poderá Rodar nas Ruas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/last.3193-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/11/Black-Friday-cIBERSEGURANCA-300x200.png",
         "date": "28/11/2025",
         "description": "Especialistas em varejo afirmam que o consumidor passou a comparar qualquer promoção local com aquilo que pesquisava em marketplaces"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/11/black-friday-tech-ultra-premium-veja-os-devices-mais-desejados-no-brasil/",
-        "title": "Black Friday Tech: Veja os Devices Premium Mais Desejados no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/16Pro-300x200.jpg",
-        "date": "28/11/2025",
-        "description": "iPhone 16 Pro figura entre os itens mais desejados; versão de 128 GB aparece em promoções próximas de R$ 6.997, enquanto modelos com armazenamento maior têm sido oferecidos com descontos que variam entre 30% e 45%"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/regenerar-o-solo-para-regenerar-a-agricultura-propoe-a-roc-nos-eua/",
-        "title": "Regenerar o Solo para Regenerar a Agricultura, Propõe a ROA nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_produtor_solo__22nov25_-Getty-300x200.jpg",
-        "date": "28/11/2025",
-        "description": "Saiba o que diz Elizabeth Whitlow, diretora executiva fundadora e hoje integrante do conselho da Regenerative Organic Alliance"
     }
 ]
