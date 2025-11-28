@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/novembro-se-encerra-com-novo-recorde-na-b3-e-ibovespa-passa-dos-159-mil-pontos/",
+        "title": "Novembro se Encerra com Novo Recorde na B3 e Ibovespa Passa dos 159 Mil Pontos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "28/11/2025",
+        "description": "Dólar caiu com mercado internacional ainda fraco devido ao feriado nos EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/produtividade-e-digitalizacao-redefinem-o-futuro-do-agro-brasileiro/",
         "title": "Produtividade e Digitalização Redefinem o Futuro do Agro Brasileiro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_agro100_paineis_28.11.2025-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-28T142752Z_1_LYNXMPELAR0Q0_RTROPTP_4_AUTO-BYD-RECALL-BATERIA-300x200.jpg",
         "date": "28/11/2025",
         "description": "Falha identificada impede operação exclusivamente elétrica e motivou recall após investigação do órgão regulador"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/peste-suina-africana-volta-a-espanha-apos-30-anos/",
-        "title": "Peste Suína Africana Volta à Espanha Após 30 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_suinos_granja_espanha_28.11.2025-300x200.jpg",
-        "date": "28/11/2025",
-        "description": "O país é o maior produtor de carne suína da União Europeia, e o surto representa risco de proibição"
     }
 ]
