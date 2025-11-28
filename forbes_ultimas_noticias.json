@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/11/papa-leao-14-reune-se-com-lideres-cristaos-e-condena-violencia-religiosa/",
+        "title": "Papa Leão 14 Reúne-se com Líderes Cristãos e Condena Violência Religiosa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-28T140340Z_1_LYNXMPELAR0PM_RTROPTP_4_PAPA-VIAGEM-ORIENTE-MEDIO-300x200.jpg",
+        "date": "28/11/2025",
+        "description": "Em cerimônia pelos 1700 anos do concílio, Leão lamenta que os 2,6 bilhões de cristãos do mundo permaneçam divididos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/byd-faz-recall-de-88-981-hibridos-plug-in-por-risco-de-seguranca-relacionado-a-bateria/",
+        "title": "BYD Faz Recall de 88.981 Híbridos Plug-in por Risco de Segurança Relacionado À Bateria",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-28T142752Z_1_LYNXMPELAR0Q0_RTROPTP_4_AUTO-BYD-RECALL-BATERIA-300x200.jpg",
+        "date": "28/11/2025",
+        "description": "Falha identificada impede operação exclusivamente elétrica e motivou recall após investigação do órgão regulador"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/11/peste-suina-africana-volta-a-espanha-apos-30-anos/",
         "title": "Peste Suína Africana Volta à Espanha Após 30 Anos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_suinos_granja_espanha_28.11.2025-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Divulgacao-AXIA-Energia-300x200.jpg",
         "date": "28/11/2025",
         "description": "Movimento foi visto por analistas como uma resposta à tributação de dividendos a partir de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/falha-em-data-center-do-cme-group-congela-negociacoes-globais-de-futuros/",
-        "title": "Falha em Data Center do CME Group Congela Negociações Globais De Futuros",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-1536x1024-1-e1654788080105-300x200.jpg",
-        "date": "28/11/2025",
-        "description": "Pane na CyrusOne paralisou mercados do CME Group, travou preços de referência e suspendeu operações de contratos futuros em múltiplos ativos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/pre-mercado-em-novembro-atipico-ibovespa-avancou-e-indices-dos-eua-cairam/",
-        "title": "Pré-mercado: em Novembro Atípico, Ibovespa Avançou e Índices dos EUA Caíram",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "28/11/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 28 de novembro"
     }
 ]
