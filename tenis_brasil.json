@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-28-11.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/candiotto_fore_ecp.jpg",
+        "date": "28/11/2025",
+        "description": "ITF W15 de Ribeirão Preto (SP) – Saibro – US$ 15 milQuartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/raducanu-tem-nova-integrante-na-equipe-e-abre-mao-de-exibicoes.html",
+        "title": "Raducanu tem nova integrante na equipe e abre mão de exibições",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/raducanu-usopen-fore-2025-e1756316492310-1024x681.jpg",
+        "date": "28/11/2025",
+        "description": "Londres (Inglaterra) –A britânica Emma Raducanu tem um reforço em sua equipe de trabalho com a chegada da fisioterapeuta Emma Stewart, que trabalhava na WTA e passa a ser exclusiva da jogadora de 23 anos e atual 29ª do mundo."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/maior-tenista-paraguaio-victor-pecci-e-destaque-de-workshop-da-fpt-em-ribeirao.html",
         "title": "Maior tenista paraguaio, Víctor Pecci é destaque de workshop em Ribeirão",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/Victor-Pecci_FPT-Divulgacao-1024x609.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/henrique_nogueira_fore_ecp.jpg",
         "date": "27/11/2025",
         "description": "La Paz (Bolívia) –A semana no ITF M15 de La Paz é especial para Henrique Nogueira, que marcou seus primeiros pontos no ranking profissional aos 22 anos, depois de um período dedicado aos estudos. Ele retornou ao circuito depois de se formar em Administração de Empresas pelo Insper e está nas quartas de final do torneio boliviano em quadras de saibro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/canais-globo-irao-transmitir-a-exibicao-entre-fonseca-e-alcaraz.html",
-        "title": "Canais Globo irão transmitir a exibição entre Fonseca e Alcaraz",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/fonseca_alcaraz_rio23.jpg",
-        "date": "27/11/2025",
-        "description": "Miami (EUA) –O tão aguardado duelo entre o carioca João Fonseca o espanhol Carlos Alcaraz terá transmissão ao vivo e gratuita para todo o Brasil."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pigossi-vence-nas-duplas-em-buenos-aires-e-faz-mais-uma-semifinal.html",
-        "title": "Pigossi vence nas duplas em Buenos Aires e faz mais uma semifinal",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/pigossi_herrero_colina_abraco.jpg",
-        "date": "27/11/2025",
-        "description": "Buenos Aires (Argentina) –Após a derrota na estreia de simples do WTA 125 de Buenos Aires, Laura Pigossi se recuperou na chave de duplas e venceu ao lado da espanhola Alicia Herrero. Principais cabeças de chave, elas entraram diretamente nas quartas e venceram a norte-americana Varvara Lepchenko e a francesa Carole Monnet por 6/2 e 7/5."
     }
 ]
