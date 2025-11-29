@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/11/top-10-series-e-programas-de-tv-mais-assistidos-da-semana-nos-streamings/",
+        "title": "Top 10 Séries e Programas de TV Mais Assistidos da Semana nos Streamings",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Data-Center-1-1-300x200.png",
+        "date": "29/11/2025",
+        "description": "Pluribus (Apple TV), Stranger Things (Netflix) e IT: Bem-vindos a Derry (HBO Max) estão entre as produções de destaques da semana. Confira o ranking completo"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/carro-mais-caro-do-mundo-ainda-nao-existe-mas-foi-vendido-por-r-110-milhoes/",
         "title": "Carro Mais Caro do Mundo Ainda Não Existe, Mas Foi Vendido por R$ 110 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/49d6b8a1e86e80e0234792d931afd3857b2f2d19-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-Site-para-BVs-Comercial-4-300x200.jpg",
         "date": "28/11/2025",
         "description": "Evento inédito reúne 1.500 empresários para lançamento de empreendimento de luxo em Sacramento-MG, na região de Rifaina e Sacramento; área teve valorização de mais de 200% nos últimos anos e atrai investidores de todo o país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/11/novembro-se-encerra-com-novo-recorde-na-b3-e-ibovespa-passa-dos-159-mil-pontos/",
-        "title": "Novembro se Encerra com Novo Recorde na B3 e Ibovespa Passa dos 159 Mil Pontos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "28/11/2025",
-        "description": "Dólar caiu com mercado internacional ainda fraco devido ao feriado nos EUA"
     }
 ]
