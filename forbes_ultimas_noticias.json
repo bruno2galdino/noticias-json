@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/11/faturamento-do-e-commerce-na-blackfriday-desacelera-ante-5a-feira-mas-ticket-medio-cresce/",
+        "title": "Faturamento do e-commerce na BlackFriday Desacelera ante 5ª-feira, Mas Ticket Médio Cresce",
+        "image": "https://forbes.com.br/wp-content/uploads/2020/11/BlackFriday-Money-CarolYepes_GettyImages.jpg",
+        "date": "29/11/2025",
+        "description": "Black Friday começa com alta de 24,5%, somando R$ 1,69 bilhão em 12 horas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/11/reino-unido-vai-reter-carne-suina-fresca-e-produtos-espanhois-em-meio-a-surto-de-peste-suina-africana/",
+        "title": "Reino Unido Vai Reter Carne Suína Fresca e Produtos Espanhóis em Meio a Surto de Peste Suína Africana",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2025-11-28T233355Z_1_LYNXMPELAR118_RTROPTP_4_EUROPE-CHINA-TARIFFS-PORK-300x200.jpg",
+        "date": "29/11/2025",
+        "description": "Medida britânica coincide com a ativação de protocolos de emergência na Catalunha, área estratégica para a produção de suínos na Espanha"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/11/top-10-series-e-programas-de-tv-mais-assistidos-da-semana-nos-streamings/",
         "title": "Top 10 Séries e Programas de TV Mais Assistidos da Semana nos Streamings",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Data-Center-1-1-300x200.png",
@@ -7,7 +21,7 @@
         "description": "Pluribus (Apple TV), Stranger Things (Netflix) e IT: Bem-vindos a Derry (HBO Max) estão entre as produções de destaques da semana. Confira o ranking completo"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/11/carro-mais-caro-do-mundo-ainda-nao-existe-mas-foi-vendido-por-r-110-milhoes/",
+        "url": "https://forbes.com.br/forbeslife/2025/11/carro-mais-caro-do-mundo-ainda-nao-existe-mas-foi-vendido-por-r-110-milhoes/",
         "title": "Carro Mais Caro do Mundo Ainda Não Existe, Mas Foi Vendido por R$ 110 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/49d6b8a1e86e80e0234792d931afd3857b2f2d19-300x200.png",
         "date": "29/11/2025",
@@ -35,7 +49,7 @@
         "description": "Com hotéis reconhecidos pelo Guia Michelin e a estreia como sede do Latin America’s 50 Best Restaurants, país se projeta como novo polo de hospitalidade e gastronomia de alto padrão"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/11/fast-food-chipotle-eleva-vendas-digitais-de-us-225-mi-para-us-4-bi/",
+        "url": "https://forbes.com.br/forbes-tech/2025/11/fast-food-chipotle-eleva-vendas-digitais-de-us-225-mi-para-us-4-bi/",
         "title": "Fast Food Chipotle Eleva Vendas Digitais De US$ 225 Mi Para US$ 4 Bi",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_chipotle_29.11.2025-300x200.jpg",
         "date": "29/11/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Julie-Macklowe_24nov25Patrick-McMullan-via-Getty-Images-1-300x200.jpg",
         "date": "29/11/2025",
         "description": "Uma viagem pela alma do terroir com experiências de degustação exclusivas, entre paisagens, história e paixão"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/11/the-buckingham-o-drinque-que-brindou-as-liderancas-no-forbes-agro100/",
-        "title": "The Buckingham: o Drinque Que Brindou as Lideranças no Forbes Agro100",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_the_buckingham_29.11.2025-300x200.jpg",
-        "date": "29/11/2025",
-        "description": "Sugestão do mixologista Mauricio Moser com Royal Salute, a bebida foi servida a 166 lideranças do agro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/11/infomercial-alborg-incorporadora-um-novo-polo-de-investimentos-surge-no-interior-do-brasil/",
-        "title": "ATrinca Real Estate dispara a demanda por novo empreendimento no interior de SP",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Tamanho-Site-para-BVs-Comercial-4-300x200.jpg",
-        "date": "28/11/2025",
-        "description": "Evento inédito reúne 1.500 empresários para lançamento de empreendimento de luxo em Sacramento-MG, na região de Rifaina e Sacramento; área teve valorização de mais de 200% nos últimos anos e atrai investidores de todo o país"
     }
 ]
