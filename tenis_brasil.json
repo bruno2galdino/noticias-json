@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-30-11.html",
-        "title": "O dia dos brasileiros: veja os resultados deste domingo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nana-recepcao-saque-ribeirao-preto-2025-1024x683.jpg",
-        "date": "30/11/2025",
-        "description": "ITF W15 de Ribeirão Preto (SP) – Saibro – US$ 15 milFinal –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/favoritos-confirmam-no-primeiro-dia-do-sand-series-finals-em-ribeirao.html",
         "title": "Favoritos confirmam no primeiro dia do Sand Series Finals em Ribeirão",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/antomiramos_cappelletti_-Sand-Series-Finals.jpg",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/12/budkov-kjaer-turin-2024-e1735255247866-1024x682.jpg",
         "date": "29/11/2025",
         "description": "Jeddah (Arábia Saudita) –O norueguês Nicolai Kjaer, o espanhol Rafael Jodar e o norte-americano Nishesh Basavareddy são os três últimos nomes confirmados na edição de 2025 do Next Gen ATP Finals, que acontece entre os dias 17 e 21 de dezembro na Arábia Saudita."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/joao-lago-e-finalista-em-la-paz-e-busca-primeiro-titulo-profissional.html",
+        "title": "João Lago é finalista em La Paz e busca primeiro título profissional",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/joao_lago_jul25_estica.jpg",
+        "date": "29/11/2025",
+        "description": "La Paz (Bolívia) –O paranaense João Lago garantiu vaga na primeira final de sua carreira profissional no ITF M15 de La Paz, em quadras de saibro. Lago, de 19 anos e cabeça 8 do torneio, venceu o argentino Thiago Pernas por 7/5 e 6/3."
     }
 ]
