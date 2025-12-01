@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/infomercial-best-life-do-beneficio-ao-algoritmo-saude-corporativa-nao-sera-a-mesma/",
+        "title": "Do Benefício Ao Algoritmo: Saúde Corporativa Não Será a Mesma",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-1-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "Best Life lidera transformação do setor ao substituir o modelo tradicional de corretagem por gestão orientada por dados e inteligência"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/cafes-do-brasil-atingem-recorde-r-11486-bilhoes-em-valor-bruto-da-producao-em-2025/",
+        "title": "Cafés do Brasil Atingem Recorde R$ 114,86 Bilhões em Valor Bruto da Produção em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cafe_colheita_01.12.2025-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "O café arábica é o principal responsável, com receita projetada em R$ 82,96 bilhões (72,23% do total)"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/o-fim-da-beleza-premium-como-a-conhecemos/",
+        "title": "O Fim da Beleza Premium Como a Conhecemos?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Beleza-premium-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "A indústria da beleza entra em um novo ciclo, no qual eficácia, consistência e tecnologia pesam mais que rótulos de luxo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/recall-da-airbus-castiga-acoes-e-papeis-da-companhia-recuam-10/",
+        "title": "Recall da Airbus Castiga Ações e Papéis da Companhia Recuam 10%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Uma-aeronave-Airbus-320-200-da-companhia-aerea-colombiana-Avianca-decola-do-Aeroporto-El-Dorado-em-Bogota-Colombia-em-6-de-junho-de-2016-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "As ações da Airbus caíram para € 185,26 (R$ 1.153,36) no pregão m Paris, uma queda de 9,19% em relação ao fechamento de sexta-feira."
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/espanha-mobiliza-militares-contra-peste-suina-com-suspeita-de-contaminacao-humana/",
+        "title": "Espanha Mobiliza Militares Contra Peste Suína com Suspeita de Contaminação Humana",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_suinos_espanha_01.12.2025-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "Suspeita é que a infecção tenha sido introduzida por um sanduíche contaminado descartado em rodovia"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/carmen-perez-carne-na-dieta-saude-ou-ideologia/",
+        "title": "Carne na Dieta: Saúde ou Ideologia?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_carne_bovina_24nov25_Nanka-stalker_Getty-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "Como as decisões alimentares refletem valores, conhecimento e responsabilidade ambiental"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/debate-global-em-davos-2026-tera-alunos-do-alunos-do-institut-auf-dem-rosenberg/",
+        "title": "Debate Global em Davos 2026 Terá Alunos do Alunos do Institut Auf Dem Rosenberg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Institut-Auf-Dem-Rosenberg-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "Estudantes do internato suíço assumem o comando da \"Rosenberg House\" durante o Fórum Econômico Mundial, apresentando soluções de resiliência climática e arquitetura sustentável"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/australia-aumenta-estimativa-de-safra-de-trigo-em-quase-2-mi-t/",
         "title": "Austrália Aumenta Estimativa de Safra de Trigo em Quase 2 Mi t",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-01T140045Z_1_LYNXMPELB01AZ_RTROPTP_4_COMMODS-TRIGO-AUSTRALIA-300x200.jpg",
@@ -8,7 +57,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/12/governo-diz-que-isencao-de-ir-ate-r-5-mil-injetara-r-28-bi-na-economia-em-2026/",
-        "title": "Governo Diz Que Isenção de Ir até R$ 5 Mil Injetará R$28 Bi na Economia em 2026",
+        "title": "Governo Diz Que Isenção de Ir até R$ 5 Mil Injetará R$ 28 Bi na Economia em 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2166856980-300x200.jpg",
         "date": "01/12/2025",
         "description": "Lula destaca impacto econômico do programa, com geração de empregos e renda em todo o país"
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_colheita_americana_foto_Nicholas_Smithg-gettyimages_01.10.2025-1-300x200.jpg",
         "date": "01/12/2025",
         "description": "Com 240 mil hectares, nova holding produz grãos, leite e açúcar, e exporta 400 mil toneladas de grãos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/etanol-dispara-245-e-acucar-perde-espaco-no-final-da-safra-do-centro-sul/",
-        "title": "Etanol Dispara 24,5% e Açúcar Perde Espaço no Final da Safra do Centro-Sul",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cana-de-acucar_colheita_01.12.2025-1-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "A produção de etanol do Centro-Sul aumentou 24,45% (1,35 bilhão de litros) na primeira quinzena de novembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/bndes-aprova-r-46-bi-para-aeroportos-da-aena-no-brasil/",
-        "title": "BNDES Aprova R$ 4,6 Bi para Aeroportos da Aena no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Logo-do-BNDES-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "Investimentos impulsionam expansão e modernização de aeroportos em três estados"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/bitcoin-cai-abaixo-de-us-90-mil-e-prolonga-inverno/",
-        "title": "Bitcoin Cai Abaixo de US$ 90 Mil e Prolonga Inverno Cripto",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-1-300x200.png",
-        "date": "01/12/2025",
-        "description": "A criptomoeda tem apagado os ganhos expressivos vistos após a vitória de Donald Trump"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/plantio-de-soja-no-brasil-atinge-89/",
-        "title": "Plantio de Soja no Brasil Atinge 89%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_plantio_01.12.2025-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "O padrão de precipitação \"manchado\" no Cerrado ainda resulta em pontos de estiagem"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/bc-lanca-o-protege-para-bloquear-aberturas-de-contas-e-conter-fraudes-no-sistema-financeiro/",
-        "title": "BC Lança o Protege+ Para Bloquear Aberturas de Contas e Conter Fraudes no Sistema Financeiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Dinheiro-do-Brasil-Real-Imagem-Rmcarvalho-GettyImages-300x200.png",
-        "date": "01/12/2025",
-        "description": "Ferramenta gratuita do Banco Central impede que instituições abram contas em CPFs ou CNPJs protegidos, reduzindo riscos de golpes ligados a identidades falsas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/impacto-das-tarifas-americanas-pressiona-e-industria-recua-pelo-7-mes-consecutivo/",
-        "title": "Impacto das Tarifas Pressiona e Indústria Recua Pelo 7° Mês Consecutivo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/industria-pmi-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "PMI, compilado pela S&P Global, avançou a 48,8 em novembro, de 48,2 em outubro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/oxford-elege-rage-bait-como-palavra-do-ano-entenda/",
-        "title": "Oxford elege “rage bait” como Palavra do Ano; Entenda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-157283820-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "Termo evidencia que engajamento, e não qualidade, guia o que vemos nas redes sociais"
     }
 ]
