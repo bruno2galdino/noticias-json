@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/etanol-dispara-245-e-acucar-perde-espaco-no-final-da-safra-do-centro-sul/",
+        "title": "Etanol Dispara 24,5% e Açúcar Perde Espaço no Final da Safra do Centro-Sul",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cana-de-acucar_colheita_01.12.2025-1-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "A produção de etanol do Centro-Sul aumentou 24,45% (1,35 bilhão de litros) na primeira quinzena de novembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/bndes-aprova-r-46-bi-para-aeroportos-da-aena-no-brasil/",
+        "title": "BNDES Aprova R$ 4,6 Bi para Aeroportos da Aena no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Logo-do-BNDES-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "Investimentos impulsionam expansão e modernização de aeroportos em três estados"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/bitcoin-cai-abaixo-de-us-90-mil-e-prolonga-inverno/",
+        "title": "Bitcoin Cai Abaixo de US$ 90 Mil e Prolonga Inverno Cripto",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-2-1-300x200.png",
+        "date": "01/12/2025",
+        "description": "A criptomoeda tem apagado os ganhos expressivos vistos após a vitória de Donald Trump"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/plantio-de-soja-no-brasil-atinge-89/",
+        "title": "Plantio de Soja no Brasil Atinge 89%",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_plantio_01.12.2025-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "O padrão de precipitação \"manchado\" no Cerrado ainda resulta em pontos de estiagem"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/bc-lanca-o-protege-para-bloquear-aberturas-de-contas-e-conter-fraudes-no-sistema-financeiro/",
+        "title": "BC Lança o Protege+ Para Bloquear Aberturas de Contas e Conter Fraudes no Sistema Financeiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/Dinheiro-do-Brasil-Real-Imagem-Rmcarvalho-GettyImages-300x200.png",
+        "date": "01/12/2025",
+        "description": "Ferramenta gratuita do Banco Central impede que instituições abram contas em CPFs ou CNPJs protegidos, reduzindo riscos de golpes ligados a identidades falsas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/impacto-das-tarifas-americanas-pressiona-e-industria-recua-pelo-7-mes-consecutivo/",
+        "title": "Impacto das Tarifas Pressiona e Indústria Recua Pelo 7° Mês Consecutivo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/industria-pmi-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "PMI, compilado pela S&P Global, avançou a 48,8 em novembro, de 48,2 em outubro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/oxford-elege-rage-bait-como-palavra-do-ano-entenda/",
+        "title": "Oxford elege “rage bait” como Palavra do Ano; Entenda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-157283820-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "Termo evidencia que engajamento, e não qualidade, guia o que vemos nas redes sociais"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/pix-bate-recorde-com-2974-milhoes-de-transacoes-na-black-friday/",
         "title": "Pix Bate Recorde Com 297,4 Milhões de Transações na Black Friday",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/GettyImages-1432050907-1-300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-16-1-300x200.png",
         "date": "01/12/2025",
         "description": "Novas projeções do Banco Central mostram recuo das expectativas do IPCA para 2025 e 2026, enquanto estimativas para Selic e PIB permanecem estáveis"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/por-que-o-youtube-se-tornou-a-principal-fonte-sobre-saude-mental-para-jovens-adultos/",
-        "title": "Por Que o YouTube se Tornou a Principal Fonte sobre Saúde Mental para Jovens Adultos?",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/12/celular-saude-mental--300x200.jpg",
-        "date": "01/12/2025",
-        "description": "De acordo com a Computers in Human Behavior Reports, 20% dos adolescentes que buscam informações online sobre depressão recorrem a vídeos na plataforma do Google"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-dezembro-comeca-com-investidores-buscando-numeros-da-economia/",
-        "title": "Pré-mercado: Dezembro Começa com Investidores Buscando Números da Economia",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "01/12/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 1º de dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/tim-faz-contas-e-para-fechar-2025-com-26-milhoes-de-hectares-conectados-no-campo-diz-diretor/",
-        "title": "TIM Faz Contas e Para Fechar 2025 com 26 Milhões de Hectares Conectados no Campo, Diz Diretor",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/vinho_italia_etna_Getty-1-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "Alexandre Dal Forno, diretor de Desenvolvimento de Mercado IoT e 5G, detalha como a empresa vem administrando a implementação de conectividade rural, ainda insuficiente no país"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/gwm-muda-planos-da-fabrica-no-brasil-com-alta-procura-por-picape-e-suv-de-luxo/",
-        "title": "GWM Muda Planos da Fábrica no Brasil com Alta Procura por Picape e SUV de Luxo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Haval-H9-e-Poer-P30-300x200.jpeg",
-        "date": "01/12/2025",
-        "description": "As 600 unidades do Haval H9, planejadas para abastecer um mês de vendas, se esgotaram em poucas horas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/camila-coutinho-preve-revolucao-do-tiktok-shop-e-celebra-fase-madura-de-ge-beauty/",
-        "title": "Camila Coutinho Prevê “Revolução” do Tiktok Shop e Celebra Fase Madura de GE Beauty",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Camila-Coutinho_-Queremos-dobrar-o-numero-de-lojas-e-de-produtos-no-portfolio-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "Prestes a completar 20 anos de internet e cinco de marca, a pioneira dos blogs de moda detalha a expansão de sua marca, que deve vender 80 mil produtos em 2025"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/lista-forbes-as-empresas-dos-sonhos-para-trabalhar-nos-eua/",
-        "title": "Lista Forbes: As Empresas dos Sonhos para Trabalhar nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/geracao-z-empresas-dos-sonhos-1-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "Nvidia lidera o ranking com 500 companhias que analisa oportunidades de crescimento, qualidade do trabalho, salário e reputação; veja top 10"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/12/brasil-ganha-destaque-na-expansao-da-disney-com-o-primeiro-parque-de-natal-no-pais/",
-        "title": "Dobro de Eventos em 2026 e Parque de Natal Inédito: a Expansão da Disney no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/02-2-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "Com meta de dobrar a realização de eventos, a empresa estreia espaço temático em Curitiba para reunir mais de um milhão de pessoas em 18 dias como contam as VPs de negócios e marketing"
     }
 ]
