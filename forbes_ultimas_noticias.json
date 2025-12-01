@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/australia-aumenta-estimativa-de-safra-de-trigo-em-quase-2-mi-t/",
+        "title": "Austrália Aumenta Estimativa de Safra de Trigo em Quase 2 Mi t",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-01T140045Z_1_LYNXMPELB01AZ_RTROPTP_4_COMMODS-TRIGO-AUSTRALIA-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "Produção de trigo deve superar a do ano passado e ficar entre as maiores já registradas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/governo-diz-que-isencao-de-ir-ate-r-5-mil-injetara-r-28-bi-na-economia-em-2026/",
+        "title": "Governo Diz Que Isenção de Ir até R$ 5 Mil Injetará R$28 Bi na Economia em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2166856980-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "Lula destaca impacto econômico do programa, com geração de empregos e renda em todo o país"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/banco-russo-vtb-criara-holding-agricola-e-mira-processamento-de-alto-valor/",
+        "title": "Banco Russo VTB Criará Holding Agrícola e Mira Processamento de Alto Valor",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_colheita_americana_foto_Nicholas_Smithg-gettyimages_01.10.2025-1-300x200.jpg",
+        "date": "01/12/2025",
+        "description": "Com 240 mil hectares, nova holding produz grãos, leite e açúcar, e exporta 400 mil toneladas de grãos"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/etanol-dispara-245-e-acucar-perde-espaco-no-final-da-safra-do-centro-sul/",
         "title": "Etanol Dispara 24,5% e Açúcar Perde Espaço no Final da Safra do Centro-Sul",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cana-de-acucar_colheita_01.12.2025-1-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-157283820-300x200.jpg",
         "date": "01/12/2025",
         "description": "Termo evidencia que engajamento, e não qualidade, guia o que vemos nas redes sociais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/pix-bate-recorde-com-2974-milhoes-de-transacoes-na-black-friday/",
-        "title": "Pix Bate Recorde Com 297,4 Milhões de Transações na Black Friday",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/GettyImages-1432050907-1-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "Sistema movimenta R$ 166,2 bilhões em um único dia e reforça avanço dos pagamentos digitais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/rd-saude-propoe-aumento-de-capital-de-r-750-mi-e-estabelece-projecao-de-abertura-de-lojas-em-2026/",
-        "title": "RD Saúde Propõe Aumento de Capital de R$ 750 Mi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/rd-saude-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "Acionistas receberão, a título de bonificação, 1 nova ação para cada 50 ações ordinárias existentes"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/focus-mercado-reduz-inflacao-de-2025-para-443-e-mantem-selic-em-15/",
-        "title": "Focus: Mercado Reduz Inflação de 2025 para 4,43% e Mantém Selic em 15%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-16-1-300x200.png",
-        "date": "01/12/2025",
-        "description": "Novas projeções do Banco Central mostram recuo das expectativas do IPCA para 2025 e 2026, enquanto estimativas para Selic e PIB permanecem estáveis"
     }
 ]
