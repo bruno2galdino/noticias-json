@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-comeca-dezembro-no-vermelho-e-dolar-sobe/",
+        "title": "Ibovespa Começa Dezembro no Vermelho e Dólar Sobe",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "01/12/2025",
+        "description": "Dia foi de realização de lucros na bolsa brasileira"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/12/infomercial-leao-group-mobilidade-sem-fronteiras-2/",
         "title": "Mobilidade sem fronteiras",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-1-300x200.jpg",
@@ -14,7 +21,7 @@
         "description": "Best Life lidera transformação do setor ao substituir o modelo tradicional de corretagem por gestão orientada por dados e inteligência"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/12/cafes-do-brasil-atingem-recorde-r-11486-bilhoes-em-valor-bruto-da-producao-em-2025/",
+        "url": "https://forbes.com.br/forbes-money/2025/12/cafes-do-brasil-atingem-recorde-r-11486-bilhoes-em-valor-bruto-da-producao-em-2025/",
         "title": "Cafés do Brasil Atingem Recorde R$ 114,86 Bilhões em Valor Bruto da Produção em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cafe_colheita_01.12.2025-300x200.jpg",
         "date": "01/12/2025",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-01T140045Z_1_LYNXMPELB01AZ_RTROPTP_4_COMMODS-TRIGO-AUSTRALIA-300x200.jpg",
         "date": "01/12/2025",
         "description": "Produção de trigo deve superar a do ano passado e ficar entre as maiores já registradas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/governo-diz-que-isencao-de-ir-ate-r-5-mil-injetara-r-28-bi-na-economia-em-2026/",
-        "title": "Governo Diz Que Isenção de Ir até R$ 5 Mil Injetará R$ 28 Bi na Economia em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2166856980-300x200.jpg",
-        "date": "01/12/2025",
-        "description": "Lula destaca impacto econômico do programa, com geração de empregos e renda em todo o país"
     }
 ]
