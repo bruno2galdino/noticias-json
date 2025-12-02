@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-02-12.html",
+        "title": "O dia dos brasileiros: veja os resultados desta terça",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/pagotto_maio_25.jpg",
+        "date": "02/12/2025",
+        "description": "WTA 125 de Quito (Equador) – Saibro – US$ 115 milPrimeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/candiotto-lidera-cinco-brasileiras-em-lima-bohrer-joga-nos-eua.html",
         "title": "Candiotto lidera cinco brasileiras em Lima, Bohrer joga nos EUA",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/candiotto_ecp_back25.jpg",
@@ -32,7 +39,7 @@
         "title": "O adeus ao gigante Pietrangeli",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/nicola-pietrangeli.png",
         "date": "01/12/2025",
-        "description": "Numa daquelas ironias do esporte, o tênis dá adeus nesta segunda-feira a um dos maiores simbolos de sua história. No momento em que se discute a reformulação da Copa Davis, cada vez menos atrativa para o público e os jogadores, o recordista absoluto de jogos e vitórias da centenária competição se vai."
+        "description": "Numa daquelas ironias do esporte, o tênis dá adeus nesta segunda-feira a um dos maiores símbolos de sua história. No momento em que se discute a reformulação da Copa Davis, cada vez menos atrativa para o público e os jogadores, o recordista absoluto de jogos e vitórias da centenária competição se vai."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/australian-open-define-primeiros-convites-para-a-edicao-de-2026.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/norrie-noivado.jpg",
         "date": "01/12/2025",
         "description": "Cameron Norrie ficou noivo. O britânica e sua namorada de longa data, Louise Jacobi, anunciaram a notícia neste domingo em uma publicação conjunta no Instagram."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/luiza-fullana-recupera-47-posicoes-pedretti-tambem-sobe-no-ranking.html",
-        "title": "Luiza Fullana recupera 47 posições, Pedretti também sobe no ranking",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/fullana_criciuma_back.jpg",
-        "date": "01/12/2025",
-        "description": "São Petersburgo (EUA) –Em grande fase na reta final do circuito, com três títulos seguidos no Brasil, em Criciúma, Mogi das Cruzes e Ribeirão Preto, Luiza Fullana recuperou 47 posições no ranking e aparece atualmente no 526º lugar. Nas duas últimas semanas, ela ultrapassou 116 jogadoras. Seu recorde pessoal é a 461ª posição, alcançada em agosto."
     }
 ]

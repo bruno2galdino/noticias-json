@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/michael-burry-de-a-grande-aposta-mira-contra-tesla-apos-criticar-setor-de-ia/",
+        "title": "Michael Burry, de \"A Grande Aposta\", mira contra Tesla após criticar setor de IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/01/money_tesla_elonmusk-300x200.jpg",
+        "date": "02/12/2025",
+        "description": "Crítico do boom da IA agora aponta riscos no modelo de negócios de Elon Musk"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-declaracoes-de-galipolo-reduzem-expectativa-de-corte-da-selic/",
+        "title": "Pré-mercado: Declarações de Galípolo Reduzem Expectativa de Corte da Selic",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "02/12/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 2 de dezembro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/12/cruzeiro-de-luxo-que-passa-pelo-brasil-tem-tarifas-a-partir-de-r-73-mil/",
         "title": "Cruzeiro de Luxo Que Passa Pelo Brasil Tem Suíte com Mordomo por R$ 472 Mil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/SPL-Regent-Suite-Bath_2024-03-27_13-12-20-300x200.jpg",
@@ -29,7 +43,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/12/oscar-freire-lidera-valorizacao-global-das-rua-de-luxo-com-alta-de-65/",
-        "title": "Oscar Freire Lidera Valorização Global das Rua de Luxo Com Alta de 65%",
+        "title": "Oscar Freire Lidera Valorização Global das Ruas de Luxo Com Alta de 65%",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-10-300x200.png",
         "date": "02/12/2025",
         "description": "Endereço centenário combina escassez de espaços, contratos longos e demanda crescente para sustentar salto histórico nos aluguéis"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/0x0-4-300x200.webp",
         "date": "02/12/2025",
         "description": "Não há nada de errado em ter um lado ‘terapeuta’, mas você está se permitindo ser uma pessoa?"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/12/negociacoes-politicas-na-cop30-e-o-que-vem-depois-do-brasil/",
-        "title": "Negociações Políticas na COP30 e o Que Vem Depois do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/esg_cop30_01.12.2025-300x200.jpg",
-        "date": "02/12/2025",
-        "description": "O debate sobre a Nova Meta Coletiva Quantificada (NCQG) demonstrou intensa barganha política"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-comeca-dezembro-no-vermelho-e-dolar-sobe/",
-        "title": "Ibovespa Começa Dezembro no Vermelho e Dólar Sobe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "01/12/2025",
-        "description": "Dia foi de realização de lucros na bolsa brasileira"
     }
 ]
