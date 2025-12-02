@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/12/brandvoice-vokkan-consolida-modelo-de-bairro-parque-e-avanca-para-area-de-3-milhoes-de-m%c2%b2-em-navegantes/",
+        "title": "Vokkan Consolida Modelo De Bairro-Parque E Avança Para Área De 3 Milhões De m² Em Navegantes",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "02/12/2025",
+        "description": "Com o Viva Park Porto Belo, primeiro bairro-parque do Brasil, e um novo projeto de 3 milhões de m² em Navegantes, a Vokkan atua como master desenvolvedora no litoral catarinense"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/amazon-usara-tecnologia-da-nvidia-em-chips-de-ia-e-lancara-novos-servidores/",
+        "title": "Amazon Usará Tecnologia da Nvidia em Chips de Ia e Lançará Novos Servidores",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/money_amazon_logo-1-300x200.jpg",
+        "date": "02/12/2025",
+        "description": "Conferência anual traz novas versões do modelo de IA Nova e inovações em nuvem"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/forcas-unidas-para-acelerar-a-inovacao/",
+        "title": "Forças Unidas para Acelerar a Inovação",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-2-300x200.jpg",
+        "date": "02/12/2025",
+        "description": "Parceria estratégica entre Claranet e The Bakery une visão de negócio e tecnologia para ajudar empresas a transformar IA em valor real"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/brasileira-se-torna-a-bilionaria-mais-jovem-do-mundo-a-construir-a-sua-propria-fortuna/",
         "title": "Brasileira se Torna a Bilionária Mais Jovem do Mundo a Construir a Sua Própria Fortuna",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-11-300x200.png",
         "date": "02/12/2025",
-        "description": "A Kalshi agora vale US$ 11 bilhões, tornando seus dois fundadores bilionários e Luana Lopes Lara a mulher bilionária mais jovem do mundo que construiu sua própria fortuna."
+        "description": "Ex-bailarina, Luana Lopes Lara estudou no MIT e ajudou a criar a Kalshi, que agora vale US$ 11 bilhões"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/12/comissao-do-senado-aprova-projeto-que-eleva-tributacao-de-bets-fintechs-e-jcp/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/01/Boeing-737-Max-Imagem-GettyImages-300x200.png",
         "date": "02/12/2025",
         "description": "Fabricante busca recuperar reputação e competitividade após anos de crise"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/12/como-sobreviver-ao-fim-do-ano-sem-ter-um-burnout/",
-        "title": "Como Sobreviver Ao Fim do Ano sem Ter um Burnout",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-10-300x200.png",
-        "date": "02/12/2025",
-        "description": "Ao reconhecer sentimentos mistos e ajustar prioridades, é possível construir rituais de fim de ano mais saudáveis, equilibrados e alinhados ao verdadeiro espírito de celebração"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-sport/2025/12/grife-moncler-vai-vestir-o-brasil-nos-jogos-olimpicos-de-inverno-2026/",
-        "title": "Grife Moncler Vai Vestir o Brasil nos Jogos Olímpicos de Inverno 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Lucas_Pinheiro_Braathen_RACESUITE_IMAGE_6_450e76319f-1-1-2-300x200.jpg",
-        "date": "02/12/2025",
-        "description": "A marca será responsável pelos uniformes da delegação brasileira nas cerimônias de abertura e encerramento"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/supostas-imagens-ineditas-de-gta-6-vazam-e-fas-temem-que-isso-atrase-mais-uma-vez-o-lancamento/",
-        "title": "Supostas Imagens Inéditas de GTA 6 Vazam e Fãs Temem Que Isso Atrase Mais uma Vez o Lançamento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GTA6-300x200.jpg",
-        "date": "02/12/2025",
-        "description": "GTA 6 Countdown, usuário do X, publicou o que chamou de \"novas imagens de GTA 6 encontradas no portfólio de um animador sênior da Rockstar\", elas mostram captura de movimentos para as animações de fuga e bicicletas"
     }
 ]
