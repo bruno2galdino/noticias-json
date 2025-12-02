@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/imea-preve-safra-menor-de-algodao-em-mato-grosso-principal-produtor-brasileiro/",
+        "title": "Imea Prevê Safra Menor de Algodão em Mato Grosso",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_algodao_lavoura_16.10.2025-300x200.jpg",
+        "date": "02/12/2025",
+        "description": "Safra foi estimada em 2,58 milhões de toneladas da pluma, recuo de 1,74% na comparação com a previsão de novembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/brandvoice-creamy-mira-crescimento-de-55-ate-2026-com-skincare-acessivel-em-escala-nacional/",
+        "title": "Creamy Mira Crescimento De 55% Até 2026 Com Skincare Acessível Em Escala Nacional",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/1-300x200.jpg",
+        "date": "02/12/2025",
+        "description": "Parte da Skelt Beauty Brands, a Creamy projeta crescer 55% em receita até 2026 com uma estratégia baseada em capilaridade nacional, expansão de lojas próprias e portfólio sob fábrica própria em Vinhedo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/12/michael-burry-de-a-grande-aposta-mira-contra-tesla-apos-criticar-setor-de-ia/",
         "title": "Michael Burry, de \"A Grande Aposta\", mira contra Tesla após criticar setor de IA",
         "image": "https://forbes.com.br/wp-content/uploads/2023/01/money_tesla_elonmusk-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/campus-stanford-300x200.jpg",
         "date": "02/12/2025",
         "description": "Programas no Brasil e no exterior ajudam a alavancar a jornada profissional, mas é preciso separar o joio do trigo para não desperdiçar tempo e dinheiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/entenda-a-probabilidade-de-o-seu-proximo-cirurgiao-ser-um-robo/",
-        "title": "Entenda a Probabilidade de o Seu Próximo Cirurgião Ser um Robô",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/IA_Cirurgia-300x200.jpg",
-        "date": "02/12/2025",
-        "description": "Os alicerces para a cirurgia robótica autônoma já existem, se ela se tornará realidade em cinco ou dez anos dependerá menos do progresso tecnológico e mais da rapidez e eficácia com que hospitais, cirurgiões e empresas de tecnologia colaborarem"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/12/quando-ser-o-ombro-amigo-vira-sobrecarga-emocional/",
-        "title": "Quando Ser “O Ombro Amigo” Vira Sobrecarga Emocional",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0x0-4-300x200.webp",
-        "date": "02/12/2025",
-        "description": "Não há nada de errado em ter um lado ‘terapeuta’, mas você está se permitindo ser uma pessoa?"
     }
 ]
