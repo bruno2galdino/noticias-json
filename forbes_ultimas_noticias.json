@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-bate-recorde-e-encosta-nos-162-mil-pontos/",
+        "title": "Ibovespa Bate Recorde e Encosta nos 162 Mil Pontos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "03/12/2025",
+        "description": "O índice marcou 161.963,49 pontos no melhor momento, nova máxima intradia"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/no-metiers-dart-da-chanel-convidados-vao-ao-subterraneo-e-maison-eleva-o-novo-luxo/",
+        "title": "No Métiers D’art da Chanel, Convidados Vão Ao Subterrâneo e Maison Eleva o Novo Luxo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.O-desfile-Metiers-dArt-2026-da-Chanel-realizado-em-uma-plataforma-de-metro-de-Nova-York-nesta-terca-feira-02_12-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Em seu segundo desfile, em NY, Matthieu Blazy revela como a verdadeira elegância é questão de atitude e apropriação individual"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ansiedade-financeira-dos-brasileiros-atinge-nivel-elevado-diante-da-instabilidade-economica/",
+        "title": "Ansiedade Financeira dos Brasileiros Atinge Nível Elevado Diante da Instabilidade Econômica",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/12/fracasso-ansiedade-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Fim do mês virou motivo de tensão para brasileiros, que pontuaram 8,6 de 10 em uma escala de ansiedade"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/12/lseg-integrara-dados-financeiros-ao-chatgpt/",
         "title": "LSEG Integrará Dados Financeiros Ao ChatGPT",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-inteligencia-artificial-chatgpt-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_BrazilFoudation2-300x200.jpg",
         "date": "03/12/2025",
         "description": "Celebrando 25 anos de impacto, evento na Casa Fasano reuniu empresários e personalidades de peso para homenagear nomes como Ronaldo e Celina Locks, Ana Eliza Setúbal e Flávia Alessandra"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/com-reversao-de-embargos-brasil-pode-ampliar-exportacoes-de-carne-de-frango-em-2025/",
-        "title": "Com Reversão de Embargos, Brasil Pode Ampliar Exportações de Carne de Frango em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-03T130741Z_1_LYNXMPELB20PO_RTROPTP_4_BRAZIL-EGGS-USA-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Mesmo com a alta nos embarques, o maior exportador de frango deve encerrar o ano abaixo das projeções iniciais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/mais-soja-dos-eua-para-china-deve-ser-carregada-ate-meados-de-dezembro/",
-        "title": "Mais Soja dos EUA para China Deve Ser Carregada até Meados de Dezembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-03T135454Z_1_LYNXMPELB20RW_RTROPTP_3_USA-AGRICULTURE-GENERICS-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Produtores dos EUA esperam retomada dos embarques após promessa chinesa de comprar 12 milhões de toneladas até o fim do ano"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/com-nivel-de-ocupacao-recorde-1-em-cada-4-idosos-trabalhava-em-2024/",
-        "title": "Recorde de Ocupação: 1 em Cada 4 Idosos Trabalhava em 2024",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira-idoso-trabalho-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Taxa de desocupação dessa população foi de 2,9% em 2024, a menor da série histórica do IBGE"
     }
 ]
