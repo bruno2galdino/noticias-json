@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/12/corrida-e-a-atividade-fisica-mais-praticada-por-brasileiros-mostra-relatorio/",
+        "title": "Corrida É a Atividade Física Mais Praticada por Brasileiros, Mostra Relatório",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.A-Forbes-conversou-com-empresarios-que-praticam-o-esporte-e-fez-uma-selecao-dos-10-tenis-de-corrida-mais-luxuosos-do-mercado-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Em média, os treinos duram 50 minutos, segundo relatório Tendências Esportivas da plataforma Strava"
+    },
+    {
         "url": "https://forbes.com.br/forbeswsb/2025/12/natal-e-ano-novo-18-vinhos-italianos-para-brindar-a-sua-festa/",
         "title": "Natal e Ano Novo: 18 Vinhos Italianos para Brindar a Sua Festa",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/vinho_italia-300x200.jpg",
         "date": "03/12/2025",
         "description": "Uma lista de sugestões para os brindes e para terminar melhor os almoços e jantares dos últimos dias do ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/anel-bulgari-de-elizabeth-taylor-pode-alcancar-us-180-mil-na-christies/",
+        "title": "Anel Bulgari de Elizabeth Taylor pode alcançar US$ 180 mil na Christie’s",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Anel-Bulgari-de-Elizabeth-Taylor-com-diamantes-coloridos-e-diamantes.-Estimativa_-US-120-mil-US-180-mil-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Joias históricas de coleções particulares de destaque compõem leilão que reúne safiras Kashmir, diamantes excepcionais e criações de grandes casas de joalheria"
     },
     {
         "url": "https://forbes.com.br/forbes-mkt/2025/12/do-tiktok-ao-dorama-como-a-logica-dos-algoritmos-virou-modelo-para-a-dramaturgia-brasileira/",
@@ -35,11 +49,11 @@
         "description": "As bases silenciosas, porém decisivas, que sustentam vínculos fortes e duradouros"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/12/com-e-21-bi-de-producao-organica-dinamarca-vira-exemplo-para-o-brasil/",
-        "title": "Com € 2,1 Bi de Produção Orgânica, Dinamarca Vira Exemplo para o Brasil",
+        "url": "https://forbes.com.br/forbesagro/2025/12/que-licoes-o-brasil-pode-ter-com-os-organicos-da-dinamarca-um-mercado-de-r-13-bi/",
+        "title": "Que Lições o Brasil Pode Ter com os Orgânicos da Dinamarca, um Mercado de R$ 13 Bi",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_organicos_03.12.2025-300x200.jpg",
         "date": "03/12/2025",
-        "description": "Estudo da Embrapa evidencia como coordenação pública e privada transforma o setor em negócio competitivo"
+        "description": "Estudo da Embrapa e Unicamp mostra como a coordenação pública e privada pode transformas o setor em um negócio competitivo"
     },
     {
         "url": "https://forbes.com.br/geral/2025/12/forbes-brasil-anuncia-novo-editor-chefe/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
         "date": "02/12/2025",
         "description": "Pela manhã, o pregão já tinha renovado sua máxima histórica"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/os-10-bilionarios-mais-ricos-do-mundo-em-dezembro/",
-        "title": "Os 10 Bilionários Mais Ricos do Mundo em Dezembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/tech-elon-musk-23Ago23-GettyImages-min-300x200.jpg",
-        "date": "02/12/2025",
-        "description": "Cofundadores do Google saltaram na lista após alta das ações da Alphabet"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/brandvoice-vokkan-consolida-modelo-de-bairro-parque-e-avanca-para-area-de-3-milhoes-de-m%c2%b2-em-navegantes/",
-        "title": "Vokkan Consolida Modelo De Bairro-Parque E Avança Para Área De 3 Milhões De m² Em Navegantes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-3-300x200.jpg",
-        "date": "02/12/2025",
-        "description": "Com o VivaPark Porto Belo, primeiro bairro-parque do Brasil, e um novo projeto de 3 milhões de m² em Navegantes, a Vokkan atua como master desenvolvedora no litoral catarinense"
     }
 ]
