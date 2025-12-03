@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesesg/2025/12/economia-verde-deve-movimentar-us-7-trilhoes-ate-2030-aponta-forum-economico-mundial/",
+        "title": "Economia Verde Deve Movimentar US$ 7 Trilhões Até 2030",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_trad_painel_solar_VCG_via_Getty_Images_24.11.2025-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Setor cresce acima da média global, com receitas verdes dobrando ritmo e Brasil se destaca com biocombustíveis"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/nubank-acata-nova-ordem-do-bc-e-ira-pedir-licenca-bancaria-no-brasil-em-2026/",
+        "title": "Nubank Acata Nova Ordem do BC e Irá Pedir Licença Bancária no Brasil em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/BrandVoice-Nubank-8-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Pedido acontece para evitar uma futura mudança na marca Nubank"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/12/inovar-e-mais-do-que-tecnologia-e-cultura/",
         "title": "Inovar É Mais do Que Tecnologia, É Cultura",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/1-2-300x200.jpg",
@@ -7,7 +21,7 @@
         "description": "Anjo Tintas transforma inovação em valor de marca, unindo ciência, sustentabilidade e gestão com propósito"
     },
     {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/apenas-02-da-alta-lideranca-executivas-com-deficiencia-rompem-barreiras/",
+        "url": "https://forbes.com.br/carreira/2025/12/apenas-02-da-alta-lideranca-executivas-com-deficiencia-rompem-barreiras/",
         "title": "Mulheres com Deficiência Representam 0,2% da Alta Liderança",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/executivas-com-deficiencia-1-300x200.jpg",
         "date": "03/12/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Anel-Bulgari-de-Elizabeth-Taylor-com-diamantes-coloridos-e-diamantes.-Estimativa_-US-120-mil-US-180-mil-300x200.jpg",
         "date": "03/12/2025",
         "description": "Joias históricas de coleções particulares de destaque compõem leilão que reúne safiras Kashmir, diamantes excepcionais e criações de grandes casas de joalheria"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/12/do-tiktok-ao-dorama-como-a-logica-dos-algoritmos-virou-modelo-para-a-dramaturgia-brasileira/",
-        "title": "Do TikTok Ao Dorama: Como a Lógica dos Algoritmos Virou Modelo para a Dramaturgia Brasileira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Novela_Vertical-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Na onda global das narrativas curtas, a Globo entra oficialmente no jogo com sua nova novela vertical estrelada por Jade Picon, reforçando a chegada do formato ao mainstream brasileiro."
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/como-a-the-led-transformou-legado-familiar-em-um-cheque-de-r-150-milhoes/",
-        "title": "Como a The Led Fez do Legado Familiar um \"Cheque\" de Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/d63265a3-7b72-4889-bcd2-2c139507a313-1-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Empresa de painéis de LED e mídia in-store anunciou a captação de R$ 150 milhões com o fundo Kinea Private Equity V"
     }
 ]
