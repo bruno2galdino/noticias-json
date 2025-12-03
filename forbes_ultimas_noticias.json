@@ -1,6 +1,20 @@
 [
     {
-        "url": "https://forbes.com.br/forbesesg/2025/12/economia-verde-deve-movimentar-us-7-trilhoes-ate-2030-aponta-forum-economico-mundial/",
+        "url": "https://forbes.com.br/carreira/2025/12/com-nivel-de-ocupacao-recorde-1-em-cada-4-idosos-trabalhava-em-2024/",
+        "title": "Recorde de Ocupação: 1 em Cada 4 Idosos Trabalhava em 2024",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira-idoso-trabalho-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Taxa de desocupação dessa população foi de 2,9% em 2024, a menor da série histórica do IBGE"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/3tentos-anuncia-nova-planta-de-processamento-de-milho-e-maior-originacao-de-graos-em-2026/",
+        "title": "3tentos  Anuncia Nova Planta de Processamento de Milho e Maior Originação de Grãos em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/09/agro_graos_soja_7set23_Lucas-Ninno_Guettyimages-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Projeção anual soma mais de 6,9 milhões de toneladas, com destaque para soja, milho, trigo e canola"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/economia-verde-deve-movimentar-us-7-trilhoes-ate-2030-aponta-forum-economico-mundial/",
         "title": "Economia Verde Deve Movimentar US$ 7 Trilhões Até 2030",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_trad_painel_solar_VCG_via_Getty_Images_24.11.2025-300x200.jpg",
         "date": "03/12/2025",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.A-Forbes-conversou-com-empresarios-que-praticam-o-esporte-e-fez-uma-selecao-dos-10-tenis-de-corrida-mais-luxuosos-do-mercado-300x200.jpg",
         "date": "03/12/2025",
         "description": "Em média, os treinos duram 50 minutos, segundo relatório Tendências Esportivas da plataforma Strava"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/12/natal-e-ano-novo-18-vinhos-italianos-para-brindar-a-sua-festa/",
-        "title": "Natal e Ano Novo: 18 Vinhos Italianos para Brindar a Sua Festa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/vinho_italia-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Uma lista de sugestões para os brindes e para terminar melhor os almoços e jantares dos últimos dias do ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/anel-bulgari-de-elizabeth-taylor-pode-alcancar-us-180-mil-na-christies/",
-        "title": "Anel Bulgari de Elizabeth Taylor pode alcançar US$ 180 mil na Christie’s",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Anel-Bulgari-de-Elizabeth-Taylor-com-diamantes-coloridos-e-diamantes.-Estimativa_-US-120-mil-US-180-mil-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Joias históricas de coleções particulares de destaque compõem leilão que reúne safiras Kashmir, diamantes excepcionais e criações de grandes casas de joalheria"
     }
 ]
