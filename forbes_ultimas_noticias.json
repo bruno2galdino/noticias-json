@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/inovar-e-mais-do-que-tecnologia-e-cultura/",
+        "title": "Inovar É Mais do Que Tecnologia, É Cultura",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/1-2-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Anjo Tintas transforma inovação em valor de marca, unindo ciência, sustentabilidade e gestão com propósito"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/12/apenas-02-da-alta-lideranca-executivas-com-deficiencia-rompem-barreiras/",
+        "title": "Mulheres com Deficiência Representam 0,2% da Alta Liderança",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/executivas-com-deficiencia-1-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Neste Dia Internacional da Pessoa com Deficiência, conheça a trajetória de mulheres que chegaram ao topo em algumas das maiores empresas no Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/tesouro-barra-correios-de-seguir-com-contratacao-de-emprestimo-de-r-20-bi-com-bancos/",
         "title": "Tesouro Barra Correios de Seguir com Empréstimo de R$ 20 Bi com Bancos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/correios-reuters-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/d63265a3-7b72-4889-bcd2-2c139507a313-1-300x200.jpg",
         "date": "03/12/2025",
         "description": "Empresa de painéis de LED e mídia in-store anunciou a captação de R$ 150 milhões com o fundo Kinea Private Equity V"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/8-tendencias-de-tecnologia-que-transformarao-as-empresas-em-2026/",
-        "title": "8 Tendências de Tecnologia Que Transformarão as Empresas em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/forbes-ia-agentes-carreira-trabalho-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Deixem os chatbots de lado; os agentes são o próximo estágio na evolução da IA ​​empresarial, e 2026 será o ano de sua explosão; além de outras tendencias importantes"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/12/3-pontos-fortes-que-os-casais-podem-desenvolver-para-um-vinculo-solido/",
-        "title": "3 Pontos Fortes Que os Casais Podem Desenvolver para um Vínculo Sólido",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0x0-5-300x200.webp",
-        "date": "03/12/2025",
-        "description": "As bases silenciosas, porém decisivas, que sustentam vínculos fortes e duradouros"
     }
 ]
