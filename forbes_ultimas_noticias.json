@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/colunas/2025/12/proteger-a-pele-e-proteger-a-saude/",
+        "title": "Proteger a Pele É Proteger a Saúde",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-13-300x200.png",
+        "date": "03/12/2025",
+        "description": "Dezembro é mês de conscientização sobre o câncer de pele, tipo de tumor mais comum no Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/ovo-faberge-mais-caro-da-historia-e-leiloado-por-us-302-milhoes/",
+        "title": "Ovo Fabergé Mais Caro da História É Leiloado por US$ 30,2 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-11-300x200.png",
+        "date": "03/12/2025",
+        "description": "A venda histórica ultrapassou o recorde mantido desde 2007 pelo Ovo Rothschild"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/brazilfoundation-arrecada-r-25-milhoes-em-noite-de-gala-e-recordes-em-sao-paulo/",
+        "title": "BrazilFoundation Arrecada R$ 2,5 Milhões em Noite de Gala e Recordes em São Paulo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_BrazilFoudation2-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Celebrando 25 anos de impacto, evento na Casa Fasano reuniu empresários e personalidades de peso para homenagear nomes como Ronaldo e Celina Locks, Ana Eliza Setúbal e Flávia Alessandra"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/com-reversao-de-embargos-brasil-pode-ampliar-exportacoes-de-carne-de-frango-em-2025/",
+        "title": "Com Reversão de Embargos, Brasil Pode Ampliar Exportações de Carne de Frango em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-03T130741Z_1_LYNXMPELB20PO_RTROPTP_4_BRAZIL-EGGS-USA-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Mesmo com a alta nos embarques, o maior exportador de frango deve encerrar o ano abaixo das projeções iniciais"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/mais-soja-dos-eua-para-china-deve-ser-carregada-ate-meados-de-dezembro/",
+        "title": "Mais Soja dos EUA para China Deve Ser Carregada até Meados de Dezembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-03T135454Z_1_LYNXMPELB20RW_RTROPTP_3_USA-AGRICULTURE-GENERICS-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "Produtores dos EUA esperam retomada dos embarques após promessa chinesa de comprar 12 milhões de toneladas até o fim do ano"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/12/com-nivel-de-ocupacao-recorde-1-em-cada-4-idosos-trabalhava-em-2024/",
         "title": "Recorde de Ocupação: 1 em Cada 4 Idosos Trabalhava em 2024",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira-idoso-trabalho-300x200.jpg",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/1-2-300x200.jpg",
         "date": "03/12/2025",
         "description": "Anjo Tintas transforma inovação em valor de marca, unindo ciência, sustentabilidade e gestão com propósito"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/apenas-02-da-alta-lideranca-executivas-com-deficiencia-rompem-barreiras/",
-        "title": "Mulheres com Deficiência Representam 0,2% da Alta Liderança",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/executivas-com-deficiencia-1-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Neste Dia Internacional da Pessoa com Deficiência, conheça a trajetória de mulheres que chegaram ao topo em algumas das maiores empresas no Brasil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/tesouro-barra-correios-de-seguir-com-contratacao-de-emprestimo-de-r-20-bi-com-bancos/",
-        "title": "Tesouro Barra Correios de Seguir com Empréstimo de R$ 20 Bi com Bancos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/correios-reuters-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Em outubro, os Correios anunciaram negociações para o empréstimo, na esperança de conseguir fortalecer liquidez financeira de curto prazo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/bank-of-america-recomenda-ate-4-em-cripto-nos-portfolios/",
-        "title": "Bank Of America Recomenda Até 4% Em Cripto Nos Portfólios",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/O-logotipo-do-Bank-of-America-exibido-em-uma-placa-em-frente-a-um-escritorio-do-Bank-of-America-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Banco orienta clientes a alocar entre 1% e 4% em ativos digitais e passa a cobrir ETFs de bitcoin que somam mais de US$ 94 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-bolsa-sobe-com-especulacao-sobre-o-bc-americano/",
-        "title": "Pré-mercado: Bolsa Sobe com Especulação sobre o BC Americano",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "03/12/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 3 de dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/corrida-e-a-atividade-fisica-mais-praticada-por-brasileiros-mostra-relatorio/",
-        "title": "Corrida É a Atividade Física Mais Praticada por Brasileiros, Mostra Relatório",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.A-Forbes-conversou-com-empresarios-que-praticam-o-esporte-e-fez-uma-selecao-dos-10-tenis-de-corrida-mais-luxuosos-do-mercado-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Em média, os treinos duram 50 minutos, segundo relatório Tendências Esportivas da plataforma Strava"
     }
 ]

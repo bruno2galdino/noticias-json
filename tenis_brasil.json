@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-03-12.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/bohrer_leme_back.jpg",
+        "date": "03/12/2025",
+        "description": "WTA 125 de Quito (Equador) – Saibro – US$ 115 milDuplas – Quartas de final –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/pietangeli-recebe-ultimas-homenagens-com-trofeu-da-davis-no-foro-italico.html",
         "title": "Pietrangeli recebe últimas homenagens com troféu da Davis no Foro Itálico",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/Coppa_Davis_commemorazione_Pietrangeli-1024x682.jpg",
         "date": "03/12/2025",
         "description": "Roma (Itália) –Dois dias após o falecimento de Nicola Pietrangeli, aquadra que leva o seu nome no Foro Italicoem Roma recebeu as últimas homenagens à lenda do tênis italiano e bicampeão de Roland Garros. As raquetes e o troféu da Copa Davis, competição em que Pietrangeli fez história e conquistou vários recordes, foi posicionado do caixão, cercado por coroas de flores e fotos de sua carreira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/spoto-gianotti-vao-as-semifinais-no-finals-marchezini-chow-perdem-de-russas.html",
+        "title": "Spoto/ Gianotti vão às semifinais no Finals. Marchezini/Chow perdem de russas.",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/spotto_gianotti_sand-series-finals.jpg",
+        "date": "03/12/2025",
+        "description": "Ribeirão Preto (SP)– Melhor dupla da temporada masculina do beach tennis, o italiano Mattia Spoto e o italiano Nicolas Gianotti venceram jogo duríssimo no Sand Series Tour Finals, que acontece na Arena Ribeirão, no interior paulista, em 2h22 minutos, e se garantiram nas semifinais da competição, faltando ainda uma rodada para fechar a fase de grupos."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/capa-de-revista-com-serena-mostra-sua-impressionante-perda-de-peso.html",
@@ -19,13 +33,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/12/nadal-fonseca-1024x602.jpg",
         "date": "03/12/2025",
         "description": "Madri (Espanha) –Um ano após disputar a última partida da carreira profissional, na fase final da Copa Davis de 2024, Rafael Nadal segue acompanhando o circuito, embora admita que assiste a menos jogos do que na época em que competia. O ex-número 1 do mundo lamenta a falta de concorrência para os atuais líderes do ranking, Jannik Sinner e Carlos Alcaraz, e avalia que o brasileiro João Fonseca ainda precisa de tempo antes de se consolidar como ameaça real aos dois protagonistas da nova geração."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-03-12.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/bohrer_leme_back.jpg",
-        "date": "03/12/2025",
-        "description": "WTA 125 de Quito (Equador) – Saibro – US$ 115 milDuplas – Quartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/ha-25-anos-guga-superava-agassi-em-lisboa-para-chegar-ao-no-1.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/pagotto_maio_25.jpg",
         "date": "02/12/2025",
         "description": "WTA 125 de Quito (Equador) – Saibro – US$ 115 milPrimeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/serena-nega-rumores-sobre-retorno-ao-circuito-em-2026.html",
-        "title": "Serena nega rumores sobre retorno ao circuito em 2026",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/serena_uso2022_entrada-1024x576.jpg",
-        "date": "02/12/2025",
-        "description": "Miami (EUA) –Um rumor sobre o possível retorno de Serena Williams ao circuito profissional em 2026 movimentou a comunidade do tênis nesta terça-feira. Entretanto, a ex-número 1 do mundo e vencedora de 23 títulos de Grand Slam utilizou as redes sociais para desmentir a informação: “Meu Deus, gente, eu não vou voltar. Isso é uma loucura”."
     }
 ]
