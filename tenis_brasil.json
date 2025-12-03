@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-03-12.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/bohrer_leme_back.jpg",
+        "date": "03/12/2025",
+        "description": "WTA 125 de Quito (Equador) – Saibro – US$ 115 milDuplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/draper-paul-e-popyrin-se-juntam-a-fonseca-no-atp-de-adelaide.html",
+        "title": "Draper, Paul e Popyrin se juntam a Fonseca no ATP de Adelaide",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/draper-us-open-2025-ends-season-e1757423337747-1024x682.jpg",
+        "date": "03/12/2025",
+        "description": "Adelaide (Austrália) –A organização do ATP 250 de Adelaide definiu mais nomes para a disputa do torneio que acontece entre os dias 12 e 17 de janeiro de 2026, na semana anterior ao Australian Open. O evento contará com a participação deJoão Fonseca, número 1 do Brasil e 24º do mundo"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/atp-anuncia-quatro-challengers-no-brasil-no-inicio-de-2026.html",
+        "title": "ATP anuncia quatro challengers no Brasil no início de 2026",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/08/challenger-tv-placeholder-1024x683.jpg",
+        "date": "03/12/2025",
+        "description": "São Paulo (SP) –O calendário de torneios de nível challenger para o primeiro trimestre de 2026 foi divulgado pela ATP. Quatro torneios deste nível já estão confirmados para o Brasil."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/rahkimova-e-mais-uma-tenista-a-trocar-a-russia-pelo-uzbequistao.html",
         "title": "Rahkimova é mais uma tenista a trocar a Rússia pelo Uzbequistão",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/Rakhimova-monterrey.jpg",
@@ -12,13 +33,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/encontro-nacioal-de-treino_Floripa.jpg",
         "date": "03/12/2025",
         "description": "Florianópolis (SC)– Começou nesta quarta-feira, na sede da Confederação Brasileira de Tênis, em Florianópolis, o Encontro Nacional de Treinamento 2025. O evento, que acontece até a próxima sexta-feira, reúne os três atletas de melhor ranking das categorias 12, 14, 16 e 18 anos, no masculino e no feminino, para três dias de atividades intensas focadas em desenvolvimento técnico, físico e comportamental."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-03-12.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/bohrer_leme_back.jpg",
-        "date": "03/12/2025",
-        "description": "WTA 125 de Quito (Equador) – Saibro – US$ 115 milDuplas – Quartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/revelada-a-quadra-para-o-duelo-entre-fonseca-e-alcaraz-em-miami.html",
@@ -54,19 +68,5 @@
         "image": null,
         "date": "03/12/2025",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pietangeli-recebe-ultimas-homenagens-com-trofeu-da-davis-no-foro-italico.html",
-        "title": "Pietrangeli recebe últimas homenagens com troféu da Davis no Foro Itálico",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/Coppa_Davis_commemorazione_Pietrangeli-1024x682.jpg",
-        "date": "03/12/2025",
-        "description": "Roma (Itália) –Dois dias após o falecimento de Nicola Pietrangeli, aquadra que leva o seu nome no Foro Italicoem Roma recebeu as últimas homenagens à lenda do tênis italiano e bicampeão de Roland Garros. As raquetes e o troféu da Copa Davis, competição em que Pietrangeli fez história e conquistou vários recordes, foi posicionado do caixão, cercado por coroas de flores e fotos de sua carreira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/spoto-gianotti-vao-as-semifinais-no-finals-marchezini-chow-perdem-de-russas.html",
-        "title": "Spoto/ Gianotti vão às semifinais no Finals. Marchezini/Chow perdem de russas.",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/spotto_gianotti_sand-series-finals.jpg",
-        "date": "03/12/2025",
-        "description": "Ribeirão Preto (SP)– Melhor dupla da temporada masculina do beach tennis, o italiano Mattia Spoto e o italiano Nicolas Gianotti venceram jogo duríssimo no Sand Series Tour Finals, que acontece na Arena Ribeirão, no interior paulista, em 2h22 minutos, e se garantiram nas semifinais da competição, faltando ainda uma rodada para fechar a fase de grupos."
     }
 ]
