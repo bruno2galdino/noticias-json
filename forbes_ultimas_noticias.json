@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/lseg-integrara-dados-financeiros-ao-chatgpt/",
+        "title": "LSEG Integrará Dados Financeiros Ao ChatGPT",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/carreira-inteligencia-artificial-chatgpt-300x200.jpg",
+        "date": "03/12/2025",
+        "description": "A parceria amplia a estratégia da LSEG de distribuir dados mais amplamente por meio de plataformas de IA"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/12/tiktok-confirma-data-center-no-ceara-e-estima-r200-bi-em-investimentos/",
         "title": "TikTok Confirma Data Center no Ceará e Estima R$200 Bi em Investimentos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/2025-01-15T142933Z_1_LYNXMPEL0E0OX_RTROPTP_4_TIKTOK-EUA-PROIBICAO-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira-idoso-trabalho-300x200.jpg",
         "date": "03/12/2025",
         "description": "Taxa de desocupação dessa população foi de 2,9% em 2024, a menor da série histórica do IBGE"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/3tentos-anuncia-nova-planta-de-processamento-de-milho-e-maior-originacao-de-graos-em-2026/",
-        "title": "3tentos  Anuncia Nova Planta de Processamento de Milho e Maior Originação de Grãos em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/09/agro_graos_soja_7set23_Lucas-Ninno_Guettyimages-300x200.jpg",
-        "date": "03/12/2025",
-        "description": "Projeção anual soma mais de 6,9 milhões de toneladas, com destaque para soja, milho, trigo e canola"
     }
 ]
