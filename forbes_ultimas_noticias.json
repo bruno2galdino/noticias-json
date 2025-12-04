@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-incerteza-sobre-o-comportamento-do-pib-no-terceiro-trimestre/",
+        "title": "Pré-mercado: Incerteza sobre o Comportamento do PIB no Terceiro Trimestre",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "04/12/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 4 de dezembro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/empresas-entram-em-corrida-bilionaria-para-fugir-da-nova-tributacao-de-dividendos/",
         "title": "Empresas Entram em Corrida Bilionária Para Fugir da Nova Tributação de Dividendos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-11-1-300x200.png",
@@ -22,7 +29,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/12/roblox-aposta-na-biometria-facial-para-proteger-criancas-avanco-ou-risco/",
-        "title": "Roblox Aposta na Biometria Facial para Proteger Crianças: Avanço ou Risco?",
+        "title": "Roblox Aposta na Biometria Facial para Proteger Crianças",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Roblox_Biometria_Infantil-1-300x200.png",
         "date": "04/12/2025",
         "description": "Decisão inédita da plataforma de jogos, que possui 112 milhões de usuários diariamente, reacende debate sobre segurança digital infantil, privacidade e regulamentação no Brasil"
@@ -42,8 +49,8 @@
         "description": "Um guia de boas práticas para se aproximar de colegas e chefes e evitar vexames e situações desconfortáveis"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2025/12/30-under-30-alimentos-e-bebidas-2026-estao-estao-mudando-a-forma-como-os-eua-se-alimentam/",
-        "title": "30 Under 30 Alimentos e Bebidas 2026: Estão Estão Mudando a Forma Como os EUA se Alimentam",
+        "url": "https://forbes.com.br/forbesagro/2025/12/30-under-30-alimentos-e-bebidas-2026-eles-estao-mudando-a-forma-como-os-eua-se-alimentam/",
+        "title": "30 Under 30 Alimentos e Bebidas 2026: Eles Estão Mudando a Forma Como os EUA se Alimentam",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Troy-Bonde_03dez25_ForbesEUA-300x200.jpg",
         "date": "04/12/2025",
         "description": "A lista da Forbes EUA inclui nesta categoria uma marca viral de molho para massas, startups de IA, restaurateurs da Geração Z e muito mais; Confira"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Alberto-Pitta-Aquele-que-provem-fartura-a-casa-2025-pintura-e-serigrafia-sobre-tela195x164cm-300x200.jpg",
         "date": "04/12/2025",
         "description": "Em Nova York, exposição com obras de Alberto Pitta e Elian Almeida exalta o legado afrobrasileiro em diálogo cromático vibrante"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-bate-recorde-e-encosta-nos-162-mil-pontos/",
-        "title": "Ibovespa Bate Recorde e Encosta nos 162 Mil Pontos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "03/12/2025",
-        "description": "O índice marcou 161.963,49 pontos no melhor momento, nova máxima intradia"
     }
 ]
