@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/joao-fonseca-acompanha-connquista-do-flamengo-no-maracana.html",
+        "title": "João Fonseca acompanha connquista do Flamengo no Maracanã",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/fonseca_maracana-1024x793.jpg",
+        "date": "04/12/2025",
+        "description": "Rio Janeiro (RJ) –João Fonseca fez uma pequena pausa em sua pré-temporada para acompanhar o time do coração no estádio, algo que nem sempre é possível para os tenistas que viajam muito durante todo o ano."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/candiotto-e-melleiro-se-juntam-a-konishi-nas-oitavas-em-lima.html",
         "title": "Candiotto e Melleiro se juntam a Konishi nas oitavas em Lima",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/candiotto_fore_ecp.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/farias_lea-1024x683.jpg",
         "date": "03/12/2025",
         "description": "Criciúma (SC) –A Confederação Brasileira de Tênis comunicou nesta quarta-feira o falecimento de Léa Maria Reis de Farias, mãe do presidente Alexandre Reis de Farias, ocorrido aos 78 anos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/azarenka-acompanha-partida-do-boca-juniors-em-la-bombonera.html",
-        "title": "Azarenka acompanha partida do Boca Juniors em La Bombonera",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/azarenka_riquelme_boca-1024x686.jpg",
-        "date": "03/12/2025",
-        "description": "Buenos Aires (Argentina) –A bielorrussa Victoria Azarenka, ex-número 1 do mundo e bicampeã do Australian Open em 2012 e 2013 está em Buenos Aires e acompanhou à partida entre o Boca Juniors e o Argentinos Juniors, em La Bombonera, pelas quartas de final do Torneio de Encerramento de 2025, em um camarote no estádio."
     }
 ]
