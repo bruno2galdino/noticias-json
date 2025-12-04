@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/novo-jogador-na-industria-florestal-neozelandesa-chega-ao-uruguai-com-us-100-milhoes/",
+        "title": "Novo Jogador na Indústria Florestal: Neozelandesa Chega Ao Uruguai com US$ 100 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_floresta_uruguai_03dez25_FU_Divulg-300x200.jpg",
+        "date": "04/12/2025",
+        "description": "A Claymark é a maior fabricante e exportadora de produtos de pinus premium da Nova Zelândia"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2025/12/ifood-fecha-acordo-inedito-e-se-torna-patrocinador-oficial-das-selecoes-brasileiras-de-futebol/",
+        "title": "iFood Fecha Acordo Inédito e se Torna Patrocinador Oficial das Seleções Brasileiras de Futebol",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/AnaLopes-300x200.jpg",
+        "date": "04/12/2025",
+        "description": "Para Ana Gabriela Lopes, CMO da plataforma, o acordo traduz a visão de longo prazo da empresa: “as seleções carregam um valor simbólico profundo para o país\""
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-incerteza-sobre-o-comportamento-do-pib-no-terceiro-trimestre/",
         "title": "Pré-mercado: Incerteza sobre o Comportamento do PIB no Terceiro Trimestre",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -32,7 +46,7 @@
         "title": "Roblox Aposta na Biometria Facial para Proteger Crianças",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Roblox_Biometria_Infantil-1-300x200.png",
         "date": "04/12/2025",
-        "description": "Decisão inédita da plataforma de jogos, que possui 112 milhões de usuários diariamente, reacende debate sobre segurança digital infantil, privacidade e regulamentação no Brasil"
+        "description": "Decisão inédita da plataforma de jogos, que possui 150 milhões de usuários diariamente, reacende debate sobre segurança digital infantil, privacidade e regulamentação no Brasil"
     },
     {
         "url": "https://forbes.com.br/forbessaude/2025/12/4-sinais-de-que-voce-e-gentil-com-todos-menos-consigo-mesmo/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Troy-Bonde_03dez25_ForbesEUA-300x200.jpg",
         "date": "04/12/2025",
         "description": "A lista da Forbes EUA inclui nesta categoria uma marca viral de molho para massas, startups de IA, restaurateurs da Geração Z e muito mais; Confira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/da-ia-ao-esporte-conheca-as-mulheres-de-destaque-da-lista-forbes-under-30-usa-2026/",
-        "title": "Conheça as Mulheres de Destaque da Lista Forbes Under 30 USA 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/coco-gauff-under-30-300x200.jpg",
-        "date": "04/12/2025",
-        "description": "Seleção reúne jovens que alcançaram o sucesso em categorias como entretenimento, música, finanças, saúde e entretenimento antes de completarem 30 anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/arte-afrobrasileira-em-nova-york-na-exposicao-carnaval-lutas-e-outras-historias-brasileiras/",
-        "title": "Arte Afrobrasileira em Nova York na Exposição “Carnaval, Lutas e Outras Histórias Brasileiras”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Alberto-Pitta-Aquele-que-provem-fartura-a-casa-2025-pintura-e-serigrafia-sobre-tela195x164cm-300x200.jpg",
-        "date": "04/12/2025",
-        "description": "Em Nova York, exposição com obras de Alberto Pitta e Elian Almeida exalta o legado afrobrasileiro em diálogo cromático vibrante"
     }
 ]
