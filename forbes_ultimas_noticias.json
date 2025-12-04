@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/terra-brasil-busca-us-1-bilhao-para-terras-raras-e-fertilizantes-em-mg/",
+        "title": "Terra Brasil Busca US$ 1 Bilhão Para Terras Raras e Fertilizantes em MG",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_mineracao_04.12.2025-300x200.jpg",
+        "date": "04/12/2025",
+        "description": "O projeto, com reserva de mais de 3 bilhões de toneladas de rocha vulcânica, ganhou impulso com EUA e UE"
+    },
+    {
+        "url": "https://forbes.com.br/coluna/2025/12/dividendos-tributados-o-que-muda-para-o-investidor/",
+        "title": "Dividendos Tributados: o Que Muda para o Investidor",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/05/Dinheiro-Cedulas-Moeda-1-300x200.jpg",
+        "date": "04/12/2025",
+        "description": "Entenda como a nova tributação de dividendos e o IRPF mínimo afetam investidores a partir de 2026 e o que muda no seu planejamento."
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/vendas-de-maquinas-e-equipamentos-caem-34-em-outubro-diz-abimaq/",
+        "title": "Vendas de Máquinas e Equipamentos Caem 3,4% em Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_maquina_agricola_fabrica_04.12.2025-300x200.jpg",
+        "date": "04/12/2025",
+        "description": "A Abimaq projeta crescimento de apenas 4% na receita líquida de vendas de máquinas e equipamentos em 2026"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/recuperacao-judicial-e-o-que-mais-afeta-o-credito-rural-no-agro/",
         "title": "Recuperação Judicial É o Que Mais Afeta o Crédito Rural no Agro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_de_milho_04.12.2025-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_floresta_uruguai_03dez25_FU_Divulg-300x200.jpg",
         "date": "04/12/2025",
         "description": "A Claymark é a maior fabricante e exportadora de produtos de pinus premium da Nova Zelândia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/12/ifood-fecha-acordo-inedito-e-se-torna-patrocinador-oficial-das-selecoes-brasileiras-de-futebol/",
-        "title": "iFood Fecha Acordo Inédito e se Torna Patrocinador Oficial das Seleções Brasileiras de Futebol",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/MKT_CBF-futebol-selecao-brasileira-300x200.jpg",
-        "date": "04/12/2025",
-        "description": "Para Ana Gabriela Lopes, CMO da plataforma, o acordo traduz a visão de longo prazo da empresa: “as seleções carregam um valor simbólico profundo para o país\""
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-incerteza-sobre-o-comportamento-do-pib-no-terceiro-trimestre/",
-        "title": "Pré-mercado: Incerteza sobre o Comportamento do PIB no Terceiro Trimestre",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "04/12/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 4 de dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/empresas-entram-em-corrida-bilionaria-para-fugir-da-nova-tributacao-de-dividendos/",
-        "title": "Empresas Entram em Corrida Bilionária Para Fugir da Nova Tributação de Dividendos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-11-1-300x200.png",
-        "date": "04/12/2025",
-        "description": "Estimativas apontam que os proventos distribuídos antes do início da nova tributação podem chegar a até R$ 84 bilhões, o que faria de 2025 um recorde histórico"
     }
 ]
