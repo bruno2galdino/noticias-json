@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/recuperacao-judicial-e-o-que-mais-afeta-o-credito-rural-no-agro/",
+        "title": "Recuperação Judicial É o Que Mais Afeta o Crédito Rural no Agro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_de_milho_04.12.2025-300x200.jpg",
+        "date": "04/12/2025",
+        "description": "Os pedidos de RJ no agronegócio atingiram 565 solicitações no 2º trimestre (alta de 31,7%)"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2025/12/brandvoice-ecad-o-novo-indicador-de-governanca-corporativa/",
+        "title": "O Novo Indicador de Governança Corporativa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-6-300x200.jpg",
+        "date": "04/12/2025",
+        "description": "Mais que marketing, patrocinar eventos que respeitam os direitos autorais tornou-se um ato estratégico de reputação, ética e liderança cultural"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/petrobras-e-shell-levam-duas-areas-do-pre-sal-sem-concorrencia-por-r-88-bi/",
         "title": "Petrobras e Shell Levam Duas Áreas do Pré-Sal sem Concorrência por R$ 8,8 Bi",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_esg_money_logo_petrobras_foto_REUTERS-Sergio_Moraes_14.10.2025-1-300x200.jpg",
@@ -37,7 +51,7 @@
     {
         "url": "https://forbes.com.br/forbes-mkt/2025/12/ifood-fecha-acordo-inedito-e-se-torna-patrocinador-oficial-das-selecoes-brasileiras-de-futebol/",
         "title": "iFood Fecha Acordo Inédito e se Torna Patrocinador Oficial das Seleções Brasileiras de Futebol",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/AnaLopes-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/MKT_CBF-futebol-selecao-brasileira-300x200.jpg",
         "date": "04/12/2025",
         "description": "Para Ana Gabriela Lopes, CMO da plataforma, o acordo traduz a visão de longo prazo da empresa: “as seleções carregam um valor simbólico profundo para o país\""
     },
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-11-1-300x200.png",
         "date": "04/12/2025",
         "description": "Estimativas apontam que os proventos distribuídos antes do início da nova tributação podem chegar a até R$ 84 bilhões, o que faria de 2025 um recorde histórico"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/rz-500e-a-visao-da-lexus-de-um-suv-100-eletrico-de-luxo/",
-        "title": "RZ 500e: a Visão da Lexus de um SUV 100% Elétrico de Luxo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Lexus_RZ500e_002-300x200.jpg",
-        "date": "04/12/2025",
-        "description": "O carro já está em pré-venda por R$ 499.990. As entregas começam a partir do segundo trimestre de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/os-paises-mais-seguros-do-mundo-em-2026/",
-        "title": "Os Países Mais Seguros do Mundo em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Uma-vista-de-Viena-do-terraco-da-Catedral-de-Santo-Estevao-um-destino-imperdivel-na-Austria-pais-que-foi-eleito-um-dos-mais-seguros-do-mundo-em-2026-300x200.jpg",
-        "date": "04/12/2025",
-        "description": "Novo relatório da Berkshire Hathaway Travel Protection apresenta os destinos considerados mais seguros para viajar no ano que vem; confira o top 10"
     }
 ]
