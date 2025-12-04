@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/indianos-cancelam-compra-de-soja-apos-alta-de-precos/",
+        "title": "Indianos Cancelam Compra de Soja após Alta de Preços",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_colheita_no_Brasil_foto_Lucas_Ninno-gettyimages_28.11.2025-300x200.jpg",
+        "date": "04/12/2025",
+        "description": "Os preços globais do óleo de soja estão atingindo o nível mais alto em quatro meses"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-renova-recorde-e-ultrapassa-164-mil-pontos/",
+        "title": "Ibovespa Renova Recorde e Ultrapassa 164 Mil Pontos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "04/12/2025",
+        "description": "O movimento foi impulsionado pelo aumento de apostas de queda da Selic no começo em 2026"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/congresso-aprova-ldo-de-2026-com-meta-de-superavit-de-025-do-pib-e-excecao-para-resultado-de-estatais/",
         "title": "Congresso Aprova LDO de 2026 com Meta de Superávit de 0,25% do PIB e Exceção para Resultado de Estatais",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-6-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_de_milho_04.12.2025-300x200.jpg",
         "date": "04/12/2025",
         "description": "Os pedidos de RJ no agronegócio atingiram 565 solicitações no 2º trimestre (alta de 31,7%)"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/12/brandvoice-ecad-o-novo-indicador-de-governanca-corporativa/",
-        "title": "O Novo Indicador de Governança Corporativa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-6-300x200.jpg",
-        "date": "04/12/2025",
-        "description": "Mais que marketing, patrocinar eventos que respeitam os direitos autorais tornou-se um ato estratégico de reputação, ética e liderança cultural"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/petrobras-e-shell-levam-duas-areas-do-pre-sal-sem-concorrencia-por-r-88-bi/",
-        "title": "Petrobras e Shell Levam Duas Áreas do Pré-Sal sem Concorrência por R$ 8,8 Bi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_esg_money_logo_petrobras_foto_REUTERS-Sergio_Moraes_14.10.2025-1-300x200.jpg",
-        "date": "04/12/2025",
-        "description": "Governo arrecadou menos que o esperado já que não houve lance pela fatia de Tupi em leilão inédito"
     }
 ]
