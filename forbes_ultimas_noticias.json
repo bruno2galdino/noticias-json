@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/12/art-basel-miami-deve-injetar-us-565-milhoes-e-aquecer-mercado-imobiliario/",
+        "title": "Art Basel Miami Deve Injetar US$ 565 Milhões e Aquecer Mercado Imobiliário",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Miami-Art-Basel-300x200.jpg",
+        "date": "05/12/2025",
+        "description": "Além das vendas no pavilhão, a maior feira de arte das Américas impulsiona o setor de serviços e atrai investidores focados no mercado de propriedades de luxo"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/12/heineken-anuncia-alex-carreteiro-como-novo-presidente-para-as-americas/",
+        "title": "Heineken Anuncia Alex Carreteiro Como Presidente para as Américas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/alex-carreteiro-300x200.jpg",
+        "date": "05/12/2025",
+        "description": "Ex-CEO da PepsiCo Brasil & Cone Sul assume o cargo em março de 2026 com a missão de acelerar crescimento e inovação na região"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/brandvoice-bio-ritmo-nova-era-do-bem-estar/",
+        "title": "Nova Era do Bem-Estar",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/1-7-300x200.jpg",
+        "date": "05/12/2025",
+        "description": "Bio Ritmo investe em personalização, tecnologia e expansão internacional para dominar o segmento high-end do fitness latino-americano"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/superavit-comercial-do-brasil-cai-13-em-novembro-quase-em-linha-com-estimativas/",
+        "title": "Superávit Comercial do Brasil Cai 13% em Novembro, Quase em Linha com Estimativas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Patio-de-conteineres-no-Porto-de-Santos-no-Estado-de-Sao-Paulo-300x200.jpg",
+        "date": "05/12/2025",
+        "description": "Balança comercial registrou superávit de US$ 5,842 bilhões, informou o MDIC"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/jhsf-capital-capta-r-780-milhoes-e-expande-fundo-de-shoppings/",
+        "title": "JHSF Capital Capta R$ 780 Milhões E Expande Fundo De Shoppings",
+        "image": "https://forbes.com.br/wp-content/uploads/2018/01/ShoppingCidadeJardim_SaoPaulo-3.jpg",
+        "date": "05/12/2025",
+        "description": "Criada há três anos, a gestora alcança R$ 4 bilhões sob gestão e amplia participação em ativos como Catarina Fashion Outlet e Shops Jardins"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/12/brandvoice-ifood-a-era-dos-agentes/",
         "title": "A Era dos Agentes",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/1-6-300x200.jpg",
@@ -8,10 +43,10 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/12/netflix-comprara-estudios-e-unidade-de-streaming-da-warner-bros-discovery-por-us72-bilhoes/",
-        "title": "Netflix Comprará Estúdios e Unidade de Streaming da Warner Bros Discovery por Us$72 Bilhões",
+        "title": "Netflix Comprará Estúdios e Unidade de Streaming da Warner Bros Discovery por US$ 72 Bilhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-05T122804Z_1_LYNXMPELB40QB_RTROPTP_4_WARNER-BROS-DIS-M-A-NETFLIX-300x200.jpg",
         "date": "05/12/2025",
-        "description": "Acordo anunciado na sexta-feira encerra semanas de disputa, com a Netflix à frente ao oferecer quase US$28 por ação"
+        "description": "Acordo anunciado na sexta-feira encerra semanas de disputa, com a Netflix à frente ao oferecer quase US$ 28 por ação"
     },
     {
         "url": "https://forbes.com.br/forbeswsb/2025/12/barril-de-macallan-vai-a-leilao-na-sothebys-nesta-sexta-e-pode-chegar-a-meio-milhao-de-dolares/",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/cloudflare-300x200.png",
         "date": "05/12/2025",
         "description": "O DownDetector mostra um pico enorme de relatos relacionados ao Cloudflare na madrugada desta sexta-feira, (5), com cerca de 2.000 relatos às 4h da manhã"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/formula-e-deve-injetar-mais-de-r-180-milhoes-na-economia-de-sao-paulo/",
-        "title": "Fórmula E Deve Injetar Mais de R$ 180 Milhões na Economia de São Paulo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/SAO-AF24171-FpqpzN8V-2048x2048-1-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "E-Prix na capital paulista abre a Temporada 12 do Campeonato Mundial de Fórmula E neste sábado, 6 de dezembro de 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2025/12/motorola-anuncia-smartphone-com-cor-do-ano-pantone-2026/",
-        "title": "O Que a Nova Cor do Ano, Cloud Dancer, Revela sobre a Estratégia Global da Motorola",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Motorola_Cor_do_Ano_Pantone_2026-300x200.png",
-        "date": "05/12/2025",
-        "description": "A marca mantém há alguns anos uma colaboração contínua com a Pantone para lançar cores exclusivas em seus dispositivos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/as-5-melhores-cidades-do-mundo-para-a-vida-noturna/",
-        "title": "As 5 Melhores Cidades do Mundo para a Vida Noturna",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Toquio-Japao_-outdoors-e-letreiros-de-neon-enfeitam-o-distrito-de-Kabuki-cho-em-Shinjuku.-A-area-e-um-bairro-boemio-conhecido-como-Cidade-Insones-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "Novo índice global analisa preços, densidade de bares, segurança e horários de funcionamento para identificar os centros mais relevantes da cena noturna"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/do-olimpo-a-panem-o-boom-da-nostalgia-traz-de-volta-sagas-marcantes-da-cultura-pop/",
-        "title": "Nostalgia Influencia Consumo de Livros, Series e Afeta o Comportamento dos Usuários no Streaming",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Jogos_Vorazes_Amanhecer_na_Colheita_Saga_Nostalgia-300x200.png",
-        "date": "05/12/2025",
-        "description": "De acordo com a Pesquisa Geek Power 2025, Jogos Vorazes: Amanhecer na Colheita conquistou o primeiro lugar entre os “melhores livros de 2025” superando até a Bíblia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/como-ela-foi-do-transporte-escolar-a-lider-de-marketing-no-grupo-boticario/",
-        "title": "Como Ela Foi do Transporte Escolar a Líder de Marketing no Grupo Boticário",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Giovana-Orlandeli-diretora-boticario-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "Aos 18 anos, Giovana Orlandeli assumiu o negócio da mãe; hoje, é diretora de marcas e comunicação da Eudora, TRUSS, Vult e O.U.i."
     }
 ]
