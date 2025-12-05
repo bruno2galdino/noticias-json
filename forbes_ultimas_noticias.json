@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/com-31-milhoes-de-bovinos-mapeados-confinamento-mostra-avanco-na-pecuaria/",
+        "title": "Com 3,1 Milhões de Bovinos Mapeados, Confinamento Mostra Avanço na Pecuária",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_gado_confinamento_27fev25_Getty-300x200.jpg",
+        "date": "05/12/2025",
+        "description": "A expedição realizada pela paulista Scot Consultoria analisou 184 fazendas no país"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/indianos-cancelam-compra-de-soja-apos-alta-de-precos/",
         "title": "Indianos Cancelam Compra de Soja após Alta de Preços",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_colheita_no_Brasil_foto_Lucas_Ninno-gettyimages_28.11.2025-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_maquina_agricola_fabrica_04.12.2025-300x200.jpg",
         "date": "04/12/2025",
         "description": "A Abimaq projeta crescimento de apenas 4% na receita líquida de vendas de máquinas e equipamentos em 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/recuperacao-judicial-e-o-que-mais-afeta-o-credito-rural-no-agro/",
-        "title": "Recuperação Judicial É o Que Mais Afeta o Crédito Rural no Agro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_de_milho_04.12.2025-300x200.jpg",
-        "date": "04/12/2025",
-        "description": "Os pedidos de RJ no agronegócio atingiram 565 solicitações no 2º trimestre (alta de 31,7%)"
     }
 ]
