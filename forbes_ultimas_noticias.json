@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/12/leroy-merlin-nomeia-ricardo-dinelli-como-novo-diretor-geral-no-brasil/",
+        "title": "Leroy Merlin Nomeia Ricardo Dinelli Como Diretor-Geral no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Ricardo-Dinelli-leroy-merlin-300x200.jpg",
+        "date": "05/12/2025",
+        "description": "Primeiro brasileiro a ocupar o cargo no Grupo ADEO, executivo começou como trainee na companhia e soma 13 anos de casa"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/12/art-basel-miami-deve-injetar-us-565-milhoes-e-aquecer-mercado-imobiliario/",
         "title": "Art Basel Miami Deve Injetar US$ 565 Milhões e Aquecer Mercado Imobiliário",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Miami-Art-Basel-300x200.jpg",
@@ -9,7 +16,7 @@
     {
         "url": "https://forbes.com.br/carreira/2025/12/heineken-anuncia-alex-carreteiro-como-novo-presidente-para-as-americas/",
         "title": "Heineken Anuncia Alex Carreteiro Como Presidente para as Américas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/alex-carreteiro-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/especial-esg-7-300x200.jpg",
         "date": "05/12/2025",
         "description": "Ex-CEO da PepsiCo Brasil & Cone Sul assume o cargo em março de 2026 com a missão de acelerar crescimento e inovação na região"
     },
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "05/12/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 5 de dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/cloudflare-fora-do-ar-nova-interrupcao-derruba-zoom-fortnite-e-linkedin/",
-        "title": "Cloudflare Fora do Ar: Nova Interrupção Derruba Zoom, Fortnite e Linkedin",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/cloudflare-300x200.png",
-        "date": "05/12/2025",
-        "description": "O DownDetector mostra um pico enorme de relatos relacionados ao Cloudflare na madrugada desta sexta-feira, (5), com cerca de 2.000 relatos às 4h da manhã"
     }
 ]
