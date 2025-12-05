@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/12/morre-frank-gehry-genio-da-arquitetura-aos-96-anos/",
+        "title": "Morre Frank Gehry, Gênio da Arquitetura, Aos 96 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/SITE-1500X1000-300x200.jpg",
+        "date": "05/12/2025",
+        "description": "Autor de obras marcantes da arquitetura contemporânea, como Guggenheim Bilbao e a Fondation Louis Vuitton, o americano sofreu de uma doença respiratória"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-desaba-mais-de-4-com-noticiario-politico/",
+        "title": "Ibovespa Desaba Mais de 4% com Noticiário Político",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "05/12/2025",
+        "description": "Esse foi o pior desempenho do índice desde fevereiro de 2021"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/o-piloto-da-formula-e-que-escolheu-sao-paulo-para-fazer-o-impossivel/",
+        "title": "O Piloto da Fórmula E Que Escolheu São Paulo para Fazer o Impossível",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/J_TCS_Racing_MitchEvans_221025_002-1-300x200.jpg",
+        "date": "05/12/2025",
+        "description": "Em 2024, Mitch Evans, da Jaguar TCS Racing, largou em último e cruzou a linha de chegada em primeiro. Na corrida deste sábado, ele volta à pista em São Paulo em busca de liderar a prova do início ao fim"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/12/copa-do-mundo-juntos-adversarios-da-selecao-tem-21-do-pib-do-brasil/",
         "title": "Copa do Mundo: Juntos, Primeiros Adversários da Seleção Somam o Equivalente a 21% do PIB do Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Copa-do-mundo-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_05.12.2025-300x200.jpg",
         "date": "05/12/2025",
         "description": "A Emater afirmou que a paralisação das atividades ocorreu pela necessidade de reposição hídrica"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/petrobras-deve-reiniciar-producao-de-fertilizantes-no-nordeste-ate-janeiro-diz-diretor/",
-        "title": "Petrobras Deve Reiniciar Produção de Fertilizantes no Nordeste até Janeiro, Diz Diretor",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-04T202039Z_1_LYNXMPELB3178_RTROPTP_3_LATAM-AGRICULTURE-FERTILIZERS-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "A estatal brasileira do petróleo mira suprir 20% do mercado nacional de fertilizantes nitrogenados até 2026, reduzindo a forte dependência de importações"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/citrosuco-anuncia-fundo-de-pensao-do-canada-psp-como-novo-acionista/",
-        "title": "Citrosuco Anuncia Fundo de Pensão do Canadá PSP Como Novo Acionista",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-04T180156Z_1_LYNXMPELB312U_RTROPTP_4_CITRUS-BRAZIL-FUNGICIDE-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "Empresa vê o acordo como passo inicial para consolidar uma parceria estratégica duradoura"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/ue-multa-x-em-120-milhoes-de-euros-por-violar-regras-de-conteudo-tiktok-faz-acordo/",
-        "title": "UE Multa X em 120 Milhões de Euros por Violar Regras de Conteúdo; TikTok Faz Acordo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-05T134235Z_1_LYNXMPELB40UC_RTROPTP_4_TECH-UE-MULTA-X-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "O governo Trump acusa a União Europeia de agir de forma discriminatória ao impor restrições às gigantes de tecnologia dos EUA, alegando prejuízo às empresas e aos usuários norte-americanos"
     }
 ]
