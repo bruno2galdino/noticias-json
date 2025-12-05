@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/brandvoice-ifood-a-era-dos-agentes/",
+        "title": "A Era dos Agentes",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/1-6-300x200.jpg",
+        "date": "05/12/2025",
+        "description": "Com mais de 190 modelos de IA em operação e soluções proprietárias como o LCM, iFood mostra como usa tecnologia para melhorar o dia a dia de todo o ecossistema"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/netflix-comprara-estudios-e-unidade-de-streaming-da-warner-bros-discovery-por-us72-bilhoes/",
+        "title": "Netflix Comprará Estúdios e Unidade de Streaming da Warner Bros Discovery por Us$72 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-05T122804Z_1_LYNXMPELB40QB_RTROPTP_4_WARNER-BROS-DIS-M-A-NETFLIX-300x200.jpg",
+        "date": "05/12/2025",
+        "description": "Acordo anunciado na sexta-feira encerra semanas de disputa, com a Netflix à frente ao oferecer quase US$28 por ação"
+    },
+    {
         "url": "https://forbes.com.br/forbeswsb/2025/12/barril-de-macallan-vai-a-leilao-na-sothebys-nesta-sexta-e-pode-chegar-a-meio-milhao-de-dolares/",
         "title": "Barril de Macallan Vai a Leilão na Sotheby’s Nesta Sexta e Pode Chegar a Meio Milhão de Dólares",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Natterjacks-Cask-Strength-Irish-Whiskey.-Natterjack-5-300x200.jpg",
@@ -53,20 +67,6 @@
         "title": "Como Ela Foi do Transporte Escolar a Líder de Marketing no Grupo Boticário",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Giovana-Orlandeli-diretora-boticario-300x200.jpg",
         "date": "05/12/2025",
-        "description": "Aos 18 anos, Giovana Orlandeli assumiu o negócio da mãe; hoje, é diretora de marketing das marcas Eudora, TRUSS e O.U.i."
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ambev-aposta-em-inovacao-e-tecnologia-para-vencer-a-queda-de-braco-no-mercado-premium/",
-        "title": "Ambev Aposta em Inovação e Tecnologia para Vencer a Queda de Braço no Mercado Premium",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/ambev_forbesmoney-e1764892362383-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "Em entrevista à Forbes Brasil, Gustavo Castro, diretor de estratégia e inovação da Ambev, falou sobre os desafios do segmento cervejeiro premium"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/12/apoiada-pela-lvmh-volcan-lanca-uma-tequila-de-r-15-400-a-garrafa/",
-        "title": "Apoiada Pela LVMH, Volcan Lança Tequila de R$ 15.400 a Garrafa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Natterjacks-Cask-Strength-Irish-Whiskey.-Natterjack-4-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "Bebida da Moët Hennessy Louis Vuitton é destilada a partir de agave azul weber das terras baixas do México"
+        "description": "Aos 18 anos, Giovana Orlandeli assumiu o negócio da mãe; hoje, é diretora de marcas e comunicação da Eudora, TRUSS, Vult e O.U.i."
     }
 ]
