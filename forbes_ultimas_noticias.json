@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/sucesso-de-vendas-carro-eletrico-da-xiaomi-chega-ao-uruguai-em-2027/",
+        "title": "Sucesso de Vendas, Carro Elétrico da Xiaomi Chega Ao Uruguai em 2027",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Xiaomi-SU7-5-scaled-1-300x200.png",
+        "date": "06/12/2025",
+        "description": "O preço do SU7 deve ficar em torno de US$ 50.000, enquanto o YU7 elétrico pode custar US$ 60.000, dependendo da versão"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/magia-de-uco-o-segredo-mais-bem-guardado-do-vinho-do-vale-argentino/",
+        "title": "Magia de Uco: o Segredo Mais Bem Guardado do Vinho do Vale Argentino",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Agro_magia-de-uvo_vinicola_03dez25_MU_Divulg-1-300x200.jpg",
+        "date": "06/12/2025",
+        "description": "Saiba quem reescreve as regras da elaboração de vinhos de alta gama combinando mais de 450 anos com precisão europeia; Brasil está entre os clientes"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/eric-trump-ficou-10-vezes-mais-rico-desde-a-eleicao-de-seu-pai/",
+        "title": "Eric Trump Ficou 10 Vezes Mais Rico desde a Eleição de Seu Pai",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-1-300x200.png",
+        "date": "06/12/2025",
+        "description": "Após nove anos à frente dos negócios do pai, Eric Trump encontrou nas criptomoedas o caminho para superar os irmãos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/12/como-esther-perel-ajuda-casais-e-equipes-a-manter-boas-relacoes/",
+        "title": "Como Esther Perel Ajuda Casais e Equipes a Manter Boas Relações",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Esther-Perel-300x200.jpg",
+        "date": "06/12/2025",
+        "description": "Psicoterapeuta e consultora de grandes empresas explica a importância do diálogo e da vulnerabilidade para a conexão e alta performance"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/por-r-90-mil-a-diaria-fique-no-resort-de-golfe-que-atrai-artistas-e-bilionarios/",
+        "title": "Por R$ 90 Mil a Diária, Fique no Resort de Golfe Que Atrai Artistas e Bilionários",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_0.O-Estates-at-Vidanta-oferece-aos-hospedes-duas-piscinas-privativas-uma-para-familias-e-outra-exclusiva-para-adultos-300x200.jpg",
+        "date": "06/12/2025",
+        "description": "O complexo The Estates, no México, oferece um refúgio para clientes de altíssima renda ao lado de um campo de golfe que recebe etapa do PGA Tour"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/patrimonio-de-magnata-chines-cresce-400-apos-google-escolher-sua-empresa-para-avancos-em-ia/",
+        "title": "Patrimônio de Magnata Chinês Cresce 400% após Google Escolher Sua Empresa para Avanços em IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-9-300x200.jpg",
+        "date": "06/12/2025",
+        "description": "Wang Weixiu, fundador da fabricante de dispositivos ópticos Zhongji Innolight, viu sua fortuna subir para US$ 13 bilhões (R$ 70,46 bilhões)"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/s-pellegrino-e-ferrari-anunciam-parceria-global-de-longo-prazo/",
+        "title": "S.Pellegrino e Ferrari Anunciam Parceria Global de Longo Prazo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Ferrari-e-S-Pellegrino-300x200.jpg",
+        "date": "06/12/2025",
+        "description": "União estratégica entre as marcas italianas prevê colaborações com a equipe de Fórmula 1, campeonato e ações focadas no público jovem"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/12/top-10-series-e-programas-de-tv-mais-assistidos-da-semana-nos-streamings-2/",
+        "title": "Top 10 Séries e Programas de TV Mais Assistidos da Semana nos Streamings",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Data-Center-1-1-300x200.png",
+        "date": "06/12/2025",
+        "description": "Com a estreia da 5ª e última temporada, Stranger Things sobe no pódio e conquista 1º lugar no ranking semanal"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/12/morre-frank-gehry-genio-da-arquitetura-aos-96-anos/",
         "title": "Morre Frank Gehry, Gênio da Arquitetura, Aos 96 Anos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/SITE-1500X1000-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
         "date": "05/12/2025",
         "description": "Esse foi o pior desempenho do índice desde fevereiro de 2021"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/o-piloto-da-formula-e-que-escolheu-sao-paulo-para-fazer-o-impossivel/",
-        "title": "O Piloto da Fórmula E Que Escolheu São Paulo para Fazer o Impossível",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/J_TCS_Racing_MitchEvans_221025_002-1-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "Em 2024, Mitch Evans, da Jaguar TCS Racing, largou em último e cruzou a linha de chegada em primeiro. Na corrida deste sábado, ele volta à pista em São Paulo em busca de liderar a prova do início ao fim"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/12/copa-do-mundo-juntos-adversarios-da-selecao-tem-21-do-pib-do-brasil/",
-        "title": "Copa do Mundo: Juntos, Primeiros Adversários da Seleção Somam o Equivalente a 21% do PIB do Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Copa-do-mundo-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "Em sorteio nesta sexta-feira, (5), em Washington, a FIFA definiu os grupos do torneio, que começa em 11 de junho, na Cidade do México"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/precos-mundiais-dos-alimentos-caem-pelo-terceiro-mes-seguido/",
-        "title": "Preços Mundiais dos Alimentos Caem Pelo Terceiro Mês Seguido",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_supermercado_australia_05.12.2025-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "O Índice de Preços de Alimentos atingiu 125,1 pontos em novembro, o menor valor desde janeiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/ara-vartanian-reune-convidados-em-noite-dedicada-a-musica/",
-        "title": "Ara Vartanian Reúne Convidados em Noite Dedicada À Música",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Ara-Vartanian-e-Sabrina-Gasperin-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "Em clima de listening bar, a celebração contou com performances exclusivas de Jonathan Ferr e Assucena"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/precos-ao-produtor-no-brasil-caem-pela-9a-vez-consecutiva/",
-        "title": "Preços ao Produtor no Brasil Caem Pela 9ª Vez Consecutiva",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_acucar_05.12.2025-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "A queda foi influenciada principalmente pelo segmento de alimentos, com destaque para o preço do açúcar"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/maersk-testa-mistura-de-50-de-etanol-em-combustivel-maritimo/",
-        "title": "Maersk Testa Mistura de 50% de Etanol em Combustível Marítimo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_exportacao_maersk_05.12.2025-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "O transporte marítimo responde por cerca de 3% das emissões globais de gases de efeito estufa"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/petrobras-inicia-entregas-de-saf-apos-producao-integral-no-brasil/",
-        "title": "Petrobras Inicia Entregas de SAF Após Produção Integral no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_aviao_saf_05.12.2025-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "O SAF foi produzido por coprocessamento na Reduc, utilizando óleo técnico de milho ou óleo de soja"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/reducao-de-chuvas-freia-plantio-de-soja-no-rio-grande-do-sul/",
-        "title": "Redução de Chuvas Freia Plantio de Soja no Rio Grande do Sul",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_05.12.2025-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "A Emater afirmou que a paralisação das atividades ocorreu pela necessidade de reposição hídrica"
     }
 ]
