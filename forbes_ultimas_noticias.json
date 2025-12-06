@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/pix-bate-recorde-com-313-milhoes-de-transacoes-em-um-dia/",
+        "title": "Pix Bate Recorde com 313 Milhões de Transações em um Dia",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/01/Money_Pix_Marcello-Casal-Junior_Agencia-Brasil-300x200.jpg",
+        "date": "06/12/2025",
+        "description": "Sistema do BC movimenta R$179,9 bilhões em 24 horas e supera marco anterior impulsionado pelo calendário de pagamentos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/meta-compra-a-limitless-e-acelera-dispositivos-vestiveis-com-ia/",
+        "title": "Meta Compra a Limitless e Acelera Dispositivos Vestíveis com IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Ray-Ban-Meta-Wayfarer-Gen-2-Shiny-Black-Transitions®-Graphite-Green-Lenses-Transition-Stack-300x200.jpg",
+        "date": "06/12/2025",
+        "description": "Startup levantou US$ 33 milhões; tecnologia de gravação e transcrição reforça estratégia da Meta em wearables inteligentes"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-sport/2025/12/as-datas-dos-jogos-do-brasil-na-copa-mais-longa-da-historia/",
+        "title": "As Datas dos Jogos do Brasil na Copa Mais Longa da História",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-12-300x200.png",
+        "date": "06/12/2025",
+        "description": "A Copa de 2026 terá mais dias, mais seleções e mais fases; entenda como o Brasil pode avançar em um torneio superlativo e inédito"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/sucesso-de-vendas-carro-eletrico-da-xiaomi-chega-ao-uruguai-em-2027/",
         "title": "Sucesso de Vendas, Carro Elétrico da Xiaomi Chega Ao Uruguai em 2027",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Xiaomi-SU7-5-scaled-1-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Ferrari-e-S-Pellegrino-300x200.jpg",
         "date": "06/12/2025",
         "description": "União estratégica entre as marcas italianas prevê colaborações com a equipe de Fórmula 1, campeonato e ações focadas no público jovem"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/12/top-10-series-e-programas-de-tv-mais-assistidos-da-semana-nos-streamings-2/",
-        "title": "Top 10 Séries e Programas de TV Mais Assistidos da Semana nos Streamings",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Data-Center-1-1-300x200.png",
-        "date": "06/12/2025",
-        "description": "Com a estreia da 5ª e última temporada, Stranger Things sobe no pódio e conquista 1º lugar no ranking semanal"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/morre-frank-gehry-genio-da-arquitetura-aos-96-anos/",
-        "title": "Morre Frank Gehry, Gênio da Arquitetura, Aos 96 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/SITE-1500X1000-300x200.jpg",
-        "date": "05/12/2025",
-        "description": "Autor de obras marcantes da arquitetura contemporânea, como Guggenheim Bilbao e a Fondation Louis Vuitton, o americano sofreu de uma doença respiratória"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-desaba-mais-de-4-com-noticiario-politico/",
-        "title": "Ibovespa Desaba Mais de 4% com Noticiário Político",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "05/12/2025",
-        "description": "Esse foi o pior desempenho do índice desde fevereiro de 2021"
     }
 ]
