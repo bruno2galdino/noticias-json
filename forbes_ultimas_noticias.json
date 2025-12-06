@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/volkswagen-reve-plano-e-investira-us-186-bilhoes-ate-2030/",
+        "title": "Volkswagen Revê Plano e Investirá US$ 186 Bilhões Até 2030",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "06/12/2025",
+        "description": "Montadora ajusta investimentos em meio à pressão nos mercados de China e EUA"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/12/brasil-criara-centro-de-energia-renovavel-no-oceano/",
         "title": "Brasil Criará Centro De Energia Renovável No Oceano",
         "image": "https://forbes.com.br/wp-content/uploads/2022/10/agro-energia-eolica-04out22-PhilNoble-300x200.jpg",
@@ -11,7 +18,7 @@
         "title": "Pix Bate Recorde com 313 Milhões de Transações em um Dia",
         "image": "https://forbes.com.br/wp-content/uploads/2023/01/Money_Pix_Marcello-Casal-Junior_Agencia-Brasil-300x200.jpg",
         "date": "06/12/2025",
-        "description": "Sistema do BC movimenta R$179,9 bilhões em 24 horas e supera marco anterior impulsionado pelo calendário de pagamentos"
+        "description": "Sistema do BC movimenta R$ 179,9 bilhões em 24 horas e supera marco anterior impulsionado pelo calendário de pagamentos"
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/12/meta-compra-a-limitless-e-acelera-dispositivos-vestiveis-com-ia/",
@@ -26,6 +33,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-12-300x200.png",
         "date": "06/12/2025",
         "description": "A Copa de 2026 terá mais dias, mais seleções e mais fases; entenda como o Brasil pode avançar em um torneio superlativo e inédito"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/do-fundador-aos-netos-como-tres-geracoes-negociam-o-futuro-da-pecuaria-cometa/",
+        "title": "Do Fundador Aos Netos, Como Três Gerações Negociam o Futuro da Pecuária Cometa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Francis_Maris_GRupo-Cometa-300x200.jpg",
+        "date": "06/12/2025",
+        "description": "Com 40 mil hectares no Pantanal, a família de Francis Maris Cruz reorganiza a governança rural para que ela se encaixe no modelo de seus negócios urbanos. Em jogo estão R$ 1,3 bi"
     },
     {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/sucesso-de-vendas-carro-eletrico-da-xiaomi-chega-ao-uruguai-em-2027/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Esther-Perel-300x200.jpg",
         "date": "06/12/2025",
         "description": "Psicoterapeuta e consultora de grandes empresas explica a importância do diálogo e da vulnerabilidade para a conexão e alta performance"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/por-r-90-mil-a-diaria-fique-no-resort-de-golfe-que-atrai-artistas-e-bilionarios/",
-        "title": "Por R$ 90 Mil a Diária, Fique no Resort de Golfe Que Atrai Artistas e Bilionários",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Life_0.O-Estates-at-Vidanta-oferece-aos-hospedes-duas-piscinas-privativas-uma-para-familias-e-outra-exclusiva-para-adultos-300x200.jpg",
-        "date": "06/12/2025",
-        "description": "O complexo The Estates, no México, oferece um refúgio para clientes de altíssima renda ao lado de um campo de golfe que recebe etapa do PGA Tour"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/patrimonio-de-magnata-chines-cresce-400-apos-google-escolher-sua-empresa-para-avancos-em-ia/",
-        "title": "Patrimônio de Bilionário Chinês Salta 400% após Parceria com Google",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-9-300x200.jpg",
-        "date": "06/12/2025",
-        "description": "Wang Weixiu, fundador da fabricante de dispositivos ópticos Zhongji Innolight, viu sua fortuna subir para US$ 13 bilhões (R$ 70,46 bilhões)"
     }
 ]
