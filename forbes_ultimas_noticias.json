@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-fecha-em-alta-mas-ainda-abaixo-de-159-mil-pontos/",
+        "title": "Ibovespa Fecha em Alta, Mas Ainda Abaixo de 159 Mil Pontos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "08/12/2025",
+        "description": "Na última sexta-feira (5), o índice superou os 165 mil pontos pela primeira vez na sua história no melhor momento"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/12/forbes-lanca-novo-videocast-mulheres-poderosas/",
+        "title": "Forbes Lança Novo Videocast “Mulheres Poderosas\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/TEMPLATE_GB-2-300x200.jpg",
+        "date": "08/12/2025",
+        "description": "A cada episódio, uma conversa sobre liderança feminina, sucesso e desafios com destaques da lista anual Mulheres Mais Poderosas do Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/precariedade-nos-portos-gera-prejuizo-de-r-87-milhoes-a-exportadores-de-cafe/",
+        "title": "Precariedade nos Portos Gera Prejuízo de R$ 8,7 Milhões a Exportadores de Café",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cafe_verde_10.10.2025-1-300x200.jpg",
+        "date": "08/12/2025",
+        "description": "Atrasos de navios e rolagens de cargas impossibilitaram o embarque de 2.065 contêineres no mês retrasado"
+    },
+    {
         "url": "https://forbes.com.br/brand-voice/2025/12/brandvoice-loreal-ser-a-primeira-e-so-o-comeco/",
         "title": "Ser a Primeira É Só o Começo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/6-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/12/Banco_Itau_7dez24_Joa_Souza_-Getty-1-300x200.jpg",
         "date": "08/12/2025",
         "description": "Os novos acordos ampliam o controle do Itaú sobre as operações de crédito ligadas ao varejo, reforçando a estratégia do banco de consolidar parcerias e serviços no segmento"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/rock-river-laboratory-compra-a-deveron-por-tras-esta-a-brasileira-aqua-capital/",
-        "title": "Rock River Laboratory Compra a Deveron; por trás Está a Brasileira Aqua Capital",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_sebastian_popik_08.12.2025-300x200.jpg",
-        "date": "08/12/2025",
-        "description": "Sebastian Popik, o argentino que adotou o país para a sua private equity, conta como foi a operação que envolve negócios nos EUA e Canadá"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/safra-de-milho-2025-26-do-brasil-e-prevista-em-1353-milhoes-de-toneladas/",
-        "title": "Safra de Milho 2025/26 do Brasil é prevista em 135,3 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_milho_foto_Reuters_10.11.2025-1-300x200.jpg",
-        "date": "08/12/2025",
-        "description": "A redução é significativa em comparação com o recorde anterior de 141,1 milhões de toneladas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/argentina-privatiza-ferrovia-para-impulsionar-exportacao-de-graos-e-minerais/",
-        "title": "Argentina Privatiza Ferrovia para Impulsionar Exportação de Grãos e Minerais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_trem_cargas_argentina_08.12.2025-300x200.jpg",
-        "date": "08/12/2025",
-        "description": "A privatização visa reduzir o custo de frete pela metade para grãos e minerais"
     }
 ]
