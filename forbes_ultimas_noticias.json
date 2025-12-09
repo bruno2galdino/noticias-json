@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/magnum-abre-capital-avaliada-em-r-495-bi-na-bolsa-de-amsterda/",
+        "title": "Magnum Abre Capital Avaliada em R$ 49,5 Bi na Bolsa de Amsterdã",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Picoles-da-Magnum-300x200.jpg",
+        "date": "09/12/2025",
+        "description": "Após se separar da Unilever, a Magnum aposta na força da marca para enfrentar mudanças no consumo e a pressão por produtos mais saudáveis"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-sport/2025/12/joao-fonseca-leva-alcaraz-ao-limite-e-mostra-futuro-do-tenis-brasileiro/",
+        "title": "João Fonseca Leva Alcaraz Ao Limite e Mostra Futuro do Tênis Brasileiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2250856123-1-300x200.jpg",
+        "date": "09/12/2025",
+        "description": "O duelo em Miami teve caráter amistoso e não contou pontos para o ranking, mas entregou clima de jogo grande"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/carros-unicos-e-sob-medida-a-receita-da-bentley-para-fidelizar-bilionarios/",
+        "title": "Carros Únicos e sob Medida: a Receita da Bentley para Fidelizar Bilionários",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Bentley-Rancho-Mirage-Ombre-1-1-300x200.jpg",
+        "date": "09/12/2025",
+        "description": "A Bentley atribui seu lucro e o aumento de receita por unidade à sua estratégia de se apoiar no que faz de melhor: personalização"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/china-ultrapassa-us-1-trilhao-de-superavit-com-redirecionamento-de-exportacoes/",
         "title": "China Ultrapassa US$ 1 Trilhão De Superávit Com Redirecionamento De Exportações",
         "image": "https://forbes.com.br/wp-content/uploads/2023/06/Reuters-exportacoes-China-1-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2022/09/Tech_algospeak_Ilustracao_Forbes-300x200.jpg",
         "date": "09/12/2025",
         "description": "O Ministério Público lançou o Glossário Analítico das Subculturas Violentas; material que reúne expressões, códigos e símbolos em ambientes virtuais, conteúdo que se utiliza do algospeak para não ser derrubado"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/testados-e-aprovados-os-20-melhores-panetones-de-2025/",
-        "title": "Testados e Aprovados: os 20 Melhores Panetones de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/LIFE_MELHORES-PANETONES-300x200.jpg",
-        "date": "09/12/2025",
-        "description": "Junto a um time de especialistas, a equipe da Forbes degustou às cegas algumas das novidades das marcas para este Natal; confira os destaques"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/12/aprenda-com-o-chatgpt-conteudos-da-openai-academy-agora-em-portugues/",
-        "title": "Aprenda com o Chatgpt: Conteúdos da Openai Academy Agora em Português",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/ChatGPT-privacidade-300x200.png",
-        "date": "09/12/2025",
-        "description": "Plataforma reúne tutoriais e materiais oficiais sobre inteligência artificial e uso do ChatGPT"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/so-alimentos-mais-caros-impulsionam-a-agropecuaria-regenerativa/",
-        "title": "Só Alimentos Mais Caros Impulsionam a Agropecuária Regenerativa?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_agricultura_regenerativa_09.12.2025-300x200.jpg",
-        "date": "09/12/2025",
-        "description": "Conheça um modelo que substitui a confiança em prêmios de preço por um sistema de subsídios a produtores"
     }
 ]
