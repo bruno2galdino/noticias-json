@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/colunas/2025/12/mais-informacao-e-menos-tabu-o-que-os-homens-precisam-saber-sobre-cancer-de-testiculo/",
+        "title": "Mais Informação e Menos Tabu: o Que os Homens Precisam Saber sobre Câncer de Testículo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-15-300x200.png",
+        "date": "09/12/2025",
+        "description": "O diagnóstico precoce é decisivo: entender sintomas, fatores de risco e desmontar mitos pode salvar vidas, especialmente entre homens jovens"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/google-enfrenta-investigacao-antitruste-da-ue-sobre-ai-overviews-e-youtube/",
+        "title": "Google Enfrenta Investigação Antitruste da UE sobre AI Overviews e YouTube",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-google-alphabet-300x200.jpg",
+        "date": "09/12/2025",
+        "description": "Nova investigação da UE sobre o Google expõe preocupações com o domínio tecnológico e ameaça ampliar tensões regulatórias com os EUA"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/12/coi-reforca-monitoramento-de-apostas-nos-jogos-de-inverno/",
         "title": "COI Reforça Monitoramento De Apostas Nos Jogos De Inverno",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-05T122804Z_1_LYNXMPELB40QB_RTROPTP_4_WARNER-BROS-DIS-M-A-NETFLIX-300x200.jpg",
         "date": "09/12/2025",
         "description": "Entenda a operação que pode mudar o rumo das negociações da Warner Bros."
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/mesmo-com-receita-de-r-16-trilhao-agro-tera-pressao-sobre-margens-e-credito-em-2026/",
-        "title": "Mesmo com Receita de R$ 1,6 Trilhão, Agro Terá Pressão sobre Margens e Crédito em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cna_coletiva_09.12.2025-2-300x200.jpg",
-        "date": "09/12/2025",
-        "description": "A Confederação da Agricultura e Pecuária do Brasil traz o balanço de 2025 e perspectivas do próximo ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/magnum-abre-capital-avaliada-em-r-495-bi-na-bolsa-de-amsterda/",
-        "title": "Magnum Abre Capital Avaliada em R$ 49,5 Bi na Bolsa de Amsterdã",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Picoles-da-Magnum-300x200.jpg",
-        "date": "09/12/2025",
-        "description": "Após se separar da Unilever, a Magnum aposta na força da marca para enfrentar mudanças no consumo e a pressão por produtos mais saudáveis"
     }
 ]
