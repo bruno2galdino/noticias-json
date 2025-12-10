@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/petz-e-cobasi-criam-gigante-do-varejo-pet-apos-aval-do-cade/",
+        "title": "Petz e Cobasi Criam Gigante do Varejo Pet Após Aval do Cade",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/04/money-petz-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "O acordo aprovado pelo Cade exige a venda de unidades que representam 3,3% do faturamento combinado, criando a maior rede pet do Brasil"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/12/autora-best-seller-de-os-delirios-de-consumo-de-becky-bloom-morre-aos-55-anos/",
+        "title": "Autora Best-Seller de \"Os Delírios de Consumo de Becky Bloom\" Morre aos 55 anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Sophie-Kinsella-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Sophie Kinsella vendeu mais de 50 milhões de livros em todo o mundo e teve obras adaptadas para o cinema"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2025/12/iona-szkurnik-2025-o-ano-em-que-a-tecnologia-deixou-de-ser-tendencia-e-virou-destino/",
+        "title": "2025: O Ano em Que a Tecnologia Deixou de Ser Tendência e Virou Destino",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/CARBON-DESTAQUE-1-1-300x200.png",
+        "date": "10/12/2025",
+        "description": "Entre a consolidação da IA, a adultização dos jovens e a disputa pela verdade digital, 2025 redefiniu prioridades sociais, políticas e econômicas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/spacex-mira-ipo-de-us-25-bilhoes-e-pode-superar-valor-de-mercado-de-us-1-trilhao/",
+        "title": "SpaceX Mira IPO de US$ 25 Bilhões e Pode Superar Valor de Mercado de US$ 1 Tri",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/SpaceX-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Com expansão acelerada da Starlink e avanços da Starship, Musk se prepara para um dos maiores IPOs do mundo"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/12/unesco-reconhece-culinaria-italiana-como-patrimonio-e-pais-preve-alta-de-8-no-turismo/",
         "title": "Unesco Reconhece Culinária Italiana Como Patrimônio e País Prevê Alta de 8% no Turismo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/AGRO_PIZZA_10jul25_Massimo-Ravera_Getty-300x200.jpg",
@@ -22,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/12/prata-atinge-recorde-historico-por-que-sua-rentabilidade-supera-a-do-ouro-em-2025/",
-        "title": "Prata Atinge Recorde Histórico. Por quê Sua Rentabilidade Supera A Do Ouro em 2025",
+        "title": "Entenda Por Que a Prata Supera a Rentabilidade do Ouro em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2017/05/7.resgates_is.jpg",
         "date": "10/12/2025",
         "description": "Preço do metal precioso duplicou no acumulado do ano, enquanto o ouro avançou 60%"
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/03/GettyImages-2201575010-1-300x200.jpg",
         "date": "10/12/2025",
         "description": "Banco projeta R$ 339,7 bilhões em lucros sem Petrobras e Vale em 2026, impulsionados por queda dos juros e retomada econômica"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/presidente-do-bb-e-a-unica-brasileira-na-lista-forbes-mulheres-mais-poderosas-veja-top-10/",
-        "title": "Mulheres Mais Poderosas: Presidente do BB É a Única Brasileira na Lista",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/mulheres-poderoas-tarciana-medeiros-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Tarciana Medeiros integra ranking pelo terceiro ano consecutivo e mantém mesma posição de 2024, à frente de nomes como Taylor Swift, Oprah e Beyoncé"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/guia-salarial-fox-agro-mostra-aceleracao-tecnologica-e-financeira-no-campo/",
-        "title": "Guia Salarial Fox Agro Mostra Aceleração Tecnológica e Financeira no Campo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_gestao_agro_10.12.2025-1-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Transformação digital, biológicos e crédito puxam valorização com cargos que chegam a R$ 75 mil"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/four-seasons-no-rio-um-passo-da-nossa-expansao-estrategica-na-america-do-sul-diz-ceo/",
-        "title": "Four Seasons no Rio: “Um Passo da Nossa Expansão Estratégica na América do Sul”, Diz CEO",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Four-Seasons-Rio-de-Janeiro-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Bandeira de luxo retorna ao Brasil depois de cinco anos, com endereço renovado na orla do Leblon"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ipca-acelera-e-avanca-018-em-novembro-por-movimentos-atipicos/",
-        "title": "IPCA Acelera e Avança 0,18% em Novembro Por Conta de Movimentos Atípicos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/varejo-getty-images-money-supermercado-300x200.png",
-        "date": "10/12/2025",
-        "description": "Normalização do custo de energia elétrica e alta de hospedagem causada pela COP 30 jogaram o índice para cima. Apesar da alta no mês, tendência de desinfllação continua"
     }
 ]
