@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/12/four-seasons-no-rio-um-passo-da-nossa-expansao-estrategica-na-america-do-sul-diz-ceo/",
+        "title": "Four Seasons no Rio: “Um Passo da Nossa Expansão Estratégica na América do Sul”, Diz CEO",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Four-Seasons-Rio-de-Janeiro-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Bandeira de luxo retorna ao Brasil depois de cinco anos, com endereço renovado na orla do Leblon"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ipca-acelera-e-avanca-018-em-novembro-por-movimentos-atipicos/",
+        "title": "IPCA Acelera e Avança 0,18% em Novembro Por Conta de Movimentos Atípicos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/varejo-getty-images-money-supermercado-300x200.png",
+        "date": "10/12/2025",
+        "description": "Normalização do custo de energia elétrica e alta de hospedagem causada pela COP 30 jogaram o índice para cima. Apesar da alta no mês, tendência de desinfllação continua"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/brandvoice-porto-seguro-seguro-premium-ganha-upgrade/",
         "title": "Seguro Premium Ganha Upgrade",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Porto-Destaque-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/jameela-jamil-300x200.jpg",
         "date": "10/12/2025",
         "description": "Atriz conhecida pelo papel na série \"The Good Place\" fala sobre a importância de redefinir o sucesso e abraçar a imperfeição"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/como-a-apple-quer-redefinir-viagens-e-seguranca-com-o-digital-id/",
-        "title": "Entenda Como e Onde Funciona o Passaporte Digital da Apple",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Apple_Digital_ID-300x200.png",
-        "date": "10/12/2025",
-        "description": "Segundo a Apple, o Digital ID permite que usuários configurem uma identidade digital no iPhone ou Apple Watch e a utilizem em situações que exigem comprovação oficial"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/mineracao-guiada-por-algoritmos-como-funcionam-os-caminhoes-autonomos-da-vale/",
-        "title": "Mineração guiada por algoritmos: como funcionam os caminhões autônomos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Vale_Caminhao_Autonomo-300x200.png",
-        "date": "10/12/2025",
-        "description": "Tecnologia da Vale integra caminhões sem motorista guiados por inteligência artificial para transformar operações em Carajás"
     }
 ]
