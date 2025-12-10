@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/safra-de-laranja-do-cinturao-citricola-de-sp-e-triangulo-mineiro-cai-39/",
+        "title": "Queda na Safra de Laranja em SP e Triângulo Mineiro Reduz Oferta Global de Suco",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/02/agro_laranja_13fev22_Blueplace_Guettyimages.jpg",
+        "date": "10/12/2025",
+        "description": "Entre clima adverso e avanço do greening, o líder da CitrusBR explica como a indústria enfrenta perdas de 20 milhões de caixas e incertezas produtivas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/producao-de-oleo-de-palma-da-malasia-chegara-a-20-mi-t-pela-primeira-vez-diz-conselho/",
+        "title": "Produção de Óleo de Palma da Malásia Chegará a 20 Mi t Pela Primeira Vez, Diz Conselho",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-10T113429Z_1_LYNXMPELB90KY_RTROPTP_4_GLOBAL-PALMOIL-REPLANTING-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Alta produção mantém o país entre os líderes do setor"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/producao-de-carne-bovina-do-brasil-avanca-65-no-3o-tri-abates-sao-recordes-tambem-em-frangos-e-suinos/",
+        "title": "Produção de Carne Bovina do Brasil Avança 6,5% no 3º Tri; Abates São Recordes Também em Frangos e Suínos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-10T140551Z_1_LYNXMPELB90T5_RTROPTP_3_CLIMATE-CHANGE-BRAZIL-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Abates em alta explicam a aceleração no ritmo de crescimento"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/a-compra-da-warner-bros-pela-netflix-e-um-movimento-inteligente/",
+        "title": "A Compra da Warner Bros Pela Netflix É um Movimento Inteligente?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-13-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Nesta quarta-feira (10), pela manhã, os ativos da Netflix estavam caindo 1,48%, a US$ 95,28 (R$ 520,95)"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/petz-e-cobasi-criam-gigante-do-varejo-pet-apos-aval-do-cade/",
         "title": "Petz e Cobasi Criam Gigante do Varejo Pet Após Aval do Cade",
         "image": "https://forbes.com.br/wp-content/uploads/2024/04/money-petz-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/CARBON-DESTAQUE-3-300x200.png",
         "date": "10/12/2025",
         "description": "Todos nós repetimos diálogos na cabeça, mas raramente conseguimos entender mais sobre eles"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/camara-aprova-regras-para-devedor-contumaz-e-mira-r-200-bilhoes-em-debitos/",
-        "title": "Câmara Aprova Regras Para Devedor Contumaz e Mira R$ 200 Bilhões em Débitos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_credito_rural_dinheiro_foto_Priscila_Zambotto-Gettyimages_02.10.2025-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Regulamentação do devedor contumaz cria critérios que separam contribuintes que enfrentam desafios pontuais daqueles que usam a sonegação como estratégia de negócio"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/prata-atinge-recorde-historico-por-que-sua-rentabilidade-supera-a-do-ouro-em-2025/",
-        "title": "Entenda Por Que a Prata Supera a Rentabilidade do Ouro em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2017/05/7.resgates_is.jpg",
-        "date": "10/12/2025",
-        "description": "Preço do metal precioso duplicou no acumulado do ano, enquanto o ouro avançou 60%"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/demna-revela-nova-colecao-para-a-gucci/",
-        "title": "Demna Revela Nova Coleção para a Gucci",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Colecao-pre-fall-2026-da-Gucci-assinada-por-Demna-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "A estética 90’s da maison é celebrada, entre outros códigos icônicos, na coleção do pre-fall"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/btg-preve-crescimento-de-17-nos-lucros-das-empresas-em-2026/",
-        "title": "BTG Prevê Crescimento de 17% nos Lucros das Empresas em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/GettyImages-2201575010-1-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Banco projeta R$ 339,7 bilhões em lucros sem Petrobras e Vale em 2026, impulsionados por queda dos juros e retomada econômica"
     }
 ]
