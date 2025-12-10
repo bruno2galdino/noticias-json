@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/brandvoice-porto-seguro-seguro-premium-ganha-upgrade/",
+        "title": "Seguro Premium Ganha Upgrade",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Porto-Destaque-1-300x200.png",
+        "date": "10/12/2025",
+        "description": "Porto Seguro amplia portfólio com novas soluções de seguros para clientes de alta renda"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/acionistas-do-btg-pactual-e-do-pan-aprovam-incorporacao-de-bancos/",
+        "title": "Acionistas do BTG Pactual e do Pan Aprovam Incorporação de Bancos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/BTG-getty-images-SOPA-Images-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "A eficácia da operação está sujeita ao cumprimento prévio das condições suspensivas previstas"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/12/shadow-ai-8-em-cada-10-lideres-no-brasil-temem-o-uso-de-ia-nao-autorizada/",
         "title": "Shadow AI: 80% dos Líderes no Brasil Temem o Uso de IA Não Autorizada",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Shadow_AI-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Vale_Caminhao_Autonomo-300x200.png",
         "date": "10/12/2025",
         "description": "Tecnologia da Vale integra caminhões sem motorista guiados por inteligência artificial para transformar operações em Carajás"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/ana-fontes-transforma-proposito-em-impacto-para-milhoes-de-empreendedoras/",
-        "title": "Ana Fontes Transforma Propósito em Impacto para Milhões de Empreendedoras",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/ana-fontes-videocast-forbes-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Primeira convidada do novo videocast de Forbes Mulher, fundadora e CEO da Rede Mulher Empreendedora fala sobre carreira, aprendizados e liderança"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/por-dentro-da-companhia-aerea-que-leva-pets-na-primeira-classe/",
-        "title": "Por Dentro da Companhia Aérea Que Leva Pets na Primeira Classe",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/bark-airlines-300x200.png",
-        "date": "10/12/2025",
-        "description": "Antes de embarcar, os cães tripulantes da BARK Air recebem abafadores de ruído, jaquetas calmantes, petiscos e mimos como um creme para patas e focinho"
     }
 ]
