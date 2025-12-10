@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/12/shadow-ai-8-em-cada-10-lideres-no-brasil-temem-o-uso-de-ia-nao-autorizada/",
+        "title": "Shadow AI: 80% dos Líderes no Brasil Temem o Uso de IA Não Autorizada",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Shadow_AI-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Termo se refere ao uso de ferramentas de IA externas e sem aprovação formal da companhia; entenda o cenário"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-ultimo-copom-de-2025-mostrara-bc-conservador/",
+        "title": "Pré-mercado: Último Copom de 2025 Mostrará BC Conservador",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "10/12/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 10 de dezembro"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/projeto-mane-do-boi-a-parrila-a-nova-aventura-da-familia-sechis/",
         "title": "Projeto Mané: do Boi À Parrila, a Nova Aventura da Família Sechis",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Ricardo_Sechis_10dez25_BF_Divulg-300x200.jpg",
@@ -7,15 +21,15 @@
         "description": "Ricardo Sechis leva ao consumidor, pela primeira vez, a carne produzida, confinada, desossada e porcionada pela própria família, integrando fazenda, boutique, açougue, hamburgueria e agora restaurante"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/os-pilotos-mais-bem-pagos-da-formula-1-em-2025/",
+        "url": "https://forbes.com.br/forbeslife/2025/12/os-pilotos-mais-bem-pagos-da-formula-1-em-2025/",
         "title": "Os Pilotos Mais Bem Pagos da Fórmula 1 em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2250336382-300x200.jpg",
         "date": "10/12/2025",
         "description": "Em todo o grid, os dez pilotos mais bem pagos da Fórmula 1 embolsaram um total estimado de US$ 363 milhões nesta temporada"
     },
     {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/mastercard-marcelo-tangioni-explica-estrategia-de-agentes-e-expansao-beyond-cards/",
-        "title": "Marcelo Tangioni, da Mastercard Brasil: \"com a IA, as Senhas Serão Extintas Até 2030\"",
+        "url": "https://forbes.com.br/forbes-money/2025/12/mastercard-marcelo-tangioni-explica-estrategia-de-agentes-e-expansao-beyond-cards/",
+        "title": "Marcelo Tangioni, da Mastercard: \"com a IA, as Senhas Serão Extintas Até 2030\"",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Marcelo-Tangioni_062-1-300x200.jpg",
         "date": "10/12/2025",
         "description": "A companhia acaba de inaugurar seu Centro de Missão e Operações (MC&O) na Cidade do México com o objetivo, principalmente, de potencializar projetos como dos agentes de pagamentos"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/bark-airlines-300x200.png",
         "date": "10/12/2025",
         "description": "Antes de embarcar, os cães tripulantes da BARK Air recebem abafadores de ruído, jaquetas calmantes, petiscos e mimos como um creme para patas e focinho"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/o-que-faz-a-limitless-empresa-de-ia-comprada-por-us-368-milhoes-pela-meta/",
-        "title": "O Que Faz a Limitless, Empresa de IA Comprada por US$ 368 Milhões Pela Meta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/dispositivo-ia-300x200.png",
-        "date": "10/12/2025",
-        "description": "A Limitless é conhecida por desenvolver o Pendant, um dispositivo físico discreto, usado como colar, e que atua como um assistente de memória em tempo real, habilitado por IA"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/infomercial-galpoes-flexiveis-a-aposta-da-goodstorage-para-empresas-que-precisam-crescer-rapido-em-sao-paulo/",
-        "title": "Antes de Sua Inauguração Oficial, Condomínio Logístico Park Lapa IV, da  Goodstorage, Já Conta com Mais de 50% de Ocupação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/MONTO_GOODSTORAGE_028-300x200.jpg",
-        "date": "09/12/2025",
-        "description": "Condomínio logístico urbano na Marginal Tietê chega a 39 mil m² de área bruta locável"
     }
 ]
