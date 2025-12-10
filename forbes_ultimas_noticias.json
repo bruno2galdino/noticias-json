@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-fecha-em-alta-com-apoio-de-vale-e-em-sessao-marcada-por-corte-de-juros-nos-eua/",
+        "title": "Ibovespa Fecha em Alta com Apoio de Vale e em Sessão Marcada por Corte de Juros nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "10/12/2025",
+        "description": "Agora, o mercado aguarda a decisão do Copom sobre a Taxa Selic"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/12/as-top-5-materias-mais-clicadas-no-site-da-forbes-em-dezembro-2/",
+        "title": "As Top 5 Matérias Mais Clicadas no Site da Forbes em Dezembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "10/12/2025",
+        "description": "Quais foram as matérias mais acessadas no último mês"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/senado-aprova-tributo-sobre-bets-com-potencial-de-arrecadar-r-30-bilhoes-ao-ano/",
         "title": "Senado Aprova Tributo Sobre Bets Com Potencial de Arrecadar R$ 30 Bilhões Ao Ano",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Plenario-do-Senado-Federal-em-Brasilia--300x200.jpg",
@@ -29,7 +43,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/12/fed-reuniao-dezembro-2025/",
-        "title": "Fed Reduz Juros em 0,25 Ponto Percentual e Sinaliza Apenas Um Corte em 2026",
+        "title": "Fed Reduz Juros em 0,25 Ponto Percentual, Mas Expõe Divergência entre Diretores",
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/2025-01-08T191155Z_1_LYNXMPEL070T4_RTROPTP_3_USA-FED-HARASSMENT-300x200.jpg",
         "date": "10/12/2025",
         "description": "Com visões divergentes entre dirigentes, o Fed reduz juros e adota postura de cautela enquanto busca clareza nos dados de mercado de trabalho e preço"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-10T113429Z_1_LYNXMPELB90KY_RTROPTP_4_GLOBAL-PALMOIL-REPLANTING-300x200.jpg",
         "date": "10/12/2025",
         "description": "Alta produção mantém o país entre os líderes do setor"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/producao-de-carne-bovina-do-brasil-avanca-65-no-3o-tri-abates-sao-recordes-tambem-em-frangos-e-suinos/",
-        "title": "Produção de Carne Bovina do Brasil Avança 6,5% no 3º Tri; Abates São Recordes Também em Frangos e Suínos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-10T140551Z_1_LYNXMPELB90T5_RTROPTP_3_CLIMATE-CHANGE-BRAZIL-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Abates em alta explicam a aceleração no ritmo de crescimento"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/a-compra-da-warner-bros-pela-netflix-e-um-movimento-inteligente/",
-        "title": "A Compra da Warner Bros Pela Netflix É um Movimento Inteligente?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-13-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Nesta quarta-feira (10), pela manhã, os ativos da Netflix estavam caindo 1,48%, a US$ 95,28 (R$ 520,95)"
     }
 ]
