@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/os-pilotos-mais-bem-pagos-da-formula-1-em-2025/",
+        "title": "Os Pilotos Mais Bem Pagos da Fórmula 1 em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2250336382-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Em todo o grid, os dez pilotos mais bem pagos da Fórmula 1 embolsaram um total estimado de US$ 363 milhões nesta temporada"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/mastercard-marcelo-tangioni-explica-estrategia-de-agentes-e-expansao-beyond-cards/",
+        "title": "Marcelo Tangioni, da Mastercard Brasil: \"com a IA, as Senhas Serão Extintas Até 2030\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Marcelo-Tangioni_062-1-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "A companhia acaba de inaugurar seu Centro de Missão e Operações (MC&O) na Cidade do México com o objetivo, principalmente, de potencializar projetos como dos agentes de pagamentos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/12/luciana-rodrigues-cometer-erros-e-a-unica-forma-real-de-crescer-diz-jameela-jamil/",
+        "title": "Jameela Jamil e o Superpoder de Não Ter Vergonha",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/jameela-jamil-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Atriz conhecida pelo papel na série \"The Good Place\" fala sobre a importância de redefinir o sucesso e abraçar a imperfeição"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/como-a-apple-quer-redefinir-viagens-e-seguranca-com-o-digital-id/",
+        "title": "Entenda Como e Onde Funciona o Passaporte Digital da Apple",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Apple_Digital_ID-300x200.png",
+        "date": "10/12/2025",
+        "description": "Segundo a Apple, o Digital ID permite que usuários configurem uma identidade digital no iPhone ou Apple Watch e a utilizem em situações que exigem comprovação oficial"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/mineracao-guiada-por-algoritmos-como-funcionam-os-caminhoes-autonomos-da-vale/",
+        "title": "Mineração guiada por algoritmos: como funcionam os caminhões autônomos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Vale_Caminhao_Autonomo-300x200.png",
+        "date": "10/12/2025",
+        "description": "Tecnologia da Vale integra caminhões sem motorista guiados por inteligência artificial para transformar operações em Carajás"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/12/ana-fontes-transforma-proposito-em-impacto-para-milhoes-de-empreendedoras/",
+        "title": "Ana Fontes Transforma Propósito em Impacto para Milhões de Empreendedoras",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/ana-fontes-videocast-forbes-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Primeira convidada do novo videocast de Forbes Mulher, fundadora e CEO da Rede Mulher Empreendedora fala sobre carreira, aprendizados e liderança"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/por-dentro-da-companhia-aerea-que-leva-pets-na-primeira-classe/",
+        "title": "Por Dentro da Companhia Aérea Que Leva Pets na Primeira Classe",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/bark-airlines-300x200.png",
+        "date": "10/12/2025",
+        "description": "Antes de embarcar, os cães tripulantes da BARK Air recebem abafadores de ruído, jaquetas calmantes, petiscos e mimos como um creme para patas e focinho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/o-que-faz-a-limitless-empresa-de-ia-comprada-por-us-368-milhoes-pela-meta/",
+        "title": "O Que Faz a Limitless, Empresa de IA Comprada por US$ 368 Milhões Pela Meta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/dispositivo-ia-300x200.png",
+        "date": "10/12/2025",
+        "description": "A Limitless é conhecida por desenvolver o Pendant, um dispositivo físico discreto, usado como colar, e que atua como um assistente de memória em tempo real, habilitado por IA"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/infomercial-galpoes-flexiveis-a-aposta-da-goodstorage-para-empresas-que-precisam-crescer-rapido-em-sao-paulo/",
         "title": "Antes de Sua Inauguração Oficial, Condomínio Logístico Park Lapa IV, da  Goodstorage, Já Conta com Mais de 50% de Ocupação",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/MONTO_GOODSTORAGE_028-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
         "date": "09/12/2025",
         "description": "O pregão refletiu a falta de catalisadores fortes e a espera por novidades no cenário político e econômico"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/12/mais-informacao-e-menos-tabu-o-que-os-homens-precisam-saber-sobre-cancer-de-testiculo/",
-        "title": "Mais Informação e Menos Tabu: o Que os Homens Precisam Saber sobre Câncer de Testículo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-15-300x200.png",
-        "date": "09/12/2025",
-        "description": "O diagnóstico precoce é decisivo: entender sintomas, fatores de risco e desmontar mitos pode salvar vidas, especialmente entre homens jovens"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/google-enfrenta-investigacao-antitruste-da-ue-sobre-ai-overviews-e-youtube/",
-        "title": "Google Enfrenta Investigação Antitruste da UE sobre AI Overviews e YouTube",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-google-alphabet-300x200.jpg",
-        "date": "09/12/2025",
-        "description": "Nova investigação da UE sobre o Google expõe preocupações com o domínio tecnológico e ameaça ampliar tensões regulatórias com os EUA"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/12/coi-reforca-monitoramento-de-apostas-nos-jogos-de-inverno/",
-        "title": "COI Reforça Monitoramento De Apostas Nos Jogos De Inverno",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-300x200.jpg",
-        "date": "09/12/2025",
-        "description": "COI e autoridades italianas criam unidade conjunta para vigiar apostas e assegurar integridade nas competições de Milão-Cortina"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/12/o-poder-das-5-da-manha-autocuidado-ciencia-e-ritmos-individuais/",
-        "title": "O Poder das 5 da Manhã: Autocuidado, Ciência e Ritmos Individuais",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-14-300x200.png",
-        "date": "09/12/2025",
-        "description": "Estudos apontam que o despertar cedo traz benefícios, enquanto lembram: saúde mental começa com sono de qualidade e respeito ao relógio biológico"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/12/infomercial-inpart-saude-transformacao-digital-redefine-a-eficiencia-na-gestao-hospitalar/",
-        "title": "Transformação Digital Redefine a Eficiência na Gestão Hospitalar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-300x200.png",
-        "date": "09/12/2025",
-        "description": "Com foco em automação, rastreabilidade e análise preditiva, Inpart Saúde amplia atuação e consolida-se como parceira estratégica na eficiência e sustentabilidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/chegada-do-google-ai-glasses-em-2026-acirra-disputa-no-mercado-de-oculos-inteligentes/",
-        "title": "Chegada do Google AI Glasses em 2026 Acirra Disputa no Mercado de Óculos Inteligentes",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Google_AI_Glasses-300x200.png",
-        "date": "09/12/2025",
-        "description": "A gigante aposta em inteligência artificial para competir com Ray-Ban Meta e os futuros óculos da Apple"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/exportacoes-de-soja-sobem-para-333-milhoes-de-toneladas/",
-        "title": "Exportações de Soja sobem Para 3,33 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_soja_colheita_foto_FlavioBeneditoConceicao-Getty-Images_19.11.2025-300x200.jpg",
-        "date": "09/12/2025",
-        "description": "Anec eleva projeção e embarques mais que dobram ante 2024, impulsionados por safra recorde e demanda forte da China"
-    },
-    {
-        "url": "https://forbes.com.br/sem-home/2025/12/nova-regra-do-setor-eletrico-pode-reduzir-tarifas-no-amapa/",
-        "title": "Nova Regra Do Setor Elétrico Pode Reduzir Tarifas no Amapá",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-9-2-300x200.png",
-        "date": "09/12/2025",
-        "description": "Pedido da Equatorial e de senadores posterga aumento e inclui R$ 8,8 bilhões da repactuação do UBP para reduzir tarifas em 2025 e 2026"
     }
 ]
