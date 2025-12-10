@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/projeto-mane-do-boi-a-parrila-a-nova-aventura-da-familia-sechis/",
+        "title": "Projeto Mané: do Boi À Parrila, a Nova Aventura da Família Sechis",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Ricardo_Sechis_10dez25_BF_Divulg-300x200.jpg",
+        "date": "10/12/2025",
+        "description": "Ricardo Sechis leva ao consumidor, pela primeira vez, a carne produzida, confinada, desossada e porcionada pela própria família, integrando fazenda, boutique, açougue, hamburgueria e agora restaurante"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/os-pilotos-mais-bem-pagos-da-formula-1-em-2025/",
         "title": "Os Pilotos Mais Bem Pagos da Fórmula 1 em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2250336382-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/MONTO_GOODSTORAGE_028-300x200.jpg",
         "date": "09/12/2025",
         "description": "Condomínio logístico urbano na Marginal Tietê chega a 39 mil m² de área bruta locável"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-termina-o-dia-em-leve-queda-com-cenario-politico-no-radar/",
-        "title": "Ibovespa Termina o Dia em Leve Queda com Cenário Político no Radar",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "09/12/2025",
-        "description": "O pregão refletiu a falta de catalisadores fortes e a espera por novidades no cenário político e econômico"
     }
 ]
