@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/mesmo-com-black-friday-varejo-tem-queda-de-16-em-novembro-aponta-indice-stone/",
+        "title": "Mesmo com Black Friday, Varejo Tem Queda de 1,6% em Novembro, Aponta Índice Stone",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/varejo-getty-images-money-supermercado-300x200.png",
+        "date": "11/12/2025",
+        "description": "Segundo dados do Índice do Varejo Stone (IVS), apenas três dos oito segmentos analisados registraram crescimento no mês"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/quanto-vale-a-formula-1-os-numeros-que-revelam-a-dimensao-da-categoria/",
+        "title": "Quanto Vale a Fórmula 1? Os Números Que Revelam a Dimensão da Categoria",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2250501019-1-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Do grid ao caixa: cifras, audiência e acordos que elevam a Fórmula 1 ao patamar dos maiores esportes"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/nestle-health-science-brasil-investe-r-10-milhoes-em-tecnologia-e-lanca-plataforma-de-genai-para-saude/",
+        "title": "Nestlé Health Science Brasil Investe R$ 10 Milhões em Tecnologia e Lança Plataforma de GenAI",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Victor-Vendramini-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Pela primeira vez, a Nestlé integra conteúdo científico com curadoria médica, personalização e inteligência artificial generativa, como explica Victor Vendramini, Head de Digital da NHS"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/por-dentro-do-mais-novo-santuario-de-bem-estar-de-nova-york/",
+        "title": "Por Dentro do Mais Novo Santuário de Bem-estar de Nova York",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Localizado-no-centro-de-Manhattan-o-One-Wall-Street-e-cada-vez-mais-popular-por-oferecer-aos-seus-moradores-servicos-de-bem-estar-fitness-beleza-e-saude-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "No One Wall Street, o wellness é incorporado ao dia a dia com academia própria, spa e piscina no 38º andar"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/12/quem-sao-as-mulheres-mais-poderosas-do-mundo-em-2025/",
+        "title": "Lista Forbes: Quem São As Mulheres Mais Poderosas do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/mulheres-mais-poderosas-forbes-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Tarciana Medeiros, presidente do Banco do Brasil, é a única brasileira no ranking, que traz nomes como Kim Kardashian e Oprah, além de bilionárias da tecnologia e políticas do mundo todo"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/12/seguranca-digital-impulsiona-aplicativos-que-protegem-mulheres-no-brasil/",
+        "title": "Conheça Alguns Apps Que Podem Contribuir para a Proteção À Mulher no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/APP_Protecao_A_Mulher-300x200.png",
+        "date": "11/12/2025",
+        "description": "Nos últimos anos, diferentes estados brasileiros, além de iniciativas independentes, lançaram aplicativos que conectam vítimas diretamente às autoridades e serviços de apoio"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/12/cit-oferece-5-mil-bolsas-gratuitas-para-curso-de-java-e-aws/",
+        "title": "CI&T Oferece 5 Mil Bolsas Gratuitas para Curso de Java e AWS",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira-curso-java-programacao-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Programa terá mentorias ao vivo com especialistas e possibilidade de contratação pela empresa; saiba como se inscrever"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/soja-e-abelhas-fazem-bodas-de-ouro-no-parana-produtora-explica-como-e-este-casamento/",
+        "title": "Soja e Abelhas Fazem Bodas de Ouro no Paraná. Produtora Explica Como É Este Casamento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_abelha_10.12.2025-1-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Lígia Jung detalha por que a convivência entre sojicultura e apicultura é mais do que possível e lucrativa"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2025/12/coca-cola-nomeia-brasileiro-henrique-braun-como-novo-ceo/",
         "title": "Coca-Cola Nomeia Brasileiro como Novo CEO",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira_Henrique-Braun_cocacola_csuite-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-1-300x200.png",
         "date": "10/12/2025",
         "description": "O BC confirmou as expectativas do mercado e joga para frente a decisão sobre corte de juros"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-1/2025/12/trxf11-investe-r-4028-milhoes-em-cinco-galpoes-e-conquista-primeiros-ativos-aaa/",
-        "title": "TRXF11 Investe R$ 402,8 Milhões em Cinco Galpões e Conquista Primeiros Ativos AAA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-300x200.png",
-        "date": "10/12/2025",
-        "description": "Com ativos AAA em Jaguaré, Guarulhos e Galeão, TRXF11 amplia portfólio e diversifica receita de fundos imobiliários"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-fecha-em-alta-com-apoio-de-vale-e-em-sessao-marcada-por-corte-de-juros-nos-eua/",
-        "title": "Ibovespa Fecha em Alta com Apoio de Vale e em Sessão Marcada por Corte de Juros nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "10/12/2025",
-        "description": "Agora, o mercado aguarda a decisão do Copom sobre a Taxa Selic"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/12/as-top-5-materias-mais-clicadas-no-site-da-forbes-em-dezembro-2/",
-        "title": "As Top 5 Matérias Mais Clicadas no Site da Forbes em Dezembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
-        "date": "10/12/2025",
-        "description": "Quais foram as matérias mais acessadas no último mês"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/senado-aprova-tributo-sobre-bets-com-potencial-de-arrecadar-r-30-bilhoes-ao-ano/",
-        "title": "Senado Aprova Tributo Sobre Bets Com Potencial de Arrecadar R$ 30 Bilhões Ao Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Plenario-do-Senado-Federal-em-Brasilia--300x200.jpg",
-        "date": "10/12/2025",
-        "description": "A CCJ aprovou contribuição de 15% sobre transferências a plataformas de apostas, estimada em gerar R$ 30 bilhões por ano para ações de segurança pública"
-    },
-    {
-        "url": "https://forbes.com.br/coluna/2025/12/o-papel-da-educacao-financeira-no-combate-ao-endividamento-das-familias/",
-        "title": "O Papel da Educação Financeira no Combate Ao Endividamento das Famílias",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/08/carreira-credito-dinheiro-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Ter uma boa relação com o dinheiro não deve ser visto como promessa de riqueza instantânea, mas sim uma ferramenta de criação de autonomia e resiliência, essencial para que as famílias possam encarar os desafios do orçamento"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/alemanha-aprova-proposta-de-lei-sobre-biocombustiveis/",
-        "title": "Alemanha Aprova Proposta de Lei sobre Biocombustíveis",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_biocombustivel_10.12.2025-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "A legislação visa cumprir as metas de redução de GEE ao integrar a Diretiva de Energia Renovável da UE"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/pacote-de-ajuda-de-trump-de-us-12-bilhoes-nao-cobre-perdas-de-agricultores/",
-        "title": "Pacote de Ajuda de Trump de US$ 12 Bilhões Não Cobre Perdas de Agricultores",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_estados_unidos_10.12.2025-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "As perdas agrícolas deste ano são estimadas entre US$ 35 bilhões e US$ 44 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/fed-reuniao-dezembro-2025/",
-        "title": "Fed Reduz Juros em 0,25 Ponto Percentual, Mas Expõe Divergência entre Diretores",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/2025-01-08T191155Z_1_LYNXMPEL070T4_RTROPTP_3_USA-FED-HARASSMENT-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Novas projeções da autoridade monetária para 2026 mostram que a maior parte do comitê espera mais um corte de juros no ano que vem"
     }
 ]
