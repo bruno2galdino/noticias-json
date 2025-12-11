@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/programa-gold-card-de-trump-abre-inscricoes-para-vistos-de-us-1-milhao/",
+        "title": "Programa “Gold Card” de Trump Abre Inscrições Para Vistos de US$ 1 Milhão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/2-19-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "O Gold Card é uma promessa de campanha de Trump para reduzir a dívida pública americana"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/entenda-a-diferenca-entre-bets-e-os-mercados-de-previsao/",
+        "title": "Entenda a Diferença entre Bets e os Mercados de Previsão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-4-300x200.png",
+        "date": "11/12/2025",
+        "description": "Como funciona a Kalshi, empresa que transformou a brasileira Luana Lopes na bilionária self-made mais jovem do mundo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/elon-musk-confirma-que-um-possivel-ipo-da-spacex-em-2026-e-provavel/",
+        "title": "Elon Musk Confirma Que um Possível IPO da SpaceX em 2026 É Provável",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/tech-elon-musk-23Ago23-GettyImages-min-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Musk reagiu a um artigo do editor de espaço da ArsTechnica, Eric Berger, que discutia por que a SpaceX estaria decidindo abrir o capital"
+    },
+    {
         "url": "https://forbes.com.br/forbeswsb/2025/12/a-reuniao-secreta-que-definiu-o-nome-de-um-dos-maiores-vinhos-da-argentina/",
         "title": "A Reunião \"Secreta\" Que Definiu o Nome de um dos Maiores Vinhos da Argentina",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/CDA22_Packshot_1-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-1371372861-300x200.jpg",
         "date": "11/12/2025",
         "description": "A doença segue causando impacto profundo na produção de alimentos, mas, apesar dos surtos em aves, infecções em humanos permanecem incomuns"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/banco-central-europeu-quer-simplificar-regras-de-capital-sem-reduzir-exigencias/",
-        "title": "Banco Central Europeu Quer Simplificar Regras de Capital Sem Reduzir Exigências",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/07/bce-2-300x200.jpg",
-        "date": "11/12/2025",
-        "description": "Apesar da pressão global por flexibilização, o BCE reafirma seu compromisso com a solidez financeira e propõe ajustes estruturais na regulamentação"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/investimento-de-us-1-bilhao-da-disney-na-openai-entra-para-a-lista-dos-maiores-acordos-de-ia-de-2025/",
-        "title": "Investimento de US$ 1 bilhão da Disney na OpenAI entra para a lista dos maiores acordos de IA de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Disney_OpenAI-300x200.png",
-        "date": "11/12/2025",
-        "description": "Acordo licencia personagens para vídeos gerados por inteligência artificial e coloca Disney e OpenAI no centro da revolução da IA"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/interactive-brokers-passa-a-oferecer-acesso-internacional-a-b3/",
-        "title": "Interactive Brokers Passa a Oferecer Acesso Internacional à B3",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/forbes-B3-mulher-investidora-300x200.jpg",
-        "date": "11/12/2025",
-        "description": "Com o novo modelo da B3, a Interactive Brokers permite que investidores de EUA, Canadá, UE, Reino Unido, Austrália, Hong Kong e Singapura negociem diretamente ações brasileiras"
     }
 ]
