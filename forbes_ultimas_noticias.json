@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/fabrica-e-volume-a-missao-de-roger-corassa-novo-vp-da-omoda-jaecoo-no-brasil/",
+        "title": "Fábrica e Volume: a Missão de Roger Corassa, Novo VP da Omoda & Jaecoo no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Roger-Corassa-4-1-1-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Com mais de 30 anos de carreira, Corassa passou mais de duas décadas na FCA – que depois virou a Stellantis – e os últimos cinco anos na Volkswagen"
+    },
+    {
+        "url": "https://forbes.com.br/last/2025/12/jhsf-conclui-venda-de-estoques-por-r-52-bilhoes/",
+        "title": "JHSF Conclui Venda de Estoques por R$ 5,2 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-1-1-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Operação é o maior IPO do setor imobiliário nacional e reforça liderança da JHSF em fundos de alto padrão"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/china-se-compromete-a-manter-estimulo-fiscal-para-sustentar-crescimento-no-proximo-ano/",
+        "title": "China se Compromete a Manter Estímulo Fiscal para Sustentar Crescimento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Vista-de-Pequim-na-China-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Analistas esperam que Pequim tenha como meta cerca de 5% de crescimento econômico"
+    },
+    {
+        "url": "https://forbes.com.br/brand-voice/2025/12/brandvoice-carbon-entre-o-desejo-e-a-protecao/",
+        "title": "Entre o Desejo e a Proteção",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/CARBON-DESTAQUE-300x200.png",
+        "date": "11/12/2025",
+        "description": "CARBON realiza a primeira blindagem em um Cybertruck no Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/12/com-aporte-de-r-20-milhoes-flymedia-lanca-fabrica-de-influenciadores-feitos-por-ia/",
         "title": "Com Aporte de R$ 20 Milhões, FlyMedia Lança \"Fábrica de Influenciadores\" Feitos por IA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/PODCAST-SORRINDO-300x200.jpg",
@@ -8,7 +36,7 @@
     },
     {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/prancha-voadora-eletrica-da-audi-chega-ao-brasil-com-preco-da-carro-premium/",
-        "title": "Prancha \"Voadora\" Elétrica da Audi Chega Ao Brasil com Preço da Carro Premium",
+        "title": "Prancha \"Voadora\" Elétrica da Audi Chega Ao Brasil com Preço de Carro Premium",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/image-4-300x200.jpg",
         "date": "11/12/2025",
         "description": "Com peso total de 32 quilos o Audi Aerofoils pode atingir velocidade máxima de 55 km/h sobre a água"
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Localizado-no-centro-de-Manhattan-o-One-Wall-Street-e-cada-vez-mais-popular-por-oferecer-aos-seus-moradores-servicos-de-bem-estar-fitness-beleza-e-saude-300x200.jpg",
         "date": "11/12/2025",
         "description": "No One Wall Street, o wellness é incorporado ao dia a dia com academia própria, spa e piscina no 38º andar"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/quem-sao-as-mulheres-mais-poderosas-do-mundo-em-2025/",
-        "title": "Lista Forbes: Quem São As Mulheres Mais Poderosas do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/mulheres-mais-poderosas-forbes-300x200.jpg",
-        "date": "11/12/2025",
-        "description": "Tarciana Medeiros, presidente do Banco do Brasil, é a única brasileira no ranking, que traz nomes como Kim Kardashian e Oprah, além de bilionárias da tecnologia e políticas do mundo todo"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/12/seguranca-digital-impulsiona-aplicativos-que-protegem-mulheres-no-brasil/",
-        "title": "Conheça Alguns Apps Que Podem Contribuir para a Proteção À Mulher no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/APP_Protecao_A_Mulher-300x200.png",
-        "date": "11/12/2025",
-        "description": "Nos últimos anos, diferentes estados brasileiros, além de iniciativas independentes, lançaram aplicativos que conectam vítimas diretamente às autoridades e serviços de apoio"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/cit-oferece-5-mil-bolsas-gratuitas-para-curso-de-java-e-aws/",
-        "title": "CI&T Oferece 5 Mil Bolsas Gratuitas para Curso de Java e AWS",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira-curso-java-programacao-300x200.jpg",
-        "date": "11/12/2025",
-        "description": "Programa terá mentorias ao vivo com especialistas e possibilidade de contratação pela empresa; saiba como se inscrever"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/soja-e-abelhas-fazem-bodas-de-ouro-no-parana-produtora-explica-como-e-este-casamento/",
-        "title": "Casamento de Soja e Abelhas Faz Bodas de Ouro no Paraná; Produtora Explica Essa Relação",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_abelha_10.12.2025-1-300x200.jpg",
-        "date": "11/12/2025",
-        "description": "Lígia Jung detalha por que a convivência entre sojicultura e apicultura é possível e economicamente lucrativa"
     }
 ]
