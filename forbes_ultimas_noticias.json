@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeswsb/2025/12/a-reuniao-secreta-que-definiu-o-nome-de-um-dos-maiores-vinhos-da-argentina/",
+        "title": "A Reunião \"Secreta\" Que Definiu o Nome de um dos Maiores Vinhos da Argentina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/CDA22_Packshot_1-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "O Cheval des Andes, considerado o Grand Cru dos Andes, ajudou a colocar a Argentina no mapa dos grandes vinhos do mundo"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/forbes-mulher-agro-transformacao-no-cenario-geopolitico-pode-gerar-oportunidades-para-o-agro-brasileiro/",
         "title": "Transformação no Cenário Geopolítico Pode Gerar Oportunidades para o Agro Brasileiro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_milho_lavoura_11.12.2025-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/03/forbes-B3-mulher-investidora-300x200.jpg",
         "date": "11/12/2025",
         "description": "Com o novo modelo da B3, a Interactive Brokers permite que investidores de EUA, Canadá, UE, Reino Unido, Austrália, Hong Kong e Singapura negociem diretamente ações brasileiras"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/oracle-desaba-128-e-reacende-temor-de-bolha-da-ia-em-wall-street/",
-        "title": "Oracle Desaba 12,8% e Reacende Temor de Bolha da IA em Wall Street",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/oracle-300x200.jpg",
-        "date": "11/12/2025",
-        "description": "Previsões abaixo do esperado e aumento de US$ 15 bilhões em gastos para data centers derrubam a Oracle e pressionam Nasdaq e o setor de tecnologia"
     }
 ]
