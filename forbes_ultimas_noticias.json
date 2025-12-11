@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/com-aporte-de-r-20-milhoes-flymedia-lanca-fabrica-de-influenciadores-feitos-por-ia/",
+        "title": "Com Aporte de R$ 20 Milhões, FlyMedia Lança \"Fábrica de Influenciadores\" Feitos por IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/PODCAST-SORRINDO-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Startup criada por Victor Trindade, cofundador dos canais Neagle e da fintech NG.CASH, recebeu uma rodada liderada pela OneVC para impulsionar o desenvolvimento de personagens sintéticos"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/prancha-voadora-eletrica-da-audi-chega-ao-brasil-com-preco-da-carro-premium/",
+        "title": "Prancha \"Voadora\" Elétrica da Audi Chega Ao Brasil com Preço da Carro Premium",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/image-4-300x200.jpg",
+        "date": "11/12/2025",
+        "description": "Com peso total de 32 quilos o Audi Aerofoils pode atingir velocidade máxima de 55 km/h sobre a água"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-para-o-copom-corte-de-juros-so-vira-depois-do-carnaval/",
         "title": "Pré-mercado: Para o Copom, Corte de Juros Só Virá Depois do Carnaval",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_abelha_10.12.2025-1-300x200.jpg",
         "date": "11/12/2025",
         "description": "Lígia Jung detalha por que a convivência entre sojicultura e apicultura é possível e economicamente lucrativa"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/coca-cola-nomeia-brasileiro-henrique-braun-como-novo-ceo/",
-        "title": "Coca-Cola Nomeia Brasileiro como Novo CEO",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira_Henrique-Braun_cocacola_csuite-300x200.jpg",
-        "date": "10/12/2025",
-        "description": "Há 30 anos na companhia, executivo liderou operações na China e Coreia, no Brasil e na América Latina"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/copom-mantem-juros-em-15-ao-ano-e-nao-apresenta-sinais-de-relaxamento-da-politica-monetaria/",
-        "title": "Copom Mantém Juros e Não Apresenta Sinais de Relaxamento da Política Monetária",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-1-300x200.png",
-        "date": "10/12/2025",
-        "description": "O BC confirmou as expectativas do mercado e joga para frente a decisão sobre corte de juros"
     }
 ]
