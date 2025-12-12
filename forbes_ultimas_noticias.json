@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/exportacoes-do-agronegocio-batem-us-134-bi-em-novembro-e-aproximam-ano-de-recorde/",
+        "title": "Exportações Do Agronegócio Batem US$ 13,4 Bi Em Novembro E Aproximam Ano De Recorde",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/Agro_ExportacoesDeSojaANEC_5FEV25_Getty-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "Demanda chinesa por soja, recordes na carne bovina e preços firmes do café levaram o Brasil a resultados expressivos em novembro"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/jbs-fecha-unidade-na-california-que-processa-carne-para-hamburgueres/",
         "title": "JBS Fecha Unidade Na Califórnia Que Processa Carne Para Hambúrgueres",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Francis_Maris_GRupo-Cometa-4-300x200.jpg",
@@ -8,7 +15,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/12/eua-removem-alexandre-de-moraes-e-viviane-da-lista-da-lei-magnitsky/",
-        "title": "EUA Removem Alexandre De Moraes E Esposa Da Lista Da Lei Magnitsky",
+        "title": "EUA Removem Alexandre de Moraes e Viviane da Lista da Lei Magnitsky",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/foto-1500x1000_-300x200.jpg",
         "date": "12/12/2025",
         "description": "Departamento do Tesouro remove restrições da Lei Magnitsky que atingiam Alexandre de Moraes, sua esposa e a empresa familiar Lex, após vigência iniciada em julho"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-2-1-300x200.jpg",
         "date": "12/12/2025",
         "description": "Ebitda e o fluxo de caixa negativos da Alea pesaram no humor do mercado e derrubaram as ações pela manhã; papéis se recuperaram parcialmente"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/brandvoice-porto-bank-cartao-exclusivo-mira-consumidor-mais-exigente/",
-        "title": "Cartão Exclusivo Mira Consumidor Mais Exigente",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-2-300x200.png",
-        "date": "12/12/2025",
-        "description": "Porto Bank lança Visa Infinite Privilege e amplia disputa pelo cliente de altíssima renda"
     }
 ]
