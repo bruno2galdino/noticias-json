@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/emater-reduz-em-76-projecao-de-safra-de-trigo-do-rio-grande-do-sul/",
+        "title": "Emater Reduz em 7,6% Projeção de Safra de Trigo do Rio Grande do Sul",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_soja_RS_12.12.2025-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "Agricultores gaúchos lidam com chuva na colheita do trigo e atraso no plantio da soja, enquanto a Emater aponta esforços para manter produtividade e qualidade."
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/com-113-mil-toneladas-mato-grosso-bate-recorde-mensal-de-exportacao-de-carne-bovina/",
+        "title": "Com 113 mil toneladas, Mato Grosso Bate Recorde Mensal de Exportação de Carne Bovina",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_carne_bovina_imac_12.12.2025-1-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "No acumulado de 2025, o estado atingiu 867,7 mil toneladas embarcadas, um crescimento de 23,8%"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-semana-termina-com-nova-queda-das-acoes-de-ia-em-wall-street/",
         "title": "Pré-mercado: Semana Termina com Nova Queda das Ações de IA em Wall Street",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -8,7 +22,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/12/clair-obscur-saiba-tudo-sobre-o-game-do-ano-e-veja-a-lista-completa-dos-vencedores-do-game-awards-2025/",
-        "title": "Clair Obscur: Saiba Tudo sobre o Game do Ano e Veja a Lista Completa dos Vencedores do Game Awards 2025",
+        "title": "Clair Obscur: Saiba Tudo sobre o Game do Ano; Veja os Vencedores do Game Awards 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/clair-300x200.jpg",
         "date": "12/12/2025",
         "description": "Além  de conquistar o título de Jogo do Ano, ele acumulou um recorde histórico de oito estatuetas, incluindo Melhor Direção, Melhor Narrativa e Melhor RPG"
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/01/logo-nubank-forbes-300x200.jpg",
         "date": "12/12/2025",
         "description": "Relatório do Bank of America aponta papéis brasileiros e da argentina que unem alto crescimento, escala e lucratividade, se assemelhando às características do grupo de ações americano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/openai-acelera-investimentos-no-brasil-com-parcerias-estrategicas-e-escritorio-em-sao-paulo/",
-        "title": "OpenAI aposta no Brasil para expandir fronteiras da inteligência artificial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-1089155160-300x200.jpg",
-        "date": "12/12/2025",
-        "description": "Parceria recém anunciada com o Rappi consolida o Brasil como protagonista da América Latina no avanço da inteligência artificial pela OpenAI"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/boeing-nomeia-simone-souza-como-diretora-de-sustentabilidade-na-america-latina-e-caribe/",
-        "title": "Boeing Anuncia Nova Líder de Sustentabilidade na América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/simone-souza-boeing-300x200.jpg",
-        "date": "12/12/2025",
-        "description": "Formada em engenharia ambiental, Simone Souza é pesquisadora e desenvolvia estratégias para redução de emissões na Raízen"
     }
 ]
