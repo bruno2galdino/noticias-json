@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-semana-termina-com-nova-queda-das-acoes-de-ia-em-wall-street/",
+        "title": "Pré-mercado: Semana Termina com Nova Queda das Ações de IA em Wall Street",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "12/12/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 12 de dezembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/clair-obscur-saiba-tudo-sobre-o-game-do-ano-e-veja-a-lista-completa-dos-vencedores-do-game-awards-2025/",
+        "title": "Clair Obscur: Saiba Tudo sobre o Game do Ano e Veja a Lista Completa dos Vencedores do Game Awards 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/clair-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "Além  de conquistar o título de Jogo do Ano, ele acumulou um recorde histórico de oito estatuetas, incluindo Melhor Direção, Melhor Narrativa e Melhor RPG"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/12/tendencias-digitais-como-labubu-morango-do-amor-e-bobbie-goods-dominaram-o-google-em-2025/",
         "title": "Como Labubu, Morango do Amor e Bobbie Goods Foram do Auge ao Flop em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/simone-souza-boeing-300x200.jpg",
         "date": "12/12/2025",
         "description": "Formada em engenharia ambiental, Simone Souza é pesquisadora e desenvolvia estratégias para redução de emissões na Raízen"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/12/4-razoes-que-fazem-voce-pedir-desculpas-mesmo-estando-certo/",
-        "title": "4 Razões Que Fazem Você Pedir Desculpas Mesmo Estando Certo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0x0-2-300x200.webp",
-        "date": "12/12/2025",
-        "description": "Quando o “desculpa” vira automático, ele pode silenciar sua voz e limitar sua expressão genuína"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/com-receita-historica-de-r-500-milhoes-campo-limpo-acelera-a-reciclagem-no-agro/",
-        "title": "Com Receita Histórica de R$ 500 Milhões, Campo Limpo Acelera a Reciclagem no Agro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_campo_limpo_marcelo_okamura_11.12.2025-300x200.jpg",
-        "date": "12/12/2025",
-        "description": "Marcelo Okamura anunciou os resultados da empresa e investimentos de R$ 140 milhões nos próximos anos"
     }
 ]
