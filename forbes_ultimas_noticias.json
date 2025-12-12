@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/jbs-fecha-unidade-na-california-que-processa-carne-para-hamburgueres/",
+        "title": "JBS Fecha Unidade Na Califórnia Que Processa Carne Para Hambúrgueres",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Francis_Maris_GRupo-Cometa-4-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "A JBS encerrará a planta da Swift Beef em Riverside, afetando 374 empregos em meio ao aumento dos custos de gado nos EUA"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/eua-removem-alexandre-de-moraes-e-viviane-da-lista-da-lei-magnitsky/",
+        "title": "EUA Removem Alexandre De Moraes E Esposa Da Lista Da Lei Magnitsky",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/foto-1500x1000_-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "Departamento do Tesouro remove restrições da Lei Magnitsky que atingiam Alexandre de Moraes, sua esposa e a empresa familiar Lex, após vigência iniciada em julho"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/12/consulado-do-catar-realiza-celebracao-em-sp-e-reforca-estrategia-de-expansao-internacional/",
         "title": "Consulado do Catar Realiza Celebração em SP e Reforça Estratégia de Expansão Internacional",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Catar-celebra-sua-Data-Nacional-2025-com-coquetel-em-Sao-Paulo-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-2-300x200.png",
         "date": "12/12/2025",
         "description": "Porto Bank lança Visa Infinite Privilege e amplia disputa pelo cliente de altíssima renda"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/china-amplia-leiloes-de-soja-com-nova-oferta-de-5139-mil-toneladas/",
-        "title": "China Amplia Leilões de Soja com Nova Oferta De 513,9 Mil Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_exportacao_26.11.2025-1-300x200.jpg",
-        "date": "12/12/2025",
-        "description": "Com compras aceleradas dos EUA e chegada recorde da América do Sul, a China usa leilões semanais que podem somar 4 milhões de toneladas para reequilibrar oferta e demanda"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/china-bate-novo-recorde-na-producao-de-graos-com-715-milhoes-de-toneladas/",
-        "title": "China Bate Novo Recorde na Produção de Grãos com 715 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_milho_china_12.12.2025-300x200.jpg",
-        "date": "12/12/2025",
-        "description": "O crescimento foi impulsionado pelo milho, que saltou 2,1%, atingindo 301,2 milhões de toneladas"
     }
 ]
