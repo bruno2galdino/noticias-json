@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/brandvoice-porto-bank-cartao-exclusivo-mira-consumidor-mais-exigente/",
+        "title": "Cartão Exclusivo Mira Consumidor Mais Exigente",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-Site-para-BVs-Comercial-2-300x200.png",
+        "date": "12/12/2025",
+        "description": "Porto Bank lança Visa Infinite Privilege e amplia disputa pelo cliente de altíssima renda"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/china-amplia-leiloes-de-soja-com-nova-oferta-de-5139-mil-toneladas/",
+        "title": "China Amplia Leilões de Soja com Nova Oferta De 513,9 Mil Toneladas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_exportacao_26.11.2025-1-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "Com compras aceleradas dos EUA e chegada recorde da América do Sul, a China usa leilões semanais que podem somar 4 milhões de toneladas para reequilibrar oferta e demanda"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/china-bate-novo-recorde-na-producao-de-graos-com-715-milhoes-de-toneladas/",
+        "title": "China Bate Novo Recorde na Produção de Grãos com 715 Milhões de Toneladas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_milho_china_12.12.2025-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "O crescimento foi impulsionado pelo milho, que saltou 2,1%, atingindo 301,2 milhões de toneladas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/setor-de-servicos-do-brasil-cresce-03-em-outubro/",
+        "title": "Setor de Serviços do Brasil Cresce 0,3% em Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/supermercado-comida-setor-de-servicos-brasil-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "Volume cresceu um pouco mais do que esperado, mantendo a resiliência mesmo em meio à política monetária restritiva que afeta a atividade econômica do país"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/argentina-projeta-safra-recorde-de-trigo-com-277-milhoes-de-toneladas/",
+        "title": "Argentina Projeta Safra Recorde De Trigo Com 27,7 Milhões De Toneladas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_trigo_12.12.2025-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "A Bolsa de Comércio de Rosário elevou a estimativa do trigo argentino para 27,7 milhões de toneladas em 2025/26, impulsionada por produtividade acima do esperado e clima favorável, superando marcas históricas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/excedente-hidrico-favorece-desenvolvimento-inicial-de-soja-e-milho-no-brasil-diz-earthdaily/",
+        "title": "Excedente Hídrico Favorece Soja e Milho no Brasil, Diz EarthDaily",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_12.12.2025-300x200.jpg",
+        "date": "12/12/2025",
+        "description": "Condição reduz riscos de semeadura tardia e favorece a germinação das lavouras"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/emater-reduz-em-76-projecao-de-safra-de-trigo-do-rio-grande-do-sul/",
         "title": "Emater Reduz em 7,6% Projeção de Safra de Trigo do Rio Grande do Sul",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_soja_RS_12.12.2025-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/clair-300x200.jpg",
         "date": "12/12/2025",
         "description": "Além  de conquistar o título de Jogo do Ano, ele acumulou um recorde histórico de oito estatuetas, incluindo Melhor Direção, Melhor Narrativa e Melhor RPG"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/tendencias-digitais-como-labubu-morango-do-amor-e-bobbie-goods-dominaram-o-google-em-2025/",
-        "title": "Como Labubu, Morango do Amor e Bobbie Goods Foram do Auge ao Flop em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/08/1-300x200.png",
-        "date": "12/12/2025",
-        "description": "Com base nos termos pesquisados do Google, produtos de nicho ganham escala global e mostram a força dos algoritmos na criação de desejos coletivos apesar do elemento efêmero"
-    },
-    {
-        "url": "https://forbes.com.br/last/2025/12/patria-expande-real-estate-de-r-700-mi-para-r-38-bi-em-tres-ano/",
-        "title": "Patria Expande Real Estate de R$ 700 Mi para R$ 38 Bi em Três Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-1-2-300x200.jpg",
-        "date": "12/12/2025",
-        "description": "Gestora avança com aquisições como VBI, UBS, Genial, Vectis e RBR e se torna líder independente do mercado imobiliário brasileiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/o-frances-expert-em-luxo-que-lidera-a-estrategia-global-da-jhsf/",
-        "title": "O Francês Que Lidera a Estratégia Global da JHSF",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Chamado-de-principe-das-relacoes-publicas-em-Paris-o-frances-Lucien-Pages-lidera-a-estrategia-global-da-JHSF-e-ve-no-Brasil-uma-nova-potencia-do-luxo-300x200.jpg",
-        "date": "12/12/2025",
-        "description": "Aos 50 anos, Lucien Pagès está à frente do escritório de relações públicas mais influente do mundo da moda e do lifestyle e molda a estratégia de marcas como Loewe e Jacquemus"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/felicidade-no-trabalho-impulsiona-desempenho-das-acoes-mostra-estudo/",
-        "title": "Felicidade no Trabalho Impulsiona Desempenho das Ações, Mostra Estudo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/felicidade-no-trabalho-300x200.jpg",
-        "date": "12/12/2025",
-        "description": "Empresas bem avaliadas em salário e benefícios apresentam uma vantagem menor; veja como construir um ambiente feliz e engajado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/disney-muda-estrategia-e-avanca-algumas-casas-ao-investir-em-acordo-com-a-openai-entenda/",
-        "title": "Disney Muda Estratégia e Avança Algumas Casas Ao Investir em Acordo com a OpenAI; Entenda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Disney-OpenAI-3-300x200.jpg",
-        "date": "12/12/2025",
-        "description": "Como parte do negócio, a empresa de entretenimento e conteúdo fará um investimento de US$ 1 bilhão em ações da dona do ChatGPT e vai liberar mais de 200 personagens"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/conheca-as-acoes-consideradas-as-sete-magnificas-da-america-latina/",
-        "title": "Conheça as Ações Consideradas as 'Sete Magníficas' da América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/logo-nubank-forbes-300x200.jpg",
-        "date": "12/12/2025",
-        "description": "Relatório do Bank of America aponta papéis brasileiros e da argentina que unem alto crescimento, escala e lucratividade, se assemelhando às características do grupo de ações americano"
     }
 ]
