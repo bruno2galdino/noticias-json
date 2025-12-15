@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/12/ator-e-cineasta-americano-rob-reiner-e-esposa-sao-encontrados-mortos-em-casa/",
+        "title": "Ator e Cineasta Americano Rob Reiner e Esposa são Encontrados Mortos em Casa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-3-300x200.png",
+        "date": "15/12/2025",
+        "description": "Diretor de obras como “A Princesa Prometida” e “Spinal Tap”, Rob Reiner influenciou gerações com filmes que se tornaram clássicos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/boletim-focus-dezembro/",
+        "title": "Boletim Focus: Analistas Reduzem Projeções de Inflação e para Selic em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-1-300x200.png",
+        "date": "15/12/2025",
+        "description": "Mercado corta projeção da Selic em 2026 após BC manter taxa em 15% e adia expectativas para início de cortes nos juros"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-o-que-esperar-da-ultima-semana-de-2025/",
         "title": "Pré-mercado: o Que Esperar da Última Semana de 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/felipe-meneses-300x200.jpg",
         "date": "15/12/2025",
         "description": "De Sergipe ao Vale do Silício, Felipe Meneses vendeu sua startup de IA para o Nubank aos 24 anos; agora, constrói um novo projeto ao lado do ex-CTO do banco"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/por-que-a-geracao-z-quer-criptomoedas-de-natal/",
-        "title": "Por que a Geração Z quer Criptomoedas de Natal",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages_tatiana_maksimova-300x200.jpg",
-        "date": "15/12/2025",
-        "description": "Estudo da Visa mostra que 57% dos consumidores na América Latina ficariam animados em receber criptomoedas como presente, bem acima da média de 38% de consumidores globais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/james-cameron-agora-e-bilionario/",
-        "title": "James Cameron Agora É Bilionário",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Money_James-Cameron-300x200.jpg",
-        "date": "14/12/2025",
-        "description": "Com vários sucessos astronômicos de bilheteria (e um terceiro filme de Avatar com expectativa de arrecadar mais de US$ 2 bilhões), o diretor vencedor do Oscar agora integra um grupo de elite em Hollywood"
     }
 ]
