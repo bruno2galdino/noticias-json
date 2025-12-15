@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/novonor-encaminha-acordo-para-venda-de-controle-da-braskem/",
+        "title": "Novonor Encaminha Acordo para Venda de Controle da Braskem",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2216199583-1-300x200.jpg",
+        "date": "15/12/2025",
+        "description": "Conclusão da operação pode encerrar um longo período de preocupações com a liquidez da petroquímica"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/agentes-de-ia-a-nova-infraestrutura-para-transacoes-de-bilhoes/",
+        "title": "Agentes de IA: A Nova Infraestrutura para Transações de Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/pablo-fourez-headshot-300x200.jpg",
+        "date": "15/12/2025",
+        "description": "Os agentes de pagamento devem superar US$4 trilhões em movimentações até 2030 e mudar a jornada de consumo, como explica Pablo Fourez, Chief Data Office (CDO), da Mastercard"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/12/ator-e-cineasta-americano-rob-reiner-e-esposa-sao-encontrados-mortos-em-casa/",
         "title": "Ator e Cineasta Americano Rob Reiner e Esposa são Encontrados Mortos em Casa",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-3-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/SILVIOHOLOGRAFIA-300x200.jpg",
         "date": "15/12/2025",
         "description": "O fenômeno, que utiliza a IA Generativa e deepfake para criar a imagem e a voz do apresentador, dando o efeito visual de \"holograma\", ecoa tendências observadas na tecnologia há anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/joias-colar-de-us-150-milhoes-levou-sete-anos-para-ser-feito/",
-        "title": "Rarissímo, Colar de US$ 150 Milhões Levou Sete Anos para Ser Feito",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_The-Margot-McKinney-Jardin-Collier-300x200.jpg",
-        "date": "15/12/2025",
-        "description": "Joia da australiana Margot McKinney reúne seis diamantes excepcionais, incluindo raríssimos exemplares violeta e vermelho, resultando em uma peça impossível de ser refeita"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/o-brasileiro-que-ganhou-bolsa-de-us-100-mil-de-peter-thiel-para-largar-stanford/",
-        "title": "O Brasileiro que Ganhou Bolsa de Peter Thiel Para Largar Stanford",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/felipe-meneses-300x200.jpg",
-        "date": "15/12/2025",
-        "description": "De Sergipe ao Vale do Silício, Felipe Meneses vendeu sua startup de IA para o Nubank aos 24 anos; agora, constrói um novo projeto ao lado do ex-CTO do banco"
     }
 ]
