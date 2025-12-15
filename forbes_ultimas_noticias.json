@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/previa-do-pib-tem-queda-inesperada-de-02-em-outubro/",
+        "title": "Prévia do Pib Tem Queda Inesperada de 0,2% em Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-8-1-300x200.png",
+        "date": "15/12/2025",
+        "description": "Expectativa de economistas era que Índice de Atividade Econômica (IBC-Br) registrasse alta de 0,10%."
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/casas-bahia-lanca-r-395-bi-em-debentures-para-reestruturar-divida/",
+        "title": "Casas Bahia Lança R$ 3,95 Bi em Debêntures para Reestruturar Dívida",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/08/Casas-Bahia-300x200.jpg",
+        "date": "15/12/2025",
+        "description": "O conselho da Casas Bahia aprovou em novembro proposta para aumento de capital social da companhia em até R$ 13,5 bilhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/economia-da-china-fica-estagnada-em-novembro-e-crescem-pedidos-de-reforma/",
+        "title": "Economia da China Fica Estagnada em Novembro e Crescem Pedidos de Reforma",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Vista-de-Pequim-na-China-300x200.jpg",
+        "date": "15/12/2025",
+        "description": "Vendas no varejo registraram seu pior desempenho desde que o país encerrou as restrições de \"Covid-19 zero\""
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/novonor-encaminha-acordo-para-venda-de-controle-da-braskem/",
         "title": "Novonor Encaminha Acordo para Venda de Controle da Braskem",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2216199583-1-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/25c0326_007-1-300x200.jpg",
         "date": "15/12/2025",
         "description": "Marca será parceira automotiva exclusiva em cerca de 30 torneios e mira conexão direta com jogadoras, fãs e público de alta renda"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/como-kleber-mendonca-filho-transformou-recife-em-potencia-cinematografica-global/",
-        "title": "Como Kleber Mendonça Filho Transformou Recife em Potência Cinematográfica Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.O-olhar-de-Kleber-Mendonca-Filho-sempre-reflete-seus-anos-de-formacao-em-Recife.-Na-pagina-ao-lado-o-diretor-de-O-Agente-Secreto-no-set-do-filme-com-o-ator-protagonista-Wagner-Moura-300x200.jpg",
-        "date": "15/12/2025",
-        "description": "Reconhecido em Cannes e cotado ao Oscar, \"O Agente Secreto\" reafirma o prestígio internacional do diretor pernambucano e renova protagonismo do Brasil mundo afora"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/reforma-tributaria-redesenha-o-mercado-imobiliario-de-luxo/",
-        "title": "Reforma Tributária Redesenha o Mercado Imobiliário de Luxo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-2-1-300x200.png",
-        "date": "15/12/2025",
-        "description": "Com a criação do IVA dual e novas regras para investidores, o setor de alta renda se ajusta a um cenário de maior transparência, carga tributária seletiva e exigência de gestão mais profissional"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/holografia-entenda-como-o-sbt-ressuscitou-silvio-santos-o-estagio-de-uso-e-as-implicacoes-eticas-da-tecnologia/",
-        "title": "Entenda Como o SBT \"Ressuscitou\" Silvio Santos e o Estágio de Uso da Projeção Holográfica",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/SILVIOHOLOGRAFIA-300x200.jpg",
-        "date": "15/12/2025",
-        "description": "O fenômeno, que utiliza a IA Generativa e deepfake para criar a imagem e a voz do apresentador, dando o efeito visual de \"holograma\", ecoa tendências observadas na tecnologia há anos"
     }
 ]
