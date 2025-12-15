@@ -1,7 +1,28 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/recuperacao-judicial-no-agro-salta-150-e-credito-fica-mais-seletivo/",
+        "title": "Recuperação Judicial no Agro Salta 150% e Crédito Fica Mais Seletivo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_laranja_plantacao_15.12.2025-300x200.jpg",
+        "date": "15/12/2025",
+        "description": "O avanço evidencia um período desafiador para manter o fluxo de caixa de produtores que rolam dívidas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/plantio-de-soja-no-brasil-atinge-97-no-pais-com-chuvas-regularizadas/",
+        "title": "Plantio de Soja no Brasil Atinge 97% no País com Chuvas Regularizadas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_plantacao_15.12.2025-300x200.jpg",
+        "date": "15/12/2025",
+        "description": "A regularização das chuvas favoreceu a conclusão dos trabalhos e melhorou a umidade em regiões críticas"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/ambev-inaugura-1a-fabrica-de-vidros-no-parana/",
+        "title": "Ambev Inaugura 1ª Fábrica de Vidros no Paraná",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_ambev_fabrica_de_vidros_15.12.2025-300x200.jpg",
+        "date": "15/12/2025",
+        "description": "Unidade fica em Carambeí e produzirá mais de 600 milhões de garrafas anualmente para o segmento premium"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/previa-do-pib-tem-queda-inesperada-de-02-em-outubro/",
-        "title": "Prévia do Pib Tem Queda Inesperada de 0,2% em Outubro",
+        "title": "Prévia do PIB Tem Queda Inesperada de 0,2% em Outubro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-8-1-300x200.png",
         "date": "15/12/2025",
         "description": "Expectativa de economistas era que Índice de Atividade Econômica (IBC-Br) registrasse alta de 0,10%."
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-1-300x200.png",
         "date": "15/12/2025",
         "description": "Mercado corta projeção da Selic em 2026 após BC manter taxa em 15% e adia expectativas para início de cortes nos juros"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-o-que-esperar-da-ultima-semana-de-2025/",
-        "title": "Pré-mercado: o Que Esperar da Última Semana de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "15/12/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 15 de dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/como-a-alta-dos-precos-dos-alimentos-vai-roubar-a-alegria-das-festas-nos-eua/",
-        "title": "Como a Alta dos Preços dos Alimentos Vai Roubar a Alegria das Festas nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_natal_alimentos_15dez25_FTiaregetty-300x200.jpg",
-        "date": "15/12/2025",
-        "description": "Somente os custos das tarifas já são estimados em mais de US$ 1.200 por domicílio neste ano, o equivalente a cerca de R$ 6.000"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-sport/2025/12/mercedes-benz-entra-de-vez-no-jogo-do-tenis-feminino/",
-        "title": "Mercedes-Benz Entra de Vez no Jogo do Tênis Feminino",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/25c0326_007-1-300x200.jpg",
-        "date": "15/12/2025",
-        "description": "Marca será parceira automotiva exclusiva em cerca de 30 torneios e mira conexão direta com jogadoras, fãs e público de alta renda"
     }
 ]
