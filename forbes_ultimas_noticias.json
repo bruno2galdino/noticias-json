@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/irobot-do-robo-aspirador-roomba-entra-em-recuperacao-judicial/",
+        "title": "iRobot, do Robô Aspirador Roomba, Entra em Recuperação Judicial",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/05/ForbesLife_iRoboti7_25052021_Divulgacao.jpg",
+        "date": "16/12/2025",
+        "description": "Plano de reestruturação prevê que a fabricante chinesa Picea assuma o controle total da empresa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/petz-e-cobasi-anunciam-nova-configuracao-apos-fusao/",
+        "title": "Petz e Cobasi Anunciam Nova Configuração após Fusão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/MG_6725-300x200.jpg",
+        "date": "16/12/2025",
+        "description": "Ações da Petz deixarão de ser negociadas no dia 2 de janeiro, data de conclusão da operação, e passarão a ser negociadas sob um novo ticker no dia 5"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/criacao-de-vagas-de-trabalho-nos-eua-supera-expectativas-em-novembro-taxa-de-desemprego-fica-em-46/",
+        "title": "Criação de Vagas de Trabalho nos EUA Supera Expectativas em Novembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/GettyImages-2191571693-1-300x200.jpg",
+        "date": "16/12/2025",
+        "description": "A economia dos EUA abriu 64 mil postos de trabalho fora do setor agrícola no mês passado"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/as-atletas-mais-bem-pagas-do-mundo-em-2025/",
+        "title": "As Atletas Mais Bem Pagas do Mundo em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2219062793-1-300x200.jpg",
+        "date": "16/12/2025",
+        "description": "A lista da Forbes apresenta uma variedade de esportes, com tenistas, jogadoras de basquete, golfistas e esquiadoras"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/12/criacoes-visuais-por-ia-entram-em-nova-fase-com-atualizacao-no-chatgpt-imagens/",
         "title": "Criações Visuais por IA Entram em Nova Fase com Atualização no Chatgpt Imagens",
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/openai-chatgpt-agentes-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_soja_16.12.2025-300x200.jpg",
         "date": "16/12/2025",
         "description": "O movimento de paralisação será liderado pelo sindicato FTCIODyARA e pode afetar as operações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/hack-critico-no-amazon-kindle-e-confirmado-o-que-voce-precisa-saber/",
-        "title": "Hack Crítico no Amazon Kindle É Confirmado — o Que Você Precisa Saber",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Amazon_Kindle_Hack-300x200.png",
-        "date": "16/12/2025",
-        "description": "Hackers exploram falhas críticas no Kindle para invadir contas da Amazon; empresa já liberou correções automáticas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/valor-de-mercado-da-spacex-dispara-e-chega-a-us-800-bilhoes/",
-        "title": "Valor de Mercado da SpaceX Dispara e Chega a US$ 800 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-21-300x200.jpg",
-        "date": "16/12/2025",
-        "description": "A empresa lança mais carga útil em órbita do que o resto do mundo somado, respondendo por mais de 60% da massa global enviada ao espaço"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/ferramenta-digital-de-verificacao-busca-reduzir-risco-de-falsificacao-do-mounjaro/",
-        "title": "Ferramenta Digital de Verificação Busca Reduzir Risco de Falsificação do Mounjaro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2163159672-300x200.jpg",
-        "date": "16/12/2025",
-        "description": "Novidade permite checar QR Code e confirmar autenticidade de medicamentos aprovados pela Anvisa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/brandvoice-arqios-cofre-de-luxo-redefine-seguranca-integrada/",
-        "title": "Cofre De Luxo Arqios Redefine Segurança Integrada No Mercado Premium",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/CARBON-DESTAQUE-300x200.jpg",
-        "date": "16/12/2025",
-        "description": "A Arqios apresenta um produto que dialoga com tendências globais de segurança integrada, onde a proteção deixa de ser elemento escondido e passa a compor a arquitetura"
     }
 ]
