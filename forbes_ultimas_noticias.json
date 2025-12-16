@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/valor-de-mercado-da-spacex-dispara-e-chega-a-us-800-bilhoes/",
+        "title": "Valor de Mercado da SpaceX Dispara e Chega a US$ 800 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-21-300x200.jpg",
+        "date": "16/12/2025",
+        "description": "A empresa lança mais carga útil em órbita do que o resto do mundo somado, respondendo por mais de 60% da massa global enviada ao espaço"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/ferramenta-digital-de-verificacao-busca-reduzir-risco-de-falsificacao-do-mounjaro/",
+        "title": "Ferramenta Digital de Verificação Busca Reduzir Risco de Falsificação do Mounjaro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2163159672-300x200.jpg",
+        "date": "16/12/2025",
+        "description": "Novidade permite checar QR Code e confirmar autenticidade de medicamentos aprovados pela Anvisa"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/brandvoice-arqios-cofre-de-luxo-redefine-seguranca-integrada/",
+        "title": "Cofre De Luxo Arqios Redefine Segurança Integrada No Mercado Premium",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/CARBON-DESTAQUE-300x200.jpg",
+        "date": "16/12/2025",
+        "description": "A Arqios apresenta um produto que dialoga com tendências globais de segurança integrada, onde a proteção deixa de ser elemento escondido e passa a compor a arquitetura"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/ata-copom-bc-ve-ganhos-com-conducao-cautelosa-dos-juros/",
         "title": "Ata Copom: BC Vê Ganhos com Condução Cautelosa dos Juros",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-1-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/gestao-de-pessoas-em-2025-300x200.jpg",
         "date": "16/12/2025",
         "description": "Um balanço entre o que se previa no início do ano e o que, de fato, passou a ocupar a agenda dos líderes de RH"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/12/as-melhores-tequilas-do-mundo-segundo-o-beverage-testing-institut/",
-        "title": "As Melhores Tequilas do Mundo, Segundo o Beverage Testing Institut",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/WSB_melhores-tequilas-do-mundo-300x200.jpg",
-        "date": "16/12/2025",
-        "description": "Novo Hall da Fama da BevTest seleciona oito tequilas de excelência, de Blancos puros das Terras Altas a Extra Añejos raríssimos; confira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/nestle-health-science-brasil-investe-r-10-milhoes-em-tecnologia-e-lanca-plataforma-de-genai-para-saude/",
-        "title": "Nestlé Health Science Brasil Investe R$ 10 Milhões em Tecnologia e Lança Plataforma de GenAI",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Victor-Vendramini-300x200.jpg",
-        "date": "16/12/2025",
-        "description": "Pela primeira vez, a Nestlé integra conteúdo científico com curadoria médica, personalização e inteligência artificial generativa, como explica Victor Vendramini, Head de Digital da NHS"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/rainha-do-streaming-a-mulher-que-decide-o-que-o-mundo-assiste-na-netflix/",
-        "title": "Rainha do Streaming: A Mulher Que Decide o Que o Mundo Vai Assistir na Netflix",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/bela-bajara-netflix-300x200.jpg",
-        "date": "16/12/2025",
-        "description": "Com aquisição da Warner Bros., Bela Bajaria, diretora de conteúdo da gigante global, pode se tornar a mulher mais poderosa de Hollywood"
     }
 ]
