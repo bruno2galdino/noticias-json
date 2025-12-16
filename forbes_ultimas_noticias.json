@@ -1,8 +1,15 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-fecha-em-queda-sem-sinais-claros-sobre-corte-de-juros-em-2026/",
+        "title": "Ibovespa Fecha em Queda sem Sinais Claros sobre Corte de Juros em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "16/12/2025",
+        "description": "Para o mercado, o tom da ata do Copom foi considerado mais duro, pressionando o pregão"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/irobot-do-robo-aspirador-roomba-entra-em-recuperacao-judicial/",
         "title": "iRobot, do Robô Aspirador Roomba, Entra em Recuperação Judicial",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/05/ForbesLife_iRoboti7_25052021_Divulgacao.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/05/ForbesLife_iRoboti7_25052021_Divulgacao-e1765916477131.jpg",
         "date": "16/12/2025",
         "description": "Plano de reestruturação prevê que a fabricante chinesa Picea assuma o controle total da empresa"
     },
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_acordo_ue_mercosul_16.12.2025-300x200.jpg",
         "date": "16/12/2025",
         "description": "O acordo Mercosul-UE pode ser bloqueado por uma minoria suficiente de membros"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/sindicato-argentino-de-oleaginosas-convoca-greve-de-24-horas-para-a-proxima-quinta-feira/",
-        "title": "Sindicato Argentino de Oleaginosas Convoca Greve de 24 Horas para a Próxima Quinta-feira",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_soja_16.12.2025-300x200.jpg",
-        "date": "16/12/2025",
-        "description": "O movimento de paralisação será liderado pelo sindicato FTCIODyARA e pode afetar as operações"
     }
 ]
