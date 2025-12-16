@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/brand-voice/2025/12/brandvoice-denza-alta-tecnologia-a-servico-do-luxo/",
+        "title": "Alta Tecnologia a Serviço do Luxo",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/DENZA-DESTAQUE-300x200.png",
+        "date": "16/12/2025",
+        "description": "Denza, marca que nasceu da união entre BYD e Mercedes-Benz, inaugura era em que inovação, elegância e energia limpa se encontram"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/camara-dos-deputados-aprova-texto-base-com-regras-do-ibs-na-reforma-tributaria/",
         "title": "Câmara dos Deputados Aprova Texto-base com Regras do IBS na Reforma Tributária",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/previdencia-privada-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/3-7-300x200.jpg",
         "date": "16/12/2025",
         "description": "Em 2023, a Papila faturou R$ 33 milhões; dois anos depois, deve fechar 2025 em torno de R$ 70 milhões e mira mais alto"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2025/12/o-que-aconteceu-com-a-remocao-de-carbono-em-2025/",
-        "title": "O Que Aconteceu com a Remoção de Carbono em 2025?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_biochar_15dez25_Edwin-RemsbergGetty-Images-300x200.jpg",
-        "date": "16/12/2025",
-        "description": "Ações e reações de empresas do porte de Microsoft e Carbon Capture sinalizam a resposta: em vez de apostas, elas querem entregas"
     }
 ]
