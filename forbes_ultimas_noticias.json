@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/o-que-representa-o-primeiro-lancamento-comercial-do-brasil-na-economia-espacial-de-us-1-trilhao/",
+        "title": "O Que Representa o Primeiro Lançamento Comercial do Brasil na Economia Espacial de US$ 1 Trilhão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/FOGUETE-300x200.jpg",
+        "date": "17/12/2025",
+        "description": "Às 13h, a partir do Centro de Lançamento de Alcântara (CLA), no Maranhão, será  iniciada a Operação Spaceward, o primeiro lançamento de um foguete comercial em território nacional"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/piloto-lucas-moraes-repete-senna-e-traz-ao-brasil-titulo-mundial/",
         "title": "Piloto Lucas Moraes Repete Senna e Traz Ao Brasil Título Mundial",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Credito-Kin-Marcin-1-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_sebastiao_salgado_gettyimages_17.12.2025-300x200.jpg",
         "date": "17/12/2025",
         "description": "Edição limitada da paraense Mágio une arte, rastreabilidade, impacto socioambiental e alto valor cultural"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-fecha-em-queda-sem-sinais-claros-sobre-corte-de-juros-em-2026/",
-        "title": "Ibovespa Fecha em Queda sem Sinais Claros sobre Corte de Juros em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
-        "date": "16/12/2025",
-        "description": "Para o mercado, o tom da ata do Copom foi considerado mais duro e pressionou o pregão. Pesquisa eleitoral também colaborou para o pessimismo"
     }
 ]
