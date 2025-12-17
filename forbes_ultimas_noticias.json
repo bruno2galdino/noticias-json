@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/forbes-mulher-agro-educacao-e-setor-produtivo-os-avancos-de-2025-e-o-caminho-adiante/",
+        "title": "Educação e Setor Produtivo: os Avanços de 2025 e o Caminho Adiante",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_estudante_escola_biblioteca_17.12.2025-300x200.jpg",
+        "date": "17/12/2025",
+        "description": "Até que ponto o Enem realmente pode exigir e avaliar os conhecimentos importantes dos alunos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/cometa-3i-atlas-como-a-nasa-esta-monitorando-sua-passagem/",
+        "title": "Cometa 3I/ATLAS: Como a Nasa Está Monitorando Sua Passagem",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/3IATLAS-300x200.png",
+        "date": "17/12/2025",
+        "description": "Objeto interestelar será visível nesta sexta (19) e marca avanço científico sem risco de colisão com a Terra"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/italia-e-franca-travam-acordo-com-mercosul-e-exigem-protecao-ao-agro-europeu/",
+        "title": "Itália e França Travam Acordo com Mercosul e Exigem Proteção ao Agro Europeu",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_uniao_europeia_parlamento_17.12.2025-300x200.jpg",
+        "date": "17/12/2025",
+        "description": "Autoridades brasileiras reforçam o ultimato de \"agora ou nunca\" e sinalizam foco com Japão e Canadá"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/anec-eleva-estimativas-e-brasil-acelera-exportacoes-de-graos-em-dezembro/",
+        "title": "Anec Eleva Estimativas e Brasil Acelera Exportações de Grãos em Dezembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_soja_17.12.2025-300x200.jpg",
+        "date": "17/12/2025",
+        "description": "A estimativa de exportação de soja foi para 3,57 milhões de toneladas em dezembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/rio-de-janeiro-ganha-nova-semana-de-moda-oficial/",
+        "title": "Rio de Janeiro Ganha Nova Semana de Moda Oficial",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Rio-de-Janeiro-volta-a-ganhar-uma-semana-de-moda-oficial-o-RIOFW-300x200.jpg",
+        "date": "17/12/2025",
+        "description": "O RIOFW quer chamar a atenção do mundo para a cidade carioca e a moda nacional"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/b3-lanca-contratos-de-opcoes-de-politica-monetaria-internacionais-para-investidores/",
+        "title": "B3 Lança Contratos de Opções de Política Monetária Internacionais para Investidores",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-22-300x200.jpg",
+        "date": "17/12/2025",
+        "description": "O modelo permite negociar decisões sobre juros nos EUA, Europa e México"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/conselho-da-warner-bros-discovery-rejeita-oferta-da-paramount/",
         "title": "Conselho da Warner Bros Discovery Rejeita Oferta da Paramount",
         "image": "https://forbes.com.br/wp-content/uploads/2023/04/tech-warner-bros-max-steaming-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "17/12/2025",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 17 de dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/o-que-representa-o-primeiro-lancamento-comercial-do-brasil-na-economia-espacial-de-us-1-trilhao/",
-        "title": "O Que Representa o Primeiro Lançamento Comercial do Brasil na Economia Espacial de US$ 1 Trilhão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/FOGUETE-300x200.jpg",
-        "date": "17/12/2025",
-        "description": "Às 13h, a partir do Centro de Lançamento de Alcântara (CLA), no Maranhão, será  iniciada a Operação Spaceward, o primeiro lançamento de um foguete comercial em território nacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/piloto-lucas-moraes-repete-senna-e-traz-ao-brasil-titulo-mundial/",
-        "title": "Piloto Lucas Moraes Repete Senna e Traz Ao Brasil Título Mundial",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Credito-Kin-Marcin-1-300x200.jpg",
-        "date": "17/12/2025",
-        "description": "No FIA Awards 2025, piloto recebeu o troféu pelo título do Campeonato Mundial de Rally Raid"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/mercado-imobiliario-registra-33-fusoes-e-aquisicoes-em-2025/",
-        "title": "Mercado Imobiliário Registra 33 Fusões e Aquisições em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-13-300x200.jpg",
-        "date": "17/12/2025",
-        "description": "Com investidores estrangeiros mais cautelosos, o mercado brasileiro concentrou operações domésticas de fusões e aquisições, refletindo um ambiente de ajuste e foco em ativos consolidados"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/habilidades-em-ia-vao-garantir-salarios-mais-altos-em-2026/",
-        "title": "Habilidades em IA Vão Garantir Salários Mais Altos em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/forbes-habilidades-ia-300x200.webp",
-        "date": "17/12/2025",
-        "description": "Estudo aponta que 83% das empresas estão mais dispostas a pagar remunerações maiores a profissionais com competências especializadas"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/como-coco-gauff-a-atleta-mais-bem-paga-do-mundo-vence-dentro-e-fora-das-quadras/",
-        "title": "Como Coco Gauff se Tornou a Atleta Mais Bem Paga do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/coco-gauff-1-300x200.jpg",
-        "date": "17/12/2025",
-        "description": "Com grandes títulos e patrocinadores como New Balance e Mercedes-Benz, a tenista de 21 anos faturou US$ 33 milhões no último ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/a-historia-do-bilionario-italiano-que-comandou-a-sequoia-capital-por-26-anos/",
-        "title": "A História do Bilionário Italiano Que Comandou a Sequoia Capital por 26 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/douglas-leone-1-300x200.jpg",
-        "date": "17/12/2025",
-        "description": "Douglas Leone fez história no mundo do venture capital, mas aponta o trauma da imigração aos Estados Unidos como combustível para os negócios"
     }
 ]
