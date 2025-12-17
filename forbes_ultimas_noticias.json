@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2025/12/infomercial-zambetta-como-um-casal-transformou-piracicaba-na-nova-fronteira-do-luxo-imobiliario/",
+        "title": "Como um Casal Transformou Piracicaba na Nova Fronteira do Luxo Imobiliário",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/EMPREENDIMENTO-2-300x200.jpg",
+        "date": "17/12/2025",
+        "description": "À frente da Zambetta Empreendimentos, Diogo e Laís Zambetta construíram um império de luxo no interior paulista unindo precisão construtiva e visão artística"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-investidores-avaliam-situacao-do-emprego-nos-eua/",
+        "title": "Pré-mercado: Investidores Avaliam Situação do Emprego nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "17/12/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 17 de dezembro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/12/o-que-representa-o-primeiro-lancamento-comercial-do-brasil-na-economia-espacial-de-us-1-trilhao/",
         "title": "O Que Representa o Primeiro Lançamento Comercial do Brasil na Economia Espacial de US$ 1 Trilhão",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/FOGUETE-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Ciberseguranca-300x200.png",
         "date": "17/12/2025",
         "description": "Do malware autônomo à criptografia pós-quântica, especialistas apontam os desafios que já batem à porta"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/pesquisa-da-lenovo-revela-futuro-dos-data-centers-diante-da-ia-e-da-sustentabilidade/",
-        "title": "Pesquisa da Lenovo Revela Futuro dos Data Centers Diante da IA e da Sustentabilidade",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Data_Center_Sustentabilidade-300x200.png",
-        "date": "17/12/2025",
-        "description": "Estudo com executivos de TI aponta caminhos para reduzir impacto ambiental e ampliar desempenho tecnológico"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/com-legado-de-sebastiao-salgado-magio-celebra-culturas-yanomami-e-yekwana-e-o-cacau/",
-        "title": "Com Legado de Sebastião Salgado, Mágio Celebra Culturas Yanomami e Ye’kwana, e o Cacau",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_sebastiao_salgado_gettyimages_17.12.2025-300x200.jpg",
-        "date": "17/12/2025",
-        "description": "Edição limitada da paraense Mágio une arte, rastreabilidade, impacto socioambiental e alto valor cultural"
     }
 ]
