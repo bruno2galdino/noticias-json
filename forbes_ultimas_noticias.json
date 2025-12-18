@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/fortuna-de-trump-aumenta-us-400-milhoes-com-a-fusao-da-trump-media/",
+        "title": "Fortuna de Trump Aumenta US$ 400 Milhões com a Fusão da Trump Media",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-25-300x200.jpg",
+        "date": "18/12/2025",
+        "description": "O patrimônio do presidente americano é agora avaliado em US$ 6,7 bilhões (R$ 36,98 bilhões)"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/12/ibovespa-fecha-em-alta-com-endosso-de-wall-st-e-brava-em-destaque/",
+        "title": "Ibovespa Fecha em Alta com Endosso de Wall St e Brava em Destaque",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "18/12/2025",
+        "description": "Após subir a R$ 5,56 pela manhã, o dólar perdeu força no Brasil e encerrou a sessão praticamente estável"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/com-r-60-milhoes-cobb-vantress-inaugura-o-maior-incubatorio-de-aves-da-america-latina-em-mg/",
         "title": "Com R$ 60 Milhões, Cobb-vantress Inaugura o Maior Incubatório de Aves da América Latina em MG",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_frangos_granja_Nilton-Cardin-Getty-Images_07.11.2025-300x200.jpg",
@@ -15,10 +29,10 @@
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/12/golden-globes-escolhem-o-rio-para-primeiro-evento-oficial-no-brasil-e-ampliam-presenca-internacional/",
-        "title": "Golden Globes Escolhem o Rio para Primeiro Evento Oficial no Brasil e Ampliam Presença Internacional",
+        "title": "Golden Globes Escolhem o Rio para 1º Evento Oficial no Brasil",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Secretario-de-Cultura-Lucas-Padilha-o-produtor-Uri-Singer-vice-prefeito-do-Rio-Eduardo-Cavaliere-e-Leonardo-Edde-Presidente-do-RioFilme-300x200.jpg",
         "date": "18/12/2025",
-        "description": "Golden Globes anuncia edição oficial no Brasil e reforça a presença do audiovisual brasileiro no cenário internacional"
+        "description": "Globo de Ouro fará celebração no Copacabana Palace para premiar artistas nacionais com obras de reconhecimento mundial"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/12/brasileiros-trazem-2a-safra-de-azeite-produzido-na-italia-a-partir-de-oliveiras-de-500-anos/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cafe_18.12.2025-1-300x200.jpg",
         "date": "18/12/2025",
         "description": "No Planalto Central do Vietnã, os preços caíram de 102.000 para cerca de 89.000 dongs por quilo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/bp-nomeia-meg-oneill-da-woodside-como-ceo-apos-saida-repentina-de-auchincloss/",
-        "title": "BP Nomeia Meg O'Neill, da Woodside, Como CEO após Saída Repentina de Auchincloss",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-18T112117Z_1_LYNXMPELBH0L7_RTROPTP_4_WOODSIDE-LTD-RESULTS-300x200.jpg",
-        "date": "18/12/2025",
-        "description": "Veterana da Exxon, O’Neill assume em abril após nova troca no comando da companhia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/india-reabre-portos-para-acucar-e-alavanca-etanol-para-conter-oferta/",
-        "title": "Índia Reabre Portos para Açúcar e Alavanca Etanol para Conter Oferta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cana_de_acucar_india_18.12.2025-300x200.jpg",
-        "date": "18/12/2025",
-        "description": "O governo indiano usará a exportação e a destinação do etanol para administrar a safra 2025/26"
     }
 ]
