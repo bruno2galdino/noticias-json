@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/bc-projeta-pib-mais-forte-em-2025-e-2026-ams-ve-inflacao-no-centro-da-meta-apenas-em-2028/",
+        "title": "BC Projeta PIB Mais Forte em 2025 e 2026, AMS Vê Inflação no Centro da Meta Apenas em 2028",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-16-1-300x200.png",
+        "date": "18/12/2025",
+        "description": "Estimativa de inflação para 2027 passa a guiar decisões sobre a Selic a partir de 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/alemanha-e-espanha-pressionam-pelo-acordo-mercosul-enquanto-franca-comanda-bloqueio/",
+        "title": "Alemanha e Espanha Pressionam pelo Acordo Mercosul enquanto França Comanda Bloqueio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_acordo_mercosul-ue_protesto_18.12.2025-300x200.jpg",
+        "date": "18/12/2025",
+        "description": "O chanceler Friedrich Merz diz que a credibilidade da política comercial da UE depende da decisão imediata"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/guararapes-vende-midway-mall-por-r-161-bilhao-e-anuncia-distribuicao-bilionaria/",
+        "title": "Guararapes Vende Midway Mall Por R$ 1,61 Bilhão e Anuncia Distribuição Bilionária",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/10/Contratacao-Getty-300x200.jpg",
+        "date": "18/12/2025",
+        "description": "Controladora da Riachuelo conclui venda do shopping em Natal, anuncia R$ 1,488 bilhão em dividendos e JCP e vê ações subirem mais de 6%"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/parana-projeta-area-recorde-para-o-milho-safrinha/",
+        "title": "Paraná Projeta Área Recorde para o Milho Safrinha",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_milho_-plantio_2out25_-Getty_Mailson-Pignata-300x200.jpg",
+        "date": "18/12/2025",
+        "description": "A rentabilidade do produtor está sob pressão, enquanto os custos de produção subiram 4%"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/inflacao-nos-eua-sobe-menos-do-que-o-esperado-em-novembro/",
+        "title": "Inflação nos EUA Sobe Menos do Que o Esperado em Novembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_supermercado_inflacao_EUA_-11abr_2025_AFP_Getty-300x200.jpg",
+        "date": "18/12/2025",
+        "description": "Contudo, resultado provavelmente foi causado pelo adiamento da coleta de dados para o final do mês, e economistas esperam aceleração em dezembro."
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/tributacao-de-bets-fintechs-e-juros-sobre-capital-proprio-e-aprovada-o-que-muda/",
+        "title": "Tributação de Bets, Fintechs e Juros sobre Capital Próprio É Aprovada. o Que Muda",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/10/Impostos-getty-2-1-300x200.jpg",
+        "date": "18/12/2025",
+        "description": "Projeto complementar 128/2025 foi aprovado pelo Senado e segue para sanção do presidente Luiz Inácio Lula da Silva"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-sport/2025/12/ranking-forbes-2025-as-50-equipes-mais-valiosas-do-esporte/",
         "title": "Ranking Forbes 2025: as 50 Equipes Mais Valiosas do Esporte",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2252272733-1-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/royal-huisman-sky-under-sail-2-profile-c-res-300x200.jpg",
         "date": "18/12/2025",
         "description": "A embarcação será mais rápida, em cruzeiro, do que alguns iates a motor de porte semelhante"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/12/steve-jobs-dos-vinhos-revela-qual-o-melhor-rotulo-para-abrir-agora/",
-        "title": "\"Steve Jobs dos Vinhos\" Revela Qual o Melhor Rótulo para Abrir Agora",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/P.-Hobbs-1-300x200.jpg",
-        "date": "18/12/2025",
-        "description": "Apelidado de “Steve Jobs dos vinhos”, Paul Hobbs traz ao Brasil novos rótulos e conta qual é a garrafa ideal para o momento"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/as-6-tendencias-educacionais-que-moldarao-o-aprendizado-e-as-habilidades-em-2026/",
-        "title": "As 6 Tendências Educacionais Que Moldarão o Aprendizado e as Habilidades em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tendencia_IA-300x200.png",
-        "date": "18/12/2025",
-        "description": "Tecnologias imersivas, IA e novas competências prometem transformar escolas e empresas já no próximo ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/arte-ciencia-tecnologia-e-politica-estarao-mais-interconectadas-que-nunca-em-2026/",
-        "title": "Arte, Ciência, Tecnologia e Política Estarão Mais Interconectadas Que Nunca em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Carlos-Bunga-Novos-mapas-2-2023-cola-PVA-tinta-latex-sobre-tapete-madeira-e-parafusos-61x89cm-300x200.jpg",
-        "date": "18/12/2025",
-        "description": "Nara Roesler fala sobre 2025, comenta sobre o novo livro de Margaret Atwood, ainda não lançado aqui, e deseja um próspero 2026 através de versos de Seu Jorge"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/como-dois-jovens-criaram-imperio-gastronomico-de-r-90-milhoes-em-goiania/",
-        "title": "Como Dois Jovens Criaram Império Gastronômico de R$ 90 Milhões em Goiânia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Grupo-Iz_Ian-Baiocchi-e-Domingos-Avila-300x200.jpg",
-        "date": "18/12/2025",
-        "description": "Amigos de infância, Ian Baiocchi e Domingos Ávila unem criatividade e gestão no Grupo Íz, que atende 50 mil clientes por mês em suas sete operações"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/ele-comprou-uma-floresta-por-r-5-milhoes-que-pode-render-ate-r-75-milhoes-por-ano/",
-        "title": "Ele Comprou uma Floresta por R$ 5 Milhões Que Pode Render até R$ 7,5 Milhões por Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_fabio_ongaro_amazon_tree_16.12.2025-300x200.jpg",
-        "date": "18/12/2025",
-        "description": "Projeto liderado pelo economista italiano Fabio Ongaro, que conta com mais dois sócios, tem 3 mil hectares no Amazonas e aposta em tecnologia e certificação internacional para monetizar a floresta em pé no mercado voluntário de carbono"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/por-que-essas-empresas-sao-as-melhores-do-brasil-para-as-mulheres/",
-        "title": "Por Que Essas Empresas São as Melhores do Brasil para as Mulheres",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/melhores-empresas-para-mulheres-2-300x200.jpg",
-        "date": "18/12/2025",
-        "description": "Companhias brasileiras que entraram no ranking global da Forbes se destacam por iniciativas voltadas ao bem-estar e à ampliação da liderança feminina"
     }
 ]
