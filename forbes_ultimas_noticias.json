@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/soja-e-biodiesel-puxam-revisao-e-levam-pib-da-cadeia-a-crescer-quase-12-em-2025/",
+        "title": "Soja e Biodiesel Puxam Revisão e Levam PIB da Cadeia a Crescer Quase 12% em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_biodiesel_soja_19dez25_Gettyimages-1-300x200.jpg",
+        "date": "18/12/2025",
+        "description": "Estudos do Cepea e da Abiove apontam o impacto do processamento industrial e da produção de biodiesel após a entrada da mistura B15"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/12/4-razoes-pelas-quais-voce-se-sente-mais-sozinho-durante-as-festas-de-fim-de-ano/",
+        "title": "4 Razões Pelas Quais Você se Sente Mais Sozinho Durante as Festas de Fim de Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/singularity-destaque-1-300x200.png",
+        "date": "18/12/2025",
+        "description": "Entre encontros cheios de afeto e silêncios internos, as festas amplificam emoções e podem intensificar a sensação de solidão"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/vietna-puxa-baixa-do-cafe-robusta-e-indonesia-alerta-para-riscos-em-2026/",
         "title": "Vietnã Puxa Baixa do Café Robusta e Indonésia Alerta para Riscos em 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cafe_18.12.2025-1-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/10/Contratacao-Getty-300x200.jpg",
         "date": "18/12/2025",
         "description": "Controladora da Riachuelo conclui venda do shopping em Natal, anuncia R$ 1,488 bilhão em dividendos e JCP e vê ações subirem mais de 6%"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/parana-projeta-area-recorde-para-o-milho-safrinha/",
-        "title": "Paraná Projeta Área Recorde para o Milho Safrinha",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_milho_-plantio_2out25_-Getty_Mailson-Pignata-300x200.jpg",
-        "date": "18/12/2025",
-        "description": "A rentabilidade do produtor está sob pressão, enquanto os custos de produção subiram 4%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/inflacao-nos-eua-sobe-menos-do-que-o-esperado-em-novembro/",
-        "title": "Inflação nos EUA Sobe Menos do Que o Esperado em Novembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/agro_supermercado_inflacao_EUA_-11abr_2025_AFP_Getty-300x200.jpg",
-        "date": "18/12/2025",
-        "description": "Contudo, resultado provavelmente foi causado pelo adiamento da coleta de dados para o final do mês, e economistas esperam aceleração em dezembro."
     }
 ]
