@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/custo-do-fertilizante-da-era-biden-ainda-impacta-o-preco-dos-alimentos-no-eua/",
+        "title": "Custo do Fertilizante da era Biden Ainda Impacta o Preço dos Alimentos no EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_supermercado_19dez25_Gettyimages-1-300x200.jpg",
+        "date": "19/12/2025",
+        "description": "Tarifas impostas sobre o fosfato importado elevaram os custos de produção no campo, reduziram a competitividade dos produtores americanos e seguem pressionando os preços dos alimentos no supermercado"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/acionistas-da-axia-energia-aprovam-distribuicao-de-r-30-bi-em-reservas-via-bonificacao-de-acoes/",
+        "title": "Acionistas da Axia Energia Aprovam Distribuição de R$ 30 Bi em Reservas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Divulgacao-AXIA-Energia-300x200.jpg",
+        "date": "19/12/2025",
+        "description": "Distribuição ocorrerá com a criação de uma nova classe de ações preferenciais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/exclusivo-casa-dos-ventos-fecha-acordo-para-construir-a-torre-eolica-mais-alta-do-pais/",
+        "title": "Casa dos Ventos Fecha Acordo para Construir a Torre Eólica Mais Alta do País",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/f0-1-300x200.png",
+        "date": "19/12/2025",
+        "description": "O Projeto Everest, que custará cerca de R$ 100 milhões, busca construir um protótipo para testar um modelo mais eficiente"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/12/a-mulher-que-esta-escrevendo-um-novo-capitulo-do-soft-power-brasileiro/",
         "title": "A Mulher Que Está Escrevendo um Novo Capítulo do Soft Power Brasileiro",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Izabel-Olson-no-escritorio-do-Salt-Light-Coalition-em-Chicago-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/CIOS_WEB_6-300x200.png",
         "date": "19/12/2025",
         "description": "Em participação no podcast Forbes CIO, apresentado por Vivo e patrocinado por Totvs, Angela Freitas, CIO da J&J Medtech, fala sobre a evolução da tecnologia na saúde, os desafios do segmento e o futuro da health economy"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/acordo-mercosul-ue-italia-trava-assinatura-e-empurra-decisao-final-para-janeiro-de-2026/",
-        "title": "Acordo Ue-mercosul: Itália Trava Assinatura e Empurra Decisão Final para Janeiro de 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_palma_lavoura_reuters_19.12.2025-1-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "O adiamento ocorre em meio a protestos violentos de agricultores na Bélgia e França"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/leilao-da-sinograin-mostra-desinteresse-da-industria-com-soja-estocada/",
-        "title": "Leilão da Sinograin Mostra Desinteresse da Indústria com Soja Estocada",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_exportacao_27.11.2025-1-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "O preço médio de arremate caiu para US$ 532,74 por tonelada, confirmando a tendência de desvalorização"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/grassi-assume-o-comando-de-gigante-do-setor-de-esmagamento-de-graos-na-argentina/",
-        "title": "Grassi Assume o Comando de Gigante Esmagadora de Grãos na Argentina",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_exportacao_26.11.2025-1-1-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "A decisão busca salvar a companhia, que interrompeu operações em 2025 devido a dificuldades de caixa"
     }
 ]
