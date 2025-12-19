@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/vendas-de-casas-usadas-nos-eua-sobem-05-em-novembro/",
+        "title": "Vendas de Casas Usadas nos EUA Sobem 0,5% em Novembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-3-300x200.jpg",
+        "date": "19/12/2025",
+        "description": "As revendas de imóveis alcançaram ritmo anual de 4,13 milhões de unidades, com avanço mensal modesto e queda anual de 1%, segundo corretores"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/catar-ja-investiu-us-5-bilhoes-no-brasil-e-nao-deve-parar-por-ai/",
+        "title": "Catar Já Investiu US$ 5 Bilhões no Brasil — e Não Deve Parar por Aí",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/consul_hammadi-300x200.jpg",
+        "date": "19/12/2025",
+        "description": "Em entrevista à Forbes Brasil, o cônsul Almuhannad Ali Al-Hammadi comentou o interesse cultural e financeiro que liga os dois países"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/barack-obama-inclui-o-agente-secreto-em-lista-de-favoritos-de-2025/",
+        "title": "Barack Obama Inclui “O Agente Secreto” em Lista de Favoritos de 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2.Wagner-Moura-no-papel-de-Armando-no-filme-O-Agente-Secreto-300x200.jpg",
+        "date": "19/12/2025",
+        "description": "Ex-presidente dos Estados Unidos divulgou sua seleção anual de filmes, músicas e livros com participação do longa de Kleber Mendonça Filho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/cristina-cestari-cio-da-volkswagen-brasil-forbes-cios-s1-e3/",
+        "title": "Cristina Cestari, CIO da Volkswagen Brasil | Forbes CIOs | S1 | E3",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/CIOS_WEB_5-3-300x200.png",
+        "date": "19/12/2025",
+        "description": "Em participação no podcast Forbes CIOs, apresentado por Vivo e patrocinado por Totvs, Cristina Cestari, CIO da Volkswagen Brasil, fala sobre a evolução da tecnologia no ecossistema automotivo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/claudia-meira-cio-da-unilever-forbes-cios-s1-e2/",
+        "title": "Claudia Meira, CIO da Unilever | Forbes CIOs | S1 | E2",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/CIOS_WEB_9-300x200.png",
+        "date": "19/12/2025",
+        "description": "Em participação no podcast Forbes CIOs, apresentado por Vivo e patrocinado por Totvs, Claudia Meira, CIO da Unilever, fala sobre a evolução da tecnologia no ecossistema de bens de consumo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/angela-freitas-cio-da-jj-medtech-forbes-cios-s1-e1/",
+        "title": "Angela Freitas, CIO da J&J Medtech | Forbes CIOs | S1 | E1",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/CIOS_WEB_6-300x200.png",
+        "date": "19/12/2025",
+        "description": "Em participação no podcast Forbes CIO, apresentado por Vivo e patrocinado por Totvs, Angela Freitas, CIO da J&J Medtech, fala sobre a evolução da tecnologia na saúde, os desafios do segmento e o futuro da health economy"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/acordo-mercosul-ue-italia-trava-assinatura-e-empurra-decisao-final-para-janeiro-de-2026/",
         "title": "Acordo Ue-mercosul: Itália Trava Assinatura e Empurra Decisão Final para Janeiro de 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_palma_lavoura_reuters_19.12.2025-1-300x200.jpg",
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Leandro-Barreto-unilever-300x200.jpg",
         "date": "19/12/2025",
         "description": "Com mais de 20 anos de casa, Leandro Barreto assume o cargo em janeiro de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/indonesia-inicia-testes-com-biodiesel-b50-meta-de-implementacao-e-em-2026/",
-        "title": "Indonésia Inicia Testes com Biodiesel B50. Meta de Implementação é em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_palma_lavoura_reuters_19.12.2025-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "A medida visa aumentar a demanda doméstica pelo óleo de palma, do qual o país é o maior produtor mundial"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/coreia-do-sul-reforca-estoques-de-trigo-com-compra-de-70-mil-toneladas/",
-        "title": "Coreia do Sul Reforça Estoques de Trigo com Compra de 70 Mil Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_trigo_lavoura_reuters_19.12.2025-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "A operação com a trading ADM abrange variedades branco soft, vermelho duro de inverno e dark de primavera"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/tiktok-aprova-venda-da-operacao-nos-eua-para-oracle-e-investidores-americanos/",
-        "title": "TikTok Aprova Venda da Operação nos EUA para Oracle e Investidores Americanos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-26-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "Negócio precisa ser concluído antes do dia 23 de janeiro, quando a plataforma poderá ser banida do país"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/coinbase-anuncia-parceria-com-a-kalshi-e-amplia-oferta-de-produtos-para-outros-mercados/",
-        "title": "Coinbase Anuncia Parceria com a Kalshi e Amplia Oferta de Produtos para Outros Mercados",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-27-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "Além do acesso ao mercado preditivo, a exchange também passará a oferecer ações e ferramentas de pagamento"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/patria-e-consorcio-brk-acciona-vencem-leilao-de-saneamento-em-pernambuco/",
-        "title": "Patria e Consórcio BRK/Acciona Vencem Leilão de Saneamento",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/moedas-real-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "Proposta do Patria contemplou desconto de 5% nas tarifas e oferta de valor de outorga de R$ 720 milhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/petrobras-e-braskem-assinam-contrato-de-quase-us-18-bilhoes/",
-        "title": "Petrobras e Braskem Assinam Contrato de Quase US$ 18 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_esg_money_logo_petrobras_foto_REUTERS-Sergio_Moraes_14.10.2025-1-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "De acordo com as empresas, um primeiro conjunto de contratos refere-se à compra e venda de nafta petroquímica"
     }
 ]
