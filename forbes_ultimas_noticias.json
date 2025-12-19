@@ -1,8 +1,43 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/coinbase-anuncia-parceria-com-a-kalshi-e-amplia-oferta-de-produtos-para-outros-mercados/",
+        "title": "Coinbase Anuncia Parceria com a Kalshi e Amplia Oferta de Produtos para Outros Mercados",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/08/coinbase-300x200.jpg",
+        "date": "19/12/2025",
+        "description": "Além do acesso ao mercado preditivo, a exchange também passará a oferecer ações e ferramentas de pagamento"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/patria-e-consorcio-brk-acciona-vencem-leilao-de-saneamento-em-pernambuco/",
+        "title": "Patria e Consórcio BRK/Acciona Vencem Leilão de Saneamento",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/moedas-real-300x200.jpg",
+        "date": "19/12/2025",
+        "description": "Proposta do Patria contemplou desconto de 5% nas tarifas e oferta de valor de outorga de R$ 720 milhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/petrobras-e-braskem-assinam-contrato-de-quase-us-18-bilhoes/",
+        "title": "Petrobras e Braskem Assinam Contrato de Quase US$ 18 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/agro_esg_money_logo_petrobras_foto_REUTERS-Sergio_Moraes_14.10.2025-1-300x200.jpg",
+        "date": "19/12/2025",
+        "description": "De acordo com as empresas, um primeiro conjunto de contratos refere-se à compra e venda de nafta petroquímica"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/investimentos-diretos-no-brasil-em-novembro-ficam-acima-da-expectativa-e-superam-projecao-para-o-ano/",
+        "title": "Investimentos Diretos no Brasil Ficam Acima da Expectativa",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/cedula-moeda-forbesmoney-1-1-300x200.jpg",
+        "date": "19/12/2025",
+        "description": "No mês, os investimentos diretos no país alcançaram US$ 9,820 bilhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/agro-brasileiro-conquista-211-novos-mercados-abertos-em-2025/",
+        "title": "Agro Brasileiro Conquista 211 Novos Mercados Abertos em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_navio_exportacao_19.12.2025-1-300x200.jpg",
+        "date": "19/12/2025",
+        "description": "Desde 2023 são 507 novos mercados. Maior presença global diversifica a pauta comercial do país gera impacto bilionário para o campo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2025/12/nancy-serapiao-head-da-lexus-brasil-assume-tambem-a-toyota-gazoo-racing/",
         "title": "Head da Lexus Brasil Assume Também a Divisão de Automobilismo da Toyota",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/mulher-nancy-serapiao-lexus-toyota-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/nancy-serapiao-300x200.jpg",
         "date": "19/12/2025",
         "description": "À frente da divisão de luxo da montadora japonesa desde 2023, executiva alcançou resultado histórico de vendas neste ano"
     },
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/3IATLAS-1-300x200.png",
         "date": "19/12/2025",
         "description": "Novo registro do cometa interestelar revela mudança de cor e intriga astrônomos sobre seu comportamento ao deixar o Sistema Solar"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/streaming-dados-e-cultura-como-o-spotify-converge-tecnologia-para-escalar-no-brasil/",
-        "title": "Streaming, Dados e Cultura: Como o Spotify Converge Tecnologia para Escalar no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Mia-Nygren-2-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "Mia Nygren, general manager da plataforma na América Latina, destaca a importância de novos modelos para ampliar experiência e monetização"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/estresse-no-fim-de-ano-saiba-como-superar-a-dezembrite/",
-        "title": "Estresse no Fim de Ano? Saiba Como Superar a \"Dezembrite\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/estresse-dezembrite-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "Cansaço acumulado, excesso de compromissos e conflitos emocionais intensificam a pressão em dezembro; veja como atravessar o período"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/de-medica-a-best-seller-quem-e-a-autora-de-a-empregada/",
-        "title": "De Médica a Best-Seller: Quem É a Autora de “A Empregada”",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/freida-mcfadden-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "Especialista em lesões cerebrais, Freida McFadden escreve sob pseudônimo e vendeu milhões de livros antes de ver sua obra chegar ao cinema"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2025/12/como-data-centers-clima-e-juros-estao-redefinindo-o-mercado-imobiliario/",
-        "title": "Como Data Centers, Clima e Juros Estão Redefinindo o Mercado Imobiliário Global",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/01/data-center-300x200.png",
-        "date": "19/12/2025",
-        "description": "Relatório da Moody’s projeta estabilização gradual do real estate em 2026, com juros mais baixos sustentando o setor, enquanto vacância, clima e riscos geopolíticos seguem no radar"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/natal-de-alta-gastronomia-chefs-premiados-assinam-ceias-sob-encomenda/",
-        "title": "Natal de Alta Gastronomia: Chefs Premiados Assinam Ceias sob Encomenda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/3-9-300x200.jpg",
-        "date": "19/12/2025",
-        "description": "De assados clássicos a criações autorais com estrelas Michelin, confira uma seleção de menus exclusivos para levar a experiência da alta cozinha à sua mesa de fim de ano"
     }
 ]
