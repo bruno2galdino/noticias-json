@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/mastercard-inaugura-centro-de-operacoes-na-america-latina-para-monitorar-160-bilhoes-de-transacoes/",
+        "title": "Mastercard Inaugura Centro de Operações na América Latina para Monitorar 160 Bilhões de Transações",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Mastercard-300x200.jpg",
+        "date": "20/12/2025",
+        "description": "A movimentação estratégica ocorre em um momento em que a região LAC se consolida como um dos principais polos globais de inovação financeira"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/larry-ellison-retoma-o-posto-de-3o-mais-rico-do-mundo-apos-acordo-do-tiktok/",
         "title": "Larry Ellison Retoma o Posto de 3º Mais Rico do Mundo após Acordo do TikTok",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-7-1-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Smartphone_Memoria-300x200.png",
         "date": "20/12/2025",
         "description": "Demanda aquecida por chips de memória para IA pressiona custos, ameaça fabricantes menores e deve pesar mais no bolso do consumidor nos próximos anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/em-ascensao-8-mulheres-para-ficar-de-olho-em-2026/",
-        "title": "Em Ascensão: 8 Mulheres para Ficar de Olho em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/mulheres-2026-300x200.jpg",
-        "date": "20/12/2025",
-        "description": "De bilionárias self-made a executivas no topo de gigantes globais, essas lideranças prometem moldar o cenário mundial no próximo ano"
     }
 ]
