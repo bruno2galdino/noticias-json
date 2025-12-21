@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/elon-musk-e-a-primeira-pessoa-a-atingir-um-patrimonio-de-us-700-bilhoes/",
+        "title": "Elon Musk É a Primeira Pessoa a Ter US$ 700 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Elon-Musk_X_Twitter-300x200.png",
+        "date": "21/12/2025",
+        "description": "Marca foi alcançada apenas quatro dias depois do dono da Tesla e do X ter sido o primeiro a alcançar a marca de US$ 600 bilhões"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/sol-em-capricornio-conheca-as-recomendacoes-para-o-seu-dinheiro/",
         "title": "Sol em Capricórnio: Conheça as Recomendações para o Seu Dinheiro",
         "image": "https://forbes.com.br/wp-content/uploads/2019/12/10-1.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/bark-airlines-1-1-300x200.png",
         "date": "21/12/2025",
         "description": "Uma das maiores influenciadores da internet viu seu império digital encolher enquanto aguarda veredito na Itália"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/mastercard-inaugura-centro-de-operacoes-na-america-latina-para-monitorar-160-bilhoes-de-transacoes/",
-        "title": "Mastercard Inaugura Centro de Operações na América Latina para Monitorar 160 Bilhões de Transações",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Mastercard-300x200.jpg",
-        "date": "20/12/2025",
-        "description": "A movimentação estratégica ocorre em um momento em que a região LAC se consolida como um dos principais polos globais de inovação financeira"
     }
 ]
