@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/732617/",
+        "title": "Gramado Receberá o Sirena Gramado, Mega Projeto Turístico de R$ 1,2 Bilhão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-5-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Empreendimento integra hotelaria, entretenimento e mercado imobiliário para criar um novo polo turístico na Serra Gaúcha, com o Club Med como parceiro estratégico"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/mbrf-conclui-captacao-recorde-de-r-24-bilhoes-e-alonga-divida-ate-2055/",
+        "title": "MBRF Conclui Captação Recorde de R$ 2,4 Bilhões e Alonga Dívida até 2055",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_mbrf_22.12.2025-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Operação teve demanda 52% superior à oferta inicial e garantiu o maior prazo já alcançado pelo grupo"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2025/12/roma-vai-cobrar-taxa-de-turistas-para-acesso-a-fontana-di-trevi/",
         "title": "Roma Vai Cobrar Taxa de Turistas para Acesso À Fontana Di Trevi",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-30-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira-organizacao-escrita-lideranca-300x200.jpg",
         "date": "22/12/2025",
         "description": "O último mês do ano é o momento de cuidar da saúde física e mental e se comprometer com quem você quer ser no novo ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/startup-de-ia-lovable-acaba-de-criar-um-dos-bilionarios-self-made-mais-jovens-da-europa/",
-        "title": "Startup de IA Lovable Acaba de Criar um dos Bilionários “Self-made” Mais Jovens da Europa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/2-22-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Dupla planeja doar parte da fortuna conquistada para a caridade"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/elon-musk-e-a-nova-guerra-das-redes-sociais-em-torno-da-marca-twitter/",
-        "title": "Elon Musk e a Nova Guerra das Redes Sociais em Torno da Marca Twitter",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Elon-Musk_X_Twitter-300x200.png",
-        "date": "22/12/2025",
-        "description": "Disputa reacende debate sobre o valor comercial e cultural da antiga identidade do X"
     }
 ]
