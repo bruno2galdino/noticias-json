@@ -1,7 +1,42 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/helen-jacintho-recuperacao-judicial-e-credito-para-o-agronegocio/",
+        "title": "Recuperação Judicial e Crédito para o Agronegócio",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_fazendas_19dez25_Gettyimages-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Em 2025 foram realizadas 628 solicitações de proteção judicial contra credores, o maior índice desde 2021"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/guerra-pela-warner-larry-ellison-oferece-us-40-bi-para-reforcar-oferta-da-paramount/",
+        "title": "Guerra Pela Warner: Larry Ellison Oferece US$ 40 bi para Reforçar Oferta da Paramount",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/Larry-Ellison_01fev25_Getty-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Um dos homens mais ricos do mundo, cofundador da Oracle interveio na disputa entre Netflix e Paramount pela Warner Bros ao oferecer garantia pessoal"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2025/12/as-mulheres-despertaram-diz-chieko-aoki-na-serie-mulheres-poderosas/",
+        "title": "Chieko Aoki: \"As Mulheres Despertaram\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/chieko-aoki-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "No terceiro episódio do videocast de Forbes Mulher, a fundadora da rede Blue Tree Hotels fala sobre a evolução da liderança feminina"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/verao-2026-neutralidade-climatica-e-chuvas-irregulares-elevam-risco-no-agro-e-em-reservatorios/",
+        "title": "Verão 2026: Neutralidade Climática e Chuvas Irregulares Elevam Risco no Agro e em Reservatórios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_money_verao_2026_22.12.2025-4-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Confira os prognósticos climáticos para a produção agrícola, energia elétrica e abastecimento de água"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/aeroporto-sao-paulo-catarina-leva-premio-eco-2025/",
+        "title": "Aeroporto São Paulo Catarina Leva Prêmio ECO 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/O-Sao-Paulo-Catarina-a-35-minutos-da-capital-paulista-planeja-expandir-o-monitoramento-da-fauna-para-alem-de-seus-limites-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Empreendimento da JHSF foi reconhecido pela Amcham pelo avanço em eficiência energética, gestão hídrica e descarbonização"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/primeiro-voo-da-eve-aproxima-embraer-da-era-dos-carros-voadores/",
-        "title": "Primeiro voo da Eve aproxima Embraer da era dos ‘carros voadores’",
+        "title": "Primeiro Voo da Eve Aproxima Embraer da era dos ‘Carros Voadores’",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Eve_FirstFlight_2025-1920x1080-454005a7-da9f-49a4-b988-72a694fd2f2a-300x200.jpg",
         "date": "22/12/2025",
         "description": "Empresa de mobilidade aérea urbana estreia seu eVTOL em escala real e inicia programa de ensaios para buscar certificação e início das operações em 2027"
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-5-300x200.jpg",
         "date": "22/12/2025",
         "description": "Empreendimento integra hotelaria, entretenimento e mercado imobiliário para criar um novo polo turístico na Serra Gaúcha, com o Club Med como parceiro estratégico"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/mbrf-conclui-captacao-recorde-de-r-24-bilhoes-e-alonga-divida-ate-2055/",
-        "title": "MBRF Conclui Captação Recorde de R$ 2,4 Bilhões e Alonga Dívida até 2055",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_mbrf_22.12.2025-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Operação teve demanda 52% superior à oferta inicial e garantiu o maior prazo já alcançado pelo grupo"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/roma-vai-cobrar-taxa-de-turistas-para-acesso-a-fontana-di-trevi/",
-        "title": "Roma Vai Cobrar Taxa de Turistas para Acesso À Fontana Di Trevi",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-30-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Os visitantes terão que pagar se quiserem subir nos degraus de pedra que cercam a bacia da fonte"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/china-eleva-tarifas-sobre-laticinios-da-ue-e-acirra-disputa-com-o-bloco/",
-        "title": "China Eleva Tarifas sobre Laticínios da UE e Acirra Disputa com o Bloco",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_produtos_lacteos_queijo_22.12.2025-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Tarifas visam proteger o setor de leite chinês que enfrenta excesso de oferta e queda na demanda"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/mercado-ve-selic-a-1225-em-2026-mostra-focus/",
-        "title": "Mercado Vê Selic a 12,25% em 2026, Mostra Focus",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-1-300x200.png",
-        "date": "22/12/2025",
-        "description": "Pela sexta semana seguida os especialistas reduziram as contas para a alta do IPCA em 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/safra-brasileira-de-soja-e-projetada-em-1804-milhoes-de-toneladas/",
-        "title": "Safra Brasileira de Soja é Projetada em 180,4 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_foto_paulobaqueta-GettyImages_19.11.2025-2-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Estimativa é impulsionada por dados de campo que apontam para uma média de 61,2 sacas por hectare"
     }
 ]
