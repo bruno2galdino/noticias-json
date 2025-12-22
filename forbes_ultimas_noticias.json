@@ -1,7 +1,49 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/732617/",
-        "title": "Gramado Receberá o Sirena Gramado, Mega Projeto Turístico de R$ 1,2 Bilhão",
+        "url": "https://forbes.com.br/forbesagro/2025/12/verao-2026-neutralidade-climatica-e-chuvas-irregulares-elevam-risco-no-agro-e-em-reservatorios/",
+        "title": "Verão 2026: Neutralidade Climática e Chuvas Irregulares Elevam Risco no Agro e em Reservatórios",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_money_verao_2026_22.12.2025-4-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Confira os prognósticos climáticos para a produção agrícola, energia elétrica e abastecimento de água"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/aeroporto-sao-paulo-catarina-leva-premio-eco-2025/",
+        "title": "Aeroporto São Paulo Catarina Leva Prêmio ECO 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/O-Sao-Paulo-Catarina-a-35-minutos-da-capital-paulista-planeja-expandir-o-monitoramento-da-fauna-para-alem-de-seus-limites-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Empreendimento da JHSF foi reconhecido pela Amcham pelo avanço em eficiência energética, gestão hídrica e descarbonização"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/primeiro-voo-da-eve-aproxima-embraer-da-era-dos-carros-voadores/",
+        "title": "Primeiro Voo da Eve Aproxima Embraer da era dos ‘Carros Voadores’",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Eve_FirstFlight_2025-1920x1080-454005a7-da9f-49a4-b988-72a694fd2f2a-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Empresa de mobilidade aérea urbana estreia seu eVTOL em escala real e inicia programa de ensaios para buscar certificação e início das operações em 2027"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/multiplan-vende-20-do-parkshopping-sao-caetano-por-r-2372-milhoes/",
+        "title": "Multiplan Vende 20% do ParkShopping São Caetano por R$ 237,2 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-7-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Companhia vende fatia minoritária do shopping de alto padrão do ABC Paulista ao FII HGBS11, mantendo 80% de participação e o controle do ativo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/magnata-chines-perde-bilhoes-com-queda-das-acoes-da-labubu/",
+        "title": "Magnata Chinês Perde Bilhões com Queda das Ações da Labubu",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Uma-mini-bolsa-de-couro-acolchoado-Miu-Miu-laranja-com-detalhes-em-um-Labubu-de-pelucia-creme-durante-a-Semana-de-Moda-de-Copenhague-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Bilionário de 38 anos viu US$ 11,3 bilhões de sua fortuna, evaporar em meio às preocupações de que a boneca possa ser uma moda passageira."
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/arrecadacao-federal-soma-r-2268-bi-em-novembro-interrompe-desaceleracao-e-bate-recorde-no-mes/",
+        "title": "Arrecadação Federal Soma R$ 226,8 Bi em Novembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Moedas-de-real-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "De janeiro a novembro, a arrecadação ficou 3,25% acima do registrado nos primeiros onze meses de 2024"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/sirena-gramado/",
+        "title": "Mega Projeto Turístico de R$ 1,2 Bilhão Cria o Sirena Gramado na Serra Gaúcha",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-5-300x200.jpg",
         "date": "22/12/2025",
         "description": "Empreendimento integra hotelaria, entretenimento e mercado imobiliário para criar um novo polo turístico na Serra Gaúcha, com o Club Med como parceiro estratégico"
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_produtos_lacteos_queijo_22.12.2025-300x200.jpg",
         "date": "22/12/2025",
         "description": "Tarifas visam proteger o setor de leite chinês que enfrenta excesso de oferta e queda na demanda"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/mercado-ve-selic-a-1225-em-2026-mostra-focus/",
-        "title": "Mercado Vê Selic a 12,25% em 2026, Mostra Focus",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-5-1-300x200.png",
-        "date": "22/12/2025",
-        "description": "Pela sexta semana seguida os especialistas reduziram as contas para a alta do IPCA em 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/safra-brasileira-de-soja-e-projetada-em-1804-milhoes-de-toneladas/",
-        "title": "Safra Brasileira de Soja é Projetada em 180,4 Milhões de Toneladas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_foto_paulobaqueta-GettyImages_19.11.2025-2-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Estimativa é impulsionada por dados de campo que apontam para uma média de 61,2 sacas por hectare"
-    },
-    {
-        "url": "https://forbes.com.br/sem-home/2025/12/pre-mercado-investidores-aguardam-inflacao-americana-pelo-pce/",
-        "title": "Pré-mercado: Investidores Aguardam Inflação Americana Pelo PCE",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "22/12/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 22 de dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/presente-de-luxo-6-superiates-que-custam-ate-us-40-milhoes/",
-        "title": "Presente de Luxo: 6 Superiates Que Custam até US$ 40 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Eternity-e-a-opcao-com-a-melhor-relacao-custo-beneficio-que-voce-encontrara-nesta-selecao-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Seleção reúne embarcações disponíveis no mercado internacional que combinam dimensões expressivas e design assinado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/do-capital-ao-impacto-como-family-offices-moldam-a-filantropia-bilionaria/",
-        "title": "Do Capital Ao Impacto: Como Family Offices Moldam a Filantropia Bilionária",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-1314512624-1-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Ainda engatinhando no Brasil, gestoras de patrimônio que auxiliam clientes a doarem já são realidade no mercado americano. Estrutura aprofunda relacionamento com cliente, atrai novas gerações e mulheres e une famílias"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/como-lideres-podem-usar-dezembro-como-um-reset-estrategico-para-2026/",
-        "title": "Como Líderes Usam Dezembro Como Reset Estratégico para 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira-organizacao-escrita-lideranca-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "O último mês do ano é o momento de cuidar da saúde física e mental e se comprometer com quem você quer ser no novo ano"
     }
 ]
