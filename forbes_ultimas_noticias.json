@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/empresa-de-buffett-zera-participacoes-na-byd-apos-17-anos/",
+        "title": "Empresa de Buffett Vende Todas as Ações da BYD após 17 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/warren-buffett-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "Ação da maior montadora chinesa perde cerca de 30% em relação ao pico histórico, em meio a temores sobre concorrência e fim do longo apoio do bilionário"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-fecha-em-alta-com-politica-e-inflacao-no-radar/",
+        "title": "Ibovespa Fecha em Alta com Política e Inflação no Radar",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/02/money-ibovespa-reuters-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "Sessão foi influenciada pelo cancelamento de uma entrevista que seria dada pelo ex-presidente Jair Bolsonaro e dados da prévia da inflação, o IPCA-15"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/data-centers-de-ia-incentivam-retorno-de-usinas-de-energia-suja-nos-eua/",
+        "title": "Data Centers de IA Incentivam Retorno de Usinas de Energia Suja nos Eua",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/tech_data_center_foto_REUTERS-Benoit-Tessier_27.09.2025-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "Explosão no consumo elétrico pressiona a rede norte-americana, adia aposentadorias de termelétricas antigas e reacende o debate sobre custos, poluição e impactos em comunidades vulneráveis"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/premio-da-mega-da-virada-atinge-r-1-bilhao-e-e-o-maior-da-historia/",
         "title": "Prêmio da Mega da Virada Atinge R$ 1 Bilhão e É o Maior da História",
         "image": "https://forbes.com.br/wp-content/uploads/2022/09/mega-sena-300x200.jpg",
@@ -7,7 +28,7 @@
         "description": "Valor é 57% superior ao prêmio de R$ 635 milhões pago na Mega da Virada de 2024"
     },
     {
-        "url": "https://forbes.com.br/manchete-1/2025/12/trxf11-capta-r-3-bilhoes-na-maior-emissao-da-historia-dos-fiis-na-b3/",
+        "url": "https://forbes.com.br/escolhas-do-editor/2025/12/trxf11-capta-r-3-bilhoes-na-maior-emissao-da-historia-dos-fiis-na-b3/",
         "title": "TRXF11 Capta R$ 3 Bilhões na Maior Emissão da História dos FIIs na B3",
         "image": "https://forbes.com.br/wp-content/uploads/2023/08/Cury-300x200.jpg",
         "date": "23/12/2025",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Logo-da-Novo-Nordisk-em-escritorio-de-Bagsvaerd-na-Dinamarca-300x200.jpg",
         "date": "23/12/2025",
         "description": "A decisão do FDA pode aumentar a adesão ao tratamento e ampliar a base de pacientes em um país onde 40% dos adultos são obesos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/importacoes-de-soja-pela-ue-caem-14-no-acumulado-de-2025-26/",
-        "title": "Importações de Soja Pela UE Caem 14% no Acumulado de 2025/26",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_colheita_Getty_Images_23.12.2025-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "No ano comercial, os Estados Unidos aparecem como os principais fornecedores de soja para a UE, enquanto o Brasil lidera em farelo de soja"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2025/12/vince-zampella-cocriador-de-call-of-duty-morre-em-acidente-de-carro-aos-55-anos/",
-        "title": "Cocriador de Call Of Duty Morre em Acidente de Carro Aos 55 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/vince-zampella-call-of-duty-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Ex-CEO do estúdio Infinity Ward e diretor executivo da Respawn Entertainment, Zampella ajudou a construir uma das franquias mais bem-sucedidas da história dos games"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/russia-culpa-baixos-precos-globais-dos-graos-pela-estagnacao-nas-exportacoes/",
-        "title": "Rússia Culpa Baixos Preços Globais dos Grãos Pela Estagnação nas Exportações",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_trigo_lavoura_reuters_19.12.2025-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "As exportações de grãos da Rússia diminuíram drasticamente nas duas últimas temporadas em relação ao recorde de 70 milhões de toneladas em 2023/24"
     }
 ]
