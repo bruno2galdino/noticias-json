@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/listas/2025/12/lista-forbes-under-30-2025-e-destaque-da-nova-edicao-da-revista/",
+        "title": "Lista Forbes Under 30 2025 É Destaque da Nova Edição da Revista",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/under30_ed137-1-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Edição 137 já está disponível no app da Forbes Brasil; veja outros assuntos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-fecha-em-leve-queda-descolado-das-bolsas-americanas/",
+        "title": "Ibovespa Fecha em Leve Queda Descolado das Bolsas Americanas",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/03/Ibovespa-Acoes-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Índice do mercado de ações caiu 0,21%, a 158.141,65 pontos. As bolsas de valores dos EUA fecharam em alta, impulsionadas por ações de tecnologia"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2025/12/japao-se-prepara-para-reativar-a-maior-usina-nuclear-do-mundo-15-anos-apos-fukushima/",
         "title": "Japão se Prepara para Reativar a Maior Usina Nuclear do Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/japao-usina-nuclear-300x200.jpg",
@@ -12,6 +26,13 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/netflix-logo-300x200.jpg",
         "date": "22/12/2025",
         "description": "Gigante do streaming garantiu uma linha de crédito rotativo de US$ 5 bilhões e dois empréstimos a prazo de US$ 10 bilhões com pagamento diferido"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/__trashed-4/",
+        "title": "Controladora do Google Comprará Desenvolvedora de Energia Limpa por Us$ 4,75 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/forbes-google-alphabet-300x200.jpg",
+        "date": "22/12/2025",
+        "description": "Gigantes da tecnologia investem para expandir a capacidade de computação e energia necessárias para o desenvolvimento da inteligência artificial"
     },
     {
         "url": "https://forbes.com.br/forbesagro/2025/12/helen-jacintho-recuperacao-judicial-e-credito-para-o-agronegocio/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/O-Sao-Paulo-Catarina-a-35-minutos-da-capital-paulista-planeja-expandir-o-monitoramento-da-fauna-para-alem-de-seus-limites-300x200.jpg",
         "date": "22/12/2025",
         "description": "Empreendimento da JHSF foi reconhecido pela Amcham pelo avanço em eficiência energética, gestão hídrica e descarbonização"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/primeiro-voo-da-eve-aproxima-embraer-da-era-dos-carros-voadores/",
-        "title": "Primeiro Voo da Eve Aproxima Embraer da era dos ‘Carros Voadores’",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Eve_FirstFlight_2025-1920x1080-454005a7-da9f-49a4-b988-72a694fd2f2a-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Empresa de mobilidade aérea urbana estreia seu eVTOL em escala real e inicia programa de ensaios para buscar certificação e início das operações em 2027"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/multiplan-vende-20-do-parkshopping-sao-caetano-por-r-2372-milhoes/",
-        "title": "Multiplan Vende 20% do ParkShopping São Caetano por R$ 237,2 Milhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-7-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Companhia vende fatia minoritária do shopping de alto padrão do ABC Paulista ao FII HGBS11, mantendo 80% de participação e o controle do ativo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/magnata-chines-perde-bilhoes-com-queda-das-acoes-da-labubu/",
-        "title": "Magnata Chinês Perde Bilhões com Queda das Ações da Labubu",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/0.Uma-mini-bolsa-de-couro-acolchoado-Miu-Miu-laranja-com-detalhes-em-um-Labubu-de-pelucia-creme-durante-a-Semana-de-Moda-de-Copenhague-300x200.jpg",
-        "date": "22/12/2025",
-        "description": "Bilionário de 38 anos viu US$ 11,3 bilhões de sua fortuna, evaporar em meio às preocupações de que a boneca possa ser uma moda passageira."
     }
 ]
