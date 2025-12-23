@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/importacoes-de-soja-pela-ue-caem-14-no-acumulado-de-2025-26/",
+        "title": "Importações de Soja Pela UE Caem 14% no Acumulado de 2025/26",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_colheita_Getty_Images_23.12.2025-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "No ano comercial, os Estados Unidos aparecem como os principais fornecedores de soja para a UE, enquanto o Brasil lidera em farelo de soja"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2025/12/vince-zampella-cocriador-de-call-of-duty-morre-em-acidente-de-carro-aos-55-anos/",
+        "title": "Cocriador de Call Of Duty Morre em Acidente de Carro Aos 55 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/vince-zampella-call-of-duty-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "Ex-CEO do estúdio Infinity Ward e diretor executivo da Respawn Entertainment, Zampella ajudou a construir uma das franquias mais bem-sucedidas da história dos games"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/russia-culpa-baixos-precos-globais-dos-graos-pela-estagnacao-nas-exportacoes/",
+        "title": "Rússia Culpa Baixos Preços Globais dos Grãos Pela Estagnação nas Exportações",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_trigo_lavoura_reuters_19.12.2025-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "As exportações de grãos da Rússia diminuíram drasticamente nas duas últimas temporadas em relação ao recorde de 70 milhões de toneladas em 2023/24"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/magazine-luiza-aprova-aumento-de-capital-de-r400-mi-com-bonificacao-de-acoes/",
+        "title": "Magazine Luiza Aprova Aumento de Capital de R$ 400 Mi com Bonificação de Ações",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/09/magazine-luiza-2-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "As ações serão atribuídas a título de bonificação na proporção de uma ação bonificada para cada 20 ações ordinárias que os acionistas possuírem em 29 de dezembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ouro-sobe-mais-de-2-e-bate-recorde-historico-com-tensao-entre-eua-e-venezuela/",
+        "title": "Ouro Sobe Mais De 2% E Bate Recorde Histórico Com Tensão Entre EUA E Venezuela",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-6-3-300x200.png",
+        "date": "23/12/2025",
+        "description": "Em meio ao agravamento das tensões geopolíticas e à busca por ativos seguros, o ouro alcança máxima histórica e acumula alta de 69% no ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ipca-15-sobe-como-esperado-e-encerra-2025-abaixo-do-teto-da-meta/",
+        "title": "IPCA-15 Sobe Como Esperado em Dezembro e Encerra 2025 Abaixo do Teto da Meta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_alimentos_supermercado_11abr_2025_Getty-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "Inflação anual subiu 4,41% no ano, abaixo do teto da meta do BC de 4,50%. Desinflação de alimentos persistiu pelo sexto mês consecutivo em dezembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/axia-lanca-recompra-de-acoes-e-reforca-aposta-na-valorizacao-de-seus-ativos/",
+        "title": "Axia Lança Recompra de Ações e Reforça Aposta na Valorização de Seus Ativos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/money_axia_logo_23.12.2025-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "Com as ações ON cotadas a R$ 48,65, o plano representa um salto de escala em relação ao programa anterior"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/stone-aprova-recompra-de-r-2-bilhoes-e-sinaliza-otimismo-com-resultados-de-2025/",
+        "title": "Stone Aprova Recompra de R$ 2 Bilhões e Sinaliza Otimismo com Resultados de 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "O programa de recompra não possui prazo fixo e substitui o plano anterior com movimento de R$ 1,95 bilhão"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/cafe-robusta-se-recupera-apos-minima-de-4-meses-acucar-tambem-avanca/",
         "title": "Café Robusta se Recupera após Mínima de 4 Meses; Açúcar Também Avança",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cafe_graos_23.12.2025-300x200.jpg",
@@ -8,65 +64,9 @@
     },
     {
         "url": "https://forbes.com.br/forbeslife/2025/12/zeco-auriemo-recebe-o-person-of-the-year-2026-em-nova-york/",
-        "title": "Zeco Auriemo Recebe o \"Person of the Year 2026\" em Nova York",
+        "title": "Zeco Auriemo Recebe o Prêmio \"Person of the Year 2026\" em NY",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/zeco-auriemo-300x200.jpg",
         "date": "23/12/2025",
         "description": "Reconhecimento da Câmara de Comércio Brasil-EUA destaca sua contribuição para o fortalecimento das relações bilaterais e a liderança no mercado de luxo"
-    },
-    {
-        "url": "https://forbes.com.br/brand-voice/2025/12/brandvoice-totvs-adocao-de-nuvem-nas-empresas-brasileiras-chega-a-77/",
-        "title": "Adoção de Nuvem nas Empresas Brasileiras Chega a 77%",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/totvs-destaque-300x200.png",
-        "date": "23/12/2025",
-        "description": "Pesquisa revela maturidade crescente e aponta segurança, escalabilidade e agilidade como eixos da transformação digital"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/hapvida-anuncia-novo-ceo-em-meio-a-pressao-da-divida-de-r-425-bilhoes/",
-        "title": "Hapvida Anuncia Novo CEO Em Meio a Pressão da Dívida de R$ 4,25 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
-        "date": "23/12/2025",
-        "description": "Com transição planejada até 2026, Luccas Augusto Adib assume a presidência com a missão de reforçar disciplina de capital e eficiência operacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-ultima-inflacao-do-ano-calibra-expectativas-dos-juros-para-2026/",
-        "title": "Pré-mercado: Última Inflação do Ano Calibra Expectativas dos Juros para 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "23/12/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 23 de dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/primeiro-foguete-comercial-da-innospace-explode-em-alcantara-e-acoes-da-empresa-desabam/",
-        "title": "Primeiro Foguete Comercial da Innospace Explode em Alcântara e Ações da Empresa Desabam",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-9-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Missão do foguete Hanbit Nano previa o lançamento de oito cargas registradas, incluindo cinco pequenos satélites, e não levava tripulantes"
-    },
-    {
-        "url": "https://forbes.com.br/listas/2025/12/lista-forbes-under-30-2025-veja-destaques-das-15-categorias/",
-        "title": "Lista Forbes Under 30 2025: Veja Destaques das 15 Categorias",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-3-1-300x200.png",
-        "date": "23/12/2025",
-        "description": "Edição 137 traz a esperada lista de jovens com até 30 anos que se destacaram em seus ramos de atuação em 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/7-carros-superesportivos-para-colocar-na-lista-de-natal/",
-        "title": "7 Carros Superesportivos para Colocar na Lista de Natal",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.O-Lamborghini-Temerario-e-um-carro-para-o-dia-a-dia-que-tambem-brilha-nas-pistas-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "De híbridos de última geração a motores V8 e V12, opções para quem quer um supercarro para si ou para presentear neste Natal"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/quanto-mariah-carey-lucra-com-hit-de-natal/",
-        "title": "Quanto Mariah Carey Lucra com Hit de Natal?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/mariah-carey-natal-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Lançada em 1994, a música \"All I Want for Christmas Is You\" quebra recordes na Billboard e segue rendendo milhões em royalties para a cantora"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/a-inteligencia-artificial-que-esta-redefinindo-o-grindr/",
-        "title": "A Inteligência Artificial Que Está Redefinindo o Grindr",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Gindr_Tristan_Pineiro-300x200.png",
-        "date": "23/12/2025",
-        "description": "Tristan Pineiro conta como a tecnologia proprietária do Gindr impulsiona conexões, segurança LGBTQIA+ e a expansão do app na América Latina"
     }
 ]
