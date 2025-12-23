@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/bndes-lanca-programa-de-r-10-bilhoes-para-renovar-frota-de-caminhoes/",
+        "title": "BNDES Lança Programa de R$ 10 Bilhões Para Renovar Frota de Caminhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-10-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "A linha de crédito financia caminhões novos e seminovos mais eficientes, com juros entre 13% e 14% ao ano e prazo de até 60 meses"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/forbes-mulher-agro-a-produtividade-como-rota-de-escape-para-o-agro-em-tempos-de-pressao-economica-e-climatica/",
+        "title": "Produtividade É Rota de Escape do Agro Contra Pressão Econômica e Climática",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_colheita_Getty_Images_23.12.2025-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "É o rendimento por hectare que dilui custos fixos e variáveis, e amplia a receita unitária do produtor"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/indonesia-projeta-1565-mi-quilolitros-de-biodiesel-para-2026-leve-alta-ante-2025/",
+        "title": "Indonésia Projeta 15,65 Mi Quilolitros de Biodiesel para 2026, Leve Alta ante 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_etanol_biodiesel_27jun25_getty-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "O país do sudeste asiático implementou uma mistura obrigatória de óleo de palma de 40% para o diesel e está planejando aumentar a participação"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2025/12/novo-nordisk-obtem-aprovacao-nos-eua-para-wegovy-em-comprimido/",
+        "title": "Novo Nordisk Obtém Aprovação Nos EUA Para Wegovy Em Comprimido",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Logo-da-Novo-Nordisk-em-escritorio-de-Bagsvaerd-na-Dinamarca-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "A decisão do FDA pode aumentar a adesão ao tratamento e ampliar a base de pacientes em um país onde 40% dos adultos são obesos"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/importacoes-de-soja-pela-ue-caem-14-no-acumulado-de-2025-26/",
         "title": "Importações de Soja Pela UE Caem 14% no Acumulado de 2025/26",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_colheita_Getty_Images_23.12.2025-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_alimentos_supermercado_11abr_2025_Getty-300x200.jpg",
         "date": "23/12/2025",
         "description": "Inflação anual subiu 4,41% no ano, abaixo do teto da meta do BC de 4,50%. Desinflação de alimentos persistiu pelo sexto mês consecutivo em dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/axia-lanca-recompra-de-acoes-e-reforca-aposta-na-valorizacao-de-seus-ativos/",
-        "title": "Axia Lança Recompra de Ações e Reforça Aposta na Valorização de Seus Ativos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/money_axia_logo_23.12.2025-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Com as ações ON cotadas a R$ 48,65, o plano representa um salto de escala em relação ao programa anterior"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/stone-aprova-recompra-de-r-2-bilhoes-e-sinaliza-otimismo-com-resultados-de-2025/",
-        "title": "Stone Aprova Recompra de R$ 2 Bilhões e Sinaliza Otimismo com Resultados de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Colunas_bolsa-de-valores-acoes_3set21_Manusapon-Kasosod_GettyImages-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "O programa de recompra não possui prazo fixo e substitui o plano anterior com movimento de R$ 1,95 bilhão"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/cafe-robusta-se-recupera-apos-minima-de-4-meses-acucar-tambem-avanca/",
-        "title": "Café Robusta se Recupera após Mínima de 4 Meses; Açúcar Também Avança",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cafe_graos_23.12.2025-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "A assinatura de acordo de comércio entre a Indonésia e a Eurásia adiciona um nova demanda para o café"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/zeco-auriemo-recebe-o-person-of-the-year-2026-em-nova-york/",
-        "title": "Zeco Auriemo Recebe o Prêmio \"Person of the Year 2026\" em NY",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/zeco-auriemo-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Reconhecimento da Câmara de Comércio Brasil-EUA destaca sua contribuição para o fortalecimento das relações bilaterais e a liderança no mercado de luxo"
     }
 ]
