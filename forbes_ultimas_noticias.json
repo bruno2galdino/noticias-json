@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/premio-da-mega-da-virada-atinge-r-1-bilhao-e-e-o-maior-da-historia/",
+        "title": "Prêmio da Mega da Virada Atinge R$ 1 Bilhão e É o Maior da História",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/09/mega-sena-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "Valor é 57% superior ao prêmio de R$ 635 milhões pago na Mega da Virada de 2024"
+    },
+    {
+        "url": "https://forbes.com.br/manchete-1/2025/12/trxf11-capta-r-3-bilhoes-na-maior-emissao-da-historia-dos-fiis-na-b3/",
+        "title": "TRXF11 Capta R$ 3 Bilhões na Maior Emissão da História dos FIIs na B3",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/08/Cury-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "A 12ª emissão do fundo imobiliário da TRX Investimentos teve excesso de demanda, lote adicional exercido e consolida o TRXF11 entre os maiores na bolsa de valores brasileira"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/confianca-do-consumidor-dos-eua-se-deteriora-em-dezembro/",
         "title": "Confiança do Consumidor dos EUA se Deteriora em Dezembro",
         "image": "https://forbes.com.br/wp-content/uploads/2022/03/Compras-EUA-Reuters-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_trigo_lavoura_reuters_19.12.2025-300x200.jpg",
         "date": "23/12/2025",
         "description": "As exportações de grãos da Rússia diminuíram drasticamente nas duas últimas temporadas em relação ao recorde de 70 milhões de toneladas em 2023/24"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/magazine-luiza-aprova-aumento-de-capital-de-r400-mi-com-bonificacao-de-acoes/",
-        "title": "Magazine Luiza Aprova Aumento de Capital de R$ 400 Mi com Bonificação de Ações",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/09/magazine-luiza-2-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "As ações serão atribuídas a título de bonificação na proporção de uma ação bonificada para cada 20 ações ordinárias que os acionistas possuírem em 29 de dezembro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ouro-sobe-mais-de-2-e-bate-recorde-historico-com-tensao-entre-eua-e-venezuela/",
-        "title": "Ouro Sobe Mais De 2% E Bate Recorde Histórico Com Tensão Entre EUA E Venezuela",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-6-3-300x200.png",
-        "date": "23/12/2025",
-        "description": "Em meio ao agravamento das tensões geopolíticas e à busca por ativos seguros, o ouro alcança máxima histórica e acumula alta de 69% no ano"
     }
 ]
