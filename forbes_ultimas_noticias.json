@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/confianca-do-consumidor-dos-eua-se-deteriora-em-dezembro/",
+        "title": "Confiança do Consumidor dos EUA se Deteriora em Dezembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/03/Compras-EUA-Reuters-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "O Conference Board informou que seu índice de confiança do consumidor caiu 3,8 pontos neste mês, para 89,1"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/bndes-lanca-programa-de-r-10-bilhoes-para-renovar-frota-de-caminhoes/",
         "title": "BNDES Lança Programa de R$ 10 Bilhões Para Renovar Frota de Caminhões",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-10-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-6-3-300x200.png",
         "date": "23/12/2025",
         "description": "Em meio ao agravamento das tensões geopolíticas e à busca por ativos seguros, o ouro alcança máxima histórica e acumula alta de 69% no ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ipca-15-sobe-como-esperado-e-encerra-2025-abaixo-do-teto-da-meta/",
-        "title": "IPCA-15 Sobe Como Esperado em Dezembro e Encerra 2025 Abaixo do Teto da Meta",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_alimentos_supermercado_11abr_2025_Getty-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Inflação anual subiu 4,41% no ano, abaixo do teto da meta do BC de 4,50%. Desinflação de alimentos persistiu pelo sexto mês consecutivo em dezembro"
     }
 ]
