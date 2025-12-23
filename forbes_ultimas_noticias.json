@@ -1,8 +1,29 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2025/12/hapvida-anuncia-novo-ceo-em-meio-a-pressao-da-divida-de-r-425-bilhoes/",
+        "title": "Hapvida Anuncia Novo CEO Em Meio a Pressão da Dívida de R$ 4,25 Bilhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/forbes-1200x900-1-300x200.png",
+        "date": "23/12/2025",
+        "description": "Com transição planejada até 2026, Luccas Augusto Adib assume a presidência com a missão de reforçar disciplina de capital e eficiência operacional"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-ultima-inflacao-do-ano-calibra-expectativas-dos-juros-para-2026/",
+        "title": "Pré-mercado: Última Inflação do Ano Calibra Expectativas dos Juros para 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "23/12/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 23 de dezembro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/primeiro-foguete-comercial-da-innospace-explode-em-alcantara-e-acoes-da-empresa-desabam/",
+        "title": "Primeiro Foguete Comercial da Innospace Explode em Alcântara e Ações da Empresa Desabam",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-9-300x200.jpg",
+        "date": "23/12/2025",
+        "description": "Missão do foguete Hanbit Nano previa o lançamento de oito cargas registradas, incluindo cinco pequenos satélites, e não levava tripulantes"
+    },
+    {
         "url": "https://forbes.com.br/listas/2025/12/lista-forbes-under-30-2025-veja-destaques-das-15-categorias/",
         "title": "Lista Forbes Under 30 2025: Veja Destaques das 15 Categorias",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/under30_ed137-1-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-3-1-300x200.png",
         "date": "23/12/2025",
         "description": "Edição 137 traz a esperada lista de jovens com até 30 anos que se destacaram em seus ramos de atuação em 2025"
     },
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/0x0-5-1-300x200.webp",
         "date": "23/12/2025",
         "description": "Relacionamentos saudáveis se constroem com ajustes constantes, à medida que as pessoas evoluem e as dinâmicas se transformam"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/por-que-de-repente-ha-tantos-bilionarios-self-made-com-menos-de-30-anos/",
-        "title": "Por Que, de Repente, Há Tantos Bilionários “Self-made” com Menos de 30 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0x0-e1766445662495-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Impulsionados por inteligência artificial, mercados de previsão e apostas online, são 13 no total, contra o recorde anterior de sete."
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/agro100-2025-conheca-as-empresas-que-faturaram-r-19-tri-do-campo-a-mesa/",
-        "title": "Agro100 2025: Conheça as Empresas Que Faturaram R$ 1,8 Tri do Campo À Mesa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_forbes_agro100_23.12.2025-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Empresas e cooperativas reforçam a posição do país no centro da produção mundial de alimentos e energia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/meta-alucinacoes-de-ia-na-saude-mental-estao-gerando-orientacoes-psicologicas-autoexplicativas-e-inseguras/",
-        "title": "Meta-alucinações de IA na Saúde Mental Estão Gerando Orientações Psicológicas Autoexplicativas e Inseguras",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/IA-300x200.png",
-        "date": "23/12/2025",
-        "description": "Explicações inventadas por IAs sobre diagnósticos psicológicos podem soar convincentes e ampliar riscos no uso da tecnologia em saúde mental"
     }
 ]
