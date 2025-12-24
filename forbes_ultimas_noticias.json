@@ -1,5 +1,61 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/hibridos-a-aposta-da-stellantis-dona-da-jeep-ram-e-fiat-para-crescer-nos-eua/",
+        "title": "Híbridos: a Aposta da Stellantis, Dona da Jeep, Ram e Fiat, para Crescer nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Rampage_gama-1-300x200.jpg",
+        "date": "24/12/2025",
+        "description": "O foco para 2026 é em carros híbridos amplos e de alto volume, projetados para atender ao uso mainstream americano"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/como-a-chico-rei-transformou-brasilidade-em-um-negocio-milionario/",
+        "title": "Como a Chico Rei Transformou “Brasilidade” em um Negócio Milionário",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-23-at-18.46.48-300x200.jpeg",
+        "date": "24/12/2025",
+        "description": "Recém-saído de uma rodada bem-sucedida de captação de recursos, Bruno Imbrizi quer construir o “Mercado Livre dos personalizados”"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/construindo-o-futuro-com-oculos-de-realidade-aumentada-e-inteligencia-artificial/",
+        "title": "Construindo o Futuro com Óculos de Realidade Aumentada e Inteligência Artificial",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Oculos_Realidade_Aumentada_IA_Ray-Ban-300x200.png",
+        "date": "24/12/2025",
+        "description": "De acessório futurista a ferramenta prática, os óculos de realidade aumentada começam a redefinir interfaces digitais, acessibilidade e a forma como interagimos com o mundo"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2025/12/melhores-ceos-de-2025-indicam-seus-livros-preferidos-do-ano/",
+        "title": "CEOs Indicam Seus Livros Preferidos do Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/melhores-ceos-livros-forbes-300x200.jpg",
+        "date": "24/12/2025",
+        "description": "De autores clássicos a reflexões sobre liderança e propósito, saiba quais leituras acompanharam os executivos mais influentes do país ao longo do ano"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/anant-ambani-presenteia-lionel-messi-com-relogio-raro-durante-visita-a-india/",
+        "title": "Anant Ambani Presenteia Lionel Messi com Relógio Raro Durante Visita À Índia",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Lionel-Messi-cumprimenta-fas-em-15-de-dezembro-de-2025-em-Nova-Delhi-India-300x200.jpg",
+        "date": "24/12/2025",
+        "description": "Filho do homem mais rico do país asiático teria dado ao jogador um Richard Mille avaliado em R$ 6,7 milhões enquanto usava um modelo ainda mais exclusivo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/argentina-arrecada-us-3219-milhoes-com-venda-de-imoveis-publicos/",
+        "title": "Argentina Arrecada US$ 321,9 Milhões Com Venda de Imóveis Públicos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-11-1-300x200.jpg",
+        "date": "24/12/2025",
+        "description": "Leilões conduzidos pela AABE já alcançam quase metade da meta de US$ 800 milhões prevista no plano de desinvestimento do governo argentino"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/alem-de-mariah-carey-os-hits-natalinos-de-2025/",
+        "title": "Além de Mariah Carey: os Hits Natalinos de 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Musicas-Natalinas_mariah-carey-300x200.jpg",
+        "date": "24/12/2025",
+        "description": "Levantamento do Spotify e do Google Trends mostra quais clássicos festivos nunca morrem e estão no topo das paradas do Natal"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/10-pratos-que-estao-na-ceia-de-natal-no-brasil-e-sua-historia/",
+        "title": "10 Pratos Que Estão na Ceia de Natal no Brasil e Sua História",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_ceia_natal_Getty_Images_24.12.2025-300x200.jpg",
+        "date": "24/12/2025",
+        "description": "A mesa natalina nacional reúne ingredientes indígenas, europeus e industriais e reflete a formação do sistema agroalimentar do país, do campo à indústria. Confira"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/empresa-de-buffett-zera-participacoes-na-byd-apos-17-anos/",
         "title": "Empresa de Buffett Vende Todas as Ações da BYD após 17 Anos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/warren-buffett-300x200.jpg",
@@ -12,61 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2023/02/money-ibovespa-reuters-300x200.jpg",
         "date": "23/12/2025",
         "description": "Sessão foi influenciada pelo cancelamento de uma entrevista que seria dada pelo ex-presidente Jair Bolsonaro e dados da prévia da inflação, o IPCA-15"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/data-centers-de-ia-incentivam-retorno-de-usinas-de-energia-suja-nos-eua/",
-        "title": "Data Centers de IA Incentivam Retorno de Usinas de Energia Suja nos Eua",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/tech_data_center_foto_REUTERS-Benoit-Tessier_27.09.2025-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Explosão no consumo elétrico pressiona a rede norte-americana, adia aposentadorias de termelétricas antigas e reacende o debate sobre custos, poluição e impactos em comunidades vulneráveis"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/premio-da-mega-da-virada-atinge-r-1-bilhao-e-e-o-maior-da-historia/",
-        "title": "Prêmio da Mega da Virada Atinge R$ 1 Bilhão e É o Maior da História",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/09/mega-sena-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Valor é 57% superior ao prêmio de R$ 635 milhões pago na Mega da Virada de 2024"
-    },
-    {
-        "url": "https://forbes.com.br/escolhas-do-editor/2025/12/trxf11-capta-r-3-bilhoes-na-maior-emissao-da-historia-dos-fiis-na-b3/",
-        "title": "TRXF11 Capta R$ 3 Bilhões na Maior Emissão da História dos FIIs na B3",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/08/Cury-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "A 12ª emissão do fundo imobiliário da TRX Investimentos teve excesso de demanda, lote adicional exercido e consolida o TRXF11 entre os maiores na bolsa de valores brasileira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/confianca-do-consumidor-dos-eua-se-deteriora-em-dezembro/",
-        "title": "Confiança do Consumidor dos EUA se Deteriora em Dezembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/03/Compras-EUA-Reuters-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "O Conference Board informou que seu índice de confiança do consumidor caiu 3,8 pontos neste mês, para 89,1"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/bndes-lanca-programa-de-r-10-bilhoes-para-renovar-frota-de-caminhoes/",
-        "title": "BNDES Lança Programa de R$ 10 Bilhões Para Renovar Frota de Caminhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-10-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "A linha de crédito financia caminhões novos e seminovos mais eficientes, com juros entre 13% e 14% ao ano e prazo de até 60 meses"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/forbes-mulher-agro-a-produtividade-como-rota-de-escape-para-o-agro-em-tempos-de-pressao-economica-e-climatica/",
-        "title": "Produtividade É Rota de Escape do Agro Contra Pressão Econômica e Climática",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_colheita_Getty_Images_23.12.2025-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "É o rendimento por hectare que dilui custos fixos e variáveis, e amplia a receita unitária do produtor"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/indonesia-projeta-1565-mi-quilolitros-de-biodiesel-para-2026-leve-alta-ante-2025/",
-        "title": "Indonésia Projeta 15,65 Mi Quilolitros de Biodiesel para 2026, Leve Alta ante 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro_etanol_biodiesel_27jun25_getty-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "O país do sudeste asiático implementou uma mistura obrigatória de óleo de palma de 40% para o diesel e está planejando aumentar a participação"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2025/12/novo-nordisk-obtem-aprovacao-nos-eua-para-wegovy-em-comprimido/",
-        "title": "Novo Nordisk Obtém Aprovação Nos EUA Para Wegovy Em Comprimido",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Logo-da-Novo-Nordisk-em-escritorio-de-Bagsvaerd-na-Dinamarca-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "A decisão do FDA pode aumentar a adesão ao tratamento e ampliar a base de pacientes em um país onde 40% dos adultos são obesos"
     }
 ]
