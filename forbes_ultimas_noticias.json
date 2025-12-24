@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/bndes-aprova-r-2-bilhoes-para-nova-ferrovia-da-rumo-em-mato-grosso/",
+        "title": "BNDES Aprova R$ 2 Bilhões para Nova Ferrovia da Rumo em Mato Grosso",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_trilhos_trem_ferrovia_Reuters_24.12.2025-300x200.jpg",
+        "date": "24/12/2025",
+        "description": "Com conclusão prevista para o 2º semestre de 2026, o trecho será entre Rondonópolis e Dom Aquino"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/suzano-eleva-celulose-em-us-120-no-ocidente-para-2026/",
+        "title": "Suzano Eleva Celulose em US$ 120 no Ocidente para 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/celulose-suzano-300x200.jpg",
+        "date": "24/12/2025",
+        "description": "A gigante brasileira comunicou reajustes de valor por tonelada na América do Norte e Europa"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/trigo-sobe-com-tensoes-no-mar-negro-enquanto-soja-e-milho-estabilizam-na-cbot/",
+        "title": "Trigo Sobe com Tensões no Mar Negro enquanto Soja e Milho Estabilizam na CBOT",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_graos_Reuters_24.12.2025-300x200.jpg",
+        "date": "24/12/2025",
+        "description": "A soja encerrou a sessão a US$ 10,63 por bushel, pressionada pelo clima favorável nas lavouras brasileiras"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/cacau-e-acucar-reagem-em-londres-apos-minimas-de-duas-semanas/",
+        "title": "Cacau e Açúcar Reagem em Londres após Mínimas de Duas Semanas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_cacau_REUTERS-Luc_Gnago_24.12.2025-300x200.jpg",
+        "date": "24/12/2025",
+        "description": "O cacau subiu 0,8%, recuperando-se após atingir a mínima de 4.154 libras e notícias de excedente de safra"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/hibridos-a-aposta-da-stellantis-dona-da-jeep-ram-e-fiat-para-crescer-nos-eua/",
         "title": "Híbridos: a Aposta da Stellantis, Dona da Jeep, Ram e Fiat, para Crescer nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Rampage_gama-1-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-11-1-300x200.jpg",
         "date": "24/12/2025",
         "description": "Leilões conduzidos pela AABE já alcançam quase metade da meta de US$ 800 milhões prevista no plano de desinvestimento do governo argentino"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/alem-de-mariah-carey-os-hits-natalinos-de-2025/",
-        "title": "Além de Mariah Carey: os Hits Natalinos de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Musicas-Natalinas_mariah-carey-300x200.jpg",
-        "date": "24/12/2025",
-        "description": "Levantamento do Spotify e do Google Trends mostra quais clássicos festivos nunca morrem e estão no topo das paradas do Natal"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/10-pratos-que-estao-na-ceia-de-natal-no-brasil-e-sua-historia/",
-        "title": "10 Pratos Que Estão na Ceia de Natal no Brasil e Sua História",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_ceia_natal_Getty_Images_24.12.2025-300x200.jpg",
-        "date": "24/12/2025",
-        "description": "A mesa natalina nacional reúne ingredientes indígenas, europeus e industriais e reflete a formação do sistema agroalimentar do país, do campo à indústria. Confira"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/empresa-de-buffett-zera-participacoes-na-byd-apos-17-anos/",
-        "title": "Empresa de Buffett Vende Todas as Ações da BYD após 17 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/05/warren-buffett-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Ação da maior montadora chinesa perde cerca de 30% em relação ao pico histórico, em meio a temores sobre concorrência e fim do longo apoio do bilionário"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-fecha-em-alta-com-politica-e-inflacao-no-radar/",
-        "title": "Ibovespa Fecha em Alta com Política e Inflação no Radar",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/02/money-ibovespa-reuters-300x200.jpg",
-        "date": "23/12/2025",
-        "description": "Sessão foi influenciada pelo cancelamento de uma entrevista que seria dada pelo ex-presidente Jair Bolsonaro e dados da prévia da inflação, o IPCA-15"
     }
 ]
