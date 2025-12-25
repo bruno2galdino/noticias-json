@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/india-anuncia-reforma-em-controles-de-importacao-em-meio-a-negociacoes-comerciais-com-os-eua/",
+        "title": "Índia Anuncia Reforma em Controles de Importação em Meio a Negociações Comerciais com os EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/Forbes_Uma-bandeira-dos-EUA-tremula-perto-de-conteineres-enquanto-um-navio-e-descarregado-no-Porto-de-Los-Angeles-300x200.jpg",
+        "date": "25/12/2025",
+        "description": "Nova Délhi simplifica exigências de qualidade e reduz burocracia em importações enquanto tenta avançar em um acordo comercial com Washington"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-sport/2025/12/esqui-e-snowboard-as-melhores-estacoes-para-iniciantes-intermediarios-e-avancados/",
         "title": "Esqui e Snowboard: As Melhores Estações para Iniciantes e Avançados",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/x-7-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_carrefour_floresta_faz_bem_25.12.2025-4-300x200.jpg",
         "date": "25/12/2025",
         "description": "Nova reestimativa do Fundecitrus aponta queda na produção frente às previsões iniciais, mas colheita segue bem acima do ciclo anterior"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/carrefour-amplia-programa-e-leva-produtos-da-amazonia-a-mais-lojas-do-pais/",
-        "title": "Carrefour Amplia Programa e Leva Produtos da Amazônia a Mais Lojas do País",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_carrefour_floresta_faz_bem_25.12.2025-3-300x200.jpg",
-        "date": "25/12/2025",
-        "description": "Floresta Faz Bem fortalece a presença de alimentos da sociobiodiversidade amazônica no varejo"
     }
 ]
