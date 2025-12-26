@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/moagem-de-cana-recua-no-norte-e-nordeste-em-2025-26/",
+        "title": "Moagem de Cana Recua no Norte e Nordeste em 2025/26",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_cana_26.12.2025-300x200.jpg",
+        "date": "26/12/2025",
+        "description": "O volume processado somou 32,5 milhões de toneladas, refletindo uma safra mais curta devido ao clima"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/soja-no-rio-grande-do-sul-pode-ter-salto-de-57-na-safra-2025-26/",
+        "title": "Soja no Rio Grande do Sul Pode Ter Salto de 57% na Safra 2025/26",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_colheita_no_Brasil_foto_Lucas_Ninno-gettyimages_28.11.2025-1-300x200.jpg",
+        "date": "26/12/2025",
+        "description": "Com o plantio atingindo 92% da área, o estado entra na reta final sob condições climáticas favoráveis"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/ia-criou-mais-de-50-novos-bilionarios-em-2025/",
         "title": "IA Criou Mais de 50 Novos Bilionários em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/bilionarios_IA_forbes-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/money_bandeirinhas_eua_china_26.12.2025-300x200.jpg",
         "date": "26/12/2025",
         "description": "Sanções vêm em resposta ao fornecimento de armas a Taiwan pelo Ministério das Relações Exteriores da China"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/enel-rio-aprova-aumento-de-capital-de-r-16-bilhao-e-emite-r-18-bilhao-em-notas-comerciais/",
-        "title": "Enel Rio Aprova Aumento de Capital de R$ 1,6 Bilhão e Emite R$ 1,8 Bilhão em Notas Comerciais",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Money_ENEL_12set2024_Reuters_-300x200.png",
-        "date": "26/12/2025",
-        "description": "Distribuidora fluminense converte dívidas em ações e acessa mercado de capitais para reforçar estrutura financeira no encerramento de 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-investidor-avalia-impacto-do-ataque-na-nigeria-sobre-petroleo/",
-        "title": "Pré-mercado: Investidor Avalia Impacto do Ataque na Nigéria sobre Petróleo",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "26/12/2025",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 26 de dezembro"
     }
 ]
