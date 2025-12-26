@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/china-revisa-pib-de-2024-para-baixo/",
+        "title": "China Revisa PIB de 2024 para Baixo",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/12/2023-12-11T162851Z_1_LYNXMPEJBA0K4_RTROPTP_4_MACRO-CHINA-LIDERES-300x200.jpg",
+        "date": "26/12/2025",
+        "description": "Produto interno bruto no ano foi 101,8 bilhões de iuanes menor do que os dados preliminares"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/banco-mercantil-propoe-aumento-de-capital-e-dividendos/",
+        "title": "Banco Mercantil Propõe Aumento de Capital e Dividendos",
+        "image": "https://forbes.com.br/wp-content/uploads/2017/06/mercantil.jpg",
+        "date": "26/12/2025",
+        "description": "Operação ocorre após a maior disputa judicial da sua história: uma regularização de dívida com a União"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/prata-supera-us-75-e-metais-preciosos-renovam-maximas-historicas/",
         "title": "Prata Supera US$ 75 e Metais Preciosos Renovam Máximas Históricas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/money_prata_26.12.2025-300x200.jpg",
@@ -37,7 +51,7 @@
     {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/dono-da-vinfast-o-mais-rico-do-vietna-investe-us-1-bi-em-fabrica-de-carros-eletricos/",
         "title": "Dono da VinFast, o Mais Rico do Vietnã, Investe US$ 1 Bi em Fábrica de Carros Elétricos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/VF32_02_HQ_0-300x200.jpg",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/upscalemedia-transformed-1-300x200.jpeg",
         "date": "26/12/2025",
         "description": "Com o novo investimento, a companhia planeja aumentar em sete vezes a capacidade de fábrica na Indonésia"
     },
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/mulher-adriana-alcantara-audible-300x200.jpg",
         "date": "26/12/2025",
         "description": "Com passagens por Apple, Globosat e Cartoon Network, a líder da divisão de audiolivros da Amazon construiu uma carreira que não só daria um livro como, de fato, virou um"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2025/12/mais-de-us-100-milhoes-em-ativos-desaparecem-em-esquema-imobiliario-nos-eua/",
-        "title": "Mais de US$ 100 Milhões Desaparecem em Esquema Imobiliário nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/real-estate-Brandon-Dutch-Mendenhall-RAD-300x200.jpg",
-        "date": "26/12/2025",
-        "description": "A RAD Diversified se vendeu como um caminho para enriquecer com imóveis. Agora, dezenas de milhões sumiram e a SEC e o procurador-geral da Flórida investigam o caso"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/ia-amplia-modelagem-de-incendios-florestais-para-alem-do-oeste-dos-eua/",
-        "title": "IA Amplia Modelagem de Incêndios Florestais para Além do Oeste dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_esg_incendio_florestal_fogo_26.12.2025-300x200.jpg",
-        "date": "26/12/2025",
-        "description": "Estudantes universitários desenvolveram soluções, incluindo modelos que preveem áreas de alto risco"
     }
 ]
