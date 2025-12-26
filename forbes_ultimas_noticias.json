@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/prata-supera-us-75-e-metais-preciosos-renovam-maximas-historicas/",
+        "title": "Prata Supera US$ 75 e Metais Preciosos Renovam Máximas Históricas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/money_prata_26.12.2025-300x200.jpg",
+        "date": "26/12/2025",
+        "description": "Metal teve valorização impulsionada pelo seu status de mineral crítico e por déficit de oferta global"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/vietna-centraliza-oferta-global-de-cafe-e-precos-reagem-no-fechamento-do-ano/",
+        "title": "Vietnã Centraliza Oferta Global de Café e Preços Reagem no Fechamento do Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_money_cafe_26.12.2025-300x200.jpg",
+        "date": "26/12/2025",
+        "description": "O contrato para março em Londres ganhou US$ 189 nesta semana, com percepção de que o Vietnã será a única fonte de suprimento até abril"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/china-aplica-sancoes-a-empresas-de-defesa-e-individuos-dos-eua/",
+        "title": "China Aplica Sanções a Empresas de Defesa e Indivíduos dos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/money_bandeirinhas_eua_china_26.12.2025-300x200.jpg",
+        "date": "26/12/2025",
+        "description": "Sanções vêm em resposta ao fornecimento de armas a Taiwan pelo Ministério das Relações Exteriores da China"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/enel-rio-aprova-aumento-de-capital-de-r-16-bilhao-e-emite-r-18-bilhao-em-notas-comerciais/",
         "title": "Enel Rio Aprova Aumento de Capital de R$ 1,6 Bilhão e Emite R$ 1,8 Bilhão em Notas Comerciais",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Money_ENEL_12set2024_Reuters_-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_esg_incendio_florestal_fogo_26.12.2025-300x200.jpg",
         "date": "26/12/2025",
         "description": "Estudantes universitários desenvolveram soluções, incluindo modelos que preveem áreas de alto risco"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/a-proxima-corrida-global-do-poder-em-ia-sera-vencida-por-meio-da-soberania-digital/",
-        "title": "A Próxima Corrida Global do Poder em IA Será Vencida por Meio da Soberania Digital",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Macron_Soberania_Digital_IA-300x200.png",
-        "date": "26/12/2025",
-        "description": "Controle sobre criptografia e identidade digital surge como fator decisivo para países e empresas preservarem autonomia, confiança e vantagem estratégica na era da inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/depois-do-lasai-chef-rafa-costa-e-silva-encontra-a-italia-na-serra-fluminense/",
-        "title": "Depois do Lasai, Chef Rafa Costa e Silva Encontra a Itália na Serra Fluminense",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/x-6-300x200.jpg",
-        "date": "26/12/2025",
-        "description": "Na Bonaccia Osteria, chef foge da formalidade das duas estrelas Michelin e aposta em massas artesanais, produtos locais e clima de dolce vita perto de Petrópolis"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/china-diz-que-espera-que-empresas-busquem-solucoes-legais-e-equilibradas-para-acordo-com-tiktok/",
-        "title": "China Espera Que Empresas Busquem Soluções para Acordo com TikTok",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/Acordo-venda-tiktok-300x200.png",
-        "date": "25/12/2025",
-        "description": "Controladora do TikTok assinou acordo para entregar operações do app nos EUA a um grupo de investidores norte-americanos"
     }
 ]
