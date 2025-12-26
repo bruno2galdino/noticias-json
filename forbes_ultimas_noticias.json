@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/china-flexibiliza-regras-de-ipo-para-empresas-que-desenvolvem-foguetes-reutilizaveis/",
+        "title": "China Flexibiliza Regras de IPO para Empresas Que Desenvolvem Foguetes Reutilizáveis",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/bolsa_271221_Money_GettyImages-e1703875746812-300x200.jpeg",
+        "date": "26/12/2025",
+        "description": "Pequim está tentando fechar uma lacuna em suas capacidades espaciais em comparação com os Estados Unidos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/endividamento-das-familias-atinge-493-em-outubro/",
+        "title": "Endividamento das Famílias Atinge 49,3% em Outubro",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/06/GettyImages-1205818979-scaled.jpg",
+        "date": "26/12/2025",
+        "description": "Aumento foi de 0,2 ponto percentual em relação ao mês anterior. Comprometimento de renda avançou 0,6 ponto percentual, para 29,4%"
+    },
+    {
         "url": "https://forbes.com.br/geral/2025/12/tempestade-de-neve-provoca-mais-de-1-300-cancelamentos-e-paralisa-aeroportos-de-nova-york/",
         "title": "Tempestade de Neve Provoca Mais de 1.300 Cancelamentos e Paralisa Aeroportos de Nova York",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-18-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2017/06/mercantil.jpg",
         "date": "26/12/2025",
         "description": "Operação ocorre após a maior disputa judicial da sua história: uma regularização de dívida com a União"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/prata-supera-us-75-e-metais-preciosos-renovam-maximas-historicas/",
-        "title": "Prata Supera US$ 75 e Metais Preciosos Renovam Máximas Históricas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/money_prata_26.12.2025-300x200.jpg",
-        "date": "26/12/2025",
-        "description": "Metal teve valorização impulsionada pelo seu status de mineral crítico e por déficit de oferta global"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2025/12/vietna-centraliza-oferta-global-de-cafe-e-precos-reagem-no-fechamento-do-ano/",
-        "title": "Vietnã Centraliza Oferta Global de Café e Preços Reagem no Fechamento do Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_money_cafe_26.12.2025-300x200.jpg",
-        "date": "26/12/2025",
-        "description": "O contrato para março em Londres ganhou US$ 189 nesta semana, com percepção de que o Vietnã será a única fonte de suprimento até abril"
     }
 ]
