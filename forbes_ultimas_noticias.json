@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2025/12/tempestade-de-neve-provoca-mais-de-1-300-cancelamentos-e-paralisa-aeroportos-de-nova-york/",
+        "title": "Tempestade de Neve Provoca Mais de 1.300 Cancelamentos e Paralisa Aeroportos de Nova York",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-18-300x200.jpg",
+        "date": "26/12/2025",
+        "description": "Com previsão de até 23 centímetros de neve, a nevasca já gerou quase 3.000 atrasos e levou JFK, LaGuardia e Newark ao limite operacional"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/moagem-de-cana-recua-no-norte-e-nordeste-em-2025-26/",
         "title": "Moagem de Cana Recua no Norte e Nordeste em 2025/26",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_colheita_cana_26.12.2025-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_money_cafe_26.12.2025-300x200.jpg",
         "date": "26/12/2025",
         "description": "O contrato para março em Londres ganhou US$ 189 nesta semana, com percepção de que o Vietnã será a única fonte de suprimento até abril"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/china-aplica-sancoes-a-empresas-de-defesa-e-individuos-dos-eua/",
-        "title": "China Aplica Sanções a Empresas de Defesa e Indivíduos dos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/money_bandeirinhas_eua_china_26.12.2025-300x200.jpg",
-        "date": "26/12/2025",
-        "description": "Sanções vêm em resposta ao fornecimento de armas a Taiwan pelo Ministério das Relações Exteriores da China"
     }
 ]
