@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/stf-prorroga-prazo-para-aprovacao-de-distribuicao-de-dividendos-ate-final-de-janeiro/",
+        "title": "STF Prorroga Prazo para Aprovação de Distribuição de Dividendos até Final de Janeiro",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/forbes-STF-pejotizacao-300x200.jpg",
+        "date": "27/12/2025",
+        "description": "O ministro atendeu a pleitos das confederações do comércio e da indústria (CNC e CNI), que moveram ações diretas de inconstitucionalidade"
+    },
+    {
         "url": "https://forbes.com.br/manchete-2/2025/12/caterham-project-v-esportivo-eletrico-iconico-esta-proximo-de-virar-realidade/",
         "title": "Caterham Project V: Esportivo Elétrico Icônico Está Próximo de Virar Realidade",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Projeto-Caterham-V-300x200.jpg",
@@ -43,10 +50,10 @@
     },
     {
         "url": "https://forbes.com.br/forbes-tech/2025/12/pesquisa-geek-power-revela-os-melhores-filmes-series-livros-e-jogos-de-2025-confira/",
-        "title": "Pesquisa Geek Power Revela os Melhores Filmes, Séries, Livros, Jogos e Artistas de 2025; Confira",
+        "title": "Os Melhores Filmes, Séries, Livros, Jogos e Artistas de 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Superman_Pesquisa_Geek_Power-300x200.png",
         "date": "27/12/2025",
-        "description": "A 13ª edição da Geek Power mostra como os heavy users impulsionam tendências da cultura pop, destacando filmes como Sinners e Superman, séries como Wandinha e The Last of Us, livros como Verity, jogos como Hollow Knight: Silksong e artistas como Lady Gaga e Taylor Swift"
+        "description": "A 13ª edição da Geek Power mostra como os heavy users impulsionam tendências da cultura pop"
     },
     {
         "url": "https://forbes.com.br/geral/2025/12/bolsa-fecha-em-leve-alta-com-baixa-liquidez-no-mercado/",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/bolsa_271221_Money_GettyImages-e1703875746812-300x200.jpeg",
         "date": "26/12/2025",
         "description": "Pequim está tentando fechar uma lacuna em suas capacidades espaciais em comparação com os Estados Unidos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/endividamento-das-familias-atinge-493-em-outubro/",
-        "title": "Endividamento das Famílias Atinge 49,3% em Outubro",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/06/GettyImages-1205818979-scaled.jpg",
-        "date": "26/12/2025",
-        "description": "Aumento foi de 0,2 ponto percentual em relação ao mês anterior. Comprometimento de renda avançou 0,6 ponto percentual, para 29,4%"
     }
 ]
