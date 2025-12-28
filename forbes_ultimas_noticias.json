@@ -1,14 +1,21 @@
 [
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/retrospectiva-2025-a-moto-indiana-que-foi-um-fenomeno-no-brasil/",
-        "title": "Retrospectiva 2025: A Moto Indiana Que Foi um Fenômeno no Brasil",
+        "url": "https://forbes.com.br/forbes-mulher/2025/12/brigitte-bardot-icone-do-cinema-frances-morre-aos-91-anos/",
+        "title": "Brigitte Bardot, Ícone do Cinema Francês, Morre Aos 91 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Brigitte-Bardot-forbes-mulher-2-300x200.jpg",
+        "date": "28/12/2025",
+        "description": "Atriz, mundialmente famosa desde os anos 1950, havia sido internada em outubro para tratar uma \"doença grave\""
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2025/12/retrospectiva-2025-a-moto-indiana-que-foi-um-fenomeno-no-brasil/",
+        "title": "A Moto Indiana Que Foi um Fenômeno no Brasil em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Royal-Enfield-Guerrilla-450_Yellow-Ribbon-and-Brava-Blue2-1-300x200.jpg",
         "date": "28/12/2025",
         "description": "Com crescimento de 74% nas vendas, Royal Enfield fecha 2025 como destaque do mercado de motos de média cilindrada no Brasil"
     },
     {
         "url": "https://forbes.com.br/forbes-money/2025/12/dentro-da-bolha-dos-bilionarios-por-que-2025-foi-o-melhor-ano-da-historia-para-os-bilionarios/",
-        "title": "Dentro da Bolha dos Bilionários: Por Que 2025 Foi o Melhor Ano da História para os Bilionários",
+        "title": "Por Que 2025 Foi o Melhor Ano da História para os Bilionários",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-34-300x200.jpg",
         "date": "28/12/2025",
         "description": "A disparada das ações de inteligência artificial, os grandes IPOs e Elon Musk impulsionaram fortunas neste ano"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Projeto-Caterham-V-300x200.jpg",
         "date": "27/12/2025",
         "description": "Marca britânica confirma apresentação do modelo no Tokyo Auto Salon 2026 e amplia testes do projeto que marca sua entrada na era dos esportivos elétricos"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/ranking-forbes-os-times-que-mais-se-valorizaram-desde-o-ano-2000/",
-        "title": "Ranking Forbes: Os Times Que Mais se Valorizaram desde o Ano 2000",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/GettyImages-2252034759-1-300x200.jpg",
-        "date": "27/12/2025",
-        "description": "Todas as 124 franquias das quatro principais ligas norte-americanas valem ao menos US$ 1,05 bilhão, somando US$ 536 bilhões"
     }
 ]
