@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/bey-ionaria-beyonce-entra-oficialmente-para-o-clube-do-bilhao/",
+        "title": "Bey-ionária: Beyoncé Entra Oficialmente para o Clube do Bilhão",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/mulher-beyonce-cowboy-carter-300x200.jpg",
+        "date": "29/12/2025",
+        "description": "Entrada para o Clube do Bilhão acontece após sucesso da Cowboy Carter Tour"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-ultima-inflacao-de-2025-cai-com-produtos-agricolas/",
+        "title": "Pré-mercado: Última Inflação de 2025 Cai com Produtos Agrícolas",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "29/12/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 29 de dezembro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/os-esportivos-luxuosos-mais-vendidos-no-brasil-em-2025/",
         "title": "Os Esportivos Luxuosos Mais Vendidos no Brasil em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/323148_1920x1280-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/padrao-Forbes-1-300x200.jpg",
         "date": "28/12/2025",
         "description": "Das paisagens geladas da Antártica às praias paradisíacas de Zanzibar, conheça os 20 lugares que prometem dominar as viagens do próximo ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2025/12/brigitte-bardot-icone-do-cinema-frances-morre-aos-91-anos/",
-        "title": "Brigitte Bardot, Ícone do Cinema Francês, Morre Aos 91 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Brigitte-Bardot-forbes-mulher-2-300x200.jpg",
-        "date": "28/12/2025",
-        "description": "Atriz, mundialmente famosa desde os anos 1950, havia sido internada em outubro para tratar uma \"doença grave\""
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/retrospectiva-2025-a-moto-indiana-que-foi-um-fenomeno-no-brasil/",
-        "title": "A Moto Indiana Que Foi um Fenômeno no Brasil em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Royal-Enfield-Guerrilla-450_Yellow-Ribbon-and-Brava-Blue2-1-300x200.jpg",
-        "date": "28/12/2025",
-        "description": "Com crescimento de 74% nas vendas, Royal Enfield fecha 2025 como destaque do mercado de motos de média cilindrada no Brasil"
     }
 ]
