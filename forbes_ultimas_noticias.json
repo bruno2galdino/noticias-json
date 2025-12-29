@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/ibovespa-fecha-em-queda-na-ultima-semana-do-ano-com-pregao-de-liquidez-reduzida/",
+        "title": "Ibovespa Fecha em Queda na Última Semana do Ano, com Pregão de Liquidez Reduzida",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "29/12/2025",
+        "description": "Apesar da baixa, o índice caminha para fechar 2025 com o melhor desempenho desde 2016"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/correios-capta-r-12-bi-em-plano-de-reestruturacao-preve-demissoes-e-fechamento-de-unidades/",
+        "title": "Correios Capta R$ 12 Bi em Plano de Reestruturação; Prevê Demissões e Fechamento de Unidades",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/correios-reuters-300x200.jpg",
+        "date": "29/12/2025",
+        "description": "Diagnóstico identificou patrimônio líquido negativo de R$ 10,4 bilhões e prejuízo acumulado de R$ 6,057 bilhões até setembro de 2025"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/bilhoes-em-jogo-gigantes-do-agro-avaliam-abandonar-a-moratoria-da-soja/",
         "title": "Bilhões em jogo: gigantes do agro avaliam abandonar a Moratória da Soja",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_soja_29_dez25_Gettyimages-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/agro_amazon_chris_atkins_06.11.2025-2-300x200.jpg",
         "date": "29/12/2025",
         "description": "O relatório da Dentsu aponta que o setor de tecnologia vai liderar os investimentos com alta de 10,3%, movido por lançamentos de produtos baseados em inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/infomercial/2025/12/infomercial-exclusive-seguros-a-corretora-que-transformou-rh-em-estrategia-de-negocio/",
-        "title": "EXC Seguros Cresce 40% ao Ano Com Modelo Que Transforma RH em Vantagem Competitiva",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Exclusive-Destaque-300x200.png",
-        "date": "29/12/2025",
-        "description": "Como Marco Mascarenhas e Luciana Hermeto construíram uma corretora em que cultura organizacional se transformou em vantagem competitiva"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/bey-ionaria-beyonce-entra-oficialmente-para-o-clube-do-bilhao/",
-        "title": "Bey-ionária: Beyoncé Entra Oficialmente para o Clube do Bilhão",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/mulher-beyonce-cowboy-carter-300x200.jpg",
-        "date": "29/12/2025",
-        "description": "Entrada para o Clube do Bilhão acontece após sucesso da Cowboy Carter Tour"
     }
 ]
