@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/agricultores-argentinos-ensacam-os-ultimos-campos-de-uma-temporada-de-trigo-dos-sonhos/",
+        "title": "Agricultores Argentinos Ensacam os Últimos Campos de uma Temporada de Trigo dos Sonhos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-29T141646Z_1_LYNXMPELBS0IJ_RTROPTP_4_USA-WHEAT-FARMERS-300x200.jpg",
+        "date": "29/12/2025",
+        "description": "Safra de trigo surpreende produtor do sul de Buenos Aires, impulsionada por produtividade acima do esperado"
+    },
+    {
         "url": "https://forbes.com.br/colunas/2025/12/dr-fernando-maluf-verao-uma-estacao-que-pede-cuidados-redobrados-com-a-pele/",
         "title": "Verão: Uma Estação Que Pede Cuidados Redobrados com a Pele",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/bark-airlines-2-2-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_brinde_espumante_29.12.2025-300x200.jpg",
         "date": "29/12/2025",
         "description": "As bebidas foram produzidas a partir do método clássico. Confira as opções sua festa"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/ia-deve-injetar-us-1-trilhao-na-economia-da-america-latina-ate-2038/",
-        "title": "IA Deve Injetar US$ 1 Trilhão na Economia da América Latina até 2038",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/GettyImages-1820209027-1-300x200.jpg",
-        "date": "29/12/2025",
-        "description": "Um novo estudo global realizado pela Linux Foundation, sob encomenda da Meta, revela que a Inteligência Artificial já é uma força econômica na região"
     }
 ]
