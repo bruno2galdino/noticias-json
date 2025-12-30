@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2025/12/dominio-da-india-sobre-o-comercio-global-de-arroz-alimenta-iminente-crise-hidrica/",
+        "title": "Domínio da Índia sobre o Comércio Global de Arroz Alimenta Iminente Crise Hídrica",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-30T130719Z_1_LYNXMPELBT0II_RTROPTP_4_INDIA-RICE-WATER-300x200.jpg",
+        "date": "30/12/2025",
+        "description": "Expansão do arroz na Índia pressiona aquíferos, eleva custos e endivida agricultores"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2025/12/china-promete-estabilizar-producao-de-graos-e-aumentar-autossuficiencia-em-sementes-de-soja/",
+        "title": "China Promete Estabilizar Produção de Grãos e Aumentar Autossuficiência em Sementes de Soja",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-30T142345Z_1_LYNXMPELBT0KG_RTROPTP_4_CHINA-AGRICULTURE-300x200.jpg",
+        "date": "30/12/2025",
+        "description": "Produção de grãos da China bate recorde histórico e cresce 1,2%, alcançando 714,9 milhões de toneladas"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/desemprego-cai-mais-do-que-o-esperado-no-brasil-em-novembro-e-bate-novo-recorde-a-52/",
         "title": "Desemprego Cai Mais do Que o Esperado no Brasil em Novembro e Bate Novo Recorde, a 5,2%",
         "image": "https://forbes.com.br/wp-content/uploads/2024/03/carreira-carteira-de-trabalho-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-14-300x200.jpg",
         "date": "30/12/2025",
         "description": "Proposta eleva imposto sobre folha de pagamento para 4% em estado estratégico na fronteira com os EUA"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/elon-musk-2025-o-ano-de-erros-polemicas-e-ganhos-bilionarios/",
-        "title": "Elon Musk 2025: o Ano de Erros, Polêmicas e Ganhos Bilionários",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-36-300x200.jpg",
-        "date": "30/12/2025",
-        "description": "De Trump ao DOGE, das promessas de carros autônomos ao pacote de US$ 1 trilhão, 2025 foi o ano mais caótico e lucrativo do bilionário"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/ia-com-carta-branca-40-dos-brasileiros-ja-aceitam-delegar-compras-e-decisoes-financeiras-a-robos/",
-        "title": "IA com \"Carta Branca\": 40% dos Brasileiros Já Aceitam Delegar Compras e Decisões Financeiras a Robôs",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-13-300x200.png",
-        "date": "30/12/2025",
-        "description": "Enquanto em outros países a inovação costuma ser liderada pelo público masculino, no Brasil as mulheres estão significativamente mais abertas à IA agêntica, com 46% de aceitação contra 35% dos homens"
     }
 ]
