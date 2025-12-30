@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/desemprego-cai-mais-do-que-o-esperado-no-brasil-em-novembro-e-bate-novo-recorde-a-52/",
+        "title": "Desemprego Cai Mais do Que o Esperado no Brasil em Novembro e Bate Novo Recorde, a 5,2%",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/03/carreira-carteira-de-trabalho-300x200.jpg",
+        "date": "30/12/2025",
+        "description": "A taxa de informalidade no emprego recuou para 37,7% da população ocupada em novembro, o que corresponde a 38,8 milhões de trabalhadores"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2025/12/divida-publica-bruta-do-brasil-chega-a-79-do-pib-em-novembro-em-linha-com-o-esperado/",
         "title": "Dívida Pública Bruta do Brasil Chega a 79% do PIB em Novembro, em Linha com o Esperado",
         "image": "https://forbes.com.br/wp-content/uploads/2022/06/divida-publica-federal-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/Tamanho-site-Tech-13-300x200.png",
         "date": "30/12/2025",
         "description": "Enquanto em outros países a inovação costuma ser liderada pelo público masculino, no Brasil as mulheres estão significativamente mais abertas à IA agêntica, com 46% de aceitação contra 35% dos homens"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2025/12/champagne-ou-prosecco-como-escolher-as-borbulhas-certas-para-a-noite-de-ano-novo/",
-        "title": "Champagne ou Prosecco? Como Escolher as Borbulhas Certas para a Noite de Ano Novo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_produtor-rural_29_dez25_Gettyimages-3-300x200.jpg",
-        "date": "30/12/2025",
-        "description": "Muitos consumidores acabam escolhendo uma única garrafa sem considerar o momento, o nível de doçura ou a comida, e isso aparece na taça"
     }
 ]
