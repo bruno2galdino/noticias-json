@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/fim-de-uma-era-warren-buffett-se-aposenta-mas-deixa-legado-imensuravel/",
+        "title": "Fim de uma Era: Warren Buffett se Aposenta, Mas Deixa Legado Imensurável",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/warren-buffett-300x200.jpg",
+        "date": "30/12/2025",
+        "description": "Nona pessoa mais rica do mundo, o bilionário encerra sua trajetória à frente da Berkshire Hathaway em 2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2025/12/pre-mercado-2025-termina-melhor-do-que-o-esperado-na-bolsa-e-no-dolar/",
+        "title": "Pré-mercado: 2025 Termina Melhor do Que o Esperado na Bolsa e no Dólar",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "30/12/2025",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 30 de dezembro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2025/12/de-bezos-a-eric-schmidt-os-iates-dos-bilionarios-que-passam-as-festas-no-caribe/",
         "title": "De Bezos a Eric Schmidt: os Iates dos Bilionários Que Passam as Festas no Caribe",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Superiate-ancorado-na-ilha-de-Sao-Martinho-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_produtor-rural_29_dez25_Gettyimages-5-300x200.jpg",
         "date": "30/12/2025",
         "description": "Algoritmos, regras de ranqueamento e padrões de segurança reduzem a visibilidade de conteúdos, com impacto direto em inovação, investimento e acesso à informação"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2025/12/dr-fernando-maluf-cancer-ja-e-principal-causa-de-morte-em-mais-de-10-dos-municipios-brasileiros/",
-        "title": "Câncer Já É Principal Causa de Morte em Mais de 10% dos Municípios Brasileiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/bark-airlines-3-1-300x200.png",
-        "date": "30/12/2025",
-        "description": "Com avanço acelerado, o câncer já supera doenças cardiovasculares como principal causa de morte em centenas de municípios"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2025/12/repense-o-roteiro-8-destinos-de-viagem-para-evitar-em-2026/",
-        "title": "Overturismo: Onde Turistas Devem Repensar Planos de Viagem para 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Fodor-300x200.jpg",
-        "date": "30/12/2025",
-        "description": "Overtourism coloca desde bairros de Paris até a Cidade do México em alerta; saiba quais locais entraram na \"lista do não\" e o por quê"
     }
 ]
