@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/divida-publica-bruta-do-brasil-chega-a-79-do-pib-em-novembro-em-linha-com-o-esperado/",
+        "title": "Dívida Pública Bruta do Brasil Chega a 79% do PIB em Novembro, em Linha com o Esperado",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/06/divida-publica-federal-300x200.jpg",
+        "date": "30/12/2025",
+        "description": "No mês passado, o setor público consolidado registrou déficit primário de R$ 14,420 bilhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2025/12/de-prodigios-da-forbes-a-elite-da-meta-a-trajetoria-dos-nomes-por-tras-da-manus-ai/",
+        "title": "De Prodígios da Forbes À Elite da Meta: a Trajetória dos Nomes por trás da Manus AI",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Yichao-Peak-Ji-300x200.jpg",
+        "date": "30/12/2025",
+        "description": "Antes de se tornar a peça-chave da Meta para o ano de 2026, a empresa operava sob a bandeira da Butterfly Effect Technology, uma startup fundada em 2022"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2025/12/era-dos-agentes-o-que-a-compra-da-manus-ai-significa-para-o-futuro-da-meta/",
         "title": "Era dos Agentes: o Que a Compra da Manus AI Significa para o Futuro da Meta",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Manus-300x200.webp",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_produtor-rural_29_dez25_Gettyimages-3-300x200.jpg",
         "date": "30/12/2025",
         "description": "Muitos consumidores acabam escolhendo uma única garrafa sem considerar o momento, o nível de doçura ou a comida, e isso aparece na taça"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/openai-transforma-ia-em-ritual-de-fim-de-ano-com-retrospectiva-you-year-with-chatgpt/",
-        "title": "OpenAI transforma IA em ritual de fim de ano com Retrospectiva You Year With ChatGPT",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Retrospectiva_Your_Year_With_ChatGPT-300x200.png",
-        "date": "30/12/2025",
-        "description": "Novo recurso da OpenAI cria narrativas personalizadas com base nas conversas salvas ao longo do ano"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2025/12/danca-das-cadeiras-as-movimentacoes-executivas-que-marcaram-2025/",
-        "title": "Dança das Cadeiras: As Principais Movimentações Executivas de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/carreira-ceos-coca-cola-amazon-visa-1-300x200.jpg",
-        "date": "30/12/2025",
-        "description": "Promoções, sucessões e chegadas estratégicas redesenharam a alta liderança de empresas como Amazon, Coca-Cola e Visa, em um ano marcado por inovação, crescimento e apostas em IA"
     }
 ]
