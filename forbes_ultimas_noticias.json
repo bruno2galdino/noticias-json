@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2025/12/os-maiores-filmes-musicas-shows-e-livros-de-2025/",
+        "title": "Os Maiores Filmes, Músicas, Shows e Livros de 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-40-300x200.jpg",
+        "date": "31/12/2025",
+        "description": "Entre os destaques do entretenimento em 2025 estão a turnê “Cowboy Carter”, de Beyoncé, “The Life of a Showgirl”, da bilionária Taylor Swift"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2025/12/china-impoe-restricoes-a-importacoes-de-carne-bovina-para-proteger-setor-domestico/",
         "title": "China Impõe Restrições a Importações de Carne Bovina para Proteger Setor Doméstico",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-31T132655Z_1_LYNXMPELBU0DA_RTROPTP_4_BRAZIL-BEEF-JBS-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Sony_God_Of_War-300x200.png",
         "date": "31/12/2025",
         "description": "Registro oficial descreve ferramenta capaz de ajustar conteúdos de acordo com perfis de jogadores"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2025/12/adeus-ao-carrinho-abandonado-superagentes-de-ia-que-pensam-e-vendem-por-voce/",
-        "title": "Adeus Ao Carrinho Abandonado: Superagentes de IA Que Pensam (e Vendem) por Você",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/08/ecommerce_230621_Getty.jpg",
-        "date": "31/12/2025",
-        "description": "De acordo com dados recentes do Gartner, a estimativa é de que esses agentes gerem US$ 450 bilhões em receita para softwares corporativos até 2035"
     }
 ]
