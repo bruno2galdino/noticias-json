@@ -1,6 +1,20 @@
 [
     {
-        "url": "https://forbes.com.br/forbes-money/2026/01/bilionarios-as-10-pessoas-mais-ricas-do-mundo-em-janeiro-de-2026/",
+        "url": "https://forbes.com.br/forbes-tech/2026/01/por-que-mais-pessoas-estao-recorrendo-a-ia-para-conexao-emocional/",
+        "title": "Por Que Mais Pessoas Estão Recorrendo À IA para Conexão Emocional?",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/0x0-300x200.webp",
+        "date": "01/01/2026",
+        "description": "Histórias de pessoas que usam chatbots de IA como terapeutas já não são exemplos isolados"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2026/01/china-impoe-restricoes-a-importacoes-de-carne-bovina-para-proteger-setor-domestico-2/",
+        "title": "China Impõe Restrições a Importações de Carne Bovina para Proteger Setor Doméstico",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2025-12-31T132655Z_1_LYNXMPELBU0DA_RTROPTP_4_BRAZIL-BEEF-JBS-300x200.jpg",
+        "date": "01/01/2026",
+        "description": "Nos primeiros 11 meses de 2025, o Brasil embarcou 1,33 milhão de toneladas de carne bovina para a China"
+    },
+    {
+        "url": "https://forbes.com.br/listas/2026/01/bilionarios-as-10-pessoas-mais-ricas-do-mundo-em-janeiro-de-2026/",
         "title": "Os 10 Bilionários Mais Ricos do Mundo em Janeiro de 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Money_Bilionarios_Elon-Musk-300x200.png",
         "date": "01/01/2026",
@@ -21,7 +35,7 @@
         "description": "Como o salto de produtividade e a dominância no mercado de commodities elevam o país a patamar inédito de influência econômica global"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/o-esportivo-artesanal-de-dois-amigos-que-sumiu-do-mercado-antes-mesmo-de-chegar/",
+        "url": "https://forbes.com.br/forbeslife/2026/01/o-esportivo-artesanal-de-dois-amigos-que-sumiu-do-mercado-antes-mesmo-de-chegar/",
         "title": "O Esportivo Artesanal de Dois Amigos Que Sumiu do Mercado Antes Mesmo de Chegar",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Edit-23-1-300x200.jpeg",
         "date": "01/01/2026",
@@ -42,31 +56,17 @@
         "description": "Com autorreflexão, metas realistas e gestão do tempo, é possível transformar boas intenções em hábitos duradouros ao longo do ano"
     },
     {
+        "url": "https://forbes.com.br/forbessaude/2026/01/3-formas-eficazes-de-cumprir-suas-metas-de-ano-novo-em-2026/",
+        "title": "3 Formas Eficazes de Cumprir Suas Metas de Ano Novo em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0x0-23-300x200.webp",
+        "date": "01/01/2026",
+        "description": "Pesquisas explicam por que as resoluções de Ano Novo falham e apontam três ajustes comprovados para que elas se sustentem em 2026"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/a-nova-estrategia-da-china-para-salvar-o-mercado-imobiliario-em-2026/",
         "title": "A Nova Estratégia da China para Salvar o Mercado Imobiliário em 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-16-300x200.jpg",
         "date": "01/01/2026",
         "description": "Governo de Pequim prioriza o novo Plano Quinquenal para mitigar riscos de dívida e recuperar a confiança em setor que detém 70% da riqueza das famílias"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/os-destinos-mais-buscados-de-2025-o-que-dados-do-google-revelam-sobre-como-viajamos/",
-        "title": "Os Destinos Mais Buscados de 2025: Como Viajamos Este Ano, Segundo o Google",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Life_Bilbao-Espanha-300x200.jpg",
-        "date": "01/01/2026",
-        "description": "Relatório Year in Search mostra as cidades, países e experiências que despertaram maior interesse dos viajantes no último ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2026/01/por-que-as-regioes-vinicolas-americanas-reivindicam-a-assinatura-de-suas-variedades/",
-        "title": "Por Que as Regiões Vinícolas Americanas Reivindicam a “Assinatura” de Suas Variedades",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_wsb_videiras_uva_01.01.2026-1-300x200.jpg",
-        "date": "01/01/2026",
-        "description": "Em busca de destaque global, produtores dos estados de Nova York e Califórnia adotam o modelo europeu de associar territórios a variedades específicas de uva"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2025/12/os-maiores-filmes-musicas-shows-e-livros-de-2025/",
-        "title": "Os Maiores Filmes, Músicas, Shows e Livros de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/2-40-300x200.jpg",
-        "date": "31/12/2025",
-        "description": "Entre os destaques do entretenimento em 2025 estão a turnê “Cowboy Carter”, de Beyoncé, “The Life of a Showgirl”, da bilionária Taylor Swift"
     }
 ]
