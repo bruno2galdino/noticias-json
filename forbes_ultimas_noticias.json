@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/na-primeira-sessao-de-2026-ibovespa-fecha-em-queda-com-minerva-e-mbrf/",
+        "title": "Na Primeira Sessão de 2026, Ibovespa Fecha em Queda com Minerva e MBRF",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "02/01/2026",
+        "description": "Dólar encerra o primeiro pregão do ano com baixa de 1,19%"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/minerva-e-mbrf-recuam-forte-na-b3-apos-china-impor-tarifas-para-carne-bovina/",
         "title": "Minerva e MBRF Recuam Forte na B3 após China Impor Tarifas para Carne Bovina",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/2026-01-02T163604Z_1_LYNXMPEM010HV_RTROPTP_4_MACRO-IPP-NOVEMBRO-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/incendio-suica-300x200.jpg",
         "date": "02/01/2026",
         "description": "Vítimas celebravam a chegada do ano novo no momento da tragédia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-bolsas-globais-iniciam-20206-batendo-recordes/",
-        "title": "Pré-mercado: Bolsas Globais Iniciam 20206 Batendo Recordes",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "02/01/2026",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 2 de janeiro"
     }
 ]
