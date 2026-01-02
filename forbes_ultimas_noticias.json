@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2026/01/40-pessoas-morrem-e-mais-de-100-ficam-feridas-em-incendio-em-bar-de-estacao-de-esqui-na-suica/",
+        "title": "40 Pessoas Morrem e Mais de 100 Ficam Feridas em Incêndio em Bar de Estação de Esqui na Suíça",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/incendio-suica-300x200.jpg",
+        "date": "02/01/2026",
+        "description": "Vítimas celebravam a chegada do ano novo no momento da tragédia"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-bolsas-globais-iniciam-20206-batendo-recordes/",
+        "title": "Pré-mercado: Bolsas Globais Iniciam 20206 Batendo Recordes",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "02/01/2026",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 2 de janeiro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/quanto-custa-fretar-um-jato-na-copa-do-mundo-2026-valores-taxas-e-dicas/",
         "title": "Quanto Custa Fretar um Jato na Copa do Mundo 2026: Valores, Taxas e Dicas",
         "image": "https://forbes.com.br/wp-content/uploads/2025/06/Life_1.O-Global-7500-da-Bombardier-certificado-em-2018-e-o-maior-jato-executivo-do-mundo-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cafe-01_jan_26_Getty-1-300x200.jpg",
         "date": "02/01/2026",
         "description": "Segundo o especialista, o tema é fundamental para a indústria de mineração na Argentina e também em países como Estados Unidos e Canadá"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2026/01/a-nova-era-dos-coqueteis-como-sera-o-consumo-a-experiencia-e-a-cultura-do-beber-em-2026/",
-        "title": "Mini Martinis, Daycaps e Bares Sem Celular: As Tendências de Coquetéis para 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Os-mini-martinis-continuam-a-ser-uma-grande-tendencia-em-2026-ja-que-as-pessoas-apreciam-bebidas-para-o-dia-a-dia-e-com-menor-teor-alcoolico-300x200.jpg",
-        "date": "02/01/2026",
-        "description": "Novo relatório da Bacardi aponta como hábitos de consumo, mixologia e experiências vão transformar os bares no próximo ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/por-que-mais-pessoas-estao-recorrendo-a-ia-para-conexao-emocional/",
-        "title": "Por Que Mais Pessoas Estão Recorrendo À IA para Conexão Emocional?",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/0x0-300x200.webp",
-        "date": "01/01/2026",
-        "description": "Histórias de pessoas que usam chatbots de IA como terapeutas já não são exemplos isolados"
     }
 ]
