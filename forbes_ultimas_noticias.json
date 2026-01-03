@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2026/01/eua-atacam-venezuela-e-trump-diz-ter-capturado-maduro/",
+        "title": "EUA Atacam Venezuela, e Trump Diz Ter Capturado Maduro",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Donald-Trumo-300x200.jpg",
+        "date": "03/01/2026",
+        "description": "Presidente venezuelano é acusado pelos americanos de administrar um \"narcoestado\" e de fraudar a eleição de 2024"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/mercedes-maybach-v12-edition-por-dentro-do-seda-mais-exclusivo-da-marca/",
         "title": "Mercedes-Maybach V12 Edition: por Dentro do Sedã Mais Exclusivo da Marca",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/1920_25c0251_001-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Por-do-sol-na-regiao-de-Red-Mountain-no-estado-de-Washington_02jjan25_Getty-300x200.jpg",
         "date": "03/01/2026",
         "description": "Conheça a história de Red Mountain, no Estado Washington, que parecia um deserto estéril, com areia marrom a perder de vista, onde um grupo de viticultores apostaram no que a terra poderia dar"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2026/01/vitorias-climaticas-que-perdemos-como-2025-transformou-mercados-tecnologia-e-politicas/",
-        "title": "Vitórias Climáticas Que Perdemos: Como 2025 Transformou Mercados, Tecnologia e Políticas",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_-01_jan_26_Getty-300x200.jpg",
-        "date": "03/01/2026",
-        "description": "Ano marcou uma inflexão silenciosa, com capital migrando para energia limpa, redução de emissões associadas ao uso da terra, avanços tecnológicos e políticas públicas redesenhando o rumo da economia global"
     }
 ]
