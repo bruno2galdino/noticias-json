@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/petroleo-sob-pressao-por-que-o-mercado-pode-cair-com-o-ataque-dos-eua-a-venezuela/",
+        "title": "Petróleo sob Pressão: Por Que o Mercado Pode Cair com o Ataque dos EUA à Venezuela",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_-01_jan_26_Getty-1-300x200.jpg",
+        "date": "03/01/2026",
+        "description": "Como a possível mudança de regime nesse país tende a ampliar a oferta em um mercado já excedente, reduzindo o prêmio de risco e pressionando os preços internacionais"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2026/01/repercussao-brasil-russia-e-ira-condenam-ataques-a-venezuela-milei-comemora/",
+        "title": "Repercussão: Brasil, Rússia e Irã Condenam Ataques À Venezuela; Milei Comemora",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Milei-300x200.jpg",
+        "date": "03/01/2026",
+        "description": "Chefe de política externa da União Europeia cobrou \"moderação\" após Trump capturar o lider venezuelano Nicolás Maduro"
+    },
+    {
         "url": "https://forbes.com.br/geral/2026/01/eua-atacam-venezuela-e-trump-diz-ter-capturado-maduro/",
         "title": "EUA Atacam Venezuela, e Trump Diz Ter Capturado Maduro",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Donald-Trumo-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cafe-01_jan_26_Getty-300x200.jpg",
         "date": "03/01/2026",
         "description": "Conheça as super máquinas que fazem tudo por um grão de qualidade, entre elas uma suíça que custa R$ 27 mil"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/bilionarios-da-tecnologia-que-mais-venderam-acoes-em-2025/",
-        "title": "Bilionários da Tecnologia Que Mais Venderam Ações em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2-1-300x200.jpg",
-        "date": "03/01/2026",
-        "description": "Alguns dos magnatas usam o capital para criar novas empresas de IA, enquanto outros aproveitam o hype para realizar lucros"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/regiao-de-cabernet-sauvignon-mais-bem-avaliada-nasce-de-uma-pequena-comunidade-de-produtores/",
-        "title": "Região de Cabernet Sauvignon Mais Bem Avaliada Nasce de uma Pequena Comunidade de Produtores",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Por-do-sol-na-regiao-de-Red-Mountain-no-estado-de-Washington_02jjan25_Getty-300x200.jpg",
-        "date": "03/01/2026",
-        "description": "Conheça a história de Red Mountain, no Estado Washington, que parecia um deserto estéril, com areia marrom a perder de vista, onde um grupo de viticultores apostaram no que a terra poderia dar"
     }
 ]
