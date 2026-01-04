@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2026/01/papa-leao-pede-que-venezuela-permaneca-um-pais-independente/",
+        "title": "Papa Leão Pede Que Venezuela Permaneça um País Independente",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/vaticano-papa-leao-300x200.jpg",
+        "date": "04/01/2026",
+        "description": "Leão, o primeiro papa norte-americano, também pediu respeito ao Estado de direito \"conforme consagrado\" na constituição do país latino"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/casa-branca-divulga-primeiras-imagens-de-nicolas-maduro-em-nova-york/",
+        "title": "Casa Branca Divulga Primeiras Imagens de Nicolás Maduro em Nova York",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Nicolas-Maduro-300x200.png",
+        "date": "04/01/2026",
+        "description": "O presidente venezuelano foi transferido para os EUA após captura em Caracas"
+    },
+    {
         "url": "https://forbes.com.br/last/2026/01/china-exige-libertacao-de-maduro-e-eleva-tensao-diplomatica-com-washington/",
         "title": "China Exige Libertação de Maduro e Eleva Tensão Diplomática com Washington",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Xi-Jinping_China-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.A-imensa-Big-Sky-em-Montana-e-a-estancia-de-esqui-mais-badalada-dos-Estados-Unidos-e-neste-inverno-abriga-um-dos-hoteis-de-esqui-mais-sofisticados-do-mundo-300x200.jpg",
         "date": "04/01/2026",
         "description": "De resorts históricos revitalizados a estreias aguardadas nas montanhas mais disputadas do mundo, uma seleção dos endereços que elevam o padrão da hotelaria alpina"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/laos-o-destino-asiatico-que-vale-conhecer-agora-antes-de-todo-mundo/",
-        "title": "O Destino Asiático Que Vale Conhecer Agora — Antes de Todo Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Life_0.Fotografia-aerea-da-cidade-de-Luang-Prabang-patrimonio-da-UNESCO-no-Laos-Sudeste-Asiatico-300x200.jpg",
-        "date": "04/01/2026",
-        "description": "Patrimônio Mundial da Unesco, essa cidade no Laos combina gastronomia autoral, arquitetura preservada e experiências culturais autênticas, do café aos tecidos de primeira"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2026/01/conheca-o-homem-mais-importante-do-uisque-americano/",
-        "title": "Conheça o Homem Mais Importante do Uísque Americano",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/TJ-Gamble_-03jan26_-Brewzle_-03_jan_26_Getty-300x200.jpg",
-        "date": "04/01/2026",
-        "description": "Um youtuber hoje parece atrair mais atenção e exercer mais influência do que alguns dos maiores produtores de uísque dos Estados Unidos. Então por que a indústria se recusa a abraçá-lo?"
     }
 ]
