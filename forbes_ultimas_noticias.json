@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2026/01/superlua-de-2026-veja-fotos-da-primeira-lua-cheia-do-ano-ao-redor-do-planeta/",
+        "title": "Veja Fotos da Primeira Lua Cheia do Ano Ao Redor do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/bark-airlines-7-300x200.png",
+        "date": "04/01/2026",
+        "description": "A Lua do Lobo marcou a primeira lua cheia de 2026, iluminando o Hemisfério Norte como a última superlua da atual sequência"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/opep-mantem-producao-de-petroleo-estavel-em-meio-a-turbulencia-entre-integrantes/",
+        "title": "Opep+ Mantém Produção de Petróleo Estável em Meio À Turbulência entre Integrantes",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/05/Opep-Petroleo-300x200.jpg",
+        "date": "04/01/2026",
+        "description": "A reunião de domingo dos oito integrantes da Opep+ ocorreu depois que os preços do petróleo caíram mais de 18% em 2025"
+    },
+    {
         "url": "https://forbes.com.br/geral/2026/01/papa-leao-pede-que-venezuela-permaneca-um-pais-independente/",
         "title": "Papa Leão Pede Que Venezuela Permaneça um País Independente",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/vaticano-papa-leao-300x200.jpg",
@@ -9,7 +23,7 @@
     {
         "url": "https://forbes.com.br/forbes-money/2026/01/casa-branca-divulga-primeiras-imagens-de-nicolas-maduro-em-nova-york/",
         "title": "Casa Branca Divulga Primeiras Imagens de Nicolás Maduro em Nova York",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Nicolas-Maduro-300x200.png",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Design-sem-nome-2-300x200.png",
         "date": "04/01/2026",
         "description": "O presidente venezuelano foi transferido para os EUA após captura em Caracas"
     },
@@ -28,7 +42,7 @@
         "description": "Embora inesperada, a ação vinha sendo planejada há meses e envolveu ensaios minuciosos de uma das operações mais complexas dos EUA nos últimos anos"
     },
     {
-        "url": "https://forbes.com.br/forbesagro/2026/01/venezuela/",
+        "url": "https://forbes.com.br/forbes-money/2026/01/venezuela/",
         "title": "Sanções, Comida e Poder: Como o Agro Brasileiro Abastece a Venezuela",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_Venezuela_-03_jan_26_Getty-300x200.jpg",
         "date": "04/01/2026",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Money_petroleo-03_jan_26_Getty-1-300x200.jpg",
         "date": "04/01/2026",
         "description": "Da queda do padrão-ouro à crise venezuelana, uma linha histórica mostra como a defesa da moeda moldou intervenções, sanções e disputas geopolíticas em torno da energia"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/aposentadoria-o-que-aposentados-sabem-sobre-gastar-dinheiro/",
-        "title": "Aposentadoria: o Que Aposentados Felizes Sabem sobre Gastar Dinheiro",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2-2-300x200.jpg",
-        "date": "04/01/2026",
-        "description": "Superar a barreira mental da transição entre poupar e gastar geralmente exige um plano de aposentadoria por escrito e uma estratégia eficaz"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/os-novos-hoteis-de-esqui-que-estao-redefinindo-o-luxo-na-temporada-de-inverno/",
-        "title": "10 Novos Hotéis de Esqui para Conhecer Nesta Temporada de Inverno",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.A-imensa-Big-Sky-em-Montana-e-a-estancia-de-esqui-mais-badalada-dos-Estados-Unidos-e-neste-inverno-abriga-um-dos-hoteis-de-esqui-mais-sofisticados-do-mundo-300x200.jpg",
-        "date": "04/01/2026",
-        "description": "De resorts históricos revitalizados a estreias aguardadas nas montanhas mais disputadas do mundo, uma seleção dos endereços que elevam o padrão da hotelaria alpina"
     }
 ]
