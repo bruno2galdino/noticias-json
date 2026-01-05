@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/ibovespa-termina-o-dia-em-alta-firme-impulsionado-por-bancos/",
+        "title": "Ibovespa Termina o Dia em Alta Firme Impulsionado por Bancos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "05/01/2026",
+        "description": "Investidores monitoram os desdobramentos da captura do presidente da Venezuela, Nicolás Maduro"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/de-arabia-saudita-da-america-latina-ao-colapso-como-a-venezuela-entrou-em-uma-das-maiores-crises-economicas-do-mundo/",
+        "title": "Como a Venezuela Entrou em uma das Maiores Crises Econômicas do Mundo?",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2-5-300x200.jpg",
+        "date": "05/01/2026",
+        "description": "Um país onde a riqueza parecia inesgotável e a exploração do petróleo sustentava a economia, a Venezuela já foi sinônimo de desenvolvimento"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2026/01/trabalho-remoto-4-indicios-de-que-esse-modelo-combina-com-voce/",
         "title": "Trabalho Remoto: 4 Indícios de Que Esse Modelo Combina com Você",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-2195109144-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/ceo-loggi-300x200.jpg",
         "date": "05/01/2026",
         "description": "Executiva sucede Thibaud Lecuyer, que esteve à frente da companhia nos últimos seis anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/vietna-registra-salto-de-59-na-receita-com-exportacao-de-cafe-em-2025/",
-        "title": "Vietnã Registra Salto de 59% na Receita com Exportação de Café em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cafe_colheita_01.12.2025-1-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Maior produtor mundial de robusta amplia faturamento em quase 60% com valorização da commodity em 2025"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/importacao-indiana-de-oleo-de-palma-atinge-minima-de-8-meses-com-avanco-da-soja/",
-        "title": "Importação Indiana de Óleo de Palma Atinge Mínima de 8 Meses",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_oleo_de_palma_malasia_foto_Reuters_05.01.2026-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Desembarques do produto atingiram 507 mil toneladas, enquanto óleos concorrentes ganharam espaço"
     }
 ]
