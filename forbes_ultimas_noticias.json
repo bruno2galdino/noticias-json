@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2026/01/importacao-indiana-de-oleo-de-palma-atinge-minima-de-8-meses-com-avanco-da-soja/",
+        "title": "Importação Indiana de Óleo de Palma Atinge Mínima de 8 Meses",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_oleo_de_palma_malasia_foto_Reuters_05.01.2026-300x200.jpg",
+        "date": "05/01/2026",
+        "description": "Desembarques do produto atingiram 507 mil toneladas, enquanto óleos concorrentes ganharam espaço"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/acoes-da-chevron-e-de-refinarias-dos-eua-sobem-apos-medida-de-trump-sobre-petroleo-da-venezuela/",
         "title": "Ações da Chevron e de Refinarias dos EUA Sobem após Trump e Venezuela",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Logo-da-Chevron.-Houston-Texas-Estados-Unidos-300x200.jpg",
@@ -49,7 +56,7 @@
         "description": "No ano passado, diversas pesquisas voltaram a demonstrar o poder da alimentação sobre o corpo; confira"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/como-o-novo-ceo-da-azimut-brasil-quer-ampliar-o-estaleiro-nos-proximos-5-anos/",
+        "url": "https://forbes.com.br/forbeslife/2026/01/como-o-novo-ceo-da-azimut-brasil-quer-ampliar-o-estaleiro-nos-proximos-5-anos/",
         "title": "Como o Novo CEO da Azimut Brasil Quer Ampliar o Estaleiro nos Próximos 5 Anos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Carlo-Alberto-Sisto_CEO-Azimut-do-Brasil_3-1-300x200.jpg",
         "date": "05/01/2026",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/2-300x200.jpg",
         "date": "05/01/2026",
         "description": "Após superar os papéis dos EUA pela primeira vez em quase uma década, fatores favoráveis reforçam a tese de que o rali pode se estender para este ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/queda-da-selic-e-credito-mais-farto-devem-marcar-novo-ciclo-do-mercado-imobiliario/",
-        "title": "Queda da Selic e Crédito Mais Farto Devem Marcar Novo Ciclo do Mercado Imobiliário",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-13-1-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "A expectativa de queda dos juros, o reforço do FGTS e a expansão do crédito habitacional sustentam um cenário mais favorável para o setor em 2026"
     }
 ]
