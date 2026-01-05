@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/acoes-da-chevron-e-de-refinarias-dos-eua-sobem-apos-medida-de-trump-sobre-petroleo-da-venezuela/",
+        "title": "Ações da Chevron e de Refinarias dos EUA Sobem após Trump e Venezuela",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Logo-da-Chevron.-Houston-Texas-Estados-Unidos-300x200.jpg",
+        "date": "05/01/2026",
+        "description": "Investidores esperam que as empresas norte-americanas tenham maior acesso às maiores reservas de petróleo do mundo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/uniao-pet-formada-por-petz-e-cobasi-estreia-na-bolsa-com-ticker-auau3/",
+        "title": "União Pet, Formada por Petz e Cobasi, Estreia na Bolsa com Ticker AUAU3",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-2-300x200.jpg",
+        "date": "05/01/2026",
+        "description": "Conclusão da operação foi anunciada na última sexta-feira (02)"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/titulos-do-governo-da-venezuela-disparam-apos-captura-de-maduro-pelos-eua/",
+        "title": "Títulos do Governo da Venezuela Disparam após Captura de Maduro Pelos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Mural-perto-da-sede-da-PDVSA-em-Caracas-300x200.jpg",
+        "date": "05/01/2026",
+        "description": "Títulos emitidos pelo governo do país e pela empresa estatal de petróleo PDVSA chegaram a subir cerca de 20%"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2026/01/gpa-elege-alexandre-de-jesus-santoro-como-ceo/",
+        "title": "GPA Elege Alexandre de Jesus Santoro Como CEO",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/alexandre-de-jesus-santoro-imc-300x200.jpg",
+        "date": "05/01/2026",
+        "description": "Executivo atuava como diretor-presidente da International Meal Company, a qual informou mais cedo a sua renúncia ao cargo"
+    },
+    {
         "url": "https://forbes.com.br/brand-voice/2026/01/brandvoice-singularity-brazil-o-que-voce-construiu-em-2025/",
         "title": "O que Você Construiu em 2025?",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Singularity-Br-Destaque-300x200.png",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/Tamanho-site-Tech-13-1-300x200.jpg",
         "date": "05/01/2026",
         "description": "A expectativa de queda dos juros, o reforço do FGTS e a expansão do crédito habitacional sustentam um cenário mais favorável para o setor em 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/os-restaurantes-mais-interessantes-para-conhecer-pelo-mundo-em-2026/",
-        "title": "Os Restaurantes Mais Interessantes para Comer Pelo Mundo em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.LuMi-em-Sydney-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Chefs, curadores e viajantes profissionais contaram à Forbes os endereços que estão no seu radar de novidades gastronômicas para este ano"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/de-wearables-a-medicamentos-para-perda-de-peso-4-tendencias-de-bem-estar-que-devem-moldar-a-forca-de-trabalho-em-2026/",
-        "title": "4 Tendências de Bem-Estar Que Devem Moldar a Força de Trabalho em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/tendencias-de-bem-estar-no-trabalho-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Veja os temas de saúde e bem-estar que devem estar em alta no mundo corporativo no próximo ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/10-invencoes-inusitadas-da-ces-2026-que-podem-ser-premiadas-nos-proximos-dias/",
-        "title": "10 Invenções Inusitadas da CES 2026 Que Podem Ser Premiadas nos Próximos Dias",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Holobox-Holobox-Mini-2500x1667-1-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Em meio a dezenas de projetos inscritos no Innovation Awards, premiação da Consumer Electronics Show, que ocorre esta semana, em Las Vegas, um sistema de projeção holográfica em tamanho real"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2026/01/25-novos-vinhos-argentinos-lancados-em-2025-nas-prateleiras-de-2026/",
-        "title": "25 Vinhos Argentinos Lançados em 2025, nas Prateleiras de 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Secretario-geral-da-ONU-Antonio-Guterres_03-jan-26David-Dee-Delgado-1-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Novos rótulos, projetos que estreiam, estilos que se consolidam e tendências que começam a ganhar forma em um contexto desafiador para a indústria"
     }
 ]
