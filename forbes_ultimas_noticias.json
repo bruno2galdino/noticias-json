@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/analistas-fazem-pequenos-ajustes-nas-perspectivas-para-a-inflacao-em-1o-focus-do-ano/",
+        "title": "Analistas Fazem Pequenos Ajustes nas Perspectivas para a Inflação em 1º Focus do Ano",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2026-01-05T120810Z_1_LYNXMPEM040L2_RTROPTP_4_BACEN-FOCUS-300x200.jpg",
+        "date": "05/01/2026",
+        "description": "Projeções indicam leve alta da inflação para 2026, enquanto expectativa para 2027 segue estável pela nona semana consecutiva"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2026/01/loggi-anuncia-viviane-sales-como-nova-ceo/",
+        "title": "Loggi Anuncia Viviane Sales Como Nova CEO",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/ceo-loggi-300x200.jpg",
+        "date": "05/01/2026",
+        "description": "Executiva franco-brasileira sucede Thibaud Lecuyer, que esteve à frente da companhia nos últimos seis anos"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/vietna-registra-salto-de-59-na-receita-com-exportacao-de-cafe-em-2025/",
         "title": "Vietnã Registra Salto de 59% na Receita com Exportação de Café em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cafe_colheita_01.12.2025-1-300x200.jpg",
@@ -39,7 +53,7 @@
         "title": "GPA Elege Alexandre de Jesus Santoro Como CEO",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/alexandre-de-jesus-santoro-imc-300x200.jpg",
         "date": "05/01/2026",
-        "description": "Executivo atuava como diretor-presidente da International Meal Company, a qual informou mais cedo a sua renúncia ao cargo"
+        "description": "Executivo renunciou ao cargo de diretor-presidente da International Meal Company"
     },
     {
         "url": "https://forbes.com.br/brand-voice/2026/01/brandvoice-singularity-brazil-o-que-voce-construiu-em-2025/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "05/01/2026",
         "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 5 de janeiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/comida-e-ciencia-conheca-5-grandes-marcos-de-2025/",
-        "title": "Comida e Ciência: Conheça 5 Grandes Marcos de 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Andrea-Cecchi-1-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "No ano passado, diversas pesquisas voltaram a demonstrar o poder da alimentação sobre o corpo; confira"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/como-o-novo-ceo-da-azimut-brasil-quer-ampliar-o-estaleiro-nos-proximos-5-anos/",
-        "title": "Como o Novo CEO da Azimut Brasil Quer Ampliar o Estaleiro nos Próximos 5 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Carlo-Alberto-Sisto_CEO-Azimut-do-Brasil_3-1-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Carlo Alberto Sisto quer aumentar a produção em Santa Catarina, encurtar filas de espera e usar o Brasil como plataforma para a região"
     }
 ]
