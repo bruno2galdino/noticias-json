@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-cai-cinco-posicoes-e-comeca-a-temorada-em-29o-lugar.html",
+        "title": "Fonseca cai cinco posições e começa a temorada em 29º lugar",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/fonseca_brisbane_treina-1024x582.jpg",
+        "date": "05/01/2026",
+        "description": "Londres (Inglaterra) –A primeira atualização do ranking da ATP em 2026 teve uma queda de cinco posições para João Fonseca. O carioca de 19 anos e número 1 do Brasil inicia o ano na 29ª posição."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fritz-salva-match-point-e-empata-o-duelo-com-a-espanha.html",
+        "title": "Fritz salva match-point e empata o duelo com a Espanha",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/fritz-united-grita-2026.jpg",
+        "date": "05/01/2026",
+        "description": "Perth (Austrália)– Por muito pouco o espanhol Jaume Munar não surpreendeu o norte-americano Taylor Fritz nesta segunda-feira pela United Cup. O número 9 do mundo salvou um match point em um confronto decisivo, mantendo vivas as esperanças dos EUA de vencer o Grupo A."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/hurkacz-supera-zverev-e-conquista-sua-primeira-vitoria-em-sete-meses.html",
+        "title": "Hurkacz supera Zverev e conquista sua primeira vitória em sete meses",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/hurkacz-united-cup-grita-2026.jpg",
+        "date": "05/01/2026",
+        "description": "Sydney (Austrália)– Após ficar afastado por quase sete meses devido a uma lesão no joelho direito, o polonês Hubert Hurkacz não deixou dúvidas em seu retorno ao circuito e anotou uma grande vitória sobre o alemão Alexander Zverev, vencendo o número 3 do mundo com parciais de 6/3 e 6/4 nesta segunda-feira pela United Cup."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/pliskova-desiste-de-brisbane-e-adia-seu-inicio-de-temporada.html",
         "title": "Pliskova desiste de Brisbane e adia seu início de temporada",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/Karolina_Pliskova_-_Cincinnati_Open_2024_-_Day_3-DSC_4212_xgaplus.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/Barbora_Krejcikova_-_United_Cup_2026_-_Day_3-DSC_8848_xgaplus.jpg",
         "date": "05/01/2026",
         "description": "Sydney (Austrália)– Os tchecos Jakub Mensik e Barbora Krejcikova garantiram a vitória de sua equipe contra a Noruega na United Cup nesta segunda-feira. O resultado elimina a equipe norueguesa da competição e leva a definição do Grupo D para um duelo direto entre República Tcheca e Austrália na última rodada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/demoliner-comeca-a-temporada-com-vitoria-e-desafia-favoritos-nas-oitavas.html",
-        "title": "Demoliner começa a temporada com vitória e desafia favoritos nas oitavas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/demoliner-comemora-challenger-birmingham-1024x727.jpg",
-        "date": "04/01/2026",
-        "description": "Brisbane (Austrália)– A temporada de 2026 começou positiva para o gaúcho Marcelo Demoliner, que ao lado do francês Giovanni Perricard obteve uma grande vitória na estreia no ATP 250 de Brisbane, batendo a forte dupla do mexicano Santiago Gonzalez com o holandês Jean-Julien Rojer por 6/3, 4/6 e 10-7."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pigossi-e-martins-perdem-match-point-e-param-na-estreia-em-auckland.html",
-        "title": "Pigossi e Martins perdem match-point e param na estreia em Auckland",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/54774700011_de962cd63e_4k-scaled-e1767577451404-1024x683.jpg",
-        "date": "04/01/2026",
-        "description": "Auckland (Nova Zelândia)– Por pouco a dupla da paulista Laura Pigossi com a carioca Ingrid Martins não passou pela estreia no WTA 250 de Auckland. Nesta segunda-feira, elas foram derrotadas pela holandesa Isabelle Haverlag e a britânica Maia Lumsden com parciais de 6/2, 6/7 (1-7) e 12-10, em 1h53 de jogo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-anuncia-saida-da-ptpa-por-divergencias-de-governanca.html",
-        "title": "Djokovic anuncia saída da PTPA por divergências de governança",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/djokovic-wimbledon-seca-rosto-2025-1024x682.jpg",
-        "date": "04/01/2026",
-        "description": "Nova York (EUA)– Novak Djokovic anunciou neste domingo sua saída da Associação de Jogadores de Tênis Profissionais (PTPA), entidade que ele próprio ajudou a criar em 2020 ao lado do canadense Vasek Pospisil. A decisão marca o fim de um capítulo importante da atuação política do sérvio dentro do tênis profissional."
     }
 ]
