@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/brand-voice/2026/01/brandvoice-singularity-brazil-o-que-voce-construiu-em-2025/",
+        "title": "O que Você Construiu em 2025?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Singularity-Br-Destaque-300x200.png",
+        "date": "05/01/2026",
+        "description": "Em um ano que exigiu coragem, a verdadeira métrica de sucesso não está nos resultados trimestrais, mas nas escolhas que definem o legado que você quer deixar."
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-reacao-inicial-fraca-ao-sequestro-de-nicolas-maduro/",
         "title": "Pré-mercado: Reação Inicial Fraca À Prisão de Nicolás Maduro",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -43,7 +50,7 @@
     },
     {
         "url": "https://forbes.com.br/carreira/2026/01/de-wearables-a-medicamentos-para-perda-de-peso-4-tendencias-de-bem-estar-que-devem-moldar-a-forca-de-trabalho-em-2026/",
-        "title": "Quatro Tendências de Bem-Estar Que Devem Moldar a Força de Trabalho em 2026",
+        "title": "4 Tendências de Bem-Estar Que Devem Moldar a Força de Trabalho em 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/tendencias-de-bem-estar-no-trabalho-300x200.jpg",
         "date": "05/01/2026",
         "description": "Veja os temas de saúde e bem-estar que devem estar em alta no mundo corporativo no próximo ano"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Secretario-geral-da-ONU-Antonio-Guterres_03-jan-26David-Dee-Delgado-1-300x200.jpg",
         "date": "05/01/2026",
         "description": "Novos rótulos, projetos que estreiam, estilos que se consolidam e tendências que começam a ganhar forma em um contexto desafiador para a indústria"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/superlua-de-2026-veja-fotos-da-primeira-lua-cheia-do-ano-ao-redor-do-planeta/",
-        "title": "Veja Fotos da Primeira Lua Cheia do Ano Ao Redor do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/bark-airlines-7-300x200.png",
-        "date": "04/01/2026",
-        "description": "A Lua do Lobo marcou a primeira lua cheia de 2026, iluminando o Hemisfério Norte como a última superlua da atual sequência"
     }
 ]
