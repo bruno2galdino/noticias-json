@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2026/01/quem-e-delcy-rodriguez-nova-presidente-da-venezuela/",
+        "title": "Quem É Delcy Rodríguez, Nova Presidente da Venezuela?",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/mulher-delcy-rodriguez-venezuela-300x200.jpg",
+        "date": "05/01/2026",
+        "description": "Primeira mulher a governar o país assume o poder em meio à captura de Nicolás Maduro e negocia com Donald Trump"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/eleicoes-volatilidade-e-investimentos-o-que-2026-nos-reserva/",
+        "title": "Eleições, Volatilidade e Investimentos: O Que 2026 nos Reserva?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/GettyImages-1972341389-1-300x200.jpg",
+        "date": "05/01/2026",
+        "description": "Falar de política apenas sob a ótica do curto prazo é um erro comum e que pode custar caro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2026/01/samsung-dobrara-numero-de-dispositivos-moveis-com-ia-para-800-milhoes-de-unidades-este-ano/",
         "title": "Samsung Dobrará Número de Dispositivos Móveis com IA para 800 Milhões de Unidades Este Ano",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Chips-samsung-openai-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Mural-perto-da-sede-da-PDVSA-em-Caracas-300x200.jpg",
         "date": "05/01/2026",
         "description": "Títulos emitidos pelo governo do país e pela empresa estatal de petróleo PDVSA chegaram a subir cerca de 20%"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/gpa-elege-alexandre-de-jesus-santoro-como-ceo/",
-        "title": "GPA Elege Alexandre de Jesus Santoro Como CEO",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/alexandre-de-jesus-santoro-imc-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Executivo renunciou ao cargo de diretor-presidente da International Meal Company"
-    },
-    {
-        "url": "https://forbes.com.br/brand-voice/2026/01/brandvoice-singularity-brazil-o-que-voce-construiu-em-2025/",
-        "title": "O que Você Construiu em 2025?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Singularity-Br-Destaque-300x200.png",
-        "date": "05/01/2026",
-        "description": "Em um ano que exigiu coragem, a verdadeira métrica de sucesso não está nos resultados trimestrais, mas nas escolhas que definem o legado que você quer deixar."
     }
 ]
