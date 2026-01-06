@@ -1,72 +1,72 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/bmw-alpina-chega-para-brigar-com-mercedes-amg-veja-o-que-esperar/",
+        "title": "BMW Alpina Chega para Brigar com Mercedes-AMG? Veja o Que Esperar",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/P90458171_highRes_the-new-bmw-i7-xdriv-1-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "Segundo a montadora alemã, a Alpina ficará posicionada entre a própria BMW e a Rolls-Royce"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2026/01/as-companhias-aereas-mais-pontuais-do-mundo-em-2025/",
+        "title": "As Companhias Aéreas Mais Pontuais do Mundo em 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Life_aviao_companhias-aereas-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "Pelo segundo ano consecutivo, uma empresa latino-americana lidera ranking, que também tem aéreas brasileiras em destaque; veja top 10"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2026/01/dez-prompts-de-ia-para-te-ajudar-a-cumprir-as-metas-de-2026/",
+        "title": "Dez Prompts de IA para te Ajudar a Cumprir as Metas de 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-2190935431-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "Prompts certos podem tornar a inteligência artificial uma aliada real na conquista de metas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2026/01/conheca-o-caso-de-neuro-sama-a-streamer-de-ia-que-lidera-assinaturas-no-twitch/",
+        "title": "Conheça o Caso de Neuro-Sama, a Streamer de IA Que Lidera Assinaturas no Twitch",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Neuro_Sama-300x200.png",
+        "date": "06/01/2026",
+        "description": "Avatar digital criado por inteligência artificial reacende debates sobre autenticidade e futuro das transmissões ao vivo"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/reforma-tributaria-eleva-o-custo-de-transmitir-imoveis-e-pressiona-a-alta-renda/",
+        "title": "Reforma Tributária Eleva o Custo de Transmitir Imóveis e Pressiona a Alta Renda",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-19-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "Imóveis, herança e holdings entram no centro da nova tributação patrimonial, com impacto direto sobre sucessão e planejamento da alta renda"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/11-clubes-de-assinatura-premium-do-agro-brasileiro-que-vao-ao-produtor/",
+        "title": "11 Clubes de Assinatura Premium do Agro Brasileiro Que Vão Ao Produtor",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_assinaturas_cafe_vinho_queijo_06.01.2026-3-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "Vinhos, cafés, carnes, queijos e chocolates que transformam recorrência em valor, origem e margem para o campo"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2026/01/quer-trabalhar-no-palacio-de-buckingham-familia-real-abre-vaga-para-responder-cartas/",
+        "title": "Quer Trabalhar no Palácio de Buckingham? Família Real Abre Nova Vaga",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/palacio-de-buckingham-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "Cargo de oficial sênior de correspondência oferece salário anual de 32 mil libras e almoço na sede da monarquia britânica"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/o-que-aconteceu-com-os-precos-do-petroleo-apos-o-ataque-dos-eua-a-venezuela/",
+        "title": "Por Que o Preço do Petróleo Não Despencou após Ataque dos EUA À Venezuela?",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Money_petroleo-03_jan_26_Getty-1-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "Veja as projeções para a commodity no curto, médio e longo prazo, segundo analistas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2026/01/elite-da-ia-brasileira-veja-as-10-startups-prontas-para-captacoes-de-ate-us-100-milhoes-em-2026/",
+        "title": "Elite da IA Brasileira: Veja as 10 Startups Prontas para Captações de até US$ 100 Milhões em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Blip_Ceo-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "De acordo com levantamento da Value Capital Advisors, a pedido da Forbes Brasil, o Sudeste ainda é o epicentro de empresas promissoras em IA; saude, agro e logística aparecem com força"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/ibovespa-termina-o-dia-em-alta-firme-impulsionado-por-bancos/",
         "title": "Ibovespa Termina o Dia em Alta Firme Impulsionado por Bancos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
         "date": "05/01/2026",
         "description": "Investidores monitoram os desdobramentos da captura do presidente da Venezuela, Nicolás Maduro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/de-arabia-saudita-da-america-latina-ao-colapso-como-a-venezuela-entrou-em-uma-das-maiores-crises-economicas-do-mundo/",
-        "title": "Como a Venezuela Entrou em uma das Maiores Crises Econômicas do Mundo?",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2-5-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Um país onde a riqueza parecia inesgotável e a exploração do petróleo sustentava a economia, a Venezuela já foi sinônimo de desenvolvimento"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/trabalho-remoto-4-indicios-de-que-esse-modelo-combina-com-voce/",
-        "title": "Trabalho Remoto: 4 Indícios de Que Esse Modelo Combina com Você",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-2195109144-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "A ciência mostra por que o trabalho remoto pode ser o ambiente ideal para produtividade e bem-estar"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/setor-petrolifero-venezuelano-pode-atrair-investimentos-de-us-100-bilhoes/",
-        "title": "Setor Petrolífero Venezuelano Pode Atrair Investimentos de US$ 100 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2018/06/plataforma-petroleo_iStock-1.jpg",
-        "date": "05/01/2026",
-        "description": "Infraestrutura petrolífera da Venezuela levaria anos — e possivelmente centenas de bilhões de dólares — para se aproximar de sua antiga capacidade, no melhor ambiente de investimentos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/mato-grosso-confirma-saida-da-abiove-da-moratoria-da-soja/",
-        "title": "Mato Grosso Confirma Saída da Abiove da Moratória da Soja",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_soja_colheita_foto_FlavioBeneditoConceicao-Getty-Images_19.11.2025-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Decisão ocorre após nova legislação impedir benefícios fiscais para processadoras de soja  no estado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2026/01/quem-e-delcy-rodriguez-nova-presidente-da-venezuela/",
-        "title": "Quem É Delcy Rodríguez, Nova Presidente da Venezuela?",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/mulher-delcy-rodriguez-venezuela-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Primeira mulher a governar o país assume o poder em meio à captura de Nicolás Maduro e negocia com Donald Trump"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/eleicoes-volatilidade-e-investimentos-o-que-2026-nos-reserva/",
-        "title": "Eleições, Volatilidade e Investimentos: O Que 2026 nos Reserva?",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/GettyImages-1972341389-1-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Falar de política apenas sob a ótica do curto prazo é um erro comum e que pode custar caro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/samsung-dobrara-numero-de-dispositivos-moveis-com-ia-para-800-milhoes-de-unidades-este-ano/",
-        "title": "Samsung Dobrará Número de Dispositivos Móveis com IA para 800 Milhões de Unidades Este Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Chips-samsung-openai-300x200.png",
-        "date": "05/01/2026",
-        "description": "Samsung aposta em serviços integrados de IA para ampliar vantagem sobre a Apple no mercado de smartphones."
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/analistas-fazem-pequenos-ajustes-nas-perspectivas-para-a-inflacao-em-1o-focus-do-ano/",
-        "title": "Analistas Fazem Pequenos Ajustes nas Perspectivas para a Inflação em 1º Focus do Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2026-01-05T120810Z_1_LYNXMPEM040L2_RTROPTP_4_BACEN-FOCUS-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Projeções indicam leve alta da inflação para 2026, enquanto expectativa para 2027 segue estável pela nona semana consecutiva"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/loggi-anuncia-viviane-sales-como-nova-ceo/",
-        "title": "Loggi Anuncia Viviane Sales Como Nova CEO",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/ceo-loggi-300x200.jpg",
-        "date": "05/01/2026",
-        "description": "Executiva sucede Thibaud Lecuyer, que esteve à frente da companhia nos últimos seis anos"
     }
 ]
