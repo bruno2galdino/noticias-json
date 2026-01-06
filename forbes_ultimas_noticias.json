@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/btg-pactual-inicia-operacao-como-banco-nos-estados-unidos/",
+        "title": "BTG Pactual Inicia Operação Como Banco nos Estados Unidos",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/04/btg-pactual-banco-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "Banco de investimento concluiu a aquisição do M.Y. Safra Bank e obteve licença bancária no país"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2026/01/google-cloud-nomeia-milena-leal-como-country-manager-no-brasil/",
+        "title": "Google Cloud Nomeia Milena Leal Como Country Manager no Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Milena-Leal-Country-Manager-do-Google-Cloud-Brasil-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "Com passagens por SAP e Oracle, executiva é promovida ao novo cargo após cinco anos na companhia"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-apos-prisao-de-maduro-atencao-a-atividade-economica/",
         "title": "Pré-mercado: após Prisão de Maduro, Atenção À Atividade Econômica",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/palacio-de-buckingham-300x200.jpg",
         "date": "06/01/2026",
         "description": "Cargo de oficial sênior de correspondência oferece salário anual de 32 mil libras e almoço na sede da monarquia britânica"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/o-que-aconteceu-com-os-precos-do-petroleo-apos-o-ataque-dos-eua-a-venezuela/",
-        "title": "Por Que o Preço do Petróleo Não Despencou após Ataque dos EUA À Venezuela?",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Money_petroleo-03_jan_26_Getty-1-300x200.jpg",
-        "date": "06/01/2026",
-        "description": "Veja as projeções para a commodity no curto, médio e longo prazo, segundo analistas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/elite-da-ia-brasileira-veja-as-10-startups-prontas-para-captacoes-de-ate-us-100-milhoes-em-2026/",
-        "title": "Elite da IA Brasileira: Veja as 10 Startups Prontas para Captações de até US$ 100 Milhões em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Blip_Ceo-300x200.jpg",
-        "date": "06/01/2026",
-        "description": "De acordo com levantamento da Value Capital Advisors, a pedido da Forbes Brasil, o Sudeste ainda é o epicentro de empresas promissoras em IA; saude, agro e logística aparecem com força"
     }
 ]
