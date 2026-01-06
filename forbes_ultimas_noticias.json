@@ -1,6 +1,13 @@
 [
     {
-        "url": "https://forbes.com.br/forbeslife/2026/01/latam-pass-e-revo-revolucionam-viagens-executivas-em-sp-de-helicoptero-ao-aeroporto-em-8-minutos/",
+        "url": "https://forbes.com.br/forbes-money/2026/01/ibovespa-fecha-em-alta-com-maior-apetite-ao-risco/",
+        "title": "Ibovespa Fecha em Alta com Maior Apetite Ao Risco; Vale e Bancos Avançam",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/01/Acoes_Ibovespa_Mercado.jpg",
+        "date": "06/01/2026",
+        "description": "Índice de referência do mercado acionário brasileiro subiu 1,11%, a 163.663,88 pontos"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2026/01/brandvoice-latam-pass-e-revo-revolucionam-viagens-executivas-em-sp-de-helicoptero-ao-aeroporto-em-8-minutos/",
         "title": "LATAM Pass e Revo revolucionam viagens executivas em SP: de helicóptero ao aeroporto em 8 minutos",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Revo-300x200.jpg",
         "date": "06/01/2026",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_protesto_acordo_mercosul-ue_06.01.2026-300x200.jpg",
         "date": "06/01/2026",
         "description": "Bloco busca maioria qualificada para autorizar assinatura do tratado comercial em 12 de janeiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/ces-2026-apresenta-as-tres-macrotendencias-que-dominarao-a-tecnologia-este-ano/",
-        "title": "CES 2026: As Três Macrotendências Que Dominarão a Tecnologia Este Ano",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tomate-300x200.jpg",
-        "date": "06/01/2026",
-        "description": "De acordo com novos dados da CTA (Consumer Technology Association), o mercado global de tecnologia de consumo e bens duráveis deve atingir a marca de US$ 1,3 trilhão em 2026"
     }
 ]
