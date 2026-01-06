@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2026/01/stonex-eleva-em-02-previsao-de-safra-2025-26-de-soja-do-brasil/",
+        "title": "Stonex Eleva em 0,2% Previsão de Safra 2025/26 de Soja do Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_soja_colheita_foto_FlavioBeneditoConceicao-Getty-Images_19.11.2025-300x200.jpg",
+        "date": "06/01/2026",
+        "description": "A estimativa é de que cerca de 70% da produção nacional seja colhida até metade de março"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/entregas-de-fertilizantes-no-brasil-cresceram-84-em-2025-ate-outubro-diz-anda/",
         "title": "Entregas de Fertilizantes no Brasil Cresceram 8,4% em 2025 até Outubro, Diz Anda",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-21-300x200.jpg",
@@ -8,7 +15,7 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2026/01/quem-e-o-unico-bilionario-da-venezuela-segundo-a-forbes/",
-        "title": "Quem É o Único Bilionário da Venezuela?",
+        "title": "Sem Petróleo: Quem É o Único Bilionário da Venezuela na Lista da Forbes",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/2-6-300x200.jpg",
         "date": "06/01/2026",
         "description": "Fortuna de Juan Carlos Escotet não está relacionada ao mercado de petróleo. Conheça sua história"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/CES_2026_LEGO-300x200.png",
         "date": "06/01/2026",
         "description": "Com parceria de Star Wars, novidade transforma construções em experiências vivas, inaugurando uma nova era de brinquedos inteligentes"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/embarque-de-soja-brasileira-atinge-1086-milhoes-de-toneladas-e-bate-recorde-em-2025/",
-        "title": "Exportação de Soja Brasileira Atinge 108,6 Milhões de Toneladas em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_soja_22.12.2025-1-300x200.jpg",
-        "date": "06/01/2026",
-        "description": "Dados da Cargonave mostram que a demanda chinesa e a safra recorde impulsionaram o escoamento nos portos"
     }
 ]
