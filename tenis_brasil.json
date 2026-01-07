@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/wawrinka-se-orgulha-da-equipe-suica-na-united-cup-e-enaltece-bencic.html",
-        "title": "Wawrinka se orgulha da equipe suíça na United Cup e enaltece Bencic",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/wawrinka_jakub_bencic-1024x709.jpg",
-        "date": "07/01/2026",
-        "description": "Perth (Austrália) –Em temporada de despedida do circuito profissional, Stan Wawrinka se orgulha da grande campanha que a equipe suíça faz na United Cup, jágarantida na semifinaldepois de vencer a Argentina nesta quarta-feira. E o veterano de 40 anos não esconde que Belinda Bencic tem sido uma peça fundamental para o time."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/aprendi-muito-sobre-como-lidar-com-a-pressao-diz-andreeva.html",
         "title": "“Aprendi muito sobre como lidar com a pressão”, diz Andreeva",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/andreeva-sorri-exibicao-macau-2025-1024x684.jpg",
@@ -16,7 +9,7 @@
     {
         "url": "https://tenisbrasil.uol.com.br/suica-vence-nas-duplas-mistas-e-garante-vaga-na-semifinal-da-united-cup.html",
         "title": "Suíça vence nas duplas mistas e garante vaga na semifinal da United Cup",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bencic_unitedcup-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/jakub_paul_bencic_united-1024x565.jpg",
         "date": "07/01/2026",
         "description": "Perth (Austrália) –A Suíça é o segundo país classificado para as semifinais da United Cup, ao vencer a Argentina por 2 a 1 nesta quarta-feira em Perth. Após asvitórias de Belinda Bencic e Sebastian Baeznas partidas de simples, Bencic voltou à quadra ao lado de Jakub Paul para vencer Maria Lourdes Carlé e Guido Andreozzi por duplo 6/3."
     },
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bergs_unitedcup_estica-1024x670.jpg",
         "date": "07/01/2026",
         "description": "Brisbane (Austrália) –O confronto entre Bélgica e República Tcheca vai definir mais um semifinalista na United Cup. Os dois países se enfrentam a partir das 3h30 (de Brasília) e vencedor pode enfrentar Suíça ou Argentina na semifinal."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/anisimova-vence-com-tranquilidade-andreeva-enfrenta-noskova.html",
+        "title": "Anisimova vence com tranquilidade, Andreeva enfrenta Noskova",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/anisimova_brisbane_fore.jpg",
+        "date": "07/01/2026",
+        "description": "Brisbane (Austrália) –Segunda cabeça de chave no WTA 500 de Brisbane, Amanda Anisimova iniciou a temporada com uma vitória tranquila. A número 3 do mundo superou a australiana Kimberly Birrell, 106ª do ranking, por 6/1 e 6/3 em 1h03 de partida."
     }
 ]

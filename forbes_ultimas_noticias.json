@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/brandvoice-unicred-economia-real-com-beneficios-de-alto-padrao/",
+        "title": "Economia Real com Benefícios de Alto Padrão",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/unicred-destaque-300x200.jpg",
+        "date": "07/01/2026",
+        "description": "Salas VIP ilimitadas com acompanhante, alta pontuação e spread zero colocam o Unicred Visa Infinite Privilege e o Ímpar Unicred Visa entre os destaques do país"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/como-o-ataque-a-venezuela-pode-ter-deixado-trump-mais-rico/",
         "title": "Como o Ataque À Venezuela Pode Ter Deixado Trump Mais Rico",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Tamanho-site-Tech-6-1-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_bovinos_de_corte_confinamento_07.01.2026-300x200.jpg",
         "date": "07/01/2026",
         "description": "Com avanço de 4% em 2025, produção brasileira supera volume dos EUA e equilibra preços globais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/tensao-geopolitica-e-incertezas-na-colombia-impulsionam-cotacao-do-cafe-arabica/",
-        "title": "Tensão Geopolítica e Incertezas na Colômbia Impulsionam Cotação do Café Arábica",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cafe_07.01.2026-300x200.jpg",
-        "date": "07/01/2026",
-        "description": "Arábica atinge US$ 3,8 na ICE refletindo receios de investidores com oferta colombiana"
     }
 ]
