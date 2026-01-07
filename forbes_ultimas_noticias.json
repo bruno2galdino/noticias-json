@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/ibovespa-fecha-em-queda-com-ajuste-e-exterior-negativo/",
+        "title": "Ibovespa Fecha em Queda com Ajuste e Exterior Negativo",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/08/carteira-recomendada-ibovespa-2-1-1-2-300x200.jpg",
+        "date": "07/01/2026",
+        "description": "Índice de referência do mercado acionário brasileiro caiu 1,03%, a 161.975,24 pontos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/brasil-encerra-2025-com-maior-exportacao-de-carne-bovina-da-historia-diz-abiec/",
+        "title": "Brasil Encerra 2025 com Maior Exportação de Carne Bovina da História",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_exportacao_navio_07.01.2026-300x200.jpg",
+        "date": "07/01/2026",
+        "description": "Setor alcança 3,50 milhões de toneladas exportadas e US$ 18,03 bilhões em faturamento"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/brandvoice-unicred-economia-real-com-beneficios-de-alto-padrao/",
         "title": "Economia Real com Benefícios de Alto Padrão",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/unicred-destaque-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cafe_verde_10.10.2025-2-300x200.jpg",
         "date": "07/01/2026",
         "description": "Com 3,5 milhões de sacas embarcadas, setor retoma crescimento após normalização do mercado americano"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2026/01/janeiro-e-mesmo-o-mes-do-divorcio/",
-        "title": "“Janeiro É Mesmo o ‘Mês do Divórcio’?”",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/0x0-1-300x200.webp",
-        "date": "07/01/2026",
-        "description": "Picos de buscas e consultas aumentam em janeiro, mas dados mostram que o divórcio segue um calendário mais amplo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/eficiencia-no-campo-garante-ao-brasil-posto-de-maior-produtor-de-carne-bovina/",
-        "title": "Eficiência no Campo Garante Ao Brasil Posto de Maior Produtor de Carne Bovina",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_bovinos_de_corte_confinamento_07.01.2026-300x200.jpg",
-        "date": "07/01/2026",
-        "description": "Com avanço de 4% em 2025, produção brasileira supera volume dos EUA e equilibra preços globais"
     }
 ]
