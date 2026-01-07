@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/quanto-vale-a-groenlandia-que-trump-deseja-comprar/",
+        "title": "Quanto vale a Groenlândia, Que Trump Deseja Comprar?",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/03/ForbesLife_TurismoPolar5_280321_Divulgaçao.jpg",
+        "date": "07/01/2026",
+        "description": "Valor tem como base a avaliação da “soma das partes” da riqueza total de recursos naturais inexplorados da Groenlândia. Mas existem cálculos mais e menos conservadores"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/concorrencia-dos-eua-reduzira-embarques-de-soja-do-brasil-a-china-em-2026/",
+        "title": "Concorrência dos EUA Reduzirá Embarques de Soja do Brasil À China em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2026-01-07T153346Z_1_LYNXMPEM060U6_RTROPTP_4_BRAZIL-SOY-300x200.jpg",
+        "date": "07/01/2026",
+        "description": "Safra de soja de 2026 começa com expectativa de recorde, projetada em 177 milhões de toneladas e alta acima de 3%, segundo a Conab"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/brasil-nao-sabe-se-a-carne-bovina-em-transito-esta-sujeita-a-cotas-da-china/",
+        "title": "Brasil Não Sabe se a Carne Bovina em Trânsito Está Sujeita a Cotas da China",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/06/agro-carne-abate-12jun25-gilaxia-getty-300x200.jpg",
+        "date": "07/01/2026",
+        "description": "China fixa em 1,106 milhão de toneladas a nova cota de importação de carne bovina do Brasil para 2026"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/indonesia-pode-confiscar-mais-5-mi-hectares-de-plantacoes-de-oleo-de-palma-em-2026/",
         "title": "Indonésia Pode Confiscar Mais 5 Mi Hectares de Plantações de Óleo de Palma em 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/2026-01-07T111757Z_1_LYNXMPEM060J1_RTROPTP_4_INDONESIA-PALMOIL-PLANTATION-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tamanho-site-Tech-9-1-300x200.png",
         "date": "07/01/2026",
         "description": "Cofundador da Oracle negociou um imóvel erguido em 1949 por mais de dez vezes o valor pago em 1988"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/por-que-o-petroleo-venezuelano-pode-nao-tornar-a-acao-da-chevron-uma-boa-compra/",
-        "title": "Por Que o Petróleo Venezuelano Pode Não Tornar a Chevron uma Boa Compra",
-        "image": "https://forbes.com.br/wp-content/uploads/2017/05/Chevron-is.jpg",
-        "date": "07/01/2026",
-        "description": "Controversa invasão dos Estados Unidos à Venezuela gera instabilidade política significativa, o que torna improvável que os papéis se valorizem rapidamente"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2026/01/vitoria-miranda-e-eleita-a-melhor-tenista-jovem-da-temporada-2025/",
-        "title": "Vitória Miranda É Eleita a Melhor Tenista Jovem da Temporada 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Vitoria-Miranda-e-eleita-a-melhor-tenista-jovem-da-temporada-2025-300x200.jpg",
-        "date": "07/01/2026",
-        "description": "É a 1ª vez que uma brasileira leva láurea de federação internacional"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/stone-anuncia-troca-de-ceo-e-reorganiza-alta-lideranca/",
-        "title": "Stone Anuncia Troca de CEO e Reorganiza Alta Liderança",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/ceo-stone-300x200.jpg",
-        "date": "07/01/2026",
-        "description": "Pedro Zinner deixa cargo após três anos e deve assumir a presidência do conselho; CFO Mateus Scherer será o novo CEO"
     }
 ]
