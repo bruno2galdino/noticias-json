@@ -1,10 +1,24 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/musetti-leva-susto-e-supera-sua-estreia-na-temporada-com-uma-virada.html",
-        "title": "Musetti leva susto e supera sua estreia na temporada com virada",
+        "url": "https://tenisbrasil.uol.com.br/musetti-vira-o-jogo-na-estreia-e-enfrenta-o-convidado-wong-nas-quartas.html",
+        "title": "Musetti vira o jogo na estreia e enfrenta o convidado Wong nas quartas",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/musetti-etcheverry-hong-kong-2026-1024x683.jpg",
         "date": "07/01/2026",
         "description": "Hong Kong (China)– Principal favorito no ATP 250 de Hong Kong, o italiano Lorenzo Musetti levou um susto em sua primeira partida do ano. O argentino Tomas Etcheverry venceu o primeiro set, mas não manteve o ritmo e acabou levando a virada, caindo com parciais de 6/7 (3-7), 6/2 e 6/4, depois de 2h41 de batalha."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/belgica-e-republica-tcheca-duelam-nesta-quinta-por-vaga-na-semi.html",
+        "title": "Bélgica e República Tcheca duelam nesta quinta por vaga na semi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bergs_unitedcup_estica-1024x670.jpg",
+        "date": "07/01/2026",
+        "description": "Brisbane (Austrália) –O confronto entre Bélgica e República Tcheca vai definir mais um semifinalista na United Cup. Os dois países se enfrentam a partir das 3h30 (de Brasília) e vencedor pode enfrentar Suíça ou Argentina na semifinal."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/anisimova-vence-com-tranquilidade-andreeva-enfrenta-noskova.html",
+        "title": "Anisimova vence com tranquilidade, Andreeva enfrenta Noskova",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/anisimova_brisbane_fore.jpg",
+        "date": "07/01/2026",
+        "description": "Brisbane (Austrália) –Segunda cabeça de chave no WTA 500 de Brisbane, Amanda Anisimova iniciou a temporada com uma vitória tranquila. A número 3 do mundo superou a australiana Kimberly Birrell, 106ª do ranking, por 6/1 e 6/3 em 1h03 de partida."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/com-apenas-18-anos-jovic-vence-outra-em-auckland-e-faz-quartas.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/demoliner_sauipe_sozinho-1024x710.jpg",
         "date": "07/01/2026",
         "description": "ATP 250 de Brisbane (Austrália) – SintéticoDuplas – Segunda rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/hurkacz-classifica-a-polonia-na-united-cup-e-iga-completa-com-vitoria.html",
-        "title": "Hurkacz classifica a Polônia na United Cup e Iga completa com vitória",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/hurkacz-united-cup-2026-e1767759960932-1024x686.jpg",
-        "date": "06/01/2026",
-        "description": "Sydney (Austrália)– A definição dos últimos classificados para as quartas de final da United Cup aconteceu nesta quarta-feira. A vitória do polonês Hubert Hurkacz sobre o holandês Tallon Griekspoor por 6/3 e 7/6 (7-4) garantiu seu time na fase seguinte, independente dos resultados restantes do dia."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sorteio-das-chaves-do-ao-sera-realizado-dia-15-as-0h30-de-brasilia.html",
-        "title": "Sorteio das chaves do AO será realizado dia 15 às 0h30 de Brasília",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/australian-open-draw-e1767750613559-1024x683.jpg",
-        "date": "06/01/2026",
-        "description": "Melbourne (Austrália)– O sorteio oficial do Australian Open de 2026 será realizado na quinta-feira 15 de janeiro a partir das 0h30 (horário de Brasília). A cerimônia, apresentada por Todd Woodbridge e Jelena Dokic, revelará os nomes dos participantes nas chaves principais de simples masculina e feminina."
     }
 ]
