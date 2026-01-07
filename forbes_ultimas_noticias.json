@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2026/01/vitoria-miranda-e-eleita-a-melhor-tenista-jovem-da-temporada-2025/",
+        "title": "Vitória Miranda É Eleita a Melhor Tenista Jovem da Temporada 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Vitoria-Miranda-e-eleita-a-melhor-tenista-jovem-da-temporada-2025-300x200.jpg",
+        "date": "07/01/2026",
+        "description": "É a 1ª vez que uma brasileira leva láurea de federação internacional"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2026/01/stone-anuncia-troca-de-ceo-e-reorganiza-alta-lideranca/",
+        "title": "Stone Anuncia Troca de CEO e Reorganiza Alta Liderança",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/ceo-stone-300x200.jpg",
+        "date": "07/01/2026",
+        "description": "Pedro Zinner deixa cargo após três anos e deve assumir a presidência do conselho; CFO Mateus Scherer será o novo CEO"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/warner-bros-rejeita-oferta-hostil-da-paramount-e-reafirma-acordo-com-netflix/",
         "title": "Warner Bros Rejeita Oferta Hostil da Paramount e Mantém Acordo com Netflix",
         "image": "https://forbes.com.br/wp-content/uploads/2023/04/tech-warner-bros-max-steaming-300x200.jpg",
@@ -53,20 +67,6 @@
         "title": "2026 Testa a Sobrevivência Econômica do Produtor Rural, Alerta Roberto Rodrigues",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_roberto_rodrigues_07.01.2026-1-300x200.jpg",
         "date": "07/01/2026",
-        "description": "Juros elevados, custos pressionados e incertezas externas comprimem a renda no campo; ex-ministro defende acordos comerciais, tecnologia e cooperativismo como eixos de estabilidade do agro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/artemis-ii-a-missao-que-marca-o-retorno-humano-a-lua-em-2026/",
-        "title": "Artemis II: A Missão Que Marca o Retorno Humano À Lua em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Artemis_II-300x200.png",
-        "date": "07/01/2026",
-        "description": "Exploração lunar ganha contornos econômicos e tecnológicos, impulsionando inovação e competitividade global"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/os-ingredientes-de-skincare-que-serao-tendencia-em-2026/",
-        "title": "5 Ingredientes de Skincare Que Serão Tendência em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/Especialistas-preveem-que-os-pos-bioticos-serao-protagonistas-na-nova-onda-de-cuidados-com-a-pele-baseados-no-microbioma-300x200.jpg",
-        "date": "07/01/2026",
-        "description": "De pós-bióticos a novos filtros solares, especialistas apontam 5 ativos que devem ganhar protagonismo no mercado de cuidados da beleza este ano"
+        "description": "Juros elevados, custos pressionados e incertezas externas comprimem a renda no campo; uma das grandes mentes do agro defende acordos comerciais, tecnologia e cooperativismo como eixos de estabilidade do agro"
     }
 ]
