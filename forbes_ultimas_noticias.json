@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2026/01/indonesia-pode-confiscar-mais-5-mi-hectares-de-plantacoes-de-oleo-de-palma-em-2026/",
+        "title": "Indonésia Pode Confiscar Mais 5 Mi Hectares de Plantações de Óleo de Palma em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2026-01-07T111757Z_1_LYNXMPEM060J1_RTROPTP_4_INDONESIA-PALMOIL-PLANTATION-300x200.jpg",
+        "date": "07/01/2026",
+        "description": "Governo intensifica combate à operação ilegal em áreas florestais, com confisco recorde de terras ligadas ao óleo de palma e a pequenos produtores"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/brasil-atinge-recorde-historico-na-exportacao-de-algodao-em-dezembro/",
+        "title": "Brasil Atinge Recorde Histórico na Exportação de Algodão em Dezembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_algodao_fardos_05nov25_Lucas-Ninno_Getty-300x200.webp",
+        "date": "07/01/2026",
+        "description": "Volume supera máxima anterior e garante receita de US$ 5 bilhões para o setor em 2025"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/exportacao-de-cafe-verde-do-brasil-registra-primeira-alta-anual-desde-marco/",
+        "title": "Exportação de Café Verde do Brasil Registra Primeira Alta Anual desde Março",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cafe_verde_10.10.2025-2-300x200.jpg",
+        "date": "07/01/2026",
+        "description": "Com 3,5 milhões de sacas embarcadas, setor retoma crescimento após normalização do mercado americano"
+    },
+    {
+        "url": "https://forbes.com.br/forbessaude/2026/01/janeiro-e-mesmo-o-mes-do-divorcio/",
+        "title": "“Janeiro É Mesmo o ‘Mês do Divórcio’?”",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/0x0-1-300x200.webp",
+        "date": "07/01/2026",
+        "description": "Picos de buscas e consultas aumentam em janeiro, mas dados mostram que o divórcio segue um calendário mais amplo"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/eficiencia-no-campo-garante-ao-brasil-posto-de-maior-produtor-de-carne-bovina/",
         "title": "Eficiência no Campo Garante Ao Brasil Posto de Maior Produtor de Carne Bovina",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_bovinos_de_corte_confinamento_07.01.2026-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/ceo-stone-300x200.jpg",
         "date": "07/01/2026",
         "description": "Pedro Zinner deixa cargo após três anos e deve assumir a presidência do conselho; CFO Mateus Scherer será o novo CEO"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/warner-bros-rejeita-oferta-hostil-da-paramount-e-reafirma-acordo-com-netflix/",
-        "title": "Warner Bros Rejeita Oferta Hostil da Paramount e Mantém Acordo com Netflix",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/04/tech-warner-bros-max-steaming-300x200.jpg",
-        "date": "07/01/2026",
-        "description": "Gigante do entretenimento analisou que proposta depende de \"uma quantidade extraordinária de financiamento de dívida\", o que aumenta o risco de fechamento do negócio"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-foco-nos-numeros-do-emprego-e-da-atividade-nos-eua/",
-        "title": "Pré-mercado: Foco nos Números do Emprego e da Atividade nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "07/01/2026",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 7 de janeiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/10-grandes-tendencias-que-moldam-a-industria-da-tequila-em-2026/",
-        "title": "10 Grandes Tendências Que Moldam a Indústria da Tequila em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/tequila-em-exposicao-no-bar-Caliente-Cab-em-Greenwich-Village-Foto-de-Chris-HondrosNewsmakers-Getty-Images_03-jan-26David-Dee-Delgado--300x200.jpg",
-        "date": "07/01/2026",
-        "description": "Depois de uma década de crescimento acelerado, a bebida está amadurecendo: a busca por transparência e a consolidação do setor redefinem o que chega ao seu copo"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/essa-marca-focou-em-motos-premium-e-produziu-80-mil-unidades-no-brasil/",
-        "title": "Essa Marca Focou em Motos Premium e Produziu 80 Mil Unidades no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Scrambler400XC_MY26_4196_GE-1-1-300x200.jpg",
-        "date": "07/01/2026",
-        "description": "Em novembro do ano passado, a Triumph registrou 1.210 emplacamentos, um crescimento de 4,8% em relação ao mesmo mês de 2024"
     }
 ]
