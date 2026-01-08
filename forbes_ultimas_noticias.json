@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2026/01/exportacoes-de-soja-do-brasil-devem-dobrar-em-janeiro-diz-anec/",
+        "title": "Exportações de Soja do Brasil Devem Dobrar em Janeiro, Diz Anec",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_soja_porto_na_china_foto_NurPhoto_GettyImages_08.01.2026-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "Enquanto embarques de soja saltam para 2,4 milhões de toneladas, exportação de milho recua para 2,8 milhões"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/larry-page-compra-mansoes-de-us-1734-milhoes-em-miami-em-meio-a-migracao-de-bilionarios/",
+        "title": "Larry Page Compra Mansões de US$ 173,4 Milhões em Miami em Meio à Migração de Bilionários",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/07/Life_Esta-e-a-primeira-vez-que-a-propriedade-e-vendida-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "Segunda pessoa mais rica do mundo, o cofundador do Google aposta no mercado imobiliário de Miami em um momento de mudanças fiscais na Califórnia"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/de-rapido-crescimento-a-freio-o-novo-dilema-da-tesla-e-de-musk/",
         "title": "De Rápido Crescimento a Freio: o Novo Dilema da Tesla e de Musk",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tesla-carros-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.O-hype-e-real.-A-corrida-de-rua-se-tornou-um-estilo-de-vida-desejavel-e-compartilhavel-e-agora-os-praticantes-anseiam-por-uma-camada-extra-de-informacao-de-moda-nos-seus-corres-300x200.jpg",
         "date": "08/01/2026",
         "description": "Depois da corrida de rua se tornar um estilo de vida desejável e compartilhável, adeptos anseiam por uma camada extra de informação de moda nos seus corres - e o mercado está de olho"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/5-dos-perfumes-mais-caros-do-mundo/",
-        "title": "5 dos Perfumes Mais Caros do Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Life_Perfumes-Mais-Caros-do-mundo-5-300x200.jpg",
-        "date": "08/01/2026",
-        "description": "Com óleos essenciais raros e frascos que parecem joias, estas fragrâncias de luxo podem chegar a cifras milionárias"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/como-os-agentes-de-ia-assumirao-suas-compras-sua-agenda-e-suas-viagens/",
-        "title": "Como os Agentes de IA Assumirão Suas Compras, Sua Agenda e Suas Viagens",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/0x0-5-300x200.webp",
-        "date": "08/01/2026",
-        "description": "A IA agêntica é uma boa opção neste contexto, pois consegue conectar informações de múltiplas aplicações e fontes de mensagens, priorizar, planear e manter tudo atualizado"
     }
 ]
