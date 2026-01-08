@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/monteiro-define-calendario-e-prioriza-o-saibro-na-america-do-sul.html",
+        "title": "Monteiro define calendário e prioriza o saibro na América do Sul",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/monteiro_oeiras5_back_saibro-1024x683.jpg",
+        "date": "08/01/2026",
+        "description": "Rio de Janeiro (RJ) –Segundo melhor brasileiro no ranking da ATP, ocupando atualmente a 194ª posição, Thiago Monteiro está nos momentos finais da sua preparação para a temporada de 2026. Totalmente recuperado, o cearense faz os últimos ajustes antes de partir para o seu primeiro torneio do ano."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-finaliza-pre-temporada-e-desembarca-na-coreia-do-sul-para-exibicao.html",
+        "title": "Alcaraz finaliza pré-temporada e desembarca na Coreia do Sul para exibição",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/alcaraz_aeroporto_seul.jpg",
+        "date": "08/01/2026",
+        "description": "Seul (Coreia do Sul) –Carlos Alcaraz finalizou a pré-temporada de treinos em casa, em Murcia, na Espanha, após um fim de ano turbulento com o rompimento de sua parceria com o treinador Juan Carlos Ferrero. Nesta quinta-feira, o espanhol desembarcou em Seul, na Coreia do Sul, para o seu primeiro jogo do ano, uma exibição contra Jannik Sinner, na Hyundai Card Super Match, na cidade de Incheon, no próximo sábado."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bia-ja-treina-em-adelaide-e-revela-tratamento-de-saude-durante-pausa.html",
+        "title": "Bia já treina em Adelaide e revela tratamento de saúde durante pausa",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bia_spopen_sorrindo.jpg",
+        "date": "08/01/2026",
+        "description": "Adelaide (Austrália) –Após um período de afastamento das competições para cuidar da saúde física e mental, Beatriz Haddad Maia retorna ao circuito na próxima semana, no WTA 500 de Adelaide, e já está treinando em solo australiano."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/nao-queremos-parar-por-aqui-diz-orlandinho-grande-vitoria-em-brisbane.html",
         "title": "“Não queremos parar por aqui”, diz Orlandinho grande vitória em Brisbane",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/54291279221_de3e91b41d_k-1024x683.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/sinner_alcaraz_antes_cincy-scaled-e1766612577841-1024x683.jpg",
         "date": "08/01/2026",
         "description": "Incheon (Coreia do Sul) –O primeiro duelo de 2026 entre Carlos Alcaraz e Jannik Sinner acontecerá no próximo sábado, em uma partida de exibição no Hyundai Card Super Match, em Incheon, na Coreia do Sul. Ainda não há nenhuma definição sobre transmissão do jogo para o Brasil."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/vindo-do-quali-collignon-derruba-bicampeao-dimitrov-e-faz-quartas.html",
-        "title": "Vindo do quali, Collignon derruba o bicampeão Dimitrov e faz quartas",
-        "image": null,
-        "date": "08/01/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/mertens-e-bergs-superam-tchecos-e-garantem-a-belgica-na-semi-da-united-cup.html",
-        "title": "Mertens e Bergs superam tchecos e garantem a Bélgica na semi da United Cup",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/mertens_united_olhabola-1024x742.jpg",
-        "date": "08/01/2026",
-        "description": "Sydney (Austrália) –A Bélgica é o terceiro país classificado para as semifinais da United Cup depois de vencer os dois jogos de simples contra a República Tcheca nesta quinta-feira, com Zizou Bergs e Elise Mertens. Com o resultado, a equipe belga enfrenta a Suíça na semifinal do próximo sábado."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-critica-calendario-lotado-e-considera-pular-torneios.html",
-        "title": "Sabalenka critica calendário lotado e considera pular torneios",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/sabalenka_brisbane_toss-1024x750.jpg",
-        "date": "08/01/2026",
-        "description": "Brisbane (Austrália) –Líder do ranking mundial, Aryna Sabalenka criticou o calendário lotado do circuito profissional e as obrigações impostas pela WTA às principais jogadoras. Em meio a um cenário de lesões frequentes e afastamentos por desgaste físico e mental, a bielorrussa admite que avalia a possibilidade de pular alguns torneios ao longo da temporada, mesmo ciente do impacto que isso pode ter em sua pontuação."
     }
 ]

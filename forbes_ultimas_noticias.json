@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-sport/2026/01/sabalenka-deixara-de-disputar-alguns-torneios-em-2026-para-priorizar-saude/",
+        "title": "Sabalenka Deixará de Disputar Alguns Torneios em 2026 para Priorizar Saúde",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2026-01-08T140810Z_1_LYNXMPEM070SM_RTROPTP_4_TENIS-SABALENKA-SAUDE-TORNEIOS-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "Participação limitada em torneios WTA 500 resultou em perda de pontos no ranking, cenário que também afetou outras estrelas do circuito"
+    },
+    {
+        "url": "https://forbes.com.br/geral/2026/01/papa-leao-14-pede-a-cardeais-catolicos-que-criem-igreja-mais-inclusiva/",
+        "title": "Papa Leão 14 Pede a Cardeais Católicos Que Criem Igreja Mais Inclusiva",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2026-01-08T153250Z_1_LYNXMPEM070WN_RTROPTP_4_RELIGIAO-PAPA-CARDEAIS-INCLUSIVA-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "Pontífice sinaliza que pretende continuar as reformas de Francisco, ampliando a inclusão na Igreja e debatendo o papel das mulheres e dos fiéis LGBTQIA+"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/trump-quer-vetar-grandes-investidores-institucionais-na-compra-de-casas-nos-eua/",
         "title": "Trump Quer Vetar Grandes Investidores Institucionais na Compra de Casas nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-money-1-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tesla-carros-300x200.jpg",
         "date": "08/01/2026",
         "description": "Após recuo global de 6,7%, Tesla opera abaixo do ideal e busca fôlego com novos modelos e serviços"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/concorrente-chinesa-da-openai-zhipu-estreia-em-ipo-e-cria-novo-bilionario/",
-        "title": "Concorrente Chinesa da OpenAI Estreia na Bolsa e Cria Novo Bilionário",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Liu_Debing-300x200.webp",
-        "date": "08/01/2026",
-        "description": "A Zhipu, que opera um serviço semelhante ao ChatGPT, captou US$ 558 milhões em sua oferta pública inicial. Seu presidente, Liu Debing, acumulou uma fortuna de US$ 2,1 bilhões"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2026/01/leqembi-anvisa-libera-novo-medicamento-para-fase-inicial-do-alzheimer/",
-        "title": "Alzheimer: Anvisa Libera Novo Medicamento contra a Doença",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/saude-leqembi-remedio-alzheimer-300x200.jpg",
-        "date": "08/01/2026",
-        "description": "Remédio é indicado para retardar o declínio cognitivo das pessoas que já apresentam demência leve causada pela doença"
     }
 ]
