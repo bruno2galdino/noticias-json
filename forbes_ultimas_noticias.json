@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2026/01/mulheres-do-carnaval-carol-sampaio-se-une-a-luciana-villas-boas-no-camarote-salvador/",
+        "title": "Carol Sampaio se Une a Luciana Villas Boas no Camarote Salvador",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/mulher-luciana-vilas-boas-carol-sampaio-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "Depois de 25 anos de Sapucaí e sete edições do Nosso Camarote, a empresária e RP carioca chega ao Carnaval baiano"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/forbes-mulher-agro-precisamos-dos-grandes-para-alimentar-o-mundo-e-dos-diferentes-para-alimentar-a-alma/",
+        "title": "Precisamos dos Grandes para Alimentar o Mundo e dos Diferentes para Alimentar a Alma",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_alimentacao_almoco_em_familia_08.01.2026-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "As visões do agro em outros países e a melhoraria da imagem do agronegócio no Brasil conectando o campo e a cidade"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2026/01/por-que-os-relacionamentos-gato-preto-golden-retriever-funcionam/",
         "title": "Por Que os Relacionamentos “Gato Preto–Golden Retriever” Funcionam",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/0x0-1-1-300x200.webp",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/ChatGPT-Health-300x200.png",
         "date": "08/01/2026",
         "description": "Ferramenta traz ambiente separado, integra dados de saúde e passa por avaliação clínica internacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/produtores-de-cafe-robusta-do-vietna-retem-estoques-e-travam-mercado/",
-        "title": "Produtores de Café Robusta do Vietnã Retêm Estoques e Travam Mercado",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cafe_foto_REUTERS_08.01.2026-300x200.jpg",
-        "date": "08/01/2026",
-        "description": "Cafeicultores aproveitam renda de outras culturas para segurar estoques e forçar preços mais altos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/agricultores-franceses-bloqueiam-paris-em-protesto-contra-acordo-mercosul-ue/",
-        "title": "Agricultores Franceses Bloqueiam Paris em Protesto contra Acordo Mercosul-UE",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_acordo_mercosul-ue_08.01.2026-1-300x200.jpg",
-        "date": "08/01/2026",
-        "description": "Comissão Europeia oferece US$ 47,4 bilhões em subsídios para tentar aplacar fúria de produtores"
     }
 ]
