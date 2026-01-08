@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/trump-quer-vetar-grandes-investidores-institucionais-na-compra-de-casas-nos-eua/",
+        "title": "Trump Quer Vetar Grandes Investidores Institucionais na Compra de Casas nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/08/forbes-trump-money-1-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "Presidente atribui alta recorde dos imóveis à atuação de grandes fundos e diz que levará proposta ao Congresso para conter o custo da habitação"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2026/01/inteligencia-artificial-entra-na-rotina-da-saude-com-chatgpt-health/",
+        "title": "Inteligência Artificial Entra na Rotina da Saúde com ChatGPT Health",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/ChatGPT-Health-300x200.png",
+        "date": "08/01/2026",
+        "description": "Ferramenta traz ambiente separado, integra dados de saúde e passa por avaliação clínica internacional"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/produtores-de-cafe-robusta-do-vietna-retem-estoques-e-travam-mercado/",
+        "title": "Produtores de Café Robusta do Vietnã Retêm Estoques e Travam Mercado",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cafe_foto_REUTERS_08.01.2026-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "Cafeicultores aproveitam renda de outras culturas para segurar estoques e forçar preços mais altos"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/agricultores-franceses-bloqueiam-paris-em-protesto-contra-acordo-mercosul-ue/",
+        "title": "Agricultores Franceses Bloqueiam Paris em Protesto contra Acordo Mercosul-UE",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_acordo_mercosul-ue_08.01.2026-1-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "Comissão Europeia oferece US$ 47,4 bilhões em subsídios para tentar aplacar fúria de produtores"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/venezuela-petroleo-e-poder-o-que-esta-em-jogo-para-o-brasil/",
+        "title": "Venezuela, Petróleo e Poder: o Que Está em Jogo para o Brasil",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/money_petroleo-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "A captura de Nicolás Maduro, conduzida como intervenção unilateral, não apenas encerrou um ciclo político em Caracas, mas disparou um efeito dominó que redesenhou as curvas de risco na América Latina"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/exportacoes-de-soja-do-brasil-devem-dobrar-em-janeiro-diz-anec/",
         "title": "Exportações de Soja do Brasil Devem Dobrar em Janeiro, Diz Anec",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_soja_porto_na_china_foto_NurPhoto_GettyImages_08.01.2026-300x200.jpg",
@@ -14,7 +49,7 @@
         "description": "Segunda pessoa mais rica do mundo, o cofundador do Google aposta no mercado imobiliário de Miami em um momento de mudanças fiscais na Califórnia"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/de-rapido-crescimento-a-freio-o-novo-dilema-da-tesla-e-de-musk/",
+        "url": "https://forbes.com.br/forbeslife/2026/01/de-rapido-crescimento-a-freio-o-novo-dilema-da-tesla-e-de-musk/",
         "title": "De Rápido Crescimento a Freio: o Novo Dilema da Tesla e de Musk",
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tesla-carros-300x200.jpg",
         "date": "08/01/2026",
@@ -33,40 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/saude-leqembi-remedio-alzheimer-300x200.jpg",
         "date": "08/01/2026",
         "description": "Remédio é indicado para retardar o declínio cognitivo das pessoas que já apresentam demência leve causada pela doença"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-sessao-tem-inflacao-no-brasil-e-emprego-nos-eua/",
-        "title": "Pré-mercado: Sessão Tem Inflação no Brasil e Emprego nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "08/01/2026",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 8 de janeiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/carros-eletricos-e-hibridos-batem-recorde-e-somam-223-mil-vendas-em-2025-no-brasil/",
-        "title": "Carros Elétricos e Híbridos Batem Recorde e Somam 223 Mil Vendas em 2025 no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Fabrica-GWM-1-300x200.jpeg",
-        "date": "08/01/2026",
-        "description": "Enquanto o mercado total de veículos leves cresceu 2,6% entre 2024 e 2025, os eletrificados avançaram 26%"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/vp-global-de-design-e-branding-explica-por-que-o-lifestyle-tech-e-a-alma-da-motorola-para-2026/",
-        "title": "VP Global de Design e Branding Explica por Que o Lifestyle Tech É a \"Alma da Motorola para 2026\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/RubenMotorola-300x200.jpg",
-        "date": "08/01/2026",
-        "description": "Em entrevista na CES, Ruben Castano destaca os lançamentos da marca e os esforços recentes em associar, cada vez mais, o design e o conceito de seus dispositivos ao estilo de vida e à moda"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2026/01/o-lugar-de-onde-voce-veio-nao-existe-mais/",
-        "title": "O Lugar de Onde Você Veio Não Existe Mais",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/luciana-rodrigues-300x200.jpg",
-        "date": "08/01/2026",
-        "description": "Entre memórias, raízes e imperfeições, é preciso atravessar 2026 sem apagar o que nos trouxe até aqui"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/estilo-na-pista-como-a-corrida-entrou-no-radar-da-moda/",
-        "title": "Estilo na Pista: Como a Corrida Entrou no Radar da Moda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.O-hype-e-real.-A-corrida-de-rua-se-tornou-um-estilo-de-vida-desejavel-e-compartilhavel-e-agora-os-praticantes-anseiam-por-uma-camada-extra-de-informacao-de-moda-nos-seus-corres-300x200.jpg",
-        "date": "08/01/2026",
-        "description": "Depois da corrida de rua se tornar um estilo de vida desejável e compartilhável, adeptos anseiam por uma camada extra de informação de moda nos seus corres - e o mercado está de olho"
     }
 ]
