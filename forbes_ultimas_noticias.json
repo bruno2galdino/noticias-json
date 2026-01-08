@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2026/01/leqembi-anvisa-libera-novo-medicamento-para-fase-inicial-do-alzheimer/",
+        "title": "Alzheimer: Anvisa Libera Novo Medicamento contra a Doença",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/saude-leqembi-remedio-alzheimer-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "Remédio é indicado para retardar o declínio cognitivo das pessoas que já apresentam demência leve causada pela doença"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-sessao-tem-inflacao-no-brasil-e-emprego-nos-eua/",
         "title": "Pré-mercado: Sessão Tem Inflação no Brasil e Emprego nos EUA",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-1328853719-300x200.jpg",
         "date": "08/01/2026",
         "description": "Aplicativos como Tinder, Grindr e World App usam inteligência artificial para redefinir intimidade, consumo e identidade digital"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/eua-registram-maior-porcentual-de-m-valor-global-atinge-us-46-tri/",
-        "title": "EUA Registra Maior Porcentual de Fusões e Aquisições em 27 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/netflix-logo-300x200.jpg",
-        "date": "08/01/2026",
-        "description": "Operações no país representaram 50% do total global em 2025, o valor de US$ 4,6 trilhões. Resultado foi influenciado pelas megafusões, que dobraram no ano passado"
     }
 ]
