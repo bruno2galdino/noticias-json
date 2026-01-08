@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/de-rapido-crescimento-a-freio-o-novo-dilema-da-tesla-e-de-musk/",
+        "title": "De Rápido Crescimento a Freio: o Novo Dilema da Tesla e de Musk",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/Tesla-carros-300x200.jpg",
+        "date": "08/01/2026",
+        "description": "Após recuo global de 6,7%, Tesla opera abaixo do ideal e busca fôlego com novos modelos e serviços"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/concorrente-chinesa-da-openai-zhipu-estreia-em-ipo-e-cria-novo-bilionario/",
+        "title": "Concorrente Chinesa da OpenAI Estreia na Bolsa e Cria Novo Bilionário",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Liu_Debing-300x200.webp",
+        "date": "08/01/2026",
+        "description": "A Zhipu, que opera um serviço semelhante ao ChatGPT, captou US$ 558 milhões em sua oferta pública inicial. Seu presidente, Liu Debing, acumulou uma fortuna de US$ 2,1 bilhões"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2026/01/leqembi-anvisa-libera-novo-medicamento-para-fase-inicial-do-alzheimer/",
         "title": "Alzheimer: Anvisa Libera Novo Medicamento contra a Doença",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/saude-leqembi-remedio-alzheimer-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/0x0-5-300x200.webp",
         "date": "08/01/2026",
         "description": "A IA agêntica é uma boa opção neste contexto, pois consegue conectar informações de múltiplas aplicações e fontes de mensagens, priorizar, planear e manter tudo atualizado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/disney-transforma-publicidade-em-experiencia-de-cinema-com-ia-agentica-na-ces-2026/",
-        "title": "Disney Transforma Publicidade em \"Experiência de Cinema\" com IA Agêntica na CES 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/RitaFerroDisney-300x200.jpg",
-        "date": "08/01/2026",
-        "description": "Rita Ferro, Presidente de Global Advertising da companhia, abriu evento de lançamento em Las Vegas destacando uma plataforma que gera anúncios de forma escalável"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/amor-algoritmico-quando-a-ia-dita-o-desejo/",
-        "title": "Amor Algorítmico: Quando a IA Dita o Desejo",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-1328853719-300x200.jpg",
-        "date": "08/01/2026",
-        "description": "Aplicativos como Tinder, Grindr e World App usam inteligência artificial para redefinir intimidade, consumo e identidade digital"
     }
 ]
