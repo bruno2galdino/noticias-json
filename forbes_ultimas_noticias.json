@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/ue-aprova-provisoriamente-acordo-comercial-com-o-mercosul/",
+        "title": "UE Aprova Provisoriamente Acordo Comercial com o Mercosul",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/Bandeira-da-Uniao-Europeia-Imagem-Reuters-300x200.webp",
+        "date": "09/01/2026",
+        "description": "Texto do acordo com o Mercosul encontra resistência em países como França e Itália"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2026/01/por-que-jose-ignacio-virou-o-refugio-da-elite-de-nova-york/",
+        "title": "Por Que José Ignacio Virou o Refúgio da Elite de Nova York",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/jose-ignacio-2-300x200.webp",
+        "date": "09/01/2026",
+        "description": "Atraindo compradores dos EUA e da Europa, o balneário uruguaio ganha cada vez mais status internacional"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-inflacao-no-brasil-e-emprego-nao-agricola-nos-eua/",
+        "title": "Pré-mercado: Inflação no Brasil e Emprego Não Agrícola nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "09/01/2026",
+        "description": "Notícias e indicadores que devem influenciar os preços dos ativos nesta sexta-feira, 9 de janeiro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2026/01/cadillac-changan-e-suvs-eletricos-os-carros-premium-que-chegam-ao-brasil-em-2026/",
         "title": "Os Carros Premium Que Chegam Ao Brasil em 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/VISTIQExterior1-1-300x200.jpg",
@@ -25,7 +46,7 @@
         "title": "Suno Asset Capta R$ 620 Milhões para Expandir Fundo Solar com Ativos já Operacionais",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-23-300x200.jpg",
         "date": "09/01/2026",
-        "description": null
+        "description": "Ao priorizar usinas fotovoltaicas já em operação, a Suno Asset busca escalar o SNEL11 com menor risco e maior previsibilidade de receitas"
     },
     {
         "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/sao-paulo-e-a-cidade-mais-segura-do-mundo-contra-bolhas-imobiliarias-diz-ubs/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/bark-airlines-8-300x200.png",
         "date": "09/01/2026",
         "description": "O que os resultados da Rede Tênis em 2025 mostram sobre um modelo que forma cidadãos e atletas de elite"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/como-a-intel-reestruturou-sua-operacao-para-surfar-a-proxima-onda-de-ia-na-america-latina/",
-        "title": "Como a Intel Reestruturou Sua Operação para Surfar a Próxima Onda de IA na América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Gisselle-Ruiz-Lanza-Intel-4-300x200.jpg",
-        "date": "09/01/2026",
-        "description": "Gisselle Ruiz Lanza, presidente da empresa para a região, analisa o impacto da reestruturação global e como as parcerias estratégicas fortalecem o ecossistema brasileiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/american-airlines-entrevista/",
-        "title": "Como a American Airlines se Transformou no Brasil — Contado por um de Seus Principais Executivos",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/1500x1000-300x200.jpg",
-        "date": "09/01/2026",
-        "description": "Alexandre Cavalcanti, diretor comercial para Miami, América Latina e Caribe, faz parte de 25 dos 35 anos de presença da companhia no Brasil."
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2026/01/drink-da-semana-paloma-o-classico-mexicano-perfeito-para-o-verao/",
-        "title": "Drink da Semana: Paloma, o Clássico Mexicano Perfeito para o Verão",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/WSB_Drink-Paloma-300x200.jpg",
-        "date": "09/01/2026",
-        "description": "Refrescante, levemente salgada e descomplicada, a Paloma é uma das queridinhas da coquetelaria atual; aprenda a versão assinada pelo premiado Metzi"
     }
 ]
