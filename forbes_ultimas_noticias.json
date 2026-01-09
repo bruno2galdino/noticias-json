@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2026/01/oncoclinicas-confirma-busca-de-novo-ceo/",
+        "title": "Oncoclínicas Confirma Busca de Novo CEO",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/ONCOCLINICAS-300x200.jpg",
+        "date": "09/01/2026",
+        "description": "Companhia contratou a consultoria Spencer Stuart para selecionar potenciais candidatos; processo de seleção está em fase avançada"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2026/01/as-20-equipes-esportivas-mais-lucrativas-do-mundo-em-2026/",
+        "title": "As 20 Equipes Esportivas Mais Lucrativas do Mundo em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-2254645474-1-300x200.jpg",
+        "date": "09/01/2026",
+        "description": "Juntas, as 20 equipes arrecadaram US$ 4,5 bilhões em Ebitda, uma média de US$ 226 milhões, alta de 16% em relação ao ano anterior"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/ipca-sobe-em-dezembro-e-fecha-2025-com-alta-de-426-dentro-da-meta/",
-        "title": "IPCA Sobe em Dezembro e Fecha 2025 com Alta de 4,26%, Dentro da Meta",
+        "title": "Inflação Sobe em Dezembro e Fecha 2025 Dentro da Meta, com Alta de 4,26%",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_alimentos_supermercado_11abr_2025_Getty-300x200.jpg",
         "date": "09/01/2026",
-        "description": "No acumulado de 12 meses até dezembro, o IPCA teve alta de 4,26% e ficou abaixo do limite superior da meta de 4,5% definida pelo Conselho Monetário Nacional"
+        "description": "No acumulado de 12 meses até dezembro, índice de inflação teve alta de 4,26% e ficou abaixo do limite superior da meta de 4,5% definida pelo Conselho Monetário Nacional"
     },
     {
         "url": "https://forbes.com.br/forbes-mkt/2026/01/maria-clara-fleury-assume-o-marketing-da-openai-com-foco-no-jeitinho-brasileiro-de-usar-ia/",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/0x0-2-300x200.webp",
         "date": "09/01/2026",
         "description": "Modelo de Arthur Brooks mostra que a carreira pode ser o principal guia da vida interior"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/suno-asset-capta-r-620-milhoes-para-expandir-fundo-solar-com-ativos-ja-operacionais/",
-        "title": "Suno Asset Capta R$ 620 Milhões para Expandir Fundo Solar com Ativos já Operacionais",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-23-300x200.jpg",
-        "date": "09/01/2026",
-        "description": "Ao priorizar usinas fotovoltaicas já em operação, a Suno Asset busca escalar o SNEL11 com menor risco e maior previsibilidade de receitas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/sao-paulo-e-a-cidade-mais-segura-do-mundo-contra-bolhas-imobiliarias-diz-ubs/",
-        "title": "São Paulo é a Cidade Mais Segura do Mundo Contra Bolhas Imobiliárias, diz UBS",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-27-300x200.jpg",
-        "date": "09/01/2026",
-        "description": "Com índice negativo de -0,10 em 2025, São Paulo lidera ranking global do UBS e se distancia de mercados superaquecidos como Miami e Zurique"
     }
 ]
