@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/ibovespa-fecha-em-alta-apos-dados-de-emprego-abaixo-do-esperado-nos-eua/",
+        "title": "Ibovespa Fecha em Alta após Dados de Emprego Abaixo do Esperado nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/01/GettyImages-1235995591-300x200.jpg",
+        "date": "09/01/2026",
+        "description": "O índice de referência do mercado de ações brasileiro fechou em alta de 0,27%, impulsionado pelo ambiente favorável a ativos de risco observado no exterior"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/agro-brasileiro-fecha-2025-com-exportacoes-recordes-de-us-169-bilhoes/",
         "title": "Agro Brasileiro Fecha 2025 com Exportações Recordes de US$ 169 Bilhões",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_gestao_agro_10.12.2025-1-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-28-300x200.jpg",
         "date": "09/01/2026",
         "description": "Hartford assume a liderança do ranking ao superar Buffalo, em Nova York, em disputa entre compradores e escassez de imóveis"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/criacao-de-vagas-nos-eua-desacelera-mais-do-que-o-esperado-em-dezembro/",
-        "title": "Criação de Vagas nos EUA Desacelera Mais do que o Esperado em Dezembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2023/08/eua-4-300x200.jpg",
-        "date": "09/01/2026",
-        "description": "Taxa de desemprego caiu para 4,4%, apoiando as expectativas de que o BC americano deixará a taxa de juros inalterada este mês"
     }
 ]
