@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2026/01/3-sinais-de-que-sua-maturidade-emocional-evita-a-intimidade/",
+        "title": "3 Sinais de Que Sua Maturidade Emocional Evita a Intimidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-1553532841-300x200.jpg",
+        "date": "09/01/2026",
+        "description": "Quando a maturidade emocional esconde, na verdade, o medo de se aproximar de alguém"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/copa-do-mundo-2026-quem-ganha-e-quem-perde-com-o-maior-evento-do-futebol/",
+        "title": "Quem Ganha e Quem Perde com a Copa do Mundo 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-2250186867-1-300x200.jpg",
+        "date": "09/01/2026",
+        "description": "O varejo de vestuário se destaca como o segmento mais negativamente impactado durante o período do evento"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2026/01/globo-de-ouro-homenageia-sarah-jessica-parker-e-helen-mirren/",
         "title": "Globo de Ouro Homenageia Sarah Jessica Parker e Helen Mirren",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/sarah-jessica-parker-e-helen-mirren-300x200.jpg",
@@ -7,7 +21,7 @@
         "description": "Atrizes foram reconhecidas com prêmios que celebram impacto, longevidade e influência na indústria do entretenimento"
     },
     {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/cidades-de-maior-valorizacao-preco-imovel-eua/",
+        "url": "https://forbes.com.br/manchete-1/2026/01/cidades-de-maior-valorizacao-preco-imovel-eua/",
         "title": "Os Dez Mercados Imobiliários Mais Promissores dos EUA em 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-28-300x200.jpg",
         "date": "09/01/2026",
@@ -28,7 +42,7 @@
         "description": "Companhia contratou a consultoria Spencer Stuart para selecionar potenciais candidatos; processo de seleção está em fase avançada"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/2026/01/as-20-equipes-esportivas-mais-lucrativas-do-mundo-em-2026/",
+        "url": "https://forbes.com.br/forbes-money/2026/01/as-20-equipes-esportivas-mais-lucrativas-do-mundo-em-2026/",
         "title": "As 20 Equipes Esportivas Mais Lucrativas do Mundo em 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-2254645474-1-300x200.jpg",
         "date": "09/01/2026",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Bandeira-da-Uniao-Europeia-Imagem-Reuters-300x200.webp",
         "date": "09/01/2026",
         "description": "Texto do acordo com o Mercosul encontra resistência em países como França e Itália"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/por-que-jose-ignacio-virou-o-refugio-da-elite-de-nova-york/",
-        "title": "Por Que José Ignacio Virou o Refúgio da Elite de Nova York",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/jose-ignacio-2-300x200.webp",
-        "date": "09/01/2026",
-        "description": "Atraindo compradores dos EUA e da Europa, o balneário uruguaio ganha cada vez mais status internacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-inflacao-no-brasil-e-emprego-nao-agricola-nos-eua/",
-        "title": "Pré-mercado: Inflação no Brasil e Emprego Não Agrícola nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "09/01/2026",
-        "description": "Notícias e indicadores que devem influenciar os preços dos ativos nesta sexta-feira, 9 de janeiro"
     }
 ]
