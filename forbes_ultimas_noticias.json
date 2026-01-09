@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/ipca-sobe-em-dezembro-e-fecha-2025-com-alta-de-426-dentro-da-meta/",
+        "title": "IPCA Sobe em Dezembro e Fecha 2025 com Alta de 4,26%, Dentro da Meta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/05/agro_alimentos_supermercado_11abr_2025_Getty-300x200.jpg",
+        "date": "09/01/2026",
+        "description": "No acumulado de 12 meses até dezembro, o IPCA teve alta de 4,26% e ficou abaixo do limite superior da meta de 4,5% definida pelo Conselho Monetário Nacional"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mkt/2026/01/maria-clara-fleury-assume-o-marketing-da-openai-com-foco-no-jeitinho-brasileiro-de-usar-ia/",
+        "title": "Maria Clara Fleury Assume o Marketing da OpenAI com Foco no \"Jeitinho Brasileiro\" de Usar IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/foto-12-300x200.jpg",
+        "date": "09/01/2026",
+        "description": "Com passagens por Adobe e Google, a nova Head de Marketing para a América Latina chega com a missão de traduzir o potencial da IA para a cultura local; Brasil já é o 3º maior mercado do mundo para a companhia"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/ue-aprova-provisoriamente-acordo-comercial-com-o-mercosul/",
         "title": "UE Aprova Provisoriamente Acordo Comercial com o Mercosul",
         "image": "https://forbes.com.br/wp-content/uploads/2025/05/Bandeira-da-Uniao-Europeia-Imagem-Reuters-300x200.webp",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-27-300x200.jpg",
         "date": "09/01/2026",
         "description": "Com índice negativo de -0,10 em 2025, São Paulo lidera ranking global do UBS e se distancia de mercados superaquecidos como Miami e Zurique"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/bacteria-da-caatinga-pode-por-um-fim-a-prejuizos-de-r-9-bilhoes-na-soja/",
-        "title": "Bactéria da Caatinga Pode Pôr um Fim a Prejuízos de R$ 9 Bilhões na Soja",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_bacteria_caatinga_embrapa_usp_09.01.2026-300x200.jpg",
-        "date": "09/01/2026",
-        "description": "Pesquisa da Embrapa e da USP aponta solução biológica para um dos maiores gargalos econômicos da lavoura"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-collab/2026/01/no-tenis-brasileiro-impacto-social-e-alto-rendimento-nao-competem-se-fortalecem/",
-        "title": "No Tênis Brasileiro, Impacto Social e Alto Rendimento Não Competem — Se Fortalecem",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/bark-airlines-8-300x200.png",
-        "date": "09/01/2026",
-        "description": "O que os resultados da Rede Tênis em 2025 mostram sobre um modelo que forma cidadãos e atletas de elite"
     }
 ]
