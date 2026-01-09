@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/cidades-de-maior-valorizacao-preco-imovel-eua/",
+        "title": "Os Dez Mercados Imobiliários Mais Promissores dos EUA em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-28-300x200.jpg",
+        "date": "09/01/2026",
+        "description": "Hartford assume a liderança do ranking ao superar Buffalo, em Nova York, em disputa entre compradores e escassez de imóveis"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/criacao-de-vagas-nos-eua-desacelera-mais-do-que-o-esperado-em-dezembro/",
+        "title": "Criação de Vagas nos EUA Desacelera Mais do que o Esperado em Dezembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/08/eua-4-300x200.jpg",
+        "date": "09/01/2026",
+        "description": "Taxa de desemprego caiu para 4,4%, apoiando as expectativas de que o BC americano deixará a taxa de juros inalterada este mês"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2026/01/oncoclinicas-confirma-busca-de-novo-ceo/",
         "title": "Oncoclínicas Confirma Busca de Novo CEO",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/ONCOCLINICAS-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/VISTIQExterior1-1-300x200.jpg",
         "date": "09/01/2026",
         "description": "A agenda da descarbonização, com híbridos e elétricos, segue guiando os lançamentos mais sofisticados"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2026/01/beyonce-4-estrategias-da-mais-nova-bilionaria-para-uma-carreira-de-sucesso/",
-        "title": "Beyoncé: 4 Lições da Mais Nova Bilionária para uma Carreira de Sucesso",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/beyonce-forbes-1-300x200.jpg",
-        "date": "09/01/2026",
-        "description": "Da música aos negócios, saiba como a artista assumiu riscos e se reinventou ao longo de mais de três décadas"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/os-4-caminhos-de-carreira-e-qual-voce-deve-seguir/",
-        "title": "Os 4 Caminhos de Carreira — e Qual Você Deve Seguir",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/0x0-2-300x200.webp",
-        "date": "09/01/2026",
-        "description": "Modelo de Arthur Brooks mostra que a carreira pode ser o principal guia da vida interior"
     }
 ]
