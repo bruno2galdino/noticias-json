@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2026/01/globo-de-ouro-homenageia-sarah-jessica-parker-e-helen-mirren/",
+        "title": "Globo de Ouro Homenageia Sarah Jessica Parker e Helen Mirren",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/sarah-jessica-parker-e-helen-mirren-300x200.jpg",
+        "date": "09/01/2026",
+        "description": "Atrizes foram reconhecidas com prêmios que celebram impacto, longevidade e influência na indústria do entretenimento"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/cidades-de-maior-valorizacao-preco-imovel-eua/",
         "title": "Os Dez Mercados Imobiliários Mais Promissores dos EUA em 2026",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-28-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
         "date": "09/01/2026",
         "description": "Notícias e indicadores que devem influenciar os preços dos ativos nesta sexta-feira, 9 de janeiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/cadillac-changan-e-suvs-eletricos-os-carros-premium-que-chegam-ao-brasil-em-2026/",
-        "title": "Os Carros Premium Que Chegam Ao Brasil em 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/VISTIQExterior1-1-300x200.jpg",
-        "date": "09/01/2026",
-        "description": "A agenda da descarbonização, com híbridos e elétricos, segue guiando os lançamentos mais sofisticados"
     }
 ]
