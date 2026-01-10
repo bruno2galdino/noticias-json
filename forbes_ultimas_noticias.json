@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2026/01/numero-de-empregados-nas-fabricas-dos-eua-cai-apesar-da-promessa-de-trump-de-boom-na-producao/",
+        "title": "Número de Empregados nas Fábricas dos EUA Cai Apesar da Promessa de Trump de Boom na Produção",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2026-01-09T235348Z_1_LYNXMPEM081A9_RTROPTP_4_USA-TRUMP-100-DAYS-STEEL-300x200.jpg",
+        "date": "10/01/2026",
+        "description": "O ritmo de criação de empregos no primeiro ano do segundo mandato de Trump caiu mais de dois terços em relação ao último ano do mandato do presidente"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/precos-do-cacau-despencam-com-expectativa-de-dados-fracos-sobre-a-demanda/",
+        "title": "Preços do Cacau Despencam com Expectativa de Dados Fracos sobre a Demanda",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/agro_carrefour_floresta_faz_bem_25.12.2025-3-300x200.jpg",
+        "date": "10/01/2026",
+        "description": "Os contratos futuros do cacau em Nova York caíram com a expectativa de que os dados da moagem europeia mostrem que a demanda continua fraca"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/por-que-executivos-estao-trocando-a-primeira-classe-pelo-jato-privado/",
         "title": "Por Que Executivos Estão Trocando a Primeira Classe Pelo Jato Privado",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Phenom-300E-Best-Selling-1-1500x1000-390b9ac3-24c7-4da0-a980-30b11de54e8d-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/tequila-em-exposicao-no-bar-Caliente-Cab-em-Greenwich-Village-Foto-de-Chris-HondrosNewsmakers-Getty-Images_03-jan-26David-Dee-Delgado-1-300x200.jpg",
         "date": "10/01/2026",
         "description": "Conheça obras essenciais para entender a bebida além do copo e ganhar repertório técnico, histórico e cultural"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/de-olho-no-interesse-de-trump-esses-bilionarios-apostaram-alto-na-groenlandia/",
-        "title": "De Olho no Interesse de Trump, Esses Bilionários Apostaram Alto na Groenlândia",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/03/esg-iceberg-aquecimento-global-300x200.jpg",
-        "date": "10/01/2026",
-        "description": "A exploração de terras raras é um dos principais atrativos da ilha dinamarquesa"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/a-villa-de-us-26-milhoes-em-roma-que-ja-foi-de-sophia-loren/",
-        "title": "Na Via Appia Antica, uma Villa Histórica Ligada Ao Cinema Italiano, Chega Ao Mercado",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.A-Villa-dAutore-que-ja-foi-a-casa-da-icone-do-cinema-Sophia-Loren-e-de-seu-marido-o-produtor-de-cinema-Carlo-Ponti-fica-isolada-perto-da-Via-Appia-Antica-em-Roma-300x200.jpg",
-        "date": "10/01/2026",
-        "description": "Cenário de herança romana, antiga residência de Carlo Ponti e Sophia Loren é colocada à venda a poucos minutos do centro de Roma"
     }
 ]
