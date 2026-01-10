@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/blockx-vence-final-de-jovens-com-jodar-e-entrara-no-top-100.html",
+        "title": "Blockx vence final de jovens com Jodar e entrará no top 100",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/jodar_blockx_camberra-1024x683.jpg",
+        "date": "10/01/2026",
+        "description": "Camberra (Austrália) –No encontro entre dois atletas da nova geração, o belga Alexander Blockx venceu o espanhol Rafael Jodar por duplo 6/4 e conquistou o título do challenger de Camberra."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/musetti-e-bublik-garantem-ranking-historico-e-decidem-hong-kong.html",
+        "title": "Musetti e Bublik garantem ranking histórico e decidem Hong Kong",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/musetti-1024x683.jpg",
+        "date": "10/01/2026",
+        "description": "Hong Kong– A decisão do ATP 250 de Hong Kong não poderia ser melhor: os dois principais cabeças de chave irão duelar neste domingo e ambos já com seus melhores  – e históricos – ranking garantidos."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/fonseca-diz-que-nasceu-com-problema-nas-costas-e-nao-confirma-melbourne.html",
         "title": "Fonseca diz que nasceu com problema nas costas e não confirma Melbourne",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/fonseca_entrevista.jpg",
@@ -37,9 +51,9 @@
     {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-ganha-exibicao-milionaria-de-sinner-na-coreia.html",
         "title": "Alcaraz ganha exibição milionária de Sinner na Coreia",
-        "image": null,
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/alca_sinn-1024x784.jpg",
         "date": "10/01/2026",
-        "description": "Embed from Getty Images"
+        "description": "Incheon (República da Coreia)– O espanhol Carlos Alcaraz ganhou dois sets equilibrados do italiano Jannik Sinner em exibição realizada na madrugada deste sábado e que envolveu os dois líderes do ranking e potenciais candidatos ao título do Australian Open."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/duplas-brasileiras-tem-chaves-duras-pela-frente.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/bia-spopen-olhabola-2025-1024x683.jpeg",
         "date": "10/01/2026",
         "description": "Adelaide (Austrália)– A paulista Beatriz Haddad Maia não deu sorte na formação da chave do WTA 500 de Adelaide. Em seu retorno ao circuito, ela terá de encarar a jovem e talentosa Victoria Mboko, canadense de apenas 19 anos mas já número 18 do ranking."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/joao-fonseca-tambem-fica-de-fora-do-atp-de-adelaide.html",
-        "title": "João Fonseca também fica de fora do ATP de Adelaide",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/fonseca-brisbane-treina-2026-e1767839308776-1024x683.jpg",
-        "date": "09/01/2026",
-        "description": "Adelaide (Austrália)– Má notícia para o tênis brasileiro: o carioca João Fonseca não conseguiu se recuperar dos problemas lombares e mais uma vez deixará de disputar um aquecimento para o Australian Open."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-volta-a-vencer-muchova-e-faz-terceira-final-em-brisbane.html",
-        "title": "Sabalenka volta a vencer Muchova e faz terceira final em Brisbane",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/sabalenka_brisbane_toss-1024x750.jpg",
-        "date": "09/01/2026",
-        "description": "Brisbane (Austrália)– Depois de três derrotas consecutivas, a bielorrussa Aryna Sabalenka enfim voltou a derrotar a tcheca Karolina Muchova e com isso está pela terceira vez consecutiva na decisão do WTA 500 de Brisbane, seu principal preparativo para o Australian Open."
     }
 ]
