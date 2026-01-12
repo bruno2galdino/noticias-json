@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/danilovic-elimina-a-atual-campea-kessler-na-estreia-em-hobart.html",
-        "title": "Danilovic elimina a atual campeã Kessler na estreia em Hobart",
-        "image": null,
-        "date": "12/01/2026",
-        "description": ""
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/stephens-avanca-no-no-quali-de-melbourne-e-vence-a-primeira-desde-2024.html",
         "title": "Stephens avança no no quali de Melbourne e vence a primeira desde 2024",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/stephens_GDL_fore-1024x683.jpg",
@@ -43,7 +36,7 @@
     },
     {
         "url": "https://tenisbrasil.uol.com.br/bouzkova-se-vinga-de-badosa-e-vai-desafiar-andreeva.html",
-        "title": "Bouzkova se vinga de Badosa e vai desafiar Andreeva",
+        "title": "Bouzkova se vinga de Badosa e vai desafiar Andreeva, Kasatkina larga bem",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bouzkova-adelaide-rebate-2026-1024x683.jpg",
         "date": "12/01/2026",
         "description": "Adelaide (Austrália)– Assim como aconteceu na primeira semana da temporada, Marie Bouzkova e Paula Badosa se cruzaram logo de cara.Se em Brisbane quem levou a melhor foi a espanhola, com uma vitória de virada, nesta segunda-feira foi a vez da tcheca dar o troco na mesma moeda, superando a estreia no WTA 500 de Adelaide com parciais de 3/6, 6/3 e 6/4."
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/musetti-bublik-hong-kong-e1768196663492-1024x683.jpg",
         "date": "12/01/2026",
         "description": "Londres (Inglaterra)– Finalistas no ATP 250 de Hong Kong, o italiano Lorenzo Musetti e o cazaque Alexander Bublik, respectivamente vice e campeão, viram suas boas campanhas no torneio renderem frutos no ranking, ambos atingindo as melhores marcas da carreira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/heide-avanca-no-quali-do-ao-reis-e-eliminado-na-estreia.html",
+        "title": "Heide avança no quali do AO, Reis é eliminado na estreia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/07/heide-gstaad-comemora-2024-e1721387891598-1024x710.jpg",
+        "date": "12/01/2026",
+        "description": "Melbourne (Austrália)– Os dois primeiros brasileiros que entraram no qualificatório para o Australian Open tiveram sortes diferentes nesta segunda-feira. O paulista Gustavo Heide se deu bem e segue na briga por uma vaga na chave principal, já o pernambucano João Lucas Reis se despediu da competição."
     }
 ]
