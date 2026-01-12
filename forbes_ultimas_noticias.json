@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2026/01/o-agente-secreto-faz-historia-no-globo-de-ouro-com-dois-premios/",
+        "title": "\"O Agente Secreto\" Faz História no Globo de Ouro com Dois Prêmios",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Wagner-Moura-globo-de-ouro-o-agente-secreto-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Longa conquistou prêmio de Melhor Filme em Língua Não Inglesa; Wagner Moura levou Melhor Ator em Filme de Drama"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2026/01/conheca-os-finalistas-ao-titulo-de-melhor-carro-do-mundo-em-2026/",
+        "title": "Os Finalistas Ao Título de Melhor Carro do Mundo em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/VISTIQExterior1-1-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Os vencedores de cada categoria do World Car Awards serão anunciados na abertura do New York Auto Show, em abril de 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2026/01/retrospectiva-ces-2026-o-que-o-evento-nos-revelou-sobre-o-futuro-do-trabalho-sem-usar-a-palavra-trabalho/",
+        "title": "Retrospectiva CES 2026: o Que o Evento nos Revelou sobre o Futuro do Trabalho",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/CES_2026_Retrospectiva-300x200.png",
+        "date": "12/01/2026",
+        "description": "Aprender a trabalhar ao lado de máquinas inteligentes será um tema dominante na vida profissional em 2026"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/2026/01/como-esta-cidade-dos-eua-virou-ima-de-bilionarios-ha-um-seculo/",
+        "title": "Como Esta Cidade dos EUA Virou Imã de Bilionários Há Um Século",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Life_Newport-bilionarios-rhode-island-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "De mansões da Era Dourada a clubes privados e imóveis à beira-mar, Newport tem um apelo que atrai ultrarricos por gerações"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/nova-zelandia-libera-compra-de-imoveis-para-quem-investir-r-15-milhoes-no-pais/",
+        "title": "Nova Zelândia Libera Compra de Imóveis para Quem Investir R$ 15 Milhões no País",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-26-1-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "A medida cria uma exceção restrita a estrangeiros do programa Active Investor Plus, que exige aporte mínimo de NZ$ 5 milhões"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2026/01/5-tendencias-que-vao-redefinir-o-mundo-do-trabalho-em-2026/",
+        "title": "Futuro do Trabalho: 5 Tendências para Ficar de Olho em 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/CARREIRA_FUTURODOTRABALHO_2408-1-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Embora a IA lidere o debate, especialistas apontam transformações nos modelos de gestão, no RH e nas habilidades demandadas"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/as-previsoes-para-a-economia-brasileira-segundo-seis-grandes-bancos/",
+        "title": "As Previsões para a Economia Brasileira, Segundo Seis Grandes Bancos",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/05/Money_Brasil-Economia_7out20_SEAN-GLADWELL_GettyImages-2-1536x1024-1.jpg",
+        "date": "12/01/2026",
+        "description": "Veja o que as instituições financeiras projetam para a Selic, PIB, inflação e câmbio para o final do ano"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2026/01/adeus-amazon-o-plano-do-google-na-nrf-para-dominar-o-varejo-com-ia-agentica/",
         "title": "Adeus, Amazon? o Plano do Google na NRF para Dominar o Varejo com \"IA Agêntica\"",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/NRF_Sundar_Google-300x200.jpg",
@@ -19,54 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/0x0-3-300x200.webp",
         "date": "11/01/2026",
         "description": "Quando a mente avança primeiro e a consciência vem depois"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/lamborghini-temerario-o-supercarro-do-dia-a-dia-e-da-pista/",
-        "title": "Lamborghini Temerario: o Supercarro do Dia a Dia (e da Pista)",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/s2-1-300x200.jpg",
-        "date": "11/01/2026",
-        "description": "Com foco em desempenho e potência absolutos, é fácil esquecer que o Temerario usa tecnologia híbrida, incorporando três motores elétricos"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/vinicola-ceretto-piemonte-a-meca-italiana-gastronomica-e-enoturistica/",
-        "title": "Vinícola Ceretto: Piemonte, a Meca Italiana Gastronômica e Enoturística",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_wsb_ceretto_vinicola_11.01.2026-300x200.jpg",
-        "date": "11/01/2026",
-        "description": "Reconhecida como um dos 50 melhores vinhedos do mundo, a propriedade une produção orgânica e hospitalidade de luxo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/ex-funcionarios-da-spacex-fundaram-141-startups-avaliadas-em-us-106-bilhoes/",
-        "title": "Ex-funcionários da SpaceX Fundaram 141 Startups Avaliadas em US$ 10,6 Bilhões",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/09/SpaceX-300x200.jpg",
-        "date": "11/01/2026",
-        "description": "Empresários levam consigo a \"cultura\" da empresa de Musk e agradam investidores"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/arabia-saudita-abre-mercado-imobiliario-a-estrangeiros-com-investimento-minimo-elevado/",
-        "title": "Arábia Saudita Abre Mercado Imobiliário a Estrangeiros Com Investimento Mínimo Elevado",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-22-300x200.jpg",
-        "date": "11/01/2026",
-        "description": "Decreto que entra em vigor no dia 21 de janeiro autoriza estrangeiros a comprar imóveis no reino, com regras rígidas, zonas limitadas e barreiras contra especulação"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/produtividade-consciente-como-praticar-mindfulness-e-estar-realmente-presente-no-trabalho/",
-        "title": "Produtividade Consciente: Faça o Teste e Descubra se Está Pronto para 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/teste-mindfullness-300x200.jpg",
-        "date": "11/01/2026",
-        "description": "Além de melhorar o bem-estar, mantém a mente afiada e eleva o engajamento e o desempenho no trabalho; faça o quiz e descubra seu nível de presença"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/130-anos-do-monograma-da-louis-vuitton-a-historia-por-tras-do-simbolo-mais-famoso-do-luxo/",
-        "title": "130 Anos do Monograma da Louis Vuitton: a História por trás do Símbolo",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Life_Louis-Vuitton-300x200.jpg",
-        "date": "11/01/2026",
-        "description": "Nascido como proteção contra falsificações, o desenho criado por Georges Vuitton celebra seu aniversário com releituras e novas coleções"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/o-futuro-das-viagens-ia-chatbots-realidade-virtual-e-agentes/",
-        "title": "O Futuro das Viagens: IA, Chatbots, Realidade Virtual e Agentes",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Viagem_IA-300x200.png",
-        "date": "11/01/2026",
-        "description": "A IA está mudando toda a experiência de viagem de ponta a ponta, muitas vezes de forma imperceptível e em uma velocidade sem precedentes"
     }
 ]
