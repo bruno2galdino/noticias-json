@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/acao-da-gol-sobe-mais-de-50-apos-divulgacao-do-valor-da-oferta-para-fechamento-de-capital/",
+        "title": "Ação da Gol Sobe Mais de 50% após Divulgação do Valor da Oferta para Fechamento de Capital",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-gol-aviao-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Companhia aérea anunciou que laudo de avaliação indicou um preço de R$ 10,13 por lote de mil ações preferenciais"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/com-ia-alphabet-atinge-us-4-tri-em-valor-de-mercado/",
+        "title": "Com IA, Alphabet Atinge US$ 4 Tri em Valor de Mercado",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/forbes-google-300x200.webp",
+        "date": "12/01/2026",
+        "description": "A controladora do Google ultrapassou a Apple pela primeira vez desde 2019 em valor de mercado"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2026/01/de-salvador-a-hollywood-a-carreira-de-wagner-moura-no-cinema/",
+        "title": "De Salvador a Hollywood: A Carreira de Wagner Moura no Cinema",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Wagner-Moura-globo-de-ouro-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Ator entrou para a história ao vencer o Globo de Ouro pelo papel em “O Agente Secreto”"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/agricultores-franceses-bloqueiam-portos-e-rodovias-contra-acordo-mercosul-ue/",
         "title": "Agricultores Franceses Bloqueiam Portos e Rodovias contra Acordo Mercosul-UE",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_money_acordo_mercosul-ue_12.01.2026-300x200.jpg",
@@ -29,10 +50,10 @@
     },
     {
         "url": "https://forbes.com.br/forbes-money/2026/01/j-p-morgan-preve-aumento-de-juros-pelo-fed-so-em-2027/",
-        "title": "J.P Morgan Prevê Aumento de Juros Pelo Fed em 2027; Barclays e Goldman Adiam Previsões de Corte",
+        "title": "JP Morgan Prevê Aumento de Juros Pelo Fed em 2027; Barclays e Goldman Adiam Previsões de Corte",
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/2025-04-09T181725Z_1_LYNXNPEL3814E_RTROPTP_4_MACRO-FED-TRUMP-300x200.jpg",
         "date": "12/01/2026",
-        "description": "J.P Morgan retirou sua perspectiva de redução em janeiro. Já Goldman Sachs e o Barclays, que haviam previsto cortes em março e junho, agora esperam uma redução de 0,25% em setembro e dezembro"
+        "description": "JP Morgan retirou sua perspectiva de redução em janeiro. Já Goldman Sachs e o Barclays, que haviam previsto cortes em março e junho, agora esperam uma redução de 0,25% em setembro e dezembro"
     },
     {
         "url": "https://forbes.com.br/forbes-mulher/2026/01/barbie-lanca-sua-primeira-boneca-com-autismo/",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/BRAVA-ENERGIA-300x200.jpg",
         "date": "12/01/2026",
         "description": "Executivo, que era presidente do conselho da empresa, assumirá o cargo em 1º de fevereiro"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/ju-ferraz-ambicao-crescimento-e-impacto-metas-para-2026/",
-        "title": "Equilíbrio, Presença e Impacto: 5 Metas para 2026",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/metas-para-2026-300x200.jpg",
-        "date": "12/01/2026",
-        "description": "Com menos piloto automático e mais presença consciente, veja resoluções para evoluir profissionalmente neste ano"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/trump-diz-que-pode-deixar-exxon-fora-da-venezuela-ceo-chamou-pais-de-nao-investivel/",
-        "title": "Trump Diz Que Pode Deixar Exxon Fora da Venezuela; CEO Chamou País de \"Não Investível\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Trump_Venezuela-300x200.png",
-        "date": "12/01/2026",
-        "description": "O presidente-executivo da Exxon, Darren Woods, disse a Trump que a Venezuela precisaria mudar suas leis antes de se tornar uma oportunidade atrativa de investimento"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/ceo-da-heineken-renuncia-ao-cargo-diante-de-vendas-fracas-e-investidores-insatisfeitos/",
-        "title": "CEO da Heineken Renuncia Ao Cargo",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/presidente-executivo-da-Heineken-Dolf-van-den-Brink-300x200.jpg",
-        "date": "12/01/2026",
-        "description": "No cargo desde 2020, Dolf van den Brink deixará a posição em 31 de maio; conselho lançará uma busca por um sucessor"
     }
 ]
