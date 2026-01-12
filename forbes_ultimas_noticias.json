@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/por-que-o-bank-of-america-esta-mais-otimista-com-o-brasil/",
+        "title": "Por Que o Bank of America Está Mais Otimista com o Brasil?",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/07/ForbesMoney_BofA-11junho21-SOPA-Images-1536x1024-1.jpg",
+        "date": "12/01/2026",
+        "description": "Segundo o banco americano, potencial queda dos juros norteia perspectiva positiva para o país"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/leilao-em-porto-de-santos-tem-outorga-minima-de-r-500-milhoes/",
+        "title": "Governo Define Outorga Mínima de R$ 500 Milhões para Leilão de Porto em Santos",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/money_porto-santos-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Comunicado foi feito pelo Ministério de Portos e Aeroportos nesta segunda-feira (12); o terminal portuário será concedido à iniciativa privada por 25 anos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/ameaca-de-trump-contra-powell-aumenta-preocupacoes-com-independencia-do-fed/",
         "title": "Ameaça de Trump contra Powell aumenta preocupações com independência do Fed",
         "image": "https://forbes.com.br/wp-content/uploads/2022/06/powell-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_money_acordo_mercosul-ue_12.01.2026-300x200.jpg",
         "date": "12/01/2026",
         "description": "Manifestantes alegam concorrência desleal e bloqueiam depósitos de combustível em cidades estratégicas"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/departamento-de-justica-abre-investigacao-criminal-contra-presidente-do-banco-central-americano/",
-        "title": "Departamento de Justiça Abre Investigação Criminal contra Presidente do Banco Central Americano",
-        "image": "https://forbes.com.br/wp-content/uploads/2022/05/jerome-powell-federalreserve-forbesmoney-300x200.jpg",
-        "date": "12/01/2026",
-        "description": "Ação marca uma escalada no conflito entre o presidente do Federal Reserve e Donald Trump"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/colheita-de-soja-atinge-06-da-area-no-brasil-e-supera-ritmo-da-safra-anterior/",
-        "title": "Colheita de Soja Atinge 0,6% da Área no Brasil e Supera Ritmo da Safra Anterior",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_colheita_soja_12.01.2026-300x200.jpg",
-        "date": "12/01/2026",
-        "description": "Mato Grosso lidera os trabalhos no campo enquanto produtores iniciam o plantio da safrinha de milho em áreas pontuais"
     }
 ]
