@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/ameaca-de-trump-contra-powell-aumenta-preocupacoes-com-independencia-do-fed/",
+        "title": "Ameaça de Trump contra Powell aumenta preocupações com independência do Fed",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/06/powell-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "É o que aponta o economista-chefe do banco americano Goldman Sachs, Jan Hatzius"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/paramount-processa-warner-bros-para-obter-detalhes-sobre-acordo-com-netflix/",
         "title": "Paramount Processa Warner Bros para Obter Detalhes sobre Acordo com Netflix",
         "image": "https://forbes.com.br/wp-content/uploads/2023/04/tech-warner-bros-max-steaming-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_colheita_soja_12.01.2026-300x200.jpg",
         "date": "12/01/2026",
         "description": "Mato Grosso lidera os trabalhos no campo enquanto produtores iniciam o plantio da safrinha de milho em áreas pontuais"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/executiva-argentina-assume-a-lideranca-da-merck-no-brasil/",
-        "title": "Executiva Argentina Assume a Liderança da Merck no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/mulher-ceo-merck-maria-sol-quibel-300x200.jpg",
-        "date": "12/01/2026",
-        "description": "Há 10 anos na farmacêutica, María Sol Quibel desembarca como gerente-geral do grupo e diretora executiva da divisão de Healthcare, em meio a outras movimentações internas"
     }
 ]
