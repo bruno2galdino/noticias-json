@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-mulher/2026/01/barbie-lanca-sua-primeira-boneca-com-autismo/",
+        "title": "Barbie Lança Sua Primeira Boneca com Autismo",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/mulher-barbie-autismo-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Mattel criou a primeira versão da boneca com transtorno do espectro autista, em parceria com a ONG Autistic Self Advocacy Network"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2026/01/richard-kovacs-sera-novo-ceo-da-brava-energia-apos-renuncia-de-oddone/",
+        "title": "Richard Kovacs Será Novo CEO da Brava Energia",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/BRAVA-ENERGIA-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Executivo, que era presidente do conselho da empresa, assumirá o cargo em 1º de fevereiro"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2026/01/ju-ferraz-ambicao-crescimento-e-impacto-metas-para-2026/",
+        "title": "Equilíbrio, Presença e Impacto: 5 Metas para 2026",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/metas-para-2026-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Com menos piloto automático e mais presença consciente, veja resoluções para evoluir profissionalmente neste ano"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/trump-diz-que-pode-deixar-exxon-fora-da-venezuela-ceo-chamou-pais-de-nao-investivel/",
         "title": "Trump Diz Que Pode Deixar Exxon Fora da Venezuela; CEO Chamou País de \"Não Investível\"",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Trump_Venezuela-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/VISTIQExterior1-1-300x200.jpg",
         "date": "12/01/2026",
         "description": "Os vencedores de cada categoria do World Car Awards serão anunciados na abertura do New York Auto Show, em abril de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/retrospectiva-ces-2026-o-que-o-evento-nos-revelou-sobre-o-futuro-do-trabalho-sem-usar-a-palavra-trabalho/",
-        "title": "Retrospectiva CES 2026: o Que o Evento nos Revelou sobre o Futuro do Trabalho",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/CES_2026_Retrospectiva-300x200.png",
-        "date": "12/01/2026",
-        "description": "Aprender a trabalhar ao lado de máquinas inteligentes será um tema dominante na vida profissional em 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/como-esta-cidade-dos-eua-virou-ima-de-bilionarios-ha-um-seculo/",
-        "title": "Como Esta Cidade dos EUA Virou Imã de Bilionários Há Um Século",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Life_Newport-bilionarios-rhode-island-300x200.jpg",
-        "date": "12/01/2026",
-        "description": "De mansões da Era Dourada a clubes privados e imóveis à beira-mar, Newport tem um apelo que atrai ultrarricos por gerações"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/nova-zelandia-libera-compra-de-imoveis-para-quem-investir-r-15-milhoes-no-pais/",
-        "title": "Nova Zelândia Libera Compra de Imóveis para Quem Investir R$ 15 Milhões no País",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-26-1-300x200.jpg",
-        "date": "12/01/2026",
-        "description": "A medida cria uma exceção restrita a estrangeiros do programa Active Investor Plus, que exige aporte mínimo de NZ$ 5 milhões"
     }
 ]
