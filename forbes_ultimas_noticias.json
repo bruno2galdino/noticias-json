@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbessaude/2026/01/anvisa-autoriza-nova-indicacao-de-remedio-para-prevencao-do-hiv-1/",
+        "title": "Anvisa Autoriza Nova Indicação de Remédio para Prevenção do HIV-1",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/1752851100687a629c9939a_1752851100_3x2_xl-1-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "A recomendação abrange pessoas a partir de 12 anos que apresentem risco de adquirir o HIV-1."
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/bolsa-e-dolar-fecham-quase-estaveis-apesar-de-tensao-nos-eua/",
+        "title": "Bolsa e Dólar Fecham Quase Estáveis Apesar de Tensão nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/01/GettyImages-1235995591-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Governo Trump ameaçou acusar criminalmente o presidente do BC americano, Jerome Powell, o que despertou receios sobre a autonomia do Federal Reserve"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/comissao-europeia-admite-aplicacao-de-acordo-com-mercosul-sem-aval-do-parlamento/",
+        "title": "Comissão Europeia Admite Aplicação de Acordo com Mercosul sem Aval do Parlamento",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_money_acordo_mercosul-ue_12.01.2026-1-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "Porta-voz confirma que termos do tratado permitem início da execução comercial antes de votação legislativa"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/por-que-o-bank-of-america-esta-mais-otimista-com-o-brasil/",
         "title": "Por Que o Bank of America Está Mais Otimista com o Brasil?",
         "image": "https://forbes.com.br/wp-content/uploads/2021/07/ForbesMoney_BofA-11junho21-SOPA-Images-1536x1024-1.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/10/carreira-gol-aviao-300x200.jpg",
         "date": "12/01/2026",
         "description": "Companhia aérea anunciou que laudo de avaliação indicou um preço de R$ 10,13 por lote de mil ações preferenciais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/com-ia-alphabet-atinge-us-4-tri-em-valor-de-mercado/",
-        "title": "Com IA, Alphabet Atinge US$ 4 Tri em Valor de Mercado",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/forbes-google-300x200.webp",
-        "date": "12/01/2026",
-        "description": "A controladora do Google ultrapassou a Apple pela primeira vez desde 2019 em valor de mercado"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/de-salvador-a-hollywood-a-carreira-de-wagner-moura-no-cinema/",
-        "title": "De Salvador a Hollywood: A Carreira de Wagner Moura no Cinema",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Wagner-Moura-globo-de-ouro-300x200.jpg",
-        "date": "12/01/2026",
-        "description": "Ator entrou para a história ao vencer o Globo de Ouro pelo papel em “O Agente Secreto”"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/agricultores-franceses-bloqueiam-portos-e-rodovias-contra-acordo-mercosul-ue/",
-        "title": "Agricultores Franceses Bloqueiam Portos e Rodovias contra Acordo Mercosul-UE",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_money_acordo_mercosul-ue_12.01.2026-300x200.jpg",
-        "date": "12/01/2026",
-        "description": "Manifestantes alegam concorrência desleal e bloqueiam depósitos de combustível em cidades estratégicas"
     }
 ]
