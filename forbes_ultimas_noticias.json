@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-pessimismo-com-processo-contra-presidente-do-fed/",
+        "title": "Pré-mercado: Pessimismo com Processo contra Presidente do FED",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "12/01/2026",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 12 de dezembro"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/fazenda-conectada-corta-r-1-milhao-em-custos-com-4g-no-campo/",
         "title": "Fazenda Conectada Corta R$ 1 Milhão em Custos com 4G no Campo",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_fazenda_conectada_case_tim_12.01.2026-2-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/NRF_Sundar_Google-300x200.jpg",
         "date": "12/01/2026",
         "description": "De acordo com Sundar Pichai, CEO do Google e da Alphabet, a empresa processou, apenas em dezembro, mais de 90 trilhões de tokens de varejistas por meio de sua API"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/o-custo-de-viver-como-um-bilionario-atingiu-um-novo-recorde-em-2025/",
-        "title": "O Custo de Viver Como um Bilionário Atingiu um Novo Recorde em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-589061056-1-300x200.jpg",
-        "date": "11/01/2026",
-        "description": "Viver no topo ficou 5,5% mais caro em 2025, enquanto o índice ao consumidor geral subiu 2,7%"
     }
 ]
