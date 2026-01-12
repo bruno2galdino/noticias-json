@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2026/01/adeus-amazon-o-plano-do-google-na-nrf-para-dominar-o-varejo-com-ia-agentica/",
+        "title": "Adeus, Amazon? o Plano do Google na NRF para Dominar o Varejo com \"IA Agêntica\"",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/NRF_Sundar_Google-300x200.jpg",
+        "date": "12/01/2026",
+        "description": "De acordo com Sundar Pichai, CEO do Google e da Alphabet, a empresa processou, apenas em dezembro, mais de 90 trilhões de tokens de varejistas por meio de sua API"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/o-custo-de-viver-como-um-bilionario-atingiu-um-novo-recorde-em-2025/",
         "title": "O Custo de Viver Como um Bilionário Atingiu um Novo Recorde em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-589061056-1-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Viagem_IA-300x200.png",
         "date": "11/01/2026",
         "description": "A IA está mudando toda a experiência de viagem de ponta a ponta, muitas vezes de forma imperceptível e em uma velocidade sem precedentes"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2026/01/morre-aos-92-anos-manoel-carlos-autor-de-grandes-sucessos-da-teledramaturgia-brasileira/",
-        "title": "Morre, Aos 92 Anos, Manoel Carlos, Autor de Grandes Sucessos da Teledramaturgia Brasileira",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/bark-airlines-9-300x200.png",
-        "date": "10/01/2026",
-        "description": "Escritor ficou marcado por tramas ambientadas no Rio de Janeiro e por protagonistas batizadas de Helena"
     }
 ]
