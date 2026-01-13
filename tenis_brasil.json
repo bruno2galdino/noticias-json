@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/entenda-os-problemas-e-as-solucoes-da-coluna-dos-tenistas.html",
+        "title": "Entenda os problemas (e as soluções) da coluna dos tenistas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/pod_coluna.jpg",
+        "date": "12/01/2026",
+        "description": "A recente revelação de João Fonseca sobre a condição de “coluna retificada” levou oPodcast de TenisBrasila um longo e interessante bate papo com o fisiatra e ortopedista Gilbert Bang, com extenso currículo no trabalho com tenistas e atual orientador de Bia Haddad Maia."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/wild-vence-duelo-sul-americano-e-avanca-no-quali-de-melbourne.html",
+        "title": "Wild vence duelo sul-americano e avança no quali de Melbourne",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/wild_austria_vibra-1024x624.jpg",
+        "date": "12/01/2026",
+        "description": "Melbourne (Austrália)– Último brasileiro a estrear no quali do Australian Open, o paranaense Thiago Wild venceu o duelo sul-americano com Alvaro Guillen Meza nesta terça-feira. Ele bateu o equatoriano em sets diretos, gastando 1h33 para marcar o placar final de 7/5 e 6/3."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-13-01.html",
         "title": "O dia dos brasileiros: veja os resultados desta terça",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/daniel_silva_uruguai_fore-1024x683.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nauhany_bjk_fore_treino.jpg",
         "date": "12/01/2026",
         "description": "São Paulo (SP) –A jovem paulista Nauhany Silva, de apenas 15 anos, já definiu o calendário inicial da temporada 2026. Naná começará o ano disputando dois torneios profissionais na Inglaterra, ambos em quadra duras e cobertas: o ITF W35 de Birmingham, entre os dias 26 e 31 de janeiro, e o ITF W35 de Sheffield, na sequência."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/mais-jovem-do-top-mil-frances-de-16-anos-vence-1o-torneio-profissional.html",
-        "title": "Mais jovem do top mil, francês de 16 anos vence 1º torneio profissional",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/arte_ps_moise.jpg",
-        "date": "12/01/2026",
-        "description": "O francês Moise Kouame, jogador mais jovem entre os 1000 melhores do mundo, conquistou seu primeiro torneio profissional aos 16 anos. Ele venceu o ITF M25 de Hazebrouck, em quadras duras e cobertas, ao superar o compatriota Theo Papamalamis por 7/6 (7-5) e 6/1."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ela-pode-nascer-a-qualquer-momento-diz-ruud-sobre-sua-primeira-filha.html",
-        "title": "“Ela pode nascer a qualquer momento”, diz Ruud sobre sua primeira filha",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/11/ruud_noivado.jpg",
-        "date": "12/01/2026",
-        "description": "Auckland (Nova Zelândia)– Casper Ruud pode se tornar pai a qualquer momento. Sua noiva,Maria Galligani, está na reta final da gravidez e, em entrevista, o norueguês revelou que sua participação no ATP 250 de Auckland pode ser interrompida."
     }
 ]
