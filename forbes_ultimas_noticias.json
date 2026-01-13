@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/geral/2026/01/morre-cartunista-scott-adams-aos-68-anos/",
+        "title": "Morre Cartunista Scott Adams, Aos 68 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Cartunista_Scott_Adams_Dilbert-300x200.png",
+        "date": "13/01/2026",
+        "description": "Criador de “Dilbert” deixa legado de sátira corporativa que marcou gerações de leitores"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/agricultores-franceses-cercam-paris-com-tratores-em-protesto-contra-acordo-mercosul-ue/",
+        "title": "Agricultores Franceses Cercam Paris com Tratores em Protesto contra Acordo Mercosul-UE",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_money_acordo_mercosul_ue_13.01.2026-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Manifestantes ocupam Parlamento e Arco do Triunfo para contestar entrada de produtos sul-americanos no mercado europeu"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2026/01/haleon-anuncia-andres-gonzalez-como-presidente-para-a-america-latina/",
         "title": "Haleon Anuncia Novo Presidente para a América Latina",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Haleon-nomeia-Andres-Gonzalez-como-Novo-Presidente-para-a-America-Latina-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Robots_Davos-300x200.jpg",
         "date": "13/01/2026",
         "description": "O Davos Tech Summit iniciou nesta quarta-feira, 13, uma série de demonstrações públicas que marcam a transição da Inteligência Artificial das telas para o mundo tangível com mais de 10 unidades, entre humanoides e robôs móveis"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/forum-economico-de-davos-vai-lidar-com-ordem-global-abalada-por-trump/",
-        "title": "Fórum Econômico de Davos Vai Lidar com Ordem Global Abalada por Trump",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Vista-de-Davos-na-Suica-onde-acontecera-o-Forum-Economico-Mundial-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Elites empresariais e políticas vão participar da reunião anual na próxima semana"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/oracle-nomeia-novo-diretor-senior-de-marketing-para-a-america-latina/",
-        "title": "Oracle Nomeia Novo Diretor Sênior de Marketing para a América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Paulo-Ribeiro-oracle-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Com mais de 20 anos de carreira, Paulo Ribeiro soma passagens por empresas como AWS, WeWork, Wellhub e IBM"
     }
 ]
