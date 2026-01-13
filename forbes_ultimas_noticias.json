@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/aviacao-executiva-tem-ano-historico-em-2025-o-que-mudou/",
+        "title": "Aviação Executiva Tem Ano Histórico em 2025. O Que Mudou?",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Global_7500_S6A0583_V1-sales-proposal-cover-1-1-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Dados mostram que houve 3.878.836 voos de jatos privados no mundo em 2025. Isso foi 4,6% acima de 2024"
+    },
+    {
         "url": "https://forbes.com.br/forbessaude/2026/01/anvisa-autoriza-nova-indicacao-de-remedio-para-prevencao-do-hiv-1/",
         "title": "Anvisa Autoriza Nova Indicação de Remédio para Prevenção do HIV-1",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/1752851100687a629c9939a_1752851100_3x2_xl-1-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Donald_Trump-16mnov25_The-Washington-Post-_Getty-300x200.jpg",
         "date": "12/01/2026",
         "description": "O presidente lançou um plano de compra de títulos hipotecários via Fannie Mae e Freddie Mac para tentar reduzir taxas e ampliar a acessibilidade ao crédito imobiliário"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/apos-ultrapassa-la-em-valor-de-mercado-google-anuncia-acordo-historico-com-a-apple/",
-        "title": "Após Ultrapassá-la em Valor de Mercado, Google Anuncia Acordo Histórico com Apple",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Apple_Siri-1-300x200.jpg",
-        "date": "12/01/2026",
-        "description": "Em um movimento emblemático, a dona do iPhone confirmou que utilizará a infraestrutura e os modelos de linguagem do Google para uma Siri \"mais personalizada\""
     }
 ]
