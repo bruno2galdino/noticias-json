@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/trump-diz-que-aplicara-tarifa-de-25-a-paises-que-fazem-negocios-com-o-ira/",
+        "title": "Trump Diz Que Aplicará Tarifa de 25% a Países Que Fazem Negócios com o Irã",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Donald_Trump_GettyImages_23.11.2025-1-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Governo do país do Oriente Médio passa pelos maiores protestos antigoverno em anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-inflacao-americana-definira-movimento-da-terca-feira/",
+        "title": "Pré-mercado: Inflação Americana Definirá Movimento da Terça-feira",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "13/01/2026",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 13 de janeiro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-mulher/2026/01/globo-de-ouro-de-2026-foca-em-mulheres-e-sinaliza-mudanca-em-hollywood/",
         "title": "Globo de Ouro Foca em Mulheres e Sinaliza Mudança em Hollywood",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Amy-Poehler-globo-de-ouro-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/tributacao-de-dividendos-forbes-300x200.jpg",
         "date": "13/01/2026",
         "description": "Entenda como a Lei nº 15.270/2025 redefine estratégias de governança e incentivos de longo prazo a partir de 2026"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/siri-turbo-entenda-como-a-ia-do-google-permitira-que-o-iphone-execute-tarefas-mais-sofisticadas/",
-        "title": "Entenda Como a IA do Google Permitirá Que a Siri Execute Tarefas Mais Sofisticadas",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Siri-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "O diferencial técnico é a garantia de que os dados do usuário não serão armazenados ou utilizados pelo Google, mantendo a promessa de privacidade que é o pilar de marketing da empresa de Tim Cook"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/soja-responde-por-31-das-exportacoes-do-agro-em-2025/",
-        "title": "Soja Responde Por 31% Das Exportações Do Agro Em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_soja_colheita_foto_FlavioBeneditoConceicao-Getty-Images_13.01.2025-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Complexo da oleaginosa gerou US$ 52,9 bilhões, com 132,8 milhões de toneladas exportadas, mantendo liderança mesmo com queda de preços internacionais"
     }
 ]
