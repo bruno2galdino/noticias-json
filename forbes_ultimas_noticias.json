@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/bancos-pesam-e-puxam-queda-do-ibovespa-dolar-fecha-estavel/",
+        "title": "Bancos Pesam e Puxam Queda do Ibovespa; Dólar Fecha Estável",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "13/01/2026",
+        "description": "No exterior, o dia foi marcado pela divulgação da inflação americana"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2026/01/brandvoice-tanqueray-apresenta-nova-campanha-global-com-sarah-jessica-parker/",
         "title": "Tanqueray Apresenta Nova Campanha Global com Sarah Jessica Parker",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/tanqueray-destaque-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cana_de_acucar_colheita_13.01.2026-300x200.jpg",
         "date": "13/01/2026",
         "description": "Fabricação de etanol apresenta recuo de 5,3% no ciclo atual em razão da menor disponibilidade de matéria-prima"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2026/01/dr-arthur-guerra-por-que-as-micropausas-sao-a-chave-para-terminar-o-dia-com-energia/",
-        "title": "Por Que as Micropausas São a Chave para Terminar o Dia com Energia",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-1365669010-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Interrupções curtas durante o trabalho ajudam a prevenir problemas físicos e mantêm a mente mais clara e descansada"
     }
 ]
