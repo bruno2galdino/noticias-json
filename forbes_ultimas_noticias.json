@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/casa-dos-ventos-faz-acordo-de-mais-de-us-500-mi-para-fornecer-energia-para-data-centers-da-ascenty/",
+        "title": "Casa dos Ventos Faz Acordo de Mais de US$ 500 Mi para Fornecer Energia para Data Centers da Ascenty",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/11/energia-eolica_51121_Sergio-Perez-Reuters-e1766006947587.jpg",
+        "date": "13/01/2026",
+        "description": "Acordo prevê a entrada da empresa de data centers, controlada pela canadense Brookfield e pela Digital Realty, como sócia em dois novos empreendimentos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-tech/2026/01/nas-vesperas-do-forum-economico-mundial-davos-recebe-uma-comitiva-de-robos-entenda/",
+        "title": "Às Vésperas do Fórum Econômico Mundial, Davos Recebe uma \"Comitiva\" de Robôs; Entenda",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Robots_Davos-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "O Davos Tech Summit iniciou nesta quarta-feira, 13, uma série de demonstrações públicas que marcam a transição da Inteligência Artificial das telas para o mundo tangível com mais de 10 unidades, entre humanoides e robôs móveis"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/forum-economico-de-davos-vai-lidar-com-ordem-global-abalada-por-trump/",
+        "title": "Fórum Econômico de Davos Vai Lidar com Ordem Global Abalada por Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Vista-de-Davos-na-Suica-onde-acontecera-o-Forum-Economico-Mundial-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Elites empresariais e políticas vão participar da reunião anual na próxima semana"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2026/01/oracle-nomeia-novo-diretor-senior-de-marketing-para-a-america-latina/",
         "title": "Oracle Nomeia Novo Diretor Sênior de Marketing para a América Latina",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Paulo-Ribeiro-oracle-300x200.jpg",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Amy-Poehler-globo-de-ouro-300x200.jpg",
         "date": "13/01/2026",
         "description": "Protagonismo feminino marcou as principais categorias da premiação, enquanto dados recentes mostram que a indústria ainda enfrenta desafios em diversidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/por-que-um-cruzeiro-pelo-danubio-e-a-melhor-forma-de-conhecer-a-europa/",
-        "title": "Por Que um Cruzeiro Pelo Danúbio É a Melhor Forma de Conhecer a Europa",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/0.Vale-de-Wachau-Austria-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Da Alemanha ao Mar Negro, o segundo maior rio do continente passa por 10 países e centenas de belezas naturais"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/infraestrutura-global-de-data-centers-deve-movimentar-us-3-trilhoes-ate-2030/",
-        "title": "Infraestrutura Global de Data Centers Deve Movimentar US$ 3 Trilhões Até 2030",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-28-1-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "A expansão global da infraestrutura digital é puxada por IA, nuvem e pré-contratos de grandes empresas de tecnologia, aponta a Moody’s"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/conheca-o-asteroide-assassino-de-planetas-que-passou-perto-da-terra-nesta-segunda/",
-        "title": "Conheça o Asteroide \"Assassino de Planetas\" Que Passou Perto da Terra Nesta Segunda",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/04/ASTEROIDE-1-300x200.png",
-        "date": "13/01/2026",
-        "description": "Chamado de 2005 UK1, ele tem um diâmetro estimado de pouco menos de um quilômetro e passou a uma distância de 12,4 milhões de quilômetros"
     }
 ]
