@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/bancos-centrais-globais-defendem-powell-apos-ameaca-de-trump/",
+        "title": "Bancos Centrais Globais Defendem Powell após Ameaça de Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/05/Money_FederalReserve_Divulgacao-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Chefes de vários dos principais bancos centrais do mundo divulgaram uma declaração conjunta sem precedentes em apoio ao presidente do BC americano, Jerome Powell"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/sergey-brin-se-torna-a-3a-pessoa-mais-rica-do-mundo/",
+        "title": "Sergey Brin Volta a Ser a 3ª Pessoa Mais Rica do Mundo com Alta das Ações da Alphabet",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/11/GettyImages-2076656137-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "A Alphabet tornou-se a quarta maior empresa com valor de mercado de US$ 4 trilhões, juntando-se a Nvidia, Microsoft e Apple ao atingir a marca."
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/china-negocia-reducao-de-tarifas-sobre-veiculos-eletricos-com-a-ue/",
+        "title": "China Negocia Redução de Tarifas sobre Veículos Elétricos com a UE",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/03/BYD-300x200.png",
+        "date": "13/01/2026",
+        "description": "Vendas de carros chineses no bloco econômico estavam em pauta desde 2024 e, pela primeira vez, um acordo está sendo costurado"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/bancos-pesam-e-puxam-queda-do-ibovespa-dolar-fecha-estavel/",
         "title": "Bancos Pesam e Puxam Queda do Ibovespa; Dólar Fecha Estável",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_money_acordo_mercosul_ue_13.01.2026-300x200.jpg",
         "date": "13/01/2026",
         "description": "Manifestantes ocupam Parlamento e Arco do Triunfo para contestar entrada de produtos sul-americanos no mercado europeu"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/haleon-anuncia-andres-gonzalez-como-presidente-para-a-america-latina/",
-        "title": "Haleon Anuncia Novo Presidente para a América Latina",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Haleon-nomeia-Andres-Gonzalez-como-Novo-Presidente-para-a-America-Latina-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Executivo deixa o cargo de presidente da Unilever Brasil para assumir a posição na fabricante de marcas como Sensodyne, Eno e Advil"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/vietna-autoriza-quatro-novos-frigorificos-brasileiros-para-exportacao-de-carne-bovina/",
-        "title": "Vietnã Autoriza Quatro Novos Frigoríficos Brasileiros para Exportação de Carne Bovina",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Forbes_Trabalhador-em-frigorifico-300x200.webp",
-        "date": "13/01/2026",
-        "description": "Ministério da Agricultura confirma expansão da capacidade exportadora para um dos mercados mais dinâmicos do Sudeste Asiático"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/producao-de-acucar-no-centro-sul-despenca-287-na-primeira-quinzena-de-dezembro/",
-        "title": "Produção de Açúcar no Centro-sul Despenca 28,7% na Primeira Quinzena de Dezembro",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cana_de_acucar_colheita_13.01.2026-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Fabricação de etanol apresenta recuo de 5,3% no ciclo atual em razão da menor disponibilidade de matéria-prima"
     }
 ]
