@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2026/01/oracle-nomeia-novo-diretor-senior-de-marketing-para-a-america-latina/",
+        "title": "Oracle Nomeia Novo Diretor Sênior de Marketing para a América Latina",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Paulo-Ribeiro-oracle-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Com mais de 20 anos de carreira, Paulo Ribeiro soma passagens por empresas como AWS, WeWork, Wellhub e IBM"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/inflacao-nos-eua-aumenta-como-esperado-em-dezembro/",
+        "title": "Inflação nos EUA Sobe em Dezembro, Mas Fica Dentro das Expectativas",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/02/2025-02-12T134552Z_1_LYNXMPEL1B0L5_RTROPTP_4_WHOLEFOODSMARKET-365-1-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Índice de preços ao consumidor (CPI) subiu 0,3% no mês passado"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/reforma-tributaria-deve-reforcar-valor-dos-shoppings-de-alta-renda/",
+        "title": "Reforma Tributária Deve Reforçar Valor dos Shoppings de Alta Renda",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/07/iguatemi-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Relatórios de Itaú BBA e Santander indicam que ativos dominantes entram em vantagem no novo sistema de IVA"
+    },
+    {
+        "url": "https://forbes.com.br/carreira/2026/01/jose-olympio-pereira-deixa-j-safra-apos-tres-anos-como-ceo/",
+        "title": "José Olympio Pereira Deixa J. Safra Após Três Anos Como CEO",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Jose-Olympio-Pereira-J-Safra-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Liderança do banco de atacado passará a ser exercida de forma compartilhada por três executivos"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/trump-diz-que-aplicara-tarifa-de-25-a-paises-que-fazem-negocios-com-o-ira/",
         "title": "Trump Diz Que Aplicará Tarifa de 25% a Países Que Fazem Negócios com o Irã",
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/Donald_Trump_GettyImages_23.11.2025-1-300x200.jpg",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/04/ASTEROIDE-1-300x200.png",
         "date": "13/01/2026",
         "description": "Chamado de 2005 UK1, ele tem um diâmetro estimado de pouco menos de um quilômetro e passou a uma distância de 12,4 milhões de quilômetros"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2026/01/seu-signo-pode-estar-errado-psicologia-recria-o-zodiaco-com-base-na-ciencia/",
-        "title": "Seu Signo Pode Estar Errado: Psicologia Recria o Zodíaco com Base na Ciência",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-2199293733-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Do misticismo à ciência: o zodíaco reinterpretado pela psicologia da personalidade"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2026/01/agrotoxicos-e-cancer-o-que-voce-precisa-saber/",
-        "title": "Agrotóxicos e Câncer: o Que Você Precisa Saber",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-1503208215-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Relação entre exposição a agrotóxicos e câncer é reconhecida pela ciência e exige atenção a riscos e formas de prevenção"
-    },
-    {
-        "url": "https://forbes.com.br/forbeswsb/2026/01/como-a-americana-oskar-blues-liderou-o-movimento-da-cerveja-artesanal-em-lata/",
-        "title": "Como a Americana Oskar Blues Liderou o Movimento da Cerveja Artesanal em Lata",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/tequila-em-exposicao-no-bar-Caliente-Cab-em-Greenwich-Village-Foto-de-Chris-HondrosNewsmakers-Getty-Images_03-jan-26David-Dee-Delgado-2-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Ao desafiar o preconceito no início dos anos 2000, o criador da marca, Dale Katechis, mudou padrões de qualidade, consumo e identidade"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/fernanda-abilel-a-tributacao-de-dividendos-e-seus-impactos-na-gestao-da-remuneracao-executiva/",
-        "title": "A Tributação de Dividendos e seus Impactos na Gestão da Remuneração",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/tributacao-de-dividendos-forbes-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Entenda como a Lei nº 15.270/2025 redefine estratégias de governança e incentivos de longo prazo a partir de 2026"
     }
 ]
