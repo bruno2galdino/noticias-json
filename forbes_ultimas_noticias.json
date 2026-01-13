@@ -1,7 +1,49 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2026/01/haleon-anuncia-andres-gonzalez-como-presidente-para-a-america-latina/",
+        "title": "Haleon Anuncia Novo Presidente para a América Latina",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Haleon-nomeia-Andres-Gonzalez-como-Novo-Presidente-para-a-America-Latina-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Executivo deixa o cargo de presidente da Unilever Brasil para assumir a posição na fabricante de marcas como Sensodyne, Eno e Advil"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/vietna-autoriza-quatro-novos-frigorificos-brasileiros-para-exportacao-de-carne-bovina/",
+        "title": "Vietnã Autoriza Quatro Novos Frigoríficos Brasileiros para Exportação de Carne Bovina",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Forbes_Trabalhador-em-frigorifico-300x200.webp",
+        "date": "13/01/2026",
+        "description": "Ministério da Agricultura confirma expansão da capacidade exportadora para um dos mercados mais dinâmicos do Sudeste Asiático"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/producao-de-acucar-no-centro-sul-despenca-287-na-primeira-quinzena-de-dezembro/",
+        "title": "Produção de Açúcar no Centro-sul Despenca 28,7% na Primeira Quinzena de Dezembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cana_de_acucar_colheita_13.01.2026-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Fabricação de etanol apresenta recuo de 5,3% no ciclo atual em razão da menor disponibilidade de matéria-prima"
+    },
+    {
+        "url": "https://forbes.com.br/colunas/2026/01/dr-arthur-guerra-por-que-as-micropausas-sao-a-chave-para-terminar-o-dia-com-energia/",
+        "title": "Por Que as Micropausas São a Chave para Terminar o Dia com Energia",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-1365669010-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Interrupções curtas durante o trabalho ajudam a prevenir problemas físicos e mantêm a mente mais clara e descansada"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/acordo-mercosul-ue-sinaliza-limites-da-pressao-diplomatica-de-donald-trump/",
+        "title": "Acordo Mercosul-UE Sinaliza Limites da Pressão Diplomática de Donald Trump",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_money_acordo_mercosul_ue_uniao_europeia_13.01.2026-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "Avanço em parceria com europeus abre caminho para novos tratados com Canadá e Emirados Árabes Unidos nos próximos anos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2026/01/na-serie-mulheres-poderosas-empresarias-contam-como-venderam-sua-empresa-por-us-1-bilhao/",
+        "title": "Como as Fundadoras da Pismo Venderam Sua Empresa por US$ 1 Bilhão",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/daniela-e-juliana-binatti-300x200.jpg",
+        "date": "13/01/2026",
+        "description": "No quarto episódio do videocast de Forbes Mulher, as irmãs Juliana e Daniela Binatti, cofundadoras da Pismo, relembram sua trajetória e dão dicas para empreendedores"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/casa-dos-ventos-faz-acordo-de-mais-de-us-500-mi-para-fornecer-energia-para-data-centers-da-ascenty/",
-        "title": "Casa dos Ventos Faz Acordo de Mais de US$ 500 Mi para Fornecer Energia para Data Centers da Ascenty",
+        "title": "Casa dos Ventos Faz Acordo de Mais de US$ 500 Mi com a Ascenty",
         "image": "https://forbes.com.br/wp-content/uploads/2021/11/energia-eolica_51121_Sergio-Perez-Reuters-e1766006947587.jpg",
         "date": "13/01/2026",
         "description": "Acordo prevê a entrada da empresa de data centers, controlada pela canadense Brookfield e pela Digital Realty, como sócia em dois novos empreendimentos"
@@ -26,47 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Paulo-Ribeiro-oracle-300x200.jpg",
         "date": "13/01/2026",
         "description": "Com mais de 20 anos de carreira, Paulo Ribeiro soma passagens por empresas como AWS, WeWork, Wellhub e IBM"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/inflacao-nos-eua-aumenta-como-esperado-em-dezembro/",
-        "title": "Inflação nos EUA Sobe em Dezembro, Mas Fica Dentro das Expectativas",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/02/2025-02-12T134552Z_1_LYNXMPEL1B0L5_RTROPTP_4_WHOLEFOODSMARKET-365-1-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Índice de preços ao consumidor (CPI) subiu 0,3% no mês passado"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/reforma-tributaria-deve-reforcar-valor-dos-shoppings-de-alta-renda/",
-        "title": "Reforma Tributária Deve Reforçar Valor dos Shoppings de Alta Renda",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/07/iguatemi-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Relatórios de Itaú BBA e Santander indicam que ativos dominantes entram em vantagem no novo sistema de IVA"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/jose-olympio-pereira-deixa-j-safra-apos-tres-anos-como-ceo/",
-        "title": "José Olympio Pereira Deixa J. Safra Após Três Anos Como CEO",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Jose-Olympio-Pereira-J-Safra-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Liderança do banco de atacado passará a ser exercida de forma compartilhada por três executivos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/trump-diz-que-aplicara-tarifa-de-25-a-paises-que-fazem-negocios-com-o-ira/",
-        "title": "Trump Diz Que Aplicará Tarifa de 25% a Países Que Fazem Negócios com o Irã",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/Donald_Trump_GettyImages_23.11.2025-1-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Governo do país do Oriente Médio passa pelos maiores protestos antigoverno em anos"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-inflacao-americana-definira-movimento-da-terca-feira/",
-        "title": "Pré-mercado: Inflação Americana Definirá Movimento da Terça-feira",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "13/01/2026",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta terça-feira, 13 de janeiro"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mulher/2026/01/globo-de-ouro-de-2026-foca-em-mulheres-e-sinaliza-mudanca-em-hollywood/",
-        "title": "Globo de Ouro Foca em Mulheres e Sinaliza Mudança em Hollywood",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Amy-Poehler-globo-de-ouro-300x200.jpg",
-        "date": "13/01/2026",
-        "description": "Protagonismo feminino marcou as principais categorias da premiação, enquanto dados recentes mostram que a indústria ainda enfrenta desafios em diversidade"
     }
 ]
