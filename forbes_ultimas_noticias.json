@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2026/01/forbes-mulher-agro-a-voz-feminina-do-pantanal-liderando-a-comunicacao-para-um-agro-sustentavel-e-real/",
+        "title": "A Voz Feminina do Pantanal: Liderando a Comunicação para um Agro Sustentável e Real",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_bovinos_pantanal_14.01.2026-300x200.jpg",
+        "date": "14/01/2026",
+        "description": "As mulheres do agro emergem com poderosa voz para contar a história da região de forma integral"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/regulamentacao-da-reforma-tributaria-e-aprovada-veja-vetos/",
+        "title": "Reforma Tributária É Sancionada; Veja Vetos e Próximos Passos",
+        "image": "https://forbes.com.br/wp-content/uploads/2023/10/Impostos-getty-2-1-300x200.jpg",
+        "date": "14/01/2026",
+        "description": "Lei simplifica a tributação sobre o consumo ao substituir cinco impostos por dois tributos e cria comitê gestor do novo Imposto sobre Bens e Serviços (IBS)"
+    },
+    {
         "url": "https://forbes.com.br/geral/2026/01/tarcisio-diminui-distancia-para-lula-no-2o-turno-em-nova-pesquisa-quaest/",
         "title": "Tarcísio Diminui Distância para Lula no 2º Turno em Nova Pesquisa Quaest",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/tarcisio-de-freitas-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-33-300x200.jpg",
         "date": "14/01/2026",
         "description": "A Polícia Federal cumpre 42 mandados em cinco estados e amplia a ofensiva contra o Banco Master; nova fase envolve Nelson Tanure"
-    },
-    {
-        "url": "https://forbes.com.br/geral/2026/01/comunicado-oficial-forbes-brasil-esclarecimento-de-marca/",
-        "title": "Comunicado Oficial – Esclarecimento de Marca",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/07/forbes-logo-escuro-1200x675-1-300x200.png",
-        "date": "14/01/2026",
-        "description": "Forbes Brasil não comercializa capas, não vende matérias editoriais e tampouco negocia inclusão de nomes em qualquer uma de suas listas"
-    },
-    {
-        "url": "https://forbes.com.br/forbesesg/2026/01/2025-foi-terceiro-ano-mais-quente-ja-registrado-no-mundo-dizem-cientistas-da-ue/",
-        "title": "2025 Foi Terceiro Ano Mais Quente Já Registrado no Mundo",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Nascer-do-sol-no-Mar-Mediterraneo-em-Barcelona-300x200.jpg",
-        "date": "14/01/2026",
-        "description": "Temperaturas médias ultrapassaram 1,5 grau Celsius de aquecimento global em três anos"
     }
 ]
