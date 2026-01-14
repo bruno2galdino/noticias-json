@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-preocupacao-com-resultados-de-empresas-nos-eua/",
+        "title": "Pré-mercado: Preocupação com Resultados de Empresas nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "14/01/2026",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quarta-feira, 14 de janeiro"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/carne-bovina-acelera-exportacoes-e-amplia-peso-estrategico-no-agro-brasileiro/",
         "title": "Carne Bovina Acelera Exportações e Amplia Peso Estratégico no Agro Brasileiro",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_pecuaria_carne_bovina_14.01.2026-2-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Cowork_App_Anthropic-300x200.png",
         "date": "14/01/2026",
         "description": "Recurso integra Claude ao fluxo de trabalho, permitindo edição de documentos, organização de arquivos e uso de conectores externos"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/4-estrategias-para-fazer-o-linkedin-trabalhar-a-seu-favor/",
-        "title": "4 Estratégias para Fazer o LinkedIn Trabalhar a Seu Favor",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/carreira-linkedin-300x200.jpg",
-        "date": "14/01/2026",
-        "description": "Atualizar o perfil, manter consistência e demonstrar domínio em IA podem ajudar a definir quais oportunidades chegam até você neste ano"
     }
 ]
