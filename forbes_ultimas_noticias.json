@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/as-ameacas-de-trump-a-autonomia-do-fed-nao-abalam-o-mercado-de-acoes/",
+        "title": "Por Que as Ameaças de Trump À Autonomia do Fed Não Abalam o Mercado de Ações?",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/07/Trump-diz-que-Powell-do-Fed-estara-fora-em-8-meses-300x200.jpg",
+        "date": "14/01/2026",
+        "description": "Analistas de mercado se prepararam para uma reação severa, mas ela não se concretizou"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/china-atinge-recorde-de-1118-milhoes-de-toneladas-em-importacoes-de-soja-em-2025/",
         "title": "China Atinge Recorde de 111,8 Milhões de Toneladas em Importações de Soja em 2025",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_soja_graos_14.01.2026-300x200.jpg",
@@ -22,10 +29,10 @@
     },
     {
         "url": "https://forbes.com.br/forbeslife/2026/01/eua-suspenderao-processamento-de-vistos-do-brasil-e-74-paises-diz-fox-news/",
-        "title": "EUA Suspenderá Processamento de Vistos do Brasil e 74 Países, Diz Fox News",
+        "title": "EUA Suspenderá Processamento de Vistos do Brasil e 74 Países",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/money_vistos-300x200.jpg",
         "date": "14/01/2026",
-        "description": "Processamento dos vistos será suspenso a partir de 21 de janeiro; informação é citada por memorando do Departamento de Estado dos EUA"
+        "description": "Concessão de vistos de migração será congelada a partir de 21 de janeiro; Departamento de Estado dos EUA cita \"taxas inaceitáveis\" de programas de assistência social"
     },
     {
         "url": "https://forbes.com.br/forbeslife/2026/01/pop-up-em-ny-celebra-os-130-anos-do-monograma-lv/",
@@ -42,6 +49,13 @@
         "description": "A Polícia Federal cumpre 42 mandados em cinco estados e amplia a ofensiva contra o Banco Master; nova fase envolve Nelson Tanure"
     },
     {
+        "url": "https://forbes.com.br/geral/2026/01/comunicado-oficial-forbes-brasil-esclarecimento-de-marca/",
+        "title": "Comunicado Oficial – Esclarecimento de Marca",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/07/forbes-logo-escuro-1200x675-1-300x200.png",
+        "date": "14/01/2026",
+        "description": "Forbes Brasil não comercializa capas, não vende matérias editoriais e tampouco negocia inclusão de nomes em qualquer uma de suas listas"
+    },
+    {
         "url": "https://forbes.com.br/forbesesg/2026/01/2025-foi-terceiro-ano-mais-quente-ja-registrado-no-mundo-dizem-cientistas-da-ue/",
         "title": "2025 Foi Terceiro Ano Mais Quente Já Registrado no Mundo",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Nascer-do-sol-no-Mar-Mediterraneo-em-Barcelona-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Foto-de-drone-da-cidade-de-Davos-Suica-300x200.jpg",
         "date": "14/01/2026",
         "description": "A pesquisa também mostrou que as percepções de risco ambiental caíram, enquanto outras preocupações vieram à tona"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/luxo-em-crise-saks-pede-recuperacao-judicial-nos-eua/",
-        "title": "Luxo em Crise: Saks Pede Recuperação Judicial nos EUA",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/saks_getty-300x200.jpg",
-        "date": "14/01/2026",
-        "description": "Grupo, que possui as redes de varejo Saks, Bergdorf Goodman e Neiman Marcus, não conseguiu pagar fornecedores e credores"
-    },
-    {
-        "url": "https://forbes.com.br/brand-voice/2026/01/brandvoice-ricardo-almeida-quando-o-tempo-se-torna-o-verdadeiro-luxo/",
-        "title": "Quando o Tempo se Torna o Verdadeiro Luxo",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/12/ricardo-almeida-destaque-300x200.png",
-        "date": "14/01/2026",
-        "description": "Com serviço que leva curadoria e consultoria de estilo até o cliente, Ricardo Almeida reflete transformação no mercado brasileiro"
     }
 ]
