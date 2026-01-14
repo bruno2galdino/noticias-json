@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/ibovespa-renova-maximas-com-vale-em-destaque/",
+        "title": "Ibovespa Renova Máximas com Vale em Destaque",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/08/Negocios_Ibovespa_051118_GettyImages-1024x683-1.jpg",
+        "date": "14/01/2026",
+        "description": "Ações da mineradora avançaram cerca de 5%"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/oracle-e-processada-por-investidores-por-perdas-ligadas-a-desenvolvimento-de-ia/",
+        "title": "Oracle É Processada por Investidores por Perdas Ligadas a Desenvolvimento de IA",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/12/money-oracle-saude-20dez21-NurPhoto.png",
+        "date": "14/01/2026",
+        "description": null
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/forbes-mulher-agro-a-voz-feminina-do-pantanal-liderando-a-comunicacao-para-um-agro-sustentavel-e-real/",
         "title": "A Voz Feminina do Pantanal: Liderando a Comunicação para um Agro Sustentável e Real",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_bovinos_pantanal_14.01.2026-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/money_vistos-300x200.jpg",
         "date": "14/01/2026",
         "description": "Concessão de vistos de migração será congelada a partir de 21 de janeiro; Departamento de Estado dos EUA cita \"taxas inaceitáveis\" de programas de assistência social"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/pop-up-em-ny-celebra-os-130-anos-do-monograma-lv/",
-        "title": "Pop-Up em NY Celebra os 130 Anos do Monograma LV",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/life_donataLV-300x200.jpg",
-        "date": "14/01/2026",
-        "description": "Aberto até abril, o Louis Vuitton Hotel promove imersão em savoir-faire"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/pf-mira-banco-master-e-bloqueia-mais-de-r-57-bilhoes-em-nova-fase-da-operacao-compliance-zero/",
-        "title": "PF Mira Banco Master e Bloqueia Mais de R$ 5,7 Bilhões em Nova Fase da Operação Compliance Zero",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/11/2-33-300x200.jpg",
-        "date": "14/01/2026",
-        "description": "A Polícia Federal cumpre 42 mandados em cinco estados e amplia a ofensiva contra o Banco Master; nova fase envolve Nelson Tanure"
     }
 ]
