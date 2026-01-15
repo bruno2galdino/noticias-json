@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2026/01/mark-travers-4-sinais-de-que-o-burnout-esta-mudando-sua-personalidade/",
+        "title": "4 Sinais de Que o Burnout Está Mudando Sua Personalidade",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-1300448380-300x200.jpg",
+        "date": "15/01/2026",
+        "description": "Mudanças sutis no humor, nas emoções e no comportamento podem indicar que o esgotamento já está afetando quem você é antes mesmo de impactar seu desempenho"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-cast/2026/01/conab-reduz-estimativa-para-safra-de-soja-2025-26-mas-mantem-projecao-de-recorde/",
+        "title": "Conab Reduz Estimativa para Safra de Soja 2025/26, Mas Mantém Projeção de Recorde",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_soja_colheita_descarregamento_de_graos_15.01.2026-300x200.jpg",
+        "date": "15/01/2026",
+        "description": "Colheita de soja inicia em estados-chave sob cenário de recuperação climática em Mato Grosso"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/jbs-investira-us-13-bilhao-no-mexico-para-ampliar-producao-de-frango/",
+        "title": "JBS Investirá US$ 1,3 Bilhão no México para Ampliar Produção de Frango",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_frango_granja_15.01.2026-300x200.jpg",
+        "date": "15/01/2026",
+        "description": "Foco na redução de importações e expansão da capacidade produtiva marca nova fase da Pilgrim's Pride no mercado mexicano"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2026/01/zoe-saldana-se-torna-a-atriz-de-maior-bilheteria-do-mundo/",
+        "title": "Zoe Saldaña se Torna a Atriz de Maior Bilheteria do Mundo",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/zoe-saldana-300x200.jpg",
+        "date": "15/01/2026",
+        "description": "Somando US$ 15,47 bilhões em bilheteria, estrela de “Avatar” ultrapassa Scarlett Johansson no ranking global"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2026/01/gru-space-planeja-levar-turistas-a-lua-e-inaugurar-nova-era-civilizacional/",
         "title": "GRU Space Planeja Levar Turistas À Lua e Inaugurar Nova era Civilizacional",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/GRU_Space-300x200.png",
@@ -7,7 +35,7 @@
         "description": "Reservas exigem depósitos milionários e reforçam visão da empresa de que a humanidade será interplanetária"
     },
     {
-        "url": "https://forbes.com.br/forbeslife/forbes-sport/2026/01/o-que-a-pintura-secreta-da-cadillac-revela-sobre-sua-estreia-na-formula-1/",
+        "url": "https://forbes.com.br/forbeslife/2026/01/o-que-a-pintura-secreta-da-cadillac-revela-sobre-sua-estreia-na-formula-1/",
         "title": "O Que a Pintura “Secreta” da Cadillac Revela sobre Sua Estreia na Fórmula 1",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/front-three-quarter-view-of-cadillac-formula-1-test-livery-300x200.jpeg",
         "date": "15/01/2026",
@@ -40,33 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-8-1-300x200.png",
         "date": "15/01/2026",
         "description": "A Reag representa menos de 0,001% do ativo total ajustado do sistema financeiro nacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-investimentos-da-tsmc-em-ia-estimulam-as-acoes/",
-        "title": "Pré-mercado: Investimentos da TSMC em IA Estimulam as Ações",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "15/01/2026",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta quinta-feira, 15 de janeiro"
-    },
-    {
-        "url": "https://forbes.com.br/colunas/2026/01/iona-szkurnik-quando-a-inteligencia-se-torna-poder-o-futuro-nas-maos-de-quem-controla-os-sistemas/",
-        "title": "Quando a Inteligência se Torna Poder: o Futuro nas Mãos de Quem Controla os Sistemas",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-2209499833-300x200.jpg",
-        "date": "15/01/2026",
-        "description": "Se a IA organiza a realidade, o ponto-chave é quem decide como — e para quem — ela funciona"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/eua-suspende-vistos-quais-tipos-foram-afetados/",
-        "title": "EUA Suspende Vistos: Quais Tipos Foram Afetados?",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/life_visto-estados-unidos_eua-300x200.webp",
-        "date": "15/01/2026",
-        "description": "Medida do governo Trump visa barrar estrangeiros que possam depender de assistência social; veja a lista dos vistos atingidos pela ordem"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/o-avanco-do-lixo-de-ia-a-batalha-pela-credibilidade-digital/",
-        "title": "O Avanço do Lixo de IA: a Batalha Pela Credibilidade Digital",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Vingadores_Doutor_Destino_Lixo_IA-300x200.png",
-        "date": "15/01/2026",
-        "description": "Grandes produções, como Vingadores, já sofrem com o lixo de IA, que espalha falsos trailers e confunde espectadores, afetando estratégias de marketing"
     }
 ]
