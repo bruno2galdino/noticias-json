@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-tech/2026/01/gru-space-planeja-levar-turistas-a-lua-e-inaugurar-nova-era-civilizacional/",
+        "title": "GRU Space Planeja Levar Turistas À Lua e Inaugurar Nova era Civilizacional",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GRU_Space-300x200.png",
+        "date": "15/01/2026",
+        "description": "Reservas exigem depósitos milionários e reforçam visão da empresa de que a humanidade será interplanetária"
+    },
+    {
+        "url": "https://forbes.com.br/forbeslife/forbes-sport/2026/01/o-que-a-pintura-secreta-da-cadillac-revela-sobre-sua-estreia-na-formula-1/",
+        "title": "O Que a Pintura “Secreta” da Cadillac Revela sobre Sua Estreia na Fórmula 1",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/front-three-quarter-view-of-cadillac-formula-1-test-livery-300x200.jpeg",
+        "date": "15/01/2026",
+        "description": "A marca de luxo da General Motors já tem data para alinhar no grid: o GP da Austrália, em Melbourne, no dia 8 de março"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-mulher/2026/01/fiz-algo-inedito-como-empreendedora-no-brasil-diz-patricia-lima-apos-venda-da-simple-organic/",
+        "title": "\"Fiz Algo Inédito no Brasil\", Diz Patrícia Lima após Venda da Simple Organic",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/patricia-lima-simple-organic-300x200.jpg",
+        "date": "15/01/2026",
+        "description": "Fundadora concluiu venda total para a Hypera Pharma depois de oito anos à frente da marca de clean beauty; agora, aposta em novos projetos dentro e fora do Brasil"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/moura-dubeux-anuncia-oferta-publica-acoes-500-milhoes/",
         "title": "Moura Dubeux Anuncia Oferta Primária de Ações e Pode Levantar até R$ 500 Milhões",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-5-300x200.png",
@@ -47,26 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Vingadores_Doutor_Destino_Lixo_IA-300x200.png",
         "date": "15/01/2026",
         "description": "Grandes produções, como Vingadores, já sofrem com o lixo de IA, que espalha falsos trailers e confunde espectadores, afetando estratégias de marketing"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/presidente-da-embrapa-redesenha-as-financas-do-orgao-para-manter-a-soberania-do-agro/",
-        "title": "Presidente da Embrapa Redesenha as Finanças do Órgão para Manter a Soberania do Agro",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_embrapa_silvia_massruha_15.01.2026-300x200.jpg",
-        "date": "15/01/2026",
-        "description": "Sob a gestão de Silvia Massruhá, a maior instituição de pesquisa agrícola do país reorganiza sua estrutura financeira, amplia alianças com o setor privado e fortalece sua presença internacional"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/comece-2026-com-estas-tendencias-de-moda-masculina/",
-        "title": "Comece 2026 com Estas Tendências de Moda Masculina",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/site-raquel-300x200.png",
-        "date": "15/01/2026",
-        "description": "Tendências mostram abordagem mais consciente do estilo pessoal e equilíbrio entre o clássico e ousadia"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-1/2026/01/duba-recorde-venda-imoveis-10-milhoes/",
-        "title": "Dubai Bate Recorde Com 500 Imóveis Vendidos Acima De US$ 10 Milhões Em 2025",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-31-300x200.jpg",
-        "date": "15/01/2026",
-        "description": "Volume financeiro do segmento alcançou US$ 9 bilhões e consolidou o emirado como um dos mercados mais ativos do mundo em residências de luxo"
     }
 ]
