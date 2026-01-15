@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/apesar-de-tombo-de-4-do-petroleo-ibovespa-fecha-em-alta/",
+        "title": "Apesar de Tombo de 4% do Petróleo, Ibovespa Fecha em Alta",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/fechamento-money-14-300x200.png",
+        "date": "15/01/2026",
+        "description": "A Petrobras acompanhou a queda, mas o principal índice da B3 renovar máximas históricas."
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/spx-capital-aposta-em-parceria-com-a-vision-cybersecurity-e-investira-ate-r-400-milhoes/",
         "title": "SPX Capital Investirá Até R$ 400 Milhões na Vision Cybersecurity",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/GettyImages-2223015556-1-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/zoe-saldana-300x200.jpg",
         "date": "15/01/2026",
         "description": "Somando US$ 15,47 bilhões em bilheteria, estrela de “Avatar” ultrapassa Scarlett Johansson no ranking global"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/gru-space-planeja-levar-turistas-a-lua-e-inaugurar-nova-era-civilizacional/",
-        "title": "GRU Space Planeja Levar Turistas À Lua e Inaugurar Nova era Civilizacional",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/GRU_Space-300x200.png",
-        "date": "15/01/2026",
-        "description": "Reservas exigem depósitos milionários e reforçam visão da empresa de que a humanidade será interplanetária"
     }
 ]
