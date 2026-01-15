@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/moura-dubeux-anuncia-oferta-publica-acoes-500-milhoes/",
+        "title": "Moura Dubeux Anuncia Oferta Primária de Ações e Pode Levantar até R$ 500 Milhões",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-5-300x200.png",
+        "date": "15/01/2026",
+        "description": "Construtora lança oferta restrita a investidores profissionais, com prioridade aos acionistas e foco no crescimento e no reforço de capital"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/com-mercados-em-alta-blackrock-atinge-us-14-trilhoes-de-ativos-sob-gestao/",
+        "title": "BlackRock Atinge US$ 14 Trilhões de Ativos sob Gestão",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/blackrock--300x200.jpg",
+        "date": "15/01/2026",
+        "description": "Empresa registrou um lucro ajustado de US$ 2,18 bilhões, ou US$ 13,16 por ação, nos três meses até 31 de dezembro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/banco-central-decreta-liquidacao-extrajudicial-da-reag-investimentos/",
         "title": "Banco Central Decreta Liquidação Extrajudicial da Reag Investimentos",
         "image": "https://forbes.com.br/wp-content/uploads/2025/08/Tamanho-site-Tech-8-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-31-300x200.jpg",
         "date": "15/01/2026",
         "description": "Volume financeiro do segmento alcançou US$ 9 bilhões e consolidou o emirado como um dos mercados mais ativos do mundo em residências de luxo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/a-fraude-por-ia-explodiu-esta-startup-de-verificacao-de-antecedentes-esta-lucrando-com-isso/",
-        "title": "A Fraude por IA Explodiu; Esta Startup de Verificação de Antecedentes Está Lucrando com Isso",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/IA_Lucro-300x200.png",
-        "date": "15/01/2026",
-        "description": "A verificação de antecedentes criminais ajudou o cofundador e CEO da Checkr, Daniel Yanisse, a transformar sua startup"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/operacoes-de-aumento-de-capital-avancam-80-em-2025-entenda-a-razao-para-o-boom/",
-        "title": "Operações de Aumento de Capital Avançam 80% em 2025; Entenda o \"Boom\"",
-        "image": "https://forbes.com.br/wp-content/uploads/2021/09/Money_Acoes-em-Alta_12ou20_Jesada-Wongsa-_-EyeEm_GettyImages-3.jpg",
-        "date": "15/01/2026",
-        "description": "Anúncios na CVM subiram de 61 para 110 e se concentraram no último mês do ano. Bom desempenho da bolsa brasileira, juros altos e questões tributárias são motivos"
     }
 ]
