@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/primeiro-dia-do-australian-open-tera-estreias-de-bia-alcaraz-e-sabalenka.html",
-        "title": "Primeiro dia do Australian Open terá estreias de Bia, Alcaraz e Sabalenka",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/bia-spopen-toss-2025-1024x683.jpg",
-        "date": "15/01/2026",
-        "description": "Melbourne (Austrála) –O primeiro dia do Australian Open terá a estreia brasileira de Beatriz Haddad Maia e também as partidas de Carlos Alcaraz, Aryna Sabalenka, Venus Williams e Alexander Zverev."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-15-01.html",
         "title": "O dia dos brasileiros: veja os resultados desta quinta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/saraiva_criciuma_rebate.jpg",
@@ -14,11 +7,25 @@
         "description": "Challenger de Buenos Aires (Argentina) – Saibro – US$ 63 milQuartas de final –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/saquarema-recebe-a-copa-dos-municipios-de-beach-tennis-com-recorde.html",
+        "title": "Saquarema recebe a Copa dos Municípios de Beach Tennis com recorde",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/saquarema_festival-de-verao-2.jpeg",
+        "date": "15/01/2026",
+        "description": "Saquarema (RJ)– A famosa praia de Itaúna, em Saquarema (RJ), vai receber neste fim de semana a terceira edição da Copa dos Municípios, torneio que reunirá 11 cidades do estado do Rio de Janeiro com suas equipes na busca pelos títulos por categorias e também pelo título geral. A organização será da ABTERJ, a Associação de Beach Tennis do Estado do Rio de Janeiro. O evento faz parte do Festival de Verão organizado pela Prefeitura de Saquarema."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/carol-meligeni-cede-apenas-um-game-e-faz-quartas-em-buenos-aires.html",
         "title": "Carol Meligeni cede apenas um game e faz quartas em Buenos Aires",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/carol_meligeni_quito_fore-1024x683.webp",
         "date": "15/01/2026",
         "description": "Buenos Aires (Argentina) –A semana de Carol Meligeni no ITF W50+H de Buenos Aires segue com vitórias bastante tranquilas. A número 3 do Brasil e 241ª do mundo venceu a francesa Sara Cakarevic, 580ª colocada, por 6/0 e 6/1 para chegar às quartas de final."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/primeiro-dia-do-australian-open-tera-estreias-de-bia-alcaraz-e-sabalenka.html",
+        "title": "Primeiro dia do Australian Open terá estreias de Bia, Alcaraz e Sabalenka",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/bia-spopen-toss-2025-1024x683.jpg",
+        "date": "15/01/2026",
+        "description": "Melbourne (Austrála) –O primeiro dia do Australian Open terá a estreia brasileira de Beatriz Haddad Maia e também as partidas de Carlos Alcaraz, Aryna Sabalenka, Venus Williams e Alexander Zverev."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/fritz-shelton-e-ruud-lideram-inscritos-no-atp-500-de-dallas.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/fokina_adelaide_grita-1024x648.jpg",
         "date": "15/01/2026",
         "description": "Adelaide (Austrália) –A busca de Alejandro Davidovich Fokina pelo primeiro título de ATP continua nesta semana. Principal cabeça de chave no 250 de Adelaide, o espanhol de 26 anos e número 15 do mundo garantiu vaga na semifinal ao vencer nesta quinta-feira o monegasco Valentin Vacherot por 7/6 (7-4) e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/quem-pode-impedir-o-reencontro-de-alcaraz-e-sinner.html",
-        "title": "Quem pode impedir o reencontro de Alcaraz e Sinner?",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/blog_sin_alca.jpg",
-        "date": "15/01/2026",
-        "description": "O Australian Open fez o sorteio para a chave masculina nesta madrugada e mostrou o possível caminho dos principais favoritos. Apesar de Carlos Alcaraz ver diante de si uma trajetória teoricamente mais difícil do que Jannik Sinner, ainda me parece irreal apostar que os dois líderes do ranking não decidam mais um Grand Slam lá no dia 1º de fevereiro."
     }
 ]
