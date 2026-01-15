@@ -14,6 +14,13 @@
         "description": "A empresa afirmou que essa restrição se aplicará a todos os usuários do Grok, incluindo assinantes pagantes"
     },
     {
+        "url": "https://forbes.com.br/forbeswsb/2026/01/o-melhor-rum-envelhecido-do-mundo-segundo-a-san-francisco-world-spirits-2025/",
+        "title": "O Melhor Rum Envelhecido do Mundo, Segundo a San Francisco World Spirits 2025",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/wsb_rum_planteray_15.01.2026-300x200.jpg",
+        "date": "15/01/2026",
+        "description": "A marca Planteray domina premiações globais com rótulo jamaicano focado em complexidade e tradição"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/csn-iniciara-projeto-de-venda-de-ativos-para-reduzir-ate-r-18-bi-de-endividamento/",
         "title": "CSN Iniciará Projeto de Venda de Ativos para Reduzir até R$ 18 Bi de Endividamento",
         "image": "https://forbes.com.br/wp-content/uploads/2022/05/Siderurgica-China-Trabalhador-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/GRU_Space-300x200.png",
         "date": "15/01/2026",
         "description": "Reservas exigem depósitos milionários e reforçam visão da empresa de que a humanidade será interplanetária"
-    },
-    {
-        "url": "https://forbes.com.br/forbeslife/2026/01/o-que-a-pintura-secreta-da-cadillac-revela-sobre-sua-estreia-na-formula-1/",
-        "title": "O Que a Pintura “Secreta” da Cadillac Revela sobre Sua Estreia na Fórmula 1",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/front-three-quarter-view-of-cadillac-formula-1-test-livery-300x200.jpeg",
-        "date": "15/01/2026",
-        "description": "A marca de luxo da General Motors já tem data para alinhar no grid: o GP da Austrália, em Melbourne, no dia 8 de março"
     }
 ]
