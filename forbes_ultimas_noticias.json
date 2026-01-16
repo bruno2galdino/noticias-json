@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2026/01/produtividade-da-cana-no-centro-sul-cresce-266-em-dezembro/",
+        "title": "Produtividade da Cana no Centro-sul Cresce 26,6% em Dezembro",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cana_de-acucar_reuters_16.01.2026-300x200.jpg",
+        "date": "16/01/2026",
+        "description": "Dados do Centro de Tecnologia Canavieira apontam média de 73,4 toneladas por hectare no último mês do ano"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/brava-compra-ativos-da-petronas-por-us-450-mi-e-avalia-novas-operacoes/",
         "title": "Brava Compra Ativos da Petronas por US$ 450 Mi e Avalia Novas Operações",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/2026-01-16T112818Z_1_LYNXMPEM0F0LJ_RTROPTP_4_BRAZIL-ELECTION-PETROBRAS-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_estrada_lavouras_helen_jacintho_14.01.2026-300x200.jpg",
         "date": "16/01/2026",
         "description": "Confira a trajetória de um movimento de fomento ao setor em um dos mais respeitados veículos de negócios do mundo"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-recordes-sucessivos-no-ibovespa/",
-        "title": "Pré-mercado: Recordes Sucessivos no Ibovespa",
-        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
-        "date": "16/01/2026",
-        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 16 de janeiro"
     }
 ]
