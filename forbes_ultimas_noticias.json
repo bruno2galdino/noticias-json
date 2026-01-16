@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/atividade-economica-tem-alta-de-07-em-novembro-aponta-bc/",
+        "title": "Atividade Econômica Tem Alta de 0,7% em Novembro, Aponta BC",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/09/Money_Brasil-Economia-PIB-300x200.jpg",
+        "date": "16/01/2026",
+        "description": "Os dados do BC destoam daqueles divulgados pelo IBGE, uma vez que, em novembro, o volume de serviços recuou 0,1%"
+    },
+    {
         "url": "https://forbes.com.br/carreira/2026/01/cvc-promove-o-vice-presidente-fabio-mader-a-ceo/",
         "title": "CVC Promove VP Fábio Mader a CEO",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/carreira-ceo-cvc-Fabio-Mader-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/ChatGPT_Health-300x200.png",
         "date": "16/01/2026",
         "description": "Especialistas veem avanços no acesso ao bem-estar, mas alertam para riscos de dependência e desumanização"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/como-as-grandes-petroliferas-lucram-duas-vezes-com-a-ia-usando-e-a-alimentando/",
-        "title": "Como as Grandes Petrolíferas Lucram Duas Vezes com a IA — Usando e a Alimentando",
-        "image": "https://forbes.com.br/wp-content/uploads/2025/07/money_petroleo-300x200.jpg",
-        "date": "16/01/2026",
-        "description": "Indústria do petróleo descobriu que o apetite energético da IA não é um desafio — é sua tábua de salvação para o crescimento."
     }
 ]
