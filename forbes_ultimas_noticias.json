@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/carreira/2026/01/cvc-promove-o-vice-presidente-fabio-mader-a-ceo/",
+        "title": "CVC Promove VP Fábio Mader a CEO",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/carreira-ceo-cvc-Fabio-Mader-300x200.jpg",
+        "date": "16/01/2026",
+        "description": "Executivo sucede Fábio Godinho, que liderou a operadora e agência de viagens no processo de retomada pós-pandemia"
+    },
+    {
+        "url": "https://forbes.com.br/forbesagro/2026/01/helen-jacintho-5-anos/",
+        "title": "5 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_estrada_lavouras_helen_jacintho_14.01.2026-300x200.jpg",
+        "date": "16/01/2026",
+        "description": "Confira a trajetória de um movimento de fomento ao setor em um dos mais respeitados veículos de negócios do mundo"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-recordes-sucessivos-no-ibovespa/",
         "title": "Pré-mercado: Recordes Sucessivos no Ibovespa",
         "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/07/money_petroleo-300x200.jpg",
         "date": "16/01/2026",
         "description": "Indústria do petróleo descobriu que o apetite energético da IA não é um desafio — é sua tábua de salvação para o crescimento."
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/a-era-da-tecnologia-legal-acabou-veterano-da-salesforce-e-google-revela-o-novo-contexto-para-o-mercado-de-ia/",
-        "title": "Veterano de Google e Salesforce Revela o Novo Contexto para o Mercado de IA",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Avanish-Sahai-membro-do-Conselho-de-Administracao-da-Blip.-Credito-divulgacao-300x200.jpg",
-        "date": "16/01/2026",
-        "description": "Indiano criado no Brasil, Avanish Sahai acaba de incorporar o conselho da Blip, uma das empresas brasileiras com alto potencial de atração de investimentos em inteligência artificial"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/puxada-pela-geracao-z-tendencia-do-coffee-badging-deve-ganhar-forca-em-2026/",
-        "title": "Geração Z Impulsiona Tendência de Ir Ao Escritório Apenas para o Cafezinho",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/momento-do-cafe-forbes-300x200.jpg",
-        "date": "16/01/2026",
-        "description": "Ir ao escritório, tomar um café com colegas e voltar para trabalhar de casa virou uma estratégia para conciliar visibilidade e flexibilidade no trabalho híbrido; entenda"
     }
 ]
