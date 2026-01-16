@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2026/01/mosaic-registra-queda-nas-vendas-de-fertilizantes-na-america-do-norte/",
+        "title": "Mosaic Registra Queda nas Vendas de Fertilizantes na América do Norte",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_fertilizantes_fertilizante_Bloomberg_Creative_getty_images_16.01.2026-300x200.jpg",
+        "date": "16/01/2026",
+        "description": "Retração de 20% nos embarques de fosfatos e inverno precoce impactam resultados da gigante de insumos"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/01/previas-do-4t25-exibem-setor-imobiliario-em-ritmos-diferentes/",
+        "title": "Prévias Do 4T25 Exibem Setor Imobiliário Em Ritmos Diferentes",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-6-300x200.png",
+        "date": "16/01/2026",
+        "description": "A leitura do mercado sobre as prévias operacionais das empresas de real estate listadas na B3 indica desempenho mais consistente das incorporadoras de baixa renda, enquanto as de média e alta renda enfrentam um ambiente mais cauteloso"
+    },
+    {
         "url": "https://forbes.com.br/forbes-money/2026/01/atividade-economica-tem-alta-de-07-em-novembro-aponta-bc/",
         "title": "Atividade Econômica Tem Alta de 0,7% em Novembro, Aponta BC",
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Money_Brasil-Economia-PIB-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-5-1-300x200.png",
         "date": "16/01/2026",
         "description": "Investimentos bilionários, acesso direto a Nova York e crescimento populacional acelerado explicam a nova fase da cidade"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/conheca-aminta-e-brunello-di-montalcino-o-novo-capitulo-da-famiglia-cecchi/",
-        "title": "Conheça Aminta e Brunello Di Montalcino: o Novo Capítulo da Famiglia Cecchi",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Andrea-Cecchi-300x200.jpg",
-        "date": "16/01/2026",
-        "description": "Andrea Cecchi, quarta geração da empresa, presidente e CEO, diz que a vinícola foi um passo pensado para \"contar a identidade do território com vinhos essenciais\""
-    },
-    {
-        "url": "https://forbes.com.br/forbes-tech/2026/01/chatgpt-health-apoio-ou-ameaca-a-relacao-terapeutica/",
-        "title": "ChatGPT Health: apoio ou ameaça à relação terapêutica?",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/ChatGPT_Health-300x200.png",
-        "date": "16/01/2026",
-        "description": "Especialistas veem avanços no acesso ao bem-estar, mas alertam para riscos de dependência e desumanização"
     }
 ]
