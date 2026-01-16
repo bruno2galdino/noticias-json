@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-recordes-sucessivos-no-ibovespa/",
+        "title": "Pré-mercado: Recordes Sucessivos no Ibovespa",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "16/01/2026",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta sexta-feira, 16 de janeiro"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2026/01/como-wagner-moura-ganhou-as-redes-sociais-sem-nem-estar-nelas/",
         "title": "Como Wagner Moura Ganhou as Redes Sociais Sem Estar Nelas",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/life_wagner-300x200.jpg",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/momento-do-cafe-forbes-300x200.jpg",
         "date": "16/01/2026",
         "description": "Ir ao escritório, tomar um café com colegas e voltar para trabalhar de casa virou uma estratégia para conciliar visibilidade e flexibilidade no trabalho híbrido; entenda"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2026/01/nova-york-plano-transformar-prisoes-moradia-reforma-ambiental/",
-        "title": "O Plano de Nova York para Transformar Prisões Abandonadas em Moradia",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-33-300x200.jpg",
-        "date": "16/01/2026",
-        "description": "Governo propõe reutilizar ativos estatais ociosos e flexibilizar regras ambientais para ampliar a oferta habitacional sem avançar sobre áreas naturais"
     }
 ]
