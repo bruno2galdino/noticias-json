@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/coluna/2026/01/fraudes-financeiras-quando-a-sofisticacao-deixa-de-ser-virtude-e-passa-a-ser-risco/",
+        "title": "Fraudes Financeiras: Quando a Sofisticação Deixa de Ser Virtude e Passa a Ser Risco",
+        "image": "https://forbes.com.br/wp-content/uploads/2022/10/tech-dicas-fraude-28out22-GettyImages-300x200.png",
+        "date": "16/01/2026",
+        "description": "Fraudes financeiras não se resumem à ilegalidade explícita. Em sua essência, elas se baseiam na exploração deliberada de assimetrias de informação"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/inter-recebe-autorizacao-do-fed-para-abrir-agencia-internacional-nos-eua/",
+        "title": "Inter Recebe Autorização do Fed para Abrir Agência Internacional nos EUA",
+        "image": "https://forbes.com.br/wp-content/uploads/2021/03/tech-bancointer-300321-divulgacao.jpg",
+        "date": "16/01/2026",
+        "description": "A autorização viabiliza a abertura de uma agência em Miami, cidade onde o Inter mantém sua sede global desde 2021"
+    },
+    {
         "url": "https://forbes.com.br/forbesagro/2026/01/produtividade-da-cana-no-centro-sul-cresce-266-em-dezembro/",
         "title": "Produtividade da Cana no Centro-sul Cresce 26,6% em Dezembro",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_cana_de-acucar_reuters_16.01.2026-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2025/09/Money_Brasil-Economia-PIB-300x200.jpg",
         "date": "16/01/2026",
         "description": "Os dados do BC destoam daqueles divulgados pelo IBGE, uma vez que, em novembro, o volume de serviços recuou 0,1%"
-    },
-    {
-        "url": "https://forbes.com.br/carreira/2026/01/cvc-promove-o-vice-presidente-fabio-mader-a-ceo/",
-        "title": "CVC Promove VP Fábio Mader a CEO",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/carreira-ceo-cvc-Fabio-Mader-300x200.jpg",
-        "date": "16/01/2026",
-        "description": "Executivo sucede Fábio Godinho, que liderou a operadora e agência de viagens no processo de retomada pós-pandemia"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/helen-jacintho-5-anos/",
-        "title": "5 Anos",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_estrada_lavouras_helen_jacintho_14.01.2026-300x200.jpg",
-        "date": "16/01/2026",
-        "description": "Confira a trajetória de um movimento de fomento ao setor em um dos mais respeitados veículos de negócios do mundo"
     }
 ]
