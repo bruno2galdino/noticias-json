@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/machac-e-campeao-de-adelaide-em-semana-perfeita-dos-tchecos.html",
+        "title": "Machac é campeão de Adelaide em semana perfeita dos tchecos",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/machac_adelaide_trofeu-1024x679.jpg",
+        "date": "17/01/2026",
+        "description": "Adelaide (Austrália) –A segunda semana de torneios ATP 250 da temporada foi perfeita para os tenistas tchecos. Horas depois daconquista de Jakub Mensik em Auckland, foi a vez de Tomas Machac ser campeão em Adelaide, depois de vencer o francês Ugo Humbert por 6/4, 6/7 (2-7) e 6/2 em 2h23 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cocciaretto-aproveita-segunda-chance-e-vence-wta-de-hobart.html",
+        "title": "Cocciaretto aproveita segunda chance e vence WTA de Hobart",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/elisabetta-cocciaretto-2026-hobart-international-champion-1024x683.jpg",
+        "date": "17/01/2026",
+        "description": "Hobart (Austrália) –Três anos depois de ter ficado com o vice no WTA 250 de Hobart, Elisabetta Cocciaretto voltou à final do torneio e aproveitou sua segunda chance. A italiana de 24 anos e 80ª do ranking conquistou o título ao vencer a jovem norte-americana de 18 anos Iva Jovic, 30ª do mundo, por duplo 6/4."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/mensik-vence-seu-segundo-atp-e-encerra-serie-invicta-de-baez.html",
         "title": "Mensik vence seu segundo ATP e encerra série invicta de Baez",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/mensik_auckland_trofeu-1024x644.jpg",
@@ -9,7 +23,7 @@
     {
         "url": "https://tenisbrasil.uol.com.br/andreeva-vence-a-desgastada-mboko-e-conquista-adelaide.html",
         "title": "Andreeva vence a desgastada Mboko e conquista Adelaide",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/andreeva_adelaide_trofeu-1024x623.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/andreeva_adelaide_trofeu-1-1024x659.jpg",
         "date": "17/01/2026",
         "description": "Adelaide (Austrália) –A tão esperada final entre Mirra Andreeva e Victoria Mboko acabou sendo abreviada por conta da condição física da canadense. No encontro entre duas representantes da nova geração, Andreeva conquistou o título do WTA 500 de Adelaide ao marcar as parciais de 6/3 e 6/1, com direito a nove games seguidos, em apenas 1h04 de partida."
     },
@@ -32,7 +46,7 @@
         "title": "Bruno Soares analisa estreias de Bia e Fonseca na Austrália",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bia_fonseca_adelaide_conversam-1024x682.jpg",
         "date": "16/01/2026",
-        "description": "Melbourne (Austrália) –Multicampeão no circuito de duplas e ex-número 2 do mundo na modalidade, Bruno Soares analisou as estreias de Bia Haddad Maia e João Foneca no Australian Open. O primeiro Grand Slam da temporada 2026 começa neste final de semana, com transmisssões para o Brasil da ESPN e o Disney+ Premium."
+        "description": "Melbourne (Austrália) –Multicampeão no circuito de duplas e ex-número 2 do mundo na modalidade, Bruno Soares analisou as estreias de Bia Haddad Maia e João Fonseca no Australian Open. O primeiro Grand Slam da temporada 2026 começa neste final de semana, com transmissões para o Brasil da ESPN e o Disney+ Premium."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/carol-meligeni-vence-mais-uma-e-faz-semi-na-argentina.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/eala_auckland_vibra.jpg",
         "date": "16/01/2026",
         "description": "Melbourne (Austrália) –Alexandra Eala, de 20 anos, se destacou na última temporada do circuito se tornando a primeira filipina a alcançar o top 50, ocupando o número 49, atualmente. Ela estreará na chave principal do Australian Open nesta edição."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/aprendi-muito-com-as-duas-finais-de-slam-diz-anisimova.html",
-        "title": "“Aprendi muito com as duas finais de Slam”, diz Anisimova",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/anisimova_coletiva_sorrindo-1024x685.jpg",
-        "date": "16/01/2026",
-        "description": "Melbourne (Austrália) –Finalista nos dois últimos Grand Slam, Amanda Anisimova tenta assimilar as lições das derrotas sofridas em Wimbledon e no US Open para tentar buscar seu maior título da carreira. A norte-americana de 24 anos viveu uma grande temporada em 2025 e chega ao Australian Open como número 4 do mundo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/novo-milionario-da-australia-revela-planos-para-o-premio-do-1-point-slam.html",
-        "title": "‘Novo milionário da Austrália’ revela planos para o prêmio do 1 Point Slam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/jordan_smith_TA-1024x683.png",
-        "date": "16/01/2026",
-        "description": "Melbourne (Austrália) –Jordan Smith, treinador de tênis em Sydney, de 29 anos, chocou o mundo ao vencer o torneio 1 Point Slam. O amador precisou vencer nomes como Jannik Sinner e Amanda Anisimova – na disputa de um ponto – para levar para casa o prêmio de 1 milhão de dólares australianos."
     }
 ]
