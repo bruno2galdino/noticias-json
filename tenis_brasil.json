@@ -7,11 +7,25 @@
         "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesPrimeira rodada –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/zormann-conquista-titulo-de-duplas-no-challenger-de-buenos-aires.html",
+        "title": "Zormann conquista título de duplas no challenger de Buenos Aires",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/54091527901_948170f043_o-e1730121800928-1024x683.jpg",
+        "date": "17/01/2026",
+        "description": "Buenos Aires (Argentina) –O paulista Marcelo Zormann conquistou o título de duplas do challenger de Buenos Aires, em quadras de saibro, jogando ao lado do argentino Mariano Kestelboim."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/guto-avanca-as-oitavas-em-traralgon-brasileiros-vencem-nas-duplas.html",
+        "title": "Guto avança às oitavas em Traralgon, brasileiros vencem nas duplas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/guto_vibra_sauipe.jpg",
+        "date": "17/01/2026",
+        "description": "Traralgon (Austrália) –Em seu segundo compromisso no ITF J300 de Traralgon, torneio preparatório para o Australian Open juvenil, Guto Miguel venceu mais uma em sets diretos e avançou às oitavas. O goiano de 16 anos e número 5 do ranking marcou um duplo 6/3 contra o italiano Simone Massellani, 36º colocado."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/australian-open-comeca-com-nova-geracao-em-evidencia-e-16-estreantes-em-slam.html",
         "title": "Australian Open começa com jovens em evidência e 16 estreantes em Slam",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/arte_ps_fonseca_26.jpg",
         "date": "17/01/2026",
-        "description": "A edição de 2026 do Australian Open começa neste sábado, a partir de 21h (de Brasília), com uma nova geração em evidência, impulsionada por João Fonseca e demais participantes do Next Gen e por novas campeãs do circuito feminino. Com o fim das rodadas qualificatórias e a definição dos convites, serão 16 estrantes em chaves principais de Grand Slam."
+        "description": "A edição de 2026 do Australian Open começa neste sábado, a partir de 21h (de Brasília), com uma nova geração em evidência, impulsionada por João Fonseca e demais participantes do Next Gen e por novas campeãs do circuito feminino. Com o fim das rodadas qualificatórias e a definição dos convites, serão 16 estreantes em chaves principais de Grand Slam."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/com-cinco-brasileiros-duplistas-conhecem-adversarios-em-melbourne.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/fonseca-ausopen-treina-2026-1-e1768537287247-1024x683.jpg",
         "date": "17/01/2026",
         "description": "Melbourne (Austrália) –Depois de ficar fora dos torneios de Brisbane e Adelaide neste início de temporada, por conta de uma lesão nas costas, João Fonseca só irá estrear no Australian Open no terceiro dia de competição, no encerramento da primeira rodada de simples."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-larga-com-favoritismo-e-chave-bem-favoravel.html",
-        "title": "Sabalenka larga com favoritismo e chave bem favorável",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/blog_aryna_uso.jpg",
-        "date": "17/01/2026",
-        "description": "Se a chave masculina já inicia com total expectativa para outro duelo entre Carlos Alcaraz e Jannik Sinner, o torneio feminino está bem mais aberto a especulações. Tudo isso graças a Madison Keys, que mostrou às concorrentes de Aryna Sabalenka, um ano atrás, que é possível parar a bielorrussa no piso sintético mais veloz."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/gauff-joga-no-domingo-as-21h30-iga-e-djokovic-na-segunda-de-manha.html",
-        "title": "Gauff joga no domingo às 21h30, Iga e Djokovic na segunda de manhã",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/gauff_ausopen_treina_saque-1024x768.jpg",
-        "date": "17/01/2026",
-        "description": "Melbourne (Austrália) –A organização do Australian Open divulgou a programação do segundo dia do torneio, que ocorre, pelo horário de Brasília, entre a noite de domingo e a manhã de segunda-feira. O dia terá confrontos de peso, como Coco Gauff, Novak Djokovic e Iga Swiatek. João Fonseca deve jogar no terceiro dia."
     }
 ]
