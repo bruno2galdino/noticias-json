@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://forbes.com.br/forbesagro/2026/01/colheita-da-soja-no-brasil-atinge-139-da-area-e-supera-media-historica/",
+        "title": "Colheita da Soja no Brasil Atinge 1,39% da Área e Supera Média Histórica",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_colheita_soja_maquina_17.01.2026-300x200.jpg",
+        "date": "17/01/2026",
+        "description": "Mato Grosso concentra quase 5% da área finalizada, apresentando bons resultados mesmo em regiões de clima limitado"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2026/01/top-10-series-e-programas-de-tv-mais-assistidos-da-semana-nos-streamings-7/",
         "title": "Top 10 Séries e Programas de TV Mais Assistidos da Semana nos Streamings",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Heated-300x200.png",
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/life_airbnb-300x200.jpg",
         "date": "17/01/2026",
         "description": "Lista baseada no engajamento no Instagram e no TikTok revela as hospedagens mais curtidas da plataforma em 2025, com cabanas isoladas e estadias únicas superando hotéis tradicionais"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/forbes-mulher-agro-a-arte-de-superar-crises-o-legado-de-tarsila-do-amaral-como-inspiracao/",
-        "title": "A Arte de Superar Crises: o Legado de Tarsila do Amaral como Inspiração",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_fma_tarsila_do_amaral_14.01.2026-300x200.jpg",
-        "date": "17/01/2026",
-        "description": "No 53º aniversário de sua morte, neste início de 2026, sua história se torna uma referência de resiliência e gestão de crise para o campo"
     }
 ]
