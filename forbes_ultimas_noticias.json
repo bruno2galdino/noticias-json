@@ -1,7 +1,14 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/2026/01/valentino-garavani-lendario-estilista-italiano-morre-aos-93-anos/",
+        "title": "Valentino Garavani, Lendário Estilista Italiano, Morre Aos 93 Anos",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/life_valentino-300x200.jpg",
+        "date": "19/01/2026",
+        "description": "Designer, que alcançou o auge da alta-costura e construiu um império, faleceu em Roma cercado por familiares"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/2026/01/prada-descontroi-a-tradicao-para-construir-a-vanguarda/",
-        "title": "Prada Descontrói a Tradição para Construir a Vanguarda",
+        "title": "Prada Desconstrói a Tradição para Construir a Vanguarda",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/life_prada-capa-300x200.jpg",
         "date": "19/01/2026",
         "description": "Ícones do guarda-roupa masculino ganham nova roupagem para o inverno 2026"
@@ -61,12 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/life_-dolce-capa-300x200.jpg",
         "date": "19/01/2026",
         "description": "O desfile de inverno 2026 aconteceu em Milão no sábado (17)"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-money/2026/01/bc-da-india-propoe-vincular-moedas-digitais-do-brics/",
-        "title": "BC da Índia Propõe Vincular Moedas Digitais do Brics",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Homem-passa-por-logo-do-banco-central-da-India-em-sua-sede-300x200.jpg",
-        "date": "19/01/2026",
-        "description": "Iniciativa pode irritar os Estados Unidos, que alertaram contra qualquer movimento para contornar o dólar"
     }
 ]
