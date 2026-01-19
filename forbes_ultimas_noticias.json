@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/3-sedas-compactos-de-luxo-europeus-de-alta-performance-que-merecem-sua-atencao/",
+        "title": "3 Sedãs Compactos de Luxo Europeus de Alta Performance Que Merecem Sua Atenção",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/1-CLA200-300x200.jpg",
+        "date": "19/01/2026",
+        "description": "Descer um degrau em potência merece a atenção, especialmente considerando a queda no preço e o ganho em economia de combustível"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/pre-mercado-investidores-tensos-com-nova-escalada-da-guerra-de-tarifas/",
+        "title": "Pré-mercado: Investidores Tensos com Nova Escalada da Guerra de Tarifas",
+        "image": "https://forbes.com.br/wp-content/uploads/2024/09/Pre_Bolsa-1-300x200.png",
+        "date": "19/01/2026",
+        "description": "Notícias e indicadores que podem influenciar os preços dos ativos nesta segunda-feira, 19 de janeiro"
+    },
+    {
         "url": "https://forbes.com.br/forbes-tech/2026/01/nasce-um-colosso-do-varejo-os-impactos-da-entrada-do-google-no-agentic-retail/",
         "title": "Nasce um Colosso do Varejo: os Impactos da Entrada do Google no Agentic Retail",
         "image": "https://forbes.com.br/wp-content/uploads/2023/02/carreira-Sundar-Pichai-apple-ceo-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_slc_agricola_aurelio_pavinato_19.01.2026-300x200.jpg",
         "date": "19/01/2026",
         "description": "Companhia alcança nota máxima em Florestas e Água e estrutura a agenda climática"
-    },
-    {
-        "url": "https://forbes.com.br/manchete-2/2026/01/cpf-dos-imoveis-gestao-grandes-patrimonios-brasil/",
-        "title": "Como o “CPF Dos Imóveis” Muda a Gestão de Grandes Patrimônios no Brasil",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Tamanho-site-Tech-8-300x200.png",
-        "date": "19/01/2026",
-        "description": "Cadastro em vigor desde janeiro integra dados fiscais, jurídicos e de uso dos imóveis, elevando a pressão por governança, coerência e formalização patrimonial"
-    },
-    {
-        "url": "https://forbes.com.br/forbessaude/2026/01/como-ela-criou-uma-startup-de-saude-de-us-17-bi-atendendo-maes/",
-        "title": "Como Ela Criou uma Startup de Saúde de US$ 1,7 Bi Atendendo Mães",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Marta-Bralic-Kerns-300x200.jpg",
-        "date": "18/01/2026",
-        "description": "A ex-executiva Marta Bralic Kerns captou US$ 92 milhões para expandir seu modelo de atendimento virtual para mulheres em todas as fases da vida"
     }
 ]
