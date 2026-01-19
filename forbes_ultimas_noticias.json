@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://forbes.com.br/forbes-money/2026/01/bc-da-india-propoe-vincular-moedas-digitais-do-brics/",
+        "title": "BC da Índia Propõe Vincular Moedas Digitais do Brics",
+        "image": "https://forbes.com.br/wp-content/uploads/2026/01/Homem-passa-por-logo-do-banco-central-da-India-em-sua-sede-300x200.jpg",
+        "date": "19/01/2026",
+        "description": "Iniciativa pode irritar os Estados Unidos, que alertaram contra qualquer movimento para contornar o dólar"
+    },
+    {
+        "url": "https://forbes.com.br/forbes-money/2026/01/analistas-reduzem-projecao-de-inflacao-este-ano-pela-2a-vez-a-402/",
+        "title": "Analistas Reduzem Projeção de Inflação Este Ano Pela 2ª Vez",
+        "image": "https://forbes.com.br/wp-content/uploads/2025/12/IPCA_Predio_Brasilia_Banco_Central-300x200.png",
+        "date": "19/01/2026",
+        "description": "Para 2027, permanece a expectativa de uma inflação de 3,80%"
+    },
+    {
         "url": "https://forbes.com.br/forbeslife/forbes-motors/2026/01/3-sedas-compactos-de-luxo-europeus-de-alta-performance-que-merecem-sua-atencao/",
         "title": "3 Sedãs Compactos de Luxo Europeus de Alta Performance Que Merecem Sua Atenção",
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/1-CLA200-300x200.jpg",
@@ -54,19 +68,5 @@
         "image": "https://forbes.com.br/wp-content/uploads/2026/01/Victor3-2-1-300x200.jpg",
         "date": "19/01/2026",
         "description": "Fundada em 2016, a foodtech almeja fechar 2026 com uma receita de R$ 450 milhões e sonha com o primeiro bilhão"
-    },
-    {
-        "url": "https://forbes.com.br/forbes-mkt/2026/01/entenda-como-funcionara-o-sistema-de-anuncios-contextuais-da-openai-no-chatgpt/",
-        "title": "Entenda Como Funcionará o Sistema de Anúncios Contextuais da OpenAI no ChatGPT",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/2openai-1-300x200.jpg",
-        "date": "19/01/2026",
-        "description": "Diferente dos tradicionais banners ou pop-ups que poluem a navegação na web, os anúncios na plataforma vão aparecer como sugestões integradas ao fluxo de diálogo"
-    },
-    {
-        "url": "https://forbes.com.br/forbesagro/2026/01/os-planos-de-aurelio-pavinato-para-levar-a-slc-agricola-ao-triple-a-do-cdp/",
-        "title": "Os Planos de Aurélio Pavinato para Levar a SLC Agrícola ao Triple A do CDP",
-        "image": "https://forbes.com.br/wp-content/uploads/2026/01/agro_slc_agricola_aurelio_pavinato_19.01.2026-300x200.jpg",
-        "date": "19/01/2026",
-        "description": "Companhia alcança nota máxima em Florestas e Água e estrutura a agenda climática"
     }
 ]
