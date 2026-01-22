@@ -1,10 +1,45 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/e-o-show-continua.html",
+        "title": "E o show continua",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/blog_stan_ao.jpg",
+        "date": "22/01/2026",
+        "description": "Quem diria que, 17 anos depois, Novak Djokovic, Stan Wawrinka e Marin Cilic novamente estariam juntos na terceira rodada do Australian Open. Os três mais icônicos “velhinhos” do circuito atual avançaram de forma distintas: enquanto Nole e Cilic passaram com muita autoridade, Stan lutou 4h33 e só foi ganhar no supertiebreak de um adversário 19 anos mais jovem. Magnífico."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/osaka-pede-desculpas-apos-confusao-com-cirstea.html",
+        "title": "Osaka pede desculpas após confusão com Cirstea",
+        "image": null,
+        "date": "22/01/2026",
+        "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/iga-sente-melhora-e-ve-a-longevidade-de-djokovic-como-exemplo.html",
+        "title": "Iga sente melhora e vê a longevidade de Djokovic como exemplo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/iga_ausopen_vibra_r2_pzt-1024x697.jpg",
+        "date": "22/01/2026",
+        "description": "Melbourne (Austrália) –Depois devencer seu segundo jogo no Australian Open, Iga Swiatek sentiu melhora em relação à estreia, em que havia superado a chinesa Yue Yuan com dificuldade. Já nesta quinta-feira, a número 2 do mundo controlou a partida contra a tcheca Marie Bouzkova, confirmando o duelo com a russa Anna Kalinskaya na próxima fase."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-22-01.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/carol_vibra_rio-1024x683.jpg",
+        "date": "22/01/2026",
+        "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesMasculino (Duplas) – Primeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/pliskova-avanca-mas-admite-nao-estar-se-sentindo-muito-bem.html",
         "title": "Pliskova avança, mas admite não estar se sentindo muito bem",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/pliskova-ausopen-back-2026.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/pliskova_ausopen_vibra_fft-1024x726.jpg",
         "date": "22/01/2026",
         "description": "Melbourne (Austrália)–Após a recuperação de uma lesão de vários ligamentos e tendões do tornozelo, Karolina Pliskova passou para a terceira rodada do Australian Openao vencer a indonésia Janice Tjen por um duplo 6/4. Apesar de avançar no torneio, a tcheca admite não estar 100% fisicamente."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/australian-open-confira-as-cinco-melhores-jogadas-desta-quinta.html",
+        "title": "Australian Open: confira as cinco melhores jogadas desta quinta",
+        "image": null,
+        "date": "22/01/2026",
+        "description": ""
     },
     {
         "url": "https://tenisbrasil.uol.com.br/wawrinka-ganha-em-duro-quinto-set-e-se-junta-a-cilic-na-3a-rodada.html",
@@ -16,7 +51,7 @@
     {
         "url": "https://tenisbrasil.uol.com.br/feliz-que-esteja-valendo-a-pena-afirma-o-embalado-djokovic.html",
         "title": "“Feliz que esteja valendo a pena”, afirma o embalado Djokovic",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/djokovic_coletiva_auso_print-1024x576.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/djokovic_ausopen_rebate-1024x768.jpg",
         "date": "22/01/2026",
         "description": "Melbourne (Austrália) –Novak Djokovic segue firme na busca para o que pode ser seu25ºGrand Slam e 11ºAustralian Open. Nesta quinta-feira, o sérvio derrotou Francesco Maestrelli por 6/3, 6/2 e 6/2. Em entrevista, ele disse que está feliz com o seu nível de tênis até agora no torneio."
     },
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/tomas-machac_kb_ai26_500_a-1024x682.jpg",
         "date": "22/01/2026",
         "description": "Melbourne (Austrália)– Depois de uma estreia complicada diante do espanhol Pablo Carreño, o tcheco Jakub Mensik conseguiu avançar com rapidez e economia de energias para a terceira rodada do Australian Open. Ele superou outro espanhol, o qualificado Rafael Jodar, por 6/2, 6/4 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/jogos-de-sabalenka-e-alcaraz-abrem-a-terceira-rodada-de-minaur-as-5h.html",
-        "title": "Jogos de Sabalenka e Alcaraz abrem a terceira rodada, De Minaur às 5h",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/alcaraz_ausopen_saque26_fft-1024x578.jpg",
-        "date": "22/01/2026",
-        "description": "Melbourne (Austrália) –Assim como aconteceu na segunda rodada deste Australian Open, as partidas de Aryna Sabalenka e Carlos Alcaraz vão abrir a terceira fase na Rod Laver Arena nesta quinta-feira à noite. E a organização do torneio novamente escalou o anfitrião Alex de Minaur para a sessão noturna às 5h da manhã de sexta."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/osaka-vence-mais-uma-em-tres-sets-e-segue-no-caminho-de-iga.html",
-        "title": "Osaka vence mais uma em três sets e segue no caminho de Iga",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/osaka_vibra_ausopen_sorrindo-1024x682.jpg",
-        "date": "22/01/2026",
-        "description": "Melbourne (Austrália) –Em seu segundo compromisso neste Australian Open, Naomi Osaka conseguiu mais uma vitória em três sets. Depois de ter passado pela croata Antonia Ruzic na estreia, a bicampeã venceu nesta terça-feira a experiente romena de 35 anos Sorana Cirstea por 6/3, 4/6 e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-amplia-serie-invicta-na-australia-e-enfrenta-algoz-de-fonseca.html",
-        "title": "Sinner amplia série invicta na Austrália e enfrenta algoz de Fonseca",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/sinner_ausopen_2r_back-1024x683.jpg",
-        "date": "22/01/2026",
-        "description": "Melbourne (Austrália) –Vencedor das duas últimas edições do Australian Open, Jannik Sinner marcou sua 16ª vitória seguida em Melbourne. O italiano superou nesta quinta-feira o australiano James Duckworth, 88º do ranking, por 6/1, 6/4 e 6/2 em 1h49 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-22-01.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quinta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/carol_vibra_rio-1024x683.jpg",
-        "date": "22/01/2026",
-        "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesMasculino (Duplas) – Primeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/siegemund-causa-polemica-com-saque-em-derrota-para-australiana.html",
-        "title": "Siegemund causa polêmica com saque em derrota para australiana",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/Laura_Siegemund_-_Australian_Open_2026_-_Day_3-DSC_8948A_xgaplus.jpg",
-        "date": "22/01/2026",
-        "description": "Melbourne (Austrália)– A experiente alemã Laura Siegemund causou polêmica nesta quinta-feira em um game de serviço contra a tenista da casa Maddison Inglis, que acabou levando a melhor em uma dura partida de três sets e 3h20 de duração, marcando parciais de 6/4, 6/7 (3-7) e 7/6 (10-7)."
     }
 ]
