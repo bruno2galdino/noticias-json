@@ -1,10 +1,10 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/pinheiros-recebe-a-tradicional-copa-sao-paulo-trofeu-marilia-silberberg.html",
-        "title": "Pinheiros recebe a tradicional Copa São Paulo – Troféu Marília Silberberg",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/copa-sao-paulo_generico-2.jpeg",
+        "url": "https://tenisbrasil.uol.com.br/stefani-e-dabrowski-vencem-mais-uma-e-ja-estao-nas-oitavas.html",
+        "title": "Stefani e Dabrowski vencem mais uma e já estão nas oitavas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/stefani-drabowski-posada-e1768205776253-1024x683.jpg",
         "date": "22/01/2026",
-        "description": "São Paulo (SP) –Teve início nesta quarta-feira a 34ª edição da Copa São Paulo – Troféu Marília Silberberg, um dos mais tradicionais e importantes torneios do calendário paulista e nacional. A competição é realizada nas quadras do Esporte Clube Pinheiros e segue até o próximo domingo."
+        "description": "Melbourne (Austrália)– Cabeças de chave número 5, a paulista Luisa Stefani e a canadense Gabriela Dabrowski seguem firme no retorno da dupla. Nesta sexta-feira, elas venceram mais uma no Australian Open e já estão nas oitavas. As vítimas da vez foram a colombiana Emiliana Arango e a francesa Elsa Jacquemot, derrotadas com parciais de 6/2 e 6/4."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-22-01.html",
@@ -12,6 +12,20 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/carol_vibra_rio-1024x683.jpg",
         "date": "22/01/2026",
         "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesMasculino (Duplas) – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/swiatek-escapa-de-ser-atingida-por-bouzkova-em-lance-insolito.html",
+        "title": "Swiatek escapa de ser atingida por Bouzkova em lance insólito",
+        "image": null,
+        "date": "22/01/2026",
+        "description": "Melbourne (Austrália) –Iga Swiatek e Marie Bouzkova  protagonizaram uma cena insólita na segunda rodada do Aberto da Austrália nesta quinta-feira. A número 2 do mundo derrotou a tcheca Bouzkova por 6/2 e 6/3."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pinheiros-recebe-a-tradicional-copa-sao-paulo-trofeu-marilia-silberberg.html",
+        "title": "Pinheiros recebe a tradicional Copa São Paulo – Troféu Marília Silberberg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/copa-sao-paulo_generico-2.jpeg",
+        "date": "22/01/2026",
+        "description": "São Paulo (SP) –Teve início nesta quarta-feira a 34ª edição da Copa São Paulo – Troféu Marília Silberberg, um dos mais tradicionais e importantes torneios do calendário paulista e nacional. A competição é realizada nas quadras do Esporte Clube Pinheiros e segue até o próximo domingo."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/meligeni-e-bohrer-avancam-as-quartas-no-saibro-de-buenos-aires.html",
@@ -25,7 +39,7 @@
         "title": "Alcaraz apoia modo de se expressar de Osaka, fãs criticam roupa de Sinner",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/osaka_ausopen_vestido-1024x717.jpg",
         "date": "22/01/2026",
-        "description": "Melbourne (Austrália) –A cada edição dos Grand Slam, os novos uniformes de determinados jogadores costuma chamar a atenção não só dos fãs, mas também da imprensa atenta aos detalhes."
+        "description": "Melbourne (Austrália) –A cada edição dos Grand Slam, os novos uniformes de determinados jogadores costumam chamar a atenção não só dos fãs, mas também da imprensa atenta aos detalhes."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/wawrinka-explica-por-que-e-tao-forte-nos-duelos-de-cinco-sets.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/polmans_kyrgios_Kokk-1024x683.jpg",
         "date": "22/01/2026",
         "description": "Melbourne (Austrália) –Depois de ficarem fora da chave de simples do Australian Open, Nick Kyrgios e Thanasi Kokkinakis receberam convite para a chave de duplas, mas não passaram da primeira rodada. Os campeões de 2022 perderam um duelo australiano para Jason Kubler e Marc Polmans por 6/4, 4/6 e 7/6 (7-4)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/e-o-show-continua.html",
-        "title": "E o show continua",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/blog_stan_ao.jpg",
-        "date": "22/01/2026",
-        "description": "Quem diria que, 17 anos depois, Novak Djokovic, Stan Wawrinka e Marin Cilic novamente estariam juntos na terceira rodada do Australian Open. Os três mais icônicos “velhinhos” do circuito atual avançaram de formas distintas: enquanto Nole e Cilic passaram com muita autoridade, Stan lutou 4h33 e só foi ganhar no supertiebreak de um adversário 19 anos mais jovem. Magnífico."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/osaka-pede-desculpas-apos-confusao-com-cirstea.html",
-        "title": "Osaka pede desculpas após confusão com Cirstea",
-        "image": null,
-        "date": "22/01/2026",
-        "description": ""
     }
 ]
