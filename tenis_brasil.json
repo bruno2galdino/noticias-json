@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/iga-sobrevive-a-altos-e-baixos-e-garante-vitoria-em-tres-sets.html",
+        "title": "Iga sobrevive a altos e baixos e garante vitória em três sets",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/iga_ausopen_vibra-1024x652.jpg",
+        "date": "24/01/2026",
+        "description": "Melbourne (Austrália) –Vinda de duas vitórias em sets diretos neste Australian Open, Iga Swiatek passou por altos e baixos na partida deste sábado contra a russa Anna Kalinskaya, 33ª do ranking. A número 2 do mundo começou muito bem, passou por momentos de oscilação no segundo set, mas retomou o domínio na parcial decisiva e vencer por 6/1, 1/6 e 6/1 em 1h44 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/osaka-se-retira-do-australian-open-e-inglis-vai-direto-as-oitavas.html",
+        "title": "Osaka se retira do Australian Open e Inglis vai direto às oitavas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/osaka_ausopen_acena-1024x631.jpg",
+        "date": "24/01/2026",
+        "description": "Melbourne (Austrália) –Depois de ter vencido dois jogos longos neste Australian Open, Naomi Osaka anunciou sua desistência da competição. A ex-número 1 do mundo e bicampeã do torneio enfrentaria a australiana Maddison Inglis, 168ª do ranking e vinda do quali, que agora avança diretamente às oitavas e faz sua melhor campanha em Slam. A tenista da casa espera a vencedora entre Iga Swiatek e Anna Kalinskaya."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-24-01.html",
+        "title": "O dia dos brasileiros: veja os resultados deste sábado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bruno_oliveira_pucinelli_itajai.jpg",
+        "date": "24/01/2026",
+        "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesJuvenil feminino – Primeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/protocolo-de-calor-extremo-e-aplicado-e-suspende-jogos-nas-externas.html",
         "title": "Protocolo de calor extremo é aplicado e suspende jogos nas externas por quase 5h",
         "image": null,
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/musetti-ausopen-grita-2026.jpg",
         "date": "24/01/2026",
         "description": "Melbourne (Austrália)– No dia mais quente deste Australian Open, com direito a paralisação por causa do calor nas quadra externas e teto fechado nos três principais palcos do torneio, o italiano Lorenzo Musetti sobreviveu a uma batalha de cinco sets e 4h27 de duração contra o tcheco Tomas Machac, vencendo com parciais de 5/7, 6/4, 6/2, 5/7 e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/anisimova-volta-as-oitavas-em-melbourne-e-mira-sua-melhor-campanha.html",
-        "title": "Anisimova volta às oitavas em Melbourne e mira sua melhor campanha",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/Amanda_Anisimova_-_Australian_Open_2026_-_Day_2-DSC_6345_xgaplus.jpg",
-        "date": "24/01/2026",
-        "description": "Melbourne (Austrália)– Pelo segundo ano consecutivo, a norte-americana Amanda Anisimova avançou para as oitavas de final no Australian Open, desta vez após derrotar sua compatriota Peyton Stearns neste sábado com parciais de 6/1 e 6/4, depois de 1h11 de confronto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado.html",
-        "title": "O dia dos brasileiros: veja os resultados deste sábado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bruno_oliveira_pucinelli_itajai.jpg",
-        "date": "24/01/2026",
-        "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesJuvenil feminino – Primeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/apos-vitoria-nas-mistas-kyrgios-elogia-monfils-e-destaca-seu-legado.html",
-        "title": "Após vitória nas mistas, Kyrgios elogia Monfils e destaca seu legado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/kyrgios-kooyong-close-2026-e1768355303781-1024x683.jpg",
-        "date": "23/01/2026",
-        "description": "Melbourne (Austrália)– De fora da chave de simples ederrotado na estreia nas duplas, o australiano Nick Kyrgios não passou em branco neste Australian Open e venceu ao menos uma, superando a estreia nas duplas mistas com a canadense Leylah Fernandez. Após a partida, ele tratou de enaltecer o legado deixado pelo francês Gael Monfils, que irá se aposentar no fim da temporada."
     }
 ]
