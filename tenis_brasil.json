@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/veja-a-incrivel-devolucao-de-saque-de-vacherot.html",
+        "title": "Veja a incrível devolução de saque de Vacherot",
+        "image": null,
+        "date": "24/01/2026",
+        "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/djokovic-chega-a-400-vitorias-em-slam-e-iguala-recorde-do-australian-open.html",
+        "title": "Djokovic chega a 400 vitórias em Slam e iguala recorde do Australian Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/djokovic_ausopen_vibra3r-1024x654.jpg",
+        "date": "24/01/2026",
+        "description": "Melbourne (Austrália) –Acostumado a quebrar recordes em sua longa e vitoriosa carreira, Novak Djokovic conseguiu dois feitos históricos neste sábado. Ele se tornou o primeiro jogador a alcançar 400 vitórias em Grand Slam, além de igualar uma marca de Roger Federer com 102 vitórias no Australian Open. Decacampeão do torneio, o sérvio avançou às oitavas ao superar o holandês Botic van de Zandschulp, 75º do ranking, por 6/3, 6/4 e 7/6 (7-3) em 2h44."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-24-01.html",
+        "title": "O dia dos brasileiros: veja os resultados deste sábado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bruno_oliveira_pucinelli_itajai.jpg",
+        "date": "24/01/2026",
+        "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesJuvenil feminino – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sob-aplausos-wawrinka-recebe-homenagem-e-brinda-na-despedida.html",
+        "title": "Sob aplausos, Wawrinka recebe homenagem e brinda na despedida",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/stan_adeus.jpg",
+        "date": "24/01/2026",
+        "description": "Melbourne (Austrália) – O suíço Stan Wawrinka lutou até a última bola e, após duas vitórias na chave principal, marcou sua despedida do Australian Open, local onde ganhou seu primeiro troféu de Grand Slam, em 2014. Ele havia anunciado antecipadamente que fará sua última temporada no circuito profissional."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fritz-joga-bem-e-marca-adeus-de-wawrinka-em-grande-duelo.html",
+        "title": "Fritz joga bem e marca adeus de Wawrinka em grande duelo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/fritz22-1024x654.jpg",
+        "date": "24/01/2026",
+        "description": "Melbourne (Austrália)– Após quatro sets de alta qualidade, o norte-americano Taylor Fritz garantiu sua presença nas oitavas de final do Australian Open pela terceira vez na carreira, ao derrotar o suíço Stan Wawrinka por 7/6 (7-5), 2/6, 6/4 e 6/4."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/iga-sobrevive-a-altos-e-baixos-e-garante-vitoria-em-tres-sets.html",
         "title": "Iga sobrevive a altos e baixos e garante vitória em três sets",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/iga_ausopen_vibra-1024x652.jpg",
@@ -8,17 +43,10 @@
     },
     {
         "url": "https://tenisbrasil.uol.com.br/osaka-se-retira-do-australian-open-e-inglis-vai-direto-as-oitavas.html",
-        "title": "Osaka se retira do Australian Open e Inglis vai direto às oitavas",
+        "title": "Osaka volta a sentir lesão abdominal e se retira de Melbourne",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/osaka_ausopen_acena-1024x631.jpg",
         "date": "24/01/2026",
-        "description": "Melbourne (Austrália) –Depois de ter vencido dois jogos longos neste Australian Open, Naomi Osaka anunciou sua desistência da competição. A ex-número 1 do mundo e bicampeã do torneio enfrentaria a australiana Maddison Inglis, 168ª do ranking e vinda do quali, que agora avança diretamente às oitavas e faz sua melhor campanha em Slam. A tenista da casa espera a vencedora entre Iga Swiatek e Anna Kalinskaya."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-24-01.html",
-        "title": "O dia dos brasileiros: veja os resultados deste sábado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bruno_oliveira_pucinelli_itajai.jpg",
-        "date": "24/01/2026",
-        "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesJuvenil feminino – Primeira rodada –Veja a chave"
+        "description": "Melbourne (Austrália) –Depois de ter vencido dois jogos longos neste Australian Open, Naomi Osaka anunciou sua desistência da competição, por lesão muscular na região abdominal. A ex-número 1 do mundo e bicampeã do torneio enfrentaria a australiana Maddison Inglis, 168ª do ranking e vinda do quali, que agora avança diretamente às oitavas e faz sua melhor campanha em Slam. A tenista da casa espera a vencedora entre Iga Swiatek e Anna Kalinskaya."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/protocolo-de-calor-extremo-e-aplicado-e-suspende-jogos-nas-externas.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/Melbourne_Park_-_Tennis_crop-e1769241762546-1024x572.jpg",
         "date": "24/01/2026",
         "description": "Melbourne (Austrália)– A programação deste sábado do Australian Open junto com aexecução da política de calor extremocausou uma situação curiosa no Melbourne Park, que mesmo contando com três quadras cobertas, chegou a ter somente um jogo em atividade."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tien-espera-uma-verdadeira-batalha-em-novo-duelo-com-medvedev.html",
-        "title": "Tien espera uma “verdadeira batalha” em novo duelo com Medvedev",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/learner-tien_ausopen-e1769239401689-1024x683.jpg",
-        "date": "24/01/2026",
-        "description": "Melbourne (Austrália)– Segundo norte-americano mais jovem a alcançar as oitavas de final de forma consecutiva em um mesmo Grand Slam, ficando atrás apenas de Andy Roddick no US Open (2001-03), Learner Tien terá pela frente na próxima rodada um velho conhecido: o russo Daniil Medvedev."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/shelton-confirma-favoritismo-sobre-vacherot-e-vence-a-35a-em-slam.html",
-        "title": "Shelton confirma favoritismo sobre Vacherot e vence a 35ª em Slam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/shelton-ausopen-vibra-2026-1024x683.jpg",
-        "date": "24/01/2026",
-        "description": "Melbourne (Austrália)– Tentando se tornar o primeiro monegasco, homem ou mulher, a chegar nas oitavas de final em um Grand Slam, Valentin Vacherot teve seu sonho frustrado neste sábado pelo norte-americano Ben Shelton, que fez valer a condição de nono favorito no Australian Open e bateu o rival em sets diretos, com parciais de 6/4, 6/4 e 7/6 (7-5)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-sofre-com-o-fisico-mas-avanca-depois-de-paralisacao-polemica.html",
-        "title": "Sinner sofre com o físico, mas avança depois de paralisação polêmica",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/sinner-ausopen-vibra-2026-1024x683.jpg",
-        "date": "24/01/2026",
-        "description": "Melbourne (Austrália)– Em um dia de bastante calor no Melbourne Park, o italiano Jannik Sinner se viu em situação complicada e teve que superar problemas físicos para avançar. O número 2 do mundo sofreu com cãibras e contou com uma paralisação crucial para vencer o norte-americano Eliot Spizzirri de virada, com 4/6, 6/3, 6/4 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/musetti-sobrevive-a-batalha-de-cinco-sets-e-completa-oitavas-nos-slam.html",
-        "title": "Musetti sobrevive a batalha de cinco sets e completa oitavas nos Slam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/musetti-ausopen-grita-2026.jpg",
-        "date": "24/01/2026",
-        "description": "Melbourne (Austrália)– No dia mais quente deste Australian Open, com direito a paralisação por causa do calor nas quadra externas e teto fechado nos três principais palcos do torneio, o italiano Lorenzo Musetti sobreviveu a uma batalha de cinco sets e 4h27 de duração contra o tcheco Tomas Machac, vencendo com parciais de 5/7, 6/4, 6/2, 5/7 e 6/2."
     }
 ]
