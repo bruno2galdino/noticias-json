@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/carol-meligeni-conquista-em-buenos-aires-seu-9o-titulo-profissional.html",
+        "title": "Carol Meligeni conquista em Buenos Aires seu 9º título profissional",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/carol_meligeni_bsas_vibra_final.jpg",
+        "date": "25/01/2026",
+        "description": "Buenos Aires (Argentina) –Em ótimo início de temporada, Carol Meligeni conquistou neste domingo o título do ITF W35 de Buenos Aires, em quadras de saibro. Terceira cabeça de chave e 232ª do ranking, Carol venceu a espanhola Carlota Martinez Cirez, 391ª colocada, por 6/0 e 6/2 em 1h11 de partida."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-25-01.html",
         "title": "O dia dos brasileiros: veja os resultados deste domingo",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/carol_meligeni_bsas26_back-1024x672.jpg",
         "date": "25/01/2026",
         "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesDuplas feminino – Oitavas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-grande-domingo-da-nova-geracao-americana.html",
+        "title": "O grande domingo da nova geração americana",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/blog_jovic_ao.jpg",
+        "date": "25/01/2026",
+        "description": "Foram duas atuações empolgantes, assombrosas. Learner Tien já tinha vencido Daniil Medvedev exatamente um ano atrás em Melbourne, mas desta vez destruiu o ex-número 1 do mundo com uma variedade incrível de golpes. Iva Jovic por sua vez chegou a ganhar os 10 primeiros games da experiente Yulia Putintseva, dando uma aula de agressividade e leveza em quadra."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/nana-estreia-com-vitoria-na-temporada-em-birmingham.html",
@@ -54,19 +68,5 @@
         "image": null,
         "date": "25/01/2026",
         "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/svitolina-derruba-andreeva-vence-9a-seguida-e-tera-gauff-nas-quartas.html",
-        "title": "Svitolina derruba Andreeva, vence 9ª seguida e terá Gauff nas quartas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/svitolina_ausopen_fore_noite-1024x609.jpg",
-        "date": "25/01/2026",
-        "description": "Melbourne (Austrália) –Em ótimo início de temporada, Elina Svitolina marcou sua nona vitória seguida para chegar às quartas de final do Australian Open. Vinda de título em Auckland na primeira semana do ano, a ucraniana derrotou a russa Mirra Andreeva por 6/2 e 6/4 em 1h23 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-joga-na-margaret-court-as-4h-iga-abre-a-sessao-noturna-da-laver.html",
-        "title": "Sinner joga na Margaret Court às 4h, Iga abre a sessão noturna da Laver",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/sinner_ausopen_back_term_fft-1024x637.jpg",
-        "date": "25/01/2026",
-        "description": "Melbourne (Austrália) –O complemento das oitavas de final do Australian Open terá jogos praticamente simultâneos para Jannik Sinner e Iga Swiatek, ambos números 2 do mundo. O italiano foi escalado para a Margaret Court às 4h (de Brasília) desta segunda-feira, enquanto a polonesa joga às 5h, na abertura da sessão noturna da Rod Laver."
     }
 ]
