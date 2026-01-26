@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/ymanitu-pena-e-rodrigues-vencem-no-quali-de-cadeirantes-em-melbourne.html",
-        "title": "Ymanitu, Pena e Rodrigues vencem no quali de cadeirantes em Melbourne",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/01/leandro_pena_ausopen_fore.jpg",
+        "url": "https://tenisbrasil.uol.com.br/faltou-emocao-mas-os-favoritos-garantem-recorde.html",
+        "title": "Faltou emoção, mas os favoritos garantem recorde",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/blog_musetti_ao.jpg",
         "date": "26/01/2026",
-        "description": "Melbourne (Austrália) –O torneio de tênis em cadeira de rodas do Australian Open começou com três vitórias brasileiras. O catarinense Ymanitu Silva e os mineiros Leandro Pena e Daniel Rodrigues venceram seus jogos do quali nesta segunda-feira e garantiram vagas nas chaves principais."
+        "description": "Pela primeira vez desde que os Grand Slam passaram a pagar premiação por rodada, em Roland Garros de 1968, todos os seis primeiros cabeças de chave, tanto do masculino como do feminino, chegam às quartas de final. Isso obviamente abre chance de termos também todos os quatro líderes de cada ranking na semifinal. Mas, fato inegável, as oitavas masculinas decepcionaram pela pouca competitividade: uma desistência e seis dos sete outros jogos terminados em sets diretos e pouca emoção."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/musetti-destaca-melhora-no-saque-e-desafia-djokovic-nas-quartas.html",
+        "title": "Musetti destaca melhora no saque e desafia Djokovic nas quartas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/musetti-australian-open-2026-r4-tweener-1024x576.jpg",
+        "date": "26/01/2026",
+        "description": "Melbourne (Austrália) –Classificado para as quartas de final do Australian Open pela primeira vez na carreira, Lorenzo Musetti destacou a melhora no saque como um dos fatores fundamentais para o bom momento na carreira. O italiano disparou 13 aces navitória desta segunda-feiracontra o norte-americano Taylor Fritz e não sofreu quebras de serviço, enfrentando apenas dois break-points."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-26-01.html",
@@ -12,6 +19,41 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Matos_bruxelas_rede-1024x656.jpg",
         "date": "26/01/2026",
         "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesMasculino (Duplas) – Oitavas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/shelton-vira-o-jogo-contra-ruud-e-confirma-duelo-com-sinner.html",
+        "title": "Shelton vira o jogo contra Ruud e confirma duelo com Sinner",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/shelton_ausopen_vibra_noite-1024x683.jpg",
+        "date": "26/01/2026",
+        "description": "Melbourne (Austrália) –Pela terceira vez em quatro participações, Ben Shelton chega às quartas de final do Australian Open e agora está em busca da segunda semifinal consecutiva. O norte-americano de 23 anos e número 7 do mundo superou nesta segunda-feira o norueguês Casper Ruud, 13º do ranking, por 3/6, 6/4, 6/3 e 6/4 em 2h36 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pegula-se-diverte-e-revela-aposta-que-fez-para-duelo-com-keys.html",
+        "title": "Pegula se diverte e revela aposta que fez para duelo com Keys",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/pegula-keys-ausopen_abraco-1024x768.jpg",
+        "date": "26/01/2026",
+        "description": "Melbourne (Austrália) –O confronto entre as norte-americanas Jessica Pegula e Madison Keys pelas oitavas de final do Australian Open teve um clima leve nesta segunda-feira, por conta da grande amizade entre as duas jogadoras. E depois devencer o jogo por 6/3 e 6/4e eliminar a atual campeã, Pegula revelou as apostas que elas fizeram para quem perdesse a partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fritz-lamenta-sequencia-de-lesoes-mas-entende-que-musetti-foi-superior.html",
+        "title": "Fritz lamenta sequência de lesões, mas entende que Musetti foi superior",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/fritz-australian-open-2026-r4-1024x576.jpg",
+        "date": "26/01/2026",
+        "description": "Melbourne (Austrália) –Eliminado nas oitavas de final do Australian Open, Taylor Fritz lamentou os problemas físicos que vêm atrapalhando seu início de temporada, mas fez questão de reconhecer o grande desempenho do italiano Lorenzo Musetti naderrota desta segunda-feira. O atual número 9 do mundo já vinha lidando com tendinite no joelho desde a United Cup e, em Melbourne, também enfrentou uma lesão no músculo oblíquo, na região abdominal."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/guto-abre-rodada-as-19h-sabalenka-joga-as-21h30-alcaraz-e-de-minaur-fecham.html",
+        "title": "Guto abre rodada às 19h, Sabalenka joga às 21h30, Alcaraz e De Minaur fecham",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/alcaraz-ao-2026-sunday-week1-1024x576.jpg",
+        "date": "26/01/2026",
+        "description": "Melbourne (Australia) –As quartas de final do Australian Open começam às 21h30 (de Brasília) desta segunda-feira com a partida entre a bicampeã e líder do ranking, Aryna Sabalenka, e a jovem norte-americana Iva Jovic, de apenas 18 anos e que faz sua melhor campanha em Grand Slam."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ymanitu-pena-e-rodrigues-vencem-no-quali-de-cadeirantes-em-melbourne.html",
+        "title": "Ymanitu, Pena e Rodrigues vencem no quali de cadeirantes em Melbourne",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/01/leandro_pena_ausopen_fore.jpg",
+        "date": "26/01/2026",
+        "description": "Melbourne (Austrália) –O torneio de tênis em cadeira de rodas do Australian Open começou com três vitórias brasileiras. O catarinense Ymanitu Silva e os mineiros Leandro Pena e Daniel Rodrigues venceram seus jogos do quali nesta segunda-feira e garantiram vagas nas chaves principais."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/iga-se-impoe-contra-ultima-australiana-e-reencontra-rybakina.html",
@@ -26,47 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/sinner-ausopen-back-2026-e1769416821784-1024x683.jpg",
         "date": "26/01/2026",
         "description": "Melbourne (Austrália)– Enfrentando um compatriota pela 18º vez no circuito, o italiano Jannik Sinner manteve seu retrospecto impecável nestas condições e derrotou Luciano Darderi com autoridade nesta segunda-feira, garantindo um lugar nas quartas de final do Australian Open ao marcar parciais de 6/1, 6/3 e 7/6 (7-2) sobre o cabeça de chave 22 do torneio."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bublik-exalta-de-minaur-e-o-ve-proximo-de-vencer-um-grand-slam.html",
-        "title": "Bublik exalta De Minaur e o vê próximo de vencer um Grand Slam",
-        "image": null,
-        "date": "26/01/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/algozes-de-kyrgios-vao-enfrentar-stefani-nas-duplas-mistas.html",
-        "title": "Algozes de Kyrgios vão enfrentar Stefani nas duplas mistas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/kyrgios-fernandez-ausopen-2026-e1769222643145-1024x686.jpg",
-        "date": "26/01/2026",
-        "description": "Melbourne (Austrália)– A segunda-feira foi o dia para a paulista Luísa Stefani conhecer seus próximos adversários no Australian Open. Depois de verJelena Ostapenko e Su-Wei Hsieh garantirem duelo com elae a canadense Gabriela Dabrowski nas quartas, a brasileira ficou sabendo quem enfrentará nas quartas das duplas mistas."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rybakina-passa-bem-por-mertens-e-encerra-jejum-de-quartas-em-slam.html",
-        "title": "Rybakina passa bem por Mertens e encerra jejum de quartas em Slam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/rybakina-ausopen-olhabola-2026-e1769411683205-1024x683.jpg",
-        "date": "26/01/2026",
-        "description": "Melbourne (Austrália)– Quinta mais bem cotada ao título do Australian Open, a cazaque Elena Rybakina fez valer o favoritismo nesta segunda-feira contra a belga Elise Mertens e venceu a cabeça de chave 21 com autoridade, marcando parciais de 6/1 e 6/3, em 77 minutos de jogo, para se garantir nas quartas de final."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ferrero-anuncia-parceria-com-jovem-golfista-espanhol.html",
-        "title": "Ferrero anuncia parceria com jovem golfista espanhol",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/ferrero-golfista-2026-e1769409936594-1024x683.jpg",
-        "date": "26/01/2026",
-        "description": "Toledo (Espanha)– Após otérmino da relação de trabalho com Carlos Alcaraz, todos esperavam descobrir qual seria o próximo passo que o espanhol Juan Carlos Ferrero daria. E ele inovou, mudou de esporte e enunciou que agora trabalhará com um jovem golfista de seu país."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tv-australiana-venceu-batalha-com-swiatek-por-horario-da-partida.html",
-        "title": "TV australiana venceu batalha com Swiatek por horário da partida",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/Iga_Swiatek_-_Australian_Open_2026_-_Day_2-DSC_6426A_xgaplus.jpg",
-        "date": "26/01/2026",
-        "description": "Melbourne (Austrália)– A programação de um grande torneio como o Australian Open é sempre uma coisa complicada, com muitos fatores interferindo na escolha dos horários dos jogos. O norte-americano Jim Courier revelou aoTennis Channelque a TV australiana travou e venceu uma batalha com a polonesa Iga Swiatek."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/musetti-supera-tira-teima-com-fritz-e-tem-sua-melhor-campanha.html",
-        "title": "Musetti supera tira-teima com Fritz e tem sua melhor campanha",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/musetti-ausopen-prepara-2026-1024x683.jpg",
-        "date": "26/01/2026",
-        "description": "Melbourne (Austrália)– No tira-teima entre Lorenzo Musetti e Taylor Fritz, que estavam empatados no retrospecto geral (3 a 3) e também nos duelos em Grand Slam (1 a 1), o italiano fez valer o melhor momento no circuito e derrotou o norte-americano em sets diretos, marcando parciais de 6/2, 7/5 e 6/4 nesta segunda-feira."
     }
 ]
