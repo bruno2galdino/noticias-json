@@ -7,6 +7,20 @@
         "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesDuplas mistas – Quartas de final –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/estou-jogando-fora-da-minha-zona-de-conforto-diz-de-minaur.html",
+        "title": "“Estou jogando fora da minha zona de conforto”, diz De Minaur",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/de-minaur-alcaraz-australian-open-2026.jpg",
+        "date": "27/01/2026",
+        "description": "Melbourne (Austrália) –Principal tenista australiano na atualidade, Alex de Minaur se despediu nas quartas do Grand Slam de seu país natal, ao serderrotado por Carlos Alcaraz em um placar de 7/5, 6/2 e 6/1, nesta terça-feira. É a sexta vez que ele perde para o atual número 1 do mundo e continua sem vitórias diante do espanhol. Com o resultado, o último título de um australiano na competição segue sendo o de Mark Edmondson em 1976."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/essas-adolescentes-estao-me-testando-brinca-sabalenka.html",
+        "title": "“Essas adolescentes estão me testando”, brinca Sabalenka",
+        "image": null,
+        "date": "27/01/2026",
+        "description": ""
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-supera-primeiro-grande-desafio.html",
         "title": "Alcaraz supera primeiro grande desafio",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/blog_alca_semi.jpg",
@@ -22,7 +36,7 @@
     },
     {
         "url": "https://tenisbrasil.uol.com.br/dupla-de-mola-branco-conquista-1a-etapa-do-circuito-beach-tennis.html",
-        "title": "Dupla de Mola/ Branco conquista 1ª etapa do  Circuito Beach Tennis",
+        "title": "Dupla de Mola e Branco conquista 1ª etapa do  Circuito Beach Tennis",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/danielmola_leobranco_valinhos26-2.jpeg",
         "date": "27/01/2026",
         "description": "Valinhos (SP) –Foram definidos, neste domingo, os primeiros campeões da nova temporada do Circuito Beach Tennis, o maior do país que, em 2025, teve 11 mil inscrições nas 18 etapas realizadas. A primeira etapa ocorreu no CT Lucas Sousa, em Valinhos, e teve mais de 450 atletas na disputa e transmissão do canal PlayBT no Youtube."
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/raguin_ausopen_toss-1024x683.jpg",
         "date": "27/01/2026",
         "description": "Melbourne (Austrália) –Adversário de Guto Miguel nas oitavas de final do Australian Open juvenil, Ntungamili Raguin está fazendo história para o tênis de Botsuana. O tenista de 17 anos é o primeiro de seu país a disputar um Grand Slam, como júnior ou profissional."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-mantem-a-escrita-contra-de-minaur-e-chega-a-1a-semi-na-australia.html",
-        "title": "Alcaraz mantém a escrita contra De Minaur e chega à 1ª semi na Austrália",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/alcaraz_ausopen_desliza_noite_fft-1024x758.jpg",
-        "date": "27/01/2026",
-        "description": "Melbourne (Austrália) –A busca de Carlos Alcaraz pelo único título de Grand Slam que ainda não conquistou continua neste Australian Open. Depois de parar nas quartas de final nas duas últimas edições, o espanhol garantiu vaga em sua primeira semifinal em Melbourne depois de vencer o australiano Alex de Minaur por 7/5, 6/2 e 6/2 em 2h15 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/australian-open-entre-velhas-e-novas-sensacoes.html",
-        "title": "Australian Open: entre velhas e novas sensações",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/patricia_mboko.jpg",
-        "date": "27/01/2026",
-        "description": "O Australian Open começou embalado por grandes recordações, evocando campeões que marcaram época e que hoje já vivem o circuito praticamente em momento de despedida. A queda de Stan Wawrinka, ainda na terceira rodada, foi um desses sinais claros de que o tempo segue seu curso, mesmo para quem já escreveu capítulos históricos no tênis. Em meio a esse cenário, Novak Djokovic segue em quadra tentando ampliar marcas que o colocam em um patamar histórico difícil de ser alcançado."
     }
 ]
