@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-28-01.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/marcondes_itajai.jpg",
+        "date": "28/01/2026",
+        "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesDuplas femininas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/stefani-e-arevalo-caem-em-semifinal-equilibrada-nas-mistas.html",
+        "title": "Stefani e Arevalo caem em semifinal equilibrada nas mistas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/stefani_arevalo_cump-1024x653.jpg",
+        "date": "28/01/2026",
+        "description": "Melbourne (Austrália) –Horas depois de se classificar para asemifinal de duplas femininasdo Australian Open, Luísa Stefani voltou à quadra para disputar a semifinal de duplas mistas e foi eliminada ao lado do salvadorenho Marcelo Arevalo. A parceria francesa de Kristina Mladenovic e Manuel Guinard levou a melhor com parciais de 6/2, 3/6 e 10-7."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/semifinalistas-do-australian-open-ainda-nao-perderam-set-no-torneio.html",
         "title": "Semifinalistas do Australian Open ainda não perderam set no torneio",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/Artes-fotos-multiplas-900x600-1-2.jpg",
         "date": "28/01/2026",
-        "description": "Melbourne (Austrália)– As quatro semifinalistas do Australian Open vão buscar um lugar na final sem ainda ter pedido um set sequer na competição. A bielorrussa Aryna Sabalenka, a cazaque elena Rybakina, a norte-americana Jessica Pegula e a ucraniana Elina Svitolina venceram suas cinco partidas até então todas em sets diretos."
+        "description": "Melbourne (Austrália)– As quatro semifinalistas do Australian Open vão buscar um lugar na final sem ainda ter pedido um set sequer na competição. A bielorrussa Aryna Sabalenka, a cazaque Elena Rybakina, a norte-americana Jessica Pegula e a ucraniana Elina Svitolina venceram suas cinco partidas até então todas em sets diretos."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/djokovic-musetti-deveria-ser-o-vencedor-hoje-sem-duvida-alguma.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/Jessica_Pegula_-_Australian_Open_2026_-_Day_11-DSC_4836_xgaplus.jpg",
         "date": "28/01/2026",
         "description": "Melbourne (Austrália)– No duelo entre norte-americanas que fechou as quartas de final femininas do Australian Open, a sexta favorita Jessica Pegula foi mais consistente do que a compatriota Amanda Anisimova e acabou eliminando a cabeça de chave número 4 em sets diretos, com parciais de 6/2 e 7/6 (7-1), em 1h35 de embate."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-28-01.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/marcondes_itajai.jpg",
-        "date": "28/01/2026",
-        "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesDuplas femininas – Quartas de final –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rybakina-vence-e-adia-sonho-do-grand-slam-de-carreira-de-iga.html",
-        "title": "Rybakina vence e adia sonho do Grand Slam de carreira de Iga",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/rybakina-ausopen-vibra-2026-1024x683.jpg",
-        "date": "27/01/2026",
-        "description": "Melbourne (Austrália)– Assim como aconteceu três anos atrás no Australian Open, a cazaque Elena Rybakina mais uma vez derrotou a polonesa Iga Swiatek no Melbourne Park. Nesta quarta-feira, ela superou a número 2 do mundo com parciais de 7/5 e 6/1, depois de 1h35 de confronto."
     }
 ]
