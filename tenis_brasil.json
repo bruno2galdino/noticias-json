@@ -1,19 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/confira-a-premiacao-das-finalistas-do-australian-open.html",
-        "title": "Confira a premiação das finalistas do Australian Open",
-        "image": null,
-        "date": "31/01/2026",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/nadal-enaltece-feito-de-djokovic-mas-nao-esconde-torcida-por-alcaraz.html",
-        "title": "Nadal enaltece feito de Djokovic, mas não esconde torcida por Alcaraz",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/rafael-nadal_ta0317_ao26_a-e1769866281325-1024x683.jpg",
-        "date": "31/01/2026",
-        "description": "Melbourne (Austrália)– De volta ao Australian Open  para o evento Noite das Lendas, que antecede a final de simples masculina no domingo, o espanhol Rafael Nadal prefere não apontar um favorito para a decisão entre o compatriota Carlos Alcaraz e o sérvio Novak Djokovic."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/bia-estreia-em-abu-dhabi-contra-yastremska-e-busca-primeira-vitoria.html",
         "title": "Bia estreia em Abu Dhabi contra Yastremska e busca primeira vitória",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/Beatriz_Haddad_Maia_-_Australian_Open_2026_-_Day_1-DSC_3312_xgaplus.jpg",
@@ -68,5 +54,19 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/reis-sauipe-saca-2025-e1762603126551-1024x683.jpg",
         "date": "30/01/2026",
         "description": "Australian Open (Melbourne, Austrália) – Sintético – AUD$ 111,5 milhõesJuvenil masculino – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/reis-leva-virada-no-saibro-chileno-demoliner-para-na-semi.html",
+        "title": "Reis leva virada no saibro chileno, Demoliner para na semi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/rojer_demoliner_conversam_ausopen-1024x641.jpg",
+        "date": "30/01/2026",
+        "description": "Concepción (Chile)– Depois de duas boas vitórias, o pernambucano João Lucas Reis foi eliminado nas quartas de final do challenger de nível 100 que acontece no saibro chileno. Ele levou virada do paraguaio Adolfo Vallejo, cabeça 6 e campeão de Itajaí no domingo, parciais de 3/6, 6/3 e 6/1."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/australian-open-confira-as-melhores-jogadas-desta-sexta-em-melbourne.html",
+        "title": "Australian Open: confira as melhores jogadas desta sexta em Melbourne",
+        "image": null,
+        "date": "30/01/2026",
+        "description": ""
     }
 ]
