@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-0102.html",
+        "title": "O dia dos brasileiros: veja os resultados deste domingo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/marcondes_itajai.jpg",
+        "date": "01/02/2026",
+        "description": "Challenger de Concepcion (Chile) – Saibro – US$ 177 milDuplas – Final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ribeiro-fatura-seu-segundo-titulo-seguido-e-vai-estrear-no-top-200.html",
+        "title": "Ribeiro fatura seu segundo título seguido e vai estrear no top 200",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/eduardo_ribeiro_itajai.jpg",
+        "date": "01/02/2026",
+        "description": "Concepción (Chile)– Na final entre brasileiros do challenger de Concepción o gaúcho Eduardo Ribeiro levou a melhor sobre o paulista Marcelo Zormann e conquistou seu segundo título seguido. Ele e o equatoriano Gonzalo Escobar bateram Zormann e o argentino Mariano Kestelboim com parciais de 7/6 (7-4) e 6/4."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/djokovic-tenho-a-conviccao-que-posso-ganhar-outro-grand-slam.html",
         "title": "Djokovic: “Tenho a convicção que posso ganhar outro Grand Slam”",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/djokovic-ausopen-trofeu-2026-e1769968478302-1024x683.jpg",
@@ -12,13 +26,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/alcaraz-ausopen-trofeu-abraco-2026-e1769967383947-1024x683.jpg",
         "date": "01/02/2026",
         "description": "Melbourne (Austrália)– O Australian Open de 2026 ficará marcado para sempre na carreira do espanhol Carlos Alcaraz, que pela primeira vez não apenas passou das quartas de final no torneio, mas acabou rumando para o título e assim se tornou omais jovem da história a completar o Grand Slam de carreiraentre os homens."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-0102.html",
-        "title": "O dia dos brasileiros: veja os resultados deste domingo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/marcondes_itajai.jpg",
-        "date": "01/02/2026",
-        "description": "Challenger de Concepcion (Chile) – Saibro – US$ 177 milDuplas – Final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/pigossi-vence-apenas-dois-games-e-cai-na-ultima-do-quali.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/alcaraz-sinner-usopen-trofeus-2025-1024x683.jpeg",
         "date": "01/02/2026",
         "description": "Melbourne (Austrália)– A conquista de Carlos Alcaraz neste domingo no Australian Open marcou o nono troféu consecutivo levantado por ele ou Jannik Sinner, sequência iniciada no Australian Open de 2024. Nesse período, o espanhol ganhou cinco e o italiano, quatro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wild-monteiro-meligeni-e-boscardin-jogam-forte-challenger-argentino.html",
-        "title": "Wild, Monteiro, Meligeni e Boscardin jogam forte challenger argentino",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/boscardin_sauipe_fore_noite-1024x683.jpg",
-        "date": "01/02/2026",
-        "description": "Rosário (Argentina)– Em busca de pontos e recuperação neste começo de temporada, Thiago Wild, Thiago Monteiro, Felipe Meligeni e Pedro Boscardin permanecem nos torneios challengers sobre o saibro sul-americano e disputam na próxima semana o challenger de US$ 225 mil."
     }
 ]
