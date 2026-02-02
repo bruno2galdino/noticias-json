@@ -1,19 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-perde-2-posicoes-monteiro-tambem-cai-e-wild-volta-ao-top-200.html",
-        "title": "Fonseca perde 2 posições, Monteiro também cai e Wild volta ao top 200",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/fonseca-ausopen-treina-2026-e1768461841231-1024x683.jpg",
-        "date": "02/02/2026",
-        "description": "Melbourne (Austrália)– Eliminado na estreia do Australian Open neste ano, depois de ir à segunda rodada em 2025, o carioca João Fonseca acabou amargando uma leve queda no ranking desta segunda-feira, caindo da 32ª para a 34ª colocação."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ainda-sem-vencer-no-ano-bia-volta-a-descer-no-ranking-da-wta.html",
-        "title": "Ainda sem vencer no ano, Bia volta a descer no ranking da WTA",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/bia-sp-open-cabisbaixa-scaled-e1765812148818-1024x683.jpg",
-        "date": "02/02/2026",
-        "description": "São Petersburgo (EUA)– Ainda em busca de sua primeira vitória na temporada, a paulista Beatriz Haddad Maia segue em baixa no ranking da WTA. Na primeira lista depois do Australian Open, onde caiu na estreia, ela perdeu sete colocações e agora é a 68ª do mundo."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/monteiro-estreia-em-rosario-nesta-segunda-feira-na-busca-por-recuperacao.html",
         "title": "Monteiro estreia em Rosário nesta segunda-feira na busca por recuperação",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/monteiro_ctba_toss.jpg",
@@ -68,5 +54,19 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/eduardo_ribeiro_itajai.jpg",
         "date": "01/02/2026",
         "description": "Concepción (Chile)– Na final entre brasileiros do challenger de Concepción o gaúcho Eduardo Ribeiro levou a melhor sobre o paulista Marcelo Zormann e conquistou seu segundo título seguido. Ele e o equatoriano Gonzalo Escobar bateram Zormann e o argentino Mariano Kestelboim com parciais de 7/6 (7-4) e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/djokovic-tenho-a-conviccao-que-posso-ganhar-outro-grand-slam.html",
+        "title": "Djokovic: “Tenho a convicção que posso ganhar outro Grand Slam”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/djokovic-ausopen-trofeu-2026-e1769968478302-1024x683.jpg",
+        "date": "01/02/2026",
+        "description": "Melbourne (Austrália)– Derrotado pela primeira vez em uma final de Australian Open, após vencer as outras 10 decisões que disputou no Melbourne Park, o sérvio Novak Djokovic deixa o torneio com sensações opostas depois do vice-campeonato neste domingo. De um lado ele fica feliz pela grande campanha, mas de outro frustrado por perder mais uma oportunidade."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/apos-sonho-realizado-na-australia-alcaraz-ja-pensa-em-roland-garros.html",
+        "title": "Após sonho realizado na Austrália, Alcaraz já pensa em Roland Garros",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/alcaraz-ausopen-trofeu-abraco-2026-e1769967383947-1024x683.jpg",
+        "date": "01/02/2026",
+        "description": "Melbourne (Austrália)– O Australian Open de 2026 ficará marcado para sempre na carreira do espanhol Carlos Alcaraz, que pela primeira vez não apenas passou das quartas de final no torneio, mas acabou rumando para o título e assim se tornou omais jovem da história a completar o Grand Slam de carreiraentre os homens."
     }
 ]
