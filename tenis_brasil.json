@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/djokovic-volta-ao-top-3-do-ranking-depois-de-17-meses-ausente.html",
+        "title": "Djokovic volta ao top 3 do ranking depois de 17 meses ausente",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/djokovic-ausopen-rebate-2026-e1769940527275-1024x683.jpg",
+        "date": "02/02/2026",
+        "description": "Londres (Inglaterra)– Tenista que mais tempo passou na liderança do ranking da ATP, o sérvio Novak Djokovic voltou ao top 3 nesta segunda-feira, depois de chegar na final do Australian Open. Ele superou o vice-campeão do ano passado, o alemão Alexander Zverev, que agora é o quarto colocado."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-abre-mais-de-3-mil-pontos-de-vantagem-para-sinner.html",
+        "title": "Alcaraz abre mais de 3 mil pontos de vantagem para Sinner",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/alcaraz-ausopen-trofeu-2026-e1769967399708-1024x683.jpg",
+        "date": "02/02/2026",
+        "description": "Londres (Inglaterra)– Campeão pela primeira vez do Australian Open, onde nunca havia passado das quartas de final, o espanhol Carlos Alcaraz viu seu título inédito, que lhe rendeu o feito de se tornar o mais jovem homem da história a completar o Grand Slam de carreira, também ampliar sua vantagem no ranking da ATP."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-perde-2-posicoes-monteiro-tambem-cai-e-wild-volta-ao-top-200.html",
+        "title": "Fonseca perde 2 posições, Monteiro também cai e Wild volta ao top 200",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/fonseca-ausopen-treina-2026-e1768461841231-1024x683.jpg",
+        "date": "02/02/2026",
+        "description": "Melbourne (Austrália)– Eliminado na estreia do Australian Open neste ano, depois de ir à segunda rodada em 2025, o carioca João Fonseca acabou amargando uma leve queda no ranking desta segunda-feira, caindo da 32ª para a 34ª colocação."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ainda-sem-vencer-no-ano-bia-volta-a-descer-no-ranking-da-wta.html",
+        "title": "Ainda sem vencer no ano, Bia volta a descer no ranking da WTA",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/bia-sp-open-cabisbaixa-scaled-e1765812148818-1024x683.jpg",
+        "date": "02/02/2026",
+        "description": "São Petersburgo (EUA)– Ainda em busca de sua primeira vitória na temporada, a paulista Beatriz Haddad Maia segue em baixa no ranking da WTA. Na primeira lista depois do Australian Open, onde caiu na estreia, ela perdeu sete colocações e agora é a 68ª do mundo."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/monteiro-estreia-em-rosario-nesta-segunda-feira-na-busca-por-recuperacao.html",
         "title": "Monteiro estreia em Rosário nesta segunda-feira na busca por recuperação",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/monteiro_ctba_toss.jpg",
@@ -33,40 +61,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/craigtileyinterview_day2_a_2-1024x683.jpg",
         "date": "01/02/2026",
         "description": "Melbourne (Austrália)– Precursor de várias inovações nos Grand Slam, o Australian Open planeja introduzir os cinco sets também nas chaves femininas. Uma reportagem doNew York Timesafirma que estão considerando seriamente a implementação de partidas maiores para mulheres nas rodadas finais."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/australian-open-mais-uma-vez-quebra-o-recorde-de-publico.html",
-        "title": "Australian Open mais uma vez quebra o recorde de público",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/01/1367683165-e1665527848656-1024x683.jpg",
-        "date": "01/02/2026",
-        "description": "Melbourne (Austrália)– O crescimento constante do público no Australian Open se manteve neste ano e o torneio conseguiu bater o próprio recorde. De acordo com números divulgados pela organização do torneio, em 2026 passaram pelo Melbourne Park 1.102.303 espectadores."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/lesionado-musetti-anuncia-desistencia-do-rio-open.html",
-        "title": "Lesionado, Musetti anuncia desistência do Rio Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/musetti-australian-open-2026-r4-tweener-1024x576.jpg",
-        "date": "01/02/2026",
-        "description": "Rio de Janeiro (RJ) –Único top 10 inscrito no Rio Open, o italiano Lorenzo Musetti está fora do ATP 500 carioca. O atual número 5 do mundo anunciou neste domingo sua desistência do torneio, depois de realizar exames na coxa direita e ser orientado pelos médicos a adiar seu retorno ao circuito devido a uma lesão no músculo adutor."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ribeiro-fatura-seu-segundo-titulo-seguido-e-vai-estrear-no-top-200.html",
-        "title": "Ribeiro fatura seu segundo título seguido e vai estrear no top 200",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/eduardo_ribeiro_itajai.jpg",
-        "date": "01/02/2026",
-        "description": "Concepción (Chile)– Na final entre brasileiros do challenger de Concepción o gaúcho Eduardo Ribeiro levou a melhor sobre o paulista Marcelo Zormann e conquistou seu segundo título seguido. Ele e o equatoriano Gonzalo Escobar bateram Zormann e o argentino Mariano Kestelboim com parciais de 7/6 (7-4) e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-tenho-a-conviccao-que-posso-ganhar-outro-grand-slam.html",
-        "title": "Djokovic: “Tenho a convicção que posso ganhar outro Grand Slam”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/djokovic-ausopen-trofeu-2026-e1769968478302-1024x683.jpg",
-        "date": "01/02/2026",
-        "description": "Melbourne (Austrália)– Derrotado pela primeira vez em uma final de Australian Open, após vencer as outras 10 decisões que disputou no Melbourne Park, o sérvio Novak Djokovic deixa o torneio com sensações opostas depois do vice-campeonato neste domingo. De um lado ele fica feliz pela grande campanha, mas de outro frustrado por perder mais uma oportunidade."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/apos-sonho-realizado-na-australia-alcaraz-ja-pensa-em-roland-garros.html",
-        "title": "Após sonho realizado na Austrália, Alcaraz já pensa em Roland Garros",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/alcaraz-ausopen-trofeu-abraco-2026-e1769967383947-1024x683.jpg",
-        "date": "01/02/2026",
-        "description": "Melbourne (Austrália)– O Australian Open de 2026 ficará marcado para sempre na carreira do espanhol Carlos Alcaraz, que pela primeira vez não apenas passou das quartas de final no torneio, mas acabou rumando para o título e assim se tornou omais jovem da história a completar o Grand Slam de carreiraentre os homens."
     }
 ]
