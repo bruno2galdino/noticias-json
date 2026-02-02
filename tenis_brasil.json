@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/bia-cai-na-estreia-em-abu-dhabi-e-segue-sem-vitorias-na-temporada.html",
+        "title": "Bia cai na estreia em Abu Dhabi e segue sem vitórias na temporada",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/Beatriz_Haddad_Maia_-_Australian_Open_2026_-_Day_1-DSC_3626_xgaplus.jpg",
+        "date": "02/02/2026",
+        "description": "Abu Dhabi (Emirados Árabes)– Mais uma vez não deu para a paulista Beatriz Haddad Maia, que segue sem vencer na atual temporada. Nesta segunda-feira, ela abriu campanha no WTA 500 de Abu Dhabi, sendo derrotada em sets diretos pela ucraniana Dayana Yastremska, com parciais de 6/2 e 7/5."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/espanholas-e-a-vice-campea-de-abu-dhabi-sao-eliminadas-na-primeira-rodada.html",
+        "title": "Espanholas e a vice-campeã de Abu Dhabi são eliminadas na primeira rodada",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/Paula_Badosa_-_China_Open_2025_-_Day_3-DSC_7603_xgaplus.jpg",
+        "date": "02/02/2026",
+        "description": "Abu Dhabi (Emirados Árabes) –O segundo dia da chave principal do WTA 500 de Abu Dhabi não foi feliz para as espanholas Paula Badosa e Cristina Bucsa, que foram eliminadas na primeira rodada. A norte-americana Ashlyn Krueger, atual vice-campeã do torneio, também não conseguiu sustentar seu favoritismo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/todas-as-chaves-2026.html",
+        "title": "Todas as chaves",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/todas-as-chaves.png",
+        "date": "02/02/2026",
+        "description": "ATPMontpellier –SImplesDuplasQualiAustralian Open –SimplesDuplasQuali250 de Adelaide –SimplesDuplasQuali250 de Auckland –SimplesDuplasQualiUnited Cup –Jogos e classificação250 de Brisbane –SimplesDuplasQuali250 de Hong Kong –SimplesDuplasQuali"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/matos-volta-a-ser-o-no-1-do-brasil-nas-duplas-e-luz-bate-melhor-marca.html",
+        "title": "Matos volta a ser o nº 1 do Brasil nas duplas e Luz bate melhor marca",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/luz-matos-ausopen-2026-e1769393510161-1024x683.jpg",
+        "date": "02/02/2026",
+        "description": "Londres (Inglaterra)– A ótima campanha dos gaúchos Rafael Matos e Orlando Luz no Australian Open impulsionou ambos no ranking de duplas desta segunda-feira. Matos voltou a ser o melhor do país, ultrapassando Fernando Romboli, e Luz se aproximou do top 50, atingindo sua melhor marca."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/djokovic-volta-ao-top-3-do-ranking-depois-de-17-meses-ausente.html",
         "title": "Djokovic volta ao top 3 do ranking depois de 17 meses ausente",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/djokovic-ausopen-rebate-2026-e1769940527275-1024x683.jpg",
@@ -40,26 +68,5 @@
         "image": null,
         "date": "01/02/2026",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-01-02.html",
-        "title": "O dia dos brasileiros: veja os resultados deste domingo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/marcondes_itajai.jpg",
-        "date": "01/02/2026",
-        "description": "Challenger de Concepcion (Chile) – Saibro – US$ 177 milDuplas – Final –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/candiotto-e-nana-vencem-em-quadras-cobertas-na-europa.html",
-        "title": "Candiotto e Naná vencem em quadras cobertas na Europa",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/candiotto_porto_fore-1024x683.jpg",
-        "date": "01/02/2026",
-        "description": "Porto (Portugal) –Única brasileira no quali para o ITF W50 do Porto, em quadras e cobertas, Ana Candiotto estreou com vitória no qualificatório. A paulista de 21 anos e 512ª do ranking venceu a chinesa Min Liu por 6/3 e 6/0."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tiley-revela-conversas-sobre-melhor-de-5-sets-na-chave-feminina.html",
-        "title": "Tiley revela conversas sobre melhor de 5 sets na chave feminina",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/craigtileyinterview_day2_a_2-1024x683.jpg",
-        "date": "01/02/2026",
-        "description": "Melbourne (Austrália)– Precursor de várias inovações nos Grand Slam, o Australian Open planeja introduzir os cinco sets também nas chaves femininas. Uma reportagem doNew York Timesafirma que estão considerando seriamente a implementação de partidas maiores para mulheres nas rodadas finais."
     }
 ]
