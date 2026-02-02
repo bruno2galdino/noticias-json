@@ -1,24 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/ruud-confirma-nascimento-da-filha-no-dia-30-de-janeiro.html",
-        "title": "Ruud confirma nascimento da filha no dia 30 de janeiro",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/11/ruud_noivado.jpg",
-        "date": "02/02/2026",
-        "description": "Oslo (Noruega) –O norueguês Casper Ruud e sua esposa Maria anunciaram o nascimento de sua filha. O número 13 do mundo anunciou a boa notícia nas redes sociais. “Obrigado por todas as lindas mensagens destas últimas semanas”, escreveu. “Maria e nosso bebê estão ótimos”, explicou sobre o nascimento, que ocorreu em 30 de janeiro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-02-02.html",
-        "title": "O dia dos brasileiros: veja os resultados desta segunda",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nauhany_silva_zambra_DGW.jpg",
-        "date": "02/02/2026",
-        "description": "WTA 500 de Abi Dhabi (Emirados Árabes) – Sintético – US$ 1.206.446Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-ja-e-um-dos-melhores-afirma-toni-nadal.html",
         "title": "“Alcaraz já é um dos melhores”, afirma Toni Nadal",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/alcaraz-ausopen-trofeu-costas-2026.jpg",
         "date": "02/02/2026",
         "description": "Madri (Espanha)– A inédita conquista do espanhol Carlos Alcaraz no Australian Open continua repercutindo no mundo do tênis. Em sua coluna noEl Paísdesta segunda-feira, o treinador Toni Nadal enalteceu o compatriota, que se tornou o mais jovem entre os homens a completar o Grand Slam de carreira, e disse que ele já é uma lenda."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nauhany_silva_zambra_DGW.jpg",
+        "date": "02/02/2026",
+        "description": "WTA 500 de Abi Dhabi (Emirados Árabes) – Sintético – US$ 1.206.446Primeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/reveja-as-emocoes-de-alcaraz-no-domingo-e-o-dia-seguinte-do-campeao.html",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/med_trofeu-1024x576.jpg",
         "date": "02/02/2026",
         "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bia-cai-na-estreia-em-abu-dhabi-e-segue-sem-vitorias-na-temporada.html",
+        "title": "Bia cai na estreia em Abu Dhabi e segue sem vitórias na temporada",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/bia_abudhabi_toss26.jpg",
+        "date": "02/02/2026",
+        "description": "Abu Dhabi (Emirados Árabes)– Mais uma vez não deu para a paulista Beatriz Haddad Maia, que segue sem vencer na atual temporada. Nesta segunda-feira, ela abriu campanha no WTA 500 de Abu Dhabi, sendo derrotada em sets diretos pela ucraniana Dayana Yastremska, com parciais de 6/2 e 7/5."
     }
 ]
