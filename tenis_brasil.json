@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-06-02.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/heide_davis_treino_canada-1024x677.jpg",
-        "date": "06/02/2026",
-        "description": "WTA 1000 de Doha (Qatar) – Sintético – US$ 4,088,211Qualificatório – Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/bublik-e-vacherot-vencem-e-deixam-tudo-igual-no-confronto.html",
         "title": "Bublik e Vacherot vencem e deixam tudo igual no confronto",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bublik-1024x673.jpg",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Artes-fotos-multiplas-900x600-2.jpg",
         "date": "06/02/2026",
         "description": "Vancouver (Canadá)– Além dos titulares João Lucas Reis, Gustavo Heide, Rafael Matos, Orlando Luz e Matheus Pucinelli, o capitão Jaime Oncins conta com o brasiliense Pedro Chabalgoity e o cuiabano Leonardo Storck na equipe que enfrenta o Canadá pela Copa Davis, ambos atuando como parceiro de treinos."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/apos-desistir-da-davis-ruud-tambem-nao-ira-jogar-em-dallas.html",
+        "title": "Após desistir da Davis, Ruud também não irá jogar em Dallas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/ruud-toronto-olhabola-2025.jpg",
+        "date": "06/02/2026",
+        "description": "Dallas (EUA) –Na semana passada, Casper Ruud se tornou pai pela primeira vez. Com a novidade, o norueguês vem fazendo ajustes em seu calendário para poder passar mais tempo com a família em casa.Após desistir da Copa Davis, também anunciou que está fora do ATP 500 de Dallas, que começa semana que vem."
     }
 ]
