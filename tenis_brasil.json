@@ -1,10 +1,31 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/raducanu-disputa-a-primeira-final-desde-2021-e-enfrenta-cirstea.html",
-        "title": "Raducanu disputa a primeira final desde 2021 e enfrenta Cirstea",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/raducanu_cluj_vibra_semi-1024x585.jpg",
+        "url": "https://tenisbrasil.uol.com.br/romboli-e-finalista-em-rosario-natan-e-ceolin-jogam-semis-de-itf.html",
+        "title": "Romboli é finalista em Rosario, Natan e Ceolin jogam semis de ITF",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/varella-romboli-rosario-2026-1024x684.jpg",
         "date": "06/02/2026",
-        "description": "Cluj-Napoca (Romênia) –Quatro anos e cinco meses depois de conquistar o US Open de 2021, Emma Raducanu volta a uma final de WTA e vai decidir o título do 250 de Cluj-Napoca, em quadras duras e cobertas na Romênia. A britânica venceu nesta sexta-feira a ucraniana Oleksandra Oliynykova, 91ª do ranking, por 7/5, 3/6 e 6/3."
+        "description": "Rosario (Argentina) –Em jogo com três brasileiros, Fernando Romboli e o parceiro mexicano Miguel Reyes-Varela garantiram vaga na final de duplas do challenger de Rosario, em quadras de saibro na Argentina, após vencerem Igor Marcondes e Eduardo Ribeiro por 6/7 (3-7), 6/3 e 10-6."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pedretti-e-finalista-de-duplas-nos-eua-e-busca-o-15o-titulo-da-carreira.html",
+        "title": "Pedretti é finalista de duplas nos EUA e busca o 15º título da carreira",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/pedretti-spopen-back-2025-1024x683.jpg",
+        "date": "06/02/2026",
+        "description": "Orlando (EUA) –A paulista Thaísa Pedretti está na final de duplas do ITF W50 de Orlando, em quadras duras nos Estados Unidos, jogando ao lado da boliviana Noelia Zeballos. Elas venceram na semifinal desta sexta-feira as norte-americanas Kylie Collins e Allura Zamarripa por duplo 6/3."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pietra-cai-nas-quartas-em-simples-e-fica-com-o-vice-de-duplas-em-salinas.html",
+        "title": "Pietra cai nas quartas em simples e fica com o vice de duplas em Salinas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/pietra_spopen_slice-1024x637.jpg",
+        "date": "06/02/2026",
+        "description": "Salinas (Equador) –A juvenil gaúcha Pietra Rivoli caiu nas quartas de final do ITF J300 de Salinas, em quadras duras no Equador. Segunda cabeça de chave e 61ª do ranking, ela foi superada pela norte-americana Yael Saffar, 109ª colocada e cabeça 6, por 6/3 e 6/1."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/aliassime-domina-o-duelo-com-fils-e-volta-a-semi-em-montpellier.html",
+        "title": "Aliassime domina o duelo com Fils e volta à semi em Montpellier",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/felix-montpellier-2026-thursday-1024x576.jpg",
+        "date": "06/02/2026",
+        "description": "Montpellier (França) –Atual campeão do ATP 250 de Montpellier e principal cabeça de chave, Félix Auger-Aliassime conseguiu sua segunda vitória no torneio francês em quadras duras e cobertas e garantiu vaga na semifinal. O canadense superou o anfitrião Arthur Fils, de 21 anos e 42º do ranking, por 6/4 e 6/2 em apenas 1h08 de partida."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-06-02.html",
@@ -12,6 +33,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/heide_davis_treino_canada-1024x677.jpg",
         "date": "06/02/2026",
         "description": "WTA 1000 de Doha (Qatar) – Sintético – US$ 4.088.211Qualificatório – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/raducanu-disputa-a-primeira-final-desde-2021-e-enfrenta-cirstea.html",
+        "title": "Raducanu disputa a primeira final desde 2021 e enfrenta Cirstea",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/raducanu_cluj_vibra_semi-1024x585.jpg",
+        "date": "06/02/2026",
+        "description": "Cluj-Napoca (Romênia) –Quatro anos e cinco meses depois de conquistar o US Open de 2021, Emma Raducanu volta a uma final de WTA e vai decidir o título do 250 de Cluj-Napoca, em quadras duras e cobertas na Romênia. A britânica venceu nesta sexta-feira a ucraniana Oleksandra Oliynykova, 91ª do ranking, por 7/5, 3/6 e 6/3."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/vinda-do-quali-bejlek-desafia-alexandrova-na-final-de-abu-dhabi.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/svitolina_bjkcup_estica-1024x598.jpg",
         "date": "06/02/2026",
         "description": "Londres (Inglaterra) –As federações de tênis da Ucrânia e da Polônia chegaram a um acordo para que o confronto entre os dois países pela Billie Jean King Cup seja disputado em solo polonês, entre os dias 10 e 11 de abril. Os dois países são vizinhos e a Polônia recebeu uma grande comunidade ucraniana desde o início da guerra em 2022."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/paquistanes-se-torna-o-mais-velho-a-vencer-na-davis-no-seculo-xxi.html",
-        "title": "Paquistanês se torna o mais velho a vencer na Davis no século XXI",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Aqeel-Khan.jpg",
-        "date": "06/02/2026",
-        "description": "Islamabad (Paquistão)– O Paquistão teve um grande início contra o Senegal no confronto do Grupo II da Copa Davis, nesta sexta-feira. Mas o destaque não foi o placar de 2 a 0 no fim do primeiro dia e sim a vitória no segundo jogo da série de Aqeel Khan, que se tornou o oitavo jogador mais velho a conquistar uma vitória em uma partida de simples na competição."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bublik-e-vacherot-vencem-e-deixam-tudo-igual-no-confronto.html",
-        "title": "Bublik e Vacherot vencem e deixam tudo igual no confronto",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bublik-1024x673.jpg",
-        "date": "06/02/2026",
-        "description": "Astana (Cazaquistão) –Nesta sexta-feira, o placar do confronto válido pela primeira rodada do Grupo Mundial I da Copa Davis entre as equipes do Cazaquistão e de Mônaco terminou empatado. Os melhores jogadores de cada equipe, Alexandre Bublik e Valentin Vacherot, venceram seus confrontos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/schiavone-e-pennetta-ajudam-a-levar-a-tocha-ate-a-catedral-de-milao.html",
-        "title": "Schiavone e Pennetta levam a tocha até a catedral. Sinner confere tickets.",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/schiavone_pennetta_tocha.jpg",
-        "date": "06/02/2026",
-        "description": "Milão (Itália) –Mais duas tenistas se juntaram ao revezamento da tocha olímpica. Primeiro foi Jasmine Paoline, no dia do acendimento da pira, que trouxe a tocha da Grécia até Roma. Anteontem, foi a vez de sua parceira de duplas Sara Errani."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/swiatek-e-rybakina-lideram-a-forte-chave-em-doha.html",
-        "title": "Swiatek e Rybakina lideram a forte chave em Doha",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/iga_rybakina_ausopen-1024x683.jpg",
-        "date": "06/02/2026",
-        "description": "Doha (Qatar)– Mesmo sem contarcom a bielorrussa Aryna Sabalenka, a chave do WTA 1000 de Doha segue fortíssima, com a polonesa Iga Swiatek e a cazaque Elena Rybakina como as duas principais favoritas. As duas lideram a disputa na competição, que acontece na próxima semana, e só podem se cruzar na final."
     }
 ]
