@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/duplas-de-romboli-e-pedretti-sao-vices-brasileiros-vencem-itf-no-mexico.html",
+        "title": "Duplas de Romboli e Pedretti são vices. Brasileiros vencem ITF no México",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/varella-romboli-rosario-2026-1024x684.jpg",
+        "date": "07/02/2026",
+        "description": "Rosario (Argentina) –Principais cabeças de chave no challenger de Rosario, Fernando Romboli e o mexicano Miguel Reyes-Varela ficaram com o vice-campeonato do torneio em quadras de saibro. Eles foram superados pelo uruguaio Ignacio Carou e o argentino Facundo Mena por 6/1 e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-07-02.html",
+        "title": "O dia dos brasileiros: veja os resultados deste sábado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/luz_matos_davis_treinam.jpg",
+        "date": "07/02/2026",
+        "description": "WTA 1000 de Doha (Qatar) – Sintético – US$ 4.088.211Qualificatório – Rodada final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alemanha-e-croacia-se-classificam-eua-abrem-2-a-0-na-hungria.html",
+        "title": "Alemanha e Croácia se classificam, EUA abrem 2 a 0 na Hungria",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/krawietz_puetz_davis_peru-1024x693.jpg",
+        "date": "07/02/2026",
+        "description": "Dusseldorf (Alemanha) –A Alemanha completou a vitória sobre o Peru e garantiu vaga na segunda rodada qualificatória da Copa Davis. Depois de dois triunfos em simples na última sexta-feira, a forte parceria de Kevin Krawietz e Tim Puetz venceu Ignacio Buse e Arklon Huertas por 6/0, 2/6 e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-e-o-cabeca-3-em-buenos-aires-e-pode-ter-duelo-de-campeoes.html",
+        "title": "Fonseca é o cabeça 3 em Buenos Aires e pode ter duelo de campeões",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/fonseca-trofeu_sorrindo-1024x632.jpg",
+        "date": "07/02/2026",
+        "description": "Buenos Aires (Argentina) –O retorno de João Fonseca ao circuito acontece na próxima semana no ATP 250 de Buenos Aires. O carioca de 19 anos e número 1 do Brasil é o atual campeão do torneio em quadras de saibro na capital argentina. Terceiro cabeça de chave, Fonseca entra direto na segunda rodada e deve jogar só a partir de quarta-feira."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/mannarino-disputa-sua-primeira-final-em-casa-e-desafia-aliassime.html",
         "title": "Mannarino disputa sua primeira final em casa e desafia Aliassime",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/mannarino_montpellier_vibra-1024x644.jpg",
@@ -12,13 +40,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/demo-romboli-voleio-rio-2025-e1740683286583-1024x683.jpg",
         "date": "07/02/2026",
         "description": "Buenos Aires (Argentina) –Cinco brasileiros estão na chave de duplas do ATP 250 de Buenos Aires evento que abre a temporada de saibro na América do Sul pela elite do circuito. E a primeira rodada ainda prevê uma partida com três atletas nacionais em quadra."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-07-02.html",
-        "title": "O dia dos brasileiros: veja os resultados deste sábado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/luz_matos_davis_treinam.jpg",
-        "date": "07/02/2026",
-        "description": "WTA 1000 de Doha (Qatar) – Sintético – US$ 4.088.211Qualificatório – Rodada final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/stefani-e-dabrowski-sao-cabecas-5-em-doha-e-estreiam-no-domingo.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/bejlek_abudhabi_trofeu-1024x653.jpg",
         "date": "07/02/2026",
         "description": "Abu Dhabi (Emirados Árabes) –A grande semana de Sara Bejlek no WTA 500 de Abu Dhabi foi recompensada com o primeiro título na elite do circuito. Vinda do quali, a jovem tcheca de 20 anos e 101ª do ranking superou neste sábado a russa Ekaterina Alexandrova, segunda cabeça de chave e número 11 do mundo, por 7/6 (7-5) e 6/1 em 1h39 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/monfils-nao-se-recupera-e-anuncia-desistencia-do-rio-open.html",
-        "title": "Monfils não se recupera e anuncia desistência do Rio Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/monfils_ausopen_despedida-1024x687.jpg",
-        "date": "07/02/2026",
-        "description": "Rio de Janeiro (RJ) –Três dias depois de anunciar que não disputaria o ATP 250 de Buenos Aires, o francês Gael Monfils também está fora do Rio Open. A organização do ATP 500 confirmou a desistência na manhã deste sábado. Ele seria um convidado para o torneio no Jockey Club Brasileiro, o que possibilita aos realizadores indicar outro jogador."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/de-minaur-estreia-contra-fils-em-roterda-e-pode-enfrentar-wawrinka.html",
-        "title": "De Minaur estreia contra Fils em Roterdã e pode enfrentar Wawrinka",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/demon-turin-2025-sf-reaction-1024x576.jpg",
-        "date": "07/02/2026",
-        "description": "Roterdã (Holanda) –O sorteio realizado neste sábado definiu a chave do ATP 500 de Roterdã, que será disputado a partir de segunda-feira em quadras duras e cobertas. Com as desistências de Carlos Alcaraz e Alexander Zverev, o principal nome da competição será o australiano Alex de Minaur, número 6 do mundo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/zvonareva-e-osorio-furam-o-quali-em-doha-sierra-e-lucky-loser.html",
-        "title": "Zvonareva e Osorio furam o quali em Doha, Sierra é lucky-loser",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/zvonareva_dubai_posada-1024x698.jpg",
-        "date": "07/02/2026",
-        "description": "Doha (Qatar) –A experiente russa Vera Zvonareva conseguiu uma vaga na chave principal do WTA 1000 de Doha, depois de passar pelas duas rodadas do quali. Ela superou neste sábado a polonesa Magdalena Frech por 6/3 e 7/6 (7-1) e já havia vencido na sexta-feira a chinesa Shuai Zhang por duplo 6/3."
     }
 ]
