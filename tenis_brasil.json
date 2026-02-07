@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/cirstea-tem-a-despedida-perfeita-e-e-campea-de-wta-em-casa.html",
+        "title": "Cirstea tem a despedida perfeita e é campeã de WTA em casa",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/cirstea_cluj_vibra_sf-1024x589.jpg",
+        "date": "07/02/2026",
+        "description": "Cluj-Napoca (Romênia) –Em temporada de despedida do circuito profissional, Sorana Cirstea teve a oportunidade de conquistar o título e venceu o WTA 250 de Cluj-Napoca, em quadras duras e cobertas. A romena superou na final deste sábado a britânica Emma Raducanu por 6/0 e 6/2 em 1h03 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bejlek-derruba-mais-uma-top-20-e-conquista-o-titulo-em-abu-dhabi.html",
+        "title": "Bejlek derruba mais uma top 20 e conquista o título em Abu Dhabi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/bejlek_abudhabi_trofeu-1024x653.jpg",
+        "date": "07/02/2026",
+        "description": "Abu Dhabi (Emirados Árabes) –A grande semana de Sara Bejlek no WTA 500 de Abu Dhabi foi recompensada com o primeiro título na elite do circuito. Vinda do quali, a jovem tcheca de 20 anos e 101ª do ranking superou neste sábado a russa Ekaterina Alexandrova, segunda cabeça de chave e número 11 do mundo, por 7/6 (7-5) e 6/1 em 1h39 de partida."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/monfils-nao-se-recupera-e-anuncia-desistencia-do-rio-open.html",
         "title": "Monfils não se recupera e anuncia desistência do Rio Open",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/monfils_ausopen_despedida-1024x687.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/heide_davis_treino_canada-1024x677.jpg",
         "date": "07/02/2026",
         "description": "WTA 1000 de Doha (Qatar) – Sintético – US$ 4.088.211Qualificatório – Primeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/com-atuacao-notavel-heide-bate-39o-do-mundo-e-empata-davis.html",
-        "title": "Com atuação notável, Heide bate 39º do mundo e empata Davis",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/heide_davis_vibramuito-1024x682.jpeg",
-        "date": "07/02/2026",
-        "description": "Vancouver (Canadá)– O paulista Gustavo Heide teve atuação espetacular sobre o piso sintético coberto e conquistou a segunda grande vitória de sua jovem carreira, ao derrubar Gabriel Diallo, o número 39 do ranking, por 7/6 (7-4), 3/6 e 7/6 (7-3), após 2h40. Em julho de 2024, Heide derrotou o então 15º do mundo Ugo Humbert no ATP de Gstaad."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/boscardin-cai-nas-quartas-de-final-mas-tera-seu-melhor-ranking.html",
-        "title": "Boscardin cai nas quartas de final, mas terá seu melhor ranking",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/boscardin_rosario_desliza-1024x683.jpg",
-        "date": "07/02/2026",
-        "description": "Rosario (Argentina)– Depois de duas boas vitórias, o catarinense Pedro Boscardin não conseguiu ir além das quartas de final no challenger de US$ 225 mil sobre o saibro argentino. Após eliminar o cabeça 2 e número 64 do ranking na véspera, ele foi eliminado na noite desta sexta-feira pelo argentino Roman Burruchaga, quinto principal favorito, com as parciais de 7/6 (7-3) e 6/3, tendo perdido dois set-points antes do tiebreak."
     }
 ]
