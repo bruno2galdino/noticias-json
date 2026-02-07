@@ -7,11 +7,25 @@
         "description": "WTA 1000 de Doha (Qatar) – Sintético – US$ 4.088.211Qualificatório – Primeira rodada –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/com-atuacao-notavel-heide-bate-39o-do-mundo-e-empata-davis.html",
+        "title": "Com atuação notável, Heide bate 39º do mundo e empata Davis",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/heide2-1024x706.jpg",
+        "date": "07/02/2026",
+        "description": "Vancouver (Canadá)– O paulista Gustavo Heide teve atuação espetacular sobre o piso sintético coberto e conquistou a segunda grande vitória de sua jovem carreira, ao derrubar Gabriel Diallo, o número 39 do ranking, por 7/6 (7-4), 3/6 e 7/6 (7-3), após 2h40. Em julho de 2024, Heide derrotou o então 15º do mundo Ugo Humbert no ATP de Gstaad."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/boscardin-cai-nas-quartas-de-final-mas-tera-seu-melhor-ranking.html",
         "title": "Boscardin cai nas quartas de final, mas terá seu melhor ranking",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/boscardin_rosario_desliza-1024x683.jpg",
         "date": "07/02/2026",
         "description": "Rosario (Argentina)– Depois de duas boas vitórias, o catarinense Pedro Boscardin não conseguiu ir além das quartas de final no challenger de US$ 225 mil sobre o saibro argentino. Após eliminar o cabeça 2 e número 64 do ranking na véspera, ele foi eliminado na noite desta sexta-feira pelo argentino Roman Burruchaga, quinto principal favorito, com as parciais de 7/6 (7-3) e 6/3, tendo perdido dois set-points antes do tiebreak."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/wild-monteiro-e-meligeni-jogam-quali-em-buenos-aires-daniel-tenta-dallas.html",
+        "title": "Wild, Monteiro e Meligeni jogam quali em Buenos Aires. Daniel tenta Dallas.",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/meligeni_oeiras_fore_term-1024x683.jpg",
+        "date": "06/02/2026",
+        "description": "Buenos Aires (Argentina) –Três brasileiros disputam a partir deste sábado o qualificatório para o ATP 250 de Buenos Aires. Thiago Wild, Thiago Monteiro e Felipe Meligeni precisam de duas vitórias cada um para entrar na chave principal, que já contará com João Fonseca."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/favoritos-dos-18-anos-estreiam-neste-sabado-na-copa-futuro.html",
@@ -26,13 +40,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/reis_davis_saque_treino.jpg",
         "date": "06/02/2026",
         "description": "Vancouver (Canadá) –Convocado para defender o Brasil na Copa Davis pela primeira vez na carreira, João Lucas Reis perdeu em sua partida de estreia pela competição. Atuando na quadra dura e coberta de Vancouver, contra o Canadá, o pernambucano de 25 anos e 207º do ranking, foi superado por Liam Draxl, 146º colocado, que marcou duplo 6/3."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wild-monteiro-e-meligeni-tentam-o-quali-no-atp-de-buenos-aires.html",
-        "title": "Wild, Monteiro e Meligeni tentam o quali no ATP de Buenos Aires",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/meligeni_oeiras_fore_term-1024x683.jpg",
-        "date": "06/02/2026",
-        "description": "Buenos Aires (Argentina) –Três brasileiros disputam a partir deste sábado o qualificatório para o ATP 250 de Buenos Aires. Thiago Wild, Thiago Monteiro e Felipe Meligeni precisam de duas vitórias cada um para entrar na chave principal, que já contará com João Fonseca."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/britanicos-vencem-em-oslo-alemanha-faz-2-a-0-contra-o-peru.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/pietra_spopen_slice-1024x637.jpg",
         "date": "06/02/2026",
         "description": "Salinas (Equador) –A juvenil gaúcha Pietra Rivoli caiu nas quartas de final do ITF J300 de Salinas, em quadras duras no Equador. Segunda cabeça de chave e 61ª do ranking, ela foi superada pela norte-americana Yael Saffar, 109ª colocada e cabeça 6, por 6/3 e 6/1."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/aliassime-domina-o-duelo-com-fils-e-volta-a-semi-em-montpellier.html",
-        "title": "Aliassime domina o duelo com Fils e volta à semi em Montpellier",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/felix-montpellier-2026-thursday-1024x576.jpg",
-        "date": "06/02/2026",
-        "description": "Montpellier (França) –Atual campeão do ATP 250 de Montpellier e principal cabeça de chave, Félix Auger-Aliassime conseguiu sua segunda vitória no torneio francês em quadras duras e cobertas e garantiu vaga na semifinal. O canadense superou o anfitrião Arthur Fils, de 21 anos e 42º do ranking, por 6/4 e 6/2 em apenas 1h08 de partida."
     }
 ]
