@@ -1,10 +1,59 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/ex-top-20-tabilo-sera-o-adversario-de-fonseca-em-buenos-aires.html",
+        "url": "https://tenisbrasil.uol.com.br/de-minaur-supera-bom-teste-com-fils-na-estreia-em-roterda.html",
+        "title": "De Minaur supera bom teste com Fils na estreia em Roterdã",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/de-minaur-rotterdam-2026-tuesday-1024x576.jpg",
+        "date": "10/02/2026",
+        "description": "Roterdã (Holanda) –Principal cabeça de chave do ATP 500 de Roterdã, Alex de Minaur estreou com vitória no torneio holandês em quadras duras e cobertas. O australiano superou nesta terça-feira o francês Arthur Fils, 42º do ranking, por 7/6 (7-3) e 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/swiatek-sakkari-avancam-em-doha-gauff-e-paolini-eliminadas-veja-no-resumo.html",
+        "title": "Swiatek, Sakkari avançam em Doha, Gauff e Paolini eliminadas. Veja no resumo.",
+        "image": null,
+        "date": "10/02/2026",
+        "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/stefani-joga-as-7h30-em-busca-das-quartas-andreeva-e-mboko-duelam.html",
+        "title": "Stefani joga às 7h30 em busca das quartas, Andreeva e Mboko duelam",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/stefani-ausopen-2026-1024x683.jpg",
+        "date": "10/02/2026",
+        "description": "Doha (Qatar) –Após uma boa estreia no último domingo, Luísa Stefani volta à quadra nesta quarta-feira para disputar a segunda rodada de duplas do WTA 1000 de Doha. A brasileira e a canadense Gabriela Dabrowski são as cabeças 5 do torneio e enfrentam a tcheca Marie Bouzkova e a russa Liudmila Samsonova às 7h30 (de Brasília)."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/rio-open-realiza-o-torneio-winners-e-treinamento-de-boleiros-nesta-semana.html",
+        "title": "Rio Open realiza o Torneio Winners e treinamento de boleiros nesta semana",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/winners_jogadores.jpeg",
+        "date": "10/02/2026",
+        "description": "Rio de Janeiro (RJ) –O Rio Open, maior torneio de tênis da América do Sul, dá início nesta semana a duas iniciativas que reforçam o compromisso do evento com inclusão social, formação cidadã e desenvolvimento por meio do esporte: o Torneio Winners e o treinamento oficial de boleiros da edição 2026."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/confira-as-10-melhores-jogadas-do-wta-1000-de-abu-dhabi.html",
+        "title": "Confira as 10 melhores jogadas do WTA 1000 de Abu Dhabi",
+        "image": null,
+        "date": "10/02/2026",
+        "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ouro-na-patinacao-por-equipe-malinin-se-emociona-ao-ver-djokovic-na-plateia.html",
+        "title": "Ouro na patinação, Malinin se emociona ao ver Djokovic na plateia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/malinin_djoko_patinacao.jpg",
+        "date": "10/02/2026",
+        "description": "Milão (Itália) –O patinador artístico americano Ilia Malinin, medalha de ouro por equipes nos Jogos de Inverno Milão Cortina d’Ampezzo, ficou emocionado ao avistar Novak Djokovic na plateia em um dos momentos mais importantes de sua carreira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ex-top-20-tabilo-sera-o-adversario-de-joao-fonseca-em-buenos-aires.html",
         "title": "Ex-top 20, Tabilo será o adversário de Fonseca em Buenos Aires",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/tabilo_bsas_back-1024x682.jpg",
         "date": "10/02/2026",
         "description": "Buenos Aires (Argentina) –O chileno Alejandro Tabilo será o adversário de estreia de João Fonseca no ATP 250 de Buenos Aires, na rodada noturna desta quarta-feira. O canhoto de 28 anos e 71º do ranking derrotou o argentino Facundo Diaz Acosta, 285º colocado e campeão do torneio em 2024, por 7/6 (7-5) e 6/3."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/rybakina-mantem-embalo-apos-titulo-na-australia-e-vence-a-10a-no-ano.html",
+        "title": "Rybakina mantém embalo após título e enfrenta Zheng nas oitavas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/rybakina_doha_esperasaque_jimmie.png",
+        "date": "10/02/2026",
+        "description": "* Atualizado no fim da rodada"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/federer-jogara-exibicao-antes-da-cerimonia-de-entrada-no-hall-da-fama.html",
@@ -19,54 +68,5 @@
         "image": null,
         "date": "10/02/2026",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wild-abandona-partida-logo-apos-perder-tres-match-points.html",
-        "title": "Wild abandona partida logo após perder três match-points",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Thiago-SEYBOTH-WILD-BRA-08-02-006-1024x683.jpg",
-        "date": "10/02/2026",
-        "description": "Buenos Aires (Argentina)– Derrotado na última rodada do quali, o paranaense Thiago WIld entrou na chave do ATP 250 de Buenos Aires como lucky-loser e por pouco não aproveitou a chance, mas depois de perder três match-points ele abandonou o duelo com o chileno Tomas Barrios Vera quando vencia por 6/4 e 5/6. O brasileiro chegou a receber atendimento em quadra quando liderava por 5/4 e o torneio ainda não divulgou detalhes sobre o motivo da desistência."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-10-02.html",
-        "title": "O dia dos brasileiros: veja os resultados desta terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/candiotto_porto_fore-1024x683.jpg",
-        "date": "10/02/2026",
-        "description": "ATP 250 de Buenos Aires (Argentina) – Saibro – US$ 675.310Primeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/copa-futuro-define-campeoes-com-boas-surpresas-em-santos.html",
-        "title": "Copa Futuro define campeões com boas surpresas em Santos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Luana_Ferreira_CopaFuturo-1024x683.jpg",
-        "date": "10/02/2026",
-        "description": "Santos (SP)– Os oito campeões de simples da Copa Futuro de Tênis 2026 foram definidos nesta terça-feira, apesar de mais um dia de tempo instável na Baixada Santista, o que obrigou algumas finais acontecerem sobre quadra coberta. Houve surpresas, tanto na faixa dos 18 como dos 16 anos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rybakina-mantem-embalo-apos-titulo-na-australia-e-vence-a-10a-no-ano.html",
-        "title": "Rybakina mantém embalo após título e enfrenta Zheng nas oitavas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/rybakina_doha_esperasaque_jimmie.png",
-        "date": "10/02/2026",
-        "description": "* Atualizado no fim da rodada"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/guto-herda-convite-de-monfils-e-disputa-seu-1o-atp-no-rio-open.html",
-        "title": "Guto herda convite de Monfils e disputa seu 1º ATP no Rio Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/11/guto-miguel-recife-treina.jpeg",
-        "date": "10/02/2026",
-        "description": "Rio de Janeiro (RJ) –A organização do Rio Open anunciou nesta terça-feira que o juvenil goiano Guto Miguel vai disputar a chave principal do ATP 500 na próxima semana. Será sua primeira oportunidade em torneio da elite do circuito. Eles se junta a outros três brasileiros na chave, João Fonseca, Thiago Wild e João Lucas Reis."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/iga-aplica-mais-um-pneu-e-estreia-com-autoridade-em-doha.html",
-        "title": "Iga aplica mais um “pneu” e estreia com autoridade em Doha",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Iga_Swiatek_-_Qatar_TotalEnergies_Open_2026_-_Day_3-DSC_2345_xgaplus.jpg",
-        "date": "10/02/2026",
-        "description": "Doha (Qatar)– Três vezes campeã do WTA 1000 de Doha, a polonesa Iga Swiatek começou bem a busca por mais um título na competição. Estreando direto na segunda rodada, a cabeça de chave número 1 teve pela frente, nesta terça-feira, a indonésia Janice Tjen, contra quem marcou tranquilos 6/0 e 6/3 para avançar."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/meu-objetivo-e-estar-no-top-10-ate-o-fim-do-ano-diz-darderi.html",
-        "title": "“Meu objetivo é estar no top 10 até o fim do ano”, diz Darderi",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/darderi-umag-2025-qf-celebration-1024x576.jpg",
-        "date": "10/02/2026",
-        "description": "Buenos Aires (Argentina) –Luciano Darderi será cabeça de chave pela primeira vez do ATP 250 de Buenos Aires. Atual número 22, melhor colocação de sua carreira, o italiano revelou, em coletiva de imprensa, ambições de alcançar o top 10 até o final do ano."
     }
 ]
