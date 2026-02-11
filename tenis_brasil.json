@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-mundo-do-tenis-esta-pronto-para-jogadores-gays-diz-suico.html",
+        "title": "“O mundo do tênis está pronto para jogadores gays”, diz suíço",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/mika_Brunold_insta-1024x674.jpg",
+        "date": "11/02/2026",
+        "description": "Zurique (Suíça) –No final da última temporada, Mika Brunold decidiu assumir sua homessexualidade publicamente. Agora, alguns meses depois, o suíço disse, em entrevista ao siteBlick, ter se surpreendido positivamente com a repercussão da notícia."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/djokovic-desiste-de-jogar-o-atp-de-doha-alegando-fadiga.html",
+        "title": "Djokovic desiste de jogar o ATP de Doha alegando fadiga",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/djokovic-doha-2026-withdrawal-e1770819595899-1024x682.jpg",
+        "date": "11/02/2026",
+        "description": "Doha (Qatar)– Após chegar à final do Australian Open, o sérvio Novak Djokovic preferiu priorizar o descanso e desistiu do torneio ATP 500 de Doha, que acontece de 16 a 21 de fevereiro. Ele agora foca suas forças na disputa dos Masters 1000 de Indian Wells e Miami, que acontecem em março."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/jogadoras-nao-concordam-com-a-ideia-de-cinco-sets-em-grand-slam.html",
         "title": "Jogadoras não concordam com a ideia de cinco sets em Grand Slam",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/gauff-ausopen-toss-2026.jpg",
@@ -12,6 +26,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/wawrinka-rotterdam-2026-wednesday-1-e1770817040308-1024x682.jpg",
         "date": "11/02/2026",
         "description": "Roterdã (Holanda)– Em uma verdadeira batalha de gerações na primeira rodada do ATP 500 de Roterdã, o suíço Stan Wawrinka fez prevalecer a experiência e derrotou o holandês Thijs Boogaard, de 17 anos, que entrou na disputa como lucky-loser, por 2 sets a 0, com parciais de 6/4 e 6/3."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fritz-shapovalov-cilic-avancam-em-dallas-veja-como-foi-no-resumo.html",
+        "title": "Fritz, Shapovalov, Cilic avançam em Dallas. Veja como foi no resumo.",
+        "image": null,
+        "date": "11/02/2026",
+        "description": ""
     },
     {
         "url": "https://tenisbrasil.uol.com.br/stefani-e-dabrowski-vencem-mais-uma-em-doha-e-vao-as-quartas.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/brasil-davis-canada-2026-1024x683.jpg",
         "date": "11/02/2026",
         "description": "Londres (Inglaterra)– Depois de perder para o Canadá na primeira fase qualificatória da Copa Davis, o Brasil conhecerá seu próximo adversário na competição nesta quinta-feira, às 7h (horário de Brasília), quando será realizado o sorteio dos confrontos dos Grupos Mundiais I e II."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/halep-agradece-a-chance-de-ver-a-realizacao-de-um-torneio-por-outro-angulo.html",
-        "title": "Halep agradece a chance de ver a realização de um torneio por outro ângulo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/simona-halep_clujnapoca.jpg",
-        "date": "10/02/2026",
-        "description": "Cluj-Napoca (Romênia) –A ex-número 1 do mundo Simona Halep teve uma semana cheia de compromissos durante a realização do WTA 250 de Cluj-Napoca, na qualidade de nova embaixadora do torneio, participando de encontros com jogadoras, sessões com os pegadores de bola e voluntários, sessão de autógrafos, além de fazer a entrega do troféu à campeã, a romena Sorana Cirstea."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/juvenis-brasileiros-estreiam-com-tres-vitorias-no-j300-de-lima.html",
-        "title": "Juvenis brasileiros estreiam com três vitórias no J300 de Lima",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/07/felipe_mamede_braganca_2023.jpg",
-        "date": "10/02/2026",
-        "description": "Lima (Peru) –Três juvenis brasileiros estrearam com vitória no ITF J300 de Lima, em quadras de saibro: Felipe Mamede, Henrique Queiroz e Lucas Moscatto seguem na disputa do torneio na capital peruana."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/berrettini-estreia-bem-em-buenos-aires-e-vence-a-primeira-no-ano.html",
-        "title": "Berrettini estreia bem em Buenos Aires e vence a primeira no ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/berrettini_bsas_fore-1024x697.jpg",
-        "date": "10/02/2026",
-        "description": "Buenos Aires (Argentina) –Em seu primeiro jogo na temporada, Matteo Berrettini estreou com vitória no ATP 250 de Buenos Aires. O italiano superou nesta terça-feira o experiente argentino Federico Coria, de 33 anos e 322º do ranking, ao marcar um duplo 7/5 em 2h14 de partida."
     }
 ]
