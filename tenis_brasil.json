@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/todas-as-chaves-2026.html",
+        "title": "Todas as chaves",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/todas-as-chaves.png",
+        "date": "15/02/2026",
+        "description": "ATP500 do Rio de Janeiro –SimplesDuplasQuali500 de Doha –SimplesDuplasQuali250 de Delray Beach –SimplesDuplasQuali500 de Roterdã –SimplesDuplasQuali500 de Dallas –SimplesDuplasQuali250 de Buenos Aires –SimplesDuplasQuali250 de Montpellier –SImplesDuplasQualiAustralian Open –SimplesDuplasQuali250 de Adelaide –SimplesDuplasQuali250 de Auckland –SimplesDuplasQualiUnited Cup –Jogos e classificação250 de Brisbane –SimplesDuplasQuali250 de Hong Kong –SimplesDuplasQuali"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-15-02-html.html",
         "title": "O dia dos brasileiros: veja os resultados deste domingo",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/marcondes-desliza-rio-open-2026-1024x683.jpg",
@@ -12,6 +19,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/blog_monteiro_rio.jpg",
         "date": "15/02/2026",
         "description": "Depois de um início de temporada cheio de tropeços, dúvidas e muitos resultados negativos, o tênis profissional brasileiro parece viver uma repentina e muito bem-vinda fase de notícias animadoras."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/em-final-emocionante-shelton-chega-ao-4o-titulo-veja-como-foi.html",
+        "title": "Em final emocionante, Shelton chega ao 4º título, Veja como foi.",
+        "image": null,
+        "date": "15/02/2026",
+        "description": ""
     },
     {
         "url": "https://tenisbrasil.uol.com.br/fonseca-estreia-contra-monteiro-e-joga-duplas-na-segunda-feira.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/chico_rioopen26.jpg",
         "date": "15/02/2026",
         "description": "Num cenário que só poderia mesmo ser proporcionado pela Cidade Maravilhosa, aos pés do Cristo Redentor, o Rio Open ostenta, com categoria, o título de mais importante torneio da América do Sul. Mas a cada ano que passa fica mais claro a necessidade de buscar novos horizontes. Melhorar o seu line up, de quem já teve Rafael Nadal e Carlos Alcaraz, entre outros, é uma necessidade inerente. Para isso, infelizmente, precisaria trocar o piso de saibro para o cimento. Buenos Aires não concorda com essa mudança, mas a competição argentina tem vida própria, enquanto a brasileira sonha com patamares mais altos de até, quem sabe,  chegar a um 1000, numa doce lembrança do que foi os Jogos Olímpicos, no esplêndido complexo da barra e que merece ser recuperado."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/confira-as-emocoes-da-recheada-rodada-de-domingo-em-dubai.html",
-        "title": "Confira as emoções da recheada rodada de domingo em Dubai",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/08/Melhores-lances-WTA-1024x576.jpg",
-        "date": "15/02/2026",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/luz-e-matos-triunfam-em-buenos-aires-e-faturam-segundo-atp-juntos.html",
-        "title": "Luz e Matos triunfam em Buenos Aires e faturam segundo ATP juntos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/luz-matos-trofeu-buenos-aires-1024x725.jpeg",
-        "date": "15/02/2026",
-        "description": "Buenos Aires (Argentina)– A parceria brasileira de Orlando Luz e Rafael Matos conquistou neste domingo o título de duplas do ATP 250 de Buenos Aires. Enfrentando os tenistas da casa Andrea Collarini e Nicolas Kicker, os gaúchos superaram a pressão das arquibancadas e triunfaram com o placar de 7/5 e 6/3, em 1h32 de partida."
     }
 ]
