@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-feira-18-02.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta-feira",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/zanellato_itajai26_slice.jpg",
+        "date": "18/02/2026",
+        "description": "ATP 500 do Rio de Janeiro (RJ) – Saibro – US$ 2.469.450Duplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/indaiatuba-recebe-2a-etapa-do-circuito-beach-tennis-com-atletas-do-top-20.html",
+        "title": "Indaiatuba recebe 2ª etapa do Circuito Beach Tennis com atletas do top 20",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/lorena_melo.jpg",
+        "date": "18/02/2026",
+        "description": "Indaiatuba (SP) –Com mais de 700 jogadores, começará nesta sexta-feira, dia 20, a segunda etapa do Circuito Beach Tennis, que está em sua sétima temporada e recebeu mais de 11 mil atletas em 2025. As disputas ocorrerão na Arena Deco Beach, em Indaiatuba (SP), no Profissional e no Amador."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/gabriela-ce-estreia-bem-na-franca-carolina-bohrer-avanca-nos-eua.html",
+        "title": "Gabriela Cé estreia bem na França, Carolina Bohrer avança nos EUA",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/gabrielace_tucuman_back-1024x810.jpg",
+        "date": "18/02/2026",
+        "description": "Macon (França) –As brasileiras tiveram rumos opostos na rodada desta quarta-feira no ITF W50 de Macon, em quadras duras e cobertas na França. A gaúcha Gabriela Cé é a oitava favorita e estreou com vitória, enquanto a paulista Ana Candiotto foi eliminada por uma das principais favoritas."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/bruno-fernandez-sera-o-unico-brasileiro-nas-oitavas-na-argentina.html",
         "title": "Bruno Fernandez será o único brasileiro nas oitavas na Argentina",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/bruno_fernandez_slice.jpg",
@@ -12,13 +33,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/Nadal_bolinha-de-golfe.png",
         "date": "18/02/2026",
         "description": "Manacor (Espanha) –Desde que se aposentou do tênis em novembro de 2024, Rafael Nadal tem dedicado ainda mais tempo ao golfe a ponto de o espanhol brincar dizendo que isso tem causado problemas com a esposa Maria Franscisca Perello, revelou o jornal britânico Express."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-feira-18-02.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta-feira",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/zanellato_itajai26_slice.jpg",
-        "date": "18/02/2026",
-        "description": "ATP 500 do Rio de Janeiro (RJ) – Saibro – US$ 2.469.450Duplas – Quartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/reyes-e-mais-dois-sul-americanos-sao-autorizados-a-voltar-apos-contaminacao.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/fonseca-rio-treina-2026-e1771108151436-1024x683.jpg",
         "date": "18/02/2026",
         "description": "Phoenix (EUA)– O carioca João Fonseca está disposto a voltar ao nível challenger para assegurar ritmo sobre a quadra sintética norte-americana. Após o Rio Open, ele terá um período de treinamento e readaptação ao piso duro antes de entrar no Masters 1000 de Indian Wells, que começa dia 4 de março."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rybakina-tem-mal-estar-e-desiste-no-terceiro-set-em-dubai.html",
-        "title": "Rybakina tem mal-estar e desiste no terceiro set em Dubai",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/HBcJE9lbsAAg96_.jpg",
-        "date": "18/02/2026",
-        "description": "* atualizado às 11h20 com vitória de Svitolina"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/badosa-responde-a-ataques-virtuais-apos-desistencia-de-dubai.html",
-        "title": "Badosa responde a ataques virtuais após desistência de Dubai",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/badosa_dubai_fore-1024x576.jpg",
-        "date": "18/02/2026",
-        "description": "Dubai (Emirados Árabes) –Paula Badosa, ex-número 2 do mundo, leva uma carreira marcada por diversas lesões. A mais recente aconteceu nesta terça-feira, em um confronto contra Elina Svitolina, no WTA 1000 de Dubai. A espanhola vinha com uma vantagem de 4/1, mas perdeu cinco games consecutivos antes de pedir atendimento médico e ter que abandonar a partida por conta de problemas na perna."
     }
 ]
