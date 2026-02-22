@@ -1,10 +1,31 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/tabilo-acelera-e-coloca-o-chile-de-volta-na-final-do-rio-open.html",
-        "title": "Tabilo acelera e coloca o Chile de volta na final do Rio Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/tabilo-rio-2026-1-1024x683.jpg",
+        "url": "https://tenisbrasil.uol.com.br/pedretti-conclui-boa-semana-com-o-vice-no-saibro-da-florida.html",
+        "title": "Pedretti conclui boa semana com o vice no saibro da Flórida",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/pedretti.jpg",
         "date": "22/02/2026",
-        "description": "Rio de Janeiro (RJ)– O primeiro finalista do Rio Open acabou saindo da semifinal que começou por último. Depois de um atraso por chuva no sábado, o chileno Alejandro Tabilo aproveitou o calor do domingo para passar sem grandes sustos pelo peruano Ignacio Buse, gastando 1h12 para marcar duplo 6/3."
+        "description": "Palm Coast (EUA)– A paulista Thaísa Pedretti conclui sua boa semana sobre o saibro do W15 de Palm Coast com o vice-campeonato de simples. Na decisão deste domingo, não encontrou o melhor ritmo e acabou superada pela britânica Sofia Johnson, que saiu do qualificatório e se tornou a grande surpresa do torneio, com parciais de 6/4 e 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/etcheverry-busca-virada-e-se-torna-o-5o-argentino-finalista-no-rio.html",
+        "title": "Etcheverry busca virada e se torna o 5º argentino finalista no Rio",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/etcheverry-rio-nochao-2026-1024x683.jpg",
+        "date": "22/02/2026",
+        "description": "Rio de Janeiro (RJ)– Único cabeça de chave nas semifinais, o argentino Tomas Etcheverry teve uma longa jornada para chegar na final do Rio Open. O oitavo favorito superou uma pausa e depois adiamento por chuva, no sábado, e depois uma paralisação por causa do calor extremo, no domingo, para bater o tcheco Vit Kopriva de virada."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/marcondes-daniel-e-sakamoto-jogam-novo-challenger-argentino.html",
+        "title": "Marcondes, Daniel e Sakamoto jogam novo challenger argentino",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sakamoto_lajeado.jpg",
+        "date": "22/02/2026",
+        "description": "* atualizado às 15h22 com resultados do quali"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/boisson-segue-sem-competir-e-agora-desiste-de-indian-wells.html",
+        "title": "Boisson segue sem competir e agora desiste de Indian Wells",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/boisson_hamburgo_vibra-1024x640.jpg",
+        "date": "22/02/2026",
+        "description": "Indian Wells (EUA)– Semifinalista de Roland Garros no ano passado, a francesa Lois Boisson continua com problemas na atual temporada. Sem competir desde setembro de 2025, ela adiou mais um pouco seu retorno ao circuito desistindo da disputa do WTA 1000 de Indian Wells."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-22-02.html",
@@ -12,6 +33,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/melo-fonseca-rio-2026-1024x683.jpg",
         "date": "22/02/2026",
         "description": "ATP 500 do Rio de Janeiro (RJ) – Saibro – US$ 2.469.450Duplas – Final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/tabilo-acelera-e-coloca-o-chile-de-volta-na-final-do-rio-open.html",
+        "title": "Tabilo acelera e coloca o Chile de volta na final do Rio Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/tabilo-rio-2026-1-1024x683.jpg",
+        "date": "22/02/2026",
+        "description": "Rio de Janeiro (RJ)– O primeiro finalista do Rio Open acabou saindo da semifinal que começou por último. Depois de um atraso por chuva no sábado, o chileno Alejandro Tabilo aproveitou o calor do domingo para passar sem grandes sustos pelo peruano Ignacio Buse, gastando 1h12 para marcar duplo 6/3."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/aliassime-e-o-cabeca-1-e-sera-desafiado-por-5-campeoes-em-dubai.html",
@@ -35,38 +63,10 @@
         "description": "Rio de Janeiro (RJ) –O espanhol Martin de la Puente foi premiado neste sábado após a conquista do bicampeonato do Wheelchair Tennis Elite, na terceira edição do torneio realizado no Rio Open, e ressaltou a importância do evento para o tênis em cadeira de rodas."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/marcondes-daniel-e-sakamoto-jogam-novo-challenger-argentino.html",
-        "title": "Marcondes, Daniel e Sakamoto jogam novo challenger argentino",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/sakamoto_lajeado.jpg",
-        "date": "22/02/2026",
-        "description": "* atualizado às 15h22 com resultados do quali"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/pigossi-disputa-wta-125-no-saibro-turco-carol-perde-no-quali.html",
         "title": "Pigossi disputa WTA 125 no saibro turco, Carol perde no quali",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/pigossi_bsas_back-1024x683.jpg",
         "date": "22/02/2026",
         "description": "Antália (Turquia)– Em busca de seu primeiro bom resultado da temporada, a paulista Laura Pigossi disputa na próxima semana o WTA 125 realizado sobre o saibro turco e com premiação de US$ 110 mil."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bia-reencontra-boulter-na-estreia-do-wta-500-de-merida.html",
-        "title": "Bia reencontra Boulter na estreia do WTA 500 de Mérida",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/bia_doha_preparasaque.jpg",
-        "date": "22/02/2026",
-        "description": "Mérida (México)– Em busca de sua primeira vitória em chaves principais da temporada, Beatriz Haddad Maia terá um encontro com velha conhecida na estreia do WTA 500 de Mérida, que larga nesta segunda-feira com a premiação de US$ 1,2 milhão."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/agassi-bate-bola-com-jovens-da-escolinha-fabiano-de-paula-na-rocinha.html",
-        "title": "Agassi bate bola com jovens da Escolinha Fabiano de Paula na Rocinha",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/agassi_rocinha.jpg",
-        "date": "22/02/2026",
-        "description": "Rio de Janeiro (RJ)  –O ex-número 1 do mundo Andre Agassi, que está no Brasil para a entrega do troféu desenvolvido por Antônio Bernardo ao campeão do Rio Open, conheceu neste sábado a Rocinha em ação com os projetos sociais apoiados pelo maior torneio de tênis da América do Sul."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/korda-surpreende-cobolli-e-faz-final-norte-americana-com-paul.html",
-        "title": "Korda surpreende Cobolli e faz final norte-americana com Paul",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/2026_sebastian-korda-1024x683.jpg",
-        "date": "22/02/2026",
-        "description": "Delray Beach (EUA)– Único semifinalista que não era cabeça de chave, o norte-americano Sebastian Korda surpreendeu o italiano Flavio Cobolli, terceiro favorito, e se garantiu na final do ATP 250 de Delray Beach. Neste sábado, ele precisou de apenas 1h16 para triunfar na primeira semi do dia, com parciais de 7/6 (7-1) e 6/1."
     }
 ]
