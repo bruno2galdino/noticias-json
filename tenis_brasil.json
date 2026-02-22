@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/pegula-e-a-principal-estreia-no-wta-250-de-austin.html",
+        "title": "Pegula é a principal estreia no WTA 250 de Austin",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/pegula-austin-fore-2025-1024x683.jpg",
+        "date": "22/02/2026",
+        "description": "Austin (EUA)– A chave principal do WTA 250 de Austin conta com um nome de peso encabeçando a disputa. A tenista da casa Jessica Pegula, atual número 5 do mundo ecampeã em Dubai neste sábado, será a maior favorita na competição."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bicampeao-de-minaur-e-monfils-jogam-minitenis-em-acapulco.html",
+        "title": "Bicampeão De Minaur e Monfils jogam minitênis em Acapulco",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Monfils_De-Minaur_Acapulco-2.jpg",
+        "date": "21/02/2026",
+        "description": "Acapulco (México) –Com uma programação repleta de atividades que fazem do Aberto Mexicano a principal atração de uma semana vibrante em Acapulco, uma amostra dos astros que estarão em ação foi oferecida na sexta-feira à beira-mar."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/forte-chuva-adia-semifinais-e-forca-rodada-dupla-no-domingo.html",
+        "title": "Forte chuva adia semifinais e força rodada dupla no domingo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/semifinal_duplas_041-1024x682.jpg",
+        "date": "21/02/2026",
+        "description": "* Atualizado às 22h33 com adiamento das partidas"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/gustavo-almeida-conquista-segundo-titulo-de-duplas-loureiro-e-vice.html",
         "title": "Gustavo Almeida conquista segundo título de duplas, Loureiro é vice",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/gustavo-almeida-sao-paulo-pinheiros-2025-1024x683.jpg",
@@ -28,13 +49,6 @@
         "description": "ATP500 de Acapulco –SimplesDuplasQuali500 de Dubai –SimplesDuplasQuali250 de Santiago –SimplesDuplasQuali500 do Rio de Janeiro –SimplesDuplasQuali500 de Doha –SimplesDuplasQuali250 de Delray Beach –SimplesDuplasQuali500 de Roterdã –SimplesDuplasQuali500 de Dallas –SimplesDuplasQuali250 de Buenos Aires –SimplesDuplasQuali250 de Montpellier –SImplesDuplasQualiAustralian Open –SimplesDuplasQuali250 de Adelaide –SimplesDuplasQuali250 de Auckland –SimplesDuplasQualiUnited Cup –Jogos e classificação250 de Brisbane –SimplesDuplasQuali250 de Hong Kong –SimplesDuplasQuali"
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/forte-chuva-novamente-atrasa-rodada-e-muda-programacao-no-rio.html",
-        "title": "Forte chuva adia semifinais e força rodada dupla no domingo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/semifinal_duplas_041-1024x682.jpg",
-        "date": "21/02/2026",
-        "description": "* Atualizado às 22h33 com adiamento das partidas"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/entre-as-10-melhores-partidas-que-ja-joguei-afirma-alcaraz.html",
         "title": "“Entre as 10 melhores partidas que já joguei”, afirma Alcaraz",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/alcaraz-doha-trofeu-2026-1024x683.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/semifinal_duplas_019-1024x682.jpg",
         "date": "21/02/2026",
         "description": "Felipe PrianteEspecial para TenisBrasil"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/e-um-otimo-presente-de-aniversario-comemora-pegula.html",
-        "title": "“É um ótimo presente de aniversário”, comemora Pegula",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Jessica_Pegula_-_Dubai_Duty_Free_Tennis_Championships_2026_-_Day_7-DSC_1334A_xgaplus.jpg",
-        "date": "21/02/2026",
-        "description": "Dubai (Emirados Árabes)– A conquista deste sábado no WTA 1000 de Dubai teve uma comemoração dobrada para a norte-americana Jessica Pegula, que acabou se dando um presente de aniversário antecipado. A campeã do torneio árabe vai completar 32 anos na próxima terça-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/com-quatro-derrotas-no-quali-brasil-fica-fora-das-simples-de-santiago.html",
-        "title": "Com quatro derrotas no quali, Brasil fica fora das simples de Santiago",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/monteiro_itajai_toss_noite-1024x659.jpg",
-        "date": "21/02/2026",
-        "description": "Santiago (Chile)– Os quatro brasileiros que buscavam vaga na chave principal de simples do ATP 250 de Santiago foram eliminados neste sábado ainda na primeira rodada e assim o tradicional torneio, que já teve Thiago Wild como campeão, ficará sem representantes nacionais."
     }
 ]
