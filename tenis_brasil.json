@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/apos-bicampeonato-melo-e-o-unico-a-nao-cair-nas-duplas.html",
+        "title": "Após bicampeonato, Melo é o único a não cair nas duplas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/melo-rio-vibra-2026-1024x683.jpg",
+        "date": "23/02/2026",
+        "description": "Londres (Inglaterra)– Assim como aconteceu no ranking de simples, que não foi dos melhores para os brasileiros após o Rio Open, nas duplas algo similar aconteceu. Dos top 10 do país, apenas o mineiro Marcelo Melo não amargou queda na lista divulgada pela ATP nesta segunda-feira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-mantem-ranking-e-marcondes-dispara-apos-o-rio.html",
+        "title": "Fonseca mantém ranking e Marcondes dispara após o Rio",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/fonseca-rio-saca-2026-1024x683.jpg",
+        "date": "23/02/2026",
+        "description": "Londres (Inglaterra)– Apesar do recorde de brasileiros na chave principal do Rio Open, a segunda-feira seguinte ao torneio não foi das melhores para os tenistas nacionais no ranking da ATP. Somente três dos 10 melhores do país não amargaram quedas, entre eles o carioca João Fonseca, que não passou da segunda rodada e se manteve na 38ª colocação."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/bia-estreia-na-noite-de-segunda-feira-no-wta-500-de-merida.html",
         "title": "Bia estreia na noite de segunda-feira no WTA 500 de Mérida",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/bia_doha_rebate_26.jpg",
         "date": "22/02/2026",
-        "description": "Mérida (México)– A paulista Beatriz Haddad Maia já tem data e horário para fazer sua estreia no WTA 500 de Mérida, disputado em quadras duras no México. Ainda busca de sua primeira vitória na temporada, a principal tenista do Brasil enfrenta não antes das 21h (no horário de Brasília) a convidada britânica Katie Boulter, ex-número 23 do mundo e atual 75ª colocada no ranking, no terceiro jogo da Quadra Central."
+        "description": "Mérida (México)– A paulista Beatriz Haddad Maia já tem data e horário para fazer sua estreia no WTA 500 de Mérida, disputado em quadras duras no México. Ainda na busca de sua primeira vitória na temporada, a principal tenista do Brasil enfrenta não antes das 21h (no horário de Brasília) a convidada britânica Katie Boulter, ex-número 23 do mundo e atual 75ª colocada no ranking, no terceiro jogo da Quadra Central."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-22-02.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/nadal_esqui.jpg",
         "date": "22/02/2026",
         "description": "Baqueira (Espanha) –Aposentado desde o fim de 2024, com 22 títulos de Grand Slam conquistados na ilustre carreira, Rafael Nadal agora pode desfrutar de uma viagem para esquiar depois de anos evitando se aventurar na neve para evitar acidentes e lesões."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ex-profissional-henrique-mello-retorna-as-competicoes-no-circuito-masters.html",
-        "title": "Ex-profissional Henrique Mello retorna às competições no circuito Masters",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/henrique-mello_mindu_masters.jpg",
-        "date": "22/02/2026",
-        "description": "Campinas (SP) –O ex-tenista profissional Henrique Mello, conhecido no meio do tênis como Mindu, está de volta às quadras competitivas. O atleta campineiro, de 43 anos, retoma a carreira em 2026 no circuito internacional Masters, na categoria 40+, no ITF MT700 de Montevidéu, no Uruguai, que tem início nesta segunda-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-iguala-marca-de-federer-e-melo-fatura-o-bi-no-rio-open.html",
-        "title": "Fonseca iguala marca de Federer e Melo fatura o bi no Rio Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/melo_agassi_fonseca_rio_trofeus.jpg-1024x683.jpg",
-        "date": "22/02/2026",
-        "description": "Rio de Janeiro (RJ)– Pelo segundo ano seguido uma dupla 100% brasileira conquista o título do Rio Open. A experiência do mineiro Marcelo Melo aliada à juventude do carioca João Fonseca terminou em taça. Neste domingo, eles venceram de virada o holandês Robin Haase e o alemão Constantin Frantzen por 4/6, 6/3 e 10-8."
     }
 ]
