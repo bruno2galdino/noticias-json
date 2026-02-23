@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-feira-21-02.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda-feira",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/eduardo_ribeiro_itajai.jpg",
+        "date": "23/02/2026",
+        "description": "WTA500 do Mérida (México) – Sintético – US$ 1.200.000Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/uma-semana-muito-dificil-fisicamente-festeja-etcheverry-apos-acabar-jejum.html",
+        "title": "“Uma semana muito difícil fisicamente”, festeja Etcheverry após acabar jejum",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/55111010011_2ac609189e_c.jpg",
+        "date": "23/02/2026",
+        "description": "Rio de Janeiro (RJ) –Apesar do cansaço gerado pelas duas rodadas finais, em que enfrentou chuva, calor e partidas longas, o argentino Tomás Etcheverry conquistou neste domingo o tão aguardado primeiro título de nível ATP da carreira. O jogador de 26 anos destacou também a pressão de correr atrás de um objetivo pessoal, depois de amargar três vice-campeonatos."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/nada-dura-para-sempre-nem-mesmo-o-tenis-diz-zverev.html",
         "title": "“Nada dura para sempre, nem mesmo o tênis”, diz Zverev",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/zverev-ausopen-close-2026-1024x683.jpg",
@@ -14,18 +28,11 @@
         "description": "Monte Carlo (Mônaco) –Em entrevista ao jornalL’Equipe, o diretor do Masters 1000 de Monte Carlo, David Massey, destacou alguns detalhes sobre a edição deste ano, que ocorrerá entre 4 a 12 de abril, além de voltar a comentar sobre a vontade de criar uma disputa feminina para o torneio."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-feira-21-02.html",
-        "title": "O dia dos brasileiros: veja os resultados desta segunda-feira",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/eduardo_ribeiro_itajai.jpg",
-        "date": "23/02/2026",
-        "description": "WTA500 do Mérida (México) – Sintético – US$ 1.200.000Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/luisa-volta-ao-top-10-sobe-para-2o-na-corrida-com-dabrowski.html",
-        "title": "Luisa volta ao top 10 e sobe para 2º na corrida com Dabrowski",
+        "title": "Luísa volta ao top 10 e sobe para 2º na corrida com Dabrowski",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/luisa_premiacao1_jimmy-1024x576.jpeg",
         "date": "23/02/2026",
-        "description": "São Petersburgo (EUA)– A conquista da paulista Luisa Stefani com a canadense Gabriela Dabrowskinas duplas do WTA 1000 Dubai, a 14ª da carreira da brasileira, deu um bom impulso em seu ranking, voltando ao top 10 nesta segunda-feira."
+        "description": "São Petersburgo (EUA)– A conquista da paulista Luísa Stefani com a canadense Gabriela Dabrowskinas duplas do WTA 1000 Dubai, a 14ª da carreira da brasileira, deu um bom impulso em seu ranking, voltando ao top 10 nesta segunda-feira."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/rio-open-impulsiona-etcheverry-e-cinco-atingem-melhor-marca.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/fonseca-rio-saca-2026-1024x683.jpg",
         "date": "23/02/2026",
         "description": "Londres (Inglaterra)– Apesar do recorde de brasileiros na chave principal do Rio Open, a segunda-feira seguinte ao torneio não foi das melhores para os tenistas nacionais no ranking da ATP. Somente três dos 10 melhores do país não amargaram quedas, entre eles o carioca João Fonseca, que não passou da segunda rodada e se manteve na 38ª colocação."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bia-estreia-na-noite-de-segunda-feira-no-wta-500-de-merida.html",
-        "title": "Bia estreia na noite de segunda-feira no WTA 500 de Mérida",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/bia_doha_rebate_26.jpg",
-        "date": "22/02/2026",
-        "description": "Mérida (México)– A paulista Beatriz Haddad Maia já tem data e horário para fazer sua estreia no WTA 500 de Mérida, disputado em quadras duras no México. Ainda na busca de sua primeira vitória na temporada, a principal tenista do Brasil enfrenta não antes das 21h (no horário de Brasília) a convidada britânica Katie Boulter, ex-número 23 do mundo e atual 75ª colocada no ranking, no terceiro jogo da Quadra Central."
     }
 ]
