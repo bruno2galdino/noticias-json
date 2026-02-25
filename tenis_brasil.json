@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-25-02.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/demoliner_oeiras_saibro-1024x582.jpg",
-        "date": "25/02/2026",
-        "description": "ATP 500 de Acapulco (México) – Sintético – US$ 2.469.450Duplas – Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/estou-muito-orgulhoso-da-minha-atuacao-diz-draper-apos-vitoria.html",
         "title": "“Estou muito orgulhoso da minha atuação”, diz Draper após vitória",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Dubai-Tennis-2026-Post-Match-Interview-Jack-Draper-after-R1.jpg",
@@ -36,7 +29,7 @@
     },
     {
         "url": "https://tenisbrasil.uol.com.br/zverev-cobolli-avancam-em-acapulco-dimitrov-ruud-eliminados-veja.html",
-        "title": "Zverev, Cobolli avançam em Acapulco. Dimitrov, Ruud, eliminados. Veja.",
+        "title": "Zverev, Cobolli, Monfils avançam em Acapulco. Dimitrov, Ruud caem. Veja.",
         "image": null,
         "date": "25/02/2026",
         "description": ""
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/zverev-acapulco-back-2026.jpg",
         "date": "25/02/2026",
         "description": "Acapulco (México)– Em sua estreia no ATP 500 de Acapulco, o alemão Alexander Zverev dominou a partida e venceu o francês Corentin Moutet por 6/2 e 6/4. Cabeça de chave número 1, ele não foi quebrado uma vez sequer na partida e anotou sua 15ª vitória no torneio, igualando Rafael Nadal como o maior vencedor na competição."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-25-02.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/demoliner_oeiras_saibro-1024x582.jpg",
+        "date": "25/02/2026",
+        "description": "ATP 500 de Acapulco (México) – Sintético – US$ 2.469.450Duplas – Primeira rodada –Veja a chave"
     }
 ]
