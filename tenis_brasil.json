@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-26-02.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/candiotto_porto_espera-1024x683.jpg",
+        "date": "26/02/2026",
+        "description": "ATP 500 de Acapulco (México) – Sintético – US$ 2.469.450Duplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-25-02.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/demoliner_oeiras_saibro-1024x582.jpg",
+        "date": "26/02/2026",
+        "description": "ATP 500 de Acapulco (México) – Sintético – US$ 2.469.450Duplas – Primeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/kecmanovic-derruba-zverev-no-tiebreak-do-3o-set-e-faz-quartas-no-mexico.html",
         "title": "Kecmanovic derruba Zverev no tiebreak do 3º set e faz quartas no México",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/kecmanovic_acapulco_slice-1024x683.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/monfils_acapulco_vibracao.webp",
         "date": "25/02/2026",
         "description": "Acapulco (México) –O veterano francês Gael Monfils, de volta a Acapulco pela primeira vez em 17 anos, também avançou na noite desta terça-feira com vitória por 6/4 e 7/6 (7/5) contra o bósnio Damir Dzumhur. O resultado torna o convidado o segundo vencedor mais velho da história do torneio, depois de Feliciano López (41 anos em 2023). Aos 39 anos e cinco meses, Monfils também é o francês mais velho a vencer uma partida da ATP na Era Aberta."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-25-02.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/demoliner_oeiras_saibro-1024x582.jpg",
-        "date": "25/02/2026",
-        "description": "ATP 500 de Acapulco (México) – Sintético – US$ 2.469.450Duplas – Primeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rublev-vence-duelo-de-campeoes-em-dubai-draper-cai-nas-oitavas.html",
-        "title": "Rublev vence duelo de campeões em Dubai, Draper cai nas oitavas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/rublev_dubai_vibra.jpg",
-        "date": "25/02/2026",
-        "description": "Dubai (Emirados Árabes) –No encontro entre dois tenistas que já foram campeões do ATP 500 de Dubai, Andrey Rublev levou a melhor diante de Ugo Humbert. O russo precisou de três sets e 2h23 para marcar as parciais de 6/4, 6/7 (5-7) e 6/3."
     }
 ]
