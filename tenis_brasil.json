@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/nana-tourinho-chabalgoity-e-damazio-vao-as-quartas-em-santa-cruz.html",
-        "title": "Naná, Tourinho, Chabalgoity e Damazio vão às quartas em Santa Cruz",
+        "url": "https://tenisbrasil.uol.com.br/sonmez-repete-a-final-de-2024-e-volta-a-superar-li-em-merida.html",
+        "title": "Sonmez repete a final de 2024 e volta a superar Li em Mérida",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/sonmez_merida_back-1024x682.jpg",
+        "date": "26/02/2026",
+        "description": "Mérida (México) –Em jogo quereeditou a final de 2024, a turca Zeynep Sonmez voltou a superar a norte-americana Ann Li para chegar às quartas de final do WTA 500 de Mérida, no México. A jovem de 23 anos e 81ª do ranking eliminou a cabeça 3 do torneio e 39ª colocada com parciais de 3/6, 7/6 (9-7) e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/nana-livas-e-chabalgoity-superam-rodadas-duplas-e-fazem-semis.html",
+        "title": "Naná, Livas e Chabalgoity superam rodadas duplas e fazem semis",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/Nauhany_Silva-1024x683.jpg",
         "date": "26/02/2026",
-        "description": "Santa Cruz (Bolívia) –Quatro juvenis brasileiros estão nas quartas de final do ITF J300 de Santa Cruz, em quadras de saibro na Bolívia. O início da rodada desta quinta-feira foi de vitórias para as paulistas Nauhany Silva e Nathalia Tourinho, além do brasiliense Pedro Chabalgoity e o mato-grossense Livas Damazio. O dia ainda terá os jogos das quartas e definição dos semifinalistas."
+        "description": "* Atualizado ao fim da rodada dupla"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/cerundolo-estreia-bem-em-santiago-e-ja-garante-vaga-nas-quartas.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/guto-rio-2026-1024x683.jpg",
         "date": "26/02/2026",
         "description": "São Paulo (SP)– A primeira edição do LA Open, challenger que acontecerá entre os dias 21 a 29 de março no Jockey Club de São Paulo, teve anunciado seu primeiro convidado. O juvenil goiano Guto Miguel será uma das atrações na competição."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/apos-eliminar-monfils-vacherot-destaca-esforco-do-frances.html",
-        "title": "Após eliminar Monfils, Vacherot destaca esforço do francês",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/V.-Vacherot-vs-G.-Monfils-09.jpg",
-        "date": "26/02/2026",
-        "description": "Acapulco (México)– Responsável pelaeliminação do francês Gael Monfilsna segunda rodada do ATP 500 de Acapulco, o monegasco Valentin Vacherot não poupou elogios ao veterano rival, que irá se aposentar do circuito no fim da temporada. Em entrevista na quadra para aTennisTV, ele destacou a luta do parisiense."
     }
 ]
