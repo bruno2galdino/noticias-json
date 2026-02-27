@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/bia-o-adeus-necessario.html",
+        "title": "Bia: o adeus necessário",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/pat_bia_adeus.jpg",
+        "date": "27/02/2026",
+        "description": "Há poucas semanas, o mundo do tênis foi surpreendido pela notícia da separação da parceria entre Beatriz Haddad Maia e Rafael Paciaroni após seis anos de sucesso incontestável."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/brasileiros-caem-em-semifinais-de-duplas-em-torneios-da-itf.html",
+        "title": "Brasileiros caem em semifinais de duplas em torneios da ITF",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/fullana_rcl_fore25.jpg",
+        "date": "27/02/2026",
+        "description": "Leimen (Alemanha) –A brasiliense Luiza Fullana caiu na semifinal de duplas do ITF W15 de Leimen, em quadras duras e cobertas na Alemanha. Fullana e a croata Iva Primorac Pavicic foram superadas pelas tchecas Sarah Fajmonova e Karolina Vickova por 6/3, 4/6 e 10-8."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/venus-andreescu-e-monfils-lideram-convites-para-indian-wells.html",
+        "title": "Venus, Andreescu e Monfils lideram convites para Indian Wells",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/andreescu_trofeu_iw_2019-1024x640.jpg",
+        "date": "27/02/2026",
+        "description": "Indian Wells (EUA) –A organização do Masters 1000 e WTA 1000 de Indian Wells anunciou nesta sexta-feira a lista completa de tenistas convidados para as chaves principais do torneio, que acontece entre os dias 4 e 15 de março. Após o anúncio de umavaga para Venus Williams na última semana, o evento também confirmou as presenças de nomes como Gael Monfils e da campeã de 2019 Bianca Andreescu."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/problema-de-visto-tira-tomic-do-challenger-de-brasilia.html",
         "title": "Problema de visto tira Tomic do challenger de Brasília",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/11/53351749659_2fd8a3bae7_c.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/sinner_ausopen_back_term_fft-1024x637.jpg",
         "date": "27/02/2026",
         "description": "Londres (Inglaterra)– Enquanto algunscomeçam a questionar a fase de Jannik Sinner, que perdeu para o sérvio Novak Djokovic no Australian Open e depois para o tcheco Jakub Mensik no ATP 500 de Doha, para o britânico Greg Rusedski, ex-número 4 e finalista do US Open, o italiano passa apenas por um problema temporário."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/griekspoor-supera-lesao-vence-rublev-e-avanca-para-a-final-em-dubai.html",
-        "title": "Griekspoor supera lesão, vence Rublev e avança para a final em Dubai",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Dubai-Tennis-2026-ATP-QF-Mensik-v-Griekspoor20-1024x683-1.jpg",
-        "date": "27/02/2026",
-        "description": "Dubai (Emirados Árabes)– Na segunda semifinal desta sexta-feira no ATP 500 de Dubai, o holandês Tallon Griekspoor surpreendeu o russo Andrey Rublev e se garantiu na decisão. Ele mostrou resiliência e força para superar uma lesão no fim do primeiro set e bateu o cabeça de chave número 5 com parciais de 7/5 e 7/6 (8-6)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/presidente-servio-reforca-conviccoes-e-diz-que-nao-se-dobra-a-djokovic.html",
-        "title": "Presidente sérvio reforça convicções e diz que não se dobra a Djokovic",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/20251017_121111-e1760714088747-1024x682.jpg",
-        "date": "27/02/2026",
-        "description": "Belgrado (Sérvia)– As divergências políticas com Aleksandar Vucic, o presidente da Sérvia, fizeram Novak Djokovic se afastar de sua nação ese mudar para a Grécia no ano passado. Apesar disso, o mandatário sérvio elogiou o ex-número 1 do mundo durante o Australian Open."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/medvedev-vence-aliassime-disputa-sua-42a-final-e-busca-bi-inedito.html",
-        "title": "Medvedev vence Aliassime, disputa sua 42ª final e busca bi inédito",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Dubai-Tennis-2026-ATP-QF-Daniil-Medvedev_004.jpg",
-        "date": "27/02/2026",
-        "description": "Dubai (Emirados Árabes)– Conhecido por nunca conquistar um mesmo título duas vezes, o russo Daniil Medvedev está a uma vitória de quebrar essa escrita. Ele terá nova chance no ATP 500 de Dubai, onde derrotou o canadense Félix Auger-Aliassime na primeira semifinal desta sexta-feira com o placar final de 6/4 e 6/2."
     }
 ]
