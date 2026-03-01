@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/cobolli-conquista-o-atp-de-acapulco-e-entrara-no-top-15-do-ranking.html",
+        "title": "Cobolli conquista o ATP de Acapulco e entrará no top 15 do ranking",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/cobolli_acapulco_trofeu-1024x683.jpg",
+        "date": "01/03/2026",
+        "description": "Acapulco (México) –O italiano Flavio Cobolli conquistou o título do ATP 500 de Acapulco. Ele superou na madrugada deste domingo o norte-americano Frances Tiafoe, 28º do ranking, por 7/6 (7-4) e 6/4 em 2h09 de partida. Foi sua primeira vitória em três jogos contra o rival."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bucsa-elimina-a-favorita-paolini-e-enfrenta-frech-na-final-em-merida.html",
+        "title": "Bucsa elimina a favorita Paolini e enfrenta Frech na final em Mérida",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/bucsa_merida_slice-1024x682.jpg",
+        "date": "01/03/2026",
+        "description": "Mérida (México) –A polonesa Magdalena Frech e a espanhola Cristina Bucsa vão decidir o título do WTA 500 de Mérida, no México, neste domingo às 20h (de Brasília). Será o quarto encontro entre elas no circuito profissional e a polonesa lidera o histórico por 2 a 1."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/melo-conquista-acapulco-ao-lado-de-zverev-e-garante-seu-42o-atp.html",
         "title": "Melo conquista Acapulco ao lado de Zverev e garante seu 42º ATP",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/melo_zverev_acapulco_trofeus-1024x683.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/nana_campea_santacruz.jpg",
         "date": "28/02/2026",
         "description": "Santa Cruz (Bolívia) –A paulista Nauhany Silva garantiu o título para o Brasil no ITF J300 de Santa Cruz, torneio Sul-Americano Individual da categoria 18 anos, disputado em quadras de saibro na Bolívia."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pigossi-joga-mais-um-wta-125-na-turquia-e-estreia-domingo-no-quali.html",
-        "title": "Pigossi joga mais um WTA 125 na Turquia e estreia domingo no quali",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/pigossi_floripa_slice_saibro-1024x588.jpg",
-        "date": "28/02/2026",
-        "description": "Antália (Turquia) –A paulista Laura Pigossi disputará mais um WTA 125 no saibro de Antália, na Turquia. Depois de ter caído na estreia da chave principal na semana passada, a número 2 do Brasil e 215ª do mundo jogará o quali desta vez."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/patten-e-heliovaara-conquistam-o-titulo-de-duplas-em-dubai.html",
-        "title": "Patten e Heliovaara conquistam o título de duplas em Dubai",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Dubai-Tennis-2026-ATP-Final-Trophy-Heliovaara-Patten-1-1024x683.jpg",
-        "date": "28/02/2026",
-        "description": "Dubai (Emirados Árabes) –Se em simples,Daniil Medvedev foi campeãodo ATP 500 de Dubai sem precisar entrar em quadra neste sábado, beneficiado pela desistência do holandês Tallon Griekspoor, a final de duplas foi bastante equilibrada. O britânico Henry Patten e o finlandês Harri Heliovaara conquistaram o título após a vitória por duplo 7/5 contra o salvadorenho Marcelo Arevalo e o croata Mate Pavic."
     }
 ]
