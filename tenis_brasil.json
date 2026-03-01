@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-28-02.html",
+        "title": "O dia dos brasileiros: veja os resultados deste sábado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/semifinal_duplas_023-e1771710209653-1024x683.jpg",
+        "date": "28/02/2026",
+        "description": "ATP 500 de Acapulco (México) – Sintético – US$ 2.469.450Duplas – Final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/hanfmann-supreende-cerundolo-e-decide-o-titulo-com-darderi.html",
+        "title": "Hanfmann supreende Cerúndolo e decide o título com Darderi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/hanfmann_santiago_fore.jpg",
+        "date": "28/02/2026",
+        "description": "Santiago (Chile) –O alemão Yannick Hanfmann surpreendeu na rodada deste sábado no ATP 250 de Santiago e eliminou o argentino Francisco Cerúndolo, principal cabeça de chave e 19º do mundo, com parciais de 6/3 e 6/4 para chegar à final do torneio em quadras de saibro na capital chilena."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/stearns-e-townsend-terao-duelo-norte-americano-na-final-em-austin.html",
+        "title": "Stearns e Townsend terão duelo norte-americano na final em Austin",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/stearns_austin_fore-1024x670.jpg",
+        "date": "28/02/2026",
+        "description": "Austin (EUA) –Jogando em casa as norte-americanas Peyton Stearns e Taylor Townsend vão decidir o título do WTA 250 de Austin, em quadras duras nos Estados Unidos. A final acontece neste domingo."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/challenger-em-brasilia-comeca-com-8-brasileiros-marcondes-ganha-convite.html",
         "title": "Challenger em Brasília começa com 8 brasileiros, Marcondes ganha convite",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/marcondes_brasilia_saque-1024x682.jpg",
         "date": "28/02/2026",
-        "description": "Brasília (DF) –Oito jogadores brasileiros estão na chave principal do challenger de Brasília, disputado nas quadras de saibro do Iate Clube. O número de representantes nacionais pode aumentar após o qualificatório, que começa no domingo."
+        "description": "Brasília (DF) –Oito jogadores brasileiros estão na chave principal do challenger de Brasília, disputado nas quadras de saibro do Iate Clube. O número de representantes nacionais pode aumentar após o qualificatório, que começa no domingo. O torneio distribui US$ 107 mil, com 75 pontos ao campeão."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/henrique-mello-e-campeao-de-duplas-no-itf-mt700-de-montevideu.html",
@@ -18,14 +39,7 @@
         "title": "Matos e Luz conquistam em Santiago o terceiro ATP juntos",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/matos_luz_trofeu_chile-1024x683.jpg",
         "date": "28/02/2026",
-        "description": "Santiago (Chile)– Em ótimo início de temporada gaúchos Orlando Luz e Rafael Matos conquistaram o terceiro título juntos na elite do circuito e venceram o ATP 250 de Santiago, superando na final deste sábado o uruguaio Ariel Behar e o australiano Matthew Romios por 6/4 e 6/3."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-28-02.html",
-        "title": "O dia dos brasileiros: veja os resultados deste sábado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/semifinal_duplas_023-e1771710209653-1024x683.jpg",
-        "date": "28/02/2026",
-        "description": "ATP 500 de Acapulco (México) – Sintético – US$ 2.469.450Duplas – Final –Veja a chave"
+        "description": "Santiago (Chile)– Em ótimo início de temporada, os gaúchos Orlando Luz e Rafael Matos conquistaram o terceiro título juntos na elite do circuito e venceram o ATP 250 de Santiago, superando na final deste sábado o uruguaio Ariel Behar e o australiano Matthew Romios por 6/4 e 6/3."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/nana-conquista-seu-maior-titulo-juvenil-no-sul-americano-individual.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/medvedev_dubai_trofeu-1024x683.jpg",
         "date": "28/02/2026",
         "description": "Dubai (Emirados Árabes) –Pela primeira vez em sua carreira profissional, Daniil Medvedev terá um troféu repetido e garantiu seu segundo título no ATP 500 de Dubai. Também campeão na edição de 2023, o russo sequer precisou entrar em quadra neste sábado, beneficiado pela desistência do holandês Tallon Griekspoor, por lesão na posterior da coxa esquerda."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/melo-cheguei-sem-tanta-expectativa-e-gratificante-estar-na-final.html",
-        "title": "Melo: “Cheguei sem tanta expectativa, é gratificante estar na final”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/melo_zverev_cump_acapulco-1024x683.jpg",
-        "date": "28/02/2026",
-        "description": "Acapulco (México) –Invicto há sete jogos nas duas últimas semanas, Marcelo Melo tem a chance de conquistar o segundo título de ATP 500 consecutivo. Depois de ser campeão do Rio Open, ao lado de João Fonseca no domingo passado, Melo decide o título em Acapulco junto do alemão Alexander Zverev. Eles enfrentam o austríaco Alexander Erler e o norte-americano Robert Galloway às 21h30 (de Brasília) deste sábado."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/cobolli-e-tiafoe-vencem-em-tres-sets-e-decidem-o-titulo-em-acapulco.html",
-        "title": "Cobolli e Tiafoe vencem em três sets e decidem o título em Acapulco",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/img_cobolli_rumbo_final-1024x576-1.jpg",
-        "date": "28/02/2026",
-        "description": "Acapulco (México) –O italiano Flavio Cobolli e o norte-americano Frances Tiafoe vão decidir o título do ATP 500 de Acapulco a partir de 0h (de Brasília) de domingo. Tiafoe venceu os dois duelos entre eles, o primeiro ainda em 2024 em Delray Beach e o segundo no ano passado em Washington."
     }
 ]
