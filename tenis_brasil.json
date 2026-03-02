@@ -1,31 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-02-03.html",
-        "title": "O dia dos brasileiros: veja os resultados desta segunda",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/joao_lreis_brasilia_treina-1024x682.jpg",
-        "date": "02/03/2026",
-        "description": "WTA 125 de Antália (Turquia) – Saibro – US$ 115 milQualificatório – Rodada final –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/171065.html",
-        "title": "Fãs não perdoam erro na identificação de Zheng em Indian Wells",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/Qinwen_Zheng_-_Roland_Garros_2025_-_Day_10-DSC-e1752936661598-1024x683.jpg",
-        "date": "02/03/2026",
-        "description": "Indian Wells (EUA) –A pronúncia incorreta de nomes de alguns atletas tem sido um problema cada vez maior no esporte mundial. Desta vez envolveu a chinesa Qinwen Zheng no Aberto de Indian Wells e os fãs não perdoaram a gafe."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tsitsipas-se-defende-e-evita-polemica-sobre-turne-sul-americana.html",
-        "title": "Tsitsipas se defende e evita polêmica sobre turnê sul-americana",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/tsitsipas-united-cup-2026.jpg",
-        "date": "02/03/2026",
-        "description": "Atenas (Grécia)– Após revelar em entrevista que nunca jogou nos torneios sul-americanos de saibroporque não recebeu ofertas satisfatórias de cachê, o grego Stefanos Tsitsipas usou as redes sociais para evitar polêmica. Ele tentou explicar que apenas pontuou o motivo por sua ausência no continente e em momento nenhum cobrou mais dinheiro dos torneios locais."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/sabalenka-impressiona-no-desfile-de-grife-italiana-em-milao.html",
         "title": "Sabalenka impressiona no desfile de grife italiana em Milão",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/sabalenka_desfile-Gucci.jpg",
         "date": "02/03/2026",
         "description": "Milão (Itália) –Aryna Sabalenka, novo rosto da grife italiana Gucci, já se sente em casa. A número 1 do tênis mundial estava entre as estrelas do desfile da coleção “Primavera Outono” 2026 da marca, na Semana de Moda de Milão, antes de seu retorno ao circuito da WTA em Indian Wells, que larga nesta quarta-feira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-02-03.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/joao_lreis_brasilia_treina-1024x682.jpg",
+        "date": "02/03/2026",
+        "description": "WTA 125 de Antália (Turquia) – Saibro – US$ 115 milQualificatório – Rodada final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/medvedev-relata-noite-terrivel-e-considera-opcoes-para-sair-de-dubai.html",
@@ -68,5 +54,19 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/orlandinho-saiuoe-toss-2025-scaled-e1760991812353-1024x682.jpg",
         "date": "02/03/2026",
         "description": "* classificações obtidas na Era Profissional, já que a fase amadora não tinha sistema de computação oficial"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bia-cai-em-semana-que-comeca-boa-para-as-brasileiras-na-wta.html",
+        "title": "Bia cai em semana que começa boa para as brasileiras na WTA",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/bia_merida_acena.jpg",
+        "date": "02/03/2026",
+        "description": "São Petersburgo (EUA)– Principal nome do Brasil no ranking da WTA, a paulista Beatriz Haddad Maia teve uma leve queda nesta segunda-feira. A canhota de 29 anos, que segue como a única do país no top 200, perdeu uma posição e agora é a 67ª do mundo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-recupera-tres-colocacoes-reis-e-wild-tambem-sobem.html",
+        "title": "Fonseca recupera três colocações, Reis e Wild também sobem",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/fonseca-rio-treina-2026-1024x683.jpg",
+        "date": "02/03/2026",
+        "description": "Londres (Inglaterra)– A semana começou positiva para os três melhores brasileiros no ranking da ATP. Único do país no top 100, o carioca João Fonseca recuperou três colocações e aparece no 35º lugar na lista desta segunda-feira, 11 posições abaixo da melhor marca da carreira."
     }
 ]
