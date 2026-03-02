@@ -1,17 +1,31 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/gustavo-heide-e-joao-lucas-reis-estreiam-nesta-segunda-feira-em-brasilia.html",
-        "title": "Gustavo Heide e João Lucas Reis estreiam nesta segunda-feira em Brasília",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/heide_brasilia_back_treina-1024x682.jpg",
+        "url": "https://tenisbrasil.uol.com.br/darderi-conquista-em-santiago-seu-quinto-titulo-de-atp-no-saibro.html",
+        "title": "Darderi conquista em Santiago seu quinto título de ATP no saibro",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/darderi_santiago_vibra-1024x602.jpg",
         "date": "01/03/2026",
-        "description": "Brasília (DF) –Dois brasileiros estarão em ação nesta segunda-feira, 2,no primeiro dia da chave principal do Brasilia Tennis Open, competição nível challenger com premiação total de US$ 107 mil e que vale 75 pontos no ranking mundial ao campeão. O evento vai até o domingo, com transmissão das semifinais e da final pela CazéTV."
+        "description": "Santiago (Chile) –Com ótimo histórico recente no saibro, o italiano Luciano Darderi conquistou o título do ATP 250 de Santiago. Ele superou na final deste domingo o alemão Yannick Hanfmann, 81º do ranking, por 7/6 (8-6) e 7/5."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ao-vivo-joao-fonseca-disputa-exibicoes-em-las-vegas-assista.html",
+        "title": "Ao vivo: João Fonseca disputa exibições em Las Vegas. Assista!",
+        "image": null,
+        "date": "01/03/2026",
+        "description": ""
     },
     {
         "url": "https://tenisbrasil.uol.com.br/stearns-vence-final-americana-em-austin-e-conquista-seu-2o-wta.html",
         "title": "Stearns vence final americana em Austin e conquista seu 2º WTA",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/stearns_austin_trofeu-1024x682.jpg",
         "date": "01/03/2026",
-        "description": "Austin (EUA) –No encontro entre duas jogadoras norte-americanas, Peyton Stearns levou a melhor contra a canhota Taylor Townsend e conquistou o título do WTA 250 de Austin, em quadras duras. Ela marcou as parciais de 7/6 (10-8) e 7/5."
+        "description": "* Atualizado com a final de duplas"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/gustavo-heide-e-joao-lucas-reis-estreiam-nesta-segunda-feira-em-brasilia.html",
+        "title": "Gustavo Heide e João Lucas Reis estreiam nesta segunda-feira em Brasília",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/heide_brasilia_back_treina-1024x682.jpg",
+        "date": "01/03/2026",
+        "description": "Brasília (DF) –Dois brasileiros estarão em ação nesta segunda-feira, 2,no primeiro dia da chave principal do Brasilia Tennis Open, competição nível challenger com premiação total de US$ 107 mil e que vale 75 pontos no ranking mundial ao campeão. O evento vai até o domingo, com transmissão das semifinais e da final pela CazéTV."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-01-03.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/melo-zverev_acapulco_coletiva_trofeus-1024x683.jpg",
         "date": "01/03/2026",
         "description": "Acapulco (México) –Tricampeão do ATP 500 de Acapulco, Marcelo Melo comemorou aconquista do último sábado, ao lado do alemão Alexander Zverev. O mineiro também havia vencido com o croata Ivan Dodig em 2015 e com o polonês Lukasz Kubot em 2020. O título também confirmou o bom momento do tenista, que chegou a oito vitórias seguidas e vinha de título no Rio Open."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/troca-de-bola-e-mais-um-desafio-em-indian-wells.html",
-        "title": "Troca de bola é mais um desafio em Indian Wells",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/blog_iwells.jpg",
-        "date": "01/03/2026",
-        "description": "O primeiro Masters 1000 da temporada começa nesta quarta-feira, no Paradise de Indian Wells, e mais uma vez a maioria dos tenistas não sabe exatamente o que esperar. O mais badalado torneio do circuito fora dos Grand Slam acontece no meio do deserto e isso causa adaptações difíceis, seja com o ar seco que dificulta o controle dos golpes, seja com a mudança drástica de temperatura entre as rodadas diurna e noturna."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-joga-exibicao-as-21-horas-em-las-vegas-e-tv-mostra.html",
-        "title": "Fonseca joga exibição às 21 horas em Las Vegas e TV mostra",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/fonseca-rio-treina-2026-e1771108151436-1024x683.jpg",
-        "date": "01/03/2026",
-        "description": "Las Vegas (EUA)– Depois de uma semana de treinamento e readaptação à quadra sintética, o carioca João Fonseca participa neste domingo de um evento de exibição noMGM Slam, em Las Vegas, em busca de ritmo para disputar o Masters 1000 de Indian Wells, que começa na quarta-feira."
     }
 ]
