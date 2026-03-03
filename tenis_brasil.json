@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-03-03.html",
+        "title": "O dia dos brasileiros: veja os resultados desta terça",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/guto_miguel_rio_treina-1024x683.jpg",
+        "date": "03/03/2026",
+        "description": "WTA 125 de Antália (Turquia) – Saibro – US$ 115 milDuplas – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-concorre-ao-premio-laureus-de-revelacao-do-ano.html",
+        "title": "Fonseca concorre ao prêmio Laureus de revelação do ano",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/jfonseca_tmonteiro_011-1024x682.jpg",
+        "date": "03/03/2026",
+        "description": "Madri (Espanha)– Um dos prêmios mais conceituados do esporte, o Laureus terá a presença do tênis brasileiro nesta edição. Isso porque o jovem carioca João Fonseca está indicado como revelação do ano. Ele é o primeiro brasileiro a concorrer nesta categoria desde 2013, quando Neymar perdeu para o britânico Andy Murray."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/victoria-barros-perde-em-seu-primeiro-jogo-desde-a-australia.html",
+        "title": "Victória Barros perde em seu primeiro jogo desde a Austrália",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/VickyOB-3-scaled-e1765570080967-1024x683.jpg",
+        "date": "03/03/2026",
+        "description": "Hagetmau (França)– Em sua volta às quadras depois de sofrer uma lesão na panturrilha no Australian Open, ondenão passou da segunda rodada na chave juvenil, a potiguar Victória Barros foi derrotada na estreia no W15 de Hagetmau, seu primeiro torneio profissional da temporada, disputado em quadras duras."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/todas-as-chaves-2026.html",
         "title": "Todas as chaves",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/todas-as-chaves.png",
@@ -47,26 +68,5 @@
         "image": null,
         "date": "02/03/2026",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wta-troca-250-de-cleveland-por-memphis-na-preparacao-para-o-us-open.html",
-        "title": "WTA troca 250 de Cleveland por Memphis na preparação para o US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/memphis_quadras_wta-1024x571.jpg",
-        "date": "02/03/2026",
-        "description": "Memphis (EUA) –A WTA anunciou nesta segunda-feira a volta da cidade americana de Memphis ao calendário do circuito. O torneio da série 250 será disputado a partir de 27 de julho e vai substituir a cidade de Cleveland, que nos últimos anos recebia um torneio na véspera do US Open."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/joao-reis-tambem-avanca-em-tres-sets-e-vai-as-oitavas-em-brasilia.html",
-        "title": "João Reis também avança em três sets e vai às oitavas em Brasília",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/reis_brasilia_comemora-1024x683.jpg",
-        "date": "02/03/2026",
-        "description": "Brasília (DF) –Os dois brasileiros que atuaram na abertura da chave principal do challenger de Brasília venceram seus jogos em três sets. Depois de umaboa estreia de Gustavo Heideno início da rodada desta segunda-feira, foi a vez de João Lucas Reis também avançar no torneio disputado nas quadras de saibro do Iate Clube."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/monteiro-meligeni-e-guto-sao-destaques-de-terca-em-brasilia.html",
-        "title": "Monteiro, Meligeni e Guto são destaques de terça em Brasília",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/monteiro_brasilia_treina-1024x682.jpg",
-        "date": "02/03/2026",
-        "description": "Brasília (DF) –Nove brasileiros estarão em ação nesta terça-feira estreando na chave principal do Brasília Tennis Open, evento ATP Challenger 75 realizado no saibro do Iate Clube de Brasília, com premiação total de US$ 107 mil. Entre os destaques estarão nomes como Thiago Monteiro, Felipe Meligeni e o convidado Guto Miguel, de apenas 17 anos."
     }
 ]
