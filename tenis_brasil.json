@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/eduardo-ribeiro-surpreende-favorito-e-garante-brasileiro-na-semi.html",
-        "title": "Eduardo Ribeiro surpreende favorito e garante brasileiro na semi",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/ribeiro-brasilia-comemora-2026-1024x683.jpg",
-        "date": "04/03/2026",
-        "description": "Brasília (DF)– Vindo do quali, o gaúcho Eduardo Ribeiro derrubou mais um no challenger de Brasília e já está nas quartas de final. Nesta quarta-feira, ele surpreendeu o português Jaime Faria, terceiro favorito na competição, triunfando com parciais de 7/6 (9-7) e 6/4, depois de 1h52 de confronto."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-04-03.html",
         "title": "O dia dos brasileiros: veja os resultados desta quarta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/ribeiro_floripa_slice.jpg",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/iga_iw_stand-1024x683.jpg",
         "date": "04/03/2026",
         "description": "Indian Wells (EUA) –Bicampeã do WTA 1000 de Indian Wells em 2022 e 2024 e semifinalista na edição passada, Iga Swiatek ainda busca seu primeiro título da temporada. A polonesa tenta repetir a estratégia que deu certo na campanha do título de Wimbledon no ano passado, quando reduziu o calendário para ter mais tempo de treino."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/guto-elimina-o-cabeca-6-em-brasilia-e-vence-1a-em-challenger.html",
+        "title": "Guto elimina o cabeça 6 em Brasília e vence 1ª em challenger",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/guto_df_vibramuito.jpg",
+        "date": "03/03/2026",
+        "description": "Brasília (DF) –Convidado para disputar a chave principal do challenger de Brasília, o goiano Guto Miguel conseguiu um grande resultado nesta terça-feira e eliminou o argentino Juan Pablo Ficovich, cabeça 6 do torneio e 186º do mundo, com parciais de 7/6 (7-1) e 7/5 em 2h15 de partida."
     }
 ]
