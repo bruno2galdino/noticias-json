@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-joao-dos-sonhos-esta-de-volta.html",
+        "title": "O João dos sonhos está de volta",
+        "image": null,
+        "date": "05/03/2026",
+        "description": "O retorno de João Fonseca às quadras sintéticas, em que pôde jogar tão pouco em janeiro, foi um espetáculo. O carioca de 19 anos despejou toda sua imensa qualidade técnica contra o bom belga Raphael Collignon ao mesmo tempo em que se mostrou muito consistente nas trocas de bola e com excelente cobertura de quadra."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-supera-estreia-dura-e-reencontra-khachanov-em-indian-wells.html",
+        "title": "Fonseca supera estreia dura e reencontra Khachanov em Indian Wells",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/fonseca_iw_vibra_tennistv-1024x576.jpg",
+        "date": "05/03/2026",
+        "description": "Indian Wells (EUA) –A estreia de João Fonseca no Masters 1000 de Indian Wells foi com resultado positivo. O carioca de 19 anos e número 1 do Brasil superou nesta quarta-feira o belga Raphael Collignon, 77º do ranking, por 7/6 (7-2) e 6/4 em 1h42 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-resultados-desta-quarta-04-03.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/reis-itajai-prepara-2026-1024x683.jpg",
+        "date": "05/03/2026",
+        "description": "WTA 1000 de Indian Wells (EUA) – Sintético – US$ 9.415.725Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/venus-e-dimitrov-sao-atracoes-desta-quinta-em-indian-wells.html",
+        "title": "Venus e Dimitrov são atrações desta quinta em Indian Wells",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/venus_iw_treina_sorrindo-1024x683.jpg",
+        "date": "05/03/2026",
+        "description": "Indian Wells (EUA) –Ainda sem os cabeças de chave em quadra, as estreias de Grigor Dimitrov e Venus Williams são os destaques desta quarta-feira em Indian Wells. Ambos estarão em quadra na sessão diruna do estádio principal."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-enfrenta-109o-do-mundo-zverev-faz-classico-com-berrettini.html",
+        "title": "Sinner enfrenta 109º do mundo, Zverev faz clássico com Berrettini",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/sinner-iw-2026-preview-1024x576.jpg",
+        "date": "05/03/2026",
+        "description": "Indian Wells (EUA) –O italiano Jannik Sinner conheceu o seu primeiro adversário no Masters 1000 de Indian Wells, em mais uma tentativa de conquistar um dos títulos de grande relevância que faltam em sua galeria de troféus."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sabalenka-enfrentara-japonesa-do-quali-anisimova-encara-russa.html",
+        "title": "Sabalenka enfrentará japonesa do quali, Anisimova encara russa",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/sabalenka_iw_sorri_26-1024x683.jpg",
+        "date": "05/03/2026",
+        "description": "Indian Wells (EUA) –Em seu primeiro torneio desde o Australian Open, Aryna Sabalenka já tem adversária definida para a estreia no WTA 1000 de Indian Wells. Finalista no ano passado e ainda em busca de um título inédito, a líder do ranking enfrenta a japonesa vinda do quali Himeno Sakatsume, que bateu a norte-americana Alycia Parks por 6/4 e 6/3."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/opelka-desafia-shelton-mensik-e-tien-conhecem-rivais.html",
         "title": "Opelka desafia Shelton, Mensik e Tien conhecem rivais",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/476343821_947669777469798_8100198336449458975_n-e1738936704648-1024x683.jpg",
@@ -21,52 +63,10 @@
         "description": "Indian Wells (EUA) –Com parciais bastante distintas, Beatriz Haddad Maia foi eliminada na estreia do WTA 1000 de Indian Wells. Depois de um início de partida difícil, a número 1 do Brasil e 67ª do mundo melhorou no segundo set, mas não foi suficiente para superar a espanhola Jessica Bouzas, 50ª do ranking, que marcou as parciais de 6/1, 6/7 (5-7) e 6/1 em 2h15 de partida."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-04-03.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/reis-itajai-prepara-2026-1024x683.jpg",
-        "date": "04/03/2026",
-        "description": "WTA 1000 de Indian Wells (EUA) – Sintético – US$ 9.415.725Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/bohrer-segue-apenas-nas-duplas-em-itf-no-canada.html",
         "title": "Bohrer segue apenas nas duplas em ITF no Canadá",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/carol_bohrer_santatecla_back-1024x717.jpg",
         "date": "04/03/2026",
         "description": "Trois-Rivieres (Canadá) –A catarinense Carolina Bohrer, de 18 anos, seguirá apenas nas duplas no ITF W15 de Trois-Rivieres, em quadras duras e cobertas no Canadá."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/italiana-que-jogou-o-quali-de-iw-relata-ameaca-denunciou-a-wta.html",
-        "title": "Italiana que jogou o quali de IW relata ameaça e denuncia à WTA",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/Image00022-1024x683.jpg",
-        "date": "04/03/2026",
-        "description": "Indian Wells (EUA) –Uma tenista italiana revelou que ela e sua família foram alvo de ameaças. Foto de uma arma foi enviada para ela, antes de uma partida do qualifying do torneio de Indian Wells, na Califórnia. Lucrezia Stefanini acredita que a intimidação foi uma tentativa de manipular o resultado da partida para fins de apostas."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/itf-cancela-torneio-masters-na-turquia-por-conflitos-no-oriente-medio.html",
-        "title": "ITF cancela torneio Masters na Turquia por conflitos no Oriente Médio",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/masters-net-signage-1024x683.jpg",
-        "date": "04/03/2026",
-        "description": "Manavgat (Turquia) –A Federação Internacional de Tênis (ITF) anunciou nesta quarta-feira o cancelamento do ITF Masters World Team and Individual Championships nas categorias 60, 65 e 70 anos, que seria disputado entre 8 e 21 de março em Manavgat. A decisão foi tomada por motivos de segurança em meio aos desdobramentos recentes do conflito no Oriente Médio."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/putintseva-se-aproveita-dos-erros-de-badosa-paolini-conhece-rival.html",
-        "title": "Putintseva se aproveita dos erros de Badosa, Paolini conhece rival",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/putintseva_ausopen_vibra-1024x668.jpg",
-        "date": "04/03/2026",
-        "description": "Indian Wells (EUA) –Em jogo que abriu a programação do WTA 1000 de Indian Wells, a cazaque Yulia Putintseva eliminou Paula Badosa, superando a campeã de 2021 por 6/4 e 6/2 em 1h27 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-e-andreeva-maes-de-pet-curtem-seus-filhotes-em-indian-wells.html",
-        "title": "Sabalenka e Andreeva, mães de pet, curtem seus filhotes em Indian Wells",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/sabalenka_pet.jpg",
-        "date": "04/03/2026",
-        "description": "Indian Wells (EUA) –A número 1 do mundo Aryna Sabalenka adicionou oficialmente um novo membro à sua equipe, Ash, um filhote de Cocker Spaniel. “A Equipe Tigre tem um novo integrante. Conheçam Ash♥️”, escreveu a tetracampeã de Grand Slam em publicação nas redes sociais. “Ele é o cachorro mais fofo do mundo, na minha opinião”, disse Sabalenka à imprensa na terça-feira, durante o dia dedicado à mídia."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/heide-supera-marcondes-em-tres-sets-e-confirma-duelo-com-ribeiro.html",
-        "title": "Heide supera Marcondes em três sets e confirma duelo com Ribeiro",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/heide_brasilia_vibra-1024x682.jpg",
-        "date": "04/03/2026",
-        "description": "Brasília (DF) –Em duelo entre dois brasileiros, Gustavo Heide levou a melhor sobre Igor Marcondes e garantiu vaga nas quartas de final do challenger de Brasília por 6/4, 4/6 e 6/4 em 2h24 de partida nesta quarta-feira no Iate Clube."
     }
 ]
