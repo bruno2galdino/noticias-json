@@ -1,10 +1,24 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-07-03.html",
-        "title": "O dia dos brasileiros: veja os resultados deste sábado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/stefani_dabrowski_dub_semi.jpg",
+        "url": "https://tenisbrasil.uol.com.br/ribeiro-cai-diante-do-jogo-seguro-do-paraguaio-vallejo.html",
+        "title": "Ribeiro cai diante do jogo seguro do paraguaio Vallejo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/eduardo_ribeiro_df-1024x683.jpg",
         "date": "07/03/2026",
-        "description": "Masters 1000 de Indian Wells (EUA) – Sintético – US$ 9.415.725Segunda rodada –Veja a chave"
+        "description": "*  atualizado às 18h12 com vice de duplas de Zormann"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/draper-inicia-defesa-de-titulo-com-virada-ruud-estreia-bem.html",
+        "title": "Draper inicia defesa de título com virada, Ruud estreia bem",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/jack_draper.jpg",
+        "date": "07/03/2026",
+        "description": "Indian Wells (EUA)– Um ano depois de conquistar o maior troféu da carreira e entrar para o top 10, o britânico Jack Draper retornou ao piso sintético de Indian Wells ainda sem o ritmo ideal de competição, mas conseguiu superar o veterano Roberto Bautista de virada, com parciais de 3/6, 6/3 e …"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/precisei-confiar-muito-no-preparo-fisico-diz-gauff-apos-dura-estreia.html",
+        "title": "“Precisei confiar muito no preparo físico”, diz Gauff após dura estreia",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/coco_gauff_iw-1024x576.jpeg",
+        "date": "07/03/2026",
+        "description": "Indian Wells (EUA) –Esperança da torcida norte-americana, a jovem Coco Gauff passou por apuros em sua estreia no WTA 1000 de Indian Wells. Após superar a uzbeque Kamilla Rakhimova por 6/3 e 7/6 (7-5), a cabeça de chave 4 destacou o excelente preparo físico e as dificuldades para lidar com um piso mais lento e o excesso de vento."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/osaka-celebra-triunfo-apos-lesoes-sou-grata-so-por-estar-jogando.html",
@@ -40,33 +54,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/1772853972.jpg",
         "date": "07/03/2026",
         "description": "Indian Wells (EUA)– Ainda sem títulos na temporada, o italiano Jannik Sinner teve estreia muito tranquila no primeiro Masters 1000 do ano, tendo cedido apenas um game por set diante do pouco conhecido tcheco Dalibor Svrcina, vindo do qualificatório, em rodada noturna da sexta-feira no deserto californiano."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/estar-em-quadra-e-sempre-um-privilegio-garante-monfils.html",
-        "title": "“Estar em quadra é sempre um privilégio”, garante Monfils",
-        "image": null,
-        "date": "07/03/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/italia-compra-atp-de-bruxelas-e-milao-fara-torneio-de-grama-em-2028.html",
-        "title": "Itália compra ATP de Bruxelas e Milão fará torneio de grama em 2028",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/bruxelas.jpg",
-        "date": "07/03/2026",
-        "description": "Roma (Itália)– A Itália continua a expandir seu já fortíssimo calendário no tênis. Segundo o jornalCorriere della Sera, a Federação nacional comprou a data que pertence a Bruxelas e realizará o primeiro torneio sobre grama na história do tênis do país em 2028."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/confira-as-emocoes-da-sexta-no-wta-1000-de-indian-wells.html",
-        "title": "Confira as emoções da sexta no WTA 1000 de Indian Wells",
-        "image": null,
-        "date": "07/03/2026",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/eala-salva-jogo-com-apoio-da-torcida-e-reencontra-gauff.html",
-        "title": "Eala salva jogo com apoio da torcida e reencontra Gauff",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/eala_iwells.jpg",
-        "date": "07/03/2026",
-        "description": "Indian Wells (EUA)– O apoio de uma multidão de fãs deu a motivação extra que a filipina Alexandra Eala precisava para conseguir reagir no final da partida e eliminar a ucraniana Dayana Yastremska, em partida de três horas que encerrou a rodada feminina já no frio da madrugada em Indian Wells."
     }
 ]
