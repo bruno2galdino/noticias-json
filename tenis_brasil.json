@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/portugues-conquista-challenger-de-brasilia-e-alcanca-melhor-ranking.html",
+        "title": "Português conquista challenger de Brasília e alcança melhor ranking",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/henrique_rocha_df-1024x682.jpeg",
+        "date": "08/03/2026",
+        "description": "Brasília (DF)– Numa final entre dois tenistas de 21 anos, o português Henrique Rocha se mostrou muito mais sólido e levou o título do challenger de Brasília neste domingo, ao derrotar o paraguaio Daniel Vallejo em sets diretos, parciais de 6/4 e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/e-normal-sentir-mais-pressao-quando-se-deveria-vencer-diz-fritz.html",
+        "title": "“É normal sentir mais pressão quando se deveria vencer”, diz Fritz",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/fritz_dallas_comemora-1024x691.jpg",
+        "date": "08/03/2026",
+        "description": "Indian Wells (EUA) –Esperança da torcida local, Taylor Fritz poderia ter permanecido menos tempo em quadra em sua partida de estreia no Masters 1000 de Indian Wells. Diante do britânico Jacob Fearnley, ele desperdiçou quatro match-points na segunda parcial, antes de fechar com parciais de 6/3, 6/7 (8-10) e 6/1. De acordo com o cabeça de chave 7, ele estava confiante que sairia vitorioso, mesmo ao falhar sacando para o jogo."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-08-03.html",
         "title": "O dia dos brasileiros: veja os resultados deste domingo",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/bruno_fernandez.jpg",
@@ -54,19 +68,5 @@
         "image": null,
         "date": "08/03/2026",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/swiatek-rybakina-e-svitolina-avancam-em-iw-veja-no-resumo-do-sabado.html",
-        "title": "Swiatek, Rybakina e Svitolina avançam em IW. Veja no resumo do sábado.",
-        "image": null,
-        "date": "08/03/2026",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pegula-sofre-para-superar-estreia-keys-tambem-avanca.html",
-        "title": "Pegula sofre para superar estreia, Keys também avança",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/pegula.jpg",
-        "date": "08/03/2026",
-        "description": "Indian Wells (EUA)– A norte-americana Jessica Pegula fez a festa da torcida em sua estreia no WTA 1000 de Indian Wells. Apesar de ter passado por apuros, ela virou sobre a convidada croata Donna Vekic por 2 sets a 1, com parciais de 4/6, 6/2 e 6/3, em 1h57 de partida."
     }
 ]
