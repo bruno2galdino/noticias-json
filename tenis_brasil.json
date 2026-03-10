@@ -1,10 +1,31 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/espero-que-melhore-a-cada-dia-diz-djokovic-sobre-problema-no-antebraco.html",
-        "title": "“Espero que melhore a cada dia”, diz Djokovic sobre problema no antebraço",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/djokovic_indianwells_back_26.jpg",
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-consegue-a-virada-e-reencontra-ruud-nas-oitavas-em-indian-wells.html",
+        "title": "Alcaraz consegue a virada e reencontra Ruud nas oitavas em Indian Wells",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/alcaraz_iw_numero1-1024x671.jpg",
+        "date": "10/03/2026",
+        "description": "Indian Wells (EUA) –Bicampeão do Masters 1000 de Indian Wells, Carlos Alcaraz teve trabalho para superar seu segundo compromisso no torneio. O número 1 do mundo precisou de três sets e 2h18 para vencer o francês Arthur Rinderknech, 28º do ranking, com parciais de 6/7 (6-8), 6/3 e 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/djokovic-e-tsitsipas-avancam-nas-duplas-sinner-e-opelka-caem.html",
+        "title": "Djokovic e Tsitsipas avançam nas duplas, Sinner e Opelka caem",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/tsitsipas-djokovic-rg-2021-1024x683.jpg",
+        "date": "10/03/2026",
+        "description": "Indian Wells (EUA) –O problema no antebraço direito de Novak Djokovic não o impediu de voltar à quadra para a disputa da chave de duplas, após avançar às oitavas em simples no Masters 1000 de Indian Wells. O sérvio e o grego Stefanos Tsitsipas venceram a parceria formada pelo salvadorenho Marcelo Arevalo e o croata Mate Pavic por 2 sets a 0, parciais de 6/3 e 6/2, em apenas 54 minutos."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-desafia-sinner-as-22h-de-terca-sabalenka-e-osaka-abrem-rodada.html",
+        "title": "Fonseca desafia Sinner às 22h de terça, Sabalenka e Osaka abrem rodada",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/fonseca_iw_voleia_noite-1024x683.jpg",
         "date": "09/03/2026",
-        "description": "Indian Wells (EUA)– Novak Djokovic novamente precisou de três sets para avançar no Masters 1000 de Indian Wells. Além da falta de ritmo, já que não competia desde o vice-campeonato no Aberto da Austrália, o sérvio reconheceu estar convivendo com um incômodo no antebraço direito. Inclusive, ele está jogando com uma proteção especial para lidar com as dores."
+        "description": "* Atualizado com a programação de duplas"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/stefani-e-dabrowski-vencem-mais-uma-e-vao-as-quartas-em-indian-wells.html",
+        "title": "Stefani e Dabrowski vencem mais uma e vão às quartas em Indian Wells",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/stefani_dabrowski_dubai_final-1024x683.jpg",
+        "date": "09/03/2026",
+        "description": "Indian Wells (EUA) –Depois de uma vitória em três sets na estreia, Luísa Stefani e a canadense Gabriela Dabrowski venceram mais uma no WTA 1000 de Indian Wells e avançaram às quartas de final. Cabeças de chave 2, elas venceram a estoniana Ingrid Neel e a norte-americana Peyton Stearns por 6/4 e 6/2 em 1h04 de partida."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-09-03.html",
@@ -12,6 +33,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/semifinal_duplas_023-e1771710209653-1024x683.jpg",
         "date": "09/03/2026",
         "description": "WTA1000 de Indian Wells (EUA) – Sintético – US$ 9.415.725Duplas – Oitavas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/espero-que-melhore-a-cada-dia-diz-djokovic-sobre-problema-no-antebraco.html",
+        "title": "“Espero que melhore a cada dia”, diz Djokovic sobre problema no antebraço",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/djokovic_indianwells_back_26.jpg",
+        "date": "09/03/2026",
+        "description": "Indian Wells (EUA)– Novak Djokovic novamente precisou de três sets para avançar no Masters 1000 de Indian Wells. Além da falta de ritmo, já que não competia desde o vice-campeonato no Aberto da Austrália, o sérvio reconheceu estar convivendo com um incômodo no antebraço direito. Inclusive, ele está jogando com uma proteção especial para lidar com as dores."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/iga-consegue-revanche-contra-sakkari-e-tera-muchova-nas-oitavas.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/storck_poa_back-1024x683.jpg",
         "date": "09/03/2026",
         "description": "Indian Wells (EUA) –A paulista Nauhany Silva e o mato-grossense Leonardo Storck estrearam com vitória no Brasil Juniors Cup, torneio ITF J300 disputado nas quadras de saibro da Associação Leopoldina Juvenil, em Porto Alegre."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/reis-e-boscardin-vencem-e-duelam-marcondes-e-sakamoto-furam-quali.html",
-        "title": "Reis e Boscardin vencem e duelam, Marcondes e Sakamoto furam quali",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/reis-lima-vibra-2025-1-e1762688220168-1024x683.jpg",
-        "date": "09/03/2026",
-        "description": "Santiago (Chile) –No encontro entre dois brasileiros, o pernambucano João Lucas Reis superou o paulista Daniel Dutra da Silva e estreou com vitória no challenger de Santiago, em quadras de saibro. Reis marcou as parciais de 3/6, 6/4 e 7/5 em 2h39 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/luz-e-matos-vencem-a-primeira-em-indian-wells-melo-e-zverev-caem.html",
-        "title": "Luz e Matos vencem a primeira em Indian Wells, Melo e Zverev caem",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/matos_luz_davis_cump-1024x683.jpeg",
-        "date": "09/03/2026",
-        "description": "Indian Wells (EUA) –Os brasileiros tiveram rumos opostos na chave de duplas do Masters 1000 de Indian Wells. Os gaúchos Orlando Luz e Rafael Matos estrearam com vitória, enquanto o mineiro Marcelo Melo caiu na primeira rodada, ao lado do alemão Alexander Zverev."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/campeoes-draper-encara-djokovic-e-norrie-tira-de-minaur.html",
-        "title": "Campeões, Draper encara Djokovic e Norrie tira De Minaur",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/draper-punho.jpg",
-        "date": "09/03/2026",
-        "description": "* atualizado às 19h51 com vitória de Hijikata sobre Bublik"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-desafia-sinner-as-22h-de-terca-sabalenka-e-osaka-abrem-rodada.html",
-        "title": "Fonseca desafia Sinner às 22h de terça, Sabalenka e Osaka abrem rodada",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/fonseca_iw_voleia_noite-1024x683.jpg",
-        "date": "09/03/2026",
-        "description": "Indian Wells (EUA) –O tão esperado confronto entre João Fonseca e Jannik Sinner pelas oitavas de final do Masters 1000 de Indian Wells acontecerá nesta terça-feira às 22h (de Brasília), abrindo a sessão noturna do estádio principal. O torneio é transmitido pelaESPNeDisney+."
     }
 ]
