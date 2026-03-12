@@ -1,10 +1,45 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/badosa-e-enfocada-no-novo-canal-de-jabeur-no-youtube.html",
-        "title": "Badosa é enfocada no novo canal de Jabeur no YouTube",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/badosa_jabeur-1024x754.jpg",
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-12-03.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/monteiro_itajai_oitavas.jpg",
         "date": "12/03/2026",
-        "description": "Dubai (Emirados Árabes Unidos) –Ex-número 2 do mundo em simples, a tunisiana Ons Jabeur lançou seu canal no Youtube nesta quarta-feira e o primeiro episódio teve como personagem sua grande amiga, a espanhola Paula Badosa. O episódio se chama “Seu jogo, suas regras”."
+        "description": "Masters 1000 de Indian Wells (EUA) – Sintético – US$ 9.415.725Duplas mistas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bruno-fernandez-faz-quartas-em-la-plata-bohrer-cai-nas-oitavas-no-canada.html",
+        "title": "Bruno Fernandez faz quartas em La Plata, Bohrer cai nas oitavas no Canadá",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/bruno_fernandez_slice.jpg",
+        "date": "12/03/2026",
+        "description": "La Plata (Argentina) –Depois de ser o único brasileiro a passar pela primeira rodada do ITF M15 de La Plata, em quadras de saibro na Argentina, Bruno Fernandez garantiu sua segunda vitória e a vaga nas quartas de final."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/venus-e-stephens-lideram-convites-para-o-miami-open.html",
+        "title": "Venus e Stephens lideram convites para a chave feminina em Miami",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/venus_iw_treina_sorrindo-1024x683.jpg",
+        "date": "12/03/2026",
+        "description": "Miami (EUA) –As norte-americanas Venus Williams e Sloane Stephens lideram a lista de jogadoras convidadas para a chave principal do WTA 1000 de Miami, que acontece entre os dias 15 e 29 de março. Venus é tricampeã do torneio, enquanto Stephens venceu a edição de 2018."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/zverev-domina-fils-e-agora-soma-semifinais-em-todos-os-masters-1000.html",
+        "title": "Zverev domina Fils e agora soma semi em todos os Masters 1000",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/zverev_iw_voleia.jpg",
+        "date": "12/03/2026",
+        "description": "Indian Wells (EUA) –O alemão Alexander Zverev anotou outro feito importante em sua carreira. Ao derrotar o francês Arthur Fils por 2 sets a 0, com parciais de 6/2 e 6/3, em apenas 1h23 de partida, ele agora finalmente conseguiu atingir a penúltima rodada do Masters 1000 de Indian Wells."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sabalenka-volta-a-superar-mboko-e-e-a-primeira-semifinalista.html",
+        "title": "Sabalenka volta a superar Mboko e é a primeira semifinalista",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/sabalenka_iw_vibra_qf-1024x683.jpg",
+        "date": "12/03/2026",
+        "description": "Indian Wells (EUA) –Ainda em busca de um título inédito, Aryna Sabalenka é a primeira semifinalista do WTA 1000 de Indian Wells. A número 1 do mundo superou nesta quinta-feira a canadense Victoria Mboko, de 19 anos e 10ª colocada, por 7/6 (7-0) e 6/4 em 1h50 de partida. Foi sua segunda vitória sobre a jovem rival, repetindo o que havia acontecido no Australian Open em janeiro."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/badosa-e-destaque-no-novo-canal-de-jabeur-no-youtube.html",
+        "title": "Badosa é destaque no novo canal de Jabeur no YouTube",
+        "image": null,
+        "date": "12/03/2026",
+        "description": ""
     },
     {
         "url": "https://tenisbrasil.uol.com.br/guto-recebe-convite-para-o-quali-do-masters-1000-de-miami.html",
@@ -28,45 +63,10 @@
         "description": "Londres (Inglaterra)– O carioca João Fonseca conquistou o prêmio de melhor ponto do mês de fevereiro. O ponto em questão aconteceuna primeira rodada do Rio Opencontra o cearense Thiago Monteiro."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-12-03.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quinta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/monteiro_itajai_oitavas.jpg",
-        "date": "12/03/2026",
-        "description": "Masters 1000 de Indian Wells (EUA) – Sintético – US$ 9.415.725Duplas mistas – Quartas de final –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/alexandrova-ostapenko-e-pliskova-lideram-a-chave-no-wta-de-linz.html",
         "title": "Alexandrova, Ostapenko e Pliskova lideram a chave no WTA de Linz",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/alexandrova-trofeu-agachada-linz-2025-1024x683.jpg",
         "date": "12/03/2026",
         "description": "Linz (Áustria)– Dez jogadoras entre as 40 melhores do ranking e três campeãs de edições anteriores, a russa Ekaterina Alexandrova, a letã Jelena Ostapenko e a tcheca Karolina Pliskova, estão confirmadas para a disputa do WTA 500 de Linz, que acontece entre os dias 5 e 12 de abril."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/oito-brasileiros-do-top-10-do-pais-confirmados-na-lista-inicial-do-sao-leo-open.html",
-        "title": "Oito brasileiros do top 10 do país confirmados na lista inicial do São Léo Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/Joao_Lucas_Reis_Sao-Leo-Open.jpg",
-        "date": "12/03/2026",
-        "description": "São Leopoldo (RS) –A Associação dos Tenistas Profissionais (ATP) divulgou nesta quinta-feira a lista de entrada para o Challenger 75 de São Leopoldo, o São Léo Open. Entre os destaques desta primeira lista para a chave principal estão oito nomes de peso que figuram no top 10 do ranking brasileiro como João Lucas Reis (205), Thiago Monteiro (232), Felipe Meligeni (248), Pedro Boscardin (258), Matheus Pucinelli (292), Gustavo Heide (301), Igor Marcondes (307) e Daniel Dutra (321). O chileno Tomas Barrios Vera (115) e o peruano ex-campeão do torneio Juan Pablo Varillas, que já foi número 60 do mundo, também figuram entre os principais participantes que estarão nas quadras do São Leopoldo Tênis Clube do dia 28 de março a 5 de abril."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-garante-que-problema-nas-costas-ficou-no-passado.html",
-        "title": "Fonseca garante que problema nas costas ficou no passado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/fonseca-indian-wells-2026-reaction.jpg",
-        "date": "12/03/2026",
-        "description": "Indian Wells (EUA)– A temporada de 2026 do carioca João Fonseca começou com dúvidas após uma lesão nas costas que o fez desistir de competir no ATP 250 de Brisbane e acabou atrapalhando seu desempenho nos primeiros torneios do ano. Contudo, em entrevista aoPodcast The Big T, ele garantiu que isso ficou no passado e não o incomoda mais."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/paolini-mboko-e-svitolina-lideram-suas-equipes-na-bjk-cup.html",
-        "title": "Paolini, Mboko e Svitolina lideram suas equipes na BJK Cup",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/Artes-fotos-multiplas-900x600-3.jpg",
-        "date": "12/03/2026",
-        "description": "Londres (Inglaterra)– Jasmine Paolini liderará a Itália, atual campeã, nas eliminatórias da Billie Jean King Cup de 2026, que acontece entre os dias 10 e 11 de abril. A ucraniana Elina Svitolina e a canadense Victoria Mboko estão entre as outras jogadoras de destaque que representarão seus países"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sensacao-em-indian-wells-gibson-tenta-ampliar-feitos-no-torneio.html",
-        "title": "Sensação em Indian Wells, Gibson tenta ampliar feitos no torneio",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/gibson-iw-fore-2026-1024x683.jpg",
-        "date": "12/03/2026",
-        "description": "Indian Wells (EUA)– A australiana Talia Gibson, de 21 anos, é a surpresa do WTA 1000 de Indian Wells, se tornando a primeira tenista vinda do quali a chegar às quartas de final do torneio de desde 2015. Ela também é a primeira australiana a alcançar as quartas desde Casey Dellacqua em 2014, fazendo isso em sua estreia na chave principal de um WTA 1000."
     }
 ]
