@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-13-03.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli_uso_sozinho.jpg",
+        "date": "13/03/2026",
+        "description": "Challenger de Santiago (Chile) – Saibro – US$ 107.000Quartas de final –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/primos-rinderknech-e-vacherot-estao-na-final-de-duplas-em-indian-wells.html",
         "title": "Primos, Rinderknech e Vacherot estão na final de duplas em Indian Wells",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/GETTY_rinderknech_vacherot_dupla_iw_NAOUSAR.jpg",
+        "image": null,
         "date": "13/03/2026",
         "description": "Embed from Getty Images"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bencic-e-cobolli-superam-atuais-campeoes-nas-duplas-mistas-em-iw.html",
+        "title": "Bencic e Cobolli superam atuais campeões nas duplas mistas em IW",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/bencic_cobolli_indianwells_comb-1024x683.jpg",
+        "date": "13/03/2026",
+        "description": "Indian Wells (EUA) –Os finalistas da chave de duplas mistas de Indian Wells foram definidos nesta sexta-feira, com destaque para a vitória da suíça Belinda Bencic e do italiano Flavio Cobolli, que eliminaram a forte parceria italiana de Sara Errani e Andrea Vavassori por duplo 6/3 em 1h08 de partida."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/bruno-fernandez-elimina-o-cabeca-2-em-la-plata-e-garante-vaga-na-semi.html",
@@ -12,13 +26,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/11/52718290354_7d7d1f664a_c.jpg",
         "date": "13/03/2026",
         "description": "La Plata (Argentina) –A semana de Bruno Fernandez no ITF M15 de La Plata segue com resultados positivos. O catarinense de 21 anos e 704º do ranking venceu seu terceiro jogo em sets diretos e superou o argentino Valerio Aboian, cabeça 2 do torneio e 462º do mundo, por 6/3 e 7/5."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-13-03.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli_uso_sozinho.jpg",
-        "date": "13/03/2026",
-        "description": "Challenger de Santiago (Chile) – Saibro – US$ 107.000Quartas de final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/aniversariante-nana-vence-a-oitava-seguida-e-faz-semi-em-porto-alegre.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/Iga_Swiatek_-_BNP_Paribas_Open_2026_-_Day_9-DSC_2658A_xgaplus.jpg",
         "date": "13/03/2026",
         "description": "Indian Wells (EUA) –Em um mau dia de trabalho em quadra, com problemas no seu serviço e vendo escapar a chance de avançar às semifinais em Indian Wells, Iga Swiatek, bicampeã da competição, perdeu a cabeça nos momentos finais da partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-adere-a-festa-da-torcida-e-se-fantasia-de-abelha-apos-vitoria.html",
-        "title": "Alcaraz adere à festa da torcida e se fantasia de abelha após vitória",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/alcaraz-iw-abelha-2026-1024x683.jpg",
-        "date": "13/03/2026",
-        "description": "Indian Wells (EUA) –Garantido nas semifinais em Indian Wells, o espanhol Carlos Alcaraz esbanjou carisma e irreverência apósderrotar o britânico Cameron Norriepor 2 sets a 0, com parciais de 6/3 e 6/4. O número 1 do mundo contou novamente com o apoio maciço da torcida fantasiada de abelha, em alusão ao acidente ocorrido em 2024, quando foi atacado por um enxame em duelo diante do alemão Alexander Zverev."
     }
 ]
