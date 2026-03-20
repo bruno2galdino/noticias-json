@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-20-03.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/02/54332438744_d414a64d4a_o-e1740683071134-1024x683.jpg",
+        "date": "20/03/2026",
+        "description": "Challenger de Assunção (Paraguai) – Saibro – US$ 107 milQuartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-defende-temporada-sul-americana-e-afirma-que-gostaria-de-voltar.html",
+        "title": "Alcaraz defende temporada sul-americana e afirma que gostaria de voltar",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/alcaraz-miami-2026-preview-1-e1774006793461-1024x682.jpg",
+        "date": "20/03/2026",
+        "description": "Miami (EUA)– O espanhol Carlos Alcaraz falou com a imprensa na quinta-feira, antes de sua estreia no Masters 1000 de Miami, que aconteceránesta sexta-feira contra o carioca João Fonseca. Curiosamente, ele estava vestindo a camisa da seleção brasileira de futebol e disse que era uma homenagem ao público latino-americano."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/iga-estou-muito-confusa-mas-vou-tentar-me-recuperar.html",
+        "title": "Iga: “Estou muito confusa, mas vou tentar me recuperar”",
+        "image": null,
+        "date": "20/03/2026",
+        "description": "Embed from Getty Images"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/stephens-encerra-serie-negativa-andreeva-vence-em-tres-sets.html",
         "title": "Stephens encerra série negativa, Andreeva vence em três sets",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/stephens_miami_vibra-1024x659.jpg",
         "date": "20/03/2026",
-        "description": "Miami (EUA) –Campeã do WTA 1000 de Miami em 2018, Sloane Stephens venceu um duelo norte-americano na estreia contra Jennifer Brady por 6/4 e 6/2. A experiente jogadora de 32 anos e ex-número 3 do mundo desafia a chinhesa Qinwen Zheng, 26ª do ranking e vencedora nos dois duelos anteriores."
+        "description": "Miami (EUA) –Campeã do WTA 1000 de Miami em 2018, Sloane Stephens venceu um duelo norte-americano na estreia contra Jennifer Brady por 6/4 e 6/2. A experiente jogadora de 32 anos e ex-número 3 do mundo desafia a chinesa Qinwen Zheng, 26ª do ranking e vencedora nos dois duelos anteriores."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/fonseca-berretini-tsitsipas-avancam-dimitrov-cai-veja-resumo-da-quinta.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/boscardin_rosario_slice-1024x684.jpg",
         "date": "19/03/2026",
         "description": "Masters 1000 de Miami (EUA) – Sintético – US$ 9.415.725Primeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-e-alcaraz-duelam-as-20h-sabalenka-estreia-a-tarde.html",
-        "title": "Fonseca e Alcaraz duelam às 20h, Sabalenka estreia à tarde",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/IMG-20251209-WA0005-e1765281708131.jpg",
-        "date": "19/03/2026",
-        "description": "Miami (EUA) –O tão esperado encontro entre João Fonseca e Carlos Alcaraz acontecerá nesta sexta-feira às 20h (de Brasília), pela segunda rodada do Masters 1000 de Miami."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/iga-leva-virada-de-linette-e-sofre-rara-eliminacao-numa-estreia.html",
-        "title": "Iga leva virada de Linette e sofre rara eliminação numa estreia",
-        "image": null,
-        "date": "19/03/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/que-venha-o-espetaculo.html",
-        "title": "Que venha o espetáculo!",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/blog_jf_miami.jpg",
-        "date": "19/03/2026",
-        "description": "Dez dias depois de dar um tremendo sufoco no número 2 do mundo e atual dono das quadras sintéticas do circuito, João Fonseca terá o segundo grande teste de sua jovem carreira e tentará se tornar o terceiro brasileiro a derrotar um líder do ranking na Era Profissional."
     }
 ]
