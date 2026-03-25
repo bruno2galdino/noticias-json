@@ -1,17 +1,45 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/paul-e-fils-vencem-e-confirmam-duelo-nas-quartas-em-miami.html",
-        "title": "Paul e Fils vencem e confirmam duelo nas quartas em Miami",
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-24-03.html",
+        "title": "O dia dos brasileiros: veja os resultados desta terça",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/eduardo_ribeiro_sp.jpg",
+        "date": "24/03/2026",
+        "description": "WTA 1000 de Miami (EUA) – Sintético – US$ 9.415.725Duplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/gauff-vence-outro-duelo-de-tres-sets-e-faz-semifinal-inedita-em-miami.html",
+        "title": "Gauff vence outro duelo de três sets e faz semifinal inédita em Miami",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/gauff_miami_vibra_qf.jpeg",
+        "date": "24/03/2026",
+        "description": "Miami (EUA) –Pela primeira em sua carreira profissional, Coco Gauff disputará a semifinal do WTA 1000 de Miami. E assim como havia acontecido desde sua estreia no torneio, a norte-americana venceu mais uma vez em três sets, chegando a 12 disputados em 4 partidas no torneio. Gauff superou nesta terça-feira a suíça Belinda Bencic por 6/3, 1/6 e 6/3 em 2h15 de duração."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/paul-e-fils-confirmam-duelo-nas-quartas-tiafoe-desafia-sinner.html",
+        "title": "Paul e Fils confirmam duelo nas quartas, Tiafoe desafia Sinner",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/fils_miami_estica.jpg",
         "date": "24/03/2026",
         "description": "Miami (EUA) –O norte-americano Tommy Paul e o francês Arthur Fils venceram seus jogos nesta terça-feira e vão se enfrentar nas quartas de final do Masters 1000 de Miami. Paul levou a melhor no único duelo anterior, disputado em Xangai no ano de 2023. O reencontro será nesta quarta-feira às 21h30 (de Brasília)."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-24-03.html",
-        "title": "O dia dos brasileiros: veja os resultados desta terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/igor-marcondes-2026-1024x683.jpg",
+        "url": "https://tenisbrasil.uol.com.br/brasil-tem-mais-cinco-tenistas-confirmados-no-roland-garros-juniors-series.html",
+        "title": "Brasil tem mais cinco tenistas confirmados no Roland Garros Juniors Series",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/pietro_gava.jpg",
         "date": "24/03/2026",
-        "description": "WTA 1000 de Miami (EUA) – Sintético – US$ 9.415.725Duplas – Quartas de final –Veja a chave"
+        "description": "São Paulo (SP) –O Brasil terá mais cinco tenistas na disputa do Roland Garros Juniors Series, que acontecerá de 15 a 19 de abril, na Sociedade Harmonia de Tênis. Clara Coura, Eduarda Gomes, Pietro Gava, Henrique Vialle e Guilherme do Val foram contemplados com wild cards (convites) para o torneio."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/guto-perde-para-peruano-ex-top-60-na-estreia-sao-paulo.html",
+        "title": "Guto perde para peruano ex-top 60 na estreia em São Paulo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/Guto_Miguel_SP-1024x683.jpg",
+        "date": "24/03/2026",
+        "description": "São Paulo (SP)– Convidado da organização do LA Open, evento challenger 100 disputado em São Paulo, o jovem Guto Miguel teve chances na primeira parcial, mas acabou superado pelo peruano Juan Pablo Varillas por 2 sets a 0, com parciais de 7/5 e 6/0, após 1h17 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bruno-fernandez-e-mateus-alves-caem-na-estreia-de-challengers.html",
+        "title": "Bruno Fernandez e Mateus Alves caem na estreia de challengers",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/bruno_fernandez_slice.jpg",
+        "date": "24/03/2026",
+        "description": "Bucaramanga (Colômbia) –O catarinense Bruno Fernandez foi eliminado na estreia do challenger de Bucaramanga, em quadras de saibro na Colômbia. Fernandez, de 21 anos e 703º do ranking, perdeu por 7/6 (7-5) e 6/4 para o argentino Guido Ivan Justo, principal cabeça de chave e 280º colocado."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/sinner-reage-no-segundo-set-amplia-recorde-e-volta-as-quartas.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/muchova_miami_vibra_qf_acosta.jpg",
         "date": "24/03/2026",
         "description": "Miami (EUA) –Protagonistas da primeira final de WTA 1000 da temporada, em Doha, Karolina Muchova e Victoria Mboko voltaram a se enfrentar nesta terça-feira e a tcheca novamente levou a melhor. Muchova marcou as parciais de 7/5 e 7/6 (7-5) em 1h47 para garantir vaga na semifinal do WTA 1000 de Miami."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/felipe-meligeni-arrasa-em-sao-paulo-ribeiro-avanca.html",
-        "title": "Felipe Meligeni arrasa em São Paulo, Ribeiro avança",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/Felipe_Meligeni_SP-1024x683.jpg",
-        "date": "24/03/2026",
-        "description": "São Paulo (SP)– O campineiro Felipe Meligeni Alves não tomou conhecimento do quali Vitor Braga e estreou com grande vitória no LA Open, evento challenger 100 disputado em São Paulo. Em somente 53 minutos, ele marcou 2 sets a 0, com parciais de 6/1 e 6/0 para avançar nas quadras de saibro do Jockey Club."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/lehecka-bate-fritz-e-desafia-zebra-landaluce.html",
-        "title": "Lehecka bate Fritz e desafia “zebra” Landaluce",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/lehecka-miami-prepara-2026.jpeg",
-        "date": "24/03/2026",
-        "description": "Miami (EUA)– O tcheco Jiri Lehecka segue firme e deu mais um passo importante no Masters 1000 de Miami para garantir vaga nas quartas de final. Nesta terça-feira, ele levou a melhor sobre o norte-americano Taylor Fritz ao triunfar por 2 sets a 1, com parciais de 6/4, 6/7 (4-7) e 6/2, após 2h27 de batalha."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/carol-meligeni-vence-na-argentina-victoria-estreia-bem-no-chile.html",
-        "title": "Carol Meligeni vence na Argentina, Victória estreia bem no Chile",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/victoria_barros_bbowl_slice-1024x683.jpg",
-        "date": "24/03/2026",
-        "description": "Junín (Argentina) –A estreia de Carol Meligeni no ITF W35 de Junín, em quadras de saibro no Chile, foi com resultado positivo. A número 3 do Brasil e 257ª do mundo confirmou o favoritismo diante da convidada local de 20 anos Marina Bulbarella e marcou as parciais de 6/1 e 6/0."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/landaluce-salva-match-point-derruba-korda-e-vai-as-quartas.html",
-        "title": "Landaluce salva match-point, derruba Korda e vai às quartas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/miami-2026-landaluce-jueves-e1774383749673-1024x682.jpg",
-        "date": "24/03/2026",
-        "description": "Miami (EUA) –O jovem Martin Landaluce fez outra vítima no Masters 1000 de Miami. Após furar o qualificatório, o espanhol salvou match-point contra o norte-americano Sebastian Korda e garantiu vaga nas quartas de final, ao vencer por 2 sets a 1, com parciais de 2/6, 7/6 (8-6) e 6/4, em 2h28 de confronto."
     }
 ]
