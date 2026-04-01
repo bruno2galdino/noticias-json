@@ -1,9 +1,23 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/onze-juvenis-brasileiros-disputam-as-oitavas-em-assuncao.html",
+        "title": "Onze juvenis brasileiros disputam as oitavas em Assunção",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/duda_carbone_criciuma.jpg",
+        "date": "31/03/2026",
+        "description": "Assunção (Paraguai) –Onze juvenis brasileiros disputam as oitavas no ITF J200 de Assunção, em quadras de saibro. Ao fim da primeira rodada, a chave feminina tem sete jogadoras nacionais. Já no masculino, quatro brasileiros estão na segunda fase."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/michelsen-encerra-longo-jejum-no-saibro-tiafoe-e-tien-conhecem-rivais.html",
+        "title": "Michelsen encerra longo jejum no saibro, Tiafoe e Tien conhecem rivais",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/michelsen-houston-2026-tuesday-1024x576.jpg",
+        "date": "31/03/2026",
+        "description": "Houston (EUA) –O jovem norte-americano Alex Michelsen encerrou um longo jejum de vitórias no saibro e estreou com vitória no ATP 250 de Houston. Ele superou nesta terça-feira Coleman Wong, de Hong Kong, por 6/4 e 6/2."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/bencic-vence-em-tres-sets-na-estreia-e-ja-esta-nas-oitavas-em-charleston.html",
         "title": "Bencic vence em três sets na estreia e já está nas oitavas em Charleston",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/bencic_charleston_sorrindo.jpg",
-        "date": "31/03/2026",
+        "date": "01/04/2026",
         "description": "Charleston (EUA) –A estreia de Belinda Bencic no WTA 500 de Charleston foi com um jogo duro e vitória em três sets. A suíça precisou de 2h28 para superar a ucraniana Dayana Yastremska por 6/2, 6/7 (5-7) e 6/3."
     },
     {
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/mc-thu-3.jpg",
         "date": "31/03/2026",
         "description": "Monte Carlo (Mônaco)– A chave principal do Masters 1000 de Monte Carlo, disputado entre os dias 5 e 12 de abril, continua sofrendo com baixas inesperadas. Os espanhóis Alejandro Davidovich Fokina e Jaime Munar anunciaram que estão fora do primeiro grande evento da temporada europeia de saibro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/challenger-de-campinas-reforca-tradicao-nas-duplas-com-forte-presenca-brasileira.html",
-        "title": "Challenger de Campinas reforça tradição nas duplas com forte presença brasileira",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/zormann.jpg",
-        "date": "31/03/2026",
-        "description": "Campinas (SP) –A divulgação da lista oficial de duplas da Copa Internacional de Tênis de Campinas, ATP Challenger 75 que será disputado entre os dias 5 e 12 de abril, na Sociedade Hípica de Campinas, reforça um dos pontos fortes da edição de 2026: o alto nível técnico da chave e a presença marcante de brasileiros."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/baez-e-navone-garantem-boa-rodada-dos-argentinos-em-bucareste.html",
-        "title": "Baez e Navone garantem boa rodada dos argentinos em Bucareste",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/baez_bucareste_preaparasaque.jpg",
-        "date": "31/03/2026",
-        "description": "Bucareste (Romênia) –A rodada desta terça-feira no ATP 250 de Bucareste foi boa para os argentinos. Sebastian Baez e Mariano Navone confirmaram o favoritismo na rodada de estreia do torneio em quadras de saibro na Romênia."
     }
 ]
