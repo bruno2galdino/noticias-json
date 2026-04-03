@@ -1,7 +1,21 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/trungelliti-vai-as-semifinais-e-se-garante-como-top-100-mais-velho-da-atp.html",
-        "title": "Trungelliti vai às semifinais e se garante como top 100 mais velho da ATP",
+        "url": "https://tenisbrasil.uol.com.br/paulo-saraiva-alcanca-inedita-semi-de-challenger-e-salta-no-ranking.html",
+        "title": "Paulo Saraiva alcança inédita semi de challenger e salta no ranking",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/saraiva_fore_saoleo-1024x683.jpg",
+        "date": "03/04/2026",
+        "description": "São Leopolo (RS) –Pela primeira vez em sua carreira profissional, Paulo Saraiva disputará uma semifinal de challenger. Convidado para a chave principal do São Léo Open, o brasiliense e 25 anos e 588º do ranking venceu seu terceiro jogo seguido na semana e superou nesta sexta-feira o boliviano Murkel Dellien, 309º do mundo, por 6/4 e 6/2."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/jodar-conta-com-desistencia-e-disputa-sua-primeira-semifinal-de-atp.html",
+        "title": "Jodar conta com desistência e disputa sua primeira semifinal de ATP",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/jodar-marrakech-2026-friday-e1775240700276-1024x682.jpg",
+        "date": "03/04/2026",
+        "description": "Marrakech (Marrocos)– A semana não poderia estar sendo melhor para o espanhol Rafael Jodar, que na segunda-feiraestreou no top 100e agora vai disputar sua primeira semifinal de ATP no 250 de Marrakech. Ele garantiu sua vaga entre os quatro melhores ao contar com desistência do francês Alexandre Muller."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/trungelliti-vai-as-semifinais-e-se-garante-como-mais-velho-top-100.html",
+        "title": "Trungelliti vai às semifinais e se garante como mais velho top 100",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/marrakech-2026-miercoles-trungelliti-e1775066916173-1024x682.jpg",
         "date": "03/04/2026",
         "description": "Marrakech (Marrocos)– O argentino Marco Trungelliti está escrevendo uma das histórias mais marcantes da temporada ao chegar nas semifinais do ATP 250 de Marrakech. Com a campanha nesta semana, ele se tornará o mais velho a estrear no top 100 da ATP desde o começo da Era Aberta (1969)."
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/Champions_Trophy_-_WTA_Finals_Riyadh_2025_-_Day_8-DSC_1887_xgaplus.jpg",
         "date": "03/04/2026",
         "description": "Charleston (EUA)– Com tudo encaminhado para o WTA Finals mudar de lugar em 2027, uma vez que o contrato com a Arábia Sauditanão deve ser renovadono fim deste ano, inicia-se a especulação por novas sedes. Duas cidades saem na frente nesta disputa, a norte-americana Charlotte e a polonesa Gdansk."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bernardes-mantem-ligacao-com-o-tenis-e-planeja-livro-de-memorias.html",
-        "title": "Bernardes mantém ligação com o tênis e planeja livro de memórias",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/bermardes-laopen-2026-1024x683.jpg",
-        "date": "03/04/2026",
-        "description": "Felipe PrianteEspecial para TenisBrasil"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tien-brinca-com-estreia-em-houston-dobrei-minhas-vitorias-no-saibro-hoje.html",
-        "title": "Tien brinca com estreia em Houston: “Dobrei minhas vitórias no saibro hoje”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/Tien_HoustonClay_SP_20260402_273-1024x683.jpg",
-        "date": "03/04/2026",
-        "description": "Charleston (EUA)– Embora esteja beirando a estreia no top 20, ocupando atualmente a 22ª colocação no ranking, uma abaixo da melhor da carreira, o jovem norte-americano Learner Tien ainda tem muito a fazer no circuito, principalmente no saibro, piso no qual não detém um grande retrospecto em nível ATP."
     }
 ]
