@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado.html",
+        "title": "O dia dos brasileiros: veja os resultados deste sábado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/heide_brasilia_fore-1024x682.jpg",
+        "date": "04/04/2026",
+        "description": "Challenger de São Leopoldo (RS) – Saibro – US$ 107 milSemifinais –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/navone-salva-2-match-points-e-decide-bucareste-contra-merida.html",
+        "title": "Navone salva 2 match-points e decide Bucareste contra Merida",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/navone-bucharest-2026-saturday-e1775322871623-1024x682.jpg",
+        "date": "04/04/2026",
+        "description": "Bucareste (Romênia)– O argentino Mariano Navone lutou por 3h32 neste sábado para derrotar o holandês Botic van de Zandschulp na primeira semifinal do ATP 250 de Bucareste, salvando dois match-points na vitória de virada com parciais de 5/7, 7/6 (7-3) e 7/5 que o garantiu em sua terceira final da carreira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-faz-treino-de-jovens-com-kouame-em-monte-carlo.html",
+        "title": "Fonseca faz treino de jovens com Kouame em Monte Carlo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/fonseca_treina_bsas26.jpg",
+        "date": "04/04/2026",
+        "description": "Monte Carlo (Mônaco)– Em sua preparação para a estreia no Masters 1000 de Monte Carlo, neste sábado, o carioca João Fonseca teve um treino de jovens nas quadras do Monte-Carlo Country Club com o francês Moise Kouame, de apenas 17 anos."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/trungelliti-vence-e-se-torna-o-mais-velho-a-fazer-sua-primeira-final-de-atp.html",
         "title": "Trungelliti vence e se torna o mais velho a fazer sua primeira final de ATP",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/trungelliti-marrakech-2026-saturday-1-e1775318069346-1024x682.jpg",
@@ -12,13 +33,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/04/alcaraz-monte-carlo-2024-backhand-1024x576.jpg",
         "date": "04/04/2026",
         "description": "Monte Carlo (Mônaco)– Atual campeão do Masters 1000 de Monte Carlo, o espanhol Carlos Alcaraz desembarcou nesta sexta-feira no principado e neste sábado já fez o seu primeiro treino de adaptação nas quadras de saibro do Monte-Carlo Country Club, levando uma multidão de fãs para acompanhá-lo de perto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado.html",
-        "title": "O dia dos brasileiros: veja os resultados deste sábado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/saraiva_criciuma_rebate.jpg",
-        "date": "04/04/2026",
-        "description": "Challenger de São Leopoldo (RS) – Saibro – US$ 107 milSemifinais –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/tsitsipas-senti-que-goran-me-chutou-quando-eu-ja-estava-no-chao.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/tirante-houston-comemora-2026.jpg",
         "date": "04/04/2026",
         "description": "Houston (EUA)– Responsável pela eliminação do principal favorito ao título no ATP 250 de Houston,derrotando o tenista da casa Ben Sheltonnas quartas de final, o argentino Thiago Tirante comemorou bastante o triunfo que garantiu a segunda semifinal de ATP de sua carreira e também a segunda vitória sobre um top 10."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/kartal-tambem-desfalca-time-britanico-na-bjkc-contra-australia.html",
-        "title": "Kartal também desfalca time britânico na BJKC contra Austrália",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/kartal-pequim-2025-1024x683.jpg",
-        "date": "04/04/2026",
-        "description": "Londres (GBR) –Sonay Kartal é a mais nova baixa do time britânico para a disputa do qualificatório da Billie Jean King Cup diante da Austrália. O confronto será disputado no piso sintético em Melbourne, entre os dias 10 e 11 de abril, valendo vaga na fase final da competição entre nações do tênis feminino."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-precisa-pelo-menos-de-semifinal-para-superar-alcaraz-no-ranking.html",
-        "title": "Sinner precisa pelo menos de semifinal para superar Alcaraz no ranking",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/aEYT97h8WN-LV4Xf__JC28789JannikSinnerCarlosAlcarazFinalesimplemessieursRoland-Garros2025-scaled-e1749473190627-1024x683.jpeg",
-        "date": "04/04/2026",
-        "description": "Monte Carlo (Mônaco)– Após conquistar os títulos em Indian Wells e Miami, o italiano Jannik Sinner reduziu bastante a diferença para o espanhol Carlos Alcaraz no ranking e vai entrar no Masters 1000 de Monte Carlo podendo retomar a liderança."
     }
 ]
