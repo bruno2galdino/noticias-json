@@ -7,6 +7,20 @@
         "description": "Masters 1000 de Monte Carlo (Mônaco) – Saibro € 6.309.095Dulpas – Segunda rodada –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/baianos-vao-tentar-surpreender-os-astros-do-bt-400-de-feira-de-santana.html",
+        "title": "Baianos vão tentar surpreender os astros do BT 400 de Feira de Santana",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/augusto-cesar_murilo-valadares.jpg",
+        "date": "07/04/2026",
+        "description": "Feira de Santana (BA)– Duplas baianas vão buscar surpreender as estrelas do circuito mundial na disputa do Bahia Open – ITF BT 400 de Beach Tennis, que será realizado na Academia Smash, em Feira de Santana, entre os dias 14 e 18 deste mês. Esta será a terceira edição do evento. A premiação agora está maior e pagará no total US$ 45 mil distribuídos entre os atletas da chave principal masculina e feminina, sendo 400 pontos no ranking mundial para cada dupla campeã."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-busca-oitavas-as-7h30-zverev-e-medvedev-estreiam.html",
+        "title": "Fonseca busca oitavas às 7h30, Zverev e Medvedev estreiam",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/fonseca-feature.jpg",
+        "date": "07/04/2026",
+        "description": "Monte Carlo (Mônaco) –João Fonseca tenta dar mais um passo importante em sua carreira, ao buscar a fase de oitavas de final do Masters 1000 de Monte Carlo pela primeira vez. O carioca de 19 anos entra em ação nesta quarta-feira, por volta das 7h30, contra o francês Arthur Rinderknech."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/bublik-vence-em-sets-diretos-e-impoe-despedida-de-monfils-em-monaco.html",
         "title": "Bublik vence em sets diretos e impõe despedida de Monfils em Mônaco",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bublik-monte-carlo-2026-e1775573898374-1024x681.jpg",
@@ -16,7 +30,7 @@
     {
         "url": "https://tenisbrasil.uol.com.br/pegula-e-keys-brincam-sobre-treinos-de-iga-com-nadal-deveria-ser-ilegal.html",
         "title": "Pegula e Keys brincam sobre treinos de Iga com Nadal: “Deveria ser ilegal”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/iga_nadal_2026_rna-1024x685.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/nadal-iga-treino-20026-e1775575087385-1024x683.jpg",
         "date": "07/04/2026",
         "description": "Nova York (EUA)– Jessica Pegula e Madison Keys estavam em ação pelo WTA 500 de Charleston, enquanto Iga Swiatek treinava na Rafa Nadal Academy. Ao saberem da situação, as norte-americanas comentaram em tom descontraído os prós e contras de ser orientada pelo Rei do Saibro."
     },
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/mensik-33.jpg",
         "date": "07/04/2026",
         "description": "Monte Carlo (Mônaco)– O tcheco Jakub Mensik desistiu do Masters 1000 de Monte Carlo devido a uma lesão no dedão do pé direito e foi substituído na chave pelo bósnio Damir Dzumhur, que entrou na chave como lucky-loser."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-supera-estreia-em-monte-carlo-e-se-torna-o-1o-com-20-vitorias-no-ano.html",
-        "title": "Sinner supera estreia em Monte Carlo e se torna o 1º com 20 vitórias no ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/sinner-match-monte-carlo-2026.jpg",
-        "date": "07/04/2026",
-        "description": "Monte Carlo (Mônaco)– O italiano Jannik Sinner não teve dificuldade para superar a estreia no Masters 1000 de Monte Carlo, gastando apenas 64 minutos para derrotar o francês Ugo Humbert em sets diretos, com parciais de 6/3 e 6/0. Esta foi sua 20ª vitória na temporada, se tornando assim o primeiro a atingir tal marca em 2026."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-e-sinner-lideram-lista-de-roma-fonseca-e-confirmado.html",
-        "title": "Alcaraz e Sinner lideram lista de Roma, Fonseca é confirmado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/preview_20250518_Carlos_Alcaraz_Jannik_Sinner_GSP22714.jpg",
-        "date": "06/04/2026",
-        "description": "Roma (Itália) –A lista de inscritos para o Masters 1000 de Roma foi divulgada nesta segunda-feira pela ATP. O torneio acontecerá entre os dias 6 e 17 de maio, nas tradicionais quadras de saibro do Foro Itálico."
     }
 ]
