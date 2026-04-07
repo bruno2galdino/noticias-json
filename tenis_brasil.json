@@ -1,17 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-sinner-bublik-de-minaur-entre-os-destaques-do-dia-em-monaco-veja.html",
-        "title": "Alcaraz, Sinner, Bublik, De Minaur, Ruud nos destaques do dia em Mônaco. Veja.",
-        "image": null,
-        "date": "07/04/2026",
-        "description": ""
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-07-04.html",
         "title": "O dia dos brasileiros: veja os resultados desta terça",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bruno_fernandez_campinas_back-1024x683.jpg",
         "date": "07/04/2026",
         "description": "Masters 1000 de Monte Carlo (Mônaco) – Saibro € 6.309.095Dulpas – Segunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-sinner-bublik-de-minaur-entre-os-destaques-do-dia-em-monaco-veja.html",
+        "title": "Alcaraz, Sinner, Bublik, De Minaur, Ruud nos destaques do dia em Mônaco. Veja.",
+        "image": null,
+        "date": "07/04/2026",
+        "description": ""
     },
     {
         "url": "https://tenisbrasil.uol.com.br/pigossi-pedretti-e-bohrer-disputam-torneios-da-itf-no-saibro.html",
@@ -42,6 +42,13 @@
         "description": "Monte Carlo (Mônaco) –Apesar de ser conhecido pela potência nos golpes, Andrey Rublev condiciona seus bons resultados no saibro às características exigentes da superfície. O russo sofreu com dores na estreia do Masters 1000 de Monte Carlo contra o português Nuno Borges, mas garante estar 100% paraenfrentar o belga Zizou Bergspela segunda rodada, nesta quarta-feira."
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/monte-carlo-homenageia-monfils-obrigado-gael-parabens-e-boa-sorte.html",
+        "title": "Monte Carlo homenageia Monfils: “Obrigado, Gael. Parabéns e boa sorte”",
+        "image": null,
+        "date": "07/04/2026",
+        "description": ""
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/tagger-de-18-anos-elimina-badosa-em-boa-rodada-das-jovens-em-linz.html",
         "title": "Tagger, de 18 anos, elimina Badosa em boa rodada das jovens em Linz",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/tagger_linz_fore.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/sinner-monte-carlo-2026-results-stats-records-e1775584297199-1024x682.jpg",
         "date": "07/04/2026",
         "description": "Monte Carlo (Mônaco) –Jannik Sinner estreou com excelente vitória no Masters 1000 de Monte Carlo, ao derrotar o francês Ugo Humbert cedendo apenas três games. Porém, antes de iniciar sua participação no saibro monegasco, o italiano afirmou que trocaria um eventual título por uma vaga para a seleção de seu país na Copa do Mundo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/svitolina-faz-treinamento-para-veteranos-da-guerra-na-ucrania-em-reabilitacao.html",
-        "title": "Svitolina faz treinamento para veteranos da guerra na Ucrânia em reabilitação",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/svitolina_militares-ucranianos-1024x629.jpg",
-        "date": "07/04/2026",
-        "description": "Lviv (Ucrânia)– Elina Svitolina realizou um treinamento aberto com veteranos em reabilitação no ecossistema Unbroken Ukraine nas quadras do Uni Force Tennis Clube em Lviv."
     }
 ]
