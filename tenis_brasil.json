@@ -1,10 +1,45 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/arevalo-e-pavic-enfrentam-alemaes-na-final-de-duplas-em-monte-carlo.html",
+        "title": "Arevalo e Pavic enfrentam alemães na final de duplas em Monte Carlo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/arevalo_pavic_mc_rebatem.jpg",
+        "date": "11/04/2026",
+        "description": "Monte Carlo (Mônaco) –Os finalistas de duplas do Masters 1000 de Monte Carlo foram definidos neste sábado. O salvadorenho Marcelo Arevalo e o croata Mate Pavic enfrentam os alemães Kevin Krawietz e Tim Puetz a partir das 7h (de Brasília) no domingo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/kostyuk-e-cirstea-lideram-o-wta-250-de-rouen-no-saibro-frances.html",
+        "title": "Kostyuk e Cirstea lideram o WTA 250 de Rouen, no saibro francês",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/cirstea_cluj_slice.jpg",
+        "date": "11/04/2026",
+        "description": "Rouen (França) –A ucraniana Marta Kostyuk e a romena Sorana Cirstea são as principais cabeças de chave do WTA 250 de Rouen, torneio disputado no saibro e em quadras cobertas."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-11-04.html",
         "title": "O dia dos brasileiros: veja os resultados deste sábado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/nana_bjk26_olhabola-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/ce_bjk_slice-1024x683.jpg",
         "date": "11/04/2026",
         "description": "Billie Jean King Cup, em Ibagué (Colômbia) – Saibro –Veja a chaveGrupo 1 Américas: Brasil 1×0 México"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/heide-vence-duelo-nacional-com-boscardin-e-vai-a-final-em-campinas.html",
+        "title": "Heide vence duelo nacional com Boscardin e vai à final em Campinas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/heide_campinas_vibra_semi-1024x683.jpg",
+        "date": "11/04/2026",
+        "description": "Campinas (SP) –No encontro entre dois brasileiros, o paulista Gustavo Heide venceu o catarinense Pedro Boscardin por 7/6 (7-1) e 6/2 para chegar à final da Copa Internacional de Tênis, torneio challenger disputado nas quadras de saibro da Hípica de Campinas."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/andreeva-e-potapova-disputam-o-titulo-no-saibro-de-linz.html",
+        "title": "Andreeva e Potapova disputam o título no saibro de Linz",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/andreeva_linz_fore_semi.jpg",
+        "date": "11/04/2026",
+        "description": "Linz (Áustria) –A russa Mirra Andreeva e a austríaca Anastasia Potapova vão decidir o título do WTA 500 de Linz, em quadras de saibro e estádio coberto. A decisão acontece neste domingo, às 9h (de Brasília). Andreeva lidera o histórico de confrontos por 2 a1 e venceu o duelo mais recente no US Open do ano passado."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/nana-vence-com-tranquilidade-e-brasil-faz-1-a-0-contra-o-mexico.html",
+        "title": "Naná vence com tranquilidade e Brasil faz 1 a 0 contra o México",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/nana_bjk_vibra_rede-1024x683.jpg",
+        "date": "11/04/2026",
+        "description": "Ibagué (Colômbia) –O Brasil saiu na frente no confronto contra o México pela Billie Jean King Cup, valendo vaga no playoff mundial da competição que será disputado em novembro. A jovem paulista Nauhany Silva, de apenas 16 anos e 658ª do ranking, marcou as parciais de 6/1 e 6/0 contra Jessica Hinojosa Gomez, 660ª colocada, em apenas 56 minutos."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-e-sinner-protagonizam-a-nona-final-e-disputam-o-no-1.html",
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/gauff_stuttgart_treino_sorindo-1024x644.jpg",
         "date": "11/04/2026",
         "description": "Stuttgart (Alemanha) –Com chaves tradicionalmente muito fortes, o WTA 500 de Stuttgart terá seis top 10 em quadra na próxima semana, incluindo as números 2, 3 e 4 do ranking: Elena Rybakina, Coco Gauff e Iga Swiatek. A competição é disputada no saibro e em estádio coberto e ainda premia a campeã com um carro esportivo da Porsche."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/britanicas-batem-a-australia-fora-de-casa-italia-ucrania-e-espanha-avancam.html",
-        "title": "Britânicas batem a Austrália fora de casa, Itália, Ucrânia e Espanha avançam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/gb_bjk_comemoram.jpg",
-        "date": "11/04/2026",
-        "description": "Melbourne (Austrália) –Mesmo jogando fora de casa, a equipe britânica da Billie Jean King Cup venceu a Austrália na John Cain Arena, em Melbourne, e garantiu a classificação para a fase final da competição, que será disputada na China entre os dias 22 e 27 de setembro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-musetti-e-de-minaur-lideram-a-chave-em-barcelona.html",
-        "title": "Alcaraz, Musetti e De Minaur lideram a chave em Barcelona",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/musetti_rg_back_saibro-1024x627.jpg",
-        "date": "11/04/2026",
-        "description": "Barcelona (Espanha) –Líder do ranking mundial, Carlos Alcaraz tenta retomar seu domínio no ATP 500 de Barcelona. O espanhol venceu as edições de 2022 e 2023, mas perdeu a final do ano passado para o dinamarquês Holger Rune."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-vence-a-8a-seguida-contra-zverev-e-vai-a-final-em-monte-carlo.html",
-        "title": "Sinner vence a 8ª seguida contra Zverev e vai à final em Monte Carlo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/sinner-monte-carlo-2026-sf-1024x576.jpg",
-        "date": "11/04/2026",
-        "description": "Monte Carlo (Mônaco) –Pela oitava vez seguida e a terceira na temporada, Jannik Sinner venceu Alexander Zverev e garantiu vaga na final do Masters 1000 de Monte Carlo, repetindo o que havia acontecido nas semis de Indian Wells e Miami. O italiano marcou as parciais de 6/1 e 6/4 em 1h21 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/itf-corrige-classificacao-de-grupo-e-brasil-enfrenta-o-mexico.html",
-        "title": "ITF corrige classificação de grupo e Brasil enfrenta o México",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bjk_brasil_ibague26_cut-1024x733.jpg",
-        "date": "11/04/2026",
-        "description": "Ibagué (Colômbia) –A Federação Internacional de Tênis (ITF) anunciou na manhã deste sábado uma correção na tabela do Grupo B do Zonal Americano 1 da Billie Jean King Cup. O Equador ficou na primeira posição da chave, seguido pelo México, o que altera as adversárias do Brasil."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-vai-reencontrar-tabilo-na-primeira-rodada-em-munique.html",
-        "title": "Fonseca vai reencontrar Tabilo na primeira rodada em Munique",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/fonseca-monte-carlo-slice-2026.jpg",
-        "date": "11/04/2026",
-        "description": "Munique (Alemanha) –Depois de fazer sua melhor campanha em Masters 1000 na carreira e chegar às quartas de final em Monte Carlo, João Fonseca segue para o ATP 500 de Munique, em seu segundo compromisso no saibro europeu."
     }
 ]
