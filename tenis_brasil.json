@@ -7,8 +7,22 @@
         "description": "WTA 125 de Oeiras (Portugal) – Saibro – 195.652 eurosSegunda rodada –Veja a chave"
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/musetti-e-fills-avancam-em-barcelona-e-duelam-nas-quartas-de-final.html",
-        "title": "Musetti e Fills avançam em Barcelona e duelam nas quartas de final",
+        "url": "https://tenisbrasil.uol.com.br/marchezini-e-chow-estreiam-como-dupla-no-1-do-mundo-no-sand-series-de-brasilia.html",
+        "title": "Marchezini e Chow estreiam como dupla nº 1 do mundo no Sand Series de Brasília",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/chow_marchezini_brasilia2.jpg",
+        "date": "16/04/2026",
+        "description": "Brasília (DF) –Após duas semanas afastadas do circuito, Sophia Chow e Vitória Marchezini voltam às quadras como novas líderes do ranking mundial no ITF Sand Series Brasília Classic, que será disputado entre os dias 20 e 26 de abril, na Arena BRB. O evento é um dos mais importantes do circuito mundial de beach tennis da Federação Internacional de Tênis (ITF)."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cirstea-avanca-com-desistencia-jovem-ucraniana-surpeende-e-faz-quartas.html",
+        "title": "Cirstea avança com desistência, jovem ucraniana surpeende e faz quartas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/podrez_rouen_back-1024x653.jpg",
+        "date": "16/04/2026",
+        "description": "Rouen (França) –Vinda de umaestreia duríssima no WTA 250 de Rouen, definida apenas no tiebreak do terceiro set, Sorana Cirstea ficou em quadra por apenas 43 minutos nesta quinta-feira. A romena liderava o primeiro set contra a chinesa Xinyu Wang, 32ª do ranking, quando a adversária se retirou por lesão na coxa esquerda."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/musetti-e-fils-avancam-em-barcelona-e-duelam-nas-quartas-de-final.html",
+        "title": "Musetti e Fils avançam em Barcelona e duelam nas quartas de final",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/musetti-barcelona-olhabola-2026-.jpg",
         "date": "16/04/2026",
         "description": "Barcelona (Espanha)– Fechando a rodada desta quinta-feira no ATP 500 de Barcelona, o italiano Lorenzo Musetti e o francês Arthur Fils fizeram valer o favoritismo em suas partidas e garantiram um lugar nas quartas de final do torneio catalão, em que medirão forças um contra o outro."
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/Elena_Rybakina_-_Porsche_Tennis_Grand_Prix_2026_-_Day_4-DSC_0037_xgaplus.jpg",
         "date": "16/04/2026",
         "description": "Stuttgart (Alemanha) –Principal favorita do WTA 500 de Stuttgart, a cazaque Elena Rybakina não perdeu tempo em sua primeira partida válida pela temporada europeia de saibro. A número 2 do mundo despachou a alemã Diana Shnaider em sets diretos, parciais de 6/3 e 6/4, em apenas 72 minutos de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/com-pontos-na-wta-e-melhor-ranking-juvenil-carbone-e-coura-sonham-com-rg.html",
-        "title": "Com pontos na WTA e melhor ranking juvenil, Carbone e Coura sonham com RG",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2027/04/arte_ps_coura_rgjr.png",
-        "date": "16/04/2026",
-        "description": "A novíssima geração do tênis feminino brasileiro tem se destacado nas últimas semanas do circuito mundial juvenil. As catarinenses Maria Eduarda Carbone, de 15 anos, e Clara Coura, de apenas 14, disputaram finais na categoria de 18 anos da ITF e atingiram os melhores rankings de suas carreiras. Elas também já conseguiram os primeiros pontos na WTA e disputam nesta semana o Roland Garros Junior Series, em busca de uma inédita vaga em Grand Slam. Ambas estrearam bem na competição."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/melo-e-zverev-nao-passam-da-estreia-nas-duplas-de-munique.html",
-        "title": "Melo e Zverev não passam da estreia nas duplas de Munique",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/semifinal_duplas_021-1024x681.jpg",
-        "date": "16/04/2026",
-        "description": "Munique (Alemanha)– Campeões em Acapulco em fevereiro, a parceria entre o mineiro Marcelo Melo e o alemão Alexander Zverev não deu sequência às boas atuações."
     }
 ]
