@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/a-caminho-de-madri-nana-ja-e-exemplo-para-as-mais-novas.html",
+        "title": "A caminho de Madri, Naná já é exemplo para as mais novas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/nana_bjk_treina-1024x683.jpg",
+        "date": "16/04/2026",
+        "description": "Mário Sérgio CruzDe São Paulo, especial para TenisBrasil"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-16-04.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/mateus_alves_back_sanluis.jpg",
+        "date": "16/04/2026",
+        "description": "WTA 125 de Oeiras (Portugal) – Saibro – 195.652 eurosSegunda rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/wild-controla-duelo-nacional-com-guto-e-faz-quartas-na-bolivia.html",
         "title": "Wild controla duelo nacional com Guto e faz quartas na Bolívia",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/wild_itajai_quartas.jpg",
         "date": "16/04/2026",
-        "description": "Santa Cruz (Bolívia) –No encontro entre dois jogadores brasileros, Thiago Wild levou a melhor sobre Guto Miguel e garantiu vaga nas quartas de final do challenger de Santa Cruz, em quadras de saibro na Bolívia. O paranaense marcou as parciais de 6/0 e 6/3 em 1h16 de partida."
+        "description": "Santa Cruz (Bolívia) –No encontro entre dois jogadores brasileiros, Thiago Wild levou a melhor sobre Guto Miguel e garantiu vaga nas quartas de final do challenger de Santa Cruz, em quadras de saibro na Bolívia. O paranaense marcou as parciais de 6/0 e 6/3 em 1h16 de partida."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-15-04.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bia_oeiras_toss-1024x682.jpeg",
         "date": "15/04/2026",
         "description": "Oeiras (Portugal) –Depois de vencer sua partida de estreia no WTA 125 de Oeiras na última terça-feira, Beatriz Haddad Maia volta à quadra na manhã desta quinta. A número 1 do Brasil e 69ª do mundo enfrenta a polonesa Maja Chwalinska, 129ª colocada, a partir das 9h (de Brasília). Osite da WTA transmiteas competições da série 125."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ex-numero-1-nas-duplas-jamie-murray-anuncia-aposentadoria.html",
-        "title": "Ex-número 1 nas duplas, Jamie Murray anuncia aposentadoria",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/02/Snapinsta.app_395180357_18361463902073483_3841449055461515818_n_1080.jpg",
-        "date": "15/04/2026",
-        "description": "Londres (GBR) –Jamie Murray comunicou que está oficialmente aposentado do circuito profissional. Primeiro britânico a atingir o topo do ranking nas duplas, ele conquistou ao todo 34 títulos e jogou com diversos parceiros ao longo de sua longeva carreira, com destaque para o mineiro Bruno Soares."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fullana-e-candiotto-estreiam-com-vitoria-no-itf-de-orlando.html",
-        "title": "Fullana e Candiotto estreiam com vitória no ITF de Orlando",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/fullana_rcl_fore25.jpg",
-        "date": "15/04/2026",
-        "description": "Orlando (EUA) –Em rodada com três brasileiras, a brasiliense Luiza Fullana e a paulista Ana Candiotto venceram suas partidas de estreia no ITF W15 de Orlando, em quadras de saibro nos Estados Unidos."
     }
 ]
