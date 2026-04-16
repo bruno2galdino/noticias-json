@@ -1,19 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/melo-e-zverev-nao-passam-da-estreia-nas-duplas-de-munique.html",
-        "title": "Melo e Zverev não passam da estreia nas duplas de Munique",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/semifinal_duplas_021-1024x681.jpg",
-        "date": "16/04/2026",
-        "description": "Munique (Alemanha)– Campeões em Acapulco em fevereiro, a parceria entre o mineiro Marcelo Melo e o alemão Alexander Zverev não deu sequência às boas atuações."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-enfrenta-o-6o-do-mundo-as-9h-desta-sexta-feira.html",
-        "title": "Fonseca enfrenta o 6º do mundo às 9h desta sexta-feira",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/fonseca-2061--1024x683.jpg",
-        "date": "16/04/2026",
-        "description": "Munique (Alemanha)– Em busca de sua segunda vitória sobre um tenista de nível top 10, o carioca João Fonseca volta à quadra principal do ATP 500 de Munique por volta das 9 horas desta sexta-feira, tendo pela frente o canhoto e sexto do mundo Ben Shelton."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-16-04.html",
         "title": "O dia dos brasileiros: veja os resultados desta quinta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/mateus_alves_back_sanluis.jpg",
@@ -21,52 +7,66 @@
         "description": "WTA 125 de Oeiras (Portugal) – Saibro – 195.652 eurosSegunda rodada –Veja a chave"
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/andreeva-vence-6a-seguida-e-desafia-iga-nas-quartas-em-stuttgart.html",
-        "title": "Andreeva vence 6ª seguida e desafia Iga nas quartas em Stuttgart",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/andreeva_stuttgart_saque-1024x608.jpg",
+        "url": "https://tenisbrasil.uol.com.br/musetti-e-fills-avancam-em-barcelona-e-duelam-nas-quartas-de-final.html",
+        "title": "Musetti e Fills avançam em Barcelona e duelam nas quartas de final",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/musetti-barcelona-olhabola-2026-.jpg",
         "date": "16/04/2026",
-        "description": "Stuttgart (Alemanha) –A russa Mirra Andreeva segue em grande forma no início da temporada europeia de saibro e já está nas quartas de final do WTA 500 de Stuttgart. Nesta quinta-feira, ela derrotou a qualificada norte-americana Alycia Parks por 2 sets a 0, parciais de 7/6 (7-3) e 6/3, em 1h38 de partida."
+        "description": "Barcelona (Espanha)– Fechando a rodada desta quinta-feira no ATP 500 de Barcelona, o italiano Lorenzo Musetti e o francês Arthur Fils fizeram valer o favoritismo em suas partidas e garantiram um lugar nas quartas de final do torneio catalão, em que medirão forças um contra o outro."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/em-bom-dia-pigossi-vai-as-quartas-de-simples-e-semi-de-duplas-no-burundi.html",
-        "title": "Em bom dia, Pigossi vai às quartas de simples e semi de duplas no Burundi",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/pigossi_bogota_saque_cut.jpg",
+        "url": "https://tenisbrasil.uol.com.br/monfils-anuncia-festa-beneficente-em-despedida-de-roland-garros.html",
+        "title": "Monfils anuncia festa beneficente em despedida de Roland Garros",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/roland_garros_monfils_festa.jpg",
         "date": "16/04/2026",
-        "description": "Bujumbura (Burundi)– A paulista Laura Pigossi viveu um dia de vitórias no saibro de Burundi. Cabeça de chave número 2 da chave de simples no W50 de Bujumbura, ela se garantiu nas quartas de final ao bater a holandesa Demi Tran, por 6/3 e 6/4. Pouco depois, voltou à quadra e avançou à semi de duplas."
+        "description": "Paris (França) –Gael Monfils promoverá uma celebração especial antes de competir pela última vez em Roland Garros. O francês recebeu “carta branca” da organização e terá uma noite especial no dia 21 de maio, na quadra Philippe-Chatrier. A festa terá a renda destinada a entidades beneficentes."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/rublev-busca-semi-inedita-em-barcelona-contra-machac.html",
-        "title": "Rublev busca semi inédita em Barcelona contra Machac",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/rublev_barcelona_forehand-1024x683.jpg",
+        "url": "https://tenisbrasil.uol.com.br/gauff-reage-na-estreia-e-enfrenta-muchova-nas-quartas-em-stuttgart.html",
+        "title": "Gauff reage na estreia e enfrenta Muchova nas quartas em Stuttgart",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/gauff_stuttgart_fore-1024x608.jpg",
         "date": "16/04/2026",
-        "description": "Barcelona (Espanha) –O russo Andrey Rublev anotou outra boa vitória no saibro do ATP 500 de Barcelona e garantiu vaga na fase de quartas de final. Desta vez, o cabeça de chave 5 levou a melhor sobre o italiano Lorenzo Sonego, ao triunfar por tranquilos 2 sets a 0, com parciais de 6/2 e 6/3, em 1h43 de partida."
+        "description": "Stuttgart (Alemanha) –Atual campeã de Roland Garros, Coco Gauff iniciou a temporada de saibro com vitória no WTA 500 de Stuttgart. Em busca de um título inédito no torneio alemão em quadras cobertas, a número 3 do mundo derrotou a russa Liudmila Samsonova, 21ª do ranking, por 7/5 e 6/1 em 1h36 de partida."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/favoritos-vencem-na-estreia-do-bt-400-em-feira-de-santana-e-vao-as-oitavas.html",
-        "title": "Favoritos vencem na estreia do BT 400 em Feira de Santana e vão às oitavas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/baran_cappelletti_feira.jpg",
+        "url": "https://tenisbrasil.uol.com.br/cobolli-afirma-que-resultados-de-sinner-tiram-pressao-dos-italianos.html",
+        "title": "Cobolli afirma que resultados de Sinner tiram pressão dos italianos",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/cobolli-munique-vibra-2026-1024x683.jpg",
         "date": "16/04/2026",
-        "description": "Feira de Santana (BA)– As principais duplas avançaram, nesta quarta-feira, às oitavas de final da chave principal do Bahia Open – ITF BT 400 de Beach Tennis, na Academia Smash, em Feira de Santana."
+        "description": "Munique (Alemanha)– Um dos quadrifinalistas no ATP 500 de Munique, o italiano Flavio Cobolli teve a quinta-feira de descanso e só voltará a jogar na sexta, quando enfrentará o tcheco Vit Kopriva. Em entrevista aoEurosport, ele falou sobre o grande momento do tênis em seu país e destacou a importância de Jannik Sinner."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/bia-nao-embala-comete-muitos-erros-e-cai-na-segunda-rodada-em-oeiras.html",
-        "title": "Bia não embala, comete muitos erros e cai na segunda rodada em Oeiras",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bia-oeiras-bolhinhas-2026-1024x682.jpeg",
+        "url": "https://tenisbrasil.uol.com.br/praticantes-de-tenis-vivem-quase-10-anos-mais-que-os-sedentarios-veja-os-motivos.html",
+        "title": "Praticantes de tênis vivem quase 10 anos mais que os sedentários. Veja os motivos.",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/jogador-raquete-tenis-e1766148754187-1024x683.jpg",
         "date": "16/04/2026",
-        "description": "Oeiras (Portugal)– Ainda não foi desta vez que Beatriz Haddad Maia conseguiu reagir na temporada. A número 1 brasileira acabou derrotada do duelo de canhotas diante da polonesa Maja Chwalinska, 129ª colocada, por 6/0 e 6/4, na segunda rodada do WTA 125 sobre o saibro português."
+        "description": "Copenhague (Dinamarca) –Pessoas que praticam tênis vivem 9,7 anos a mais do que as sedentárias, quase uma década a mais. Estudo cardíaco feito em Copenhague acompanhou 8.577 pessoas por 25 anos e classificou cada esporte de acordo com o quanto ele acrescenta de vida: badminton: 6,2 anos; futebol: 4,7; ciclismo: 3,7; natação: 3,4; corrida: 3,2. O tênis quase triplica a duração da corrida."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/zverev-vence-e-reencontra-cerundolo-nas-quartas-em-munique.html",
-        "title": "Zverev vence e reencontra Cerúndolo nas quartas em Munique",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/zverev-munich-2026-tuesday-e1776187555471-1024x682.jpg",
+        "url": "https://tenisbrasil.uol.com.br/matos-e-orlandinho-celebram-atuacao-solida-e-vaga-nas-semifinais.html",
+        "title": "Matos e Orlandinho celebram atuação sólida e vaga nas semifinais",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/rafamatosorlandoluzhouston263gd-1024x683.jpeg",
         "date": "16/04/2026",
-        "description": "Munique (Alemanha) –Alexander Zverev deu mais um passo rumo ao tetracampeonato no saibro do ATP 500 de Munique. Nesta quinta-feira, o alemão confirmou o bom momento e derrotou o canadense Gabriel Diallo por 2 sets a 0, com parciais de 6/1 e 6/2, em 1h14 de partida."
+        "description": "Munique (Alemanha)– Os gaúchos Orlando Luz e Rafael Matos seguem em uma ótima temporada e, nesta quinta-feira, atingiram vaga nas semifinais do ATP 500 de Munique, na Alemanha, evento jogado no piso de saibro com premiação de 2,5 milhões de euros."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/becker-quando-tsitsipas-vai-perceber-que-algumas-coisas-precisam-mudar.html",
-        "title": "Becker: “Quando Tsitsipas vai perceber que algumas coisas precisam mudar?”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/tsitsipas-fore-munique-2026-e1776346987865-1024x681.jpg",
+        "url": "https://tenisbrasil.uol.com.br/rybakina-saca-muito-e-vence-rapido-na-estreia-em-stuttgart.html",
+        "title": "Rybakina saca muito e vence rápido na estreia em Stuttgart",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/Elena_Rybakina_-_Porsche_Tennis_Grand_Prix_2026_-_Day_4-DSC_0037_xgaplus.jpg",
         "date": "16/04/2026",
-        "description": "Munique (Alemanha)– Longe de seus melhores momentos no circuito, o grego Stefanos Tsitsipas foi eliminadologo na estreia no ATP 500 de Muniquee por isso irá cair um pouco mais no ranking. Reagindo a isso, o alemão Boris Becker se pronunciou nas redes sociais."
+        "description": "Stuttgart (Alemanha) –Principal favorita do WTA 500 de Stuttgart, a cazaque Elena Rybakina não perdeu tempo em sua primeira partida válida pela temporada europeia de saibro. A número 2 do mundo despachou a alemã Diana Shnaider em sets diretos, parciais de 6/3 e 6/4, em apenas 72 minutos de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/com-pontos-na-wta-e-melhor-ranking-juvenil-carbone-e-coura-sonham-com-rg.html",
+        "title": "Com pontos na WTA e melhor ranking juvenil, Carbone e Coura sonham com RG",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2027/04/arte_ps_coura_rgjr.png",
+        "date": "16/04/2026",
+        "description": "A novíssima geração do tênis feminino brasileiro tem se destacado nas últimas semanas do circuito mundial juvenil. As catarinenses Maria Eduarda Carbone, de 15 anos, e Clara Coura, de apenas 14, disputaram finais na categoria de 18 anos da ITF e atingiram os melhores rankings de suas carreiras. Elas também já conseguiram os primeiros pontos na WTA e disputam nesta semana o Roland Garros Junior Series, em busca de uma inédita vaga em Grand Slam. Ambas estrearam bem na competição."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/melo-e-zverev-nao-passam-da-estreia-nas-duplas-de-munique.html",
+        "title": "Melo e Zverev não passam da estreia nas duplas de Munique",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/semifinal_duplas_021-1024x681.jpg",
+        "date": "16/04/2026",
+        "description": "Munique (Alemanha)– Campeões em Acapulco em fevereiro, a parceria entre o mineiro Marcelo Melo e o alemão Alexander Zverev não deu sequência às boas atuações."
     }
 ]
