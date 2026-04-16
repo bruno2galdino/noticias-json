@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/a-caminho-de-madri-nana-ja-e-exemplo-para-as-mais-novas.html",
-        "title": "A caminho de Madri, Naná já é exemplo para as mais novas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/nana_bjk_treina-1024x683.jpg",
-        "date": "16/04/2026",
-        "description": "Mário Sérgio CruzDe São Paulo, especial para TenisBrasil"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-16-04.html",
         "title": "O dia dos brasileiros: veja os resultados desta quinta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/mateus_alves_back_sanluis.jpg",
@@ -14,59 +7,66 @@
         "description": "WTA 125 de Oeiras (Portugal) – Saibro – 195.652 eurosSegunda rodada –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/bia-nao-embala-comete-muitos-erros-e-cai-na-segunda-rodada-em-oeiras.html",
+        "title": "Bia não embala, comete muitos erros e cai na segunda rodada em Oeiras",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bia-oeiras-back-2026-1024x683.jpg",
+        "date": "16/04/2026",
+        "description": "Oeiras (Portugal)– Ainda não foi desta vez que Beatriz Haddad Maia conseguiu reagir na temporada. A número 1 brasileira acabou derrotada do duelo de canhotas diante da polonesa Maja Chwalinska, 129ª colocada, por 6/0 e 6/4, na segunda rodada do WTA 125 sobre o saibro português."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/zverev-vence-e-reencontra-cerundolo-nas-quartas-em-munique.html",
+        "title": "Zverev vence e reencontra Cerúndolo nas quartas em Munique",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/zverev-munich-2026-tuesday-e1776187555471-1024x682.jpg",
+        "date": "16/04/2026",
+        "description": "Munique (Alemanha) –Alexander Zverev deu mais um passo rumo ao tetracampeonato no saibro do ATP 500 de Munique. Nesta quinta-feira, o alemão confirmou o bom momento e derrotou o canadense Gabriel Diallo por 2 sets a 0, com parciais de 6/1 e 6/2, em 1h14 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/becker-quando-tsitsipas-vai-perceber-que-algumas-coisas-precisam-mudar.html",
+        "title": "Becker: “Quando Tsitsipas vai perceber que algumas coisas precisam mudar?”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/tsitsipas-fore-munique-2026-e1776346987865-1024x681.jpg",
+        "date": "16/04/2026",
+        "description": "Munique (Alemanha)– Longe de seus melhores momentos no circuito, o grego Stefanos Tsitsipas foi eliminadologo na estreia no ATP 500 de Muniquee por isso irá cair um pouco mais no ranking. Reagindo a isso, o alemão Boris Becker se pronunciou nas redes sociais."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/orlandinho-e-matos-vencem-mais-uma-e-estao-na-semi-em-munique.html",
+        "title": "Orlandinho e Matos vencem mais uma e estão na semi em Munique",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/IMG-20260404-WA0010-1024x682.jpg",
+        "date": "16/04/2026",
+        "description": "Munique (Alemanha)– A grande temporada dos gaúchos Orlando Luz e Rafael Matos segue firme no ATP 500 de Munique, onde estão já nas semifinais. Eles se classificaram nesta quinta-feira ao bater o britânico Luke Johnson e o polonês Jan Zielinski em sets diretos, marcando duplo 6/4 em 1h13 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/roland-garros-aumenta-premiacao-e-vai-dar-mais-de-61-milhoes-de-euros.html",
+        "title": "Roland Garros aumenta premiação e vai dar mais de 61 milhões de euros",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/gauff-trofeu-rg-2025-1024x683.jpeg",
+        "date": "16/04/2026",
+        "description": "Paris (França)– A premiação total de Roland Garros deste ano chega a 61.723 milhões de euros, um aumento de 9,53% em comparação com o ano passado. O torneio também decidiu continuar apoiando as rodadas qualificatórias, para ajudar os jogadores que mais precisam a financiar sua temporada e manter sua estrutura."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bautista-anuncia-sua-aposentadoria-do-tenis-profissional-aos-38-anos.html",
+        "title": "Bautista anuncia sua aposentadoria do tênis profissional aos 38 anos",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/GpO5cEzX0AAQzak-1024x664.jpg",
+        "date": "16/04/2026",
+        "description": "Castellón (Espanha)– O espanhol Roberto Bautista anunciou nesta quinta-feira, em um comunicado divulgado em suas redes sociais, que encerrará sua longa e vitoriosa carreira no circuito ATP ao final desta temporada, após duas décadas no topo do tênis profissional."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/zverev-reclama-de-cameras-e-diz-que-ira-precisar-trocar-senha-do-celular.html",
+        "title": "Zverev reclama de câmeras e diz que irá precisar trocar senha do celular",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/zverev-munique-2026-e1776169863152-1024x685.jpg",
+        "date": "16/04/2026",
+        "description": "Munique (Alemanha)– Principal atração da semana e em busca do tetracampeonato, o alemão Alexander Zverev lamentou que sua privacidade tenha sido violada no fim da partida disputada na terça-feira contra o sérvio Miomir Kecmanovic."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/a-caminho-de-madri-nana-ja-e-exemplo-para-as-mais-novas.html",
+        "title": "A caminho de Madri, Naná já é exemplo para as mais novas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/nana_bjk_treina-1024x683.jpg",
+        "date": "16/04/2026",
+        "description": "Mário Sérgio CruzDe São Paulo, especial para TenisBrasil"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/wild-controla-duelo-nacional-com-guto-e-faz-quartas-na-bolivia.html",
         "title": "Wild controla duelo nacional com Guto e faz quartas na Bolívia",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/wild_itajai_quartas.jpg",
         "date": "16/04/2026",
         "description": "Santa Cruz (Bolívia) –No encontro entre dois jogadores brasileiros, Thiago Wild levou a melhor sobre Guto Miguel e garantiu vaga nas quartas de final do challenger de Santa Cruz, em quadras de saibro na Bolívia. O paranaense marcou as parciais de 6/0 e 6/3 em 1h16 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-15-04.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/thaisa_pedretti_rebate.jpg",
-        "date": "16/04/2026",
-        "description": "ATP 500 de Munique (Alemanha) – Saibro – 2.561.110 eurosPrimeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/oito-brasileiros-estreiam-com-vitoria-no-roland-garros-junior-series.html",
-        "title": "Oito brasileiros estreiam com vitória no Roland Garros Junior Series",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/livas_damazio_rgjunior26-1024x682.jpg",
-        "date": "15/04/2026",
-        "description": "São Paulo (SP) –Dos 14 brasileiros que estão na disputa do Roland-Garros Junior Series by Renault, oito deles estrearam com vitória no torneio que está sendo realizado na Sociedade Harmonia de Tênis e que reúne 32 tenistas de até 17 anos da América Latina em busca da tão sonhada vaga para a chave principal de Roland-Garros Junior, em Paris."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/siegemund-aprova-evolucao-da-wta-ao-longo-de-duas-decadas.html",
-        "title": "Siegemund aprova evolução da WTA ao longo de duas décadas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/siegemund_stuttgart_fore-1024x608.jpg",
-        "date": "15/04/2026",
-        "description": "Stuttgart (Alemanha) –A veterana Laura Siegemund comentou sobre as profundas mudanças e evoluções no circuito feminino desde que começou a competir. Aos 38 anos, a alemã aponta como o jogo é mais padronizado e o aspecto físico se tornou um fator prioritário para manter o alto nível."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/reis-elimina-o-cabeca-1-em-tallahassee-e-enfrenta-boscardin.html",
-        "title": "Reis elimina o cabeça 1 em Tallahassee e enfrenta Boscardin",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/joao_lreis_bonn_saque-1024x665.jpg",
-        "date": "15/04/2026",
-        "description": "* Atualizado com a vitória de Boscardin no fim da rodada"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/cirstea-vence-estreia-dura-em-rouen-kostyuk-ja-esta-nas-quartas.html",
-        "title": "Cirstea vence estreia dura em Rouen, Kostyuk já está nas quartas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/cirstea_rouen_back_saibro.jpg",
-        "date": "15/04/2026",
-        "description": "Rouen (França) –As duas principais cabeças de chave do WTA 250 de Rouen venceram jogos duros nesta quarta-feira, pelo torneio francês em quadras de saibro e estádio coberto. Vinda de título de duplas em Linz, a romena Sorana Cirstea fez sua estreia na competição, enquanto a ucraniana Marta Kostyuk veio do quali."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/svitolina-vence-com-facilidade-rybakina-e-gauff-estreiam-na-quinta.html",
-        "title": "Svitolina vence com facilidade, Rybakina e Gauff estreiam na quinta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/svitolina_stuttgart_acena-1024x608.jpg",
-        "date": "15/04/2026",
-        "description": "Stuttgart (Alemanha) –No jogo que encerrou a programação desta quarta-feira no WTA 500 de Stuttgart, Elina Svitolina venceu a alemã Eva Lys, 78ª do ranking, com facilidade. A ucraniana, número 7 do mundo, precisou de apenas 54 minutos para marcar as parciais de 6/1 e 6/0."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bia-enfrenta-polonesa-as-9h-em-busca-das-quartas-em-oeiras.html",
-        "title": "Bia enfrenta polonesa às 9h em busca das quartas em Oeiras",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bia_oeiras_toss-1024x682.jpeg",
-        "date": "15/04/2026",
-        "description": "Oeiras (Portugal) –Depois de vencer sua partida de estreia no WTA 125 de Oeiras na última terça-feira, Beatriz Haddad Maia volta à quadra na manhã desta quinta. A número 1 do Brasil e 69ª do mundo enfrenta a polonesa Maja Chwalinska, 129ª colocada, a partir das 9h (de Brasília). Osite da WTA transmiteas competições da série 125."
     }
 ]
