@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/maos-santas.html",
+        "title": "Mãos santas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/blog_rybakina_stuttgart.jpg",
+        "date": "19/04/2026",
+        "description": "O segundo capítulo da temporada masculina de saibro, sem Jannik Sinner e Carlos Alcaraz, serviu para colocar dois nomes da nova geração na lista daqueles que poderão sonhar grande em Madri, Roma e Paris."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/duda-gomes-e-leo-storck-sao-campeoes-do-rg-junior-series.html",
+        "title": "Duda Gomes e Leo Storck são campeões do RG Junior Series",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/stork-duda-trofeus-rg-junior-series-2026-1024x771.jpeg",
+        "date": "19/04/2026",
+        "description": "São Paulo (SP)– A edição de 2026 do Roland Garros Junior Series conheceu os seus campeões neste domingo, com dobradinha brasileira na Sociedade Harmonia de Tênis, em São Paulo. Mais do que o título, Eduarda Gomes e Leonardo Storck garantiram convite para a disputa da chave principal do torneio juvenil de Roland Garros, em Paris."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/shelton-sonha-grande-no-saibro-a-cada-ano-jogo-melhor.html",
         "title": "Shelton sonha grande no saibro: “A cada ano jogo melhor”",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/shelton-trofeu-munique-2026-1024x730.jpeg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bia-oeiras-2026-1024x683.jpg",
         "date": "19/04/2026",
         "description": "Madri (Espanha)– Foi realizado neste domingo o sorteio da chave do WTA 1000 de Madri, torneio feminino que acontece a partir de quarta-feira em quadras de saibro na capital espanhola. Já ochaveamento masculino será conhecido apenas na manhã de segunda-feira, às 6h no horário de Brasília."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/nana-enfrenta-101a-do-mundo-na-estreia-do-quali-em-madri.html",
-        "title": "Naná enfrenta 101ª do mundo na estreia do quali em Madri",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/nana_bjk_treina-1024x683.jpg",
-        "date": "19/04/2026",
-        "description": "Madri (Espanha)– O qualificatório do WTA 1000 de Madri começa nesta segunda-feira com a participação da juvenil brasileira Nauhany Silva. Convidada da organização, a tenista de 16 anos fará sua estreia em um evento de nível 1000 e precisará vencer dois jogos para entrar na chave principal."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/madri-sorteia-chave-nesta-2a-com-ausencias-e-fonseca-como-cabeca.html",
-        "title": "Madri sorteia chave nesta 2ª com ausências e Fonseca como cabeça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/fonseca-monte-carlo-slice-2026.jpg",
-        "date": "19/04/2026",
-        "description": "Madri (Espanha)– Um dos mais tradicionais e importantes torneios preparatórios para Roland Garros, o Masters 1000 de Madri sorteará sua chave na manhã desta segunda-feira repleto de ausências e com o carioca João Fonseca entre os cabeças de chave. O evento acontece a partir das 6h, no horário de Brasília."
     }
 ]
