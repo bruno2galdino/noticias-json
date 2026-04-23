@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-22-04.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/henrique_nogueira_fore_ecp.jpg",
+        "url": "https://tenisbrasil.uol.com.br/chow-marquezini-caem-na-estreia-gianotti-spotto-avancam-no-sand-series-brasilia.html",
+        "title": "Chow/Marchezini caem na estreia, Gianotti/ Spotto avançam no Sand Series Brasília",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/gianotti_spoto_sand-Brasilia.jpg",
         "date": "22/04/2026",
-        "description": "Challenger de Savannah (EUA) – Saibro – US$ 107 milDuplas – Primeira rodada –Veja a chave"
+        "description": "Brasília (DF)– O primeiro dia da chave principal do Sand Series Brasília Classic foi marcado por uma grande surpresa na Arena BRB. Nesta quarta-feira (22), a dupla número 1 do mundo, formada por Sophia Chow e Vitória Marchezini, foi superada pela francesa Maire Bray e a portuguesa Marta Magalhães, que venceram de virada por 4/6, 7/5 e 10-8."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/brasileiros-estreiam-com-tres-vitorias-no-saibro-de-quito.html",
+        "title": "Brasileiros estreiam com três vitórias no saibro de Quito",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/braga_braga_jul25.jpg",
+        "date": "22/04/2026",
+        "description": "Quito (Equador) –Três brasileiros venceram na rodada de estreia do ITF M15 de Quito, em quadras de saibro no Equador. Entre os que avançaram nesta quarta-feira, estão os irmãos gêmeos Breno e Victor Braga."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/chabalgoity-vence-storck-e-faz-semi-nos-sul-americanos-da-juventude.html",
@@ -12,6 +19,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/Chabalgoity-BRJuniors-2026-1024x683.jpg",
         "date": "22/04/2026",
         "description": "Cidade do Panamá (Panamá) –No encontro entre dois brasileiros, Pedro Chabalgoity levou a melhor sobre Leonardo Storck por 7/6 (7-1), 5/7 e 6/3 e garantiu vaga na semifinal dos Jogos Sul-Americanos da Juventude, que acontecem em quadras de saibro no Panamá."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-22-04.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/henrique_nogueira_fore_ecp.jpg",
+        "date": "22/04/2026",
+        "description": "Challenger de Savannah (EUA) – Saibro – US$ 107 milDuplas – Primeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/realizei-meu-sonho-no-tenis-diz-bautista-em-homenagem.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/fokina_dallas_term_baixa.jpg",
         "date": "22/04/2026",
         "description": "Madri (Espanha) –O espanhol Alejandro Davidovich Fokina concedeu entrevista coletiva antes de estrear no Masters 1000 de Madri e assegurou estar recuperado de uma lesão no abdômen. Afastado do circuito desde Miami, onde caiu na segunda rodada, ele espera se adaptar ao saibro diante de sua torcida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/musetti-diz-que-nao-estava-tao-longe-de-sinner-e-alcaraz-antes-da-lesao.html",
-        "title": "Musetti diz que não estava tão longe de Sinner e Alcaraz antes da lesão",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/musetti-barcelona-guarda-raquete-2026.jpg",
-        "date": "22/04/2026",
-        "description": "Madri (Espanha)– O italiano Lorenzo Musetti terminou a temporada passada em alta, chegou ao top 5 pela primeira vez, mas o começo de 2026 foi complicado com uma lesão que o forçou a abandonar as quartas de final do Australian Open no meio e o impediu de jogar por mais de um mês. Ainda buscando recuperar seu melhor ritmo, após quedas na estreia em Indian Wells e Monte Carlo, ele foi às quartas em Barcelona e agora encara o Masters 1000 de Madri."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/swiatek-sabalenka-e-monfils-estreiam-nesta-quinta-em-madri.html",
-        "title": "Swiatek, Sabalenka e Monfils estreiam nesta quinta em Madri",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/sabalenka_madrid_treina-1024x683.jpeg",
-        "date": "22/04/2026",
-        "description": "Madri (Espanha) –A rodada desta quinta-feira em Madri terá as estreias de Aryna Sabalenka, tricampeã do torneio, e Iga Swiatek, vencedora em 2024. Já no masculino, ainda sem os cabeças de chave em quadra, o destaque fica para nomes experientes como Gael Monfils e Grigor Dimitrov."
     }
 ]
