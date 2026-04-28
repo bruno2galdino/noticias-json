@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/confira-os-destaques-das-oitavas-em-madri-nesta-segunda.html",
+        "title": "Confira os destaques das oitavas em Madri nesta segunda",
+        "image": null,
+        "date": "27/04/2026",
+        "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/eduarda-gomes-lidera-vitorias-brasileiras-na-grama-em-braganca-paulista.html",
+        "title": "Eduarda Gomes lidera vitórias brasileiras na grama em Bragança Paulista",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/duda_gomes_copacosat-1024x576.png",
+        "date": "27/04/2026",
+        "description": "Bragança Paulista (SP) –Campeã do Roland Garros Junior Series, há oito dias em São Paulo, a paranaense Eduarda Gomes trocou o saibro pela grama e estreou com a vitória na Copa Cosat 14 anos, torneio disputado em quadras de grama da HWT Sports Academy, em Bragança Paulista, e que vale vaga em Wimbledon na categoria."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/oitavas-femininas-definidas-em-madri-veja-o-resumo.html",
+        "title": "Quartas femininas definidas em Madri. Veja o resumo.",
+        "image": null,
+        "date": "27/04/2026",
+        "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/de-olho-no-top-10-noskova-destaca-mentalidade-para-superar-gauff.html",
+        "title": "De olho no top 10, Noskova destaca mentalidade para superar Gauff",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/noskova_madri_vibra-1024x683.jpg",
+        "date": "27/04/2026",
+        "description": "Madri (Espanha) –Depois de garantir seu lugar nas quartas de final do WTA 1000 de Madri, Linda Noskova destacou a mentalidade adotada nos momentos decisivos dapartida contra Coco Gauffnesta segunda-feira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pliskova-realiza-desejo-de-jogar-diante-da-irma-e-cunhado-do-atletico-em-madri.html",
+        "title": "Pliskova realiza desejo de jogar diante da irmã e cunhado em Madri",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/pliskova_madri.jpg",
+        "date": "27/04/2026",
+        "description": "Madri (Espanha) —A tcheca Karolina Pliskova, ex-número 1 do mundo, tinha um torneio em particular queria jogar nesta temporada: o Mutua Madrid Open. O motivo? A irmã de Pliskova, a ex-jogadora da WTA Kristyna, mora ena capital espanhola com o marido David Hancko, que joga futebol no Atlético de Madrid, e era uma chance de atuar diante de sua família."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/medvedev-exalta-agressividade-no-saibro-e-elogia-jodar.html",
+        "title": "Medvedev exalta agressividade no saibro e elogia Jodar",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/medvedev_madri_entrada.jpg",
+        "date": "27/04/2026",
+        "description": "Madri (Espanha) –Depois do fiasco em Monte Carlo, o russo Daniil Medvedev demonstrou estar mais adaptado ao saibro veloz de Madri. Classificado para a rodada de oitavas de final do evento Masters 1000, ele espera manter o bom ritmo e projeta duelo duro contrao italiano Flavio Cobolli, seu próximo adversário."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-27-04.html",
         "title": "O dia dos brasileiros: veja os resultados desta segunda",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/saraiva-sao-leo-fore-2026-1024x683.jpg",
@@ -7,66 +49,24 @@
         "description": "WTA 125 de La Bisbal (Espanha) – Saibro – 100 mil eurosPrimeira rodada –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/potapova-derruba-rybakina-e-faz-quartas-kostyuk-mantem-serie-invicta.html",
+        "title": "Potapova derruba Rybakina e faz quartas, Kostyuk mantém série invicta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/potapova_madri_vibra_jimmie.jpg",
+        "date": "27/04/2026",
+        "description": "Madri (Espanha) –No jogo que encerrou a programação desta segunda-feira, no WTA 1000 de Madri, a austríaca Anastasia Potapova conseguiu um grande resultado e eliminou Elena Rybakina para garantir seu lugar nas quartas. A atual 56ª do ranking e que entrou na chave como lucky-loser superou a número 2 do mundo com parciais de 7/6 (10-8) e 6/4 em 1h53 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cobolli-elimina-vallejo-mensik-tira-khachanov-e-desafia-zverev.html",
+        "title": "Cobolli elimina Vallejo em Madri, Mensik tira Khachanov e desafia Zverev",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/mensik_madri_vibra.jpg",
+        "date": "27/04/2026",
+        "description": "Madri (Espanha) –Flavio Cobolli ratificou a condição de cabeça de chave 10 e garantiu vaga na fase de oitavas de final do Masters 1000 de Madri. Diante do jovem quali paraguaio Daniel Vallejo, o italiano se impôs e triunfou com tranquilidade, ao anotar 2 sets a 0, com parciais de 6/3 e 6/2, após 1h14 de disputa."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/sinner-busca-quartas-nesta-terca-as-6h-sabalenka-joga-a-tarde.html",
         "title": "Sinner busca quartas nesta terça às 6h, Sabalenka joga à tarde",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/Madrid-Open-Dia-5-Jannik-Sinner-2.jpg",
         "date": "27/04/2026",
         "description": "Madri (Espanha) –O italiano Jannik Sinner entra em ação nesta terça-feira, às 6h (horário de Brasília), em busca de uma vaga nas quartas de final do Masters 1000 de Madri. O número 1 abre a programação do Estádio Manolo Santana, diante do britânico Cameron Norrie, em duelo inédito pelo circuito."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tsitsipas-celebra-alto-nivel-amo-o-tenis-quando-jogo-assim.html",
-        "title": "Tsitsipas celebra alto nível: “Amo o tênis quando jogo assim”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/Madrid-Open-Dia-4-Stefanos-Tsitsipas-1024x683.jpg",
-        "date": "27/04/2026",
-        "description": "Madri (Espanha) –Após embalar no saibro do Masters 1000 de Madri, Stefanos Tsitsipas não escondeu a emoção por estar recuperando a melhor forma. O grego atravessa momento complexo na temporada, sem resultados expressivos, mas tem se mostrado confiante e otimista com a sua recuperação."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/zverev-repete-oitavas-em-madri-blockx-derruba-aliassime.html",
-        "title": "Zverev repete oitavas em Madri, Blockx derruba Aliassime",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/zverev_madri_agradece-1024x683.jpg",
-        "date": "27/04/2026",
-        "description": "Madri (Espanha) –Alexander Zverev está novamente na fase de oitavas de final do Masters 1000 de Madri. Nesta segunda-feira, o alemão superou o francês Terence Atmane, número 47 do mundo, ao marcar 2 sets a 0, com parciais de 6/3 e 7/6 (7-2), após 1h39 de confronto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-destaca-alto-nivel-para-buscar-a-virada-baptiste-tenta-surpreender.html",
-        "title": "Sabalenka destaca alto nível para buscar a virada, Baptiste tenta surpreender",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/sabalenka_madri_acena-1024x683.jpg",
-        "date": "27/04/2026",
-        "description": "Madri (Espanha) –Classificada para as quartas de final do WTA 1000 de Madri, Aryna Sabalenka destacou o alto nível de tênis na virada desta segunda-feira sobre Naomi Osaka. Vinda de títulos em Indian Wells e Miami, a número 1 do mundo marcou sua 15ª vitória seguida no circuito e segue na busca pela quarta conquista no saibro da capital espanhola."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ruud-lamenta-por-alcaraz-e-ve-madri-com-chances-para-todos.html",
-        "title": "Ruud lamenta por Alcaraz e vê Madri com chances para todos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/ruud-saque-madri-1024x683.jpg",
-        "date": "27/04/2026",
-        "description": "Madri (Espanha) –Atual campeão do Masters 1000 de Madri, o norueguês Casper Ruud aponta o torneio como um dos mais propícios a ter novos campeões.Classificado para as oitavas de final, ele também destacou a lesão de Carlos Alcaraz e falou sobre os problemas físicos que enfrentou recentemente."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/guto-atinge-a-vice-lideranca-no-ranking-juvenil-victoria-segue-no-top-10.html",
-        "title": "Guto atinge a vice-liderança no ranking juvenil, Victória segue no top 10",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/Guto_Miguel_SP-1024x683.jpg",
-        "date": "27/04/2026",
-        "description": "Londres (Inglaterra) –A atualização do ranking mundial juvenil desta segunda-feira marcou a melhor posição da carreira de Guto Miguel. O goiano de 17 anos assumiu a vice-liderança, ficando atrás apenas do búlgaro Ivan Ivanov, atual campeão juvenil de Wimbledon e do US Open."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/iga-vai-retomar-o-numero-3-apos-queda-de-gauff-nas-oitavas.html",
-        "title": "Iga vai retomar o número 3 após queda de Gauff nas oitavas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/Madrid-Open-Dia-4-Iga-Swiatek-2-1024x683.jpg",
-        "date": "27/04/2026",
-        "description": "Madri (Espanha)– Com a queda de Coco Gauff nesta segunda-feira, nas oitavas de final do WTA 1000 de Madri, a polonesa Iga Swiatek garantiu seu retorno à terceira colocação no ranking, deixando justamente a norte-americana para trás na próxima semana."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/no-saibro-frances-ingrid-conquista-sua-primeira-vitoria-do-ano.html",
-        "title": "No saibro francês, Ingrid conquista sua primeira vitória do ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/IMG-20260427-WA0007-scaled-e1777310581716-1024x683.jpg",
-        "date": "27/04/2026",
-        "description": "Saint-Malo (França)– A carioca Ingrid Martins, número 87 do mundo, estreou com vitória, nesta segunda-feira, no WTA 125 de Saint-Malo, vencendo a primeira na atual temporada. Ela e a russa Ekaterina Ovcharenko derrotaram a dupla da francesa Elixane Lechemia e da britânica Alicia Barnett por 2 sets a 1, com parciais de 7/5, 3/6 e 12-10."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/noskova-bate-gauff-e-faz-quartas-ineditas-em-madri-pliskova-anota-feito.html",
-        "title": "Noskova bate Gauff e faz quartas inéditas em Madri, Pliskova anota feito",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/Linda_Noskova_-_Mutua_Madrid_Open_2026_-_Day_7-DSC_8512A_xgaplus.jpg",
-        "date": "27/04/2026",
-        "description": "Madri (Espanha) –A tcheca Linda Noskova surpreendeu a norte-americana Coco Gauff e assegurou vaga inédita na fase de quartas de final do WTA 1000 de Madri. Nesta segunda-feira, ela eliminou a terceira favorita e atual vice-campeã por 2 sets a 1, com parciais de 6/4, 1/6 e 7/6 (7-5), em 2h06 de confronto."
     }
 ]
