@@ -1,8 +1,22 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/tres-brasileiros-jogam-finais-da-copa-cosat-e-vao-a-wimbledon-nos-14-anos.html",
+        "title": "Três brasileiros jogam finais da Copa Cosat e vão a Wimbledon nos 14 anos",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/gabriela_carvalho_cosat14-1024x683.jpg",
+        "date": "01/05/2026",
+        "description": "Bragança Paulista (SP) –Três juvenis brasileiros garantiram a classificação para Wimbledon na categoria 14 depois. Eduarda Gomes, Gabriela Carvalho e Dante Monte venceram seus jogos desta sexta-feira nas semifinais da Copa Cosat, disputada em quadras de grama da HWT Sports Academy, em Bragança Paulista."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/kiko-damorim-henrique-vialle-e-flavia-souza-jogam-finais-de-itf-no-juvenil.html",
+        "title": "Kiko D’Amorim, Henrique Vialle e Flavia Souza jogam finais de ITF no juvenil",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/03/kiko_damorim_espanha_fore-1024x627.jpg",
+        "date": "01/05/2026",
+        "description": "Plovdiv (Bulgária) –O paulista Francisco D’amorim, que treina na Espanha, está na final do ITF J300 de Plovdiv, em quadras de saibro na Bulgária. Ele venceu a semifinal contra o canadense Antoine Genereux, 223º do ranking, por 6/4 e 6/0."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/contra-sinner-nao-basta-jogar-o-seu-melhor-afirma-fils.html",
         "title": "“Contra Sinner não basta jogar o seu melhor”, afirma Fils",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/fils-sorri-madri-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner_fils_rede_saibro-1024x683.jpeg",
         "date": "01/05/2026",
         "description": "Madri (Espanha) –Resignado após cair nas semifinais do Masters 1000 de Madri, Arthur Fils destacou o alto nível do italiano Jannik Sinner, responsável por interromper a série de nove vitórias do francês. Derrotado em sets diretos pelo líder do ranking, o tenista de 21 anos acredita estar recuperando a melhor forma."
     },
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/badosa_jabeur_bebe.jpg",
         "date": "01/05/2026",
         "description": "Dubai (Emirados Árabes) –Paula Badosa após sofrer a quarta derrota seguida, após ter sido eliminada na primeira rodada do WTA 1000 de Madri pela austríaca Julia Grabher, por 7/6 (7-3), 4/6 e 6/0, resolveu dar um tempo fora das quadras. A espanhola de 28 anos também havia caído nas oitavas de Charleston e na estreia em Linz e Stuttgart. Na atual temporada, acumula nove vitórias e 12 derrotas."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-acusa-cansaco-apos-sequencia-de-vitorias-e-coloca-roma-em-duvida.html",
-        "title": "Sinner acusa cansaço após sequência de vitórias e coloca Roma em dúvida",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner_madrid_menos_2mb-1024x743.jpg",
-        "date": "01/05/2026",
-        "description": "Madri (Espanha)– A grande sequência de vitórias do italiano Jannik Sinner, que nesta sexta-feira venceu a 22ª seguida,batendo o francês Arthur Filsna primeira semifinal do Masters 1000 de Madri, pode custar sua participação em Roma. Após conquistar a vaga na final, o número 1 do mundo comemorou mais uma final, mas também acusou o cansaço com tantos jogos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/torneio-juvenil-de-roland-garros-tera-7-brasileiros.html",
-        "title": "Torneio juvenil de Roland Garros terá sete brasileiros",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/arte_ps_victoria_rg.png",
-        "date": "01/05/2026",
-        "description": "Sete brasileiros estarão na disputa do torneio juvenil de Roland Garros, que acontecerá entre 31 de maio e 6 de junho. As listas de inscritos foram divulgadas nesta semana pela Federação Francesa (FFT) e também pela Federação Internacional de Tênis (ITF)."
     }
 ]
