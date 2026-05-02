@@ -7,13 +7,6 @@
         "description": "ITF M25 de Lujan (Argentina) – Saibro – US$ 30 milSemifinal –Veja a chave"
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/sinner-e-zverev-decidem-o-titulo-em-madri-neste-domingo-ao-meio-dia.html",
-        "title": "Sinner e Zverev decidem o título em Madri neste domingo ao meio-dia",
-        "image": null,
-        "date": "02/05/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/heliovaara-e-patten-conquistam-o-quarto-titulo-juntos-na-temporada.html",
         "title": "Heliovaara e Patten conquistam o quarto título juntos na temporada",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/heliovaara-patten-madri_trofeus-1024x683.jpg",
@@ -68,5 +61,12 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner_fils_rede_saibro-1024x683.jpeg",
         "date": "01/05/2026",
         "description": "Madri (Espanha) –Resignado após cair nas semifinais do Masters 1000 de Madri, Arthur Fils destacou o alto nível do italiano Jannik Sinner, responsável por interromper a série de nove vitórias do francês. Derrotado em sets diretos pelo líder do ranking, o tenista de 21 anos acredita estar recuperando a melhor forma."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pucinelli-vence-duelo-nacional-e-faz-semi-na-argentina.html",
+        "title": "Pucinelli vence duelo nacional e faz semi na Argentina",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/pucinelli_aat_focado.jpg",
+        "date": "01/05/2026",
+        "description": "Lujan (Argentina) –No encontro entre dois jogadores brasileiros, o paulista Matheus Pucinelli venceu o carioca Wilson Leite por 6/0 e 7/5 para garantir vaga na semifinal do ITF M25 de Lujan, em quadras de saibro na Argentina."
     }
 ]
