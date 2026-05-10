@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-10-05.html",
+        "title": "O dia dos brasileiros: veja os resultados deste domingo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/thiago_monteiro_laopen.jpg",
+        "date": "10/05/2026",
+        "description": "Challenger de Francavilla (Itália) – Saibro – 97.640 eurosFinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pegula-anota-bicicleta-e-vai-as-oitavas-osaka-tambem-atropela.html",
+        "title": "Pegula anota ‘bicicleta’ e vai às oitavas, Osaka também atropela",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/pegula-recebendo-saque-roma-2026-1024x683.jpg",
+        "date": "10/05/2026",
+        "description": "Roma (Itália)– A norte-americana Jessica Pegula segue embalada e já está nas oitavas de final do WTA 1000 de Roma. Neste domingo, a número 5 do mundo não tomou conhecimento da suíça Rebeka Masarova, 160ª colocada, e aplicou uma ‘bicicleta’, ao marcar um duplo 6/0 em apenas 60 minutos."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/zverev-volta-a-bater-blockx-e-faz-oitavas-em-roma-ruud-avanca.html",
+        "title": "Zverev volta a bater Blockx e faz oitavas em Roma, Ruud avança",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/zverev-comemora-roma-2026-1024x683.jpg",
+        "date": "10/05/2026",
+        "description": "Roma (Itália) –Alexander Zverev voltou a superar o jovem belga Alexander Blockx e garantiu vaga na fase de oitavas de final do Masters 1000 de Roma pela oitava vez na carreira. Neste domingo, o alemão superou o adversário por 2 sets a 0, com parciais de 6/1 e 6/4, em apenas 1h14 de partida."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/apos-dura-vitoria-gauff-alega-questoes-pessoais-e-desmotivacao.html",
         "title": "Após dura vitória, Gauff alega questões pessoais e desmotivação",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/gauff-backhand-roma-2026-1024x683.jpg",
@@ -12,13 +33,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/heide-francavilla-2026-2-1024x576.jpg",
         "date": "10/05/2026",
         "description": "Francavilla al Mare (Itália)– Depois de nove vitórias seguidas no circuito, o paulista Gustavo Heide teve a sua série invicta encerrada e ficou com o vice-campeonato no challenger de Francavilla, na Itália. Na decisão deste domingo, o número 3 do Brasil e 209 do mundo até saiu na frente, mas levou a virada do argentino Facundo Diaz Acosta, cabeça de chave 7, pelo placar de 5/7, 6/1 e 6/2, após 2h34 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-10-05.html",
-        "title": "O dia dos brasileiros: veja os resultados deste domingo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/thiago_monteiro_laopen.jpg",
-        "date": "10/05/2026",
-        "description": "Challenger de Francavilla (Itália) – Saibro – 97.640 eurosFinal –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/victoria-barros-conquista-maior-titulo-da-carreira-e-entra-no-top-5.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/djokovic-aliassime-shelton-deminaur-1024x683.jpg",
         "date": "09/05/2026",
         "description": "Roma (Itália)– Foi concluída neste sábado a segunda fase do Masters 1000 de Roma, na qual todos os cabeças de chave estrearam. Dos 32 principais inscritos no torneio, nada menos do que 11 foram eliminados logo de cara, incluindo quatro top 10."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-estreia-cobolli-avanca-fonseca-e-shelton-caem-veja-o-resumo-do-sabado.html",
-        "title": "Sinner estreia, Cobolli avança, Fonseca e Shelton caem. Veja o resumo do sábado.",
-        "image": null,
-        "date": "09/05/2026",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/henrique-vialle-e-flavia-souza-sao-campeoes-de-itf-no-juvenil.html",
-        "title": "Henrique Vialle e Flavia Souza são campeões de ITF no juvenil",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/vialle-trofeu-lima-2026-1024x762.jpeg",
-        "date": "09/05/2026",
-        "description": "Lima (Peru)– O sábado foi de festa para o tênis juvenil brasileiro, com mais duas conquistas no circuito da ITF. Entre os meninos, o paranaense Henrique Vialle faturou o J100 de Lima, em quadras de saibro, ao superar o anfitrião Diego Pajares, cabeça 1 e 255º do mundo, por 7/5, 5/7 e 6/0."
     }
 ]
