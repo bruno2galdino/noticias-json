@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/sinner-ninguem-fica-no-auge-o-tempo-todo-sempre-havera-surpresas.html",
+        "title": "Sinner: “Ninguém fica no auge o tempo todo. Sempre haverá surpresas”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner_roma_fore_3r-1024x634.jpg",
+        "date": "11/05/2026",
+        "description": "Roma (Itália) –Classificado para as oitavas em Roma e em busca do único título de Masters 1000 que ainda falta em sua coleção, Jannik Sinner comentou a quantidade de surpresas no torneio e apontou a rápida mudança de condições entre os eventos do saibro europeu como um dos fatores para os resultados inesperados. O número 1 volta à quadra nesta terça-feira, às 10h (de Brasília), em duelo italiano contra Andrea Pellegrino, apenas 155º do ranking."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/rune-desiste-de-roland-garros-e-hamburgo-e-so-volta-na-grama.html",
+        "title": "Rune desiste de Roland Garros e Hamburgo e só volta na grama",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/rune-treina-.jpg",
+        "date": "11/05/2026",
+        "description": "Londres (Inglaterra) –O dinamarquês Holger Rune anunciou que não vai disputar o ATP 500 de Hamburgo e Roland Garros, para seguir se recuperando de uma grave lesão. Ele sofreu uma ruptura completa do tendão de Aquiles do pé esquerdo durante a disputa do ATP de Estocolmo de 2025, em outubro."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-11-05.html",
         "title": "O dia dos brasileiros: veja os resultados desta segunda",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/05/gabriela_ce_brb_floripa-1024x611.jpg",
@@ -7,66 +21,52 @@
         "description": "Masters 1000 de Roma (Itália) – Saibro – 8.235.540 eurosDuplas – Primeira rodada –Veja a chave"
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/cirstea-explica-evolucao-tardia-e-mira-top-20-nao-vim-pelo-turismo.html",
-        "title": "Cirstea explica evolução tardia e mira top 20: “Não vim pelo turismo”",
+        "url": "https://tenisbrasil.uol.com.br/stefani-e-dabrowski-caem-em-tres-sets-na-volta-ao-circuito-em-roma.html",
+        "title": "Stefani e Dabrowski caem em três sets na volta ao circuito em Roma",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/stefani_dabrowski_dubai_final-1024x683.jpg",
+        "date": "11/05/2026",
+        "description": "Roma (Itália) –De volta ao circuito para o primeiro torneio desde Miami, em março, Luísa Stefani e a canadense Gabriela Dabrowski foram eliminadas na estreia do WTA 1000 de Roma. Cabeças 4 do torneio, elas foram superadas pela tcheca Marie Bouzkova e a russa Alexandra Panova, com parciais de 6/2, 6/7 (4-7) e 10-3."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/algoz-de-fonseca-medjedovic-vira-outra-e-faz-oitavas-em-roma.html",
+        "title": "Algoz de Fonseca, Medjedovic vira outra e faz oitavas em Roma",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/Medjedovic-vibra-roma-1024x683.jpg",
+        "date": "11/05/2026",
+        "description": "Roma (Itália) –O jovem Hamad Medjedovic segue embalado no saibro do Masters 1000 de Roma. Apóssuperar João Fonsecana segunda rodada, desta vez ele despachou o argentino Mariano Navone para atingir de forma inédita vaga nas oitavas de final em um evento deste nível. O sérvio virou com as parciais de 4/6, 6/3 e 6/4, após 3h04 de batalha."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/confira-como-foi-a-rodada-desta-segunda-feira-em-roma.html",
+        "title": "Confira como foi a rodada desta segunda-feira em Roma",
+        "image": null,
+        "date": "11/05/2026",
+        "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/rybakina-se-impoe-em-duelo-de-campeas-e-enfrenta-svitolina.html",
+        "title": "Rybakina se impõe em duelo de campeãs e enfrenta Svitolina",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/rybakina_roma_r3_back-1024x682.jpg",
+        "date": "11/05/2026",
+        "description": "Roma (Itália) –No encontro entre duas jogadoras que já venceram o WTA 1000 de Roma, Elena Rybakina fez valer seu ótimo momento no circuito e superou Karolina Pliskova para voltar às quartas de final. Vice-líder do ranking e campeã do torneio em 2023, a cazaque venceu a tcheca por 6/0 e 6/2 em apenas 58 minutos de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/gauff-exalta-atitude-e-forca-mental-apos-salvar-match-point.html",
+        "title": "Gauff exalta atitude e força mental após salvar match-point",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/gauff_roma_vibra_26-1024x682.jpg",
+        "date": "11/05/2026",
+        "description": "Roma (Itália) –A norte-americana Coco Gauff novamente passou por apuros em Roma, mas garantiu vaga nas quartas de final do WTA 1000, após salvar match-point contra a compatriota Iva Jovic. Feliz com o desempenho, a atual vice-campeã destacou a força mental, mas ressaltou que precisa diminuir o próprio nível de cobrança."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/iga-volta-a-superar-osaka-e-tera-pegula-nas-quartas-em-roma.html",
+        "title": "Iga volta a superar Osaka e terá Pegula nas quartas em Roma",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/iga_roma16_oitavas_AF-1024x682.jpg",
+        "date": "11/05/2026",
+        "description": "Roma (Itália) –Em jogo com 10 troféus de Grand Slam em quadra, Iga Swiatek voltou a superar Naomi Osaka para chegar às quartas de final do WTA 1000 de Roma. Tricampeã do torneio, a número 3 do mundo marcou as parciais de 6/2 e 6/1 em 1h20 de partida. Foi a terceira vitória da polonesa em quatro jogos contra a japonesa no circuito."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cirstea-explica-evolucao-tardia-e-mira-top-20-nao-estou-aqui-a-passeio.html",
+        "title": "Cirstea explica evolução tardia e mira top 20: “Não estou aqui a passeio”",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/cirstea-vibra-roma-2026-1024x683.jpg",
         "date": "11/05/2026",
         "description": "Roma (Itália) –Embalada pela excelente campanha no WTA 1000 de Roma, Sorana Cirstea destaca que está aproveitando o momento e mantém o foco em acumular grandes resultados em seu último ano no circuito. Depois de eliminar Aryna Sabalenka na terceira rodada, a romena venceu nesta segunda-feira a tcheca Linda Noskova por 6/2 e 6/4, em 1h23, para alcançar as quartas de final."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-busca-quartas-as-10h-gauff-e-andreeva-duelam-por-semi.html",
-        "title": "Sinner busca quartas às 10h, Gauff e Andreeva duelam por semi",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner-vibra-roma-2026-2-1024x693.jpeg",
-        "date": "11/05/2026",
-        "description": "Roma (Itália) –A rodada desta terça-feira dos torneios combinados de Roma definirá os classificados para as quartas de final do Masters 1000, além das primeiras semifinalistas do WTA 1000. O destaque fica por conta do italiano Jannik Sinner, que enfrenta o compatriota Andrea Pellegrino, às 10h, horário de Brasília."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/medvedev-enfim-estreia-em-roma-vence-de-virada-e-ja-esta-nas-oitavas.html",
-        "title": "Medvedev enfim estreia em Roma, vence de virada e já está nas oitavas",
-        "image": null,
-        "date": "11/05/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/victoria-a-principal-meta-desse-ano-e-vencer-roland-garros.html",
-        "title": "Victória: “A principal meta desse ano é vencer Roland Garros”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/mack_victoria_offenbach_trofeus-1024x769.jpg",
-        "date": "11/05/2026",
-        "description": "Offenbach (Alemanha) –Depois de conquistar omaior título de sua carreirano último domingo, no ITF J500 de Offenbach, Victória Barros já pensa nos próximos passos. Agora na quinta posição do ranking mundial juvenil, a potiguar de 16 anos falou sobre a sequência da temporada e a busca por um título inédito de Grand Slam emRoland Garros, que começa em 31 de maio."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wawrinka-e-monfils-lideram-lista-de-convites-para-roland-garros.html",
-        "title": "Wawrinka e Monfils lideram lista de convites para Roland Garros",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/StanWawrinka-PremiertourMonte-Carlo2026-AntoineCouvercelleFFT-1024x683.jpg",
-        "date": "11/05/2026",
-        "description": "Paris (França)– Os convites para as fases de qualificação e para a chave principal de Roland Garros 2026, tanto no masculino quanto no feminino, foram definidos nesta segunda-feira e os dois principais nomes na lista são o do suíço Stan Wawrinka e do tenista da casa Gael Monfils."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/reis-retorna-com-excelente-vitoria-no-challenger-de-zagreb.html",
-        "title": "Reis retorna com excelente vitória no challenger de Zagreb",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/reis-laopen-2026-1024x683.jpg",
-        "date": "11/05/2026",
-        "description": "Zagreb (Croácia) –O pernambucano João Lucas Reis iniciou firme a trajetória no challenger 75 de Zagreb e já está nas oitavas de final do evento disputado em quadras de saibro e que distribui 97.640 euros em premiações totais. Nesta segunda-feira, ele derrotou o francês Luka Pavlovic, 221º do mundo, em sets diretos, com parciais de 6/4 e 6/1, em apenas 69 minutos de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/muita-gente-julga-carreiras-apenas-pelos-grand-slams-afirma-pegula.html",
-        "title": "“Muita gente julga carreiras apenas pelos Grand Slams”, afirma Pegula",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/Jessica_Pegula_-_Internazionali_BNL_D_Italia_2026_-_Day_4-DSC_0681A_xgaplus.jpg",
-        "date": "11/05/2026",
-        "description": "Roma (Itália)– Principais conquistas que um tenista pode ter, os Grand Slam são decisivos para muitos na hora de analisar uma carreira. Porém, para a norte-americana Jessica Pegula esta não deve ser a única forma de se avaliar um jogador. Após sua segunda vitória no WTA 1000 de Roma, ela relativizou a importância dos títulos de Slam."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-vence-30a-seguida-supera-federer-e-empata-com-djokovic.html",
-        "title": "Sinner vence 30ª seguida, supera Federer e empata com Djokovic",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner_GSP28197-1024x683.jpg",
-        "date": "11/05/2026",
-        "description": "Roma (Itálico) –Jannik Sinner está a duas vitórias de fazer história novamente. Nesta segunda-feira, o italiano eliminou o australiano Alexei Popyrin pela terceira fase do Masters 1000 de Roma por 2 sets a 0, parciais de 6/2 e 6/0, em apenas 67 minutos, e está garantido nas oitavas de final. Com o resultado, ele alcança 30 vitórias seguidas em Masters 1000 e empata com Novak Djokovic com a segunda maior série invicta, desde 1990."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/andreeva-avanca-e-vai-rever-gauff-em-roma-cirstea-pega-ostapenko.html",
-        "title": "Andreeva avança e vai rever Gauff em Roma, Cirstea pega Ostapenko",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/Mirra_Andreeva_-_Internazionali_BNL_D_Italia_2026_-_Day_3-DSC_2425_xgaplus.jpg",
-        "date": "11/05/2026",
-        "description": "Roma (Itália)– Depois de uma vitória arrasadora na estreia e de perder um set na rodada seguinte, nesta segunda-feira a russa Mirra Andreeva controlou a belga Elise Mertens para se garantir nas quartas de final do WTA 1000 de Roma, marcando duplo 6/3 depois de 1h19 de confronto."
     }
 ]
