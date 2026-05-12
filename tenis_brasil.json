@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/um-dos-mais-renomados-treinadores-brasileiros-goffi-falece-nos-eua.html",
-        "title": "Um dos mais renomados treinadores brasileiros, Goffi falece nos EUA",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/goffi-1024x513.jpg",
-        "date": "12/05/2026",
-        "description": "Orlando (EUA)– A luta contra o câncer de intestino durou sete anos e por fim terminou de forma serena na noite desta segunda-feira, junto a sua família, na Flórida. O paulista Carlos Goffi faleceu aos 73 anos, deixando um grande legado para o tênis internacional."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-12-05.html",
         "title": "O dia dos brasileiros: veja os resultados desta terça",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bruno_fernandez_campinas_back-1024x683.jpg",
@@ -14,59 +7,66 @@
         "description": "WTA 125 de Paris (França) – Saibro – 115 mil eurosPrimeira rodada –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/medvedev-controla-duelo-com-tirante-e-tera-landaluce-nas-quartas.html",
+        "title": "Medvedev controla duelo com Tirante e terá Landaluce nas quartas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/daniil_roma26_vibra-1024x683.jpg",
+        "date": "12/05/2026",
+        "description": "Roma (Itália) –Campeão do Masters 1000 de Roma em 2023, Daniil Medvedev está de volta às quartas de final. Em jogo que encerrou a programação desta terça-feira, o russo superou o argentino Thiago Tirante, 69º do ranking, por 6/3 e 6/2 em apenas 1h22."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/circuito-beach-tennis-etapa-de-campinas-sera-em-prol-da-casa-ronald-mcdonald.html",
+        "title": "Circuito Beach Tennis: etapa de Campinas será em prol da Casa Ronald McDonald",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/isa_garrido_campinas.jpg",
+        "date": "12/05/2026",
+        "description": "Campinas (SP) –A quinta etapa do Circuito Beach Tennis, o maior circuito do país, será beneficente, em prol da Casa Ronald McDonald de Campinas. Os jogos acontecerão no CT Lucas Sousa, no Clube Cultura, de ssexta a domingo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/copacabana-recebe-a-4a-etapa-de-circuito-de-beach-tennis-no-final-de-semana.html",
+        "title": "Copacabana recebe a 4ª etapa de Circuito de beach tennis no final de semana",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/circuitofairmont_etapa4.jpg",
+        "date": "12/05/2026",
+        "description": "Rio de Janeiro (RJ) –A Praia de Copacabana recebe, neste sábado e domingo, a quarta etapa do Circuito Fairmont de beach tennis, o mais longevo do estado, estando em sua 14ª temporada."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/heide-nao-passa-da-estreia-em-challenger-portugues-no-saibro.html",
+        "title": "Heide não passa da estreia em challenger português no saibro",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/heide_franca_saibro.jpg",
+        "date": "12/05/2026",
+        "description": "Oeiras (Portugal) –Vindo de dois bons resultados nas últimas semanas, com um título em Campinas e o vice-campeonato em Francavilla, Gustavo Heide não repetiu o mesmo desempenho no challenger de Oeiras e foi eliminado na estreia do torneio português em quadras de saibro. Único brasileiro na chave, Heide foi superado nesta terça-feira pelo sérvio Laslo Djere, que marcou um duplo 6/2 em 1h15 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-exalta-tenis-italiano-e-especial-fazer-parte-deste-momento.html",
+        "title": "Sinner exalta tênis italiano: “É especial fazer parte deste momento”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner-vibra-roma1-1024x683.jpg",
+        "date": "12/05/2026",
+        "description": "Roma (Itália) –Grande expoente do circuito masculino na atualidade, Jannik Sinner aproveitou para celebrar o momento positivo do tênis italiano em geral. Após assegurar vaga nas quartas de final no Masters 1000 de Roma, ao derrotar o compatriota Andrea Pellegrino, o número 1 destacou a importância de estar inserido neste contexto."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/rybakina-e-iga-buscam-semi-nesta-quarta-jodar-desafia-darderi.html",
+        "title": "Rybakina e Iga buscam semi nesta quarta, Jodar desafia Darderi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/rybakina-toss-roma-2026-1024x741.jpeg",
+        "date": "12/05/2026",
+        "description": "Roma (Itália) –A rodada desta quarta-feira dos eventos combinados de Roma definirá as semifinalistas da parte de baixo da chave do WTA 1000. Além disso, pelo Masters 1000, serão conhecidos os primeiros classificados para a penúltima rodada no Foro Itálico."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/gauff-consegue-mais-uma-virada-e-volta-a-semifinal-em-roma.html",
+        "title": "Gauff consegue mais uma virada e volta à semifinal em Roma",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/20260512_Cori_Gauff_sguardo-1024x683.jpg",
+        "date": "12/05/2026",
+        "description": "Roma (Itália) –Pelo terceiro jogo consecutivo, Coco Gauff conseguiu reverter uma desvantagem no placar e garantiu vaga na semifinal do WTA 1000 de Roma. Depois de ter passado por Solana Sierra na terceira e salvo um match-point contra Iva Jovic nas oitavas, a número 4 do mundo venceu a russa Mirra Andreeva, sétima colocada, por 4/6, 6/2 e 6/4 em 2h17 de partida. Ela mantém a escrita de nunca ter perdido para Andreeva, agora com 5 a 0 no histórico."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/um-dos-mais-renomados-treinadores-brasileiros-goffi-falece-nos-eua.html",
+        "title": "Um dos mais renomados treinadores brasileiros, Goffi falece nos EUA",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/goffi-1024x513.jpg",
+        "date": "12/05/2026",
+        "description": "Orlando (EUA)– A luta contra o câncer de intestino durou sete anos e por fim terminou de forma serena na noite desta segunda-feira, junto a sua família, na Flórida. O paulista Carlos Goffi faleceu aos 73 anos, deixando um grande legado para o tênis internacional."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/estou-proximo-do-meu-melhor-nivel-celebra-ruud.html",
         "title": "“Estou próximo do meu melhor nível”, celebra Ruud",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/ruud-roma-2026-1024x683.jpg",
         "date": "12/05/2026",
         "description": "Roma (Itália) –Casper Ruud está de volta às quartas de final do Masters 1000 de Roma e observa como recuperou a melhor forma depois de um período marcado por inconsistências. O norueguês também lamentou a lesão do adversário, o italiano Lorenzo Musetti, e analisou as complexidades de encarar um tenista com problemas físicos. Ele agora enfrenta o russo Karen Khachanov."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/landaluce-mantem-embalo-e-vence-outra-rublev-vira-e-desafia-sinner.html",
-        "title": "Landaluce mantém embalo e vence outra, Rublev vira e desafia Sinner",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/landaluce-roma-prepara-2026-1024x683.jpg",
-        "date": "12/05/2026",
-        "description": "Roma (Itália)– O espanhol Martin Landaluce segue aproveitando muito bem a sorte que teve no Masters 1000 de Roma e já está nas quartas de final. Nesta terça-feira, o lucky-loser levou a melhor sobre o sérvio Hamad Medjedovic,algoz do carioca João Fonseca, triunfando com parciais de 7/5 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/nunca-joguei-em-uma-quadra-tao-ruim-reclama-zverev.html",
-        "title": "“Nunca joguei em uma quadra tão ruim”, reclama Zverev",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/zverev-reclama-roma1-1024x683.jpg",
-        "date": "12/05/2026",
-        "description": "Roma (Itália) –Alexander Zverev sofreu uma derrota dolorosa pelas oitavas de final do Masters 1000 de Roma, depois de desperdiçar quatro match-points diante do italiano Luciano Darderi. Após sereliminado com dura virada, com direito a “pneu” no terceiro set, o alemão não poupou críticas à quadra, e agora só pensa em descansar até Roland Garros."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pedro-chabalgoity-e-leonardo-storck-estreiam-bem-na-italia.html",
-        "title": "Pedro Chabalgoity e Leonardo Storck estreiam bem na Itália",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/Chabalgoity-BRJuniors-2026-1024x683.jpg",
-        "date": "12/05/2026",
-        "description": "Santa Croce Sull’Arno (Itália) –A rodada de estreia do ITF J300 de Santa Croce foi boa para os brasileiros. O mato-grossense Leonardo Storck e o brasiliense Pedro Chabalgoity venceram seus jogos pelo torneio em quadras de saibro na Itália."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/chuva-interrompe-jogo-de-monteiro-e-adia-estreia-de-wild-em-zagreb.html",
-        "title": "Chuva interrompe jogo de Monteiro e adia estreia de Wild em Zagreb",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/monteiro-zagreb-back-2026.jpg",
-        "date": "12/05/2026",
-        "description": "Zagreb (Croácia)– A chuva atrapalhou bastante a rodada desta terça-feira no challenger de Zagreb, que não teve uma partida sequer completa. O cearense Thiago Monteiro estava em quadra e teve sua partida paralisada, quando vencia o equatoriano Andy Andrade por 6/4, 4/6 e 1/0, em 1h45 de disputa."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/draper-retorna-na-grama-com-murray-em-sua-equipe.html",
-        "title": "Draper retorna na grama com Murray em sua equipe",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/jack_draper.jpg",
-        "date": "12/05/2026",
-        "description": "Londres (Inglaterra) –Jack Draper anunciou o rompimento com o técnico Jamie Delgado e agregou Andy Murray ao seu time para a disputa da temporada de grama, em seu retorno ao circuito. O britânico tem lidado com problemas físicos desde o ano passado e resolveu saltar o saibro europeu após sofrer nova lesão na estreia do ATP 500 de Barcelona."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/afastado-do-circuito-alcaraz-estrela-capa-da-revista-vanity-fair.html",
-        "title": "Afastado do circuito, Alcaraz estrela capa da revista Vanity Fair",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/alcaraz_vanity-fair.jpg",
-        "date": "12/05/2026",
-        "description": "Los Angeles (EUA) –Número 2 do mundo, Carlos Alcaraz foi entrevistado pela revista Vanity Fair antes da largada do Miami Open. O ensaio fotográfico já repercute nas redes sociais. A revista o define como “o maior showman contemporâneo do tênis”, destacando o carisma do tenista espanhol de 23 anos. Logo que chegou, a tensão desapareceu. “Ele é mais gentil do que sua persona competitiva deixa transparecer”, escreveu a revista."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/musetti-pede-desculpas-aos-fas-e-nao-garante-roland-garros.html",
-        "title": "Musetti pede desculpas aos fãs e não garante Roland Garros",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/20260512_Musetti_saluta-1024x683.jpg",
-        "date": "12/05/2026",
-        "description": "Roma (Itália) –Após sentir nova lesão, Lorenzo Musetti demonstrou estar bastante abalado e não garantiu a participação em Roland Garros. O italiano caiu na fase de oitavas de final no Masters 1000 de Roma, com derrota para o norueguês Casper Ruud, e disse que evitou abandonar em respeito ao público."
     }
 ]
