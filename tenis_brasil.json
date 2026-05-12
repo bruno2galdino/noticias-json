@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/um-dos-mais-renomados-treinadores-brasileiros-goffi-falece-nos-eua.html",
+        "title": "Um dos mais renomados treinadores brasileiros, Goffi falece nos EUA",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/goffi-1024x513.jpg",
+        "date": "12/05/2026",
+        "description": "Orlando (EUA)– A luta contra o câncer de intestino durou sete anos e por fim terminou de forma serena na noite desta segunda-feira, junto a sua família, na Flórida. O paulista Carlos Goffi faleceu aos 73 anos, deixando um grande legado para o tênis internacional."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-12-05.html",
+        "title": "O dia dos brasileiros: veja os resultados desta terça",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bruno_fernandez_campinas_back-1024x683.jpg",
+        "date": "12/05/2026",
+        "description": "WTA 125 de Paris (França) – Saibro – 115 mil eurosPrimeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/estou-proximo-do-meu-melhor-nivel-celebra-ruud.html",
         "title": "“Estou próximo do meu melhor nível”, celebra Ruud",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/ruud-roma-2026-1024x683.jpg",
@@ -12,13 +26,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/landaluce-roma-prepara-2026-1024x683.jpg",
         "date": "12/05/2026",
         "description": "Roma (Itália)– O espanhol Martin Landaluce segue aproveitando muito bem a sorte que teve no Masters 1000 de Roma e já está nas quartas de final. Nesta terça-feira, o lucky-loser levou a melhor sobre o sérvio Hamad Medjedovic,algoz do carioca João Fonseca, triunfando com parciais de 7/5 e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-12-05.html",
-        "title": "O dia dos brasileiros: veja os resultados desta terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bruno_fernandez_campinas_back-1024x683.jpg",
-        "date": "12/05/2026",
-        "description": "WTA 125 de Paris (França) – Saibro – 115 mil eurosPrimeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/nunca-joguei-em-uma-quadra-tao-ruim-reclama-zverev.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/20260512_Musetti_saluta-1024x683.jpg",
         "date": "12/05/2026",
         "description": "Roma (Itália) –Após sentir nova lesão, Lorenzo Musetti demonstrou estar bastante abalado e não garantiu a participação em Roland Garros. O italiano caiu na fase de oitavas de final no Masters 1000 de Roma, com derrota para o norueguês Casper Ruud, e disse que evitou abandonar em respeito ao público."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/jodar-ultrapassa-fonseca-com-campanha-em-roma-e-deve-estrear-no-top-30.html",
-        "title": "Jodar ultrapassa Fonseca com campanha em Roma e deve estrear no top 30",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/20260510_GSP28623-1024x682.jpg",
-        "date": "12/05/2026",
-        "description": "Roma (Itália)– A grande fase do espanhol Rafael Jodar, que vem do título em Marrakech, semi em Barcelona e quartas em Madrie agora em Roma, o fará se tornar o melhor tenista com menos de 20 anos no ranking. Com sua campanha no Foro Itálico, ele vai ultrapassar o carioca João Fonseca."
     }
 ]
