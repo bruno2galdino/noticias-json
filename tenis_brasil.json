@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo.html",
+        "title": "O dia dos brasileiros: veja os resultados deste domingo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/mateus_alves_fore_potosi.jpg",
+        "date": "17/05/2026",
+        "description": "ATP 500 de Hamburgo (Alemanha) – Saibro – 2.219.670 eurosDuplas – Quali – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bublik-dispara-contra-duplistas-e-acusa-falsidade-nas-emocoes-em-quadra.html",
+        "title": "Bublik dispara contra duplistas e acusa falsidade nas emoções em quadra",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/bublik-1024x673.jpg",
+        "date": "17/05/2026",
+        "description": "Londres (Inglaterra)– Sempre muito sincero, às vezes até demais, o cazaque Alexander Bublik gerou polêmica em sua mais recente entrevista. Falando para o jornal britânicoThe Guardian, ele não poupou críticas às duplas e colocou os jogadores que se especializam na modalidade abaixo de todos os que jogam simples."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/tive-varias-oportunidades-mas-nao-as-aproveitei-lamenta-gauff.html",
+        "title": "“Tive várias oportunidades, mas não as aproveitei”, lamenta Gauff",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/gauff-roma-back-2026-1024x683.jpg",
+        "date": "17/05/2026",
+        "description": "Roma (Itália)– A norte-americana Coco Gauff saiu frustrada com a derrota na final do WTA 1000 de Roma no último sábado, caindo em batalha de três sets diante da ucraniana Elina Svitolina, quelevantou sua terceira taça no torneio. A vice-campeã no Foro Itálico espera tirar lições importantes da partida para a disputa em Roland Garros."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/mateus-alves-e-luis-felipe-miguel-decidem-no-saibro-de-maringa.html",
         "title": "Mateus Alves e Luís Felipe Miguel decidem no saibro de Maringá",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/luis_felipe_miguel_joinville.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/matos-luz-houston-20264-1024x683.jpeg",
         "date": "16/05/2026",
         "description": "Hamburgo (Alemanha)– Se na chave de simples o único representante brasileiro, o carioca João Fonseca,acabou desistindo do torneioem simples, serão dois os tenistas do país na chave de duplas do ATP 500 de Hamburgo: os gaúchos Orlando Luz e Rafael Matos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/monteiro-joga-challenger-em-istambul-danielzinho-e-saraiva-no-quali.html",
-        "title": "Monteiro joga challenger em Istambul, Danielzinho e Saraiva no quali",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/monteiro_rioopen25_treina-1024x683.jpg",
-        "date": "16/05/2026",
-        "description": "Istambul (Turquia)– De fora da disputa do quali de Roland Garros, o cearense Thiago Monteiro estará em ação na próxima semana no challenger de Istambul, disputado no saibro, com premiação de US$ 107 mil e que dá 75 pontos no ranking ao campeão."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/svitolina-e-tricampea-em-roma-confira-as-emocoes-da-final.html",
-        "title": "Svitolina é tricampeã em Roma. Confira as emoções da final contra Gauff.",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/08/Melhores-lances-WTA-1024x576.jpg",
-        "date": "16/05/2026",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-encara-ruud-para-ampliar-seus-feitos-nos-masters-1000.html",
-        "title": "Sinner encara Ruud para ampliar seus feitos nos Masters 1000",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/sinner_ruud_roma_af-1024x604.jpg",
-        "date": "16/05/2026",
-        "description": "Roma (Itália)– Depois de superar a sequência recorde de vitórias de Novak Djokovic em Masters 1000, somando 33 até então, duas já a mais do que o sérvio, o italiano Jannik Sinner pode ampliar seus feitos neste nível de torneio na final de domingo no Masters 1000 de Roma contra o norueguês Casper Ruud."
     }
 ]
