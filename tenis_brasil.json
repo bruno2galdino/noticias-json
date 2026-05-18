@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-18-05.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/felipe_miguel_santos_26-1024x683.jpg",
+        "date": "18/05/2026",
+        "description": "Roland Garros (França) – Saibro – 61.723.000, eurosQuali masculino – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-e-confirmado-na-grama-do-forte-atp-500-de-halle.html",
+        "title": "Fonseca é confirmado na grama do forte ATP 500 de Halle",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/fonseca_halle_treina_cut-1024x558.jpg",
+        "date": "18/05/2026",
+        "description": "Halle (Alemanha) –A organização do tradicional ATP 500 de Halle, disputado em quadras de grama, anunciou a presença do brasileiro João Fonseca na edição deste ano, que será disputada entre os dias 15 e 21 de junho. A competição serve de preparação para Wimbledon e atrai grandes nomes do circuito."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/wawrinka-vence-a-primeira-em-genebra-e-encara-michelsen.html",
+        "title": "Wawrinka vence a primeira em Genebra e encara Michelsen",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/wawrinka-genebra-2026-e1779130700686-1024x683.jpg",
+        "date": "18/05/2026",
+        "description": "Genebra (Suíça)– A despedida do suíço Stan Wawrinka no ATP 250 de Genebra, onde faturou seu último título, em 2017, não será um episódio de apenas um capítulo. Isso porque ele superou a estreia nesta terça-feira, batendo o lucky-loser italiano Raul Brancaccio com parciais de 6/2, 4/6 e 7/6 (7-5), após 2h09 de batalha."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cirstea-entra-no-top-20-aos-36-anos-e-faz-historia-no-ranking-da-wta.html",
+        "title": "Cirstea entra no top 20 aos 36 anos e faz história no ranking da WTA",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sorana_roma_fore-1024x683.jpg",
+        "date": "18/05/2026",
+        "description": "São Petersburgo (EUA) –A atualização do ranking desta segunda-feira foi especial para Sorana Cirstea, que debutou no top 20 depois de ter alcançado a semifinal do WTA 1000 de Roma e chegou ao 18º lugar. A romena de 36 anos fez história como a jogadora mais velha a chegar ao top 20."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/shelton-sofre-na-estreia-em-hamburgo-de-minaur-pega-fokina.html",
+        "title": "Shelton sofre na estreia em Hamburgo, De Minaur pega Fokina",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/shelton-saca-hamburgo1.jpg",
+        "date": "18/05/2026",
+        "description": "Hamburgo (Alemanha) –Ben Shelton precisou de muito trabalho para superar a estreia do ATP 500 de Hamburgo, no saibro. Nesta segunda-feira, o norte-americano sofreu diante do compatriota Marcos Giron, mas fez valer o favoritismo para avançar às oitavas de final por 2 sets a 1, com parciais de 6/3, 4/6 e 7/6 (7-3), após 2h18 de duelo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/marcinko-vence-zvonareva-na-estreia-em-rabat-em-duelo-de-geracoes.html",
+        "title": "Marcinko vence Zvonareva na estreia em Rabat em duelo de gerações",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/Petra_Marcinko_-_Mutua_Madrid_Open_2026_-_Pre-Event-DSC_3322_xgaplus.jpg",
+        "date": "18/05/2026",
+        "description": "Rabat (Marrocos)– Um duelo de gerações marcou as primeiras partidas do WTA 250 de Rabat, que começou nesta segunda-feira. A jovem croata Petra Marcinko, de 20 anos, venceu a experiente russa Vera Zvonareva, de 41, marcando parciais de 6/2 e 6/4 para superar a estreia."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/chabalgoity-avanca-em-milao-guto-victoria-e-nana-sao-cabecas-de-chave.html",
+        "title": "Chabalgoity avança em Milão, Guto, Victória e Naná são cabeças de chave",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/chabalgoity_poa_term_ITF-1024x683.jpg",
+        "date": "18/05/2026",
+        "description": "Milão (Itália) –A participação brasileira no ITF J500 de Milão, em quadras de saibro na Itália, começou com vitória de Pedro Chabalgoity na estreia da chave principal. O brasiliense de 18 anos e 42º do ranking venceu o norte-americano Ryan Cozad, 31º colocado, por 6/7 (5-7), 6/3 e 6/0."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/tsitsipas-precisa-de-6-match-points-para-superar-a-estreia-em-genebra.html",
         "title": "Tsitsipas precisa de 6 match-points para superar a estreia em Genebra",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/tsitsipas-geneva-2026-monday-1-e1779123563861-1024x682.jpg",
@@ -14,59 +63,10 @@
         "description": "Bordeaux (França) –O argentino Juan Manuel Cerúndolo celebrou o título do forte challenger 175 de Bordeaux e surgiu na lista desta segunda-feira com o seu melhor ranking, na 54ª colocação. No domingo, ele virou sobre o belga Raphael Collignon com parciais de 5/7, 6/1 e 7/6 (7-4), em 2h38 de batalha."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-18-05.html",
-        "title": "O dia dos brasileiros: veja os resultados desta segunda",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/felipe_miguel_santos_26-1024x683.jpg",
-        "date": "18/05/2026",
-        "description": "Roland Garros (França) – Saibro – 61.723.000, eurosQuali masculino – Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/boscardin-estreia-no-quali-de-rg-com-grande-vitoria-sobre-ex-top-20.html",
         "title": "Boscardin estreia no quali de RG com grande vitória sobre ex-top 20",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/10/boscardin-olhabola-sauipe-2025-scaled-e1761531353954-1024x683.jpg",
         "date": "18/05/2026",
         "description": "Paris (França)– Primeiro brasileiro a entrar em quadra na fase classificatória de Roland Garros, o catarinense Pedro Boscardin anotou uma grande vitória em sua primeira partida de quali de Grand Slam. Ele teve pela frente o experiente georgiano Nikoloz Basilashvili, batendo o ex-top 20 em sets diretos, com parciais de 7/6 (7-4) e 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/jovem-dupla-desbanca-multicampeoes-e-vence-a-5a-etapa-do-circuito-beach-tennis.html",
-        "title": "Jovem dupla desbanca multicampeões e vence a 5ª etapa do Circuito Beach Tennis",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/gianpiero_lucaslima_campinas.jpg",
-        "date": "18/05/2026",
-        "description": "Campinas (SP) –Foram definidos, neste domingo, os campeões da quinta etapa do Circuito Beach Tennis, que aconteceu no CT Lucas Sousa, no Clube Cultura, em Campinas, etapa beneficente em prol da Casa Ronald McDonald local, entidade que atende crianças e adolescentes em tratamento oncológico e anomalias craniofaciais e suas famílias."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/romboli-bate-dupla-de-demoliner-e-fura-o-quali-em-hamburgo.html",
-        "title": "Romboli bate dupla de Demoliner e fura o quali em Hamburgo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/romboli_seggerman_hamburgo_smash-1024x576.jpg",
-        "date": "18/05/2026",
-        "description": "Hamburgo (Alemanha) –Em duelo envolvendo um brasileiro de cada lado valendo vaga na chave principal no evento de duplas do ATP 500 de Hamburgo, Fernando Romboli levou a melhor sobre Marcelo Demoliner. O carioca e o norte-americano Ryan Seggerman triunfaram sobre o gaúcho e o indiano N. Sriram Balaji em sets diretos, com parciais de 6/4 e 6/3, em apenas 63 minutos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/saraiva-fura-o-quali-em-istambul-danielzinho-cai-e-entra-de-lucky-loser.html",
-        "title": "Saraiva fura o quali em Istambul, Danielzinho cai e entra de lucky-loser",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/saraiva-e1779117527508-1024x683.jpg",
-        "date": "18/05/2026",
-        "description": "Istambul (Turquia)– O Brasil terá três representantes na chave principal do challenger de Istambul. O cearense Thiago Monteiro vai ganhar a companhia do brasiliense Paulo Saraiva e do veterano paulista Daniel Silva, que entraram na disputa através do quali."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/marcelo-meyer-lanca-livro-bate-bola-reunindo-decadas-de-experiencia.html",
-        "title": "Marcelo Meyer lança livro “Bate-Bola” reunindo décadas de experiência",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/meyer_e_meligeni.jpg",
-        "date": "18/05/2026",
-        "description": "São Paulo (SP) –O empresário, ex-tenista e ex-treinador Marcelo Meyer apresenta seu mais novo livro, Bate-Bola com Marcelo Meyer, reunindo décadas de experiência no mundo do tênis, tanto dentro quanto fora das quadras."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/svitolina-sobe-no-ranking-e-atinge-melhor-marca-em-4-anos-e-meio.html",
-        "title": "Svitolina sobe no ranking e atinge melhor marca em 4 anos e meio",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/svitolina-roma-feliz-2026-1024x682.jpg",
-        "date": "18/05/2026",
-        "description": "São Petersburgo (EUA)– Fazendo um grande começo de temporada, a ucraniana Elina Svitolina conquistou no último sábado otítulo do WTA 1000 de Romae com isso alcançou sua melhor marca no ranking em mais de quatro anos e meio. Nesta segunda-feira, ela subiu do décimo para o sétimo lugar."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/stefani-e-dabrowski-estreiam-com-dura-vitoria-em-estrasburgo.html",
-        "title": "Stefani e Dabrowski estreiam com dura vitória em Estrasburgo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/stefani_dabro_miami_comb.jpg",
-        "date": "18/05/2026",
-        "description": "Estrasburgo (França) –Principais favoritas no saibro do forte WTA 500 de Estrasburgo, a paulista Luísa Stefani e a canadense Gabriela Dabrowski tiveram trabalho para superar a estreia no evento disputado no saibro. Nesta segunda-feira, elas derrotaram a croata Antonia Ruzic e a russa Oksana Selekhmeteva por 2 sets a 1, com parciais de 6/2, 3/6 e 10-6, em 1h22 de confronto."
     }
 ]
