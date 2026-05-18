@@ -1,10 +1,52 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/roma-sem-roteiro.html",
+        "title": "Roma sem roteiro",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/pat_roma.jpg",
+        "date": "18/05/2026",
+        "description": "Enquanto o italiano Jannik Sinner segue encantando — principalmente a torcida local — e faturando praticamente tudo, o que reafirma a explosão do tênis no país, fruto do trabalho planejado da Federação nacional, a Itália hoje apresenta uma verdadeira esquadra composta por nomes como Lorenzo Musetti, Flavio Cobolli, Matteo Arnaldi, Luciano Darderi, Lorenzo Sonego, Matteo Berrettini e tantos outros."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ruud-volta-ao-top-20-com-vice-em-roma-e-lidera-ascensoes-na-atp.html",
+        "title": "Ruud volta ao top 20 com vice em Roma e lidera ascensões na ATP",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/ruud-roma-toss-2026-1024x683.jpg",
+        "date": "18/05/2026",
+        "description": "Londres (Inglaterra)– Durou pouco a estadia do norueguês Casper Ruud fora do top 20. Depois de sair desta faixa de ranking ao não defender o título em Madri,ele foi vice-campeão em Romae com isso se recuperou no ranking. Ele ganhou oito colocações com a campanha no Foro Itálico e agora é o 17º do mundo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/felipe_miguel_santos_26-1024x683.jpg",
+        "date": "18/05/2026",
+        "description": "Roland Garros (França) – Saibro – 61.723.000, eurosQuali masculino – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-iguala-edberg-e-se-aproxima-do-top-10-dos-maiores-numero-1.html",
+        "title": "Sinner iguala Edberg e se aproxima do top 10 dos maiores número 1",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner-roma-2026-1024x682.jpg",
+        "date": "18/05/2026",
+        "description": "Londres (Inglaterra)– Dominante no circuito nos últimos meses, o italiano Jannik Sinner não apenas vai acumulando sequência de vitóriase títulos, mas também semanas como número 1 do mundo. Ao liderar o ranking nesta segunda-feira, ele igualou as 72 semanas no topo da ATP do sueco Stefan Edberg."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bia-mantem-posicao-na-wta-mas-saira-do-top-100-pela-1a-vez-desde-2021.html",
+        "title": "Bia mantém posição na WTA, mas sairá do top 100 pela 1ª vez desde 2021",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/Madrid-Open-Dia-1-Bia-Haddad-8.jpg",
+        "date": "18/05/2026",
+        "description": "São Petersburgo (EUA)– No ranking da WTA desta segunda-feira, a paulista Beatriz Haddad Maia aparece na 78ª colocação, a mesma da última lista, mas está com os dias contados no top 100. Isso porque elacaiu na primeira rodada do quali no WTA 500 de Estrasburgo, onde defendia a semifinal do ano passado."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/heide-dispara-e-volta-ao-top-200-wild-despenca-no-ranking.html",
+        "title": "Heide dispara e volta ao top 200, Wild despenca no ranking",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/heide-francavilla-prepara-saque-2026-1024x683.jpg",
+        "date": "18/05/2026",
+        "description": "Londres (Inglaterra)– A semana começou bastante movimentada para os brasileiros no ranking da ATP, com destaque para o paulista Gustavo Heide, que com ovice-campeonato no challenger de Francavilladisparou 22 lugares e voltou ao top 200, alcançando a 187ª colocação."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/keys-abandona-final-por-lesao-e-parry-conquista-wta-125-em-casa.html",
         "title": "Keys abandona final por lesão e Parry conquista WTA 125 em casa",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/parry_keys_trofeus-1024x623.jpg",
         "date": "17/05/2026",
-        "description": "Paris (França) –A francesa Diane Parry conquistou o título do WTA 125 de Paris, em quadras de saibro. Ela liderava a final deste domingo contra a norte-americana Madison Keys, 19ª do mundo e principal cabeça de chave, por 6/3 e 3/3, quando a rival se retirou por lesão."
+        "description": "Paris (França) –A francesa Diane Parry conquistou o título do WTA 125 de Paris, em quadras de saibro. Ela perdia a final deste domingo contra a norte-americana Madison Keys, 19ª do mundo e principal cabeça de chave, por 3/6 e 3/3, quando a rival se retirou por lesão."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-novo-quebrador-de-recordes.html",
@@ -25,48 +67,6 @@
         "title": "Roland Garros começa com quali nesta segunda e brasileiros em ação",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/agiAXqYofJOwHS0j_Balles-Roland-Garros2026-GuillaumeAmat-1024x683.jpg",
         "date": "17/05/2026",
-        "description": "Paris (França)– A partir desta segunda-feira o som das bolas e o rugido da multidão voltarão a ecoar pelas quadras de saibro de Porte d’Auteuil. O torneio de Roland Garrosjá sorteou as chaves do quali, que começarão a ser disputadas com cinco brasileiros em ação, quatro no mesculino e uma no feminino."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-nao-e-realista-pensar-em-vencer-todos-os-masters-1000.html",
-        "title": "Sinner: “Não é realista pensar em vencer todos os Masters 1000”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner-roma-taca-2026-e1779053486730-1024x682.jpg",
-        "date": "17/05/2026",
-        "description": "Roma (Itália)– O italiano Jannik Sinner fez história neste domingo, não apenas porencerrar o jejum de 50 anossem títulos italianos no Masters 1000 de Roma, mas também por se tornar apenas o segundo na história a completar a galeria de títulos neste nível, igualando o sérvio Novak Djokovic com todas as nove taças de Masters 1000 em sua coleção."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ruud-compara-hegemonia-de-sinner-e-alcaraz-a-era-do-big-3.html",
-        "title": "Ruud compara hegemonia de Sinner e Alcaraz à era do Big 3",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/ruud-roma-trofeu-vice-2026.jpg",
-        "date": "17/05/2026",
-        "description": "Roma (Itália)– Derrotado na final de Roma pelo italiano Jannik Sinner, quecompletou assim sua galeria de títulos nos Masters 1000, o norueguês Casper Ruud elogiou bastante a capacidade do número 1 do mundo, que o venceu pela quinta vez em cinco jogos, todos eles em sets diretos. Apesar disso, ele fez um balanço positivo de sua campanha no Foro Itálico."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wawrinka-volta-a-genebra-apos-7-anos-e-estreia-na-segunda-feira.html",
-        "title": "Wawrinka volta a Genebra após 7 anos e estreia na segunda-feira",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/wawrinka-genebra-coletiva-2026-e1779049394630-1024x682.jpg",
-        "date": "17/05/2026",
-        "description": "Genebra (Suíça)– Sete anos após sua última participação no ATP 250 de Genebra, o suíço Stan Wawrinka está de volta às quadras de saibro de Eaux-Vives, o mesmo lugar onde conquistou o último título de sua carreira em 2017. Ele fará sua estreia no torneio na próxima segunda-feira, não antes das 13h (horário de Brasília)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-parabeniza-sinner-pela-conquista-bem-vindo-ao-clube-exclusivo.html",
-        "title": "Djokovic parabeniza Sinner pela conquista: “Bem-vindo ao clube exclusivo”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/djokovic_sinner_ausopen_sorrindo-1024x715.jpg",
-        "date": "17/05/2026",
-        "description": "Roma (Itália)– Ao vencer o Masters 1000 de Roma neste domingo, o italiano Jannik Sinner se tornou apenas o segundo tenista da históriaa conquistar o título em todos os nove Masters 1000do circuito, se juntando ao sérvio Novak Djokovic, o único que também alcançou tal feito."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/romboli-e-demoliner-vencem-no-quali-e-duelam-por-vaga-na-chave.html",
-        "title": "Romboli e Demoliner vencem no quali e duelam por vaga na chave",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/demoliner-rio-open-prepara-2026-1024x683.jpg",
-        "date": "17/05/2026",
-        "description": "Hamburgo (Alemanha)– Além de contar com os dois primeiros jogos da chave principal de simples, em queFrances Tiafoe e Tommy Paul saíram vencedores, o domingo no ATP 500 de Hamburgo teve a última rodada do quali de simples e primeira de duplas, nas quais os brasileiros Fernando Romboli e Marcelo Demoliner saíram vitoriosos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tiafoe-e-paul-sao-os-primeiros-vencedores-no-atp-500-de-hamburgo.html",
-        "title": "Tiafoe e Paul são os primeiros vencedores no ATP 500 de Hamburgo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/tiafoe-hamburgo-treino-sorri-2026-e1779043562877-1024x683.jpg",
-        "date": "17/05/2026",
-        "description": "Hamburgo (Alemanha)– Disputado nas vésperas de Roland Garros, que já teve aschaves do quali sorteadas, o ATP 500 de Hamburgo começou neste domingo com apenas dois jogos da chave principal, terminando com as vitórias norte-americanas de Frances Tiafoe e Tommy Paul."
+        "description": "Paris (França)– A partir desta segunda-feira o som das bolas e o rugido da multidão voltarão a ecoar pelas quadras de saibro de Porte d’Auteuil. O torneio de Roland Garrosjá sorteou as chaves do quali, que começarão a ser disputadas com cinco brasileiros em ação, quatro no masculino e uma no feminino."
     }
 ]
