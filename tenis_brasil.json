@@ -1,5 +1,33 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/reis-e-boscardin-seguem-para-challenger-no-saibro-de-vicenza.html",
+        "title": "Reis e Boscardin seguem para challenger no saibro de Vicenza",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/reis-itajai-prepara-2026-1024x683.jpg",
+        "date": "23/05/2026",
+        "description": "Vicenza (Itália) –Após a disputa do quali de Roland Garros, onde caíram na segunda rodada, João Lucas Reis e Pedro Boscardin seguem para o challenger de Vicenza, em quadras de saibro na Itália. O tonreio distribui 97.640 euros, com 75 pontos na ATP ao campeão."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/atual-campea-gauff-se-sente-mais-forte-emocionalmente.html",
+        "title": "Atual campeã, Gauff se sente mais forte emocionalmente",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/gauff_rg_coletiva_rindo-1024x683.jpg",
+        "date": "23/05/2026",
+        "description": "Paris (França) –De volta ao palco de sua segunda conquista de um Grand Slam, Coco Gauff retorna a Roland Garros sentindo-se mais preparada emocionalmente do que no ano passado. A atual campeã chega confiante depois da boa campanha no saibro de Roma, onde foi finalista, e refletiu sobre o fato de ter crescido cercada de expectativas desde os tempos de juvenil."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/stefani-mantem-o-foco-em-roland-garros-e-chave-tera-tres-brasileiras.html",
+        "title": "Stefani mantém o foco em Roland Garros e chave terá três brasileiras",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/stefani_dabrowski_stras_premios-1024x682.jpg",
+        "date": "23/05/2026",
+        "description": "Estrasburgo (França) –Depois de conquistar obicampeonato no WTA 500 de Estrasburgo, Luísa Stefani agora mantém o foco em Roland Garros, onde vai em busca de um título inédito ao lado da canadense Gabriela Dabrowski."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/clara-coura-conquista-na-bolivia-seu-maior-titulo-no-juvenil.html",
+        "title": "Clara Coura conquista na Bolívia seu maior título no juvenil",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/coura_trofeu_bolivia-1024x666.jpg",
+        "date": "23/05/2026",
+        "description": "Cochabamba (Bolívia) –A juvenil catarinense Clara Coura conquistou o título do ITF J100 de Cochabamba, em quadras de saibro na Bolívia. A jogadora de apenas 14 anos superou na final deste sábado a peruana Luciana Luna, de 15 anos e 326ª do ranking, por 6/0 e 6/3."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/mateus-alves-e-gustavo-almeida-fazem-final-brasileira-em-maringa.html",
         "title": "Alves e Almeida fazem final brasileira, Loureiro e Santos campeões de duplas",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/joaoloureiro_ryansantos_trofeus-1024x683.jpg",
@@ -8,7 +36,7 @@
     },
     {
         "url": "https://tenisbrasil.uol.com.br/nova-geracao-feminina-povoa-o-caminho-das-favoritas-em-roland-garros.html",
-        "title": "Nova geração feminina povoa o caminho das favoritas em Roland Garros",
+        "title": "Nova geração feminina povoa o caminho das favoritas em Paris",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/arte_ps_mboko_estras.png",
         "date": "23/05/2026",
         "description": "Em uma edição sem claro favoritismo, a chave feminina de Roland Garros começa neste domingo apresentando alguns novos nomes, incluindo dez estreantes em Grand Slam. E a nova geração do circuito aparece no caminho de algumas das principais cabeças de chave."
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/RG_exterior-da-Chatrier.jpg",
         "date": "23/05/2026",
         "description": "Domingo, dia 24 de maio32 jogos de simples masculino e feminino (1ª rodada)"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tien-vira-o-jogo-contra-navone-e-vence-seu-2o-atp-em-genebra.html",
-        "title": "Tien vira o jogo contra Navone e vence seu 2º ATP em Genebra",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/tien-geneva-2026-saturday-final-1024x576.jpg",
-        "date": "23/05/2026",
-        "description": "Genebra (Suíça) –Pela segunda vez em sua carreira profissional, Learner Tien conquistou um título de ATP 250. O canhoto de 20 anos é campeão no saibro de Genebra ao superar na final deste sábado o argentino Mariano Navone, 42º do ranking, por 3/6, 6/3 e 7/5 em 2h29 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-estou-cada-vez-mais-a-vontade-nos-grandes-torneios.html",
-        "title": "Fonseca: “Estou cada vez mais à vontade nos grandes torneios”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/fonseca_guiteixeira_rg-1024x683.jpg",
-        "date": "23/05/2026",
-        "description": "Paris (França) –De volta ao saibro de Roland Garros para sua segunda participação na chave principal, João Fonseca se sente cada vez melhor adaptado aos grandes torneios. Atual número 1 do Brasil e 30º do mundo,o carioca de 19 anos estreia neste domingo, por volta do meio-dia (de Brasília). Ele enfrenta o francês Luka Pavlovic, 246º do ranking e vindo do quali."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/buse-vence-final-de-3h-em-hambugo-e-faz-historia-para-o-tenis-peruano.html",
-        "title": "Buse vence final de 3h em Hambugo e faz história para o tênis peruano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/buse-hamburg-2026-trophy-shot-1024x576.jpg",
-        "date": "23/05/2026",
-        "description": "Hamburgo (Alemanha) –O peruano Ignacio Buse fez história para o tênis de seu país ao conquistar neste sábado o título do ATP 500 de Hamburgo. O jovem de 22 anos e 57º do ranking superou o norte-americano Tommy Paul, 26º colocado, por 7/6 (8-6), 4/6 e 6/3 em 3h03 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/roland-garros-e-o-mais-rico-dos-slam-para-o-tenis-brasileiro.html",
-        "title": "Roland Garros é o mais rico dos Slam para o tênis brasileiro",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/10/2000_rg_trofeu_capa757.jpg",
-        "date": "23/05/2026",
-        "description": "Ainda que Maria Esther Bueno tenha brilhado tão intensamente em Wimbledon, certamente tem sido o saibro francês quem tem historicamente dado os melhores resultados para o tênis brasileiro, principalmente na Era Profissional."
     }
 ]
