@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-copy.html",
+        "title": "O dia dos brasileiros: veja os resultados desta sexta – Copy",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/gustavo_almeida_maringa_fore-1024x819.jpg",
+        "date": "06/06/2026",
+        "description": "Roland Garros, em Paris (França) SaibroJuvenil – Masculino – Semifinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/granollers-e-zeballos-conquistam-o-bicampeonato-em-roland-garros.html",
+        "title": "Granollers e Zeballos conquistam o bicampeonato em Roland Garros",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/RG_Granollers_Zeballos_PM12508-1024x683.jpg",
+        "date": "06/06/2026",
+        "description": "Paris (França)– O espanhol Marcel Granollers e o argentino Horacio Zeballos defenderam com sucesso o título de Roland Garros neste sábado, derrotando na final os cabeças de chave 2, o finlandês Harri Heliovaara e o britânico Henry Patten, por 6/4 e 6/2, em 76 minutos de partida."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/nicolas-oliveira-elimina-o-cabeca-1-e-faz-semi-em-cuiaba.html",
         "title": "Nicolas Oliveira elimina o cabeça 1 e faz semi em Cuiabá",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nicolas_oliveira_ribeirao_saque-1024x682.jpg",
@@ -39,7 +53,7 @@
         "title": "Stefani lamenta desempenho na semi, mas terá seu melhor ranking",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/dabrowski_stefani_rg_comb_AF-1024x683.jpg",
         "date": "05/06/2026",
-        "description": "Paris (França) –Com o fim da particiapação em Roland Garros nesta sexta-feira, após a derrota na semifinal de duplas, Luísa Stefani lamentou o desempenho na partida contra a Taylor Townsend e Katerina Siniakova. A brasileira reconhece que não teve uma boa atuação diante das líderes do ranking, mas terá o melhor ranking da carreira, no sétimo lugar."
+        "description": "Paris (França) –Com o fim da participação em Roland Garros nesta sexta-feira, após a derrota na semifinal de duplas, Luísa Stefani lamentou o desempenho na partida contra a Taylor Townsend e Katerina Siniakova. A brasileira reconhece que não teve uma boa atuação diante das líderes do ranking, mas terá o melhor ranking da carreira, no sétimo lugar."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/kafelnikov-celebra-30-anos-de-feito-historico-em-roland-garros.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/blog_zverev_rg.jpg",
         "date": "05/06/2026",
         "description": "Os grandes adversários saíram do caminho, coisa que não aconteceu nas outras três tentativas, e acima de tudo o tênis mostrado nas duas semanas se mostrou muito bom, confiante, firme, seja no saibro seco como em condições frias e úmidas. Parece que tudo mesmo conspira para que finalmente Alexander Zverev ganhe seu primeiro título de Grand Slam."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ingrid-e-finalista-em-wta-125-na-croacia-e-tenta-1o-titulo-no-ano.html",
-        "title": "Ingrid é finalista em WTA 125 na Croácia e tenta 1º título no ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/ingrid_ovcharenko_dupla-1024x682.jpg",
-        "date": "05/06/2026",
-        "description": "Makarska (Croácia) –Terceira melhor brasileira no ranking entre as especialistas em duplas, ocupando atualmente a 85ª posição, a carioca Ingrid Martins está na final do WTA 125 de Makarska, em quadras de saibro na Croácia."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/agassi-enaltece-fonseca-apos-roland-garros-agora-e-um-homem.html",
-        "title": "Agassi enaltece Fonseca após Roland Garros: “Agora é um homem”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/agassi_fonseca_laver-1024x683.jpg",
-        "date": "05/06/2026",
-        "description": "Paris (França) –João Fonseca voltou a chamar a atenção de Andre Agassi depois de realizar a melhor campanha em um Grand Slam, com as quartas de final em Roland Garros. Às vésperas do encerramento do torneio, o ex-número 1 rasgou elogios ao desenvolvimento do brasileiro."
     }
 ]
