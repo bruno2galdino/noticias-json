@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-10-06.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sofia_mendonca_rioclaro25-1024x683.jpg",
+        "date": "10/06/2026",
+        "description": "WTA 500 de Londres (Inglaterra) – Grama – US$ 1.915.000Duplas – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/atp-de-buenos-aires-muda-de-maos-mas-seguira-no-saibro-ate-2029.html",
+        "title": "ATP de Buenos Aires muda de mãos, mas seguirá no saibro até 2029",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/atp_buenosaires_quadra-1024x683.jpg",
+        "date": "10/06/2026",
+        "description": "Buenos Aires (Argentina) –O ATP 250 de Buenos Aires está prestes a mudar de comando. Segundo reportagem publicada nesta quarta-feira pelo jornalista Sebastián Torok, do diárioLa Nación, a venda do torneio foi aprovada e restaria apenas a conclusão formal para que a novidade seja anunciada."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/victoria-barros-faz-mudanca-na-equipe-e-testa-parceria-com-novo-treinador.html",
+        "title": "Victória Barros faz mudança na equipe e testa parceria com novo treinador",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/arte_ps_vicky26_rg.png",
+        "date": "10/06/2026",
+        "description": "Depois de chegar à semifinal do torneio juvenil de Roland Garros e aoterceiro lugar no ranking mundialda categoria, Victória Barros terá uma mudança em sua equipe. A potiguar de 16 anos encerrou a parceria com o técnico espanhol David Sunyer e já iniciou um período de testes com o brasileiro Vinícius Oliveira, que é radicado na Europa e se juntou ao time na academia de Patrick Mouratoglou."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/fils-tambem-desiste-de-halle-e-wimbledon-vira-duvida.html",
         "title": "Fils também desiste de Halle e Wimbledon vira dúvida",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/fils-madri-prepara-2026-e1777557769238-1024x683.jpg",
@@ -12,13 +33,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/baran_cappellett_iamazonia24.jpg",
         "date": "10/06/2026",
         "description": "Marabá (Pará) –Os melhores atletas do mundo estarão em Marabá, um dos principais pólos econômicos e urbanos do sudeste do Pará, para a disputa do Amazônia Open, etapa do circuito mundial de beach tennis da categoria ITF BT 400. O torneio acontecerá na Arena Prime Beach Club, de 22 a 28 deste mês, com 470 pontos em disputa no ranking mundial da Federação Internacional de Tênis."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-10-06.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sofia_mendonca_rioclaro25-1024x683.jpg",
-        "date": "10/06/2026",
-        "description": "WTA 500 de Londres (Inglaterra) – Grama – US$ 1.915.000Duplas – Primeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/daniel-avanca-em-itf-tcheco-leite-e-fernandez-caem-na-estreia-na-argentina.html",
@@ -54,19 +68,5 @@
         "image": null,
         "date": "10/06/2026",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wilander-ve-sinner-menos-favorito-em-wimbledon-do-que-em-roland-garros.html",
-        "title": "Wilander vê Sinner menos favorito em Wimbledon do que em Roland Garros",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sinner-wimbledon-2025-saturday-2-corinne-e1753107915690-1024x682.jpg",
-        "date": "10/06/2026",
-        "description": "Paris (França)– Dono de sete títulos de Grand Slam o sueco Mats Wilander falou sobre suas expectativas a respeito do italiano Jannik Sinner em Wimbledon. Para ele, o número 1 do mundo segue como o principal candidato ao título, mas seu favoritismo no All England Club é inferior ao que teve antes de Roland Garros."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bublik-dispara-22-aces-e-busca-semi-em-stuttgart-contra-perricard.html",
-        "title": "Bublik dispara 22 aces e busca semi em Stuttgart contra Perricard",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/Dubai-Tennis-2026-R1-Alexander-Bublik-12-1024x684.jpg",
-        "date": "10/06/2026",
-        "description": "Stuttgart (Alemanha) –Alexander Bublik lutou bastante para assegurar vaga nas quartas de final na grama do ATP 250 de Stuttgart. Em seu primeiro torneio de grama da temporada, o cazaque derrubou o anfitrião Jan-Lennard Struff por 2 sets a 1, com parciais de 7/6 (7-3), 3/6 e 6/2, em 1h46 de partida."
     }
 ]
