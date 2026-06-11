@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/loureiro-rodrigues-kohlmann-e-felipe-miguel-vencem-no-df.html",
+        "title": "Loureiro, Rodrigues, Kohlmann e Felipe Miguel vencem no DF",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/pedro_rodrigues_df_-back-1024x700.jpeg",
+        "date": "10/06/2026",
+        "description": "Brasília (DF) –A rodada desta quarta-feira no Aberto de Brasília foi positiva para os cabeças de chave. O mineiro João Victor Loureiro, o paulista Enzo Kohlmann e o goiano Luis Felipe Miguel venceram seus jogos de estreia no ITF M15 disputado nas quadras duras da Arena Mané Garrincha. O dia também foi de vitórias para Pedro Rodrigues e Rafael Tosetto."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/carol-meligeni-e-luiza-fullana-confirmam-na-estreia-em-cuiaba.html",
+        "title": "Carol Meligeni e Luiza Fullana confirmam na estreia em Cuiabá",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/carol_meligeni_cuiaba_fore-1024x682.jpeg",
+        "date": "10/06/2026",
+        "description": "Cuiabá (MT) –No complemento da primeira rodada do ITF W35 de Cuiabá, Carol Meligeni e Luiza Fullana confirmaram o favoritismo nesta quarta-feira. As brasileiras venceram suas partidas de estreia e estão no mesmo quadrante do torneio disputado nas quadras de saibro do Clube Monte Líbano."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-10-06.html",
         "title": "O dia dos brasileiros: veja os resultados desta quarta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/sofia_mendonca_rioclaro25-1024x683.jpg",
@@ -12,6 +26,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/atp_buenosaires_quadra-1024x683.jpg",
         "date": "10/06/2026",
         "description": "Buenos Aires (Argentina) –O ATP 250 de Buenos Aires está prestes a mudar de comando. Segundo reportagem publicada nesta quarta-feira pelo jornalista Sebastián Torok, do diárioLa Nación, a venda do torneio foi aprovada e restaria apenas a conclusão formal para que a novidade seja anunciada."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/192581.html",
+        "title": "Veja os destaques desta quarta-feira na grama holandesa",
+        "image": null,
+        "date": "10/06/2026",
+        "description": ""
     },
     {
         "url": "https://tenisbrasil.uol.com.br/victoria-barros-faz-mudanca-na-equipe-e-testa-parceria-com-novo-treinador.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/agassi-rio-open-2026-e1771633338670-1024x683.jpg",
         "date": "10/06/2026",
         "description": "Nova Iorque (EUA) –A situação de Carlos Alcaraz segue repercutindo no mundo do tênis. Desta vez, Andre Agassi se manifestou sobre a importância de haver mais informações sobre a lesão no punho direito do espanhol, que segue sem revelar um prazo para o retorno."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/de-minaur-vence-a-quinta-seguida-na-holanda-e-faz-quartas.html",
-        "title": "De Minaur vence a quinta seguida na Holanda e faz quartas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/minaur-vibra-hertogenbosch-1024x682.jpg",
-        "date": "10/06/2026",
-        "description": "‘s-Hertogenbosch (Holanda) –Alex de Minaur teve trabalho, mas garantiu vaga nas quartas de final do ATP 250 de ‘s-Hertogenbosch, evento holandês disputado em quadras de grama. No encerramento da programação desta quarta-feira, o australiano superou o qualificado norte-americano Martin Damm por 2 sets a 0, com parciais de 7/6 (10-8) e 7/5, em 1h58 de batalha."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/melo-segue-na-alemanha-e-jogara-ao-lado-de-zverev-em-halle.html",
-        "title": "Melo segue na Alemanha e jogará ao lado de Zverev em Halle",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/melo_stuttgart_saque_26_adi.jpg",
-        "date": "10/06/2026",
-        "description": "Halle (Alemanha) –Depois de jogar oATP 250 de Stuttgart, o mineiro Marcelo Melo segue na Alemanha onde, na próxima semana, estará no ATP 500 de Halle, ao lado de Alexander Zverev. Será o segundo torneio na temporada de grama, preparatório para Wimbledon."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/veja-o-resumo-da-rodada-desta-quarta-em-stuttgart.html",
-        "title": "Veja o resumo da rodada desta quarta em Stuttgart",
-        "image": null,
-        "date": "10/06/2026",
-        "description": ""
     }
 ]
