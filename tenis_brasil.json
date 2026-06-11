@@ -7,6 +7,13 @@
         "description": "WTA 500 de Londres (Inglaterra) – Grama – US$ 1.915.000Duplas – Quartas de final –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/cinco-brasileiros-jogam-quartas-no-df-saraiva-e-lipe-miguel-duelam.html",
+        "title": "Cinco brasileiros jogam quartas no DF, Saraiva e Lipe Miguel duelam",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/lipe_miguel_df_fore.jpg",
+        "date": "11/06/2026",
+        "description": "Brasília (DF) –Cinco brasileiros estão nas quartas de final do Aberto de Brasília, torneio ITF M15 em quadras duras na Arena Mané Garrincha. É certo que um atleta nacional estará entre os semifinalistas, já que Paulo Saraiva e Luis Felipe Miguel se enfrentam nesta sexta-feira."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/pucinelli-daniel-e-sakamoto-vao-as-quartas-em-torneios-no-saibro.html",
         "title": "Pucinelli, Daniel e Sakamoto vão às quartas em torneios no saibro",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/pucinelli_santos_fore_qf-1024x683.jpg",
@@ -16,9 +23,9 @@
     {
         "url": "https://tenisbrasil.uol.com.br/ex-numero-1-pliskova-garante-posso-ser-perigosa-em-wimbledon.html",
         "title": "Ex-número 1, Pliskova garante: “Posso ser perigosa em Wimbledon”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/pliskova-fore-rg.jpg",
+        "image": null,
         "date": "11/06/2026",
-        "description": "Londres (Inglaterra) –Garantida na fase de quartas de final no tradicional torneio de Queen’s, Karolina Pliskova afirma estar recuperada de problemas físicos e pronta para alcançar bons resultados na grama. Na quarta-feira, ela avançou após a canadenseVictoria Mboko abandonarao lesionar o joelho esquerdo."
+        "description": "Embed from Getty Images"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/jogos-em-queens-sao-adiados-e-stefani-pode-ter-rodada-dupla.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/03/rio_07.jpg",
         "date": "11/06/2026",
         "description": "Londres (Inglaterra) –A Copa do Mundo de Futebol começa nesta quinta-feira e o mundo do tênis estará de olho em tudo o que acontece nos Estados Unidos, com as atenções voltadas para suas seleções. Recordista de títulos de Grand Slam, com o total de 24, Novak Djokovic é um deles, pois é de conhecimento geral que o sérvio é grande admirador do futebol."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rybakina-mboko-e-raducanu-mostram-habilidade-para-decorar-cupcakes.html",
-        "title": "Rybakina, Mboko e Raducanu mostram habilidade para decorar cupcakes",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/raducanu_banco.jpg",
-        "date": "11/06/2026",
-        "description": "Londres (Inglaterra) –Emma Raducanu, nº 1 britânica, participa de uma atividade culinária no Queen’s Club, ao lado da grega Maria Sakkari, da canadense Victoria Mboko e da cazaque Elena Rybakina, bicampeã de Grand Slam, entre outras. As jogadoras tiveram 2 minutos para decorar cupcakes."
     }
 ]
