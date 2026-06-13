@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/krejcikova-volta-a-uma-final-apos-2-anos-e-tenta-novo-titulo-na-grama.html",
+        "title": "Krejcikova volta a uma final após 2 anos e tenta novo título na grama",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/krejcikova_herto_acena-1024x683.jpg",
+        "date": "13/06/2026",
+        "description": "‘s-Hertogenbosch (Holanda) –Dois anos depois de conquistar seu segundo Grand Slam em Wimbledon, Barbora Krejcikova tem a chance de vencer mais um torneio na grama. A experiente tcheca de 30 anos está na final do WTA 250 de ‘s-Hertogenbosch."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-estreia-contra-hanfmann-em-halle-e-pode-e-enfrentar-zverev.html",
+        "title": "Fonseca estreia contra Hanfmann em Halle e pode enfrentar Zverev",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/fonseca_halle_treino_fore-1024x660.jpg",
+        "date": "13/06/2026",
+        "description": "Halle (Alemanha) –Em seu primeiro torneio na temporada de grama, João Fonseca conheceu neste sábado a chave do ATP 500 de Halle, que começa na próxima segunda-feira. O número 1 do Brasil e 25 do mundo estreia contra o alemão Yannick Hanfmann, 59° do ranking, em confronto inédito no circuito."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/de-olho-no-numero-1-sabalenka-e-rybakina-jogam-em-berlim.html",
+        "title": "De olho no nº 1, Sabalenka e Rybakina lideram a forte chave em Berlim",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/sabalenka_berlim_treino.jpg",
+        "date": "13/06/2026",
+        "description": "Berlim (Alemanha) –As duas primeiras colocadas no ranking mundial estarão em quadra na próxima semana no WTA 500 de Berlim, em quadras de grama. Aryna Sabalenka e Elena Rybakina lideram o forte torneio, que contará com sete tenistas do top 10."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-13-06.html",
         "title": "O dia dos brasileiros: veja os resultados deste sábado",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/lipe_miguel_maringa_fore-e1779206286120-1024x683.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/Montgomery-R1-AVH.jpg",
         "date": "12/06/2026",
         "description": "‘s-Hertogenbosch (Holanda) –Barbora Krejcikova segue irresistível no WTA 250 de ‘s-Hertogenbosch. Nesta sexta-feira, a tcheca garantiu vaga nas semifinais do torneio disputado em quadras de grama, ao derrotar a romena Elena Ruse, atual vice-campeã, em sets diretos, com parciais de 6/1 e 6/2, em 1h21 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/veja-o-resumo-desta-sexta-feira-em-stuttgart.html",
-        "title": "Veja o resumo desta sexta-feira em Stuttgart",
-        "image": null,
-        "date": "12/06/2026",
-        "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-corre-sem-a-tala-e-preparador-elogia-sua-forma-fisica.html",
-        "title": "Alcaraz corre sem a tala e preparador elogia sua forma física",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/alcaraz_bolo_23.jpg",
-        "date": "12/06/2026",
-        "description": "Múrcia (Espanha) –Afastado das competições desde 14 de abril, para se recuperar de contusão no punho, Carlos Alcaraz não está totalmente inativo. Alberto Lledó, preparador físico de longa data do ex-número 1 do mundo, compartilhou um vídeo dos dois correndo juntos com a legenda: “As semanas estão voando! Não consigo mais acompanhar você”, escreveu Lledó. Ele também adicionou a hashtag “Rocky”, comparando o esforço de Alcaraz ao icônico personagem do filme. “Muito bem, Carlitos, você está arrasando como o Rocky!”"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/polones-tira-aliassime-na-holanda-medvedev-e-cilic-tem-jogo-suspenso.html",
-        "title": "Polonês tira Aliassime na Holanda, Medvedev e Cilic têm jogo suspenso",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/majchrzak-saca-hertogenbosch-1024x682.jpg",
-        "date": "12/06/2026",
-        "description": "‘s-Hertogenbosch (Holanda) –A surpresa da programação desta sexta-feira do ATP 250 de ‘s-Hertogenbosch ficou a encargo de Kamil Majchrzak. O polonês não se importou com o amplo favoritismo do canadense Félix Auger-Aliassime e derrotou o cabeça de chave 1 em sets diretos, com parciais de 6/4 e 6/3, em apenas 70 minutos de partida."
     }
 ]
