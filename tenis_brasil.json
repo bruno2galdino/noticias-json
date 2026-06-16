@@ -1,17 +1,24 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/marcelo-meyer-responde-suas-duvidas-em-novo-livro.html",
-        "title": "Marcelo Meyer responde suas dúvidas em novo livro",
-        "image": null,
-        "date": "15/06/2026",
-        "description": ""
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-15-06.html",
         "title": "O dia dos brasileiros: veja os resultados desta segunda",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/Kohlmann-e1766085413779-1024x683.jpg",
         "date": "15/06/2026",
         "description": "ATP 500 de Halle (Alemanha) – Grama – 2.583.330 eurosDuplas – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ribeiro-vence-a-primeira-em-assuncao-almeida-fura-o-quali.html",
+        "title": "Ribeiro vence a primeira em Assunção, Almeida fura o quali",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/ribeiro_cordoba_fore_aat-1024x737.jpg",
+        "date": "15/06/2026",
+        "description": "Assunção (Paraguai) –O gaúcho Eduardo Ribeiro marcou a primeira vitória brasileira na chave principal do challenger de Assunção, em quadras de saibro no Paraguai. O evento distribui US$ 63 mil, com 50 pontos na ATP ao campeão."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/marcelo-meyer-responde-suas-duvidas-em-novo-livro.html",
+        "title": "Marcelo Meyer responde suas dúvidas em novo livro",
+        "image": null,
+        "date": "15/06/2026",
+        "description": ""
     },
     {
         "url": "https://tenisbrasil.uol.com.br/storck-entra-no-top-20-do-juvenil-damazio-tem-seu-melhor-ranking.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/sabalenka_berlim_sorrindo_treino.jpg",
         "date": "15/06/2026",
         "description": "Berlim (Alemanha)– A bielorrussa Aryna Sabalenka revelou que após sua amarga eliminação nas quartas de final de Roland Garros buscou ajuda psicológica para superar a decepção da virada sofrida diante da russa Diana Shnaider, na qual levou um “pneu” no terceiro e decisivo set."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-estreia-contra-alexandrova-em-berlim-shnaider-cai.html",
-        "title": "Sabalenka estreia contra Alexandrova em Berlim, Shnaider cai",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/alexandrova_berlim_voleia.jpg",
-        "date": "15/06/2026",
-        "description": "Berlim (Alemanha) –Aryna Sabalenka conheceu sua primeira adversária no concorrido WTA 500 de Berlim. A russa Ekaterina Alexandrova liderava a partida contra a austríaca Anastasia Potapova por 6/1, quando a adversária precisou se retirar da partida, por lesão no pescoço, após 27 minutos de duelo."
     }
 ]
