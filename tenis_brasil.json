@@ -1,17 +1,52 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/andreescu-fura-o-quali-e-volta-a-disputar-wimbledon-apos-2-anos.html",
-        "title": "Andreescu fura o quali e volta a disputar Wimbledon após 2 anos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/JS205315-456160_16by9-Andreescu-e1782416286627-1024x682.jpg",
-        "date": "25/06/2026",
-        "description": "Londres (Inglaterra)– A canadense Bianca Andreescu conseguiu furar o quali de Wimbledon e voltará a disputar um Grand Slam após quase dois anos. Sua última aparição em um evento deste porte foi no US Open de 2024, caindo na estreia do US Open."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-25-06.html",
         "title": "O dia dos brasileiros: veja os resultados desta quinta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/01/zanellato_itajai26_slice.jpg",
         "date": "25/06/2026",
         "description": "ATP 250 de Mallorca (Espanha) – Grama – 612.620 eurosDuplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sabalenka-e-rybakina-voltam-a-disputar-o-numero-1-em-wimbledon.html",
+        "title": "Sabalenka e Rybakina voltam a disputar o número 1 em Wimbledon",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/sabalenka_wimbledon_26_clube_ianwalton.jpg",
+        "date": "25/06/2026",
+        "description": "Londres (Inglaterra) –A liderança do ranking da WTA estará novamente em jogo durante o torneio de Wimbledon. Aryna Sabalenka e Elena Rybakina disputam o número 1 a partir da próxima segunda-feira. O sorteio da chave acontece na manhã desta sexta."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/shelton-critica-calendario-o-protesto-vai-alem-do-dinheiro.html",
+        "title": "Shelton critica calendário: “O protesto vai além do dinheiro”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/shaleton-halle-2026-1024x683.jpg",
+        "date": "25/06/2026",
+        "description": "Londres (Inglaterra) –A polêmica envolvendo um novo protesto dos jogadores, desta vez em Wimbledon, segue repercutindo entre os principais nomes do circuito. O norte-americano Ben Shelton afirmou que os atletas precisam se posicionar e que as medidas não estão relacionadas somente aos valores arrecadados pelos principais torneios do calendário."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/evert-relata-volta-do-cancer-e-se-afasta-da-cobertura-de-wimbledon.html",
+        "title": "Evert relata volta do câncer e se afasta da cobertura de Wimbledon",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/12/by-wta_staff-1024x743.jpg",
+        "date": "25/06/2026",
+        "description": "Londres (Inglaterra) –A multicampeã Chris Evert, vencedora de 18 títulos de Grand Slam em simples, terá que se afastar de suas funções como comentarista e analista de TV durante o torneio de Wimbledon para tratar um novo problema de saúde. A norte-americana de 71 anos anunciou nesta quinta-feira que voltou a sofrer com um câncer de ovário, doença que já havia enfrentado em 2021 e 2023."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/faria-mejia-e-tres-britanicos-furam-o-quali-de-wimbledon.html",
+        "title": "Faria, Mejia e três britânicos furam o quali de Wimbledon",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/tarvet-vibra-quali-wb-1024x728.jpg",
+        "date": "25/06/2026",
+        "description": "Londres (Inglaterra) –A rodada de quinta-feira do qualificatório para Wimbledon definiu os 16 jogadores que vão disputar a chave principal do Grand Slam britânico a partir da próxima segunda-feira. O sorteio do quadro principal acontece nesta sexta, às 6h (horário de Brasília)."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/saraiva-leite-e-andrade-vencem-antes-de-nova-paralisacao-em-piracicaba.html",
+        "title": "Saraiva, Leite e Andrade vencem antes de nova paralisação em Piracicaba",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/lucas_andrade_pira-1024x683.jpg",
+        "date": "25/06/2026",
+        "description": "Piracicaba (SP) –Após dois dias sem jogos, a Copa Internacional de Tenis, em Piracicaba, foi retomada nesta quinta-feira. Ainda com a primeira rodada em andamento, Paulo Saraiva, Wilson Leite e Lucas Andrade da Silva venceram seus jogos antes de uma nova paralisação por chuva."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/andreescu-fura-o-quali-e-volta-a-disputar-wimbledon-apos-2-anos.html",
+        "title": "Andreescu fura o quali e volta a disputar Wimbledon após 2 anos",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/JS205315-456160_16by9-Andreescu-e1782416286627-1024x682.jpg",
+        "date": "25/06/2026",
+        "description": "Londres (Inglaterra)– A canadense Bianca Andreescu conseguiu furar o quali de Wimbledon e voltará a disputar um Grand Slam após quase dois anos. Sua última aparição em um evento deste porte foi no US Open de 2024, caindo na estreia do US Open."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/venus-exalta-serena-e-cita-federer-as-vesperas-de-wimbledon.html",
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/Sinner_djoko_treino.jpg",
         "date": "25/06/2026",
         "description": "Londres (Inglaterra) –Jannik Sinner e Novak Djokovic conhecerão nesta sexta seus adversários de estreia em Wimbledon, com o sorteio das chaves. Enquanto isso, as duas estrelas já dividiram os holofotes no All England Club. Sinner e Djokovic treinaram juntos na Quadra nº 1 na tarde desta quinta-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/shymanovich-se-emociona-e-lembra-do-falecimento-do-pai.html",
-        "title": "Shymanovich se emociona e lembra do falecimento do pai",
-        "image": null,
-        "date": "25/06/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/muchova-resiste-ao-forte-calor-e-garante-ultima-vaga-nas-semifinais.html",
-        "title": "Muchova resiste ao forte calor e garante última vaga nas semifinais",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/muchova_badhomburg_toss-1024x683.jpg",
-        "date": "25/06/2026",
-        "description": "Bad Homburg (Alemanha) –No jogo que encerrou a progrmação das quartas de final do WTA 500 de Bad Homburg, Karolina Muchova sobreviveu a um forte calor e ao nítido contraste de estilos contra Clara Tauson para garantir vaga na semifinal do torneio em quadras de grama. A tcheca superou a dinamarquesa por 1/6, 6/2 e 6/4 em 2h03."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/nana-vence-na-tradicional-exibicao-em-hurlingham-e-vai-para-a-final.html",
-        "title": "Naná vence na tradicional exibição em Hurlingham e vai para a final",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/11/nauhany_bjk_fore_treino.jpg",
-        "date": "25/06/2026",
-        "description": "Londres (Inglaterra)– A tradicional exibição no Hurlingham Club, um dos clubes privados mais exclusivo, localizado na área de Fulham, em Londres, teve a presença da paulista Nauhany Silva nesta quinta-feira em duelo juvenil com a chinesa Yushan Shao. A brasileira venceu a partida em dois tiebreaks, ambos com o placar de 7/6 (7-3)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fokina-barra-dimitrov-em-mallorca-e-se-aproxima-do-1o-titulo.html",
-        "title": "Fokina barra Dimitrov em Mallorca e se aproxima do 1º título",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/fokina-vibra-mallorca-1024x607.jpg",
-        "date": "25/06/2026",
-        "description": "Mallorca (Espanha) –Com o apoio da torcida, Alejandro Davidovich Fokina assegurou vaga nas semifinais do ATP 250 de Mallorca, disputado em quadras de grama. Nesta quinta-feira, o espanhol eliminou o experiente búlgaro Grigor Dimitrov ao triunfar por duplo 6/3, em apenas 74 minutos de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/raducanu-nao-participa-de-treino-devido-a-preocupacoes-com-lesao.html",
-        "title": "Raducanu não participa de treino devido a preocupações com lesão",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/IW3_5158-454293-Raducanu-1024x683.jpg",
-        "date": "25/06/2026",
-        "description": "Londres (Inglaterra)– A britânica Emma Raducanu não participou da sessão de treinos que tinha agendada em Wimbledon na quinta-feira, devido a uma lesão agravada pela sua campanha até afinal do torneio de Queen’s."
     }
 ]
