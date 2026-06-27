@@ -1,10 +1,24 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/pucinelli-e-wild-superam-rodada-dupla-e-fazem-semis-em-piracicaba.html",
-        "title": "Pucinelli e Wild superam rodada dupla e fazem semis em Piracicaba",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/pucinelli_piracicaba_olhabola-1024x683.jpg",
+        "url": "https://tenisbrasil.uol.com.br/bruno-rodrigues-e-clara-elkind-sao-finalistas-em-salinas.html",
+        "title": "Bruno Rodrigues e Clara Elkind são finalistas em Salinas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/bruno_rodrigues_fore_salinas-1024x688.jpg",
         "date": "26/06/2026",
-        "description": "Piracicaba (SP) –O paulista Matheus Pucinelli e o paranaense Thiago Wild estão nas semifinais da Copa Internacional de Tenis, em Piracicaba. Eles superaram uma rodada dupla nesta sexta-feira pelo challenger disputado em quadras de saibro no Clube Cristóvão Colombo. O torneio tem entrada gratuita para o público, distribui US$ 63 mil na semana, com 50 pontos na ATP ao campeão."
+        "description": "Salinas (Equador) –O Brasil tem dois juvenis nas finais do J60 de Salinas, em quadras duras no Equador. Bruno Rodrigues e Clara Elkind venceram seus jogos nesta sexta-feira e vão disputar os títulos no sábado."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/candiotto-e-finalista-em-assuncao-e-tenta-segundo-titulo-profissional.html",
+        "title": "Candiotto é finalista em Assunção e tenta segundo título profissional",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/candiotto_paraguai_grita.jpg",
+        "date": "26/06/2026",
+        "description": "Assunção (Paraguai) –A semana de Ana Candiotto no W15 de Assunção segue com resultados positivos. A jovem paulista de 22 anos e 517ª do ranking chega sem perder sets à final do torneio em quadras de saibro."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/billie-jean-king-recebe-titulo-honorario-da-universidade-de-oxford.html",
+        "title": "Billie Jean King recebe título honorário da Universidade de Oxford",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/billie-jean_oxford.jpg",
+        "date": "26/06/2026",
+        "description": "Londres (Iglaterra) –A lendária Billie Jean King foi uma das nove pessoas que receberam o título honorário de Oxford, em cerimônia de “Encaenia”, realizada sob forte calor no Sheldonian Theatre na quarta-feira passada. Como parte da cerimônia centenária, uma procissão composta por autoridades universitárias e pelos homenageados percorre a cidade, em trajes acadêmicos completos."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-26-06.html",
@@ -12,6 +26,20 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/Filipe_Bullamah_piracicaba-1024x683.jpg",
         "date": "26/06/2026",
         "description": "WTA 250 de Eastbourne (Inglaterra) – Grama –US$ 499 milDuplas – Semifinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/jovens-destaques-na-grama-entram-no-caminho-das-cabecas-de-chave.html",
+        "title": "Jovens destaques na grama entram no caminho das cabeças de chave",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/arte_ps_robin.png",
+        "date": "26/06/2026",
+        "description": "O sorteio da chave feminina em Wimbledon colocou jovens jogadoras que se destacaram durante as três semanas da temporada de grama no caminho de algumas das primeiras colocadas no ranking. Os jogos começam na próxima segunda-feira e a nova geração tenta surpreender."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pucinelli-e-wild-superam-rodada-dupla-e-fazem-semis-em-piracicaba.html",
+        "title": "Pucinelli e Wild superam rodada dupla e fazem semis em Piracicaba",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/pucinelli_piracicaba_olhabola-1024x683.jpg",
+        "date": "26/06/2026",
+        "description": "Piracicaba (SP) –O paulista Matheus Pucinelli e o paranaense Thiago Wild estão nas semifinais da Copa Internacional de Tenis, em Piracicaba. Eles superaram uma rodada dupla nesta sexta-feira pelo challenger disputado em quadras de saibro no Clube Cristóvão Colombo. O torneio tem entrada gratuita para o público, distribui US$ 63 mil na semana, com 50 pontos na ATP ao campeão."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/draper-destaca-evolucao-no-retorno-e-mira-wimbledon.html",
@@ -22,10 +50,10 @@
     },
     {
         "url": "https://tenisbrasil.uol.com.br/quadra-de-wimbledon-no-central-park-e-aberta-nesta-sexta-feira.html",
-        "title": "Quadra de Wimbledon no Central Park é aberta nesta sexta-feira",
+        "title": "Quadra de Wimbledon no Central Park terá clínicas e acesso do público",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/wimbledon-court-in-NY.jpg",
         "date": "26/06/2026",
-        "description": "Nova York (EUA) –Os preparativos finais para o evento “The Wimbledon Court” no Central Park, em Nova York, foram feitos. A famosa pista de patinação Wollman Rink foi transformada, pela primeira vez, em uma quadra de grama temporária, instalada e mantida pela equipe de manutenção de quadras de Wimbledon. O All England Clube, promotor do Grand Slam inglês, afirma que o evento dá continuidade ao “The Hill” em Nova York, realizado desde 2022."
+        "description": "Nova York (EUA) –Os preparativos finais para o evento “The Wimbledon Court” no Central Park, em Nova York, foram feitos. A famosa pista de patinação Wollman Rink foi transformada, pela primeira vez, em uma quadra de grama temporária, instalada e mantida pela equipe de manutenção de quadras de Wimbledon. O All England Club, promotor do Grand Slam inglês, afirma que o evento dá continuidade ao “The Hill” em Nova York, realizado desde 2022."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/irmaos-murray-lancam-canal-the-set-para-aproximar-fas-do-tenis.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/stefani_wimbledon_back_sozinha-1024x683.jpg",
         "date": "26/06/2026",
         "description": "Londres (Inglaterra) –Além da classificação para afinal do WTA 250 de Eastbourne, Luísa Stefani e Gabriela Dabrowski conheceram nesta sexta-feira a chave de duplas em Wimbledon. A brasileira e a canadense são as cabeças 2 do torneio."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/brasileiros-desafiam-cabecas-de-chave-nas-primeiras-rodadas-de-duplas.html",
-        "title": "Brasileiros desafiam cabeças de chave nas primeiras rodadas de duplas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/IMG-20260404-WA0008-1024x682.jpg",
-        "date": "26/06/2026",
-        "description": "Londres (Inglaterra) –Cinco brasileiros estão confirmados na chave de duplas masculinas em Wimbledon. E os representantes nacionais podem enfrentar cabeças de chave logo nas primeiras rodadas."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-lanca-documentario-sobre-vida-e-carreira-em-agosto.html",
-        "title": "Djokovic lança documentário sobre vida e carreira em agosto",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/05/djokovic-genebra-trofeu-100-2025-e1748115866456-1024x683.jpg",
-        "date": "26/06/2026",
-        "description": "Londres (Inglaterra) –Novak Djokovic é outro astro do tênis que terá sua trajetória retratada em um documentário. A produção “The Wolf in Winter” (O Lobo no Inverno, em tradução literal) estreará no dia 20 de agosto na plataforma de streaming Prime Video, com lançamento em mais de 240 países e territórios."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fokina-e-quinn-duelam-por-1o-titulo-na-grama-de-mallorca.html",
-        "title": "Fokina e Quinn duelam por 1º título na grama de Mallorca",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/fokina-fore-mallorca-1024x689.jpg",
-        "date": "26/06/2026",
-        "description": "Mallorca (Espanha) –Com drama, Alejandro Davidovich Fokina fez a festa da torcida local e vai em busca do primeiro título da carreira no ATP 250 de Mallorca, disputado na grama. O espanhol saiu atrás contra o húngaro Fabian Marozsan, mas demonstrou resiliência para virar com as parciais de 5/7, 6/2 e 6/4, em 2h02 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/muchova-avanca-a-terceira-final-na-temporada-e-voltara-ao-top-10.html",
-        "title": "Muchova avança à terceira final na temporada e voltará ao top 10",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/muchova_badhomburg_acena-1024x614.jpg",
-        "date": "26/06/2026",
-        "description": "Bad Homburg (Alemanha) –A segunda vaga na final do WTA 500 de Bad Homburg é de Karolina Muchova. A tcheca de 29 anos e número 11 do mundo avançou à decisão do torneio alemão em quadras de grama ao vencer a romena Elena Ruse, 105ª do ranking, por duplo 6/4."
     }
 ]
