@@ -1,5 +1,54 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-30-06.html",
+        "title": "O dia dos brasileiros: veja os resultados desta terça",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/bruno_fernandez.jpg",
+        "date": "30/06/2026",
+        "description": "Wimbledon (Londres, Inglaterra) – Grama –£ 64.200.000Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/guto-faz-quartas-na-grama-em-roehampton-storck-vence-nas-duplas.html",
+        "title": "Guto faz quartas na grama em Roehampton, Storck vence nas duplas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/guto-rg-vibra-2026.jpg",
+        "date": "30/06/2026",
+        "description": "Londres (Inglaterra) –Líder do ranking mundial juvenil, Guto Miguel está nas quartas de final do J300 de Roehampton, em quadras de grama. O goiano de 17 anos venceu o norte-americano Jordan Lee, 57º colocado, por duplo 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bublik-e-mensik-reagem-na-estreia-cerundolo-decepciona.html",
+        "title": "Bublik e Mensik reagem na estreia, Cerúndolo decepciona",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/bublik-estica-wimbledon-1024x681.jpg",
+        "date": "30/06/2026",
+        "description": "Londres (Inglaterra) –O cazaque Alexander Bublik precisou de muita resiliência para superar a estreia em Wimbledon. Nesta terça-feira, ele lutou por 3h41 para virar sobre o australiano Thanasi Kokkinakis por 3 sets a 2, com parciais de 4/6, 6/3, 6/7 (10-12), 6/3 e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/gauff-conta-os-bastidores-da-area-vip-do-show-do-rapper-bad-bunny.html",
+        "title": "Gauff conta os bastidores da área VIP do show do rapper Bad Bunny",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/gauff_toss.jpg",
+        "date": "30/06/2026",
+        "description": "Londres (Inglaterra) –Coco Gauff aproveitou para se distrair um pouco antes de Wimbledon este ano, indo ao show de Bad Bunny no Tottenham Hotspur Stadium, em Londres. Ela também teve a oportunidade de ser convidada para a “La Casita”, uma área VIP exclusiva e ponto de encontro de celebridades."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/rybakina-leva-susto-mas-supera-bom-teste-e-avanca-em-wimbledon.html",
+        "title": "Rybakina leva susto, mas supera bom teste e avança em Wimbledon",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/rybakina-wimbledon-2026-1024x683.jpg",
+        "date": "30/06/2026",
+        "description": "Londres (Inglaterra)– Podendo sair de Wimbledonna liderança do ranking, a cazaque Elena Rybakina por pouco não viu ruir suas chances logo de cara. A número 2 do mundo teve bastante trabalho na estreia e precisou de três sets para vencer a francesa Lois Boisson, marcando parciais de 6/4, 1/6 e 6/3, depois de 1h49 de jogo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/shelton-perde-batalha-na-estreia-fritz-e-de-minaur-vencem-facil.html",
+        "title": "Shelton perde batalha na estreia, Fritz e De Minaur vencem fácil",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/shelton-cai-wimbledon-1024x658.jpg",
+        "date": "30/06/2026",
+        "description": "Londres (Inglaterra) –Ben Shelton decepcionou e caiu logo na estreia em Wimbledon pela primeira vez na carreira. Nesta terça-feira, o norte-americano foi surpreendido pelo qualificado finlandês Otto Virtanen, que anotou as parciais de 6/4, 3/6, 6/7 (8-10), 6/2 e 7/6 (11-9), em 4h21 de batalha."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/serena-revela-que-curtiu-ver-sabalenka-gauff-e-andreeva-evoluirem.html",
+        "title": "Serena revela que curtiu ver Sabalenka, Gauff e Andreeva evoluírem",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/serena_filhas.jpg",
+        "date": "30/06/2026",
+        "description": "Londres (Inglaterra)– Durante os quase quatro anos longe do circuito da WTA, Serena Williams continuou acompanhando de perto o tênis feminino. Não cada partida ou torneio, como ela disse aos jornalistas em Wimbledon, mas os Grand Slam. Ela gostava de ver a evolução na carreira de certas jogadoras. Uma dessas jogadoras, como ela revelou durante o dia de entrevistas no All England Club, era a atual número 1 do mundo, Aryna Sabalenka."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/sinner-andreeva-e-djoko-na-central-fonseca-joga-as-10h30-no-4o-maior-estadio.html",
         "title": "Sinner, Andreeva e Djoko na Central. Fonseca joga às 10h30 no 4º maior estádio.",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/andreeva_wimbledon_fore-1024x664.jpg",
@@ -14,52 +63,10 @@
         "description": "Londres (Inglaterra)– Atual campeã de Wimbledon, a polonesa Iga Swiatek iniciou a defesa do título nesta terça-feira com uma dura vitória sobre a norte-americana Taylor Townsend. Cabeça de chave 3, ela precisou de três sets para superar seu primeiro obstáculo na competição, fechando o jogo com parciais de 6/1, 2/6 e 6/3."
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-30-06.html",
-        "title": "O dia dos brasileiros: veja os resultados desta terça",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/02/bruno_fernandez.jpg",
-        "date": "30/06/2026",
-        "description": "Wimbledon (Londres, Inglaterra) – Grama –£ 64.200.000Primeira rodada –Veja a chave"
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/saque-falha-muito-bia-perde-na-estreia-e-volta-a-cair-no-ranking.html",
         "title": "Saque falha muito, Bia perde na estreia e volta a cair no ranking",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/bia_wimbledon_toss_25_jimmie-e1751477384620.jpg",
         "date": "30/06/2026",
         "description": "Londres (Inglaterra)– A insegurança no saque foi novamente o principal problema de Beatriz Haddad Maia em uma temporada que segue muito ruim. A canhota brasileira, que já disputou oitavas de final em Wimbledon, desta vez não passou da estreia, superada pela uzbeque Maria Timofeeva com parciais de 6/3 e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/holandes-vence-em-cinco-sets-e-sera-o-adversario-de-fonseca.html",
-        "title": "Holandês vence em cinco sets e será o adversário de Fonseca",
-        "image": null,
-        "date": "30/06/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/keys-mantem-embalo-apos-titulo-e-estreia-com-vitoria-de-virada.html",
-        "title": "Keys mantém embalo após título e estreia com vitória de virada",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/Madison_Keys_-_Wimbledon_Championships_2026_-_Day_2-DSC_7052_xgaplus.jpg",
-        "date": "30/06/2026",
-        "description": "Londres (Inglaterra)– Campeã em Eastbourneno último fim de semana, a norte-americana Madison Keys manteve o embalo e também venceu sua primeira rodada em Wimbledon. Abrindo campanha no torneio nesta terça-feira, ela precisou buscar a virada contra a compatriota Kayla Day, marcando parciais de 6/7 (5-7), 6/4 e 6/3."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/draper-quer-que-a-parceria-com-murray-continue-apos-wimbledon.html",
-        "title": "Draper quer que a parceria com Murray continue após Wimbledon",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/JT303435_16by9-Draper-Murray-e1782821906746-1024x682.jpg",
-        "date": "30/06/2026",
-        "description": "Londres (Inglaterra)– A decisão do britânico Jack Draper de contratar Andy Murray como técnico para a temporada de grama, tem recebido atenção considerável. Apesar da frustração pelaausência em Wimbledon, a boa campanha rumo às semis em Eastbourne e a relação entre eles faz o tenista britânico querer manter a parceria para o futuro."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/anisimova-confirma-e-pliskova-enfim-volta-a-vencer-em-wimbledon.html",
-        "title": "Anisimova confirma e Pliskova enfim volta a vencer em Wimbledon",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/anisimova-wimbledon-vibra-2026-1024x685.jpg",
-        "date": "30/06/2026",
-        "description": "Londres (Inglaterra)– Inesperada finalista do ano passado, a norte-americana Amanda Anisimova teve boa estreia em Wimbledon. Diante de uma adversária de pequeno currículo, a cabeça 6 marcou 6/3 e 6/2 em cima de Lina Gjorcheska, jogadora da Macedônia atual 222ª do ranking."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bbc-mudara-a-cobertura-de-wimbledon-para-a-partida-de-serena.html",
-        "title": "BBC mudará a cobertura de Wimbledon para a partida de Serena",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/serena-wimbledon-aeltc-e1782819771565-1024x682.jpg",
-        "date": "30/06/2026",
-        "description": "Londres (Inglaterra)– Detentora dos direitos de transmissão de Wimbledon para o Reino Unido, a BBC testará uma inovação para o retorno da norte-americana Serena Williams. A emissora terá análises à beira da quadra com a nova comentarista Laura Robson que se aposentou do tênis em 2022 devido a persistentes e graves lesões no punho e no quadril."
     }
 ]
