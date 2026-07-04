@@ -1,10 +1,45 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/dimitrov-supera-berrettini-em-cinco-sets-e-volta-as-oitavas.html",
-        "title": "Dimitrov supera Berrettini em cinco sets e volta às oitavas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/dimitrov-slice-wimbledon-1024x706.jpg",
+        "url": "https://tenisbrasil.uol.com.br/lucas-moscatto-e-alicia-reichel-sao-campeoes-da-copa-icaro-em-curitiba.html",
+        "title": "Lucas Moscatto e Alicia Reichel são campeões da Copa Icaro em Curitiba",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/lucas_moscatto_trofeu_ctba.jpg",
         "date": "04/07/2026",
-        "description": "Londres (Inglaterra) –Um ano depois de passar por um dos momentos mais complicados da carreira, Grigor Dimitrov demonstrou enorme resiliência para alcançar as oitavas de final em Wimbledon novamente. O búlgaro triunfou sobre o italiano Matteo Berrettini por 3 sets a 2, com parciais de 6/3, 6/4, 3/6, 5/7 e 6/3, em 3h32 de confronto."
+        "description": "Curitiba (PR) –Em um sábado com duas finais brasileiras, os paulistas Lucas Moscatto e Alicia Reichel conquistaram os títulos da Copa Instituto Icaro DM Tênis, torneio J60 disputado nas quadras de saibro do clube Santa Mônica, em Curitiba."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/campeas-dao-adeus-e-wimbledon-fica-ainda-mais-aberto.html",
+        "title": "Campeãs dão adeus e Wimbledon fica ainda mais aberto",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/blog_eala_w.jpg",
+        "date": "04/07/2026",
+        "description": "O momento ruim de Iga Swiatek e Elena Rybakina se refletiu em derrota muito precoce neste Wimbledon e, com isso, o Grand Slam da grama está muito perto de coroar uma nova campeã. De todas as 16 classificadas para as oitavas de final, agora só Barbora Krejcikova já ergueu a cobiçada e secular bandeja. Claro que todas as demais estão esfregando as mãos."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bublik-dispara-48-aces-contra-tiafoe-e-faz-tira-teima-com-fritz.html",
+        "title": "Bublik dispara 48 aces contra Tiafoe e faz tira-teima com Fritz",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/bublik-vibra-wimbledon-1024x574.jpg",
+        "date": "04/07/2026",
+        "description": "Londres (Inglaterra) –Alexander Bublik lutou muito e contou com a potência do serviço para avançar pela segunda vez às oitavas de final em Wimbledon. No encerramento da programação deste sábado, o cazaque derrubou o norte-americano Frances Tiafoe em batalha de cinco sets, com parciais de 4/6, 7/6 (7-5), 7/6 (13-11), 4/6 e 6/3, em 4h08 de confronto."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cobolli-repete-em-wimbledon-a-comemoracao-de-matheus-cunha-na-copa.html",
+        "title": "Cobolli repete em Wimbledon a comemoração de Matheus Cunha na Copa",
+        "image": null,
+        "date": "04/07/2026",
+        "description": "Embed from Getty Images"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/vice-em-roland-garros-chwalinska-e-destaque-da-vogue-polonesa.html",
+        "title": "Vice em Roland Garros, Chwalinska é destaque da Vogue polonesa",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/Maja-Chwalinska-_Vogue.jpg",
+        "date": "04/07/2026",
+        "description": "Varsóvia (Polônia)– Logo após a surpreendente campanha de Maja Chwalinska até a final de Roland Garros no mês passado, quando se tornou a primeira tenista vinda do qualifying a chegar à decisão do torneio francês, a atual número 21 do mundo estampa a capa da edição de verão da Vogue Polska, a versão polonesa da revista de moda e estilo de vida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/eala-se-emociona-e-relembra-inicio-no-tenis-nas-filipinas.html",
+        "title": "Eala se emociona e relembra início no tênis nas Filipinas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/eala_wimbledon_emocionada-1024x576.jpg",
+        "date": "04/07/2026",
+        "description": "Londres (Inglaterra) –Classificada para as oitavas de final de um Grand Slam pela primeira vez, Alexandra Eala não escondeu a emoção pela grande vitória deste sábado contra Iga Swiatek, número 3 do mundo e atual campeã de Wimbledon. A filipina de 21 anos e 32ª do ranking relembrou seu início no tênis e ressaltou a importância do resultado para seu país."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-04-07.html",
@@ -12,6 +47,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/chabalgoity_rg_corre.jpg",
         "date": "04/07/2026",
         "description": "Wimbledon (Londres, Inglaterra) – Grama –£ 64.200.000Duplas femininas – Segunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/dimitrov-supera-berrettini-em-cinco-sets-e-volta-as-oitavas.html",
+        "title": "Dimitrov supera Berrettini em cinco sets e volta às oitavas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/dimitrov-slice-wimbledon-1024x706.jpg",
+        "date": "04/07/2026",
+        "description": "Londres (Inglaterra) –Um ano depois de passar por um dos momentos mais complicados da carreira, Grigor Dimitrov demonstrou enorme resiliência para alcançar as oitavas de final em Wimbledon novamente. O búlgaro triunfou sobre o italiano Matteo Berrettini por 3 sets a 2, com parciais de 6/3, 6/4, 3/6, 5/7 e 6/3, em 3h32 de confronto."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/rybakina-lamenta-chances-perdidas-e-nova-eliminacao-precoce.html",
@@ -26,47 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/pucinelli_quito_vibra_qf-1024x683.jpg",
         "date": "04/07/2026",
         "description": "Quito (Equador) –O paulista Matheus Pucinelli segue embalado e vai em busca do primeiro título de challenger no ano e o segundo da carreira, desta vez no saibro de Quito. Neste sábado, ele confirmou o favoritismo sobre o colombiano Samuel Heredia, 727º do mundo, ao triunfar por 2 sets a 1, com parciais de 6/3, 4/6 e 6/4, em 2h43 de confronto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/eala-foi-mais-corajosa-nos-pontos-importantes-avalia-swiatek.html",
-        "title": "“Eala foi mais corajosa nos pontos importantes”, avalia Swiatek",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/iga_eala_wimbledon-1024x700.jpg",
-        "date": "04/07/2026",
-        "description": "Londres (Inglaterra) –Um ano depois de conquistar o título em Wimbledon, Iga não repetiu o mesmo desempenho e se despediu ainda na terceira rodada do Grand Slam londrino, superada pela filipina Alexandra Eala neste sábado. Após a partida, a polonesa avalia que a jovem rival de 21 anos foi mais corajosa nos momentos importantes e merceu vencer."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-joga-as-9h30-de-domingo-osaka-e-sabalenka-duelam.html",
-        "title": "Djokovic joga às 9h30 de domingo, Osaka e Sabalenka duelam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/osaka_wimbledon_saque-1024x653.jpg",
-        "date": "04/07/2026",
-        "description": "Londres (Inglaterra) –O heptacampeão Novak Djokovic atua na abertura da programação da Quadra Central neste domingo. O sérvio enfrentará o russo Roman Safiullin, que veio do quali e eliminou João Fonseca, a partir das 9h30 (de Brasília)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fery-conquista-incrivel-virada-sobre-bergs-e-mantem-britanicos-vivos.html",
-        "title": "Fery conquista incrível virada sobre Bergs e mantém britânicos vivos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/fery-wimbledon-vibra-2026-1.jpg",
-        "date": "04/07/2026",
-        "description": "Londres (Inglaterra)– Último britânico ainda vivo nas chaves de simples de Wimbledon, o convidado Arthur Fery lutou até o final e manteve viva a chama da torcida da casa, batendo o belga Zizou Bergs neste sábado em uma batalha de 4h39, definida com o placar final de 2/6, 7/5, 2/6, 7/6 (7-3) e 7/6 (10-5)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/guto-e-victoria-iniciam-bem-a-campanha-no-juvenil-de-wimbledon.html",
-        "title": "Guto e Victória iniciam bem a campanha no juvenil de Wimbledon",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/guto_wimbledon_26-1024x647.jpg",
-        "date": "04/07/2026",
-        "description": "Londres (Inglaterra)– Na condição de número 1 do mundo, posição assumida desde a final e o título de Roland Garros há um mês, o goiano Guto Miguel estreou com boa vitória sua segunda participação na chave juvenil de Wimbledon. Apesar de algum problema com seu serviço, o tenista de 17 anos marcou 6/3 e 6/2 sobre o local Vincent Fletcher. convidado da organização. Seu próximo adversário sai do duelo entre o italiano Matteo Gribaldo e o norte-americano Jack Secord."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/meligeni-perde-na-semi-em-quito-em-melhor-campanha-do-ano.html",
-        "title": "Meligeni perde na semi em Quito em melhor campanha do ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/meligeni_quito_back-1024x683.jpg",
-        "date": "04/07/2026",
-        "description": "Quito (Equador) –Não deu para o paulista Felipe Meligeni Alves nas semifinais do challenger 50 de Quito, evento disputado em quadras de saibro. Neste sábado, ele foi superado pelo argentino Hernan Casanova, que anotou 2 sets a 0, com parciais de 7/6 (7-5) e 7/5, em 1h43 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/keys-aproveita-bom-momento-na-grama-e-derruba-anisimova-de-virada.html",
-        "title": "Keys aproveita bom momento na grama e derruba Anisimova de virada",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/Madison_Keys_-_Wimbledon_Championships_2026_-_Day_4-DSC_6900_xgaplus.jpg",
-        "date": "04/07/2026",
-        "description": "Londres (Inglaterra)– Jogadora que chegou em Wimbledon com mais vitórias na grama em 2026, a norte-americana Madison Keys aproveitou o bom momento para derrotar neste sábado a atual vice-campeã no All England Club na terceira rodada, batendo a compatriota Amanda Anisimova de virada, com parciais de 3/6, 6/2 e 6/3."
     }
 ]
