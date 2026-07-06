@@ -1,10 +1,52 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-promete-voltar-mais-forte-estraguei-tudo-desta-vez.html",
-        "title": "Sabalenka promete voltar mais forte: “Estraguei tudo desta vez”",
+        "url": "https://tenisbrasil.uol.com.br/djokovic-avalia-que-nao-jogou-tao-bem-e-que-recorde-nao-e-prioridade.html",
+        "title": "Djokovic avalia que não jogou tão bem e que recorde não é prioridade",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/djokovic_wimbledon_devolve_26-1024x639.jpg",
+        "date": "05/07/2026",
+        "description": "Londres (Inglaterra) –Apesar da classificação para as quartas de final de Wimbledon pela 17ª vez na carreira, Novak Djokovic avalia que não jogou tão bem na partida deste domingo contra o russo Roman Safiullin, 132º do ranking. Ainda assim, entende que o bom resultado dá a oportunidade de crescer ao longo da competição."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/aliassime-exalta-djokovic-e-critica-fokina-apos-polemica.html",
+        "title": "Aliassime exalta Djokovic e critica Fokina após polêmica",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/aliassime-smash-costas-wimbledon-1024x700.jpg",
+        "date": "05/07/2026",
+        "description": "Londres (Inglaterra) –Após vitória dramática que garantiu vaga nas quartas de final em Wimbledon, Félix Auger-Aliassime não poupou críticas ao espanhol Alejandro Davidovich Fokina após a polêmica no momento de o canadense sacar para o jogo no quarto set."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/osaka-ha-muito-tempo-nao-me-sentia-tao-feliz-em-quadra.html",
+        "title": "Osaka: “Há muito tempo não me sentia tão feliz em quadra”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/osaka_wimbledon_sorrindo_r16-1024x576.jpg",
+        "date": "05/07/2026",
+        "description": "Londres (Inglaterra) –A vitória sobre a líder do ranking e a classificação inédita para as quartas de final de Wimbledon dão muita confiança a Naomi Osaka. Ex-número 1 do mundo e com quatro títulos de Grand Slam na carreira, a japonesa volta a se sentir feliz em quadra e confiante para a sequência da temporada."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-duelo-de-campeoes-ficou-bem-perto.html",
+        "title": "O duelo de campeões ficou bem perto",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/blog_sinner_w.jpg",
+        "date": "05/07/2026",
+        "description": "Jannik Sinner e Novak Djokovic estão a apenas uma vitória da chamada “final antecipada” em Wimbledon. O vencedor do ano passado e o heptacampeão deram mais um passo neste domingo e parece muito pouco provável que não se reencontrem na semi da próxima sexta-feira, o que repetiria idêntico duelo do ano passado que o italiano venceu por larga margem."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/em-cima-da-hora-gauff-consegue-a-virada-e-garante-melhor-campanha.html",
+        "title": "Em cima da hora, Gauff consegue a virada e garante melhor campanha",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/gauff_wimbledon_relogio_sb-1024x576.jpg",
+        "date": "05/07/2026",
+        "description": "Londres (Inglaterra) –No jogo que encerrou a programação deste domingo em Wimbledon, Coco Gauff e Belinda Bencic tinham um adversário a mais, o relógio. Com a determinação de que o jogo não poderia passar das 23h locais (ou 19h de Brasília), Gauff conseguiu fechar a partida dois minutos antes do toque de recolher, com parciais de 4/6, 6/3 e 6/4 em 2h18 de disputa."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sabalenka-so-quero-ficar-bebada-esquecer-o-tenis-por-enquanto.html",
+        "title": "Sabalenka: “Só quero ficar bêbada e esquecer o tênis por enquanto”",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sabalenka_wimbledon_grita_IW-1024x625.jpg",
         "date": "05/07/2026",
         "description": "Londres (Inglaterra) –Após ser eliminada nas oitavas de final em Wimbledon, Aryna Sabalenka lamentou a atuação abaixo do nível ideal diante da japonesa Naomi Osaka. Resignada, a número 1 afirmou que não desistiu de conquistar o título inédito e que estará mais preparada da próxima vez."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/eala-carrega-cultura-filipina-nas-costas-e-segue-fazendo-historia.html",
+        "title": "Eala carrega cultura filipina nas costas e segue fazendo história",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/eala_com-fas.jpg",
+        "date": "05/07/2026",
+        "description": "Londres (Inglaterra) –À primeira vista, parece que a filipina Alexandra Eala está usando apenas uma viseira branca comum da Nike com seu vestido todo branco em Wimbledon. Mas, à medida que você se aproxima, uma mensagem bordada em tagalo começa a se destacar: “Kapag lumago, hindi na hihinto”, que traduzido diz: “Uma vez que cresce, não pode ser parada”, revela a reportagem da WTA."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/sinner-mantem-escrita-e-faz-quartas-em-wimbledon-pela-5a-vez.html",
@@ -26,47 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/loureiro_jul25_joinville_back.jpg",
         "date": "05/07/2026",
         "description": "Wimbledon (Londres, Inglaterra) – Grama –£ 64.200.000Juvenil masculino – Primeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fotografo-da-wta-captura-voo-de-eala-e-foto-viraliza.html",
-        "title": "Fotógrafo da WTA captura voo de Eala e foto viraliza",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/Eala-R3-Jimmie48.jpg",
-        "date": "05/07/2026",
-        "description": "Londres (Inglaterra)– Naquela que é, possivelmente, a melhor foto da temporada de tênis até agora, Alexandra Eala parece levitar sobre a grama da Quadra Central. O corpo da estrela filipina está esticado ao limite, e sua expressão é de desespero. Ela havia escorregado instantes antes e quase não tinha esperança de vencer o ponto. Ainda assim, seu foco único e inabalável era, de alguma forma, fazer a raquete tocar a bola."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/aliassime-breca-fokina-e-desafia-djokovic-por-semifinal-inedita.html",
-        "title": "Aliassime breca Fokina e desafia Djokovic por semi inédita",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/aliassime_wimbledon_r16-1024x675.jpg",
-        "date": "05/07/2026",
-        "description": "Londres (Inglaterra) –Félix Auger-Aliassime segue em grande fase no circuito e já está nas quartas de final em Wimbledon. O canadense virou sobre o espanhol Alejandro Davidovich Fokina com parciais de 6/7 (4-7), 7/6 (8-6), 6/3, 6/7 (2-7) e 6/1, em 4h26 de batalha, e se credenciou para desafiar o heptacampeão Novak Djokovic."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/de-minaur-evita-polemica-ao-comentar-possiveis-mudancas-nas-duplas.html",
-        "title": "De Minaur evita polêmica ao comentar possíveis mudanças nas duplas",
-        "image": null,
-        "date": "05/07/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pucinelli-vira-o-jogo-e-conquista-2o-challenger-da-carreira-em-quito.html",
-        "title": "Pucinelli vira o jogo e conquista 2º challenger da carreira em Quito",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/pucinelli_quito_vibra_semi-1024x683.jpg",
-        "date": "05/07/2026",
-        "description": "Quito (Equador) –Pela segunda vez em sua carreira profissional, Matheus Pucinelli conquista um título de challenger. O paulista de 25 anos e 397º do ranking foi campeão em Quito ao superar na final deste domingo o experiente argentino Hernan Casanova, de 32 anos e 409º colocado, por 5/7, 6/3 e 6/2 em 2h42 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/comentarista-sue-baker-entre-os-convidados-no-camarote-real.html",
-        "title": "Ex-comentarista Sue Baker entre os convidados no Camarote Real",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sue-baker.jpg",
-        "date": "05/07/2026",
-        "description": "Londres (Inglaterra) –O “Middle Sunday” (domingo intermediário do torneio), que antes era dia de folga geral para os jogadores e usado para a manutenção dos gramados do All England Club, neste domingo viu o Camarote Real homenagear grandes nomes do esporte britânico, além de receber o Rei Frederik X, da Dinamarca, grande fã de tênis."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/osaka-volta-a-vencer-sabalenka-e-faz-quartas-ineditas-em-wimbledon.html",
-        "title": "Osaka volta a vencer Sabalenka e faz quartas inéditas em Wimbledon",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/Naomi_Osaka_-_Wimbledon_Championships_2026_-_Day_5-DSC_7462_xgaplus.jpg",
-        "date": "05/07/2026",
-        "description": "Londres (Inglaterra)– Depois de ter perdido os últimos três duelos contra a número 1 do mundo Aryna Sabalenka, a japonesa Naomi Osaka voltou a vencer a bielorrussa. Elas se enfrentaram neste domingo pelas oitavas de final de Wimbledon e a nipônica levou a melhor em sets diretos, com o placar final de 6/2 e 7/6 (7-2)."
     }
 ]
