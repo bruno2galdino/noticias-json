@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/sabalenka-descansa-em-ilha-grega-famosa-e-da-detalhes-do-anel-de-noivado.html",
+        "title": "Sabalenka descansa em ilha grega famosa e dá detalhes do anel de noivado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sabalenka_mykonos-2.jpg",
+        "date": "10/07/2026",
+        "description": "Mykonos (Grécia) –Após ser eliminada nas oitavas em Wimbledon, na terça-feira passada, Aryna Sabalenka desabafou que queria ficar bêbada e esquecer o desempenho diante de Naomi Osaka."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-10-07.html",
         "title": "O dia dos brasileiros: veja os resultados desta sexta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/gabriela_carvalho_cosat14-1024x683.jpg",
         "date": "10/07/2026",
         "description": "Wimbledon (Londres, Inglaterra) – Grama –£ 64.200.000Duplas femininas – Semifinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/djokovic-perdi-em-3-sets-para-o-melhor-do-mundo-e-tenho-que-aceitar.html",
+        "title": "Djokovic: “Perdi em 3 sets para o melhor do mundo e tenho que aceitar”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/djokovic_wimbledon_qf_estica-1024x602.jpg",
+        "date": "10/07/2026",
+        "description": "Londres (Inglaterra) –O sonho do oitavo título de Wimbledon e do 25º troféu de Grand Slam foi mais uma vez adiado para Novak Djokovic, que se despediu na semifinal desta sexta-feira. Superado pelo líder do ranking e atual campeão, Jannik Sinner, o sérvio reconheceu a superioridade do italiano, que vai em busca do bicampeonato nas quadras de grama."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/zverev-analisa-grande-fase-ganhar-um-slam-da-confianca.html",
+        "title": "Zverev analisa grande fase: “Ganhar um Slam dá confiança”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/zverev-corre-wimbledon-1024x671.jpg",
+        "date": "10/07/2026",
+        "description": "Londres (Inglaterra) –Em excelente momento na carreira, Alexander Zverev demonstrou estar com a confiança em alta após garantir vaga inédita na final em Wimbledon. O alemão atribui parte de sua evolução à conquista em Roland Garros e também ao desenvolvimento de determinados aspectos do seu jogo."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/lider-do-ranking-chinesa-decide-o-2o-slam-seguido-no-juvenil.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/heide-toss-iasi-1024x710.jpg",
         "date": "10/07/2026",
         "description": "Iasi (Romênia) –Não deu para o paulista Gustavo Heide nas quartas de final do challenger 100 de Iasi, disputado em quadras de saibro. Nesta sexta-feira, o único representante brasileiro no torneio foi eliminado pelo francês Titouan Droguet em sets diretos, com parciais de 6/1 e 6/3, em 1h18 de confronto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/badosa-encerra-jejum-de-quase-dois-anos-e-volta-a-disputar-uma-final.html",
-        "title": "Badosa encerra jejum de quase dois anos e volta a disputar uma final",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/badosa-bastad-feliz-2026-1024x683.jpg",
-        "date": "10/07/2026",
-        "description": "Bastad (Suécia)– Em busca de recuperação no ranking, a espanhola Paula Badosa aproveitou a segunda semana de Wimbledon para disputar o WTA 125 de Bastad, onde acabou recompensada com uma boa campanha e a vaga na final, sua primeira em quase dois anos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/dupla-de-pigossi-vence-de-virada-e-decide-wta-125-no-saibro-frances.html",
-        "title": "Dupla de Pigossi vence de virada e decide WTA 125 no saibro francês",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/pigossi_caserta_vibra.jpg",
-        "date": "10/07/2026",
-        "description": "Contrexeville (França)– Depois de ser eliminado logo na estreia de simples, a paulista Laura Pigossi aguardou quatro dias para enfim estrear na chave de duplas e já está na decisão do WTA 125 de Contrexeville, disputado sobre o saibro e com premiação total de 100 mil euros."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/guto-nana-e-victoria-garantem-mais-duas-finais-para-o-brasil-em-wimbledon.html",
-        "title": "Guto, Naná e Victória garantem mais duas finais para o Brasil em Wimbledon",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/nana_victoria_wimbledon_posada.jpg",
-        "date": "10/07/2026",
-        "description": "Londres (Inglaterra) –O tênis brasileiro assegurou mais duas finais em Wimbledon, somando-se à deLuísa Stefani nas duplas femininas, com as classificações da dupla de Guto Miguel e da parceria formada por Victória Barros e Nauhany Silva. Nesta sexta-feira, pelas semifinais juvenis, o goiano venceu ao lado do esloveno Ziga Sesko, enquanto a potiguar e a paulista viraram um duro confronto."
     }
 ]
