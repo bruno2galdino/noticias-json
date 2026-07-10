@@ -1,10 +1,24 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-descansa-em-ilha-grega-famosa-e-da-detalhes-do-anel-de-noivado.html",
-        "title": "Sabalenka descansa em ilha grega famosa e dá detalhes do anel de noivado",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sabalenka_mykonos-2.jpg",
+        "url": "https://tenisbrasil.uol.com.br/sinner-preve-desafio-duro-na-final-zverev-esta-ainda-mais-agressivo.html",
+        "title": "Sinner prevê desafio duro na final: “Zverev está ainda mais agressivo”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sinner-vibra2-wimbledon-1024x577.jpg",
         "date": "10/07/2026",
-        "description": "Mykonos (Grécia) –Após ser eliminada nas oitavas em Wimbledon, na terça-feira passada, Aryna Sabalenka desabafou que queria ficar bêbada e esquecer o desempenho diante de Naomi Osaka."
+        "description": "Londres (Inglaterra) –Mesmo na condição de número 1 e como atual campeão em Wimbledon, Jannik Sinner adotou cautela ao analisar o duelo na final diante de Alexander Zverev. Com sequência de nove vitórias sobre o alemão, cinco na atual temporada, o italiano acredita que o rival está com a confiança em alta."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/guto-vai-confiante-para-final-victoria-e-nana-celebram-a-virada.html",
+        "title": "Guto vai confiante para final, Victória e Naná celebram a virada",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/nana_victoria_guto_wimbledon_cut.jpg",
+        "date": "10/07/2026",
+        "description": "Londres (Inglaterra) –O sábado será deduas finais para o tênis brasileirono torneio juvenil de Wimbledon. A parceria nacional de Nauhany Silva e Victória Barros busca uma conquista inédita para o país nas duplas. Já o líder do ranking, Guto Miguel, tenta o segundo Grand Slam da carreira, jogando ao lado do esloveno Ziga Sesko."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/monteiro-retorna-ao-circuito-neste-sabado-no-quali-de-gstaad.html",
+        "title": "Monteiro retorna ao circuito neste sábado, no quali de Gstaad",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/monteiro_istambul_fore-1024x642.jpg",
+        "date": "10/07/2026",
+        "description": "Gstaad (Suíça) –O retorno de Thiago Monteiro ao circuito acontecerá neste sábado, no quali para o ATP 250 de Gstaad, em quadras de saibro na Suíça. O cearense entra em quadra por volta de 6h30 (de Brasília) para enfrentar o francês Pierre-Hugues Herbert, de 35 anos e 251º do ranking."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-10-07.html",
@@ -12,6 +26,27 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/gabriela_carvalho_cosat14-1024x683.jpg",
         "date": "10/07/2026",
         "description": "Wimbledon (Londres, Inglaterra) – Grama –£ 64.200.000Duplas femininas – Semifinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/inedita-final-tcheca-ao-meio-dia-vai-definir-nova-campea-de-slam.html",
+        "title": "Inédita final tcheca ao meio-dia vai definir nova campeã de Slam",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/muchova_wimbledon_voleia-1024x630.jpg",
+        "date": "10/07/2026",
+        "description": "Londres (Inglaterra) –Uma nova campeã de Wimbledon será conhecida neste sábado, a partir do meio-dia (de Brasília), no duelo entre as tchecas Karolina Muchova e Linda Noskova. Apesar dorecente domínio tcheco na chave feminina, será a primeira vez que duas jogadoras do país se enfrentam em uma final de Grand Slam."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fery-ve-carreira-mudar-apos-wimbledon-estou-pronto-para-o-desafio.html",
+        "title": "Fery vê carreira mudar após Wimbledon: “Estou pronto para o desafio”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/fery-prepara-wimbledon-1024x682.jpg",
+        "date": "10/07/2026",
+        "description": "Londres (Inglaterra) –Arthur Fery foi ao seu limite e colecionou façanhas ao atingir as semifinais em Wimbledon. Satisfeito com a excelente campanha diante de sua torcida, o jovem britânico afirmou estar consciente de que passará a lidar com as expectativas e projeta como lidará com a nova realidade."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sabalenka-descansa-em-ilha-grega-famosa-e-da-detalhes-do-anel-de-noivado.html",
+        "title": "Sabalenka descansa em ilha grega famosa e dá detalhes do anel de noivado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sabalenka_mykonos-2.jpg",
+        "date": "10/07/2026",
+        "description": "Mykonos (Grécia) –Após ser eliminada nas oitavas em Wimbledon, na terça-feira passada, Aryna Sabalenka desabafou que queria ficar bêbada e esquecer o desempenho diante de Naomi Osaka."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/djokovic-perdi-em-3-sets-para-o-melhor-do-mundo-e-tenho-que-aceitar.html",
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/Xinran_Sun_wimbledon_vibra-1024x576.jpg",
         "date": "10/07/2026",
         "description": "Londres (Inglaterra) –Líder do ranking mundial juvenil, a chinesa Xinran Sun está em mais uma final de Grand Slam. Depois de ter ficado com o vice-campeonato em Roland Garros, ela garantiu vaga na decisão de Wimbledon ao superar nesta sexta-feira a norte-americana Janae Preston, 14ª colocada, por 6/1 e 6/3."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/stefani-celebra-final-inedita-sacamos-bem-do-comeco-ao-fim.html",
-        "title": "Stefani celebra final inédita: “Sacamos bem do começo ao fim”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/stefani_dabrowski_celebra_wimbledon-1024x648.jpg",
-        "date": "10/07/2026",
-        "description": "Londres (Inglaterra) –Luísa Stefani vive o melhor momento da carreira e espera coroar a grande campanha em Wimbledon com a conquista inédita de um Grand Slam nas duplas femininas. A paulista e a canadense Gabriela Dabrowski superaram a japonesa Shuko Aoyama e a taiwanesa Liang En-Shuo e vão enfrentar na final a chinesa Hanyu Guo e a francesa Kristina Mladenovic."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/djokovic-sofre-5a-derrota-em-sets-diretos-em-slam-nos-ultimos-2-anos.html",
-        "title": "Djokovic sofre 5ª derrota em sets diretos em Slam nos últimos 2 anos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/JM5_4632-519380-djokovic.jpg",
-        "date": "10/07/2026",
-        "description": "Londres (Inglaterra)– Recordista de títulos de Grand Slam com 24 conquistas, o sérvio Novak Djokovic tem sofrido nas últimas temporadas para buscar a tão sonhada 25ª taça, que o faria ser isolado a pessoa com mais títulos deste porte, deixando para trás a australiana Margaret Court."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/filho-de-ex-no-1-cruz-hewitt-e-finalista-no-juvenil-em-wimbledon.html",
-        "title": "Filho de ex-nº 1, Cruz Hewitt é finalista no juvenil em Wimbledon",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/cruz_hewitt_wimbledon_grita-1024x683.jpg",
-        "date": "10/07/2026",
-        "description": "Londres (Inglaterra) –A final do torneio juvenil de Wimbledon terá o filho de um campeão do Grand Slam londrino. O australiano Cruz Hewitt, de 17 anos, garantiu vaga na decisão ao vencer o holandês Thijs Boogaard, de 18 anos e 50º do ranking, por duplo 6/4."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-nao-da-chances-volta-a-bater-djokovic-e-segue-em-busca-do-bi.html",
-        "title": "Sinner não dá chances, volta a bater Djokovic e segue em busca do bi",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/FE1_9675-506677-sinner.jpg",
-        "date": "10/07/2026",
-        "description": "Londres (Inglaterra)– Depois de ter levado a pior no último duelo contra o sérvio Novak Djokovic, nas semifinais do Australian Open deste ano, o italiano Jannik Sinner deu o troco na mesma moeda nesta sexta-feira, vencendo ‘Nole’ na penúltima rodada de Wimbledon em sets diretos, com o placar final de 6/4, 6/4 e 6/4, depois de 2h20 de jogo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/heide-cai-nas-quartas-em-iasi-mas-deve-subir-no-ranking.html",
-        "title": "Heide cai nas quartas em Iasi, mas deve subir no ranking",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/heide-toss-iasi-1024x710.jpg",
-        "date": "10/07/2026",
-        "description": "Iasi (Romênia) –Não deu para o paulista Gustavo Heide nas quartas de final do challenger 100 de Iasi, disputado em quadras de saibro. Nesta sexta-feira, o único representante brasileiro no torneio foi eliminado pelo francês Titouan Droguet em sets diretos, com parciais de 6/1 e 6/3, em 1h18 de confronto."
     }
 ]
