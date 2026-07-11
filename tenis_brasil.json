@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-11-07.html",
+        "title": "O dia dos brasileiros: veja os resultados deste sábado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/gabriela_carvalho_cosat14-1024x683.jpg",
+        "date": "11/07/2026",
+        "description": "Wimbledon (Londres, Inglaterra) – GramaJuvenil masculino (Duplas) – Final –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/dupla-de-baran-cai-nas-oitavas-chow-e-marchezini-confirmam-em-sao-paulo.html",
         "title": "Baran cai nas oitavas, Chow e Marchezini confirmam em São Paulo",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/chow_marchezini_Sand-SP-2.jpeg",
@@ -32,7 +39,7 @@
         "title": "Romboli faz semi de duplas em Newport, Pucinelli e Andrade caem em Bogotá",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli-smith-usopen-comemoram-2025-1024x681.jpg",
         "date": "10/07/2026",
-        "description": "Newport (EUA) –A semana de Fernando Romboli com o australiano John-Patrick Smith no challenger de Newport segue com resultados positivos. Principais cabeças de chave, eles garantiram vaga na final após a vitória sobre o taiwanes Jason Jung e o norte-americano Mackenzie McDonald por 7/6 (7-5) e 6/4."
+        "description": "Newport (EUA) –A semana de Fernando Romboli com o australiano John-Patrick Smith no challenger de Newport segue com resultados positivos. Principais cabeças de chave, eles garantiram vaga na final após a vitória sobre o taiwanês Jason Jung e o norte-americano Mackenzie McDonald por 7/6 (7-5) e 6/4."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/aliassime-e-lehecka-trocam-de-tecnicos-apos-wimbledon.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sinner-vibra2-wimbledon-1024x577.jpg",
         "date": "10/07/2026",
         "description": "Londres (Inglaterra) –Mesmo na condição de número 1 e como atual campeão em Wimbledon, Jannik Sinner adotou cautela ao analisar o duelo na final diante de Alexander Zverev. Com sequência de nove vitórias sobre o alemão, cinco na atual temporada, o italiano acredita que o rival está com a confiança em alta."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/guto-vai-confiante-para-final-victoria-e-nana-celebram-a-virada.html",
-        "title": "Guto vai confiante para final, Victória e Naná celebram a virada",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/nana_victoria_guto_wimbledon_cut.jpg",
-        "date": "10/07/2026",
-        "description": "Londres (Inglaterra) –O sábado será deduas finais para o tênis brasileirono torneio juvenil de Wimbledon. A parceria nacional de Nauhany Silva e Victória Barros busca uma conquista inédita para o país nas duplas. Já o líder do ranking, Guto Miguel, tenta o segundo Grand Slam da carreira, jogando ao lado do esloveno Ziga Sesko."
     }
 ]
