@@ -1,8 +1,22 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/marjorie-vence-primeiro-set-mas-perde-titulo-de-rio-claro-para-francesa.html",
+        "title": "Marjorie vence primeiro set, mas perde título de Rio Claro para francesa",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/467827_1210732_55389061730_a0811e0fca_k-1024x683.jpg",
+        "date": "12/07/2026",
+        "description": "Rio Claro (SP)– A francesa Oceane Babel, de 22 anos chega ao segundo título da carreira neste domingo, ao conquistar o W15 de Rio Claro. A brasileira Marjorie Souza chegou a vencer o primeiro set mas, mesmo com arquibancadas cheias e apoio do público, não conseguiu conquistar o primeiro troféu profissional. Após 2h32, o placar final foi de 3/6, 6/4 e 6/1."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/zverev-ve-evolucao-e-mira-briga-com-sinner-e-alcaraz.html",
+        "title": "Zverev vê evolução e mira briga com Sinner e Alcaraz",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/zverev-trofeu-vice-wimbledon-2026-1024x692.jpg",
+        "date": "12/07/2026",
+        "description": "Londres (Inglaterra)– Apesar daderrota na final de Wimbledon para Jannik Sinner, Alexander Zverev deixou o All England Club com a sensação de estar mais próximo dos principais nomes do circuito. Pela primeira vez finalista no Grand Slam inglês, o alemão afirmou que a temporada tem mostrado evolução em seu jogo e revelou o objetivo de se aproximar da disputa entre Sinner, Carlos Alcaraz e Novak Djokovic."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/sinner-celebra-bi-em-wimbledon-e-superacao-apos-novo-trauma-em-paris.html",
         "title": "Sinner celebra bi em Wimbledon e superação após novo trauma em Paris",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sinner-celebra-titulo-wimbledon-2026-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sinner-celebra-titulo-wimbledon-2026-1-1024x576.jpg",
         "date": "12/07/2026",
         "description": "Londres (Inglaterra)– Depois de conquistar obicampeonato de Wimbledon neste domingo, Jannik Sinner fez questão de destacar que o título tem um significado especial, principalmente pela forma como conseguiu reagir à dura derrota sofrida na segunda rodada de Roland Garros. O italiano, porém, também mostrou maturidade ao afirmar que não mede o sucesso apenas pelos troféus e que uma eventual derrota na decisão em Londres não mudaria sua percepção sobre a temporada."
     },
@@ -47,19 +61,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli-smith-usopen-comemoram-2025-1024x681.jpg",
         "date": "12/07/2026",
         "description": "Newport (EUA) –Fernando Romboli e o parceiro australiano John-Patrick Smith ficaram com o vice-campeonato no ótimo challenger disputado sobre as históricas quadras de grama de Newport, local que já foi sede da versão amadora do US Open. O evento distribui agora US$ 225 mil e dá 125 pontos no ranking aos campeões de simples e duplas."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo-12-07.html",
-        "title": "O dia dos brasileiros: veja os resultados deste domingo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/marcondes_santiago_slice-1024x576.jpg",
-        "date": "12/07/2026",
-        "description": "Wimbledon (Londres, Inglaterra) – Grama – £ 64.200.000Duplas femininas – Final –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wimbledon-celebra-os-50-anos-do-tenis-em-cadeira-de-rodas.html",
-        "title": "Wimbledon celebra os 50 anos do tênis em cadeira de rodas",
-        "image": null,
-        "date": "12/07/2026",
-        "description": "Londres (Inglaterra) –O All England Club celebrou neste domingo os 50 anos do surgimento do tênis em cadeira de rodas. O que começou como uma ideia do americano Brad Parks cresceu além de qualquer expectativa, a ponto de o tênis em cadeira de rodas ser disputado hoje nos quatro torneios do Grand Slam (Wimbledon, Roland Garros, US Open e Australian Open) e contar com um calendário com mais de 160 torneios em mais de 40 países."
     }
 ]
