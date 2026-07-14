@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/pigossi-perde-match-point-e-leva-virada-de-favorita-em-kitzbuhel.html",
-        "title": "Pigossi perde match-point e leva virada de favorita em Kitzbuhel",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/pigossi_caserta_olhabola.jpg",
+        "url": "https://tenisbrasil.uol.com.br/krejcikova-estreia-bem-em-atenas-tauson-tambem-avanca.html",
+        "title": "Krejcikova estreia bem em Atenas, Tauson também avança",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/krejcikova_atenas_espera_sunset.jpg",
         "date": "14/07/2026",
-        "description": "Kitzbuhel (Áustria) –Laura Pigossi desperdiçou muitas chances na estreia no saibro do WTA 125 de Kitzbuhel e acabou sendo eliminada em jogo decidido nos detalhes. Nesta terça-feira, a paulista caiu para a jovem tcheca Laura Samson, cabeça de chave 6 do torneio, por 2 sets a 1, com parciais de 5/7, 6/4 e 7/6 (7-4), após 3h32 de batalha."
+        "description": "Atenas (Grécia) –Depois de fazer uma boa campanha até as oitavas em Wimbledon, Barbora Krejcikova voltou ao piso duro com uma vitória na estreia do WTA 250 de Atenas. A tcheca marcou um duplo 6/3 contra a búlgara Viktoriya Tomova."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/wawrinka-leva-dura-virada-na-despedida-da-torcida-em-gstaad.html",
+        "title": "Wawrinka leva dura virada na despedida da torcida em Gstaad",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/wawrinka-agradece-rg1-1024x683.jpg",
+        "date": "14/07/2026",
+        "description": "Gstaad (Suíça) –Stan Wawrinka lutou muito, mas não conseguiu aproveitar a energia do público na estreia do ATP 250 de Gstaad, disputado em quadras de saibro. Diante do jovem português Jaime Faria, o suíço saiu na frente, mas viu o adversário prevalecer com as parciais de 6/7 (8-10), 6/4 e 6/4, em 2h37 de batalha."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-14-07.html",
@@ -12,6 +19,27 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/bruno_oliveira.jpg",
         "date": "14/07/2026",
         "description": "WTA 125 de Kitzbuhel (Áustria) – Saibro – 100 mil eurosPrimeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/tsitsipas-bate-buse-em-gstaad-atual-campeao-bublik-pega-cina.html",
+        "title": "Tsitsipas bate Buse em Gstaad, atual campeão Bublik pega Cina",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/tsitsipas-prepara-gstaad-1024x813.jpg",
+        "date": "14/07/2026",
+        "description": "Gstaad (Suíça) –O grego Stefanos Tsitsipas iniciou bem a campanha no saibro do concorrido ATP 250 de Gstaad. Nesta terça-feira, ele derrotou com autoridade o peruano Ignacio Buse, quinto pré-classificado, por duplo 6/4, em apenas 1h37 de confronto."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/badosa-mantem-embalo-e-tira-favorita-na-estreia-em-iasi.html",
+        "title": "Badosa mantém embalo e tira favorita na estreia em Iasi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/badosa-bastad-2026-scaled-e1783700781378-1024x683.jpg",
+        "date": "14/07/2026",
+        "description": "Iasi (Romênia) – Campeã no saibro de Bastadna semana passada, a espanhola Paula Badosa manteve o embalo e estreou com uma grande vitória no WTA 250 de Iasi. Nesta terça-feira, encarou a ucraniana Anhelina Kalinina, cabeça de chave 4, triunfando com parciais de 6/3 e 6/4."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pigossi-perde-match-point-e-leva-virada-de-favorita-em-kitzbuhel.html",
+        "title": "Pigossi perde match-point e leva virada de favorita em Kitzbuhel",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/pigossi_caserta_olhabola.jpg",
+        "date": "14/07/2026",
+        "description": "Kitzbuhel (Áustria) –Laura Pigossi desperdiçou muitas chances na estreia no saibro do WTA 125 de Kitzbuhel e acabou sendo eliminada em jogo decidido nos detalhes. Nesta terça-feira, a paulista caiu para a jovem tcheca Laura Samson, cabeça de chave 6 do torneio, por 2 sets a 1, com parciais de 5/7, 6/4 e 7/6 (7-4), após 3h32 de batalha."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/alcaraz-esta-totalmente-curado-e-pronto-para-voltar-diz-jornal-espanhol.html",
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/Iga_Swiatek_-_Wimbledon_Championships_2026_-_Day_6-DSC_3269_xgaplus.jpg",
         "date": "14/07/2026",
         "description": "Londres (Inglaterra)– A polonesa Agnieszka Radwanska comentou aeliminação de Iga Swiatek em Wimbledonem entrevista aoTennis365. Na opinião dela, o problema reside não apenas no aspecto técnico do tênis, mas também na capacidade de recuperar a compostura e confiar plenamente nas respostas automáticas que antes eram naturais."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/dimitrov-vence-em-bastad-rublev-estreia-contra-pellegrino.html",
-        "title": "Dimitrov vence em Bastad, Rublev estreia contra Pellegrino",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/dimitrov-vibra-bastad-1024x774.jpg",
-        "date": "14/07/2026",
-        "description": "Bastad (Suécia) –Após alcançar as oitavas de final em Wimbledon, Grigor Dimitrov demonstrou rápida adaptação no retorno ao saibro e estreou com vitória no ATP 250 de Bastad. O búlgaro derrotou o tcheco Dalibor Svrcina por 2 sets a 1, com parciais de 7/6 (7-5), 1/6 e 6/4, em 2h24 de confronto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tecnico-de-sinner-afirma-que-confianca-de-zverev-cresceu-apos-rg.html",
-        "title": "Técnico de Sinner afirma que confiança de Zverev cresceu após RG",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/SB1_4914-530265-zverev.jpg",
-        "date": "14/07/2026",
-        "description": "Londres (Inglaterra)– Apesar da derrota de virada na final de Wimbledon,no último domingo, o alemão Alexander Zverev recebeu bastantes elogios do treinador de seu algoz, o italiano Jannik Sinner. Após a partida, Darren Cahill enalteceu bastante a atuação do agora número 2 do mundo na decisão."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/evento-bt-50-abre-o-torneio-internacional-de-beach-tennis-de-sorriso.html",
-        "title": "BT 50 abre o torneio internacional de beach de Sorriso. BT Camp em Indaiatuba.",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/arena-porto-seguro_sorriso.jpg",
-        "date": "14/07/2026",
-        "description": "Sorriso (MT) –Começa nesta terça-feira, a partir das 14h locais, 15h de Brasília, a segunda edição do torneio internacional de beach tennis, na cidade de Sorriso, Mato Grosso, que culminará com a disputa do BT 200, com início na próxima quinta-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/musetti-diz-que-federer-e-seu-idolo-mas-mira-longevidade-de-djokovic.html",
-        "title": "Musetti diz que Federer é seu ídolo, mas mira longevidade de Djokovic",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/musetti-madri-fore-2026-e1777230667466-1024x683.jpg",
-        "date": "14/07/2026",
-        "description": "Roma (Itália)– Ausente do circuito desde que lesionou a coxa esquerda no Masters 1000 de Roma, o italiano Lorenzo Musetti deve retornar na temporada norte-americana de quadras duras. Em entrevista aoFinancial Times, ele contou que espera ter uma carreira longa e para isso se inspira no sérvio Novak Djokovic"
     }
 ]
