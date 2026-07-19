@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/francesa-e-equatoriana-disputam-neste-domingo-o-titulo-no-pinheiros.html",
+        "title": "Francesa e equatoriana disputam neste domingo o título no Pinheiros",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/468022_1211396_55402575233_10557cc153_k-1024x683.jpg",
+        "date": "18/07/2026",
+        "description": "São Paulo (SP)– A francesa Oceane Babel e a equatoriana Mell Reasco disputarão neste domingo, às 11h, a final do Santos Brasil Tennis Classic, ITF W35 realizado no Esporte Clube Pinheiros, em São Paulo. A campeã do torneio levará 35 pontos no ranking da WTA."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/mateus-bozzini-vence-final-brasileira-no-j30-de-salinas.html",
+        "title": "Mateus Bozzini vence final brasileira no J30 de Salinas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/Mateus_Bozzini_salinas_trofeu-1024x727.jpg",
+        "date": "18/07/2026",
+        "description": "Salinas (Equador) –Em uma final entre dois jogadores brasileiros, Mateus Bozzini conquistou o título no J30 de Salinas, em quadras duras no Equador, depois de vencer o cabeça 1 Diego Valpereiro na final deste sábado por 6/4, 4/6 e 6/3."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/sakkari-decide-em-casa-em-um-jogao-contra-krejcikova.html",
         "title": "Sakkari decide em casa em um jogão contra Krejcikova",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sakkari-atenas-acena-2026-e1784418192390-1024x683.jpg",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/nakashima-uts-olhabola-2026-scaled-e1784400718386-1024x683.jpg",
         "date": "18/07/2026",
         "description": "Rio de Janeiro (RJ)– Na segunda semifinal deste sábado no UTS do Rio de Janeiro, o norte-americano Brandon Nakashima derrotou o australiano Nick Kyrgios de virada, controlando o rival depois de perder o primeiro set e fechando o jogo com o placar de 10/13, 17/9, 14/11 e 16/10."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rublev-faz-em-bastad-sua-30a-final-e-encara-o-atual-campeao-darderi.html",
-        "title": "Rublev faz em Bastad sua 30ª final e encara o atual campeão Darderi",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/rublev-bastad-rebate-2026-e1784398450649-1024x683.jpg",
-        "date": "18/07/2026",
-        "description": "Bastad (Suécia)– A final do ATP 250 de Bastad, que acontecerá neste domingo às 9h (horário de Brasília), terá os dois principais favoritos ao título. Tanto o russo Andrey Rublev quanto o italiano Luciano Darderi, respectivamente cabeças de chave 1 e 2, venceram suas semifinais deste sábado e irão duelar pelo título."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/torcida-embala-e-guto-vai-para-a-final-do-uts-no-rio.html",
-        "title": "Torcida embala e Guto vai para a final do UTS no Rio",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/guto-uts-fore-2026-1024x683.jpg",
-        "date": "18/07/2026",
-        "description": "Rio de Janeiro (RJ)– Se não deu para o carioca João Fonseca na edição do Rio de Janeiro do UTS, o jovem goiano Guto Miguel vem fazendo a festa da torcida e está na final. Neste sábado, ele venceu o argentino Francisco Cerúndolo, atual 22º do mundo, com parciais de 11/23, 15/12, 15/16, 17/12 e 2 a 0 na morte súbita."
     }
 ]
