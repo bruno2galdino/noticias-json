@@ -1,5 +1,40 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/marjorie-souza-supera-metas-antes-do-tempo-e-se-surpreende.html",
+        "title": "Marjorie Souza supera metas antes do tempo e se surpreende",
+        "image": null,
+        "date": "20/07/2026",
+        "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/luz-estreia-no-estoril-as-9h30-wawrinka-joga-na-sequencia.html",
+        "title": "Luz estreia no Estoril às 9h30, Wawrinka joga na sequência",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/orlandinho_estoril_fore-1024x682.jpg",
+        "date": "20/07/2026",
+        "description": "Estoril (Portugal) –O gaúcho Orlando Luz abre campanha no ATP 250 do Estoril nesta terça-feira, por volta de 9h30 (horário de Brasília).Após furar o qualificatório, o único representante brasileiro na chave terá a árdua missão de desafiar o local Nuno Borges, quinto pré-classificado e atual 48º colocado do ranking."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/chave-masculina-no-pinheiros-comeca-nesta-terca-com-14-brasileiros.html",
+        "title": "Chave masculina no Pinheiros começa nesta terça com 14 brasileiros",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/albieri_ecp_estica-1024x683.jpg",
+        "date": "20/07/2026",
+        "description": "São Paulo (SP) –A chave principal do Santos Brasil Tennis Classic M25 começa nesta terça-feira (21), no Esporte Clube Pinheiros, em São Paulo, com a presença de pelo menos 14 brasileiros já garantidos na competição, que distribui US$ 30 mil em premiação total e 25 pontos no ranking da ATP ao campeão."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/candiotto-parte-financeira-foi-a-maior-dificuldade-na-transicao.html",
+        "title": "Candiotto: “Parte financeira foi a maior dificuldade na transição”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/candiotto_ecp_back-1024x683.jpg",
+        "date": "20/07/2026",
+        "description": "Mário Sérgio CruzEspecial para TenisBrasil"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alema-de-18-anos-elimina-podoroska-e-vence-1a-na-wta-em-hamburgo.html",
+        "title": "Alemã de 18 anos elimina Podoroska e vence 1ª na WTA em Hamburgo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/julia_stusek_hamburgo_toss.jpg",
+        "date": "20/07/2026",
+        "description": "Hamburgo (Alemanha) –Convidada para a disputa do WTA 250 de Hamburgo, a alemã Julia Stusek conseguiu sua primeira vitória na elite do circuito. A jovem jogadora de apenas 18 anos superou a argentina Nadia Podoroska por 2 sets a 1, com parciais de 4/6, 6/3 e 6/4, em 2h31 de partida nesta segunda-feira."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-20-07.html",
         "title": "O dia dos brasileiros: veja os resultados desta segunda",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/12/gabriela-cho.jpg",
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/bublik-gstaad-2026-thursday-e1784291311896-1024x682.jpg",
         "date": "20/07/2026",
         "description": "Kitzbuhel (Áustria) –Alexander Bublik vai iniciar a defesa do título no saibro do ATP 250 de Kitzbuhel contra Facundo Diaz Acosta. Nesta segunda-feira, o argentino virou sobre o jovem qualificado italiano Federico Cina por 4/6, 6/3 e 6/4, após 2h09 de confronto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tomic-e-campeao-de-challenger-e-fatura-seu-maior-titulo-em-oito-anos.html",
-        "title": "Tomic é campeão de challenger e fatura seu maior título em oito anos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/tomic-lincoln-trofeu-2026-1024x683.jpg",
-        "date": "20/07/2026",
-        "description": "Lincoln (EUA)– Considerado um dos mais controversos jogadores dos últimos tempos, o australiano Bernard Tomic pode estar dando uma virada na carreira em sua reta final. O atleta de 33 anos encerrou um jejum de oito anos sem títulos de alguma expressão ao faturar o challenger de Lincoln no último domingo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/badosa-lamenta-abandono-na-final-em-iasi-e-destaca-boa-fase.html",
-        "title": "Badosa lamenta abandono na final em Iasi e destaca boa fase",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/badosa-iasie-prepara-2026.jpg",
-        "date": "20/07/2026",
-        "description": "Iasi (Romênia) –Paula Badosa sentiu o desgaste de duas longas semanas competindo e ficou com o vice-campeonato do WTA 250 de Iasi. Ela precisou abandonar na reta final dadecisão contra a egípcia Mayar Sherif, mas fez uma balanço positivo de sua retomada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bouzkova-inicia-defesa-do-titulo-em-praga-com-dura-vitoria.html",
-        "title": "Bouzkova inicia defesa do título em Praga com dura vitória",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/bouzkova-acena-nottingham-2026-1024x716.jpg",
-        "date": "20/07/2026",
-        "description": "Praga (República Tcheca)– Marie Bouzkova teve trabalho, mas confirmou a condição de principal favorita a novo título no WTA 250 de Praga, disputado no piso sintético. Atual campeã, a tcheca superou a espanhola Jessica Bouzas por duplo 7/5, após 2h03 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/itia-se-pronuncia-sobre-caso-de-vondrousova-e-explica-pena-alta.html",
-        "title": "ITIA se pronuncia sobre caso de Vondrousova e explica pena alta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/Marketa_Vondrousova_-_Toray_Pan_Pacific_Open_-_Day_1-DSC_7098_xgaplus.jpg",
-        "date": "20/07/2026",
-        "description": "Londres (Inglaterra)– O caso da tcheca Marketa Vondrousova e a decisão de impor umasuspensão de quatro anosapós sua recusa em se submeter a um teste antidoping causou comoção de muitas tenistas e culminou em uma resposta por parte da Agência Internacional de Integridade do Tênis (ITIA)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/campea-em-final-adiada-sherif-tem-maior-arrancada-do-top-100.html",
-        "title": "Campeã em final adiada, Sherif tem maior arrancada do top 100",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sherif-iasi-trofeu-2026.jpg",
-        "date": "20/07/2026",
-        "description": "Iasi (Romênia)– A final do WTA 250 de Iasi,adiada de domingo para segunda-feira, por causa da chuva, não teve dois sets inteiros e acabou com mais uma desistência da espanhola Paula Badosa, que abandonou a partida quando perdia para a egípcia Mayar Sherif por 6/4 e 4/0, depois de 1h13 de embate."
     }
 ]
