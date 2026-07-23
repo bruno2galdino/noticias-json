@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/pigossi-e-carol-estreia-bem-nana-e-pietra-vencem-duelos-nacionais.html",
-        "title": "Pigossi e Carol estreia bem, Naná e Pietra vencem duelos nacionais",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/pietra_rivoli_vacaria_vibra.jpg",
+        "url": "https://tenisbrasil.uol.com.br/juvenis-brasileiros-disputam-quartas-na-colombia-paraguai-e-equador.html",
+        "title": "Juvenis brasileiros disputam quartas na Colômbia, Paraguai e Equador",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/pietro_gava_boa_back-1024x686.jpg",
         "date": "22/07/2026",
-        "description": "Vacaria (RS) –Brasileira mais bem colocada entre as participantes do W75 de Vacaria, Laura Pigossi estreou com vitória no torneio disputado nas quadras de saibro da Pousada Santa Tereza. A número 2 do país e 249ª do mundo marcou as parciais de 6/1 e 6/0 contra a chilena Camila Rodero."
+        "description": "Cali (Colômbia) –O juvenil de 16 anos Pietro Gava, 323º do ranking, está nas quartas de final do J100 de Cali, em quadras de saibro na Colômbia. Ele venceu nesta quarta-feira o anfitrião Santiago Lopez por 6/1 e 6/0 e vai enfrentar o venezuelano Rodolfo De Andreis."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/felipe-meligeni-vence-em-sp-e-destaca-inicio-de-trabalho-com-bellucci.html",
+        "title": "Felipe Meligeni vence em SP e destaca início de trabalho com Bellucci",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/felipe_meligeni_ecp_back-1024x683.jpg",
+        "date": "22/07/2026",
+        "description": "São Paulo (SP) –A estreia de Felipe Meligeni no Santos Brasil Tennis Cup foi com resultado positivo. O experiente paulista de 28 anos venceu um duelo nacional contra o paranaense João Schiessl por 6/2 e 6/1, garantindo vaga nas oitavas de final do M25 disputado no Esporte Clube Pinheiros, em São Paulo. O torneio distribui US$ 30 mil em premiação e 25 pontos no ranking da ATP ao campeão."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-22-07.html",
@@ -12,6 +19,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/thomasmiranda_rg_junior.jpg",
         "date": "22/07/2026",
         "description": "ATP 250 do Estoril (Portugal) – Saibro – 612.620 eurosDuplas – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pigossi-e-carol-estreiam-bem-nana-e-pietra-vencem-duelos-nacionais.html",
+        "title": "Pigossi e Carol estreiam bem, Naná e Pietra vencem duelos nacionais",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/pietra_rivoli_vacaria_vibra.jpg",
+        "date": "22/07/2026",
+        "description": "Vacaria (RS) –Brasileira mais bem colocada entre as participantes do W75 de Vacaria, Laura Pigossi estreou com vitória no torneio disputado nas quadras de saibro da Pousada Santa Tereza. A número 2 do país e 249ª do mundo marcou as parciais de 6/1 e 6/0 contra a chilena Camila Rodero."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/por-falta-de-visto-guto-fica-sem-convite-para-o-atp-de-washington.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/burruchaga-fore-estoril-1024x576.jpg",
         "date": "22/07/2026",
         "description": "Estoril (Portugal) –Roman Burruchaga segue aproveitando os eventos no saibro europeu pós-Wimbledon para amealhar pontos importantes. O argentino assegurou vaga nas quartas de final do ATP 250 do Estoril ao bater o local Nuno Borges por 2 sets a 1, com parciais de 6/1, 4/6 e 6/3, após 2h10 de confronto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/gravida-giorgi-treina-tres-horas-por-dia-para-voltar-ao-circuito.html",
-        "title": "Grávida, Giorgi treina três horas por dia para voltar ao circuito",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/05/camila-giorgi-backhand-2023-1024x683.jpg",
-        "date": "22/07/2026",
-        "description": "Mallorca (Espanha) –Camila Giorgi já havia anunciado que pretende retornar às quadras em 2027 e revelou que, mesmo grávida, está treinando firme para competir na próxima temporada. A italiana de 34 anos aguarda o primeiro filho para setembro e está animada com a possibilidade de conciliar a vida de mãe com a carreira profissional."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ben-exagera-e-se-autossabota-diz-pai-de-shelton.html",
-        "title": "“Ben exagera e se autossabota”, diz pai de Shelton",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/shelton-halle-2026-wednesday-e1781709562975-1024x682.jpg",
-        "date": "22/07/2026",
-        "description": "Nova Iorque (EUA) –Embora seja considerado um dos principais nomes da nova geração, Ben Shelton realiza temporada abaixo do esperado nos grandes torneios. Pai do canhoto, Bryan Shelton disse que o filho precisa dosar melhor sua agressividade para evitar momentos de autossabotagem."
     }
 ]
