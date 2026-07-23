@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-23-07.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/rafael_tosetto_desliza_santos.jpg",
+        "date": "23/07/2026",
+        "description": "ATP 250 do Estoril (Portugal) – Saibro – 612.620 eurosDuplas – Quartas de final –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/juvenis-brasileiros-disputam-quartas-na-colombia-paraguai-e-equador.html",
         "title": "Juvenis brasileiros disputam quartas na Colômbia, Paraguai e Equador",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/pietro_gava_boa_back-1024x686.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/arte_ps_kiko.png",
         "date": "22/07/2026",
         "description": "Em seu último ano de circuito juvenil e já realizando a transição para o tênis profissional, o paulista Francisco Damorim adotou um caminho diferente daquele que muitos brasileiros optaram. O paulista de 18 anos está há quatro temporadas na Espanha e tem a oportunidade de treinar na academia de Juan Carlos Ferrero."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/burruchaga-pega-blockx-no-estoril-e-sensacao-local-bate-tabilo.html",
-        "title": "Burruchaga pega Blockx no Estoril e sensação local bate Tabilo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/burruchaga-fore-estoril-1024x576.jpg",
-        "date": "22/07/2026",
-        "description": "Estoril (Portugal) –Roman Burruchaga segue aproveitando os eventos no saibro europeu pós-Wimbledon para amealhar pontos importantes. O argentino assegurou vaga nas quartas de final do ATP 250 do Estoril ao bater o local Nuno Borges por 2 sets a 1, com parciais de 6/1, 4/6 e 6/3, após 2h10 de confronto."
     }
 ]
