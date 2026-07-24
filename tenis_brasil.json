@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/krejcikova-faz-semi-em-praga-valentova-bate-atual-campea-bouzkova.html",
-        "title": "Krejcikova faz semi em Praga, Valentova bate atual campeã Bouzkova",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/krejcikova_atenas_espera_sunset.jpg",
+        "url": "https://tenisbrasil.uol.com.br/meligeni-andrade-e-saraiva-avancam-as-semifinais-no-pinheiros.html",
+        "title": "Meligeni, Andrade e Saraiva avançam às semifinais no Pinheiros",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/jose_pereira_vibra-1024x683.jpg",
         "date": "24/07/2026",
-        "description": "Praga (República Tcheca) –Barbora Krejcikova segue irresistível no piso sintético europeu e garantiu vaga nas semifinais do WTA 250 de Praga. Campeã em Atenas na semana passada, a tcheca passou sem sustos pela compatriota Dominika Salkova, que veio do qualificatório, por duplo 6/3, após 1h20 de disputa."
+        "description": "São Paulo (SP) –Três brasileiros vão disputar as semifinais do Santos Brasil Tennis Classic. A rodada desta sexta-feira foi de vitória para Felipe Meligeni, Lucas Andrade da Silva e Paulo Saraiva, que seguem na disputa pelo título do torneio M25 disputado nas quadras de saibro do Clube Pinheiros."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-e-djokovic-desistem-do-masters-1000-de-montreal.html",
+        "title": "Sinner e Djokovic desistem do Masters 1000 de Montréal",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/sinner_djokovic_treino_wimbledon-e1751303581754-1024x683.jpg",
+        "date": "24/07/2026",
+        "description": "Montréal (Canadá) –Jannik Sinner e Novak Djokovic anunciaram que não vão competir no Masters 1000 de Montréal, evento disputado entre os dias 2 e 12 de agosto, no piso sintético. Com a ausência do número 1 do mundo, o alemão Alexander Zverev surge como principal nome da lista do prestigiado evento canadense."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-24-07.html",
@@ -12,6 +19,34 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/kohlmann_oliveira_ecp-1024x683.jpg",
         "date": "24/07/2026",
         "description": "ATP 250 do Estoril (Portugal) – Saibro – 612.620 eurosDuplas – Semifinal –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pigossi-vence-mais-uma-em-vacaria-e-chega-sem-perder-sets-a-semi.html",
+        "title": "Pigossi vence mais uma em Vacaria e chega sem perder sets à semi",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/pigossi_vacaria_back_26-1024x683.jpg",
+        "date": "24/07/2026",
+        "description": "Vacaria (RS) –A semana de Laura Pigossi no W75 de Vacaria segue com resultados positivos. A número 2 do Brasil e 249ª do mundo chega sem perder sets à semifinal depois de vencer nesta sexta-feira a chilena Fernanda Labrana por 6/0 e 6/1."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/serena-sabalenka-e-uma-fera-e-me-vejo-refletida-nela.html",
+        "title": "Serena: “Sabalenka é uma fera e me vejo refletida nela”",
+        "image": null,
+        "date": "24/07/2026",
+        "description": "Embed from Getty Images"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sherif-volta-a-bater-badosa-e-faz-semifinais-em-hamburgo.html",
+        "title": "Sherif volta a bater Badosa e faz semifinais em Hamburgo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sherif-hamburgo-2026-e1784909898671-1024x683.jpg",
+        "date": "24/07/2026",
+        "description": "Hamburgo (Alemanha) –Mayar Sherif segue em grande fase no cirucito e voltou a bater Paula Badosa para avançar às semifinais do WTA 250 de Hamburgo. Elas haviam se enfrentado na decisão de Iasi, jogada na segunda-feira, e a egípcia ficou com o título após a espanhola abandonar quando perdia por 6/4 e 4/0."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/krejcikova-faz-semi-em-praga-valentova-elimina-atual-campea-bouzkova.html",
+        "title": "Krejcikova faz semi em Praga, Valentova elimina atual campeã Bouzkova",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/valentova_praga_vibra_26.jpg",
+        "date": "24/07/2026",
+        "description": "Praga (República Tcheca) –Barbora Krejcikova segue irresistível no piso sintético europeu e garantiu vaga nas semifinais do WTA 250 de Praga. Campeã em Atenas na semana passada, a tcheca passou sem sustos pela compatriota Dominika Salkova, que veio do qualificatório, por duplo 6/3, após 1h20 de disputa."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/noskova-e-muchova-sao-recepcionadas-pelo-presidente-tcheco.html",
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/jannik-sinner.jpg",
         "date": "24/07/2026",
         "description": "Gênova (Itália)– Participando de um evento de dois dias a bordo do navio de cruzeiro Explora III, onde embarcou como porta-voz da Explora Journeys, o italiano Jannik Sinner fez um balanço da primeira parte da temporada, antes de iniciar sua campanha na América do Norte."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sherif-volta-a-bater-badosa-e-faz-semifinais-em-hamburgo.html",
-        "title": "Sherif volta a bater Badosa e faz semifinais em Hamburgo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/sherif-hamburgo-2026-e1784909898671-1024x683.jpg",
-        "date": "24/07/2026",
-        "description": "Hamburgo (Alemanha) –Mayar Sherif segue em grande fase no cirucito e voltou a bater Paula Badosa para avançar às semifinais do WTA 250 de Hamburgo. Elas haviam se enfrentado na decisão de Iasi, jogada na segunda-feira, e a egípcia ficou com o título após a espanhola abandonar quando perdia por 6/4 e 4/0."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/japonesa-campea-de-roland-garros-e-presa-acusada-de-fraude.html",
-        "title": "Japonesa campeã de Roland Garros é presa acusada de fraude",
-        "image": null,
-        "date": "24/07/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/bublik-busca-10o-titulo-e-o-bi-em-kitzbuhel-contra-halys.html",
-        "title": "Bublik busca 10º título e o bi em Kitzbuhel contra Halys",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/bublik-fore-kitzbuhel-1024x602.jpg",
-        "date": "24/07/2026",
-        "description": "Kitzbuhel (Áustria) –Alexander Bublik confirmou o favoritismo e vai em busca do bicampeonato no saibro do ATP 250 de Kitzbuhel. Principal favorito, o cazaque controlou o argentino Tomas Etcheverry para avançar novamente à decisão por 2 sets a 0, com parciais de 6/3 e 6/4, após 1h24 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tsitsipas-lidera-lista-de-inscritos-para-o-quali-em-cincinnati.html",
-        "title": "Tsitsipas lidera lista de inscritos para o quali em Cincinnati",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/tsitsipas-gstaad-grita-2026-1024x683.jpg",
-        "date": "24/07/2026",
-        "description": "Cincinnati (EUA)– Mesmo ocupando atualmente a 51ª colocação no ranking, o grego Stefanos Tsitsipas ficou de fora dachave principal do Masters 1000 de Cincinnatie terá que disputar o quali se não receber um convite da organização."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wild-vai-as-semifinais-na-suica-e-evita-saida-do-top-300.html",
-        "title": "Wild vai às semifinais na Suíça e evita saída do top 300",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/wild-zug-vibra-2026-1024x683.jpg",
-        "date": "24/07/2026",
-        "description": "Zug (Suíça)– O paranaense Thiago Wild segue firme na disputa no challenger de Zug e nesta sexta-feira se garantiu nas semifinais no saibro suíço. Ele enfrentou o sul-africano Philip Henning, de 25anos e atual 294º do mundo, vencendo em sets diretos, com o placar final de 6/1 e 7/6 (7-1), depois de 1h27 de jogo."
     }
 ]
