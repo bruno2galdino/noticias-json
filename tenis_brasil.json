@@ -1,17 +1,31 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/miedler-e-polmans-conquistam-segundo-titulo-consecutivo-nas-duplas.html",
-        "title": "Miedler e Polmans conquistam segundo título consecutivo nas duplas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/polmans-miedler-trofeu-kitzbuhel-2026-1024x576.jpg",
-        "date": "25/07/2026",
-        "description": "Kitzbuhel (Áustria)– A parceria de Marc Polmans e Lucas Miedler segue invicta e, pelo segundo torneio consecutivo, eles conquistaram o título junto. Neste sábado, o australiano e o austríaco faturaram o ATP 250 de Kitzbuhel, na casa de Miedler, depois de derrotarem os alemães Jakob Schnaitter e Mark Wallner, cabeças de chave número 3, por duplo 6/2."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-25-07.html",
         "title": "O dia dos brasileiros: veja os resultados deste sábado",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/felipe-meligeni.jpg",
         "date": "25/07/2026",
         "description": "ATP 500 de Washington (EUA) – Sintético – US$ 2.469.450Duplas – Qualificatório – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bondar-volta-a-decisao-em-hamburgo-e-desafia-korpatsch-pelo-1o-titulo.html",
+        "title": "Bondar volta à decisão em Hamburgo e desafia Korpatsch pelo 1º título",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/bondar-korpatsch-hamburgo-2026-1024x683.jpg",
+        "date": "25/07/2026",
+        "description": "Hamburgo (Alemanha)– Um ano depois de alcançar a primeira final da carreira e sair com o vice-campeonato do WTA 250 de Hamburgo, a húngara Anna Bondar está de volta à decisão do torneio alemão, disputado em quadras de saibro. Neste sábado, ela garantiu sua classificação ao derrotar a qualifier armênia Elina Avanesyan pelo placar de 7/6 (7-3), 4/6, 7/6 (7-2), em uma batalha com 3h29 de duração."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/snigur-e-tagger-evitam-final-tcheca-e-decidem-o-titulo-em-praga.html",
+        "title": "Snigur e Tagger evitam final tcheca e decidem o título em Praga",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/snigur-tagger-praga-2026-1024x683.jpg",
+        "date": "25/07/2026",
+        "description": "Praga (República Tcheca)– A expectativa de uma nova final 100% tcheca no WTA 250 de Praga não se confirmou, com duas derrotas das jogadoras da casa nas semifinais deste sábado. As responsáveis pela frustração das anfitriãs foram a ucraniana Daria Snigur e a austríaca Lilli Tagger, que derrotaram as locais Tereza Valentova e Barbora Krecjikova, respectivamente."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/miedler-e-polmans-conquistam-segundo-titulo-consecutivo-nas-duplas.html",
+        "title": "Miedler e Polmans conquistam segundo título consecutivo nas duplas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/polmans-miedler-trofeu-kitzbuhel-2026-1024x576.jpg",
+        "date": "25/07/2026",
+        "description": "Kitzbuhel (Áustria)– A parceria de Marc Polmans e Lucas Miedler segue invicta e, pelo segundo torneio consecutivo, eles conquistaram o título junto. Neste sábado, o australiano e o austríaco faturaram o ATP 250 de Kitzbuhel, na casa de Miedler, depois de derrotarem os alemães Jakob Schnaitter e Mark Wallner, cabeças de chave número 3, por duplo 6/2."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/wild-vence-anfitriao-e-disputara-terceira-final-de-challenger-no-ano.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/jose_pereira_vibra-1024x683.jpg",
         "date": "24/07/2026",
         "description": "* Atualizado com a definição dos finalistas de duplas"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-24-07.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/kohlmann_oliveira_ecp-1024x683.jpg",
-        "date": "24/07/2026",
-        "description": "ATP 250 do Estoril (Portugal) – Saibro – 612.620 eurosDuplas – Semifinal –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/pigossi-nana-e-bohrer-disputam-a-final-de-duplas-em-vacaria.html",
-        "title": "Pigossi, Naná e Bohrer disputam a final de duplas em Vacaria",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/bohrer_vacaria_saque-1024x683.jpg",
-        "date": "24/07/2026",
-        "description": "Vacaria (RS) –Três brasileiras estarão em quadra na final de duplas do W75 de Vacaria, disputado nas quadras de saibro da Pousada Santa Tereza. As paulistas Laura Pigossi e Nauhany Silva jogam juntas, enquanto a catarinense Carolina Bohrer tem como parceira a norte-americana Isabella Aguirre."
     }
 ]
