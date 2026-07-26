@@ -1,24 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo.html",
+        "title": "O dia dos brasileiros: veja os resultados deste domingo",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/pucinelli-saque-santos-2026-1024x683.jpg",
+        "date": "26/07/2026",
+        "description": "ATP 500 de Washington (EUA) – Sintético – US$ 2.469.450Duplas – Qualificatório – Rodada final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/wild-conquista-maior-titulo-em-tres-anos-e-entra-no-quali-do-us-open.html",
+        "title": "Wild conquista maior título em três anos e entra no quali do US Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/wild-vibra-zug-2026-1-1024x683.jpg",
+        "date": "26/07/2026",
+        "description": "Zug (Suíça)– Thiago Wild conquistou neste domingo seu maior título em três anos ao vencer o challenger 125 de Zug, disputado no saibro suíço. O paranaense de 25 anos derrotou na final o anfitrião Marc-Andrea Huesler por 6/4 e 6/3, em 1h19 de partida, faturando seu 11º troféu como profissional e o sétimo no circuito challenger."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/tagger-conquista-em-praga-seu-primeiro-titulo-de-wta-aos-18-anos.html",
         "title": "Tagger conquista em Praga seu primeiro título de WTA, aos 18 anos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/tagger-comemora-praga-2026-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/tagger-trofeu-praga-2026-1024x683.jpg",
         "date": "26/07/2026",
         "description": "Praga (WTA)– A austríaca Lilli Tagger mostrou porque é considerada uma das promessas do tênis feminino atual e conquistou neste domingo o seu primeiro título de expressão, ao faturar o WTA 250 de Praga. A jovem tenista de 18 anos precisou de 1h29 para derrotar a ucraniana Daria Snigur pelo placar de 7/6 (7-3) e 6/2."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/korpatsch-impoe-novo-vice-a-bondar-em-hamburgo-e-e-campea-em-casa.html",
         "title": "Korpatsch impõe novo vice a Bondar em Hamburgo e é campeã em casa",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/korpatsch-hamburgo-2026-1-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/korpatsch-trofeu-hamburgo-2026-1024x683.jpg",
         "date": "26/07/2026",
         "description": "Hamburgo (Alemanha)– A alemã Tamara Korpatsch conquistou neste domingo o WTA 250 de Hamburgo. Natural da própria cidade localizada no norte do país, a tenista de 31 anos superou na final a húngara Anna Bondar com um duplo 6/3, em 1h27 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-domingo.html",
-        "title": "O dia dos brasileiros: veja os resultados deste domingo",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/pucinelli-saque-santos-2026-1024x683.jpg",
-        "date": "26/07/2026",
-        "description": "ATP 500 de Washington (EUA) – Sintético – US$ 2.469.450Duplas – Qualificatório – Rodada final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/todas-as-chaves-2026.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/felipe-meligeni.jpg",
         "date": "25/07/2026",
         "description": "ATP 500 de Washington (EUA) – Sintético – US$ 2.469.450Duplas – Qualificatório – Primeira rodada –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/romboli-avanca-para-a-rodada-final-do-quali-de-duplas-em-washington.html",
-        "title": "Romboli avança para a rodada final do quali de duplas em Washington",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli-smith-usopen-2025-1024x681.jpg",
-        "date": "25/07/2026",
-        "description": "Washington (EUA)– Único brasileiro na disputa do ATP 500 de Washington, o carioca Fernando Romboli está a uma vitória de entrar na chave principal de duplas do torneio norte-americano. Neste sábado, ele e o australiano John-Patrick Smith venceram pela primeira rodada do qualficatório, superando em sets diretos o romeno Victor Cornea e o israelense Daniel Cukierman, parciais de 7/6 (7-2) e 6/2."
     }
 ]
