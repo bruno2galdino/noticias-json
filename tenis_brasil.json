@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/mato-grosso-conquista-historico-titulo-nos-18-anos-da-copa-das-federacoes.html",
+        "title": "Mato Grosso conquista histórico título nos 18 anos da Copa das Federações",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/storck_federacoes2.jpg",
+        "date": "25/07/2026",
+        "description": "Uberlândia (MG) –A equipe de Mato Grosso conquistou, neste sábado, pela primeira vez, o título da categoria 18 anos, a mais prestigiada da Copa das Federações, realizada em Uberlândia, no Praia Clube. O evento é o maior e mais importante entre os estados. O time foi campeão com vitórias dos talentos mato-grossenses Livas Damázio e Leonardo Storck, em confronto contra o Rio Grande do Sul."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/brasileiros-seguem-em-busca-de-bons-resultados-e-reacao-nos-challengers.html",
+        "title": "Brasileiros seguem em busca de bons resultados e reação nos challengers",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/joao_lreis_bratislava_rebate-1024x684.jpg",
+        "date": "25/07/2026",
+        "description": "Bonn (Alemanha)– Sem condições de competir em eventos de nível ATP por conta do baixo ranking, os brasileiros seguem disputando eventos de nível challenger, especialmente no saibro europeu, e se espalharão por diferentes torneios na próxima semana."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cabeca-1-em-washington-de-minaur-estreia-contra-o-embalado-tsitsipas.html",
+        "title": "Cabeça 1 em Washington, De Minaur estreia contra o embalado Tsitsipas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/minaur-queens-alivio-1024x683.jpg",
+        "date": "25/07/2026",
+        "description": "Washington (EUA)– Atual campeão e principal favorito ao bicampeonato, o australiano Alex de Minaur terá uma estreia dura no ATP 500 de Washington, a partir desta segunda-feira. Ele enfrenta logo de cara o grego Stefanos Tsitsipas, que vem embalado após o título no saibro de Gstaad na semana passada e entra como convidado da organização."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-25-07.html",
         "title": "O dia dos brasileiros: veja os resultados deste sábado",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/felipe-meligeni.jpg",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/bondar-korpatsch-hamburgo-2026-1024x683.jpg",
         "date": "25/07/2026",
         "description": "Hamburgo (Alemanha)– Um ano depois de alcançar a primeira final da carreira e sair com o vice-campeonato do WTA 250 de Hamburgo, a húngara Anna Bondar está de volta à decisão do torneio alemão, disputado em quadras de saibro. Neste sábado, ela garantiu sua classificação ao derrotar a qualifier armênia Elina Avanesyan pelo placar de 7/6 (7-3), 4/6, 7/6 (7-2), em uma batalha com 3h29 de duração."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/snigur-e-tagger-evitam-final-tcheca-e-decidem-o-titulo-em-praga.html",
-        "title": "Snigur e Tagger evitam final tcheca e decidem o título em Praga",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/snigur-tagger-praga-2026-1-1024x683.jpg",
-        "date": "25/07/2026",
-        "description": "Praga (República Tcheca)– A expectativa de uma nova final 100% tcheca no WTA 250 de Praga não se confirmou, com duas derrotas das jogadoras da casa nas semifinais deste sábado. As responsáveis pela frustração das anfitriãs foram a ucraniana Daria Snigur e a austríaca Lilli Tagger, que derrotaram as locais Tereza Valentova e Barbora Krecjikova, respectivamente."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/miedler-e-polmans-conquistam-segundo-titulo-consecutivo-nas-duplas.html",
-        "title": "Miedler e Polmans conquistam segundo título consecutivo nas duplas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/polmans-miedler-trofeu-kitzbuhel-2026-1024x576.jpg",
-        "date": "25/07/2026",
-        "description": "Kitzbuhel (Áustria)– A parceria de Marc Polmans e Lucas Miedler segue invicta e, pelo segundo torneio consecutivo, eles conquistaram o título junto. Neste sábado, o australiano e o austríaco faturaram o ATP 250 de Kitzbuhel, na casa de Miedler, depois de derrotarem os alemães Jakob Schnaitter e Mark Wallner, cabeças de chave número 3, por duplo 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wild-vence-anfitriao-e-disputara-terceira-final-de-challenger-no-ano.html",
-        "title": "Wild vence anfitrião e disputará terceira final de challenger no ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/wild-zug-2026-1024x683.jpg",
-        "date": "25/07/2026",
-        "description": "Zug (Suíça)– Pela terceira vez nesta temporada, o paranaense Thiago Wild disputará uma final de challenger. Neste sábado, o brasileiro de 25 anos se garantiu na decisão do torneio de Zug, no saibro suíço, ao superar na semifinal o convidado da casa Dylan Dietrich, quatro anos mais novo e apenas 556º do ranking, pelo placar de 6/4 e 6/3, em 1h13 de jogo."
     }
 ]
