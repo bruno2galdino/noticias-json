@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/algoz-de-anfitrias-jovem-tcheca-alcanca-inedita-semifinal-em-memphis.html",
+        "title": "Algoz de anfitriãs, jovem tcheca alcança inédita semifinal em Memphis",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/vidmanova_memphis_vibra.jpg",
+        "date": "01/08/2026",
+        "description": "Memphis (EUA) –A semana no WTA 250 de Memphis tem sido muito bem aproveitada por jogadoras da nova geração do circuito. Além da grande campanha da russaKristina Liutova, de apenas 16 anos, a tcheca Darja Vidmanova e a norte-americana Elvina Kalieva, ambas de 23 anos, também são semifinalistas inéditas."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/com-grandes-lances-tabilo-derruba-shelton-de-virada-nas-quartas.html",
+        "title": "Com grandes lances, Tabilo derruba Shelton de virada nas quartas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/tabilo_washington_grita_qf.jpg",
+        "date": "01/08/2026",
+        "description": "Washington (EUA) –No jogo que encerrou a programação desta sexta-feira no ATP 500 de Washington, Alejandro Tabilo levou a melhor sobre Ben Shelton para chegar à semifinal. O chileno bateu o norte-americano, segundo cabeça de chave e número 8 do mundo, com parciais de 4/6, 7/5 e 6/4 em 2h23 de disputa."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/zverev-elogia-nadal-apos-treinos-opinioes-valiosas.html",
         "title": "Zverev elogia Nadal após treinos: “Opiniões valiosas”",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/RG_DUB_3773NadalZverev-min-1024x682.jpg",
@@ -28,8 +42,8 @@
         "description": "Embed from Getty Images"
     },
     {
-        "url": "https://tenisbrasil.uol.com.br/semifinalista-na-wta-aos-16-anos-liutova-entra-no-top-200.html",
-        "title": "Semifinalista na WTA aos 16 anos, Liutova entra no top 200",
+        "url": "https://tenisbrasil.uol.com.br/liutova-volta-a-surpreender-e-garante-o-top-200-com-a-semi-em-memphis.html",
+        "title": "Liutova volta a surpreender e garante o top 200 com a semi em Memphis",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/liutova_memphis_back.jpg",
         "date": "31/07/2026",
         "description": "Memphis (EUA) –A jovem russa Kristina Liutova voltou a surpreender nesta sexta-feira e garantiu vaga na semifinal do WTA 250 de Memphis. Vinda do quali e estreante em torneios da elite do circuito, a jogadora de apenas 16 anos derrotou a norte-americana Caty McNally, 73ª do ranking, com parciais de 6/3 e 6/4 em 1h33 de partida."
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/fritz-sorri-washington-1024x721.jpg",
         "date": "31/07/2026",
         "description": "Washington (EUA) –Taylor Fritz enfim derrotou Alex Michelsen e assegurou vaga nas semifinais do ATP 500 de Washington pela segunda vez na carreira. Em duelo 100% norte-americano, melhor para o cabeça de chave 3, que salvou um match-point no terceiro set para fechar a partida com as parciais de 6/1, 3/6 e 7/6 (8-6), após 2h18 de embate."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/shnaider-vence-duelo-russo-e-desafia-pegula-na-semi-de-washington.html",
-        "title": "Shnaider vence duelo russo e desafia Pegula na semi de Washington",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/shnaider_washington_sorrindo.jpg",
-        "date": "31/07/2026",
-        "description": "Washington (EUA) –No encontro entre duas jogadoras russas, a canhota Diana Shnaider venceu Liudmila Samsonova para chegar à semifinal do WTA 500 de Washington. A jovem de 22 anos e 18ª do ranking marcou as parciais de 6/3 e 6/4 em 1h29 de disputa."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/aliassime-so-ira-anunciar-novo-tecnico-apos-o-us-open.html",
-        "title": "Aliassime só irá anunciar novo técnico após o US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/aliassime-fore1-wimbledon-1024x576.jpg",
-        "date": "31/07/2026",
-        "description": "Montreal (Canadá) –Após encerrar a parceria de quase dez anos com Frédéric Fontang, Félix Auger-Aliassime confirmou que disputará os torneios do verão norte-americano em quadras sintéticas sem um treinador principal. O canadense afirmou que pretende anunciar o novo técnico somente após o US Open."
     }
 ]
