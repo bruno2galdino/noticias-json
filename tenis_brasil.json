@@ -1,10 +1,24 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-05-08.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/nicolas_oliveira_piracicaba_saque-1024x683.jpg",
+        "url": "https://tenisbrasil.uol.com.br/monfils-recebe-convite-frances-para-se-despedir-do-us-open.html",
+        "title": "Monfils recebe convite francês para se despedir do US Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/monfils-montreal-acena-2026-.jpg",
         "date": "05/08/2026",
-        "description": "Masters 1000 de Montréal (Canadá) – Sintético – US$ 9.415.724Primeira rodada –Veja a chave"
+        "description": "Nova York (EUA)– Fazendo sua última temporada como tenista profissional, o francês Gael Monfils terá a chance de se despedir do US Open. A Federação Francesa de Tênis (FFT) anunciou nesta quarta-feira que ele receberá o convite francês para a competição."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-pode-jogar-atp-250-na-preparacao-para-o-us-open.html",
+        "title": "Alcaraz pode jogar ATP 250 na preparação para o US Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/alcaraz-sorri-scaled-e1785937768817-1024x683.jpg",
+        "date": "05/08/2026",
+        "description": "Múrcia (Espanha)– Depois de ter adiado seu retorno ao circuito,desistindo de competir no Masters 1000 de Cincinnati, o espanhol Carlos Alcaraz já pensa em um ‘plano B’ visando a melhor preparação para o US Open."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/popyrin-reflete-sobre-atual-momento-e-espera-dar-volta-por-cima.html",
+        "title": "Popyrin reflete sobre atual momento e espera dar volta por cima",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/AC-Alexei-Popyrin-2421-1024x683.jpg",
+        "date": "05/08/2026",
+        "description": "Montréal (Canadá)– Campeão do Masters 1000 de Montréal em 2024, o australiano Alexei Popyrin volta à cidade em que faturou o maior título da carreira em condições bem diferentes. Atual 139º do mundo, precisou jogar o quali para conseguir um lugar na chave principal."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/muitas-emocoes-muitas-coisas-para-processar-destaca-eala.html",
@@ -47,26 +61,5 @@
         "image": null,
         "date": "04/08/2026",
         "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/brasileiros-vencem-a-franca-nos-14-anos-equipes-de-16-estreiam-bem.html",
-        "title": "Brasileiros vencem a França nos 14 anos, Equipes de 16 estreiam bem",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/dante_monte_mundial14-1024x682.jpg",
-        "date": "04/08/2026",
-        "description": "Prostejov (República Tcheca) –A equipe masculina do Brasil se recuperou da derrota sofrida na estreia e conseguiu um grande resultado contra a França no Mundial de 14 anos, disputado nas quadras de saibro de Prostejov, na República Tcheca. Nesta terça-feira, os brasileiros venceram por 2 a 1."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/dietrich-faz-1o-ponto-na-atp-e-onze-brasileiros-avancam-em-londrina.html",
-        "title": "Dietrich faz 1º ponto na ATP e onze brasileiros avançam em Londrina",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/10/pedro_dietrich_itajai_back-1024x683.jpg",
-        "date": "04/08/2026",
-        "description": "Londrina (PR) –Onze brasileiros venceram na rodada de estreia do M25 de Londrina, disputado nas quadras de saibro do Country Club. Um dos destaques desta terça-feira foi Pedro Dietrich, gaúcho de 18 anos, que marcou o primeiro ponto na ATP ao vencer o duelo nacional contra Kauê Noatto por 6/3 e 6/2."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rybakina-e-gauff-estreiam-na-quarta-a-tarde-eala-fecha-sessao-noturna.html",
-        "title": "Rybakina e Gauff estreiam na quarta à tarde, Eala fecha sessão noturna",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/eala_toronto_autografos.jpg",
-        "date": "04/08/2026",
-        "description": "Toronto (Canadá) –A quarta-feira em Toronto terá o complemento da segunda rodada no WTA 1000 e as estreias restantes das cabeças de chave no Canadá. Nomes como Elena Rybakina e Coco Gauff atuam ainda na sessão diurna."
     }
 ]
