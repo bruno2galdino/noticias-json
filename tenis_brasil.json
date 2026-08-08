@@ -1,10 +1,17 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/darderi-vira-sobre-borges-e-vence-a-30a-na-temporada.html",
-        "title": "Darderi vira sobre Borges e vence a 30ª na temporada",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/darderi-back-hamburgo1-e1779364713982.jpg",
+        "url": "https://tenisbrasil.uol.com.br/brasil-vai-a-final-no-masculino-e-feminino-no-sul-americano-de-16-anos.html",
+        "title": "Brasil vai à final no masculino e feminino no Sul-Americano de 16 anos",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Artes-fotos-multiplas-900x600-1-1.jpg",
         "date": "08/08/2026",
-        "description": "Montréal (Canadá) – Abrindo o sábado no Masters 1000 de Montréal, o italiano Luciano Darderi mostrou forças para buscar se recuperar contra o portugyês Nuno Borges, anotando sua 30ª vitória na temporada de virada, com o placar final de 4/6, 6/3 e 7/5."
+        "description": "Bogotá (Colômbia)– Dia de grandes vitórias para o Brasil no Sul-Americano 16 anos, em Bogotá. As equipes feminina e masculina venceram seus confrontos pelas semifinais e conquistaram vaga nas finais da competição."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/paolini-e-muchova-ampliam-lista-de-baixas-em-cincinnati.html",
+        "title": "Paolini e Muchova ampliam lista de baixas em Cincinnati",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/paolini-lamenta-roma-2026-1024x683.jpg",
+        "date": "08/08/2026",
+        "description": "Cincinnati (EUA) –O WTA 1000 de Cincinnati ganhou duas baixas importantes neste sábado. A italiana Jasmine Paolini, atual vice-campeã do torneio, e a tcheca Karolina Muchova confirmaram que não estarão na chave por causa de problemas físicos."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-deste-sabado-0808.html",
@@ -12,6 +19,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/06/54115895487_289ab9445f_k-1024x683.jpg",
         "date": "08/08/2026",
         "description": "Masters 1000 de Montréal (Canadá) – Sintético – US$ 9.415.724Duplas – Segunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/darderi-vira-sobre-borges-e-vence-a-30a-na-temporada.html",
+        "title": "Darderi vira sobre Borges e anota a 30ª vitória na temporada",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/darderi-grita-amontreal-2026-1024x684.jpg",
+        "date": "08/08/2026",
+        "description": "Montréal (Canadá)– Abrindo o sábado no Masters 1000 de Montréal, o italiano Luciano Darderi mostrou forças para se recuperar contra o português Nuno Borges, anotando sua 30ª vitória na temporada de virada, com o placar final de 4/6, 6/3 e 7/5."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/iga-se-vinga-de-kostyuk-e-volta-as-quartas-apos-tres-anos.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/mensik-vibra-montreal-1.jpg",
         "date": "08/08/2026",
         "description": "Montréal (Canadá) –A vitória de Jakub Mensik sobre o francês Terence Atmane por 7/5 e 6/4, em 1h41 de partida, garantiu ao tcheco uma vaga nas oitavas de final do Masters 1000 de Montréal, mas também marcou um momento curioso no evento. Desde o início do confronto, o cabeça de chave 13 foi incomodado por um torcedor, que insistia em tentar dar conselhos."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ingrid-nao-passa-das-quartas-landisville-e-saira-do-top-100-das-duplas.html",
-        "title": "Ingrid não passa das quartas em Landisville e sairá do top 100 das duplas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Ingrid-Martins-e-a-russa-Ekaterina-Ovcharenko-cumrpimentam-1024x683.jpg",
-        "date": "08/08/2026",
-        "description": "Landisville (EUA)– Cabeças 3 do W100 de Landisville, a carioca Ingrid Martins e a russa Ekaterina Ovcharenko foram derrotadas nas quartas de final pela australiana Alexandra Osborne e Hong Yi Cody Wong, de Hong Kong, com duplo 6/3."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/apesar-das-quedas-montreal-mantem-media-de-cabecas-de-chave-nas-oitavas.html",
-        "title": "Apesar das quedas, Montréal mantém média de cabeças de chave nas oitavas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Artes-fotos-multiplas-900x600-1.jpg",
-        "date": "08/08/2026",
-        "description": "Montréal (Canadá)– Marcado por ausências e diversas quedas dos principais favoritos nas fases iniciais, o Masters 1000 de Montréal chega às oitavas de final com um número médio de cabeças de chave nesta fase da competição."
     }
 ]
