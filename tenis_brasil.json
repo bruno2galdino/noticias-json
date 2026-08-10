@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-falha-e-fica-ausente-na-festa-da-nova-geracao.html",
+        "title": "Fonseca falha e fica ausente na festa da nova geração",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/blog_jf_munique.jpg",
+        "date": "10/08/2026",
+        "description": "João Fonseca não soube capitalizar as pequenas chances que apareceram, falhou na execução mas acima de tudo na determinação tática e com isso não conseguiu se juntar a outros fortíssimos nomes da nova geração do tênis masculino que dominam as quartas de final de Montréal."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/shelton-tien-mensik-merida-vao-as-quartas-confira-como-foi-o-domingo.html",
+        "title": "Shelton, Tien, Mensik, Mérida vão às quartas. Confira como foi o domingo.",
+        "image": null,
+        "date": "09/08/2026",
+        "description": ""
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/osaka-acaba-com-chances-da-casa-bencic-domina-eala-em-grande-noite.html",
+        "title": "Osaka acaba com chances da casa, Bencic domina Eala em grande noite",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Naomi_Osaka_-_National_Bank_Open_2026_-_Day_6-DSC_0128_xgaplus.jpg",
+        "date": "09/08/2026",
+        "description": "* atualizado às 23h16 com vitória de Bencic"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/mensik-supera-jogo-duro-e-reencontra-shelton-nas-quartas.html",
         "title": "Mensik supera jogo duro e reencontra Shelton nas quartas",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/mensik_rg_voleia-1024x683.jpg",
@@ -12,13 +33,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/fonseca-montreal-back-2026-1-1024x683.jpg",
         "date": "09/08/2026",
         "description": "Montréal (Canadá)– Mais uma vez derrotado pelo norte-americano Ben Shelton, agoranas oitavas de final do Masters 1000 de Montréal, o carioca João Fonseca saiu bastante frustrado de quadra neste domingo principalmente por ter desperdiçado quebra de frente tanto no primeiro set quanto no segundo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/osaka-acaba-com-chances-da-casa-e-repete-quartas-no-canada.html",
-        "title": "Osaka acaba com chances da casa e repete quartas no Canadá",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Naomi_Osaka_-_National_Bank_Open_2026_-_Day_6-DSC_0128_xgaplus.jpg",
-        "date": "09/08/2026",
-        "description": "Toronto (Canadá)– Assim como fez no ano passado, a japonesa Naomi Osaka se classificou neste domingo para as quartas de final do WTA 1000 do Canadá ao derrotar a tenista da casa Leylah Fernandez em sets diretos, com duplo 6/4 anotado em 1h23 de confronto."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/fonseca-mais-uma-vez-perde-para-shelton-e-cai-nas-oitavas.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/jodar-montreal-2026-saturday-report-e1786310778310-1024x682.jpg",
         "date": "09/08/2026",
         "description": "Montréal (Canadá)– Dois nomes da nova geração farão a primeira partida de quartas de final no Masters 1000 de Montréal. Na noite de segunda-feira, não antes das 19h (horário de Brasília), o espanhol Rafael Jódar e o francês Arthur Fils irão medir forças por um lugar na semi."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/gauff-domina-korneeva-e-volta-as-quartas-apos-tres-anos.html",
-        "title": "Gauff domina Korneeva e volta às quartas após três anos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/gauff-back-toronto.jpg",
-        "date": "09/08/2026",
-        "description": "Toronto (Canadá) –Após três temporadas, Coco Gauff terá nova chance de alcançar ao menos as semifinais do WTA 1000 de Toronto. Com atuação dominante, a norte-americana levou a melhor sobre a jovem russa vinda do qualificatório Alina Korneeva em sets diretos, com placar de 6/3 e 6/1, após 74 minutos de confronto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/iga-abre-as-quartas-de-final-em-toronto-na-noite-de-segunda-feira.html",
-        "title": "Iga abre as quartas de final em Toronto na noite de segunda-feira",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Iga_Swiatek_-_National_Bank_Open_2026_-_Day_7-DSC_2066_xgaplus.jpg",
-        "date": "09/08/2026",
-        "description": "Toronto (Canadá)– A polonesa Iga Swiatek abrirá as quartas de final no WTA 1000 de Toronto enfrentando a russa Diana Shnaider na segunda-feira. A partida que abrirá a rodada na quadra central do torneio começará às 20h (horário de Brasília)."
     }
 ]
