@@ -1,8 +1,29 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/quatro-brasileiras-sao-cabecas-de-chave-em-campos-do-jordao.html",
+        "title": "Quatro brasileiras são cabeças de chave em Campos do Jordão",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/marjorie_souza_rcl_fore-1024x683.jpg",
+        "date": "10/08/2026",
+        "description": "Campos do Jordão (SP) –Quatro brasileiras serão cabeças de chave na primeira semana de torneios W15 em Campos do Jordão. As partidas da chave principal começam nesta terça-feira, nas quadras de piso do Tênis Clube."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/nadal-descobre-ligacao-do-tenis-e-futebol-com-doenca-cronica.html",
+        "title": "Nadal descobre ligação do tênis e futebol com doença crônica",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/nadal_museu2.jpg",
+        "date": "10/08/2026",
+        "description": "Madri (Espanha) –Um dos problemas físicos mais marcantes da carreira de Rafael Nadal ganhou uma nova explicação durante a produção do documentário “Rafa”. Segundo o diretor Zach Heinzerling, o espanhol e sua família descobriram que a síndrome de Müller-Weiss não estaria ligada apenas a uma alteração genética presente desde o nascimento do ex-número 1 do mundo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-10-08.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/Eduardo-Ribeiro-SP-oitavas-1024x683.jpg",
+        "date": "10/08/2026",
+        "description": "Masters 1000 de Montréal (Canadá) – Sintético – US$ 9.415.724Duplas – Quartas de final –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/tsitsipas-brinca-apos-herdar-vaga-de-sinner-em-cincinnati.html",
         "title": "Tsitsipas brinca após herdar vaga de Sinner em Cincinnati",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/tsitsipas-mtl_vibra-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/tsitsipas-gstaad-vibra-2026-scaled-e1784464061967-1024x684.jpg",
         "date": "10/08/2026",
         "description": "Cincinnati (EUA) –Desta vez, Stefanos Tsitsipas conseguiu uma vaga direta na chave de um Masters 1000 e vai jogar Cincinnati, após a desistência de Jannik Sinner. O grego resolveu brincar com a situação nas redes sociais e apareceu junto ao francês Gael Monfils, que recebeu convite para disputar o torneio, a partir de quinta-feira."
     },
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/meligeni-londrina-trofeu-time-1024x683.jpg",
         "date": "10/08/2026",
         "description": "Londres (Inglaterra)– A conquista do fim de semana do paulista Felipe Meligenino M25 de Londrinalhe rendeu destaque no resumo semanal publicado pela World Tennis (antiga ITF) nesta segunda-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/shelton-explica-triunfo-sobre-fonseca-evolui-na-devolucao.html",
-        "title": "Shelton explica triunfo sobre Fonseca: “Evoluí na devolução”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/shelton-celebra-montreal.jpg",
-        "date": "10/08/2026",
-        "description": "Montréal (Canadá) –Depois de superar João Fonseca em sets diretos no Masters 1000 de Montréal, Ben Shelton destacou o dia inspirado na devolução como um dos fatores importantes paragarantir vaga nas quartas de final. O norte-americano marcou 6/3 e 7/6 (7-3) diante do brasileiro e segue sem perder set no torneio."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fonseca-acho-que-simplesmente-joguei-mal-e-ele-mereceu-ganhar.html",
-        "title": "Fonseca: “Acho que simplesmente joguei mal e ele mereceu ganhar”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/fonseca-montreal-saca-2026-1-1024x683.jpg",
-        "date": "10/08/2026",
-        "description": "Toronto (Canadá)– Assim como fez na entrevista para a ESPN logo após a partida, o carioca João Fonseca voltou a lamentar as chances perdidas na coletiva que sucedeu sua eliminação no Masters 1000 de Montréal,caindo em sets diretosdiante do norte-americano Ben Shelton."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/trinity-aparece-de-surpresa-e-deixa-shelton-confuso-antes-do-jogo-com-fonseca.html",
-        "title": "Trinity aparece de surpresa e deixa Shelton confuso antes do jogo com Fonseca",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/shelton_trinity_stuttgart.jpg",
-        "date": "10/08/2026",
-        "description": "Montréal (Canadá) –Ben Shelton foi surpreendido pela namorada, a estrela do futebol Trinity Rodman, antes de sua partida contra João Fonseca pelas oitavas de final do ATP 1000 de Montréal."
     }
 ]
