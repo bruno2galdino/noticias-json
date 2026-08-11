@@ -1,10 +1,31 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/eubanks-ve-gauff-em-outro-nivel-envia-uma-mensagem-ao-vestiario.html",
-        "title": "Eubanks vê Gauff em outro nível: “Envia uma mensagem ao vestiário”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/gauff_toronto_vibra_26.jpg",
+        "url": "https://tenisbrasil.uol.com.br/zverev-e-djokovic-estao-no-mesmo-lado-em-cincy-aliassime-e-cabeca-2.html",
+        "title": "Zverev e Djokovic estão no mesmo lado em Cincy, Aliassime é cabeça 2",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/zverev-djokovic-ao-2025-.jpg",
         "date": "11/08/2026",
-        "description": "Nova York (EUA) –A campanha segura de Coco Gauff no WTA 1000 de Toronto chamou a atenção de Christopher Eubanks. O ex-profissional norte-americano destacou a evolução da compatriota, que ainda não perdeu set no forte evento canadense."
+        "description": "Cincinnati (EUA) –O sorteio do Masters 1000 de Cincinnati colocou Alexander Zverev e Novak Djokovic do mesmo lado da chave. O alemão e o sérvio podem se encontrar em uma das semifinais do torneio, que começa na próxima quinta-feira"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/nakashima-celebra-semi-inedita-e-brinca-nao-sou-um-dos-jovens.html",
+        "title": "Nakashima celebra semi inédita e brinca: “Não sou um dos jovens”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/nakashima-montreal-2026-1024x683.jpg",
+        "date": "11/08/2026",
+        "description": "Montréal (Canadá) –Após alcançar pela primeira vez as semifinais de um Masters 1000, ao avançar em Montréal, Brandon Nakashima destacou a recente evolução. O norte-americano passou pelo italiano Luciano Darderi por 6/2 e 6/3 e aproveitou para brincar com sua idade, já que os outros competidores do torneio são mais jovens."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/fonseca-e-o-cabeca-23-em-cincinnati-e-pode-reencontrar-ruud.html",
+        "title": "Fonseca é o cabeça 23 em Cincinnati e pode reencontrar Ruud",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/fonseca-montreal-2026-1024x684.jpeg",
+        "date": "11/08/2026",
+        "description": "Cincinnati (EUA) –O sorteio da chave do Masters 1000 de Cincinnati, realizado na tarde desta terça-feira, definiu o caminho de João Fonseca na competição, que começa na próxima quinta. O número 1 do Brasil e 27º do mundo será o 23º cabeça de chave e entra diretamente na segunda rodada."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/duplista-lider-do-ranking-siniakova-visita-vilarejo-pitoresco-perto-de-toronto.html",
+        "title": "Duplista líder do ranking, Siniakova visita vilarejo pitoresco, Kostyuk vai às cataratas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/siniakova_unionville.jpg",
+        "date": "11/08/2026",
+        "description": "Toronto (Canadá) –Katerina Siniakova, prestes a completar 200 semanas como número 1 do mundo nas duplas, manteve sua trajetória em Toronto nesta segunda-feira ao avançar às semifinais ao lado de Zhang Shuai, após uma vitória em sets diretos sobre Storm Hunter e Desirae Krawczyk por 6/4 e 6/3."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-11-08.html",
@@ -12,6 +33,20 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/07/alicia_reichel_rgjunior_24_zambra.jpg",
         "date": "11/08/2026",
         "description": "Masters 1000 de Montréal (Canadá) – Sintético – US$ 9.415.724Duplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/ultimas-campeas-sabalenka-e-swiatek-estao-em-chaves-opostas-em-cincy.html",
+        "title": "Últimas campeãs, Sabalenka e Swiatek estão em chaves opostas em Cincy",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/08/iga_cincy_trofeu_externa-1024x683.jpg",
+        "date": "11/08/2026",
+        "description": "Cincinnati (EUA) –As duas últimas campeãs do WTA 1000 de Cincinnati estão em lados opostos da chave. O sorteio realizado na tarde desta terça definiu que Aryna Sabalenka e Iga Swiatek só podem se encontrar na final."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/eubanks-ve-gauff-em-outro-nivel-envia-uma-mensagem-ao-vestiario.html",
+        "title": "Eubanks vê Gauff em outro nível: “Envia uma mensagem ao vestiário”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/gauff_toronto_vibra_26.jpg",
+        "date": "11/08/2026",
+        "description": "Nova York (EUA) –A campanha segura de Coco Gauff no WTA 1000 de Toronto chamou a atenção de Christopher Eubanks. O ex-profissional norte-americano destacou a evolução da compatriota, que ainda não perdeu set no forte evento canadense."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/cbt-anuncia-convocados-para-representar-o-brasil-no-pan-de-beach-tennis.html",
@@ -33,40 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/rune-back-treina-.jpg",
         "date": "11/08/2026",
         "description": "Copenhague (Dinamarca) –Afastado do circuito há quase dez meses por conta de uma grave lesão no tendão de Aquiles, Holger Rune já faz novos planos para voltar. O dinamarquês descartou a disputa do US Open, mas espera retornar em setembro e está animado para jogar a Copa Davis."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-surge-com-braco-protegido-em-novo-treino.html",
-        "title": "Alcaraz surge com braço protegido em novo treino",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/alcaraz-treina-manguito.jpg",
-        "date": "11/08/2026",
-        "description": "El Palmar (Espanha) –Depois de aparecer treinando sem qualquer proteção nos últimos dias, Carlos Alcaraz voltou às quadras nesta terça-feira usando um manguito no braço direito. O espanhol segue como dúvida para o US Open e não disputa uma partida oficial há quase quatro meses."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/us-open-de-2026-tera-experiencias-imersivas-por-toda-nova-york.html",
-        "title": "US Open de 2026 terá experiências imersivas por toda Nova York",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/USO-activations-1024x576.jpg",
-        "date": "11/08/2026",
-        "description": "Nova York (EUA)– Ativações imersivas, gratuitas e voltadas para os fãs do US Open de 2026 estarão presentes em toda a cidade de Nova York, com destaque para a nova US Open Experience no Hudson Yards e o primeiro caminhão itinerante de sorvetes grátis do US Open."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ptpa-alerta-para-aumento-de-lesoes-e-critica-calendario.html",
-        "title": "PTPA alerta para aumento de lesões e critica calendário",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner-cabisbaixo-rg.jpg",
-        "date": "11/08/2026",
-        "description": "Nova York (EUA) –A Associação dos Tenistas Profissionais (PTPA) emitiu um alerta sobre o aumento de lesões no circuito e voltou a criticar o calendário cada vez mais apertado. A entidade independente da ATP e da WTA apresentou números preocupantes e cobrou mudanças na estrutura da temporada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/estadio-arthur-ashe-ira-concluir-1a-etapa-de-renovacao-em-2026.html",
-        "title": "Estádio Arthur Ashe irá concluir 1ª etapa de renovação em 2026",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/09/usopen_ashelotada_web.jpg",
-        "date": "11/08/2026",
-        "description": "Nova York (EUA)– O maior palco do tênis está passando por uma grande transformação graças ao maior investimento da história do US Open. Teve início a modernização do Estádio Arthur Ashe, juntamente com a criação de um novo e moderno Centro de Desempenho de Jogadores."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-aposta-em-tratamento-com-ondas-de-choque-para-se-recuperar.html",
-        "title": "Sinner aposta em tratamento com ondas de choque para se recuperar",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/03/sinner_miami_punho_r16.jpg",
-        "date": "11/08/2026",
-        "description": "Milão (Itália)– Forçado a desistir do Masters 1000 de Cincinnatipor causa de um desconforto no joelho direito, o italiano Jannik Sinner está passando por um tratamento com ondas de choque para se recuperar bem e poder disputar o US Open, segundo informa o jornalGazzetta dello Sport."
     }
 ]
