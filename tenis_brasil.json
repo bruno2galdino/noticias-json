@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-13-08.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quinta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/beatriz_guerra_ecp-1024x683.jpg",
+        "date": "13/08/2026",
+        "description": "Masters 1000 de Montréal (Canadá) – Sintético – US$ 9.415.724Duplas – Final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/volta-de-alcaraz-para-o-circuito-conta-com-auxilio-de-brasileiro.html",
+        "title": "Volta de Alcaraz para o circuito conta com auxílio de brasileiro",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Carlos-Alcaraz-Thomas-Miranda-times-2026-1024x683.jpeg",
+        "date": "13/08/2026",
+        "description": "Múrcia (Espanha)– Trabalhando duro para retornar ao circuito profissional, no qual não compete desde abril, o espanhol Carlos Alcaraz contou com o auxílio de um brasileiro em sua preparação. Ele treinou recentemente com o paulista Thomas Miranda, de 18 anos, que está na Espanha desde 2024."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/cansada-rybakina-espera-se-recuperar-bem-para-a-decisao.html",
+        "title": "Cansada, Rybakina espera se recuperar bem para a decisão",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Elena_Rybakina_-_National_Bank_Open_2026_-_Day_11-DSC_0483_xgaplus.jpg",
+        "date": "13/08/2026",
+        "description": "Toronto (Canadá)– Fechando as semifinais do WTA 1000 de Toronto, a cazaque Elena Rybakina conquistou sua segunda virada seguida no torneio ebateu a norte-americana Coco Gauffpara ir á final, que acontecerá nesta quinta-feira às 19h (horário de Brasília) contra a polonesa Iga Swiatek."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/iga-destaca-capacidade-de-dar-a-volta-por-cima-no-terceiro-set.html",
         "title": "Iga destaca capacidade de dar a volta por cima no terceiro set",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Iga_Swiatek_-_National_Bank_Open_2026_-_Day_11-DSC_5678A_xgaplus.jpg",
@@ -19,13 +40,6 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/PR-Brandon-Nakashima-0952-1024x683.jpg",
         "date": "13/08/2026",
         "description": "Montréal (Canadá)– Classificado para sua primeira final de um Masters 1000, depois devencer o espanhol Rafael Jódarnas semifinais de Montréal, o norte-americano Brandon Nakashima não escondeu a ansiedade para a busca de um título inédito. Ele enfrentará o compatriota Ben Shelton na decisão desta quinta-feira às 21h (horário de Brasília)."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-13-08.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quinta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/beatriz_guerra_ecp-1024x683.jpg",
-        "date": "13/08/2026",
-        "description": "Masters 1000 de Montréal (Canadá) – Sintético – US$ 9.415.724Duplas – Final –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/com-nova-virada-rybakina-reve-iga-na-final-e-se-aproxima-da-lideranca.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/PR-Ben-Shelton-0465-1024x683.jpg",
         "date": "12/08/2026",
         "description": "Montréal (Canadá) –Um ano depois de conquistar o primeiro e único Masters 1000 da carreira, Ben Shelton está de volta à final no Canadá. O número 10 do mundo garantiu vaga na decisão em Montréal depois de vencer um duelo norte-americano contra Learner Tien, 19º do ranking, por 6/2 e 6/3 em 1h24 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/mello-starling-e-weslley-tentam-vao-as-quartas-no-mundial-masters-individual.html",
-        "title": "Mello, Starling e Weslley vão às quartas no Mundial Masters Individual",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/henrique_mello_Mundial-Indiv.jpg",
-        "date": "12/08/2026",
-        "description": "Lisboa (Portugal) –O campineiro Henrique Mello garantiu, nesta quarta-feira, uma vaga nas quartas de final do Campeonato Mundial Masters Individual 40+, disputado nas quadras de saibro de Lisboa, em Portugal."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/gauchos-tentam-dar-19o-titulo-de-masters-1000-ao-tenis-brasileiro.html",
-        "title": "Gaúchos tentam dar 19º título de Masters 1000 ao tênis brasileiro",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/blog_gauchos_montreal.jpg",
-        "date": "12/08/2026",
-        "description": "Esta quinta-feira pode ser histórica para o tênis brasileiro. Os gaúchos Rafael Matos e Orlando Luz tentam dar ao país o 19º título de nível Masters 1000, série criada pela ATP em 1990. Aliás, esta é a primeira parceria totalmente nacional a atingir uma final desse quilate."
     }
 ]
