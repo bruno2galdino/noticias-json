@@ -1,10 +1,31 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/orlandinho-e-rafa-mostram-que-brasil-nao-e-so-joao.html",
-        "title": "Orlandinho e Rafa mostram que Brasil não é só João",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/blog_trofeu_gauchos.jpg",
+        "url": "https://tenisbrasil.uol.com.br/venus-dimitrov-e-tsitsipas-estreiam-nesta-sexta-em-cincinnati.html",
+        "title": "Venus, Dimitrov e Tsitsipas estreiam nesta sexta em Cincinnati",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/venus_cincy_treina.jpg",
+        "date": "14/08/2026",
+        "description": "Cincinnati (EUA) –O segundo dia de jogos pelo Masters 1000 e WTA 1000 de Cincinnati ainda não conta com os cabeças de chave, mas ainda assim terá grandes nomes em quadra."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/hijikata-derruba-monfils-em-cincinnati-djokovic-encara-tirante.html",
+        "title": "Hijikata derruba Monfils em Cincinnati, Djokovic encara Tirante",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/hijikata_cincy_vibra.jpg",
+        "date": "14/08/2026",
+        "description": "Cincinnati (EUA) –Convidado para a disputa do Masters 1000 de Cincinnati, Gael Monfils não passou da rodada de estreia da competição, em seu ano de despedida do circuito profissional."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/romboli-estreia-com-vitoria-nas-duplas-em-challenger-nos-eua.html",
+        "title": "Romboli estreia com vitória nas duplas em challenger nos EUA",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli_uso_sozinho.jpg",
+        "date": "14/08/2026",
+        "description": "Brownsburg (EUA) –Único brasileiro no challenger de Brownsburg, em quadras duras nos Estados Unidos, Fernando Romboli estreou com vitória, jogando ao lado do norte-americano Benjamin Kittay. O evento distribui US$ 107 mil, com 75 pontos na ATP aos campeões."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/iga-utimos-meses-nao-foram-faceis-mas-foquei-em-mudar-meu-jogo.html",
+        "title": "Iga: “Útimos meses não foram fáceis, mas foquei em mudar meu jogo”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/iga_toronto_trofeu_dog-1024x683.jpg",
         "date": "13/08/2026",
-        "description": "João Fonseca tem chamado tanto a atenção do torcedor brasileiro que, por vezes, esquece-se da top 5 Luísa Stefani e seus ótimos resultados. Agora, os gaúchos Orlando Luz e Rafael Matos reforçam a importante tradição que o tênis nacional tem nas duplas e se tornam a primeira parceria genuinamente brasileira a ganhar um Masters 1000, a série mais nobre de torneios depois dos Grand Slam."
+        "description": "Toronto (Canadá) –Campeã do WTA 1000 de Toronto nesta quinta-feira, Iga Swiatek não escondeu a sensação de alívio após conquistar seuprimeiro título na temporada. A ex-número 1 do mundo passou por uma troca de treinador, com a saída de Wim Fissete e a chegada do espanhol Francisco Roig, e revelou ter sofrido com muitas críticas e cobranças no período em que não conseguia bons resultados."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quinta-13-08.html",
@@ -14,9 +35,16 @@
         "description": "Masters 1000 de Montréal (Canadá) – Sintético – US$ 9.415.724Duplas – Final –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/orlandinho-e-rafa-mostram-que-brasil-nao-e-so-joao.html",
+        "title": "Orlandinho e Rafa mostram que Brasil não é só João",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/blog_trofeu_gauchos.jpg",
+        "date": "13/08/2026",
+        "description": "João Fonseca tem chamado tanto a atenção do torcedor brasileiro que, por vezes, esquece-se da top 5 Luísa Stefani e seus ótimos resultados. Agora, os gaúchos Orlando Luz e Rafael Matos reforçam a importante tradição que o tênis nacional tem nas duplas e se tornam a primeira parceria genuinamente brasileira a ganhar um Masters 1000, a série mais nobre de torneios depois dos Grand Slam."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/shelton-defende-o-titulo-no-canada-e-conquista-o-segundo-masters.html",
         "title": "Shelton defende o título no Canadá e conquista o segundo Masters",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/MB-Ben-Shelton-1080-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/PR-Ben-Shelton-0554-1024x683.jpg",
         "date": "13/08/2026",
         "description": "Montréal (Canadá) –Um ano depois de conquistar seu primeiro Masters 1000 em Toronto, Ben Shelton defendeu o título no Canadá, desta vez jogando em Montréal. O canhoto de 23 anos e número 10 do mundo e venceu uma final norte-americana contra Brandon Nakashima, 31º do ranking, por 6/3 e 7/6 (7-4) em 1h27 de partida."
     },
@@ -40,33 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/matos_luz_trofeu_mtl-1024x683.jpg",
         "date": "13/08/2026",
         "description": "Montréal (Canadá) –Primeira dupla 100% brasileira a disputar uma final de Masters 1000, Orlando Luz e Rafael Matos fizeram história nesta quinta-feira com o título em Montréal. Os gaúchos venceram o salvadorenho Marcelo Arevalo e o croata Mate Pavic, cabeças 3 do torneio, por 5/7, 6/4 e 10-6 em 1h32."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/siniakova-e-zhang-conquistam-o-titulo-de-duplas-em-toronto.html",
-        "title": "Siniakova e Zhang conquistam o título de duplas em Toronto",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/zhang_siniakova_trofeu_toronto.jpg",
-        "date": "13/08/2026",
-        "description": "Toronto (Canadá) –Principais cabeças de chave do WTA 1000 de Toronto, a tcheca Katerina Siniakova e a chinesa Shuai Zhang conquistaram o título de duplas no Canadá depois de vencerem a italiana Sara Errani e a norte-americana Nicole Melichar-Martinez por 6/3 e 6/4 em 1h20 de partida nesta quinta-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/norrie-confirma-duelo-com-zverev-em-cincy-landaluce-tira-draper.html",
-        "title": "Norrie confirma duelo com Zverev em Cincy, Landaluce tira Draper",
-        "image": null,
-        "date": "13/08/2026",
-        "description": "Embed from Getty Images"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fullana-bohrer-marjorie-victoria-e-guerra-vao-as-quartas-em-campos.html",
-        "title": "Fullana, Bohrer, Marjorie, Victória e Guerra vão às quartas em Campos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/marjorie_cdj_espera-1024x683.jpg",
-        "date": "13/08/2026",
-        "description": "Campos do Jordão (SP) –Cinco brasileiras estão nas quartas de final do W15 de Campos do Jordão 1, disputado nas quadras duras do Tênis Clube. E já é certo que pelo menos duas atletas nacionais estarão entre as semifinalistas do torneio na Serra da Mantiqueira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tricampeao-djokovic-volta-ao-circuito-com-boas-lembrancas-de-cincinnati.html",
-        "title": "Tricampeão, Djokovic volta ao circuito com boas lembranças de Cincinnati",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/djokovic-cincinnati-2026-practice-1024x576.jpg",
-        "date": "13/08/2026",
-        "description": "Cincinnati (EUA) –Em seu primeiro compromisso desde Wimbledon, Novak Djokovic volta ao circuito no Masters 1000 de Cincinnati. O sérvio é tricampeão do evento, mas não disputa a competição desde 2023, ano de seu último título, em uma final dramática contra Carlos Alcaraz."
     }
 ]
