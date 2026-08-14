@@ -1,10 +1,10 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/kvitova-agradece-visita-de-navratilova-nunca-imaginei-que-aconteceria.html",
-        "title": "Kvitova agradece visita de Navratilova: “Nunca imaginei que aconteceria”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/navratilova_kvitova.jpg",
+        "url": "https://tenisbrasil.uol.com.br/nakashima-semana-louca-uma-das-melhores-da-minha-carreira.html",
+        "title": "Nakashima: “Semana louca, uma das melhores da minha carreira”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/nakashima-montreal-preparasaque-2026-1024x683.jpg",
         "date": "14/08/2026",
-        "description": "Praga (República Tcheca) –Duas campeãs de Wimbledon se encontraram nesta semana: a tcheca Petra Kvitova, de 36 anos, revelou aos seus admiradores nas redes sociais ter sido recebida por Martina Navratilova, de 69, em sua casa. “Muito agradecida pela visita, Martina Navratilova. Nunca imaginei que esse momento aconteceria”, escreveu Kvitova em sua conta no Instagram."
+        "description": "Montréal (Canadá)– Derrotado na final do Masters 1000 de Montréal,na última quinta-feira,o norte-americano Brandon Nakashima fez um balanço bastante positivo de seu desempenho no torneio, chegando tão longe em um evento deste nível pela primeira vez na carreira."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-14-07.html",
@@ -12,6 +12,20 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/fullana_mt_back.jpg",
         "date": "14/08/2026",
         "description": "Challenger de Hamburgo (Alemanha) – Saibro – 97.640 eurosQuartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/pucinelli-busca-grande-virada-e-faz-semi-em-challenger-alemao.html",
+        "title": "Pucinelli busca grande virada e faz semi em challenger alemão",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/pucinelli-hamburgo-challenger.jpg",
+        "date": "14/08/2026",
+        "description": "Hamburgo (Alemanha)– O paulista Matheus Pucinelli segue fazendo bonito no saibro alemão e depois de pararnas quartas em Bonn, garantiu um lugar nas semifinais do challenger de Hamburgo. Nesta sexta-feira, ele conseguiu uma grande virada sobre o suíço Dylan Dietrich, com parciais de 4/6, 6/3 e 6/4, depois de 2h47 de batalha."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/kvitova-agradece-visita-de-navratilova-nunca-imaginei-que-aconteceria.html",
+        "title": "Kvitova agradece visita de Navratilova: “Nunca imaginei que aconteceria”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/navratilova_kvitova.jpg",
+        "date": "14/08/2026",
+        "description": "Praga (República Tcheca) –Duas campeãs de Wimbledon se encontraram nesta semana: a tcheca Petra Kvitova, de 36 anos, revelou aos seus admiradores nas redes sociais ter sido recebida por Martina Navratilova, de 69, em sua casa. “Muito agradecida pela visita, Martina Navratilova. Nunca imaginei que esse momento aconteceria”, escreveu Kvitova em sua conta no Instagram."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/matos-estreia-no-top-20-de-duplas-orlandinho-bate-melhor-ranking.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/hijikata_cincy_vibra.jpg",
         "date": "14/08/2026",
         "description": "Cincinnati (EUA) –Convidado para a disputa do Masters 1000 de Cincinnati, Gael Monfils não passou da rodada de estreia da competição, em seu ano de despedida do circuito profissional."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/romboli-estreia-com-vitoria-nas-duplas-em-challenger-nos-eua.html",
-        "title": "Romboli estreia com vitória nas duplas em challenger nos EUA",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli_uso_sozinho.jpg",
-        "date": "14/08/2026",
-        "description": "Brownsburg (EUA) –Único brasileiro no challenger de Brownsburg, em quadras duras nos Estados Unidos, Fernando Romboli estreou com vitória, jogando ao lado do norte-americano Benjamin Kittay. O evento distribui US$ 107 mil, com 75 pontos na ATP aos campeões."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/iga-utimos-meses-nao-foram-faceis-mas-foquei-em-mudar-meu-jogo.html",
-        "title": "Iga: “Útimos meses não foram fáceis, mas foquei em mudar meu jogo”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/iga_toronto_trofeu_dog-1024x683.jpg",
-        "date": "13/08/2026",
-        "description": "Toronto (Canadá) –Campeã do WTA 1000 de Toronto nesta quinta-feira, Iga Swiatek não escondeu a sensação de alívio após conquistar seuprimeiro título na temporada. A ex-número 1 do mundo passou por uma troca de treinador, com a saída de Wim Fissete e a chegada do espanhol Francisco Roig, e revelou ter sofrido com muitas críticas e cobranças no período em que não conseguia bons resultados."
     }
 ]
