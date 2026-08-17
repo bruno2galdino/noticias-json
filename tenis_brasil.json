@@ -1,5 +1,12 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-17-08.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/marcondes-tampere-saca-2026-1024x683.jpg",
+        "date": "17/08/2026",
+        "description": "Challenger de Kingston (Jamaica) – Sintético – US$ 107 milPrimeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/svitolina-salva-sete-match-points-e-sobrevive-a-estreia-em-cincinnati.html",
         "title": "Svitolina salva sete match-points e sobrevive à estreia em Cincinnati",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/svitolina_toronto_comemora_qf.jpg",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/iga_toronto_vibra_3r-1024x576.jpg",
         "date": "16/08/2026",
         "description": "Cincinnati (EUA) –Depois devencer sua partida de estreiano WTA 1000 de Cincinnati, Iga Swiatek destacou a capacidade de adaptação, apesar do pouco tempo para se habituar às condições do torneio. Vinda de título em Toronto na última quinta-feira e atual campeã em Cincinnati, a polonesa já estreou neste domingo vencendo a colombiana Emiliana Arango."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/nakashima-e-tien-mantem-embalo-rublev-pega-fregues.html",
-        "title": "Nakashima e Tien mantêm embalo, Rublev pega “freguês”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/nakashima-montreal-saca-2026-1024x684.jpg",
-        "date": "16/08/2026",
-        "description": "Cincinnati (EUA) –Brandon Nakashima segue em grande momento nos eventos do verão norte-americano. Em duelo 100% norte-americano válido pela segunda rodada do Masters 1000 de Cincinnati, o vice-campeão de Montréal venceu Aleksandar Kovacevic em dois sets, com parciais de 6/2 e 7/5, após 1h21 de embate."
     }
 ]
