@@ -1,5 +1,26 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/estudo-expoe-dificuldade-de-jovens-para-lucrar-no-tenis-profissional.html",
+        "title": "Estudo expõe dificuldade de jovens para lucrar no tênis profissional",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/World-Tennis-3-1024x683.jpg",
+        "date": "17/08/2026",
+        "description": "Berlim (Alemanha) –Apenas cerca de um terço dos jovens que estavam no top 100 juvenil da World Tennis (ex-ITF) em 2008 conseguiu terminar a carreira profissional com balanço positivo, ou seja, teve mais receitas do que despesas. O dado faz parte de um estudo publicado pela revista científicaSocial Sciences & Humanities Opensobre as dificuldades financeiras enfrentadas por quem tenta viver do tênis."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/stefani-jogara-duplas-mistas-ao-lado-de-skupski-no-us-open.html",
+        "title": "Stefani jogará duplas mistas ao lado de Skupski no US Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/12/stefani_bjk_vibra-1024x683.jpg",
+        "date": "17/08/2026",
+        "description": "Nova York (EUA) –Número 4 do mundo entre as especialistas em duplas, Luísa Stefani está inscrita na chave de duplas mistas do US Open. A brasileira jogará ao lado do britânico Neal Skupski."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-17-08.html",
+        "title": "O dia dos brasileiros: veja os resultados desta segunda",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/marcondes-tampere-saca-2026-1024x683.jpg",
+        "date": "17/08/2026",
+        "description": "Challenger de Kingston (Jamaica) – Sintético – US$ 107 milPrimeira rodada –Veja a chave"
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/rybakina-vence-apos-duas-paralisacoes-por-chuva-e-vai-as-oitavas.html",
         "title": "Rybakina vence após duas paralisações por chuva e vai às oitavas",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/rybakina_cincy_aproxima-1024x683.jpg",
@@ -12,13 +33,6 @@
         "image": null,
         "date": "17/08/2026",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-segunda-17-08.html",
-        "title": "O dia dos brasileiros: veja os resultados desta segunda",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/marcondes-tampere-saca-2026-1024x683.jpg",
-        "date": "17/08/2026",
-        "description": "Challenger de Kingston (Jamaica) – Sintético – US$ 107 milPrimeira rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/gilbert-critica-pausas-excessivas-de-jodar-e-cobra-solucao.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/cobolli-vibra-cincy.jpg",
         "date": "17/08/2026",
         "description": "Cincinnati (EUA) –Em jogo dramático pela terceira rodada do Masters 1000 de Cincinnati, Flavio Cobolli por pouco não perdeu mais uma vez para o jovem belga Alexander Blockx. O italiano reagiu no terceiro set para avançar com as parciais de 7/5, 4/6 e 7/5, em 2h29 de batalha."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/wta-deve-reduzir-numero-de-torneios-obrigatorios-em-2027.html",
-        "title": "WTA deve reduzir número de torneios obrigatórios em 2027",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/pegula_toronto_corre-1024x576.jpg",
-        "date": "17/08/2026",
-        "description": "Nova York (EUA) –A WTA considera diminuir já na próxima temporada o número de torneios obrigatórios para as principais jogadoras do circuito. A proposta deve ser votada durante o US Open e prevê a redução na quantidade de WTA 500 exigidos ao longo do ano."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sakkari-nao-mantem-ritmo-e-leva-incrivel-virada-de-swiatek.html",
-        "title": "Sakkari não mantém ritmo e leva incrível virada de Swiatek",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Swiatek-R3-Jimmie-1024x646.jpg",
-        "date": "17/08/2026",
-        "description": "Cincinnati (EUA)– Atual campeã do WTA 1000 de Cincinnati, a polonesa Iga Swiatek levou um susto no começo da partida contra a grega Maria Sakkari e perdeu o primeiro set. Só que a rival não conseguiu manter o ritmo e acabou dominada nas duas parciais seguintes, venceu só mais dois games e levou a virada com o placar de 4/6, 6/1 e 6/1, em 1h58 de confronto."
     }
 ]
