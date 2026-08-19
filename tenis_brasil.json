@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-19-08.html",
+        "title": "O dia dos brasileiros: veja os resultados desta quarta",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/tourinho_sp_fore.jpg",
+        "date": "19/08/2026",
+        "description": "Masters 1000 de Cincinnati (EUA) – Sintético – US$ 9.415.725Duplas – Segunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/so-tentava-me-lembrar-de-continuar-lutando-afirma-nakashima.html",
+        "title": "“Só tentava me lembrar de continuar lutando”, afirma Nakashima",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/CincinnatiOpen_20260816_JM022113_JD2-1536x1025-1-1024x683.jpg",
+        "date": "19/08/2026",
+        "description": "Cincinnati (EUA)– O norte-americano Brandon Nakashima conquistou uma grande vitória de viradasobre o russo Daniil Medvedevna última terça-feira e se garantiu nas oitavas de final do Masters 1000 de Cincinnati após salvar três match-points seguidos no segundo set."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/kyrgios-testa-positivo-para-cocaina-e-esta-suspenso-provisoriamente.html",
         "title": "Kyrgios testa positivo para cocaína e está suspenso provisoriamente",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/kyrgios-stuttgart-entrevista-2026-1024x683.jpg",
         "date": "19/08/2026",
-        "description": "Londres (Inglaterra) – A quarta-feira acordou com uma bomba. O australiano Nick Kyrgios informou, através das redes sociais, que foi pego no antidoping pelo uso de cocaína. A notícia foi confirmada pela Agência Internacional de Integridade do Tênis (ITIA), que confirmou a suspensão provisória do tenista."
+        "description": "Londres (Inglaterra)– A quarta-feira acordou com uma bomba. O australiano Nick Kyrgios informou, através das redes sociais, que foi pego no antidoping pelo uso de cocaína. A notícia foi confirmada pela Agência Internacional de Integridade do Tênis (ITIA), que confirmou a suspensão provisória do tenista."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/nakashima-fritz-vao-as-oitavas-medvedev-e-rublev-caem-veja-no-resumo.html",
@@ -12,13 +26,6 @@
         "image": null,
         "date": "19/08/2026",
         "description": ""
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-19-08.html",
-        "title": "O dia dos brasileiros: veja os resultados desta quarta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/tourinho_sp_fore.jpg",
-        "date": "19/08/2026",
-        "description": "Masters 1000 de Cincinnati (EUA) – Sintético – US$ 9.415.725Duplas – Segunda rodada –Veja a chave"
     },
     {
         "url": "https://tenisbrasil.uol.com.br/wawrinka-vence-em-dois-tiebreaks-na-estreia-de-challenger-mexicano.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/melo_zverev_canada_26.jpg",
         "date": "18/08/2026",
         "description": "Cincinnati (EUA) –Após a vitória na estreia do Masters 1000 de Cincinnati, Marcelo Melo destacou o bom desempenho ao lado do alemão Alexander Zverev na partida desta terça-feira contra o argentino Mariano Navone e o chileno Alejandro Tabilo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/felipe-meligeni-salva-3-match-points-e-fura-o-quali-no-mexico.html",
-        "title": "Felipe Meligeni salva 3 match-points e fura o quali no México",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/meligeni_cancun_vibra_black-1024x683.jpg",
-        "date": "18/08/2026",
-        "description": "Cancun (México) –Assim como aconteceu na última segunda-feira, Felipe Meligeni venceu mais um jogo longo no quali do challenger de Cancun e garantiu vaga na chave principal. O torneio distribui US$ 225 mil, com 125 pontos na ATP ao campeão."
     }
 ]
