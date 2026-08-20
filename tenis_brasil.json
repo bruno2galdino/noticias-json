@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/bejlek-surpreende-e-elimina-sabalenka-nas-oitavas-de-cincinnati.html",
+        "title": "Bejlek surpreende e elimina Sabalenka nas oitavas de Cincinnati",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/bejlek_cincy_vibra_noite.jpg",
+        "date": "20/08/2026",
+        "description": "Cincinnati (EUA) –No jogo que encerrou a programação desta quarta-feira no WTA 1000 de Cincinnati, a jovem tcheca Sara Bejlek conseguiu a maior vitória da carreira. A tenista de 20 anos e 35ª do ranking eliminou Aryna Sabalenka, número 1 do mundo e campeã de 2024, com parciais de 7/6 (9-7) e 6/4 em 1h55 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/meligeni-e-superado-pelo-promissor-kouame-em-challenger-mexicano.html",
+        "title": "Meligeni é superado pelo promissor Kouame em challenger mexicano",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/meligeni_cancun_estica_black-1024x683.jpg",
+        "date": "20/08/2026",
+        "description": "Cancun (México) –Depois de passar por duas rodadas do quali no início da semana, Felipe Meligeni foi eliminado na estreia da chave principal do challenger de Cancun, em quadras duras no México. Meligeni, de 28 anos e 567º do ranking, sofreu 6/1 e 6/4 do francês Moise Kouame, de 17 anos e 214º do mundo."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-19-08.html",
         "title": "O dia dos brasileiros: veja os resultados desta quarta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/tourinho_sp_fore.jpg",
-        "date": "19/08/2026",
+        "date": "20/08/2026",
         "description": "Masters 1000 de Cincinnati (EUA) – Sintético – US$ 9.415.725Duplas – Segunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/tiafoe-derruba-aliassime-e-tera-musetti-nas-quartas-fritz-avanca.html",
+        "title": "Tiafoe derruba Aliassime e terá Musetti nas quartas, Fritz avança",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/tiafoe_cincy_comemora-1024x683.jpg",
+        "date": "20/08/2026",
+        "description": "Cincinnati (EUA) –Finalista do Masters 1000 de Cincinnati há duas temporadas, Frances Tiafoe está de volta às quartas. O norte-americano derrotou o canadense Félix Auger-Aliassime, número 4 do mundo e cabeça 2 do torneio, por 6/3 e 6/4."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/porto-feliz-sediara-por-3-anos-o-quali-juvenil-sul-americano-do-australian-open.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/gauff_cincy_toss_noite-1024x682.jpg",
         "date": "19/08/2026",
         "description": "Cincinnati (EUA) –Pela terceira vez nos últimos quatro anos, Coco Gauff disputará as quartas de final do WTA 1000 de Cincinnati. A campeã de 2023 venceu a tcheca Marie Bouzkova por 6/3 e 6/2 em 1h33 de partida nesta quarta-feira."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/marcondes-se-retira-no-terceiro-set-em-kingston-apos-passar-mal-em-quadra.html",
-        "title": "Marcondes se retira no terceiro set em Kingston após passar mal em quadra",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/marcondes_kingston_fore-1024x768.jpg",
-        "date": "19/08/2026",
-        "description": "Kingston (Jamaica) –Vindo de vitória na estreia do challenger de Kingston, em quadras duras na Jamaica, Igor Marcondes se retirou na segunda rodada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/fils-domina-de-minaur-e-faz-quartas-em-masters-pela-5a-vez-no-ano.html",
-        "title": "Fils domina De Minaur e faz quartas em Masters pela 5ª vez no ano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/fils-celebra-cincy.jpg",
-        "date": "19/08/2026",
-        "description": "Cincinnati (EUA) –Com grandes campanhas em eventos Masters 1000 na temporada, Arthur Fils garantiu vaga inédita nas quartas de Cincinnati. Nesta sexta-feira, em rodada atrapalhada pela chuva, ele despachou o australiano Alex de Minaur em sets diretos e placar final de 6/3 e 6/4, em apenas 1h22 de partida."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/paul-salva-match-point-vira-contra-zverev-e-encara-cobolli.html",
-        "title": "Paul salva match-point, vira contra Zverev e encara Cobolli",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/paul-close-cincy.jpg",
-        "date": "19/08/2026",
-        "description": "Cincinnati (EUA) –Em jogo prejudicado pelo tempo instável em Cincinnati, melhor para o anfitrião Tommy Paul, que salvou match-point para avançar às quartas de final do Masters 1000 pela primeira vez na carreira. O norte-americano virou sobre Alexander Zverev, cabeça de chave 1, com as parciais de 4/6, 7/6 (8-6) e 6/4, após 2h50 de batalha."
     }
 ]
