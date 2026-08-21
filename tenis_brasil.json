@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/juvenis-brasileiros-disputam-finais-em-serra-negra-neste-sabado.html",
+        "title": "Juvenis brasileiros disputam finais em Serra Negra neste sábado",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/kauany_rodrigues_instagram.jpg",
+        "date": "21/08/2026",
+        "description": "Serra Negra (SP) –Foram definidos nesta sexta-feira os finalistas da Kirmayr Juniors Cup, torneio J30 disputado em quadras de saibro na cidade paulista de Serra Negra. O sábado terá duas finais brasileiras a partir das 9h (de Brasília)."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-21-08.html",
         "title": "O dia dos brasileiros: veja os resultados desta sexta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/bohrer_campos_espera-1024x768.jpg",
         "date": "21/08/2026",
         "description": "Masters 1000 de Cincinnati (EUA) – Sintético – US$ 9.415.725Duplas – Quartas de final –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/bouzkova-e-noskova-eliminam-anfitrias-e-vao-a-final-de-duplas.html",
+        "title": "Bouzkova e Noskova eliminam anfitriãs e vão à final de duplas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/bouzkova_noskova_cincy_cump-1024x683.jpg",
+        "date": "21/08/2026",
+        "description": "Cincinnati (EUA) –As tchecas Marie Bouzkova e Linda Noskova eliminaram as duas últimas tenistas norte-americanas no WTA 1000 de Cincinnati e garantiram vaga na final com vitória por 6/3 e 6/2 contra Iva Jovic e Caty McNally. Esta será a primeira final para a parceria tcheca no circuito."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/rune-agradece-por-treinos-com-alcaraz-e-adia-retorno.html",
+        "title": "Rune agradece por treinos com Alcaraz e adia retorno",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/rune-back-treina-.jpg",
+        "date": "21/08/2026",
+        "description": "Nova York (EUA) –Após desmentir que estava sem condições de competir no US Open, Holger Rune decidiu adiar o retorno ao circuito e está fora do último Grand Slam da temporada. Afastado das competições desde outubro do ano passado por conta de uma grave lesão no tendão de Aquiles, o dinamarquês pretende retornar na Copa Davis, em setembro."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/semifinais-em-campos-do-jordao-terao-quatro-brasileiras.html",
@@ -47,26 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/best-of-day-7-2026_CincinnatiOpen_20260817_JM024927_TB2-1024x683.jpg",
         "date": "21/08/2026",
         "description": "Nova York (EUA)– A ausência do italiano Jannik Sinner no US Open deste ano deixa o alemão Alexander Zverev com mais chances de sonhar com o inédito número 1. Embora a distância entre os dois no ranking seja grande no momento, a diferença na corrida da temporada é bem mais parelha."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/murray-descarta-retorno-nao-sinto-nenhuma-falta-do-tenis.html",
-        "title": "Murray descarta retorno: “Não sinto nenhuma falta do tênis”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/murray_golfe.jpg",
-        "date": "21/08/2026",
-        "description": "Londres (Inglaterra) –Aposentado das quadras há dois anos, Andy Murray descartou qualquer possibilidade de retomar a carreira profissional. O ex-número 1 do mundo garante estar feliz longe das competições e afirma que sequer sente falta de jogar tênis."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/campeao-do-us-open-wawrinka-pode-jogar-ultimo-grand-slam.html",
-        "title": "Campeão do US Open, Wawrinka pode jogar último Grand Slam",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/wawrinka-genebra-2026-e1779130700686-1024x683.jpg",
-        "date": "21/08/2026",
-        "description": "Nova York (EUA) –As recentes desistências no US Open podem beneficiar Stan Wawrinka, que ainda busca uma vaga na chave principal em Nova York. Aos 41 anos e em sua turnê de despedida, o suíço aparece como candidato a receber um dos convites da organização."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-zverev-shelton-e-djokovic-lideram-favoritos-ao-us-open.html",
-        "title": "Alcaraz, Zverev, Shelton e Djokovic lideram favoritos ao US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Artes-fotos-multiplas-900x600-5.jpg",
-        "date": "21/08/2026",
-        "description": "Nova York (EUA)– As notícias desta semana, com a desistência do italiano Jannik Sinner do US Open e a confirmação da participação do espanhol Carlos Alcaraz, mexeram com a lista dos principais favoritos ao título em Flushing Meadows."
     }
 ]
