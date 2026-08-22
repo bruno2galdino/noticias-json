@@ -1,10 +1,24 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/hurkacz-faz-semi-em-challenger-mexicano-kouame-cai-em-duelo-de-3h17.html",
+        "title": "Hurkacz faz semi em challenger mexicano, Kouame cai em duelo de 3h17",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/hurkacz_cancun_term-1024x683.jpg",
+        "date": "22/08/2026",
+        "description": "Cancun (México) –Depois de precisar de três sets para superar a rodada de estreia, o polonês Hubert Hurkacz conseguiu sua segunda vitória no challenger de Cancun de forma mais tranquila e garantiu vaga na semifinal."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/fils-e-cobolli-abrem-sabado-de-semis-iga-e-pegula-duelam-as-16h.html",
         "title": "Fils e Cobolli abrem sábado de semis, Iga e Pegula duelam às 16h",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/fils_cincy_voleia_r16-1024x683.jpg",
-        "date": "21/08/2026",
+        "date": "22/08/2026",
         "description": "Cincinnati (EUA) –Os finalistas do Masters 1000 e WTA 1000 de Cincinnati serão conhecidos neste sábado, penúltimo dia de competições no torneio preparatório para o US Open."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/gauff-domina-kostyuk-e-retorna-a-semifinal-depois-de-tres-anos.html",
+        "title": "Gauff domina Kostyuk e retorna à semifinal depois de três anos",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/gauff_cincy_vibra_qf-1024x683.jpg",
+        "date": "21/08/2026",
+        "description": "Cincinnati (EUA) –Campeã do WTA 1000 de Cincinnati em 2023, Coco Gauff está de volta à semifinal do torneio depois de três temporadas. A número 4 do mundo dominou a partida contra a ucraniana Marta Kostyuk, 11ª do ranking, com duplo 6/2 em 1h10 de partida."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/decepcao-expectativa-novidade-e-sucesso.html",
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/09/romboli-us.open-2025.jpg",
         "date": "21/08/2026",
         "description": "Kingston (Jamaica) –Os paulistas Igor Marcondes e Marcelo Zormann perdeu na semifinal de duplas do challenger de Kingston, em quadras duras na Jamaica, para os franceses Arthur Reymond e Luca Sanchez, principais cabeças de chave, por 6/2, 6/7(0-7) e10-6."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-sexta-21-08.html",
-        "title": "O dia dos brasileiros: veja os resultados desta sexta",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/bohrer_campos_espera-1024x768.jpg",
-        "date": "21/08/2026",
-        "description": "Masters 1000 de Cincinnati (EUA) – Sintético – US$ 9.415.725Duplas – Quartas de final –Veja a chave"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/final-de-duplas-em-campos-do-jordao-tera-tres-brasileiras.html",
-        "title": "Final de duplas em Campos do Jordão terá três brasileiras",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/marjorie_cdj_back-1024x768.jpg",
-        "date": "21/08/2026",
-        "description": "Campos do Jordão (SP) –As brasileiras seguem com ótimo desempenho no W15 de Campos do Jordão, disputado nas quadras duras do Tênis Clube. Além das quatro classificações de jogadoras da casa para assemifinais de simples, três atletas nacionais também disputarão a final de duplas."
     }
 ]
