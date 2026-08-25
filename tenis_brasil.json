@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/saraiva-segue-em-boa-fase-e-larga-bem-em-challenger-jamaicano.html",
-        "title": "Saraiva segue em boa fase e larga bem em challenger jamaicano",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/saraiva-pinheiros-vibra-2026-1024x683.jpg",
-        "date": "25/08/2026",
-        "description": "Kingston (Jamaica)– O bom momento do brasiliense Paulo Saraiva no circuito ganhou mais um capítulo nesta terça-feira com a vitória na estreia no challenger de Kingston 2. Ele derrotou o mexicano Alex Hernandez em sets diretos, com parciais de 6/1 e 6/4, em apenas 73 minutos de disputa."
-    },
-    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-25-08.html",
         "title": "O dia dos brasileiros: veja os resultados desta terça",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bruno_fernandez_campinas_back-1024x683.jpg",
@@ -14,8 +7,50 @@
         "description": "ATP 250 de Winston-Salem (EUA) – Sintético – 818.240Duplas – Primeira rodada –Veja a chave"
     },
     {
+        "url": "https://tenisbrasil.uol.com.br/svitolina-e-monfils-batem-lideres-e-fazem-semi-no-us-open.html",
+        "title": "Svitolina e Monfils batem líderes e fazem semi no US Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/monfils-svitolina-mistas-us.jpg",
+        "date": "25/08/2026",
+        "description": "Nova York (EUA) –O casal Elina Svitolina e Gael Monfils segue com tudo na chave do torneio de duplas mistas do US Open. Apóstriunfo sobre Alexandra Eala e Félix Auger-Aliassime, desta vez a ucraniana e o francês passaram pela tcheca Katerina Siniakova e o britânico Henry Patten, líderes do ranking de duplas da WTA e ATP, por 5/4 (8-6), 4/5 (3-7) e 10-8, após 1h38 de confronto."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/sinner-faz-novos-exames-e-nao-define-data-para-retorno-ao-circuito.html",
+        "title": "Sinner faz novos exames e não define data para retorno ao circuito",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner-olha-roma1-1024x683.jpg",
+        "date": "25/08/2026",
+        "description": "Turim (Itália)– Ainda no processo de reabilitação da lesão no joelho direito, o italiano Jannik Sinner foi atendido novamente na manhã de terça-feira no J Medical, em Turim, para fazer novos exames médicos e assim analisar melhor sua condição atual."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/rio-open-tera-complexo-ampliado-e-nova-estrutura-em-2027.html",
+        "title": "Rio Open terá complexo ampliado e nova estrutura em 2027",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/RioOpen2027-1024x683.jpg",
+        "date": "25/08/2026",
+        "description": "Rio de Janeiro (RJ) –A organização do Rio Open anunciou que fará investimentos para aprimorar a estrutura do evento já para a edição de 2027. O ATP 500 carioca terá seu complexo ampliado dentro do Jockey Club Brasileiro, com parte das instalações transferida para o espaço conhecido como Pião do Prado."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/serie-de-videos-ilustra-caminho-de-federer-ate-o-hall-da-fama.html",
+        "title": "Série de vídeos ilustra caminho de Federer até o Hall da Fama",
+        "image": null,
+        "date": "25/08/2026",
+        "description": "Newport (EUA) –Reviva os momentos que definiram um dos legados mais impactantes do tênis. A série de vídeos “Road to Newport 2026” pavimenta o caminho para a entrada de Roger Federer no Hall da Fama Internacional do Tênis, no próximo sábado."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/jodar-admite-reforcar-equipe-para-a-proxima-temporada.html",
+        "title": "Jódar admite reforçar equipe para a próxima temporada",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/jodar-corre-cincinnati.jpg",
+        "date": "25/08/2026",
+        "description": "Madri (Espanha) –Rafael Jódar não descarta promover mudanças em sua equipe a partir da próxima temporada. O espanhol de 19 anos quer avaliar a possibilidade de contar com outro profissional além do pai, Rafael Jódar Sr., seu atual treinador e que o acompanha desde o juvenil."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/saraiva-segue-em-boa-fase-e-larga-bem-em-challenger-jamaicano.html",
+        "title": "Saraiva segue em boa fase e larga bem em challenger jamaicano",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/saraiva-pinheiros-vibra-2026-1024x683.jpg",
+        "date": "25/08/2026",
+        "description": "Kingston (Jamaica)– O bom momento do brasiliense Paulo Saraiva no circuito ganhou mais um capítulo nesta terça-feira com a vitória na estreia no challenger de Kingston 2. Ele derrotou o mexicano Alex Hernandez em sets diretos, com parciais de 6/1 e 6/4, em apenas 73 minutos de disputa."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/wawrinka-publica-nota-de-despedida-ao-us-open-eternamente-grato.html",
-        "title": "Wawrinka publica nota de despedida do US Open: “Eternamente grato”",
+        "title": "Wawrinka posta nota de despedida do US Open: “Eternamente grato”",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/wawrinka_usopen2016.jpg",
         "date": "25/08/2026",
         "description": "Saint-Barthélemy (Suíça)– Stan Wawrinka não recebeu convite da organização do US Open para se despedir do público de Nova York, mas isso não impediu o astro suíço de dedicar um tempo para escrever uma mensagem de despedida ao torneio de Grand Slam norte-americano, disputado em quadra dura em Nova York."
@@ -32,41 +67,6 @@
         "title": "Monfils e Svitolina desafiam algozes de Djokovic e Sabalenka",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/svitolina-monfils-us-mixed.jpg",
         "date": "25/08/2026",
-        "description": "Nova York (EUA) –Principais favoritos da chave de duplas mistas do US Open, o sérvio Novak Djokovic e a bielorrussa Aryna Sabalenka caíram logo na estreia. Eles levaram a virada da tcheca Katerina Siniakova e do britânico Henry Patten, líderes do ranking de duplas da WTA e ATP, por 1/4, 4/2 e 10-2, em somente 54 minutos de confronto."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/boisson-abandona-estreia-na-filadelfia-e-vira-duvida-para-o-us-open.html",
-        "title": "Boisson abandona estreia na Filadélfia e vira dúvida para o US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Lois_Boisson_-_Cincinnati_Open_2026_-_Day_5-DSC_9329A_xgaplus.jpg",
-        "date": "25/08/2026",
-        "description": "Filadélfia (EUA)– A francesa Lois Boisson sofreu mais um revés e não conseguiu terminar sua partida contra a norte-americana Capucine Jauffret, na última segunda-feira, em sua estreia no WTA 125 da Filadélfia."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/ex-treinador-de-sinner-e-djokovic-nao-e-mais-possivel-jogar-o-ano-todo.html",
-        "title": "Ex-treinador de Sinner e Djokovic: “Não é mais possível jogar o ano todo”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/04/20220212_Piatti_e_sinner_con_Artaldi.jpg",
-        "date": "25/08/2026",
-        "description": "Roma (Itália)– Ex-técnico do atual número 1 do mundo e de Novak Djokovic, entre outros, Riccardo Piatti comentou sobre os problemas físicos que Jannik Sinner e Carlos Alcaraz vêm enfrentando nos últimos meses, o que levantou dúvidas sobre o volume de seus calendários."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/vondrousova-vai-recorrer-da-suspensao-a-corte-arbitral-do-esporte.html",
-        "title": "Vondrousova vai recorrer da suspensão à Corte Arbitral do Esporte",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2023/09/f_20230829_USO_D2_BJPA2171-e1787669084305-1024x681.jpg",
-        "date": "25/08/2026",
-        "description": "Lausanne (Suíça)– Suspensa por quatro anos por se recusar a fazer um teste antidoping, a tcheca Marketa Vondrousova entrou com um recurso na Corte Arbitral do Esporte (CAS). A informação foi confirmada por um porta-voz da entidade para a agência de notíciasAFP."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/norman-sobre-falta-de-convite-para-wawrinka-com-certeza-doi.html",
-        "title": "Norman sobre falta de convite para Wawrinka: “Com certeza dói”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2024/08/wawrinka-usopen-rebate-2024-e1724846492235-1024x681.jpg",
-        "date": "25/08/2026",
-        "description": "Nova York (EUA)– A decisão do US Open denão dar um convite para Stan Wawrinkana edição deste ano do torneio, que seria a última do veterano suíço, gerou polêmica e surpreendeu muitos, inclusive seu treinador, Magnus Norman."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/alcaraz-e-outras-estrelas-fazem-seus-primeiros-treinos-para-o-us-open.html",
-        "title": "Alcaraz e outras estrelas fazem seus primeiros treinos para o US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/alcaraz-usopen-2026-treino-1024x683.jpg",
-        "date": "25/08/2026",
-        "description": "Nova York (EUA)– Depois de quatro meses e meio afastado do circuito devido a uma lesão no punho direito, o espanhol Carlos Alcaraz disputou seu primeiro set de treino no US Open de 2016, na última segunda-feira, contra o compatriota Daniel Mérida, que venceu por 7/5."
+        "description": "Nova York (EUA) –Principais favoritos da chave de duplas mistas do US Open, o sérvio Novak Djokovic e a bielorrussa Aryna Sabalenka caíram logo na estreia."
     }
 ]
