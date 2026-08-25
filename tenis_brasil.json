@@ -1,10 +1,10 @@
 [
     {
-        "url": "https://tenisbrasil.uol.com.br/serena-e-alcaraz-brilham-na-estreia-em-mistas-do-us-open.html",
-        "title": "Serena e Alcaraz brilham na estreia em mistas do US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Serena_alcaraz-mistas-us.jpg",
+        "url": "https://tenisbrasil.uol.com.br/serie-de-videos-ilustra-caminho-de-federer-ate-o-hall-da-fama.html",
+        "title": "Série de vídeos ilustra caminho de Federer até o Hall da Fama",
+        "image": null,
         "date": "25/08/2026",
-        "description": "Nova York (EUA) –O retorno de Carlos Alcaraz ao circuito aconteceu em grande estilo. O espanhol e a norte-americana Serena Williams marcaram grande vitória na estreia das duplas mistas sobre a neozelandesa Erin Routliffe e o britânico Lloyd Glasspool, com as parciais de 5/3 e 4/1, após 58 minutos de partida."
+        "description": "Newport (EUA) –Reviva os momentos que definiram um dos legados mais impactantes do tênis. A série de vídeos “Road to Newport 2026” pavimenta o caminho para a entrada de Roger Federer no Hall da Fama Internacional do Tênis, no próximo sábado."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-terca-25-08.html",
@@ -12,6 +12,13 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/04/bruno_fernandez_campinas_back-1024x683.jpg",
         "date": "25/08/2026",
         "description": "ATP 250 de Winston-Salem (EUA) – Sintético – 818.240Duplas – Primeira rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/serena-e-alcaraz-brilham-na-estreia-em-mistas-do-us-open.html",
+        "title": "Serena e Alcaraz brilham na estreia em mistas do US Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Serena_alcaraz-mistas-us.jpg",
+        "date": "25/08/2026",
+        "description": "Nova York (EUA) –O retorno de Carlos Alcaraz ao circuito aconteceu em grande estilo. O espanhol e a norte-americana Serena Williams marcaram grande vitória na estreia das duplas mistas sobre a neozelandesa Erin Routliffe e o britânico Lloyd Glasspool, com as parciais de 5/3 e 4/1, após 58 minutos de partida."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/melo-cai-na-estreia-ao-lado-de-smith-em-winston-salem.html",
@@ -61,12 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/RioOpen2027-1024x683.jpg",
         "date": "25/08/2026",
         "description": "Rio de Janeiro (RJ) –A organização do Rio Open anunciou que fará investimentos para aprimorar a estrutura do evento já para a edição de 2027. O ATP 500 carioca terá seu complexo ampliado dentro do Jockey Club Brasileiro, com parte das instalações transferida para o espaço conhecido como Pião do Prado."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/serie-de-videos-ilustra-caminho-de-federer-ate-o-hall-da-fama.html",
-        "title": "Série de vídeos ilustra caminho de Federer até o Hall da Fama",
-        "image": null,
-        "date": "25/08/2026",
-        "description": "Newport (EUA) –Reviva os momentos que definiram um dos legados mais impactantes do tênis. A série de vídeos “Road to Newport 2026” pavimenta o caminho para a entrada de Roger Federer no Hall da Fama Internacional do Tênis, no próximo sábado."
     }
 ]
