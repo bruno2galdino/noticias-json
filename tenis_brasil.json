@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/matos-e-luz-percebem-mudanca-de-status-no-mesmo-patamar-dos-melhores.html",
+        "title": "Matos e Luz percebem mudança de status: “No mesmo patamar dos melhores”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/matos-luz-comemoram-cincinnati-2026-1024x683.jpg",
+        "date": "25/08/2026",
+        "description": "Mário Sérgio CruzEspecial para TenisBrasil"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/serena-e-alcaraz-caem-para-bencic-e-cobolli-nas-quartas.html",
+        "title": "Serena e Alcaraz caem para Bencic e Cobolli nas quartas",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/bencic-cobolli-mistas.jpg",
+        "date": "25/08/2026",
+        "description": "Nova York (EUA) –Após grande exibição na estreia da chave de duplas mistas do US Open, Serena Williams e Carlos Alcaraz se despediram nas quartas de final. No complemento da rodada, a suíça Belinda Bencic e o italiano Flavio Cobolli triunfaram por 2 sets a 0, com parciais de 5/4 (7-4) e 4/1, após 55 minutos de jogo."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/serie-de-videos-ilustra-caminho-de-federer-ate-o-hall-da-fama.html",
         "title": "Série de vídeos ilustra caminho de Federer até o Hall da Fama",
         "image": null,
@@ -16,7 +30,7 @@
     {
         "url": "https://tenisbrasil.uol.com.br/serena-e-alcaraz-brilham-na-estreia-em-mistas-do-us-open.html",
         "title": "Serena e Alcaraz brilham na estreia em mistas do US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/Serena_alcaraz-mistas-us.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/serena_alcaraz_mistas_sorrindo.jpg",
         "date": "25/08/2026",
         "description": "Nova York (EUA) –O retorno de Carlos Alcaraz ao circuito aconteceu em grande estilo. O espanhol e a norte-americana Serena Williams marcaram grande vitória na estreia das duplas mistas sobre a neozelandesa Erin Routliffe e o britânico Lloyd Glasspool, com as parciais de 5/3 e 4/1, após 58 minutos de partida."
     },
@@ -44,7 +58,7 @@
     {
         "url": "https://tenisbrasil.uol.com.br/ingrid-vence-ao-lado-de-japonesa-na-estreia-na-filadelfia.html",
         "title": "Ingrid vence ao lado de japonesa na estreia na Filadélfia",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/ingridmartinsatenas265gd-e1784739796175-1024x683.jpg",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/hozumi_ingrid_comemoram.jpg",
         "date": "25/08/2026",
         "description": "Filadélfia (EUA) –Terceira brasileira mais bem colocada no ranking entre as especialistas em duplas, Ingrid Martins estreou com vitória no WTA 125 da Filadélfia, jogando ao lado da japonesa Eri Hozumi."
     },
@@ -54,19 +68,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/monfils-svitolina-mistas1-us.jpg",
         "date": "25/08/2026",
         "description": "Nova York (EUA) –O casal Elina Svitolina e Gael Monfils segue com tudo na chave do torneio de duplas mistas do US Open."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sinner-faz-novos-exames-e-nao-define-data-para-retorno-ao-circuito.html",
-        "title": "Sinner faz novos exames e não define data para retorno ao circuito",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/05/sinner-olha-roma1-1024x683.jpg",
-        "date": "25/08/2026",
-        "description": "Turim (Itália)– Ainda no processo de reabilitação da lesão no joelho direito, o italiano Jannik Sinner foi atendido novamente na manhã de terça-feira no J Medical, em Turim, para fazer novos exames médicos e assim analisar melhor sua condição atual."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/rio-open-tera-complexo-ampliado-e-nova-estrutura-em-2027.html",
-        "title": "Rio Open terá complexo ampliado e nova estrutura em 2027",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/RioOpen2027-1024x683.jpg",
-        "date": "25/08/2026",
-        "description": "Rio de Janeiro (RJ) –A organização do Rio Open anunciou que fará investimentos para aprimorar a estrutura do evento já para a edição de 2027. O ATP 500 carioca terá seu complexo ampliado dentro do Jockey Club Brasileiro, com parte das instalações transferida para o espaço conhecido como Pião do Prado."
     }
 ]
