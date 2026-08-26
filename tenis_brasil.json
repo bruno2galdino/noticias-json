@@ -1,10 +1,31 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/wawrinka-herda-convite-e-conseguira-se-despedir-do-us-open.html",
+        "title": "Wawrinka herda convite e conseguirá se despedir do US Open",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/wawrinka-usopen-1024x683.jpg",
+        "date": "26/08/2026",
+        "description": "Nova York (EUA)– Depois de muita polêmica pela ausência do suíço Stan Wawrinka entre os convidados para o US Open, o campeão do torneio em 2016 acabou conseguindo sua vaga na competição deste ano, podendo assim se despedir de Flushing Meadows em quadra."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/loureiro-cai-em-tres-sets-na-hungria-lago-perde-na-argentina.html",
+        "title": "Loureiro cai em três sets na Hungria, Lago perde na Argentina",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/06/loureiro_brasilia_26_espera.jpg",
+        "date": "26/08/2026",
+        "description": "Pecs (Hungria) –João Victor Loureiro foi surpreendido logo na estreia do M15 de Pecs, evento húngaro disputado sobre o saibro, com US$ [valor] em premiações. Nesta quarta-feira, o mineiro acabou derrotado pelo qualificado local Botond Kisantal por 2 sets a 1, com parciais de 4/6, 6/2 e 6/3."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/o-dia-dos-brasileiros-veja-os-resultados-desta-quarta-26-08.html",
         "title": "O dia dos brasileiros: veja os resultados desta quarta",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2025/07/perovani_back_ecp.jpg",
         "date": "26/08/2026",
         "description": "US Open (Nova York, EUA) – Sintético – US$ 108.000.000Qualificatório masculino – Segunda rodada –Veja a chave"
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/alcaraz-descansa-nesta-quarta-feira-e-espera-pelo-sorteio.html",
+        "title": "Alcaraz descansa nesta quarta-feira e espera pelo sorteio",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/alcaraz-usopen-mistas-2026-1024x683.jpg",
+        "date": "26/08/2026",
+        "description": "Nova York (EUA)– O espanhol Carlos Alcaraz não treinará no US Open nesta quarta-feira, após a exigente sessão de terça-feira contra Arthur Fils e a partida de duplas mistas com Serena Williams. Ele prioriza o descanso depois de treinar todos os dias desde sua chegada a Nova York no domingo."
     },
     {
         "url": "https://tenisbrasil.uol.com.br/serena-e-venus-recebem-convite-para-o-torneio-de-duplas-do-us-open.html",
@@ -47,26 +68,5 @@
         "image": null,
         "date": "26/08/2026",
         "description": "“PEUT-ÊTRE QUE JE DEVRAIS COMMENCER UNE CARRIÈRE EN PICKLEBALL… AVEC JACK SOCK, EN DOUBLE” 😭😭"
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/parry-ja-esta-nas-quartas-de-monterrey-mertens-conhece-rival.html",
-        "title": "Parry já está nas quartas em Monterrey, Mertens conhece rival",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/parry_mtr_fore-1024x682.jpg",
-        "date": "26/08/2026",
-        "description": "Monterrey (México) –A francesa Diane Parry é uma das primeiras classificadas para as quartas de final do WTA 500 de Monterrey, em quadras duras no México. Atual 50ª do ranking aos 23 anos, ela ainda busca seu primeiro título na elite do circuito."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/liutova-mantem-boa-fase-e-estreia-com-vitoria-no-quali-do-us-open.html",
-        "title": "Liutova mantém boa fase e estreia com vitória no quali do US Open",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/liutova_memphis_vibra_semi-1024x683.jpg",
-        "date": "25/08/2026",
-        "description": "Nova York (EUA) –Depois de conquistar seu primeiro título de WTA em Memphis e atingir o melhor ranking da carreira, agora no 125º lugar, a jovem russa de 16 anos Kristina Liutova estreou com vitória no quali do US Open."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/federer-recebe-homenagens-e-vence-exibicao-com-roddick-em-ny.html",
-        "title": "Federer recebe homenagens e vence exibição com Roddick em NY",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/08/federer_uso_26-1024x701.jpg",
-        "date": "25/08/2026",
-        "description": "Nova York (EUA) –A noite de terça-feira foi de homenagens a Roger Federer no Arthur Ashe Stadium. O pentacampeão do torneio e vencedor de 20 títulos de Grand Slam voltou à quadra na semana em que se tornará um novo membro do Hall da Fama do Tênis Internacional."
     }
 ]
