@@ -1,5 +1,47 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/monteiro-tambem-vence-e-completa-rodada-perfeita-em-tulln.html",
+        "title": "Monteiro também vence e completa rodada perfeita em Tulln",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/monteiro_gstaad_vibra.jpg",
+        "date": "08/09/2026",
+        "description": "Tulln (Áustria)– Terceiro brasileiro a estrear no challenger de Tulln, nesta terça-feira, o cearense Thiago Monteiro completou a rodada perfeita para o tênis nacional e conquistou uma suada virada para cima do alemão Max Hans Rehberg com parciais de 6/7 (4-7), 6/3 e 7/6 (7-5)."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/zverev-acho-que-estou-no-caminho-avancando-na-direcao-certa.html",
+        "title": "Zverev: “Acho que estou no caminho, avançando na direção certa”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/zverev-usopen-acena-2026-1024x681.jpg",
+        "date": "08/09/2026",
+        "description": "Nova York (EUA)– Após superar com dificuldade as duas primeiras rodadas do US Open, precisando de cinco sets em cada uma delas, o alemão Alexander Zverev parece ter engrenado na competição e superou seus dois jogos seguintes em sets diretos, garantindo um lugar nas quartas de final."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/rune-confirma-seu-retorno-as-quadras-na-copa-davis.html",
+        "title": "Rune confirma seu retorno às quadras na Copa Davis",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/20250201-Denmark-vs-Serbia-Davis-Cup-Royal-Arena-02926-1600px-1024x683.jpg",
+        "date": "08/09/2026",
+        "description": "Copenhague (Dinamarca)– O dinamarquês Holger Rune voltará à competição ainda este mês, representando seu país na Copa Davis. O atleta de 23 anos está afastado das competições desde outubro passado, quando sofreu uma lesão no tendão de Aquiles em Estocolmo."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/heide-confirma-e-reis-derruba-principal-favorito-na-austria.html",
+        "title": "Heide confirma e Reis derruba principal favorito na Áustria",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/07/heide_milao_back.jpg",
+        "date": "08/09/2026",
+        "description": "Tulln (Áustria)– Primeiro dos três brasileiros a estrear no challenger de Tulln, o paulista Gustavo Heide fez valer a condição de segundo mais bem cotado ao título e derrotou o francês Sean Cuenin (279º) em sets diretos, com parciais de 6/3 e 6/4, em 1h37 de partida."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/khachanov-se-voce-acreditar-tudo-pode-mudar-em-uma-semana.html",
+        "title": "Khachanov: “Se você acreditar, tudo pode mudar em uma semana”",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/khachanov-usope-devolve-2026-1024x681.jpg",
+        "date": "08/09/2026",
+        "description": "Nova York (EUA)– Em uma batalha de cinco sets, duas viradas e quase quatro horas de duração, o russo Karen Khachanovbateu o tenista da casa Learner Tiene seguiu adiante no US Open, chegando nas quartas de final pela sétima vez em um Grand Slam. Após a partida, ele salientou a dificuldade que teve para sair com a vitória."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/wawrinka-vira-ao-brasil-para-fazer-sua-despedida-da-copa-davis.html",
+        "title": "Wawrinka virá ao Brasil para fazer sua despedida da Copa Davis",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/dc_team_suio-1024x645.jpg",
+        "date": "08/09/2026",
+        "description": "Rio de Janeiro (RJ)– O suíço Stan Wawrinka disputará seu último confronto pela Copa Davis contra o Brasil no Rio de Janeiro. Nesta terça-feira, a federação suíça confirmou a presença do veterano tenista na equipe que virá ao país para os duelos nos dias 18 e 19 de setembro."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/gauff-comemora-bom-nivel-e-preve-jogo-duro-contra-andreeva.html",
         "title": "Gauff comemora bom nível e prevê jogo duro contra Andreeva",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/gauff-usopen-back-2026-1-1024x681.jpg",
@@ -19,47 +61,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/blog_rybakina_uso.jpg",
         "date": "08/09/2026",
         "description": "Só faltam dois sets para que Elena Rybakina enfim cumpra seu destino e assuma pela primeira vez a liderança do ranking. A cazaque chegou cheia de dúvidas a Nova York, por conta de um incômodo no tornozelo sentido em Cincinnati, passou dias sem caminhar e uma semana sem treinar. E foi crescendo jogo a jogo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/zverev-celebra-a-50a-vitoria-do-ano-e-enfrenta-o-perigoso-botic-nas-quartas.html",
-        "title": "Zverev celebra a 50ª vitória do ano e enfrenta o perigoso Botic nas quartas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/zverev_uso_desliza_r16.jpg",
-        "date": "08/09/2026",
-        "description": "Nova York (EUA) –Depois de passar aperto ao disputar dez sets nas duas primeiras rodadas do US Open, Alexander Zverev conseguiu sua segunda vitória seguida em sets diretos e garantiu vaga nas quartas de final ao derrotar o italiano Luciano Darderi, 22º do ranking, por 6/2, 6/2 e 7/6 (7-3) em 2h31 de partida. Além disso, o alemão marcou sua 50ª vitória na temporada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/blockx-relata-drama-em-triunfo-estive-muito-perto-de-abandonar.html",
-        "title": "Blockx relata drama em triunfo: “Estive muito perto de abandonar”",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/blockx-estica-us.jpg",
-        "date": "08/09/2026",
-        "description": "Nova York (EUA) –Após alcançar as quartas de final de forma inédita no US Open, Alexander Blockx revelou que esteve perto de abandonar a partida contra Francisco Cerúndolo por conta de fortes dores na costela. O belga resistiu ao problema físico evenceu o argentinopor 6/3, 4/6, 7/5 e 7/5 para fazer história."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/osaka-revela-lesao-mas-valoriza-grande-partida-de-rybakina.html",
-        "title": "Osaka revela lesão, mas valoriza grande partida de Rybakina",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/osaka_usopen_estica.jpg",
-        "date": "07/09/2026",
-        "description": "Nova York (EUA) –Após a derrota nas oitavas de final do US Open, Naomi Osaka falou sobre a lesão no tendão de Aquiles, que já havia incomodado na partida anterior, contra a belga Elise Mertens, e limitou a movimentação no jogo desta segunda-feiradiante de Elena Rybakina. A japonesa entende que as dores atrapalharam, principalmente no saque, mas enalteceu a grande partida da algoz, que está a uma vitória de se tornar a nova número 1 do mundo."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/botic-salva-match-point-e-vira-em-5h13-para-voltar-as-quartas.html",
-        "title": "Botic salva match-point e vira em 5h13 para voltar às quartas",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/botic-back-us.jpg",
-        "date": "07/09/2026",
-        "description": "Nova York (EUA) –Botic van de Zandschulp está de volta às quartas de final do US Open após cinco anos e repete sua melhor campanha em Grand Slam. O holandês buscou grande virada diante do lucky-loser francês Arthur Gea ao sair do buraco para marcar as parciais de 3/6, 6/7 (0-7), 7/6 (9-7), 7/6 (7-3) e 6/4, após 5h13 de batalha."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sabalenka-e-noskova-abrem-a-terca-alcaraz-e-shelton-fecham-a-rodada.html",
-        "title": "Sabalenka e Noskova abrem a terça, Alcaraz e Shelton fecham a rodada",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/noskova_toss_usopen.jpg",
-        "date": "07/09/2026",
-        "description": "Nova York (EUA) –As quartas de final do US Open começam nesta terça-feira, com a definição dos primeiros nomes semifinalistas em Nova York. Todos os jogos de simples estão marcados para o Arthur Ashe Stadium."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/khachanov-derruba-tien-em-cinco-sets-e-volta-as-quartas-apos-4-anos.html",
-        "title": "Khachanov derruba Tien em cinco sets e volta às quartas após 4 anos",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/khachanov_fore_uso_26.jpg",
-        "date": "07/09/2026",
-        "description": "Nova York (EUA) –Em uma equilibrada partida com 3h50 de duração, Karen Khachanov levou a melhor sobre Learner Tien para garantir vaga nas quartas de final do US Open. O experiente russo de 30 anos, ex-top 10 e atual 50º do ranking, derrotou o jovem norte-americano por 7/5, 4/6, 6/7 (6-8), 6/1 e 6/4 nesta segunda-feira."
     }
 ]
