@@ -1,5 +1,19 @@
 [
     {
+        "url": "https://tenisbrasil.uol.com.br/bicampeao-da-adeus-e-norte-americanos-sonham-com-fim-do-jejum.html",
+        "title": "Bicampeão dá adeus e norte-americanos sonham com fim do jejum",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/blog_abraco_tiafoe.jpg",
+        "date": "09/09/2026",
+        "description": "Sem ver um campeão de Grand Slam desde que Andy Roddick surpreendeu com o título de 2003 no US Open, o tênis masculino norte-americano ganhou o direito de sonhar, e com grande chance, de enfim encerrar esse terrível jejum. Ben Shelton impediu o favorito Carlos Alcaraz de brigar pelo tri e segundo troféu consecutivo um jogo histórico e decidirá com Frances Tiafoe quem fará a primeira final de Slam da carreira."
+    },
+    {
+        "url": "https://tenisbrasil.uol.com.br/shelton-derruba-alcaraz-nas-quartas-e-us-open-tera-um-campeao-inedito.html",
+        "title": "Shelton derruba Alcaraz nas quartas e US Open terá um campeão inédito",
+        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/shelton_uso_vibra_qf.jpg",
+        "date": "09/09/2026",
+        "description": "Nova York (EUA) –No jogo que encerrou a programação desta terça-feira no US Open e invadiu a madrugada em Nova York, Ben Shelton eliminou o bicampeão Carlos Alcaraz e garantiu vaga na semifinal do último Grand Slam do ano. O canhoto de 23 anos e número 9 do mundo começou atrás no placar, mas venceu o terceiro colocado por 6/7 (5-7), 6/1, 6/3, 1/6 e 7/6 (10-7) em 4h27 de partida."
+    },
+    {
         "url": "https://tenisbrasil.uol.com.br/tiafoe-defende-grand-slam-em-cinco-sets-e-a-tradicao-do-tenis.html",
         "title": "Tiafoe defende Grand Slam em cinco sets: “É a tradição do tênis”",
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/tiafoe-celebra-us.jpg",
@@ -47,19 +61,5 @@
         "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/iga-usopen-espera-2026-1024x681.jpg",
         "date": "08/09/2026",
         "description": "Nova York (EUA) –A dura virada sofrida por Iga Swiatek nas oitavas de final do US Open gerou críticas por parte da agora comentarista Martina Navratilova. A multicampeã estranhou uma das orientações dadas à polonesa durante aderrota para a chinesa Qinwen Zheng."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/sakamoto-e-dietrich-vencem-e-duelam-nas-oitavas-do-m15-de-leme.html",
-        "title": "Sakamoto e Dietrich vencem e duelam nas oitavas do M15 de Leme",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/sakamoto_leme-1024x768.jpg",
-        "date": "08/09/2026",
-        "description": "Leme (SP) –O paulista Pedro Sakamoto e o gaúcho Pedro Dietrich foram os primeiros brasileiros a vencer pelo M15 de Leme, disputado nas quadras de saibro do Clube de Campo Empyreo. Eles se enfrentam na segunda rodada."
-    },
-    {
-        "url": "https://tenisbrasil.uol.com.br/tiafoe-marca-grande-virada-para-voltar-a-semi-e-ao-top-10.html",
-        "title": "Tiafoe marca grande virada para voltar à semi e ao top 10",
-        "image": "https://tenisbrasil.uol.com.br/wp-content/uploads/2026/09/tiafoe-punho-us.jpg",
-        "date": "08/09/2026",
-        "description": "Nova York (EUA) –Frances Tiafoe está novamente entre os quatro finalistas do US Open. Em batalha norte-americana de cinco sets e 4h39, o cabeça de chave 11 viu o jovem Alex Michelsen sacar para o jogo no terceiro set, mas virou com as parciais de 5/7, 3/6, 7/5, 6/3 e 7/6 (10-6), para alcançar pela terceira vez na carreira as semifinais em Nova York."
     }
 ]
